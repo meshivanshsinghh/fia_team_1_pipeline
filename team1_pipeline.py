@@ -55,10 +55,9 @@ I recently made the difficult decision to break up with my partner. The decision
 
 # Identity constraints. If blank, Stage 0 attempts extraction from source.
 # If extraction returns Unknown, pipeline refuses to proceed.
-DEMOGRAPHICS = "Narrator: F/22, Ghanaian immigrant, first-gen college student, part-time job; Partner: M/26, Ghanaian immigrant"
-GEOGRAPHIC_SETTING = "Boston, Massachusetts"
-CULTURAL_CONTEXT = "African immigrant family expectations for marriage; first-gen daughterly duty; community gatherings over individual celebrations; pressure to marry within the community"
-
+DEMOGRAPHICS = "Muslim American, Irish-American, 27-year-old woman, 60-year-old man"
+GEOGRAPHIC_SETTING = "South Boston"
+CULTURAL_CONTEXT = "Muslim cultural background, navigating interfaith and age-difference dynamics, skepticism about police based on past experiences"
 
 # ============================================================
 # CULTURE / REGISTER DEFINITIONS

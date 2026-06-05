@@ -1,0 +1,345 @@
+{
+  "scenario": "Daniel is truly something special. I’ve been dating him for a few weeks now, and he’s just so attentive, so sweet. He’s younger than me, but he carries himself with such a presence. He works in tech, but he’s very deen-conscious, always making sure we pray Salah on time, Alhamdulillah. He texts me constantly, Morning. What's your day looking like? and then a few hours later, Just thinking about you. Send me a pic of where you're at. It’s a lot, I guess, but I tell myself it’s because he’s just a really passionate man. When I care about someone, I care all the way.\n\nLast night, we went to this beautiful Moroccan place he’d found. He’d already made us a reservation, figured you'd rather not have to think about it. It was so thoughtful. He helped me order, suggesting things he knew I’d like. Later, a waiter complimented my hijab and my dress. Daniel put his arm around me and smiled, She is all mine now, in sha Allah. He said it softly, like a joke, but his tone was... flat for a second. Then it was warm again. I laughed it off, but it stayed with me a little. He later added, I wouldn't call it jealous exactly, more protective. I just like looking after you.\n\nWe were talking about families, and he said, When we have our family, I want them to speak both English and Arabic. It’s sweet, right? But then later, when I didn’t reply to a text right away, he messaged, You went quiet on me earlier. Everything okay? When I called him, he said, I’m a simple guy. If I text someone I care about, I just like to hear back. That’s all respect really is to me. I’m probably overthinking it, but is it normal to define respect like that so early?",
+  "snippets": [
+    {
+      "quote": "Daniel is truly something special.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator's positive framing, indicating absorption of his persona and a nascent sense of being chosen, often preceding rationalization of concerning behaviors."
+    },
+    {
+      "quote": "he’s just so attentive, so sweet.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator's positive interpretation of his behavior, which can mask underlying control or intensity. The word 'sweet' acts as a closure word, dismissing potential concerns."
+    },
+    {
+      "quote": "He’s younger than me, but he carries himself with such a presence.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Introduces an age asymmetry and highlights his perceived authority or gravitas despite being younger, signaling an early power dynamic in the relationship."
+    },
+    {
+      "quote": "He works in tech, but he’s very deen-conscious, always making sure we pray Salah on time, Alhamdulillah.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Control-high",
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes his religious identity and commitment, which is a positive within the community, but also hints at his expectation of her adherence to his standards, subtly exercising control."
+    },
+    {
+      "quote": "Morning. What's your day looking like?",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Boundaries-low",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Establishes a baseline of constant communication, which can later become an expectation and a form of surveillance, initially disguised as simple affection."
+    },
+    {
+      "quote": "Just thinking about you. Send me a pic of where you're at.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Boundaries-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Normalizes reporting her location as a romantic gesture, subtly steering her behavior and establishing a sense of monitoring disguised as affection and care."
+    },
+    {
+      "quote": "It’s a lot, I guess, but I tell myself it’s because he’s just a really passionate man. When I care about someone, I care all the way.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Narrator rationalizes his overwhelming intensity by adopting his self-framing, accepting his possessiveness as a virtue rather than a boundary violation. His self-declaration pre-frames future possessiveness as passion."
+    },
+    {
+      "quote": "Last night, we went to this beautiful Moroccan place he’d found.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His initiative and planning are presented as thoughtful gestures, but also centralize his agency in decision-making for shared activities, subtly reducing her input."
+    },
+    {
+      "quote": "He’d already made us a reservation, figured you'd rather not have to think about it.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Takes over a shared decision, framing it as benevolent care, but bypassing her input and subtly establishing his role as the one who plans and decides for them both."
+    },
+    {
+      "quote": "It was so thoughtful.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator's positive interpretation reinforces the benevolent framing of his controlling behavior, making it harder for her to identify the underlying dynamic."
+    },
+    {
+      "quote": "He helped me order, suggesting things he knew I’d like.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A small act of control over her choices, dressed as helpfulness and intimate knowledge, which can subtly erode her independent agency and decision-making."
+    },
+    {
+      "quote": "Later, a waiter complimented my hijab and my dress.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Provides cultural context and sets up the next interaction where Daniel reacts to external attention on Aisha, which he perceives as a threat to his ownership."
+    },
+    {
+      "quote": "Daniel put his arm around me and smiled, She is all mine now, in sha Allah.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high",
+        "Dominance-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Coercive Control"
+      ],
+      "reasoning": "Possessive language, framed as a joke, asserts ownership and control over her public presentation and identity, using a religious phrase to soften the impact and make it seem culturally normal."
+    },
+    {
+      "quote": "He said it softly, like a joke, but his tone was... flat for a second. Then it was warm again.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Dysregulation-high",
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Psychopathy / Terror"
+      ],
+      "reasoning": "A subtle glimpse of an unpredictable shift in his demeanor, instantly repaired. This teaches her there's a line she's not sure of, creating a fear-seed, while the repair normalizes the shift."
+    },
+    {
+      "quote": "I laughed it off, but it stayed with me a little.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Narrator dismisses her discomfort to maintain the peace, but her internal experience registers the unsettling nature of the comment, indicating a nascent internal red flag that she is already learning to suppress."
+    },
+    {
+      "quote": "He later added, I wouldn't call it jealous exactly, more protective. I just like looking after you.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Isolation-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Reframes possessive jealousy as benevolent protection and ownership, denying the underlying control while explicitly stating his desire to 'look after' her, making his control seem like care."
+    },
+    {
+      "quote": "When we have our family, I want them to speak both English and Arabic.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Projects future control over her life and potential children, framing it as a shared vision, but implying his unilateral decision-making in family matters, eroding her future agency."
+    },
+    {
+      "quote": "It’s sweet, right?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator seeks external validation for her positive interpretation, showing her attempt to rationalize his controlling future-talk and her nascent discomfort."
+    },
+    {
+      "quote": "You went quiet on me earlier. Everything okay?",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Boundaries-low",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Establishes an expectation of immediate responsiveness, framing her silence as a problem she needs to account for, seeding carefulness about reply speed and making her responsible for his mood."
+    },
+    {
+      "quote": "I’m a simple guy. If I text someone I care about, I just like to hear back. That’s all respect really is to me.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth",
+        "Fairness",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Defines 'respect' unilaterally as compliance with his communication demands, disavowing control while asserting his authority to set the rules for the relationship, recoding her autonomy as disrespect."
+    },
+    {
+      "quote": "I’m probably overthinking it, but is it normal to define respect like that so early?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing line, where the narrator expresses a small, socially acceptable concern, demonstrating her self-doubt and internalizing his framing, rather than identifying the structural issue."
+    }
+  ]
+}

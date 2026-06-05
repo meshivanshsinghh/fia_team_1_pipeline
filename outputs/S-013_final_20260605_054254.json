@@ -1,0 +1,325 @@
+{
+  "scenario": "I just started seeing Jake a couple of weeks ago, and everything feels so new and exciting. We met volunteering at a Filipino cultural event in Daly City. He's so different from anyone I've dated, in the best way. Last weekend, he surprised me by showing up at my cousin's baptism, saying he just wanted to know everything about my world and my culture. My Tita was so charmed, and my Lolo kept telling me what a good man he seemed. Jake even drove us home afterwards, insisting he wanted to make sure I was safe with him, which was sweet because I was exhausted. He's always planning our outings so perfectly, down to the smallest detail, and it’s genuinely nice to feel so taken care of.\n\nThe other night, we were making lumpia at my place, and he watched me roll them for ages. He said, \"You have such a feminine spirit, you know? So nurturing. You’d be such a good mother.\" It felt sweet, but also a little… fast? I mean, we've only been together a few weeks. He then talked about how much he values old-fashioned things, saying he's looking for a family-oriented woman. Later, he asked me, \"How do you feel about traditional gender roles?\" He explained he wants to lead and protect his woman. I told him I appreciate a man who takes initiative, and he just smiled, calling me his \"princess.\" It felt like a compliment, but it also made me wonder if I was supposed to agree with everything. I really like him, and he’s so caring. I'm probably overthinking it.\n\nI guess I'm just wondering, is it normal for someone to talk about 'feminine spirit' and 'traditional gender roles' so early on?",
+  "snippets": [
+    {
+      "quote": "I just started seeing Jake a couple of weeks ago, and everything feels so new and exciting.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator's early intensity and excitement can be a vulnerability to love-bombing, making her more receptive to his flattering but prescriptive advances."
+    },
+    {
+      "quote": "We met volunteering at a Filipino cultural event in Daly City.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the cultural context and geographic setting, indicating his active engagement with her community."
+    },
+    {
+      "quote": "He's so different from anyone I've dated, in the best way.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This statement, often a product of love-bombing, elevates him as uniquely special, creating a sense of scarcity and increasing his perceived value to the narrator."
+    },
+    {
+      "quote": "he surprised me by showing up at my cousin's baptism",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Showing up unannounced at a private family event, even if framed as a sweet surprise, is an early boundary overstep that establishes a sense of constant presence and access."
+    },
+    {
+      "quote": "saying he just wanted to know everything about my world and my culture.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Exploitation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Frames his intense interest in her culture as a virtue, but it's also a way to gain access and knowledge to later leverage or control her identity, making her feel 'seen' but also observed."
+    },
+    {
+      "quote": "My Tita was so charmed, and my Lolo kept telling me what a good man he seemed.",
+      "signal_type": "Power Information",
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His charm effectively recruits her family as allies, making it harder for her to later voice concerns without appearing to contradict her family's positive judgment of him."
+    },
+    {
+      "quote": "Jake even drove us home afterwards, insisting he wanted to make sure I was safe with him, which was sweet because I was exhausted.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes control of her mobility and frames it as protection and care, creating dependency and reducing her agency while she is tired and vulnerable."
+    },
+    {
+      "quote": "He's always planning our outings so perfectly, down to the smallest detail",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "While seemingly thoughtful, this establishes a pattern where he controls the shared experience, leaving little room for her input or spontaneous choice, creating a sense of being managed."
+    },
+    {
+      "quote": "it’s genuinely nice to feel so taken care of.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator internalizes his controlling behavior as a positive, making her less likely to question it and framing her dependency as a desirable state."
+    },
+    {
+      "quote": "we were making lumpia at my place, and he watched me roll them for ages.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Exploitation-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This highlights a cultural domestic activity he observes rather than participates in, framing her labor as a spectacle for his appreciation, rather than a shared experience, and collecting her culture as an aesthetic."
+    },
+    {
+      "quote": "He said, \"You have such a feminine spirit, you know? So nurturing. You’d be such a good mother.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Coercive Control"
+      ],
+      "reasoning": "This is a direct tradwife-recruiting compliment that evaluates her against traditional feminine roles, setting early expectations for her identity and future role as a mother, which is prescriptive despite feeling flattering."
+    },
+    {
+      "quote": "It felt sweet, but also a little… fast?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator registers a slight discomfort with the intensity and speed of his projections, but dismisses it as her own feeling rather than a signal about his behavior."
+    },
+    {
+      "quote": "He then talked about how much he values old-fashioned things",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Unorthodoxy-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a direct statement of his ideological alignment with traditional values, signaling his expectations for the relationship's structure and her role within it, under the guise of shared values."
+    },
+    {
+      "quote": "saying he's looking for a family-oriented woman.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This phrase, while seemingly positive, is a common tradwife-recruiting signal that pre-loads expectations for her to prioritize domestic and familial roles over personal or career ambitions."
+    },
+    {
+      "quote": "Later, he asked me, \"How do you feel about traditional gender roles?\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Openness-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A direct probe to assess her alignment with his traditional ideology, pushing her to declare her stance on a potentially divisive topic early on, testing her conformity."
+    },
+    {
+      "quote": "He explained he wants to lead and protect his woman.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This statement clearly articulates his desire for a hierarchical relationship where he holds the dominant position, framing it as protective rather than controlling, thereby making it difficult to object."
+    },
+    {
+      "quote": "I told him I appreciate a man who takes initiative",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator attempts to affirm a positive aspect of his behavior without fully endorsing the underlying traditional ideology, showcasing her attempt to navigate his expectations while maintaining harmony."
+    },
+    {
+      "quote": "he just smiled, calling me his \"princess.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Coercive Control"
+      ],
+      "reasoning": "This possessive endearment, common in tradwife circles, infantilizes her and reinforces a hierarchical dynamic where he is the protector and she is the dependent, often used to dismiss her emerging boundaries."
+    },
+    {
+      "quote": "It felt like a compliment, but it also made me wonder if I was supposed to agree with everything.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator registers the subtle pressure to conform to his expectations, indicating a nascent awareness of the conditional nature of his affection and the demand for ideological alignment."
+    },
+    {
+      "quote": "I really like him, and he’s so caring. I'm probably overthinking it.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator rationalizes her discomfort by attributing it to her own overthinking, dismissing her intuition and reinforcing his positive image, which is a common effect of early manipulation."
+    },
+    {
+      "quote": "is it normal for someone to talk about 'feminine spirit' and 'traditional gender roles' so early on?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The closing question focuses on the social acceptability of his language rather than the deeper implications of his expectations, reflecting her attempts to normalize his behavior and seek external validation for her feelings."
+    }
+  ]
+}

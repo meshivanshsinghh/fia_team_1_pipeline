@@ -1,0 +1,283 @@
+{
+  "scenario": "I met Ahmed at the community center's cultural event here in Dearborn, and it's been a whirlwind since. He's just so sweet and intense. From the first week, he was always texting, \"Morning. What's your day looking like?\" or \"Just thinking about you. Send me a pic of where you're at.\" It felt so good, like I was finally with someone who truly saw me. He even planned our second date around a traditional dabke performance downtown, saying, \"I just know you'd love seeing our culture celebrated like that.\" It was such a thoughtful gesture. He insists on driving me everywhere, even to my cousin’s house which is only a few blocks away. \"I'll drive you,\" he said last Tuesday, \"I don't love the idea of you out on your own that late.\" It's sweet, I guess, that he's so protective. He told me, \"I'm just a really passionate man. When I care about someone, I care all the way.\" He even said, \"I love hard and I expect a lot, I won't apologize for that. Most people can't handle it.\" I guess I like that he knows what he wants. Last night, I mentioned meeting up with my friends for coffee this weekend. He went quiet for a beat, just a second, then said, \"Why don't you call your friend tomorrow instead, stay in with me tonight. I've barely had you to myself lately.\" He added, \"Frankly, I think when you're really with someone they kind of become your priority, you know?\" It felt a little off, but he smiled and pulled me close, saying, \"I just like looking after you.\" I don't know, is it normal to feel a little guilty about wanting to see my friends?",
+  "snippets": [
+    {
+      "quote": "I met Ahmed at the community center's cultural event here in Dearborn",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the setting and cultural context of the relationship's origin within the Arab-American community."
+    },
+    {
+      "quote": "He's just so sweet and intense.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator's initial positive framing of his overwhelming attention, absorbing his intensity as a desirable trait. The 'sweet' softens the 'intense'."
+    },
+    {
+      "quote": "From the first week, he was always texting, 'Morning. What's your day looking like?' or 'Just thinking about you. Send me a pic of where you're at.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Constant communication love-bombing. Establishes a baseline of daily contact and reporting, normalizing surveillance under the guise of care and romantic interest."
+    },
+    {
+      "quote": "It felt so good, like I was finally with someone who truly saw me.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Narrator's internal absorption of the love-bombing, interpreting intense attention as genuine deep connection and validation she may have lacked previously."
+    },
+    {
+      "quote": "He even planned our second date around a traditional dabke performance downtown, saying, 'I just know you'd love seeing our culture celebrated like that.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes control of planning, using her cultural heritage as a tool for a 'thoughtful' gesture. This positions him as the discerning planner who understands her, while also subtly exploiting her identity for his charm."
+    },
+    {
+      "quote": "It was such a thoughtful gesture.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Narrator's positive interpretation of his controlling planning, seeing it as thoughtfulness rather than an assertion of control over shared activities."
+    },
+    {
+      "quote": "He insists on driving me everywhere, even to my cousin’s house which is only a few blocks away.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Establishes a mobility gap and control over her movement, even for short distances, framing it as a natural part of his role."
+    },
+    {
+      "quote": "'I'll drive you,' he said last Tuesday, 'I don't love the idea of you out on your own that late.'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A polite directive disguised as protection. He dictates her movement and frames it as concern for her safety, thereby centralizing his agency and eroding her independence."
+    },
+    {
+      "quote": "It's sweet, I guess, that he's so protective.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Narrator's rationalization of his controlling behavior, internalizing it as a desirable 'protective' quality, diminishing her own discomfort."
+    },
+    {
+      "quote": "He told me, 'I'm just a really passionate man. When I care about someone, I care all the way.'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Intensity-high",
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Self-declaration that frames his intensity as a fixed, admirable trait she must accommodate. This pre-frames future possessiveness as passion and recruits her to accept it."
+    },
+    {
+      "quote": "He even said, 'I love hard and I expect a lot, I won't apologize for that. Most people can't handle it.'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high",
+        "Dominance-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Coercive Control"
+      ],
+      "reasoning": "Up-position framing combined with a strong/weak story. He defines his high expectations as a virtue most people are too weak to meet, recruiting her to prove she is exceptional by complying."
+    },
+    {
+      "quote": "I guess I like that he knows what he wants.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Narrator's absorption of his rigid expectations and dominance, framing it as a positive trait of decisiveness, rather than a precursor to control."
+    },
+    {
+      "quote": "Last night, I mentioned meeting up with my friends for coffee this weekend.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Isolation"
+      ],
+      "reasoning": "This is the narrator's attempt to assert her independent social life, which then triggers his isolating behavior."
+    },
+    {
+      "quote": "He went quiet for a beat, just a second, then said, 'Why don't you call your friend tomorrow instead, stay in with me tonight. I've barely had you to myself lately.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Reacts-badly-to-no",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Passive-aggressive reaction to her independence, followed by a polite directive to isolate her. He discourages her social plans by centering his own desire for her time, using ownership language ('had you to myself')."
+    },
+    {
+      "quote": "He added, 'Frankly, I think when you're really with someone they kind of become your priority, you know?'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Red Pill framing of commitment as isolation, disguised as mutual priority. The word 'Frankly' is a Red Pill verbal tic. This sets a standard where her friends are secondary to him."
+    },
+    {
+      "quote": "It felt a little off, but he smiled and pulled me close, saying, 'I just like looking after you.'",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Deception-high",
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Coercive Control"
+      ],
+      "reasoning": "Narrator registers discomfort, but he instantly repairs the moment with a charming physical gesture and a possessive statement ('looking after you') that re-frames his control as care, making her dismiss her intuition."
+    },
+    {
+      "quote": "I don't know, is it normal to feel a little guilty about wanting to see my friends?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The closing question reveals the narrator's internal conflict and self-blame, indicating that his isolating moves have successfully created a sense of obligation and guilt around her independent desires."
+    }
+  ]
+}

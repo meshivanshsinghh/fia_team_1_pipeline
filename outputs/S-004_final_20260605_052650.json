@@ -1,0 +1,264 @@
+{
+  "scenario": "Things with Rahul have been such a whirlwind these past few weeks. I feel like I've known him forever, and it's all just so... intense. Last night, he surprised me with this amazing dinner overlooking the Bay. He insisted on picking me up, even though I offered to meet him, saying he just wanted to make sure I wasn't stressed after work. He texts me constantly throughout the day, little messages like, 'I just cannot stop thinking about you.' It’s sweet, you know? He asks so many questions about my family, where my parents are from, what their last names are, our traditions. He seems genuinely interested, which is nice because sometimes guys don't really get the whole South Asian family thing. The other day, I was telling him about my cousin's big wedding planning, and he just kind of laughed and said, 'You, of all people, should know that family can be intense.' I guess he meant it sweetly, like he understands the dynamics, even if it felt a little... pointed. He's already talking about the future, like how he'd love to meet my parents soon. He even mentioned that when we have kids, they'll definitely be bilingual, speaking both English and... well, he just assumed Hindi, which is interesting since my family speaks Punjabi. It's a small thing, I know, just a slip. Then, when I brought up plans with my friends for brunch this weekend, he teased, 'I just want you all to myself, jaan.' He was smiling when he said it, so I know he was joking. I’m probably overthinking it, but is it normal to feel a little... I don't know, like I have to defend my friends?",
+  "snippets": [
+    {
+      "quote": "Things with Rahul have been such a whirlwind these past few weeks.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator perceives the relationship's rapid pace as exciting ('whirlwind') and intense, indicating a fast-moving emotional connection that can be a hallmark of enmeshment."
+    },
+    {
+      "quote": "I feel like I've known him forever, and it's all just so... intense.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator's feeling of having known him 'forever' in a short time, coupled with the 'intense' descriptor, suggests a rapid emotional merging and a blurring of relationship timelines, which is a common feature of enmeshment."
+    },
+    {
+      "quote": "Last night, he surprised me with this amazing dinner overlooking the Bay.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A grand, public romantic gesture that is designed to create a sense of awe and indebtedness, positioning him as an exceptional partner."
+    },
+    {
+      "quote": "He insisted on picking me up, even though I offered to meet him, saying he just wanted to make sure I wasn't stressed after work.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He overrides her choice, framing his control over transportation as care. This establishes a mobility asymmetry where he dictates the logistics, reducing her agency."
+    },
+    {
+      "quote": "He texts me constantly throughout the day, little messages like, 'I just cannot stop thinking about you.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Constant, intense communication and declarations of preoccupation are a form of love-bombing, creating a sense of being constantly desired and centered, but also demanding her attention."
+    },
+    {
+      "quote": "It’s sweet, you know?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator's immediate rationalization and positive framing of his intense behavior, using a generic positive term, indicates her absorption of his narrative and a dismissal of any underlying discomfort."
+    },
+    {
+      "quote": "He asks so many questions about my family, where my parents are from, what their last names are, our traditions.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "These are standard South Asian identity probes, but his 'many questions' suggest an intense information gathering, which can be used to map her social capital and vulnerabilities."
+    },
+    {
+      "quote": "He seems genuinely interested, which is nice because sometimes guys don't really get the whole South Asian family thing.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator feels validated by his interest, interpreting it as genuine understanding rather than a strategic information-gathering or a way to differentiate himself from 'other guys'."
+    },
+    {
+      "quote": "The other day, I was telling him about my cousin's big wedding planning",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This detail provides cultural context, indicating the importance of family events and traditional gatherings within the South Asian community."
+    },
+    {
+      "quote": "he just kind of laughed and said, 'You, of all people, should know that family can be intense.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Cognitive Flexibility-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is a backhanded compliment or a teasing comment that subtly invalidates her experience by generalizing about her cultural background, positioning him as the arbiter of 'intensity' and implying she should align with his interpretation."
+    },
+    {
+      "quote": "I guess he meant it sweetly, like he understands the dynamics, even if it felt a little... pointed.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator rationalizes his dismissive comment, trying to fit it into a positive framework ('sweetly'), even while acknowledging a subtle discomfort ('a little... pointed'), indicating her struggle to reconcile his behavior with her positive perception of him."
+    },
+    {
+      "quote": "He's already talking about the future, like how he'd love to meet my parents soon.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Rapid future-pacing, especially involving family, accelerates the relationship beyond its natural progression, creating a premature sense of deep commitment and enmeshment."
+    },
+    {
+      "quote": "He even mentioned that when we have kids, they'll definitely be bilingual, speaking both English and... well, he just assumed Hindi",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "This is an extreme form of future-pacing, dictating future family choices (children's language) and making an assumption about her cultural heritage (Hindi instead of Punjabi), which subtly erases her specific identity."
+    },
+    {
+      "quote": "which is interesting since my family speaks Punjabi. It's a small thing, I know, just a slip.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The narrator minimizes his error and her discomfort, rationalizing it as a 'small thing' or 'slip' rather than a disregard for her specific cultural identity, showing her tendency to overlook potentially dismissive behavior."
+    },
+    {
+      "quote": "Then, when I brought up plans with my friends for brunch this weekend, he teased, 'I just want you all to myself, jaan.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This possessive statement, even framed as 'teasing' and using a cultural endearment, signals a desire to monopolize her time and isolate her from her social circle, while making it difficult for her to object."
+    },
+    {
+      "quote": "He was smiling when he said it, so I know he was joking.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator uses his smile as proof that his possessive comment was 'joking,' dismissing her own internal discomfort and rationalizing away a subtle but significant boundary push."
+    },
+    {
+      "quote": "I’m probably overthinking it, but is it normal to feel a little... I don't know, like I have to defend my friends?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question shows her self-doubt and tendency to blame herself for her discomfort, while also revealing the underlying pressure she feels to justify her independent social life."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "scenario": "I've been in Boston for a few months now on my student visa, and meeting Ryan has made everything feel so different. He’s in tech, has this incredible drive, and his confidence is just magnetic. We’ve only been seeing each other a few weeks, but it feels really intense, like we’ve known each other forever. He texts me every morning, \"Morning. What's your day looking like?\" and throughout the day, \"Just thinking about you. Send me a pic of where you're at.\" It’s sweet, like he genuinely wants to be connected. The other day, I was swamped with an assignment and didn't reply for a couple of hours. He texted, \"You went quiet on me earlier. Everything okay?\" When I explained, he said, \"I'm a simple guy. If I text someone I care about, I just like to hear back. That's all respect really is to me.\" It made me feel a little bad, like I’d let him down, even though I was just focused. He often talks about his \"mission\" and how he's \"on his purpose,\" which I admire. He's really into BJJ training and cold plunges, always optimizing. Last night, I mentioned a study group, and he immediately suggested, \"Why don't you call your friend tomorrow instead, stay in with me tonight. I've barely had you to myself.\" It felt a little sudden, but I guess I understood. He then said, \"You're not really going to keep talking to other guys now that we're a thing, right? ...kidding, kidding, no pressure.\" I laughed it off, but it stayed with me. He also mentioned, \"I think when you're really with someone they kind of become your priority, you know?\" It’s all so intense, but he makes me feel so special. I just wonder, is it normal to feel a bit guilty for needing space?",
+  "snippets": [
+    {
+      "quote": "I've been in Boston for a few months now on my student visa",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the narrator's vulnerability and potential reliance on external factors, making her more susceptible to control."
+    },
+    {
+      "quote": "meeting Ryan has made everything feel so different.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The narrator attributes a significant internal shift to meeting him, suggesting a reliance on him for her sense of well-being or excitement."
+    },
+    {
+      "quote": "He’s in tech, has this incredible drive, and his confidence is just magnetic.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Positions the partner as high-status within the tech industry, and highlights his appealing qualities, setting up a power dynamic."
+    },
+    {
+      "quote": "We’ve only been seeing each other a few weeks, but it feels really intense, like we’ve known each other forever.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The rapid acceleration of intimacy and feeling of profound connection is a hallmark of love-bombing, creating a sense of enmeshment early on."
+    },
+    {
+      "quote": "He texts me every morning, \"Morning. What's your day looking like?\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Establishes a baseline of constant daily contact, which can later become an expectation or demand, subtly eroding her personal space."
+    },
+    {
+      "quote": "throughout the day, \"Just thinking about you. Send me a pic of where you're at.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Normalizes reporting her location as a romantic gesture, subtly steering her behavior and establishing a monitoring pattern under the guise of care."
+    },
+    {
+      "quote": "It’s sweet, like he genuinely wants to be connected.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The narrator rationalizes his constant contact as genuine connection, absorbing his behavior into a positive framework and dismissing potential discomfort."
+    },
+    {
+      "quote": "You went quiet on me earlier. Everything okay?",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds caring but installs the expectation of immediate responsiveness. A gap in communication now requires explanation, seeding carefulness about reply speed."
+    },
+    {
+      "quote": "I'm a simple guy. If I text someone I care about, I just like to hear back. That's all respect really is to me.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He defines 'respect' as compliance to his communication demands, using an unarguable value to assert control and frame her ordinary unavailability as disrespect."
+    },
+    {
+      "quote": "It made me feel a little bad, like I’d let him down, even though I was just focused.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator internalizes guilt for prioritizing her work, demonstrating the effectiveness of his 'respect-as-compliance' framing and eroding her sense of autonomous decision-making."
+    },
+    {
+      "quote": "He often talks about his \"mission\" and how he's \"on his purpose,\" which I admire.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "These are Red Pill phrases that frame his life goals as a 'mission,' positioning him as a driven, superior individual whose pursuits should be prioritized and admired."
+    },
+    {
+      "quote": "He's really into BJJ training and cold plunges, always optimizing.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "These are common lifestyle markers within the Red Pill and optimization subcultures, signaling his commitment to physical discipline and self-improvement, which can be seen as admirable."
+    },
+    {
+      "quote": "Why don't you call your friend tomorrow instead, stay in with me tonight. I've barely had you to myself.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a polite directive that discourages her independent social activity, framed as romantic desire. The phrase 'had you to myself' implies ownership and a desire to monopolize her time."
+    },
+    {
+      "quote": "It felt a little sudden, but I guess I understood.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator's internal rationalization of his directive, dismissing her initial discomfort and accepting his desire as a valid reason to alter her plans."
+    },
+    {
+      "quote": "You're not really going to keep talking to other guys now that we're a thing, right? ...kidding, kidding, no pressure.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is a 'test-and-apologize' boundary probe. He asserts a possessive boundary, then retracts it with 'kidding, no pressure,' allowing him deniability while gauging her reaction to control."
+    },
+    {
+      "quote": "I laughed it off, but it stayed with me.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The narrator performs an outward dismissal of the comment but internally registers discomfort, indicating that the 'joke' landed as a subtle but real boundary violation."
+    },
+    {
+      "quote": "I think when you're really with someone they kind of become your priority, you know?",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This phrase redefines commitment as isolation, suggesting that a partner should become her sole priority, subtly eroding her existing social connections under the guise of devotion."
+    },
+    {
+      "quote": "It’s all so intense, but he makes me feel so special.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The narrator acknowledges the intensity but rationalizes it as a positive, linking it to feeling 'special,' which is a common hook in love-bombing."
+    },
+    {
+      "quote": "I just wonder, is it normal to feel a bit guilty for needing space?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The closing question reveals the narrator's internalization of his expectations, leading her to question her own needs and boundaries rather than his behavior."
+    }
+  ]
+}

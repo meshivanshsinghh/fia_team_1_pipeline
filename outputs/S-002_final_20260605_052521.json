@@ -1,0 +1,340 @@
+{
+  "scenario": "Things with Alex are moving fast, but in the best way. It’s only been a few weeks, but I feel like we’re really dialed in. He’s so intentional about everything, from his morning routine to his work. Last night was a perfect example. I’d just landed a huge client, and he insisted on celebrating. He said, \"Don't worry about the bill, I've got it. I take care of my person, that's just how I am.\" He’d already made us a reservation at that new rooftop spot downtown, figuring I’d rather not have to think about it after a crazy week. It was sweet, honestly.At the bar, he introduced me to some of his friends. He was so proud, calling me 'my marketing genius' to everyone. One of his buddies, Mark, complimented my Instagram, saying my travel photos were really cool. Alex just kind of smiled, then later, when we were alone for a second, he leaned in and whispered, \"I didn't love how that guy was looking at you. I'm pretty protective of the people I care about.\" It was intense, but also kind of good, you know? Like he really meant it.Then he added, \"You're not really going to keep talking to other guys now that we're a thing, right?\" He saw my face and quickly said, \"...kidding, kidding, no pressure.\" But then he got serious, \"Look, I'll be honest, I'm a jealous guy. It's only because I'm so crazy about you. I love hard and I expect a lot, I won't apologize for that.\" It felt like a lot, but also, I’ve never felt so wanted. He's just so passionate.He also asked if I was still planning on that brunch with my friends this weekend. \"You could skip that one and stay in with me,\" he said. \"I've barely had you to myself lately.\" It made me feel special, like he really values our time. I told him I really wanted to go to brunch, and he just went, \"Wow. Okay. I just thought you'd want to spend the time with me, but no, it's fine.\" He went quiet for a minute, then brightened up again. I felt a little bad, like I'd let him down.Is it normal to feel this much intensity this early on, or am I just overthinking the way he said that about my Instagram?",
+  "snippets": [
+    {
+      "quote": "Things with Alex are moving fast, but in the best way.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator's absorption of the relationship's rapid pace as positive, indicating early intensity that can lead to enmeshment."
+    },
+    {
+      "quote": "I feel like we’re really dialed in.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "\"Dialed in\" is Red Pill coded for discipline and alignment. Here, it suggests a premature sense of deep synchronicity, potentially masking a lack of individual boundaries."
+    },
+    {
+      "quote": "He’s so intentional about everything, from his morning routine to his work.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Red Pill framing of self-discipline and purpose (\"intentional\") as a positive trait, which can later be used to justify his unavailability or rigid expectations."
+    },
+    {
+      "quote": "Don't worry about the bill, I've got it. I take care of my person, that's just how I am.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Provider-frame: generosity as the up-position ('I take care of', 'my person'). This seeds emotional debt and frames her as \"his person\" to be taken care of, asserting his role as leader."
+    },
+    {
+      "quote": "He’d already made us a reservation at that new rooftop spot downtown, figuring I’d rather not have to think about it after a crazy week.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Takes over a shared decision framed as relieving her. Early it's attractive leadership; the not-consulting is the seam where her agency is bypassed."
+    },
+    {
+      "quote": "It was sweet, honestly.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator's rationalization, dismissing any underlying discomfort and absorbing his controlling behavior as simple kindness."
+    },
+    {
+      "quote": "He was so proud, calling me 'my marketing genius' to everyone.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He uses her achievements for his own social status, positioning himself as associated with an exceptional person. The \"my\" implies ownership."
+    },
+    {
+      "quote": "One of his buddies, Mark, complimented my Instagram, saying my travel photos were really cool.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Provides social context and sets up the following control-based interaction."
+    },
+    {
+      "quote": "I didn't love how that guy was looking at you. I'm pretty protective of the people I care about.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Jealousy reframed as protection and ownership. The threat is externalized (other men), making his possessiveness seem like care."
+    },
+    {
+      "quote": "It was intense, but also kind of good, you know? Like he really meant it.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator interprets his possessive intensity as a sign of genuine feeling, absorbing it as positive and dismissing the underlying control."
+    },
+    {
+      "quote": "You're not really going to keep talking to other guys now that we're a thing, right?",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A boundary probe disguised as a question. It tests her tolerance for possessive control over her social interactions."
+    },
+    {
+      "quote": "...kidding, kidding, no pressure.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Deception-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The \"kidding/no pressure\" is a retractable cover, allowing him to deny the test while still having planted the seed of control."
+    },
+    {
+      "quote": "Look, I'll be honest, I'm a jealous guy. It's only because I'm so crazy about you.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Coercive Control"
+      ],
+      "reasoning": "Confesses possessiveness as a charming flaw rooted in love. This pre-frames future controlling behavior as a consequence of his deep feelings for her, making it her responsibility to manage."
+    },
+    {
+      "quote": "I love hard and I expect a lot, I won't apologize for that.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Up-position framing: defines his intensity and high expectations as admirable, non-negotiable traits she must accommodate. This pre-frames future demands as part of his \"love.\""
+    },
+    {
+      "quote": "It felt like a lot, but also, I’ve never felt so wanted. He's just so passionate.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator rationalizes the overwhelming intensity as a positive sign of being wanted, dismissing the \"felt like a lot\" as her own issue rather than a signal of disproportionate demands."
+    },
+    {
+      "quote": "He also asked if I was still planning on that brunch with my friends this weekend.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A subtle probe into her independent social plans, setting the stage for an attempt to redirect her time."
+    },
+    {
+      "quote": "You could skip that one and stay in with me,' he said. 'I've barely had you to myself lately.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Directs her social time, wrapped in romantic wanting. \"Had you to myself\" is ownership language, gently isolating her from her friends under the guise of devotion."
+    },
+    {
+      "quote": "I told him I really wanted to go to brunch, and he just went, 'Wow. Okay. I just thought you'd want to spend the time with me, but no, it's fine.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Conflict-high",
+        "Dysregulation-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Reacts negatively when she says no, using wounded cooling/sulk. The \"it's fine\" (clearly not fine) makes her decline cost something emotionally, training her to prioritize his mood."
+    },
+    {
+      "quote": "He went quiet for a minute, then brightened up again.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Dysregulation-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The sudden shift in mood creates unpredictability. The quick repair with a return to warmth teaches her there's a line she shouldn't cross, seeding fear."
+    },
+    {
+      "quote": "I felt a little bad, like I'd let him down.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "Narrator internalizes his negative reaction as her fault, feeling responsible for his mood. This is a direct consequence of his \"reacts badly to no\" behavior."
+    },
+    {
+      "quote": "Is it normal to feel this much intensity this early on, or am I just overthinking the way he said that about my Instagram?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question highlights her self-doubt and focuses on a small, specific detail, rather than the broader pattern of control and possessiveness."
+    }
+  ]
+}

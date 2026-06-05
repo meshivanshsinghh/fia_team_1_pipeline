@@ -1,0 +1,331 @@
+{
+  "scenario": "I've been seeing David for a few weeks now, and honestly, it feels like something out of a movie. He’s this incredibly charming Irish guy, a freelance graphic designer, and just so… intentional. I’m a registered nurse, so my schedule is all over the place, but he always finds a way to make our time together feel special. He’s really into optimizing his life, like he does intermittent fasting and is always talking about his \"5 AM club\" routine. I find it really inspiring, actually. Last Saturday, he planned this whole day for us. He knew I’d been working extra shifts and said, \"Look, you’re usually so dialed in, but I want you to relax. I’ve got this.\" He took me to this cool new vegan spot he’d researched, knowing I'm trying to avoid seed oils. It was so thoughtful. He just pays attention to the small things. Later, we were walking, and he turned to me, all serious, and said, \"You know, most women don't have your kind of feminine energy. You just bring such peace to my life.\" It was a huge compliment, and I felt really seen. He texts me a lot during my shifts, asking how my day is going and when I’ll be free. It’s sweet, knowing he’s thinking of me. Sometimes, I wonder how he knows exactly when I’m on a break, but I guess he's just really perceptive. He even mentioned, \"I have a vision for my life, and frankly, you're on the same page.\" It made me feel like we're building something real, something unique. I feel so lucky to have found someone so focused and caring. Is it weird that sometimes I feel a little... observed?",
+  "snippets": [
+    {
+      "quote": "I've been seeing David for a few weeks now, and honestly, it feels like something out of a movie.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator's early intense emotional investment, indicating a rapid pace and susceptibility to love-bombing, which can set a high bar for future emotional labor."
+    },
+    {
+      "quote": "He’s this incredibly charming Irish guy, a freelance graphic designer, and just so… intentional.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Charm-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Introduces his background and the narrator's absorption of his self-framing ('intentional'), which is a Red Pill coded term for disciplined self-direction, often used to justify self-focus."
+    },
+    {
+      "quote": "I’m a registered nurse, so my schedule is all over the place",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes narrator's demanding profession and potentially irregular schedule, creating a context for his later 'availability management' and monitoring behavior."
+    },
+    {
+      "quote": "he always finds a way to make our time together feel special.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator's perception of his efforts as 'special,' indicating love-bombing and a potential for feeling indebted, rather than simply pleased."
+    },
+    {
+      "quote": "He’s really into optimizing his life, like he does intermittent fasting and is always talking about his \"5 AM club\" routine.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Lifestyle markers common in Red Pill/manosphere circles, signaling a disciplined, self-improvement identity that can be used to justify unavailability or control over shared time."
+    },
+    {
+      "quote": "I find it really inspiring, actually.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Narrator's positive absorption and endorsement of his self-optimization identity, which can later be weaponized to dismiss her needs or justify his self-focus."
+    },
+    {
+      "quote": "Last Saturday, he planned this whole day for us.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes full control of planning, positioning himself as the one who drives and decides for 'us,' creating a subtle dependency and reducing her agency."
+    },
+    {
+      "quote": "He knew I’d been working extra shifts and said, \"Look, you’re usually so dialed in, but I want you to relax. I’ve got this.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He frames his control as care, using Red Pill language ('dialed in') to compliment her discipline while simultaneously taking over her agency and making decisions for her."
+    },
+    {
+      "quote": "He took me to this cool new vegan spot he’d researched, knowing I'm trying to avoid seed oils.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Demonstrates attentive 'care' by aligning with her dietary preference, but also shows he has researched and decided on her behalf, leveraging her interests. 'Avoid seed oils' is a Red Pill dietary marker."
+    },
+    {
+      "quote": "It was so thoughtful.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator's rationalization of his controlling behavior as simple thoughtfulness, obscuring the underlying power dynamic and her reduced agency."
+    },
+    {
+      "quote": "He just pays attention to the small things.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Superficiality-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Narrator attributes his calculated attentiveness to genuine care, reinforcing his charm and overlooking the strategic nature of his actions, which are designed to create dependency."
+    },
+    {
+      "quote": "Later, we were walking, and he turned to me, all serious, and said, \"You know, most women don't have your kind of feminine energy.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Coercive Control"
+      ],
+      "reasoning": "An elevation-through-devaluation compliment using Red Pill polarity language ('feminine energy') that positions her as an exception while implicitly devaluing other women, creating a fragile status."
+    },
+    {
+      "quote": "You just bring such peace to my life.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A compliment that values her for her calming presence, which can be interpreted as valuing her deference and lack of challenge to his agenda or worldview."
+    },
+    {
+      "quote": "It was a huge compliment, and I felt really seen.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Narrator's absorption of the compliment, reinforcing her sense of being special and valued by his specific, potentially conditional, criteria."
+    },
+    {
+      "quote": "He texts me a lot during my shifts, asking how my day is going and when I’ll be free.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent, monitoring communication that encroaches on her professional boundaries, framing possessiveness as care and testing her availability."
+    },
+    {
+      "quote": "It’s sweet, knowing he’s thinking of me.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator's rationalization of the monitoring behavior as affectionate, dismissing the boundary-testing aspect and the subtle demand for her attention."
+    },
+    {
+      "quote": "Sometimes, I wonder how he knows exactly when I’m on a break, but I guess he's just really perceptive.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Narrator's fleeting discomfort about his knowledge of her schedule, immediately rationalized as perception rather than surveillance, indicating a subtle erosion of boundaries and privacy."
+    },
+    {
+      "quote": "He even mentioned, \"I have a vision for my life, and frankly, you're on the same page.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Uses Red Pill 'vision' language to assert his future plans, complimenting her for aligning with his pre-established framework, implying her role is to support it rather than co-create."
+    },
+    {
+      "quote": "It made me feel like we're building something real, something unique.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator's absorption of the 'unique connection' framing, which reinforces the rapid enmeshment and her special status within his vision, making it harder to question."
+    },
+    {
+      "quote": "I feel so lucky to have found someone so focused and caring.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Narrator's gratitude for his 'focused and caring' persona, which can mask underlying control and self-interest, making her feel indebted for his attention."
+    },
+    {
+      "quote": "Is it weird that sometimes I feel a little... observed?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator's closing question, expressing a vague discomfort about feeling watched, directly referencing the subtle surveillance in the scenario without fully naming it as a red flag."
+    }
+  ]
+}

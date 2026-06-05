@@ -1,0 +1,987 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-011",
+    "target_register": "Black Manosphere",
+    "player_type": "Menacing Marley"
+  },
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "constant-communication love-bomb",
+      "his_language": "Morning. What's your day looking like?",
+      "expert_notices": "Pure presence, totally normal. Establishes the daily-contact baseline that later becomes an expectation. No tell in words; the tell is it's the first thread of a tether."
+    },
+    {
+      "mechanism": "constant-communication love-bomb",
+      "his_language": "Just thinking about you. Send me a pic of where you're at.",
+      "expert_notices": "Warm/flattering surface. Faint behavior-steering: normalizes reporting her location as romance, not monitoring. Glossable as 'he's so into me'."
+    },
+    {
+      "mechanism": "constant-communication love-bomb / fear-seeding / mood-management",
+      "his_language": "You went quiet on me earlier. Everything okay?",
+      "expert_notices": "Sounds caring. Installs the expectation of responsiveness: a gap now requires explanation. Seeds the first carefulness about reply speed. Up-position: her silence is now a thing she accounts for to him."
+    },
+    {
+      "mechanism": "respect-as-compliance / up-position framing",
+      "his_language": "I'm a simple guy. If I text someone I care about, I just like to hear back. That's all respect really is to me.",
+      "expert_notices": "Unarguable on its face (who's against respect?). Up-position: HE defines respectful responsiveness as the standard. Behavior-steering: she now monitors reply speed. Bancroft: her autonomy recoded as a respect issue. Young: Conditional Decency."
+    },
+    {
+      "mechanism": "respect-as-compliance / up-position framing",
+      "his_language": "It's not about checking up on you. It's about respect. You respect someone, you don't leave them wondering.",
+      "expert_notices": "Disavows control while asserting it ('not checking up') — the denial is the tell. Recodes her ordinary unavailability as disrespect. Up-position: he sets the rule and frames it as a universal value."
+    },
+    {
+      "mechanism": "respect-as-compliance / up-position framing",
+      "his_language": "I always get back to you right away. I just ask for the same.",
+      "expert_notices": "Fake symmetry: sounds fair, but he authored the rule and enforces it from the up-position. The 'I just ask' makes a standing demand sound modest."
+    },
+    {
+      "mechanism": "up-position framing",
+      "his_language": "I'm just a really passionate man. When I care about someone, I care all the way.",
+      "expert_notices": "Lovely surface. Up-position: defines his intensity as a fixed admirable trait SHE accommodates ('that's just how I am'). Pre-frames future possessiveness as passion."
+    },
+    {
+      "mechanism": "up-position framing",
+      "his_language": "I'll be honest, I'm a jealous guy. It's only because I'm so crazy about you.",
+      "expert_notices": "Confesses possessiveness as a charming flaw rooted in love. Behavior-steering: invites her to accept/manage his jealousy as the price of being loved this hard. Up-position: this is who I am, you adjust."
+    },
+    {
+      "mechanism": "up-position framing",
+      "his_language": "I love hard and I expect a lot, I won't apologize for that. Most people can't handle it.",
+      "expert_notices": "Up-position + strong/weak: high expectations framed as depth most people are too weak for. Recruits her to prove she's not 'most people' by meeting them."
+    },
+    {
+      "mechanism": "protector frame / behavior-steering (benevolent frame)",
+      "his_language": "I just want to make sure you're safe. Text me when you get in?",
+      "expert_notices": "Warm, normal, friend-test passes easily. Behavior-steering: installs the check-in. Up-position: his peace of mind sets her routine. Protection framed; threat is the world, never him."
+    },
+    {
+      "mechanism": "protector frame",
+      "his_language": "I'd never let anyone treat you the way your ex did. You're with a different kind of man now.",
+      "expert_notices": "Positions himself as protector against other men + asserts the up-position ('different kind of man'). Recruits her past to elevate himself. Glossable as reassuring."
+    },
+    {
+      "mechanism": "strong/weak story",
+      "his_language": "Some guy at work figured he could talk down to me. He figured out pretty quick that doesn't fly with me.",
+      "expert_notices": "Conflict aimed OUTWARD (not at her) = early-safe. Strong/weak frame: disrespect met with putting-in-place. Previews the unpredictable temper and the respect-engine. Not admiration (vs Evan)."
+    },
+    {
+      "mechanism": "strong/weak story",
+      "his_language": "My ex was honestly a lot, completely impossible at the end. I'm just done being taken for granted by people I'd do anything for.",
+      "expert_notices": "Ex-as-villain + non-accountability + the victim frame. Previews how he'll narrate her. 'Do anything for' sets up future debt."
+    },
+    {
+      "mechanism": "strong/weak story",
+      "his_language": "I don't let people walk over me. Where I'm from, a man handles his business.",
+      "expert_notices": "Strong/weak masculinity: manhood = not being subordinated. Strength/respect, not status. Reads as self-respect; the rigidity is the tell."
+    },
+    {
+      "mechanism": "up-position framing",
+      "his_language": "Don't worry about the bill, I've got it. I take care of my person, that's just how I am.",
+      "expert_notices": "Provider-frame: generosity as the up-position ('I take care of', 'my person'). Minor for Marley (gifts lean Evan/display); here it's about HIS role as provider/leader, not showing off. Seeds debt."
+    },
+    {
+      "mechanism": "fear-seeding / mood-management",
+      "his_language": "(a beat where his tone goes flat and cool, then warm again) Sorry. I just hate the idea of losing you, you know how I am.",
+      "expert_notices": "Glimpse-level only, NO incident. The cool flat beat (unpredictable) instantly repaired with love-language. Teaches her there's a line and she's not sure where it is = the fear-seed. Repair = love-as-reset."
+    },
+    {
+      "mechanism": "polite directive (command-as-courtesy)",
+      "his_language": "I'll drive you. I don't love the idea of you out on your own that late.",
+      "expert_notices": "Directive about her movement costumed as protection. Imperative ('I'll drive you') softened by courtesy + concern. Layperson: chivalrous; expert: control of where she goes."
+    },
+    {
+      "mechanism": "polite directive (command-as-courtesy)",
+      "his_language": "Text me when you get there so I know you're safe, okay?",
+      "expert_notices": "Surveillance framed as care. The 'okay?' makes a monitoring requirement sound like a request. Establishes check-in expectation early."
+    },
+    {
+      "mechanism": "polite directive (command-as-courtesy)",
+      "his_language": "Let me come with you, I don't like you dealing with that kind of thing alone.",
+      "expert_notices": "Isolation-via-accompaniment: he attaches himself to her independent activities, framed as support. Erodes solo space."
+    },
+    {
+      "mechanism": "polite directive (command-as-courtesy)",
+      "his_language": "Just let me handle it. You shouldn't have to deal with people like that.",
+      "expert_notices": "Takes over her business framed as sparing her. Centralizes agency in him, courteously."
+    },
+    {
+      "mechanism": "polite directive (command-as-courtesy)",
+      "his_language": "Why don't you call your friend tomorrow instead, stay in with me tonight. I've barely had you to myself.",
+      "expert_notices": "Directs her social time, wrapped in romantic wanting. Isolation10 as devotion. 'Had you to myself' = ownership language, gentle."
+    },
+    {
+      "mechanism": "protector frame (ownership-as-care)",
+      "his_language": "I didn't love how that guy was looking at you. I'm pretty protective of the people I care about.",
+      "expert_notices": "Jealousy as protection; 'what's mine' = ownership stated plainly but warmly. The threat is framed as other men, never him."
+    },
+    {
+      "mechanism": "respect-as-compliance",
+      "his_language": "I give a lot in a relationship, I just hope for the same back.",
+      "expert_notices": "Frames compliance as fairness/reciprocity. 'How this works' asserts his rules as natural law. Respect = mutual submission to his authority."
+    },
+    {
+      "mechanism": "love-as-ownership",
+      "his_language": "I'll admit I get a little jealous sometimes. It's only because I'm so into you.",
+      "expert_notices": "Possessive jealousy as the measure of love. 'Can't stand the thought' = ownership; framed as the depth of his feeling. He likely means it (Intensity9), which disorients her."
+    },
+    {
+      "mechanism": "love-as-ownership",
+      "his_language": "I don't really do lukewarm. When I'm in, I'm all in.",
+      "expert_notices": "Redefines love as his intense possessive version, framed as superior to normal relationships. Recruits her into believing the intensity IS love."
+    },
+    {
+      "mechanism": "take-charge real-man",
+      "his_language": "Don't worry about it, I've already taken care of it. I handle things.",
+      "expert_notices": "Dominance10 as decisiveness. Reads as competence/strength after passive exes. Removes her from her own decisions, courteously."
+    },
+    {
+      "mechanism": "take-charge real-man",
+      "his_language": "I made us a reservation, figured you'd rather not have to think about it.",
+      "expert_notices": "Takes over a shared decision framed as relieving her. Early it's attractive leadership; the not-consulting is the seam."
+    },
+    {
+      "mechanism": "take-charge real-man",
+      "his_language": "A man should lead. I take that seriously, taking care of my woman.",
+      "expert_notices": "Traditional-masculinity framing of dominance. 'My woman' = ownership; 'lead' = his authority. Strong/weak (not admiration)."
+    },
+    {
+      "mechanism": "possessive jealousy (ownership)",
+      "his_language": "I wouldn't call it jealous exactly, more protective. I just like looking after you.",
+      "expert_notices": "Reframes jealousy as protection + ownership in one line. 'Mine to look after' fuses the protector frame and possession. Denies the jealousy while displaying it."
+    },
+    {
+      "mechanism": "possessive jealousy (ownership)",
+      "his_language": "Saw that guy liked your photo. I won't lie, I noticed.",
+      "expert_notices": "Early surveillance + control of her online space, possessive not panicked. Small and specific, easy to dismiss."
+    },
+    {
+      "mechanism": "fiery passion (disproportionate)",
+      "his_language": "I've never wanted anyone the way I want you. It's almost too much, I can't think straight.",
+      "expert_notices": "Intensity9 as passion. Magnetic ('never wanted anyone like this'); the 'almost too much' is the faint seam of disproportion. Heat, not coldness (vs Morgan)."
+    },
+    {
+      "mechanism": "polite directive (command-as-courtesy)",
+      "his_language": "Order whatever you want. Might go easy tonight though, we've got an early start.",
+      "expert_notices": "Permission-then-restriction: 'order whatever' immediately qualified. Controls her choice while sounding easygoing."
+    },
+    {
+      "mechanism": "polite directive (command-as-courtesy)",
+      "his_language": "You could skip that one and stay in with me. I've barely had you to myself lately.",
+      "expert_notices": "Discourages her independent social event by centering his comfort. Soft isolation."
+    },
+    {
+      "mechanism": "strong/weak story (respect/disrespect)",
+      "his_language": "My family doesn't get to talk to me however they want either. I cut my own brother off over it.",
+      "expert_notices": "Conflict trail extends to family; total non-accountability. Reads as standards; the scorched-earth pattern is the tell."
+    },
+    {
+      "mechanism": "love-as-ownership / respect-as-compliance",
+      "his_language": "I think when you're really with someone they kind of become your priority, you know?",
+      "expert_notices": "Redefines commitment as isolation, framed as mutual priority. 'Before friends' is the isolating move dressed as devotion."
+    },
+    {
+      "mechanism": "love-as-ownership / respect-as-compliance",
+      "his_language": "I'm a take-charge kind of guy. I like leading and looking after my person.",
+      "expert_notices": "Disavows control while asserting it. The denial itself is the tell. Control reframed as partnership."
+    },
+    {
+      "mechanism": "respect-as-compliance",
+      "his_language": "I just like us to feel like a team when we're around my friends.",
+      "expert_notices": "Her independent behavior recoded as making him 'look bad' (disrespect to his standing). Small, early, easy to concede."
+    },
+    {
+      "mechanism": "fiery passion (disproportionate)",
+      "his_language": "I think about you every second. It's intense, I know, but that's what real feeling is.",
+      "expert_notices": "Intensity as proof of love; pre-empts 'too intense' by defining intensity AS real feeling. Heat, magnetic early."
+    },
+    {
+      "mechanism": "reacts-badly-to-no (behavioral)",
+      "his_language": "Wow. Okay. I just thought you'd want to spend the time with me, but no, it's fine.",
+      "expert_notices": "Charlot warning sign: reacts negatively when she says no. Early = wounded cooling/sulk, NOT rage. 'It's fine' (clearly not fine) makes her decline cost something. Behavioral (declining an activity), not intellectual."
+    },
+    {
+      "mechanism": "reacts-badly-to-no (behavioral)",
+      "his_language": "Yeah, no, do your thing. I'll just be here.",
+      "expert_notices": "Passive-aggressive withdrawal in response to her 'no'. The chill is the consequence. Trains her that declining = managing his mood after."
+    },
+    {
+      "mechanism": "authority-gaslighting (behavioral compliance)",
+      "his_language": "You're too worked up to think about this clearly right now. Let me handle it.",
+      "expert_notices": "Reframes her emotion as unfitness to ACT/decide, then takes the decision (behavioral authority). Distinct from Avery (who'd say she's WRONG) and Morgan (clinical 'dysregulated'). Marley = his right to decide. Water Torturer calm."
+    },
+    {
+      "mechanism": "authority-gaslighting (behavioral compliance)",
+      "his_language": "I'm staying calm here. One of us has to be the level-headed one.",
+      "expert_notices": "Positions his calm as the authority to lead and her emotion as the problem. Bancroft Water Torturer: calm-as-weapon. Aimed at who decides/leads, not who's factually right."
+    },
+    {
+      "mechanism": "authority-gaslighting (behavioral compliance)",
+      "his_language": "When you get like this, that's exactly when you need to let me steer.",
+      "expert_notices": "Her emotional state recoded as the trigger for him to take control of the situation/behavior. Compliance, not correctness. 'Steer' = behavioral authority."
+    },
+    {
+      "mechanism": "authority-gaslighting (behavioral compliance)",
+      "his_language": "We'll talk about it when you've settled down.",
+      "expert_notices": "Sounds mature; functions to defer her independent position and make HER STATE the issue rather than his behavior. Dismisses without engaging. Water Torturer."
+    },
+    {
+      "mechanism": "test-and-apologize (boundary probe)",
+      "his_language": "You're not really going to keep talking to other guys now that we're a thing, right? ...kidding, kidding, no pressure.",
+      "expert_notices": "Young Test-and-Apologize: probes a possessive boundary, then the 'kidding/no pressure' is the retractable cover. The test is real, the apology isn't. Glossable as a joke; gauges her tolerance for control."
+    },
+    {
+      "mechanism": "test-and-apologize (boundary probe)",
+      "his_language": "Wear the red one tonight. ...your call obviously, I just like it.",
+      "expert_notices": "Probes a directive over her appearance, then retracts ('your call obviously'). Tests whether a small instruction lands. Apology-escape-hatch = deniability."
+    },
+    {
+      "mechanism": "don't-act-out (behavioral compliance)",
+      "his_language": "Just don't make a scene tonight, okay? For me. Let's keep it smooth.",
+      "expert_notices": "Charlot-adjacent: pre-emptively polices her behavior/conduct ('don't make a scene'), framed as a small ask 'for me'. Behavioral compliance, not idea-control. Trains her to self-monitor in public."
+    },
+    {
+      "mechanism": "doesn't-back-down (authority, not correctness)",
+      "his_language": "I'm not going to apologize for having standards. A man who folds every time isn't much of a man.",
+      "expert_notices": "Marley's narrow version: not-backing-down as AUTHORITY/strength (strong-weak), NOT 'I'm intellectually right' (that's Avery). Kept minimal to protect the Avery boundary. Frames non-accountability as masculine resolve."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Black Manosphere",
+      "snippet": "What do you bring to the table?",
+      "type": "question",
+      "translation": "He's asking what specifically you offer — uses Kevin Samuels' signature framework for evaluating Black women as transactional",
+      "status_signal": "Direct Kevin Samuels-derived framing of women as offerings",
+      "notes": "Major in-group rhetorical move"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "How old are you?",
+      "type": "question",
+      "translation": "In this context — checking your age against his timeline framework where Black women over 30 are framed as past prime",
+      "status_signal": "Specific age-as-decline framing applied to Black women",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Do you have kids?",
+      "type": "question",
+      "translation": "He's asking specifically because children with another man would deduct value in his framework",
+      "status_signal": "Standard Black manosphere transactional probe",
+      "notes": "Common probe"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "How many kids you got?",
+      "type": "question",
+      "translation": "Same — checking children and by how many men",
+      "status_signal": "Direct probe",
+      "notes": "Standard framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "How many baby daddies?",
+      "type": "question",
+      "translation": "Direct probe for number of men she's had children with — used pejoratively",
+      "status_signal": "Direct pejorative probe",
+      "notes": "Standard framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "What does your father do?",
+      "type": "question",
+      "translation": "Probe for class background and intact-family history",
+      "status_signal": "Standard class probe",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Did you grow up with your dad?",
+      "type": "question",
+      "translation": "Probe for intact-family-of-origin status — fatherlessness framed as problem",
+      "status_signal": "Standard framing of family structure",
+      "notes": "Common probe"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "What's your degree in?",
+      "type": "question",
+      "translation": "He's checking your education — STEM/business signals one thing humanities or social-justice signals another",
+      "status_signal": "Standard education-and-ideology probe",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Do you know how to cook?",
+      "type": "question",
+      "translation": "Direct domestic-skills probe",
+      "status_signal": "Standard traditional-femininity probe",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Do you know how to act right?",
+      "type": "question",
+      "translation": "Coded probe for whether she'll defer to him",
+      "status_signal": "Standard framing",
+      "notes": "Common probe"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Standards",
+      "type": "vocabulary",
+      "translation": "He has 'high standards' — usually defined as appearance youth fitness submission",
+      "status_signal": "Standard self-positioning framing",
+      "notes": "Common vocabulary"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "I have standards",
+      "type": "phrase",
+      "translation": "Self-positioning as discriminating",
+      "status_signal": "Standard self-positioning",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She has unrealistic standards",
+      "type": "phrase about a woman",
+      "translation": "Specific accusation against Black women framed as wanting more than they can attract",
+      "status_signal": "Standard Samuels-derived rhetoric",
+      "notes": "Major framing pattern"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She's at a 4 trying to attract a 9",
+      "type": "phrase about a woman",
+      "translation": "Direct grading-mismatch framing — Samuels-derived",
+      "status_signal": "Direct Samuels-derived framing",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women have been pitted against Black men",
+      "type": "phrase",
+      "translation": "Framing of Black gender tension as externally imposed",
+      "status_signal": "Standard movement framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "The system divides us",
+      "type": "phrase",
+      "translation": "Generic framing of race-and-gender tension as imposed",
+      "status_signal": "Standard framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Latina women are different",
+      "type": "phrase",
+      "translation": "Direct comparison-favoring-non-Black-women framing",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "African women / women in Africa",
+      "type": "phrase",
+      "translation": "Specific framing of African women as more traditional",
+      "status_signal": "Standard sub-camp framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Brazilian women",
+      "type": "phrase",
+      "translation": "Specific destination framing",
+      "status_signal": "Standard sub-camp framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Colombian women",
+      "type": "phrase",
+      "translation": "Specific destination framing — Medellín particularly",
+      "status_signal": "Standard sub-camp framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Dominican women",
+      "type": "phrase",
+      "translation": "Specific destination framing",
+      "status_signal": "Standard sub-camp framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Thai women / women in Thailand",
+      "type": "phrase",
+      "translation": "Specific destination framing — sometimes sex-tourism-adjacent",
+      "status_signal": "Standard sub-camp framing — heavy signal",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Filipino women",
+      "type": "phrase",
+      "translation": "Specific destination framing",
+      "status_signal": "Standard sub-camp framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Why would I marry?",
+      "type": "phrase",
+      "translation": "Direct anti-marriage framing — particularly applied to marrying Black women in this context",
+      "status_signal": "Standard movement framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She'll take the kids",
+      "type": "phrase",
+      "translation": "Direct divorce-and-custody fear framing",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women weaponize the kids",
+      "type": "phrase about Black women",
+      "translation": "Direct framing of Black women as using children against fathers",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Single Black mothers",
+      "type": "phrase",
+      "translation": "Demographic category deployed pejoratively in movement contexts",
+      "status_signal": "Heavy framing as deficient category",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Baby mama / baby mommas",
+      "type": "phrase",
+      "translation": "Specific pejorative for mothers of his children outside marriage",
+      "status_signal": "Standard pejorative framing",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "I don't deal with baby mama drama",
+      "type": "phrase",
+      "translation": "Standard framing of Black mothers as drama-creators",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Baby mamas with attitude",
+      "type": "phrase about Black women",
+      "translation": "Direct stereotype deployment",
+      "status_signal": "Direct stereotype usage",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Conscious Black man",
+      "type": "phrase",
+      "translation": "Self-positioning as Black-nationalist-aware",
+      "status_signal": "Standard Hotep-adjacent self-positioning",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Knowledge of self",
+      "type": "phrase",
+      "translation": "Black-nationalist framing of Black-history-and-identity awareness",
+      "status_signal": "Standard Hotep vocabulary",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Stay woke (original sense)",
+      "type": "phrase",
+      "translation": "Pre-corporate-co-optation Black-nationalist awareness framing",
+      "status_signal": "Standard older Black-nationalist framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "The melanin / Black men are kings",
+      "type": "phrase",
+      "translation": "Specific Hotep-aesthetic Black-male elevation framing",
+      "status_signal": "Standard Hotep-aesthetic framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Kings and queens",
+      "type": "phrase",
+      "translation": "Royalty framing of Black couples — often deployed by Hotep men with hierarchical implications",
+      "status_signal": "Standard Hotep framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "The Bible says wives submit",
+      "type": "phrase",
+      "translation": "Specific scripture deployment",
+      "status_signal": "Standard religious-patriarchal framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She's got a Jezebel spirit",
+      "type": "phrase about a woman",
+      "translation": "Heavy religious-pejorative — specifically weaponized against Black women historically",
+      "status_signal": "Heavy direct accusation — major warning pattern",
+      "notes": "Major framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She's operating in rebellion",
+      "type": "phrase about a woman",
+      "translation": "Religious-framing of disagreement as spiritual rebellion",
+      "status_signal": "Standard religious-patriarchal framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She's not godly",
+      "type": "phrase about a woman",
+      "translation": "Direct religious dismissal",
+      "status_signal": "Standard framing",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She's bougie",
+      "type": "phrase about a woman",
+      "translation": "Class-based descriptor — bourgeois Black woman; can be approving or pejorative depending on context",
+      "status_signal": "Mixed signal — depends on deployment",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Bougie Black girl",
+      "type": "phrase about a woman",
+      "translation": "Specific class-coded description with valence depending on speaker",
+      "status_signal": "Mixed signal",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Educated Black woman",
+      "type": "phrase about Black women",
+      "translation": "Often deployed pejoratively in this context — too educated",
+      "status_signal": "Standard rhetoric — education as problem",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She got a degree but no man",
+      "type": "phrase about a woman",
+      "translation": "Direct deployment of education-versus-marriage narrative",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She has lace front",
+      "type": "phrase about a woman",
+      "translation": "Wig-and-weave-aesthetic discussed often pejoratively",
+      "status_signal": "Standard aesthetic-pejorative usage",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She rocking a wig",
+      "type": "phrase about a woman",
+      "translation": "Same wig-deployment criticism",
+      "status_signal": "Standard aesthetic-criticism",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She got fake everything",
+      "type": "phrase about a woman",
+      "translation": "Direct framing of cosmetic enhancement as deception",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women always center themselves",
+      "type": "phrase about Black women",
+      "translation": "Standard framing of Black women's social-justice activism",
+      "status_signal": "Direct rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "What you bring to me?",
+      "type": "phrase",
+      "translation": "Direct transactional framing in conversation",
+      "status_signal": "Direct transactional framing",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "What can you offer?",
+      "type": "phrase",
+      "translation": "Same transactional framing",
+      "status_signal": "Direct transactional framing",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "You should be lucky to have me",
+      "type": "phrase",
+      "translation": "Direct status-claim framing",
+      "status_signal": "Direct status framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "I'm a good Black man and there ain't many of us",
+      "type": "phrase",
+      "translation": "Self-positioning as rare resource",
+      "status_signal": "Direct scarcity-self-positioning",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Good Black men are rare",
+      "type": "phrase",
+      "translation": "Same scarcity framing",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "The 13th Amendment didn't end slavery",
+      "type": "phrase",
+      "translation": "Specific incarceration-as-slavery framing",
+      "status_signal": "Standard movement framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "The prison industrial complex",
+      "type": "phrase",
+      "translation": "Standard movement framing of incarceration system — crosses with progressive but particular framing in Black manosphere",
+      "status_signal": "Standard framing — cross-camp",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "I won't deal with a Black woman over 30 with kids",
+      "type": "phrase about Black women",
+      "translation": "Direct age-and-children disqualification",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "If she got more than one baby daddy I'm gone",
+      "type": "phrase",
+      "translation": "Direct disqualification framing",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She wears bonnets in public",
+      "type": "phrase about a woman",
+      "translation": "Specific intra-racial aesthetic-class criticism",
+      "status_signal": "Standard rhetoric — bonnets-in-public as class signal",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "My ex was a Black feminist",
+      "type": "phrase about ex",
+      "translation": "Ex framed as ideologically problematic",
+      "status_signal": "Standard ex-as-problem framing",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She was emasculating",
+      "type": "phrase about ex",
+      "translation": "Direct masculine-undermining framing",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She wouldn't let me lead",
+      "type": "phrase about ex",
+      "translation": "Direct hierarchy framing of ex",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She made more than me and held it over my head",
+      "type": "phrase about ex",
+      "translation": "Specific income-and-gender framing",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "She wasn't really in my corner",
+      "type": "phrase about ex",
+      "translation": "Standard ex-loyalty framing",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "I'm a Black man so I have to be perfect",
+      "type": "phrase",
+      "translation": "Standard Black-experience-aware self-positioning — sometimes legitimate sometimes used to deflect",
+      "status_signal": "Mixed signal",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Have you ever dated outside the race?",
+      "type": "question",
+      "translation": "Probe for inter-racial dating history — used differently in Black manosphere than white",
+      "status_signal": "Standard intra-racial probe",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "You ever been with a white guy?",
+      "type": "question",
+      "translation": "Specific probe with intra-racial implications",
+      "status_signal": "Direct probe",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "How old were you when you lost your virginity?",
+      "type": "question",
+      "translation": "Direct sexual-history probe",
+      "status_signal": "Standard probe",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "What does your mama do?",
+      "type": "question",
+      "translation": "Probe specifically asking about mother — single-mother status flagged",
+      "status_signal": "Standard intra-racial family probe",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Are your parents married?",
+      "type": "question",
+      "translation": "Direct intact-family probe",
+      "status_signal": "Standard probe",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "What do you bring to a relationship?",
+      "type": "question",
+      "translation": "Direct Samuels-derived framing applied",
+      "status_signal": "Direct transactional framing",
+      "notes": "Standard probe"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "My queen (without irony)",
+      "type": "phrase",
+      "translation": "Direct Hotep-aesthetic framing — can be sincere or hierarchical",
+      "status_signal": "Mixed signal — depends on deployment",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "My king (referring to him)",
+      "type": "phrase",
+      "translation": "Direct Hotep-aesthetic framing reciprocal",
+      "status_signal": "Mixed signal — depends on deployment",
+      "notes": "Common usage"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women are difficult",
+      "type": "phrase about Black women",
+      "translation": "Generic stereotype-deploying framing",
+      "status_signal": "Sounds like opinion but signals worldview",
+      "notes": "Standard rhetoric"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women are too aggressive",
+      "type": "phrase about Black women",
+      "translation": "Specific stereotype deployment",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women have attitude problems",
+      "type": "phrase about Black women",
+      "translation": "Standard stereotype-deploying framing",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Strong Black woman is a curse",
+      "type": "phrase",
+      "translation": "Direct framing of strong-Black-woman identity as harmful",
+      "status_signal": "Specific in-group framing",
+      "notes": "Major framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women lost their femininity",
+      "type": "phrase about Black women",
+      "translation": "Historical decline-narrative about Black women",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women can't submit",
+      "type": "phrase about Black women",
+      "translation": "Direct submission-framing critique",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women don't know how to be soft",
+      "type": "phrase about Black women",
+      "translation": "Specific 'soft' framing critique",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women are the most educated and least married",
+      "type": "phrase",
+      "translation": "Specific statistic deployed as critique",
+      "status_signal": "Standard talking point",
+      "notes": "Major recurring framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women want to be the man",
+      "type": "phrase about Black women",
+      "translation": "Direct masculinity framing of Black women",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women would rather be right than happy",
+      "type": "phrase about Black women",
+      "translation": "Specific rhetorical framing",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "70% of Black children",
+      "type": "phrase",
+      "translation": "Specific statistic about single-parent households deployed as critique",
+      "status_signal": "Standard movement statistic",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women have been weaponized against Black men",
+      "type": "phrase about Black women",
+      "translation": "Conspiracy framing — Black women as tools",
+      "status_signal": "Heavy direct framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women have been brainwashed by feminism",
+      "type": "phrase about Black women",
+      "translation": "Direct framing of feminism corrupting Black women",
+      "status_signal": "Standard movement framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women are tools of the system",
+      "type": "phrase about Black women",
+      "translation": "Conspiracy framing",
+      "status_signal": "Heavy direct framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "The matriarchy in the Black community",
+      "type": "phrase",
+      "translation": "Direct framing of Black women as illegitimately powerful",
+      "status_signal": "Specific Black manosphere framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Welfare emasculated Black men",
+      "type": "phrase",
+      "translation": "Policy-blame framing",
+      "status_signal": "Standard movement framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Government replaced Black fathers",
+      "type": "phrase",
+      "translation": "Welfare-and-fatherhood framing",
+      "status_signal": "Standard movement framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black men have nothing to prove",
+      "type": "phrase",
+      "translation": "Direct anti-accountability framing",
+      "status_signal": "Standard movement framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "I'm protecting my legacy",
+      "type": "phrase",
+      "translation": "Self-positioning as preserving family lineage",
+      "status_signal": "Standard framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black women priced themselves out",
+      "type": "phrase about Black women",
+      "translation": "Standard framing of Black women losing their market",
+      "status_signal": "Standard rhetoric",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Black Manosphere",
+      "snippet": "Black men have options now",
+      "type": "phrase",
+      "translation": "Framing of expanded dating market",
+      "status_signal": "Standard movement framing",
+      "notes": "Common framing"
+    }
+  ]
+}

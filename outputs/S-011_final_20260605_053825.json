@@ -1,0 +1,341 @@
+{
+  "scenario": "Kwame is just… intense. I’ve never met anyone like him. He’s a Ghanaian immigrant, so sharp, always talking about his journey and building something for himself here in Boston. We connected instantly, like a whirlwind. He’ll send me texts all day, like, \"Morning. What's your day looking like?\" or \"Just thinking about you. Send me a pic of where you're at.\" It makes me feel so seen, so special. He’s always saying, \"I cannot believe I found someone like you here.\" Last weekend, he wanted me to meet his friends at a Ghanaian festival downtown. It was so sweet, showing me his world. He’s very proud of his culture, and I love that he wants to share it. We spend so much time together now, I barely see my own friends, but it doesn't feel like a sacrifice, you know? It feels like we’re building something. He’s so passionate, always saying, \"I'm just a really passionate man. When I care about someone, I care all the way.\" Yesterday, I mentioned my usual Sunday brunch with my girls. He got this look, just for a second, then he smiled. \"Why don't you call your friend tomorrow instead, stay in with me tonight. I've barely had you to myself.\" It was so sweet, I almost didn't notice. Later, when I was texting my friend back, he leaned over and said, \"You're not really going to keep talking to other guys now that we're a thing, right? ...kidding, kidding, no pressure.\" He laughed, and I did too, but it felt a little… sharp. He's just so protective. He always says, \"I take care of my person, that's just how I am.\" I know he means well. He’s a conscious Black man, he has standards, and I respect that. But sometimes, I wonder about that \"kidding\" part.",
+  "snippets": [
+    {
+      "quote": "Kwame is just… intense.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator's absorption of his high intensity as a defining, positive trait, pre-framing future disproportionate emotional responses as simply \"who he is.\""
+    },
+    {
+      "quote": "He’s a Ghanaian immigrant, so sharp, always talking about his journey and building something for himself here in Boston.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Sense of Self-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes his specific cultural background and self-narrative of ambition and self-reliance, which can be deployed to assert authority or garner admiration."
+    },
+    {
+      "quote": "He’ll send me texts all day, like, \"Morning. What's your day looking like?\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Constant communication establishes a baseline of daily contact, which can later become an expectation or demand for constant access and reporting."
+    },
+    {
+      "quote": "\"Just thinking about you. Send me a pic of where you're at.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Normalizes reporting her location as a romantic gesture, subtly steering behavior towards constant monitoring and reducing her independent space."
+    },
+    {
+      "quote": "It makes me feel so seen, so special.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Narrator's internal experience of love-bombing, where intense attention is interpreted as unique personal value, creating an emotional debt."
+    },
+    {
+      "quote": "He’s always saying, \"I cannot believe I found someone like you here.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Positions her as a rare prize, elevating himself for having \"found\" her and creating a sense of gratitude and specialness that can be leveraged later."
+    },
+    {
+      "quote": "Last weekend, he wanted me to meet his friends at a Ghanaian festival downtown.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He introduces her to his social world and culture, framing it as sharing, but it's also a move to integrate her into his existing network and define their shared experiences on his terms."
+    },
+    {
+      "quote": "It was so sweet, showing me his world.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator's positive interpretation of his actions, framing his integration moves as thoughtful and generous, masking the underlying push for enmeshment."
+    },
+    {
+      "quote": "He’s very proud of his culture, and I love that he wants to share it.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "General positive cultural information, but also sets up his cultural background as a source of pride and potential authority."
+    },
+    {
+      "quote": "We spend so much time together now, I barely see my own friends, but it doesn't feel like a sacrifice, you know?",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator reports a significant reduction in her social life, but rationalizes it as a positive, indicating early enmeshment and isolation, where her independent connections are implicitly devalued."
+    },
+    {
+      "quote": "It feels like we’re building something.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her internal framing of the relationship's rapid escalation and enmeshment as a shared, positive project, which makes it harder to identify the loss of individual autonomy."
+    },
+    {
+      "quote": "He’s so passionate, always saying, \"I'm just a really passionate man. When I care about someone, I care all the way.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Intensity-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Self-declaration that frames his high intensity as an admirable, fixed trait, pre-framing future possessiveness or overwhelming behavior as simply \"who he is\" and a sign of deep love."
+    },
+    {
+      "quote": "Yesterday, I mentioned my usual Sunday brunch with my girls.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A simple mention of an independent social plan acts as a trigger for his controlling behavior, highlighting his desire to monopolize her time."
+    },
+    {
+      "quote": "He got this look, just for a second, then he smiled.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Dysregulation-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Psychopathy / Terror"
+      ],
+      "reasoning": "A fleeting display of negative emotion quickly masked by a smile, creating a subtle moment of unpredictability and teaching her that expressing independent desires can elicit a negative response."
+    },
+    {
+      "quote": "\"Why don't you call your friend tomorrow instead, stay in with me tonight. I've barely had you to myself.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A polite directive that discourages her independent social plans, wrapped in romantic longing (\"I've barely had you to myself\"), which subtly asserts control over her time and social life."
+    },
+    {
+      "quote": "It was so sweet, I almost didn't notice.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Narrator's rationalization of his controlling behavior as \"sweet,\" indicating her absorption of his framing and a dismissal of her own discomfort or the underlying manipulative intent."
+    },
+    {
+      "quote": "Later, when I was texting my friend back, he leaned over and said, \"You're not really going to keep talking to other guys now that we're a thing, right? ...kidding, kidding, no pressure.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "A \"test-and-apologize\" boundary probe. He asserts a possessive boundary, then retracts it with \"kidding, no pressure,\" making the demand deniable while gauging her tolerance for control and seeding carefulness."
+    },
+    {
+      "quote": "He laughed, and I did too, but it felt a little… sharp.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Disrespect-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Humiliation"
+      ],
+      "reasoning": "Narrator's internal discomfort and perception of the \"joke\" as having an underlying edge, even as she performs agreement, indicating a subtle erosion of her sense of reality and safety."
+    },
+    {
+      "quote": "He's just so protective.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her rationalization of his controlling and possessive behavior as a positive trait (\"protective\"), absorbing his framing rather than recognizing it as a red flag."
+    },
+    {
+      "quote": "He always says, \"I take care of my person, that's just how I am.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Self-declaration that frames his dominant and controlling behavior as a natural, admirable part of his identity (\"that's just how I am\"), installing a provider-coded role for himself and an ownership frame for her."
+    },
+    {
+      "quote": "I know he means well. He’s a conscious Black man, he has standards, and I respect that.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Sense of Self-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Moral Injury"
+      ],
+      "reasoning": "Narrator's rationalization of his behavior through the lens of Black manosphere ideology (\"conscious Black man,\" \"standards\"), using cultural framing to dismiss her discomfort and accept his authority."
+    },
+    {
+      "quote": "But sometimes, I wonder about that \"kidding\" part.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question, focusing on a small, deniable detail, while the larger pattern of control and isolation remains unaddressed, demonstrating her internal conflict and the subtlety of the manipulation."
+    }
+  ]
+}

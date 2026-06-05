@@ -1,0 +1,278 @@
+{
+  "scenario": "Ravi and I met in Jackson Heights, and honestly, it felt like kismet. He’s so attentive, always the first to text “Morning. What’s your day looking like?” and he remembers everything. Last week, we were planning dinner, and he just took charge. “I made us a reservation,” he said, “figured you’d rather not have to think about it.” It was sweet, really. I’m usually the planner, so it was nice to just go with the flow. He’s really interested in my background, too. He asked about my family, “Where are your parents from?” then, “What did your father do?” and “When did your family come?” It felt like he was trying to understand me deeply, which is intense. He’s so different from other guys I’ve dated. He told me, “I’m just a really passionate man. When I care about someone, I care all the way.” I love that about him. He calls me his “person” all the time now. The other night, I was heading home late from a friend’s place. He texted, “I just want to make sure you’re safe. Text me when you get in?” which was so protective. Then yesterday, I mentioned going to a gallery opening with my friend Maya. He paused, then said, “You could skip that one and stay in with me. I’ve barely had you to myself lately.” He added, “I don’t really do lukewarm. When I’m in, I’m all in.” I ended up staying in. It felt like a small thing, but it’s still sitting with me. Is it normal to feel a little… I don't know, *intense* about missing a gallery opening?",
+  "snippets": [
+    {
+      "quote": "Ravi and I met in Jackson Heights",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the geographic and cultural setting of the relationship, locating it within a diverse, South Asian-influenced neighborhood in Queens."
+    },
+    {
+      "quote": "He’s so attentive, always the first to text “Morning. What’s your day looking like?”",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This constant, initiating communication establishes a baseline of expected daily contact, normalizing his presence and setting a precedent for future demands on her responsiveness and time."
+    },
+    {
+      "quote": "“I made us a reservation,” he said, “figured you’d rather not have to think about it.”",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He unilaterally made a decision for both of them, framing it as thoughtfulness. This establishes his role as the decision-maker and leader in the relationship, reducing her agency in shared plans."
+    },
+    {
+      "quote": "I’m usually the planner, so it was nice to just go with the flow.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator's internal rationalization for ceding control. She accepts his dominance as a welcome relief, setting a precedent for him to take over her decision-making process."
+    },
+    {
+      "quote": "He’s really interested in my background, too.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator interprets his deep questioning as genuine interest, rather than as an information-gathering exercise to understand her vulnerabilities and potential points of control."
+    },
+    {
+      "quote": "“Where are your parents from?” then, “What did your father do?” and “When did your family come?”",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "These are classic South Asian cultural probes for status and identity. For a partner from a different cultural background, this intense questioning serves as an information-gathering exercise to assess her social standing, family structure, and potential vulnerabilities, which can later be leveraged for control."
+    },
+    {
+      "quote": "It felt like he was trying to understand me deeply, which is intense.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator interprets his intrusive questioning as a sign of deep connection and intensity, rather than a method of information gathering or a boundary probe."
+    },
+    {
+      "quote": "He’s so different from other guys I’ve dated.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This statement reflects the 'I'm not like other guys' framing, which positions him as uniquely special and worthy of her gratitude, making her less likely to question his behavior."
+    },
+    {
+      "quote": "“I’m just a really passionate man. When I care about someone, I care all the way.”",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This self-declaration frames his intense and potentially controlling behavior as an admirable trait. It pre-frames future possessiveness as a natural expression of his 'passion,' making it harder for her to object."
+    },
+    {
+      "quote": "I love that about him.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator internalizes and validates his self-declaration of intense passion, further cementing the idea that his intensity is a positive and desirable trait."
+    },
+    {
+      "quote": "He calls me his “person” all the time now.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This possessive endearment signals a rapid enmeshment and a claim of ownership, framing her identity as intrinsically linked to him. It's a subtle way to reduce her sense of individual autonomy."
+    },
+    {
+      "quote": "“I just want to make sure you’re safe. Text me when you get in?”",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This polite directive frames surveillance as care. The 'okay?' makes a monitoring requirement sound like a request, establishing an expectation for her to report her movements, thus controlling her autonomy under the guise of protection."
+    },
+    {
+      "quote": "which was so protective.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator interprets his demand for a check-in as protective care, reinforcing the benevolent framing of his controlling behavior and making it harder for her to identify it as a red flag."
+    },
+    {
+      "quote": "He paused, then said, “You could skip that one and stay in with me. I’ve barely had you to myself lately.”",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a soft directive that discourages her independent social activity by centering his desire for her time. The phrase 'barely had you to myself' implies ownership and a demand for exclusive access, initiating a pattern of social isolation."
+    },
+    {
+      "quote": "He added, “I don’t really do lukewarm. When I’m in, I’m all in.”",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Intensity-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This self-declaration redefines love as his intense, all-consuming version, framing it as superior to normal relationships. It recruits her into believing that this level of intensity is what 'real feeling' is, making her feel obligated to match it."
+    },
+    {
+      "quote": "I ended up staying in.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her compliance with his soft directive, even though it meant missing her own plans, demonstrates the effectiveness of his subtle control and the early erosion of her personal agency."
+    },
+    {
+      "quote": "It felt like a small thing, but it’s still sitting with me.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator acknowledges a vague discomfort, indicating that her intuition is picking up on something 'off,' even if her conscious mind rationalizes it as a 'small thing.' This is the seed of gaslighting."
+    },
+    {
+      "quote": "Is it normal to feel a little… I don't know, *intense* about missing a gallery opening?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-low",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator questions her own feelings and perception, focusing on the small, socially acceptable concern rather than the underlying pattern of control. She uses his own word 'intense' to describe her discomfort, showing her absorption of his framing."
+    }
+  ]
+}

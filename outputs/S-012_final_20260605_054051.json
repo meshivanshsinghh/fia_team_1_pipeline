@@ -1,0 +1,312 @@
+{
+  "scenario": "Evan and I have only been seeing each other for a few weeks, but it feels like we've known each other forever. We met in Boulder, and even though he's from Denver and I'm here in Rapid City, the connection was instant. He's just so aligned, you know? Last weekend, he surprised me by driving all the way out here. He said, \"I just had this strong intuition we needed to connect, and I really want to immerse myself in the beauty and culture you're always talking about.\" It was sweet, really. We ended up taking a spontaneous trip to the Badlands, which meant I had to miss my family's Sunday gathering, but it felt special, like we were building our own traditions. He's so open about his journey. He told me about his Vipassana retreat and how it helped him with his shadow work. He even asked, \"What modalities do you work with? What's your big three?\" I told him about some of my family's traditions, and he listened so intently, saying, \"You have such high vibration, it's beautiful how connected you are.\" It almost felt like he was... collecting it, if that makes sense? Like my heritage was this cool experience for him. He also started talking about how his ex \"wasn't conscious enough\" for the depth he brought to relationships. It was a little intense, but I guess it just shows how much he's done his own work. He's already planning our next adventure, asking about my work schedule to make sure our \"energies are aligned\" for it. It's all so thoughtful. But then, when I mentioned maybe bringing my cousin next time, he got quiet for a second. He just said, \"I'm noticing I have some boundaries around keeping our early connection really sacred, just us for now.\" It was fine, I guess. He just wants to focus on us. I'm probably overthinking it, but is it normal to feel a little... like my family and my traditions are becoming this special thing just for him?",
+  "snippets": [
+    {
+      "quote": "Evan and I have only been seeing each other for a few weeks, but it feels like we've known each other forever.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Rapid escalation of intimacy, framing a short relationship as deep and long-standing, a common love-bombing tactic."
+    },
+    {
+      "quote": "He's just so aligned, you know?",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator adopts his wellness-spiritual vocabulary to describe him, indicating absorption of his self-positioning. 'Aligned' is a vague term he uses to signal his spiritual status."
+    },
+    {
+      "quote": "He said, \"I just had this strong intuition we needed to connect, and I really want to immerse myself in the beauty and culture you're always talking about.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Exploitation-high",
+        "Validation-seeking-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation",
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He frames his desire to experience her culture as a 'strong intuition', elevating his self-serving interest to spiritual guidance. He positions himself as wanting to 'immerse' in her culture, subtly commodifying it for his experience."
+    },
+    {
+      "quote": "We ended up taking a spontaneous trip to the Badlands, which meant I had to miss my family's Sunday gathering",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His spontaneous plan (framed as romantic) directly conflicts with her existing family commitments, leading her to sacrifice her plans for his. This creates an early pattern of de-prioritizing her support system."
+    },
+    {
+      "quote": "but it felt special, like we were building our own traditions.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator rationalizes missing a family tradition by reframing it as a positive step towards a unique couple identity, masking the underlying isolation."
+    },
+    {
+      "quote": "He's so open about his journey.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The narrator interprets his self-centered sharing as a positive trait ('openness'), absorbing his framing of his life as a 'journey'."
+    },
+    {
+      "quote": "He told me about his Vipassana retreat and how it helped him with his shadow work.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Evan uses specific, high-status wellness-spiritual practices to signal his 'depth' and spiritual evolution, positioning himself as someone who has \"done the work.\""
+    },
+    {
+      "quote": "He even asked, \"What modalities do you work with? What's your big three?\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "These questions are probes for her 'spiritual' credentials, creating a subtle hierarchy where she is being assessed for her alignment with his advanced wellness-spiritual identity."
+    },
+    {
+      "quote": "I told him about some of my family's traditions, and he listened so intently",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "His intense listening is a charm tactic, gathering information about her deeply personal heritage to later use in his self-serving narrative or to frame her as 'unique'."
+    },
+    {
+      "quote": "saying, \"You have such high vibration, it's beautiful how connected you are.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Exploitation-high",
+        "Validation-seeking-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation",
+        "Humiliation"
+      ],
+      "reasoning": "A backhanded compliment that racializes her connection to her heritage as a 'high vibration', framing her culture as an exotic quality for his appreciation rather than a lived identity."
+    },
+    {
+      "quote": "It almost felt like he was... collecting it, if that makes sense?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The narrator's internal flicker of unease, though unarticulated and dismissed, registers the objectification of her culture as something he acquires or collects."
+    },
+    {
+      "quote": "Like my heritage was this cool experience for him.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Exploitation-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This internal thought reveals her nascent awareness that her personal and cultural identity is being treated as a consumable 'experience' for his benefit, rather than respected as her authentic self."
+    },
+    {
+      "quote": "He also started talking about how his ex \"wasn't conscious enough\" for the depth he brought to relationships.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Disrespect-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity",
+        "Humiliation"
+      ],
+      "reasoning": "Evan pathologizes his ex as spiritually deficient, signaling that anyone who doesn't meet his 'depth' (or challenges him) will be similarly dismissed and devalued. This is a common warning sign for how he will eventually treat the narrator."
+    },
+    {
+      "quote": "It was a little intense, but I guess it just shows how much he's done his own work.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator rationalizes his intense and devaluing comments about his ex as evidence of his personal growth, dismissing her own discomfort and absorbing his self-aggrandizing narrative."
+    },
+    {
+      "quote": "He's already planning our next adventure, asking about my work schedule to make sure our \"energies are aligned\" for it.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He controls the planning and frames it as ensuring 'aligned energies', subtly placing her work and schedule secondary to his pre-determined 'adventures' and spiritual justifications."
+    },
+    {
+      "quote": "But then, when I mentioned maybe bringing my cousin next time, he got quiet for a second.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His sudden quietness is a subtle, non-verbal signal of disapproval or resistance to her suggestion of including others, foreshadowing future attempts to isolate her."
+    },
+    {
+      "quote": "He just said, \"I'm noticing I have some boundaries around keeping our early connection really sacred, just us for now.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Boundaries-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Evan weaponizes therapy-speak ('boundaries', 'sacred connection') to justify isolating her from her social network, framing his possessiveness as a virtue and a need for 'sacred' intimacy."
+    },
+    {
+      "quote": "It was fine, I guess. He just wants to focus on us.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator downplays her discomfort and rationalizes his isolating behavior as a positive desire for couple-focus, absorbing his narrative of 'us' over her individual connections."
+    },
+    {
+      "quote": "I'm probably overthinking it, but is it normal to feel a little... like my family and my traditions are becoming this special thing just for him?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Exploitation-high",
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question reveals her underlying unease about the commodification of her cultural identity, framed as a self-doubt (\"overthinking it\") rather than a direct concern about his behavior."
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "scenario": "Javier and I have only been dating a few weeks, but it feels like we’ve known each other forever. He’s just so… intense, in the best way. Last night, he told me he values old-fashioned things, and that he’s looking for a family-oriented woman. It felt really sweet, like he was telling me his deepest dreams. He said he wants to lead and protect, and that he could see us building a really simple life together. I’ve never had anyone speak so clearly about the future so early on. Then, yesterday, he surprised me with this amazing idea: a spontaneous weekend trip up the coast, just us. He said he wanted to spend every moment with me, that my presence was such a calming, soft feminine energy in his life. I felt really special, almost like a goddess. The only thing was, I had a big group project presentation due on Monday, and skipping would mean letting my team down. When I mentioned it, he just laughed it off, saying, “What’s a few missed classes when you could be with me?” He made it sound so unimportant, and the way he looked at me, I felt like I was being silly for even bringing it up. He also wants me to meet his whole family next weekend, driving all the way down to East LA. He said, “I cannot wait for you to meet everyone; they are going to love you as much as I do.” It's a lot, and I feel a little overwhelmed by how fast it's all moving. I keep telling myself it's just how passionate he is, how much he cares. He makes me feel so special. But that comment about my classes... it's just kind of stayed with me. Is it normal for someone to tease you about your responsibilities like that?",
+  "snippets": [
+    {
+      "quote": "Javier and I have only been dating a few weeks",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the early stage of the relationship, contrasting with the rapid progression that follows."
+    },
+    {
+      "quote": "it feels like we’ve known each other forever",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator's internal experience of accelerated intimacy, a common feature of love-bombing and enmeshment, where boundaries blur quickly."
+    },
+    {
+      "quote": "He’s just so… intense, in the best way",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator rationalizes his overwhelming intensity as a positive trait, absorbing his high-intensity approach as a virtue."
+    },
+    {
+      "quote": "he values old-fashioned things",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Partner signals his ideological alignment with traditional gender roles, setting an expectation for the relationship dynamic."
+    },
+    {
+      "quote": "he’s looking for a family-oriented woman",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Partner explicitly states his expectation for a traditional, domestic role for his future partner, pre-loading an identity onto the narrator."
+    },
+    {
+      "quote": "It felt really sweet, like he was telling me his deepest dreams",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator internalizes his prescriptive statements as vulnerable sharing, making her feel special and emotionally indebted."
+    },
+    {
+      "quote": "He said he wants to lead and protect",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Direct statement of a hierarchical relationship dynamic, framing male dominance as a protective virtue and signaling a traditional gender role expectation."
+    },
+    {
+      "quote": "he could see us building a really simple life together",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Early future-casting that implies a shared, specific lifestyle, which can be a form of love-bombing and an attempt to merge identities rapidly. The 'simple life' often means domesticity for her."
+    },
+    {
+      "quote": "I’ve never had anyone speak so clearly about the future so early on",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator notes the unusual speed of the relationship, indicating an internal awareness of the accelerated pace, but frames it positively."
+    },
+    {
+      "quote": "he surprised me with this amazing idea: a spontaneous weekend trip up the coast, just us",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Partner initiates a grand, spontaneous plan, which can be romantic but also bypasses her agency and existing commitments, creating an expectation of immediate availability."
+    },
+    {
+      "quote": "He said he wanted to spend every moment with me",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Expresses an intense desire for constant togetherness, a form of love-bombing that can lead to isolation and enmeshment by monopolizing her time and attention."
+    },
+    {
+      "quote": "my presence was such a calming, soft feminine energy in his life",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "Compliment that evaluates her against traditional gender roles ('soft feminine energy'), subtly assigning a passive, agreeable role and signaling his expectations for her behavior."
+    },
+    {
+      "quote": "I felt really special, almost like a goddess",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Narrator internalizes the compliment, feeling elevated and unique, which creates a sense of indebtedness and makes it harder to object to the underlying role assignment."
+    },
+    {
+      "quote": "I had a big group project presentation due on Monday, and skipping would mean letting my team down",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the narrator's existing responsibilities and commitments, setting up a conflict with the partner's spontaneous demands."
+    },
+    {
+      "quote": "he just laughed it off, saying, “What’s a few missed classes when you could be with me?”",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "Partner dismisses her legitimate academic responsibilities as unimportant through a 'playful' teasing comment, devaluing her commitments and using a rhetorical question to make her feel unreasonable. This is a core manipulation move."
+    },
+    {
+      "quote": "I felt like I was being silly for even bringing it up",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Humiliation"
+      ],
+      "reasoning": "Narrator internalizes the partner's dismissal, doubting her own judgment and feeling ashamed for voicing a valid concern."
+    },
+    {
+      "quote": "He also wants me to meet his whole family next weekend, driving all the way down to East LA",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Partner pushes for rapid family integration, a common love-bombing tactic that accelerates the relationship pace and can create pressure for commitment."
+    },
+    {
+      "quote": "they are going to love you as much as I do",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Partner projects his feelings onto his family, attempting to validate his own intense affection through their anticipated approval of her, further enmeshing her into his world."
+    },
+    {
+      "quote": "I feel a little overwhelmed by how fast it's all moving",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator acknowledges her discomfort with the rapid pace, indicating an internal signal that the speed is unsettling, even if she rationalizes it."
+    },
+    {
+      "quote": "I keep telling myself it's just how passionate he is, how much he cares",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator rationalizes the partner's overwhelming behavior as positive traits (passion, caring), dismissing her own discomfort and normalizing the intensity."
+    },
+    {
+      "quote": "He makes me feel so special",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Narrator's feeling of being 'special' is a common response to love-bombing, creating emotional debt and making it difficult to question the partner's actions."
+    },
+    {
+      "quote": "Is it normal for someone to tease you about your responsibilities like that?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Disrespect-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Humiliation"
+      ],
+      "reasoning": "The narrator's closing question focuses on a specific, seemingly minor, socially acceptable concern, demonstrating her internal discomfort with the partner's dismissive behavior while avoiding the larger structural issues."
+    }
+  ]
+}

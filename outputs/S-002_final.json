@@ -1,0 +1,303 @@
+{
+  "scenario_id": "S-002",
+  "player_type": "Menacing Marley",
+  "scenario": "Alex and I have been seeing each other for a few weeks, and honestly, it’s been a whirlwind. He’s so intense in the best way. Last Saturday, he planned our whole evening, saying, “I made us a reservation, figured you’d rather not have to think about it.” It was sweet, a perfect spot downtown. He just takes charge, you know? Later, over drinks, he looked at me and said, “I’ve never wanted anyone the way I want you. It’s almost too much, I can’t think straight.” It made me feel so special, like I’m really his person. When we were leaving, he insisted on driving me all the way home, even though it was a bit out of his way. “I’ll drive you. I don’t love the idea of you out on your own that late,” he said, and it felt really protective. He’s just such a gentleman. The next day, I was scrolling through Instagram and he texted, “You’re not like other women, you know? So natural. I just hope you don’t start doing all that heavy makeup stuff for the ‘gram.” It was a little out of the blue, but I guess he meant it sweetly. Then, at a coffee shop yesterday, some guy at the counter glanced at me a couple times. Alex caught it and his tone went flat for a second. “I didn’t love how that guy was looking at you. I’m pretty protective of the people I care about,” he said, then smiled. He just gets so fired up. He even joked, “You’re not really going to keep talking to other guys now that we’re a thing, right? ...kidding, kidding, no pressure.” I laughed, but it kind of stayed with me. I know he’s a take-charge kind of guy, and he likes leading and looking after my person. Is it weird that the joke about other guys felt… not entirely like a joke?",
+  "snippets": [
+    {
+      "quote": "Alex and I have been seeing each other for a few weeks",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the early stage of the relationship."
+    },
+    {
+      "quote": "He’s so intense in the best way.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator reframes his high intensity, which can be overwhelming, as a positive trait, indicating early absorption of his framing."
+    },
+    {
+      "quote": "I made us a reservation, figured you’d rather not have to think about it.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes over a shared decision, framing it as thoughtfulness. This removes her agency in planning, subtly establishing his control over shared activities."
+    },
+    {
+      "quote": "It was sweet, a perfect spot downtown.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator rationalizes his controlling behavior as 'sweet,' dismissing the underlying power dynamic."
+    },
+    {
+      "quote": "He just takes charge, you know?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator internalizes and validates his dominant behavior as a positive, expected trait, using his own framing to describe him."
+    },
+    {
+      "quote": "I’ve never wanted anyone the way I want you. It’s almost too much, I can’t think straight.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a love-bombing statement that expresses overwhelming intensity, framing it as passion. It creates an intense, almost disorienting emotional bond, making her feel uniquely desired while signaling disproportionate attachment."
+    },
+    {
+      "quote": "It made me feel so special, like I’m really his person.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator absorbs his possessive language ('his person') as a sign of being cherished and special, rather than an early claim of ownership."
+    },
+    {
+      "quote": "he insisted on driving me all the way home",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He overrides her potential independence in transportation, framing it as a protective gesture. This establishes his control over her mobility, even if presented as chivalry."
+    },
+    {
+      "quote": "I don’t love the idea of you out on your own that late",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a polite directive, couched as concern for her safety. It subtly dictates her movements and reinforces his role as her protector, making her feel cared for while eroding her independent agency."
+    },
+    {
+      "quote": "it felt really protective.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator interprets his controlling behavior as 'protective,' aligning with his framing and dismissing any potential discomfort or loss of autonomy."
+    },
+    {
+      "quote": "He’s just such a gentleman.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator uses a positive, socially acceptable label ('gentleman') to describe behavior that also carries elements of control and dominance, rationalizing it away."
+    },
+    {
+      "quote": "You’re not like other women, you know? So natural.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is an elevation-through-devaluation compliment. He praises her by contrasting her with a devalued category ('other women'), implicitly rewarding her for conforming to his ideal of 'natural' femininity and creating a precarious 'exception' status."
+    },
+    {
+      "quote": "I just hope you don’t start doing all that heavy makeup stuff for the ‘gram.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "A polite directive disguised as a hope, directly policing her appearance and online self-presentation. It's a subtle critique framed as caring, but it dictates her behavior and devalues her choices."
+    },
+    {
+      "quote": "I guess he meant it sweetly.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator rationalizes his critical comment as 'sweet,' dismissing her own discomfort and the subtle control embedded in his words."
+    },
+    {
+      "quote": "I didn’t love how that guy was looking at you. I’m pretty protective of the people I care about.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He expresses possessive jealousy, framing it as protection. This signals his ownership over her and creates an external threat (other men), making her feel cared for while subtly isolating her from external validation."
+    },
+    {
+      "quote": "He just gets so fired up.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator normalizes his intense and potentially dysregulated emotional reactions as mere 'passion,' dismissing the underlying controlling impulse."
+    },
+    {
+      "quote": "You’re not really going to keep talking to other guys now that we’re a thing, right? ...kidding, kidding, no pressure.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Deception-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is a 'test-and-apologize' boundary probe. He asserts a possessive expectation, then retracts it with 'kidding, no pressure.' The retraction provides deniability, but the underlying expectation is real, making her feel pressured to comply."
+    },
+    {
+      "quote": "I know he’s a take-charge kind of guy, and he likes leading and looking after my person.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator fully internalizes his self-declaration of dominance and possessiveness, framing it as positive leadership and care, rather than a claim of control and ownership."
+    },
+    {
+      "quote": "Is it weird that the joke about other guys felt… not entirely like a joke?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question reveals her lingering unease despite her rationalizations. She questions her perception of his 'joke,' indicating a subtle internal red flag about the sincerity of his retraction."
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "scenario_id": "S-012",
+  "player_type": "Egocentric Evan",
+  "scenario": "I met Ethan at our college reunion in Boulder a few months back. He’s originally from Denver, and we just clicked. He’s so different from anyone I’ve dated here in Rapid City. He talks a lot about his 'healing journey' and how he’s 'doing the work' with his IFS-trained therapist. He even mentioned spending time in Bali, which sounds amazing. He said he 'felt my energy immediately' and that 'the universe brought us together.' It felt so special, like we were really aligned. Last weekend, he surprised me by showing up in Rapid City and suggesting a spontaneous road trip to the Badlands. He said he 'just wanted to immerse himself in the beauty and culture I'm always talking about.' It was a really sweet gesture. I had a family gathering planned for Sunday, our traditional meal, and I felt a little bad canceling, but I figured it was worth it to share something so personal with him. He was so excited, taking photos of everything and asking me to explain the formations in Lakota. He has this way of making everything feel so deep. Later, over dinner, he was telling me about his time in Japan and the 'unique hobbies' he picked up there, like collecting gacha figures. He laughed and said, 'I might just get you hooked too.' It was a silly comment, but I kind of just... smiled. He's also been so attentive about my schedule. Just yesterday, he was asking about my work hours for next month, saying he wants to 'plan our next adventure' together, maybe a plant medicine retreat or a Kundalini workshop. It’s all so exciting and new. I guess I'm just wondering, is it normal to feel a little bit of a tug when someone says they'll 'get you hooked' on their hobbies?",
+  "snippets": [
+    {
+      "quote": "Boulder",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Boulder, Colorado is a specific geographic and cultural hub associated with wellness and spiritual communities, signaling the partner's background."
+    },
+    {
+      "quote": "from Denver",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Denver is another hub for wellness and spiritual communities, aligning with the partner's cultural register and indicating his geographic origin."
+    },
+    {
+      "quote": "He’s so different from anyone I’ve dated here in Rapid City.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The narrator elevates the partner by devaluing her previous dating experiences and local connections, indicating he is successfully positioning himself as unique and superior."
+    },
+    {
+      "quote": "his 'healing journey'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This phrase positions the partner as someone engaged in profound self-development, a common self-narrative in the wellness-spiritual community that can be used to assert personal superiority or justify self-focused behavior."
+    },
+    {
+      "quote": "he’s 'doing the work'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "A common phrase in therapy-fluent and wellness circles, 'doing the work' signals commitment to self-improvement but can also be used to position oneself as more evolved or to dismiss others who are 'not doing their work'."
+    },
+    {
+      "quote": "IFS-trained therapist",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Internal Family Systems (IFS) is a specific therapy modality, signaling the partner's immersion in a particular therapeutic framework within the wellness-spiritual community."
+    },
+    {
+      "quote": "spending time in Bali",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Bali, particularly Ubud, is a well-known destination for wellness tourism and spiritual retreats, indicating the partner's lifestyle and values within the community."
+    },
+    {
+      "quote": "he 'felt my energy immediately'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This phrase suggests an immediate, profound spiritual connection, often used in love-bombing to create a sense of fated intimacy and accelerate the relationship's intensity."
+    },
+    {
+      "quote": "'the universe brought us together.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Framing the relationship as cosmically ordained removes agency from both partners and increases the stakes, making separation feel like a betrayal of a higher power."
+    },
+    {
+      "quote": "we were really aligned",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator adopts the partner's wellness-spiritual vocabulary to describe their connection, indicating absorption of his framework and a sense of profound, perhaps fated, compatibility."
+    },
+    {
+      "quote": "surprised me by showing up in Rapid City and suggesting a spontaneous road trip to the Badlands",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His 'spontaneous' arrival and immediate suggestion for a trip, while seemingly romantic, disregards her existing schedule and personal space, asserting his control over their shared time and activities."
+    },
+    {
+      "quote": "just wanted to immerse himself in the beauty and culture I'm always talking about",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Exploitation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He frames his desire to experience her Lakota heritage as a compliment and an act of deep interest, but it positions her culture as an exotic 'experience' for his personal consumption and validation, rather than an integral part of her life."
+    },
+    {
+      "quote": "really sweet gesture",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator's internal framing of his controlling move as 'sweet' indicates her rationalization of his behavior, making her less likely to question its underlying implications."
+    },
+    {
+      "quote": "I had a family gathering planned for Sunday, our traditional meal, and I felt a little bad canceling, but I figured it was worth it to share something so personal with him.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Exploitation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The narrator rationalizes sacrificing her established family and cultural commitments for his spontaneous desire, creating emotional debt and allowing him to subtly displace her existing community ties in favor of his plans."
+    },
+    {
+      "quote": "taking photos of everything and asking me to explain the formations in Lakota",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "His actions treat her cultural heritage as a spectacle and a source of information for his personal enrichment, positioning her as a guide to his 'experience' rather than a partner sharing her life."
+    },
+    {
+      "quote": "making everything feel so deep",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator perceives his intense focus as 'deep,' which can be a form of love-bombing that creates an overwhelming sense of connection, making her feel uniquely understood and special."
+    },
+    {
+      "quote": "his time in Japan and the 'unique hobbies' he picked up there, like collecting gacha figures",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Highlighting his 'unique hobbies' and international experiences serves to elevate his perceived status and sophistication, contributing to a sense of grandiosity."
+    },
+    {
+      "quote": "'I might just get you hooked too.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This seemingly playful comment reveals a subtle intent to absorb her interests into his, indicating a desire to control her leisure activities and merge her identity with his."
+    },
+    {
+      "quote": "asking about my work hours for next month, saying he wants to 'plan our next adventure' together, maybe a plant medicine retreat or a Kundalini workshop.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "While appearing attentive, his pre-emptive planning for 'our next adventure' (with specific, culturally loaded suggestions) asserts control over her future time and experiences, and signals a rapid, enmeshing escalation of the relationship on his terms."
+    }
+  ]
+}

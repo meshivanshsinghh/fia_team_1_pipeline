@@ -1,0 +1,281 @@
+{
+  "scenario_id": "S-016",
+  "player_type": "Backhanded Blake",
+  "scenario": "I've been in Boston for a few months now, and meeting Alex has been such a whirlwind experience. We spent last weekend exploring the Freedom Trail, and he was so charming, always insisting on treating me to little surprises along the way. He’s just so *dialed in* with his life, always talking about his *mission* and how he’s *building* something. He does a *cold plunge* every morning and *lifts* religiously. Honestly, it’s inspiring. The other night, we were at a small gathering with his friends, and he was introducing me to everyone, saying I was a \"*unicorn*\" and that I \"*bring peace to his life*.\" It felt really special, like he sees something unique in me. But then later, when I was talking about my work, he kind of laughed and said, \"*Look*, most women don't get this deep into strategy. You've got this intense focus, but sometimes you just need to relax and let your *feminine energy* flow, you know?\" Everyone chuckled. I laughed too, because he meant it sweetly, like a compliment, and I didn't want to seem rigid. But it just kind of... stayed with me. He's so confident and knows what he wants, and I really do like that about him. I just hope I'm not overthinking it, because I really like him. Is it weird that the comment stayed with me a little?",
+  "snippets": [
+    {
+      "quote": "I've been in Boston for a few months now",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the narrator's newness to the city and potential vulnerability in a new social environment."
+    },
+    {
+      "quote": "Alex has been such a whirlwind experience",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Describes the relationship's pace as overwhelming, suggesting a rapid escalation of intimacy or emotional intensity that can be a hallmark of love-bombing."
+    },
+    {
+      "quote": "insisting on treating me to little surprises along the way",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "While seemingly generous, 'insisting' implies a lack of choice for the narrator, establishing a pattern where he dictates gestures of 'care' and positions her as recipient."
+    },
+    {
+      "quote": "He’s just so dialed in with his life, always talking about his mission and how he’s building something.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Grandiosity-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "These Red Pill phrases ('dialed in,' 'mission,' 'building') are used by Alex to signal self-importance and a singular focus, subtly positioning his goals above all else, including the relationship."
+    },
+    {
+      "quote": "He does a cold plunge every morning and lifts religiously.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Sense of Self-high",
+        "Perseverance-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "These are common Red Pill lifestyle markers, signaling his commitment to physical optimization and discipline, which the narrator finds impressive, aligning with his self-image."
+    },
+    {
+      "quote": "Honestly, it’s inspiring.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator's admiration for his disciplined lifestyle shows her absorption of his self-framing, potentially setting a standard she feels pressured to meet or appreciate."
+    },
+    {
+      "quote": "he was introducing me to everyone, saying I was a 'unicorn'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "A Red Pill compliment that elevates her by making her an exception to 'other women,' creating a sense of specialness but also defining her value by his specific, unstated criteria."
+    },
+    {
+      "quote": "and that I 'bring peace to his life.'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This Red Pill phrase is a conditional compliment, valuing her for her non-confrontational nature and implying that her role is to maintain his tranquility, not to challenge him."
+    },
+    {
+      "quote": "It felt really special, like he sees something unique in me.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator internalizes his conditional praise as genuine recognition, reinforcing her feeling of being chosen and special, which can obscure the underlying controlling dynamic."
+    },
+    {
+      "quote": "But then later, when I was talking about my work",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This sets up the context for the backhanded compliment, where her engagement in her professional life becomes the target of his subtle criticism."
+    },
+    {
+      "quote": "he kind of laughed and said, 'Look, most women don't get this deep into strategy.'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Disrespect-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is a classic Red Pill backhanded compliment. He uses 'Look' to assert authority, then devalues her interest in strategy by comparing her to 'most women,' implying it's an undesirable trait."
+    },
+    {
+      "quote": "'You've got this intense focus, but sometimes you just need to relax and let your feminine energy flow, you know?'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Cognitive Flexibility-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "This Red Pill phrase directly critiques her 'intense focus' (a positive trait) and instructs her to adopt 'feminine energy,' framing her authentic self as needing correction to fit his ideal."
+    },
+    {
+      "quote": "Everyone chuckled.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The social validation of his 'joke' normalizes his subtle disrespect, making it harder for the narrator to object without appearing to lack a sense of humor."
+    },
+    {
+      "quote": "I laughed too, because he meant it sweetly, like a compliment",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator rationalizes his comment as a sweet compliment, dismissing her own discomfort and aligning her perception with his 'playful' intent, even though the words are devaluing."
+    },
+    {
+      "quote": "and I didn't want to seem rigid.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Conflict-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This reveals her fear of being perceived negatively (e.g., 'rigid'), indicating that his prior 'compliment' about her 'feminine energy' has already set a social expectation she feels she must meet."
+    },
+    {
+      "quote": "But it just kind of... stayed with me.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her lingering discomfort signals that her subconscious registered the devaluing nature of the comment, even if her conscious mind rationalized it away."
+    },
+    {
+      "quote": "He's so confident and knows what he wants",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Dominance-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The narrator's positive framing of his confidence and decisiveness aligns with Red Pill ideals of masculine leadership, making her more likely to accept his directives."
+    },
+    {
+      "quote": "Is it weird that the comment stayed with me a little?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Conflict-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question minimizes her discomfort, framing it as a potential personal failing ('weird') rather than a legitimate reaction to a disrespectful comment, reflecting self-doubt."
+    }
+  ]
+}

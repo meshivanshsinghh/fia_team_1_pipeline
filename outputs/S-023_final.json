@@ -1,0 +1,299 @@
+{
+  "scenario_id": "S-023",
+  "player_type": "Menacing Marley",
+  "scenario": "Daniel is just... incredible. I've been seeing him for a few weeks now, here in San Francisco, and I feel so lucky. He's a few years younger than me, but so mature, and so serious about his deen. He texts me every morning, \"Morning. What's your day looking like?\" and I love that he wants to be so connected. He's Egyptian, and I'm Syrian, and it's nice to have someone who understands my background. Last week, he surprised me by making a reservation at this lovely Middle Eastern place downtown. \"I made us a reservation, figured you'd rather not have to think about it,\" he said, and it was so thoughtful. Later, he asked me, \"How religious is the family?\" and \"When did you start covering?\" which is normal, you know, for us. But then he got a bit quiet when I said I sometimes don't wear hijab if I'm just with my girlfriends. He said, \"I just think when you're really with someone, they kind of become your priority, you know? Before friends.\" It was a little intense, but he explained, \"I'm just a really passionate man. When I care about someone, I care all the way.\" I guess I went quiet after that, and he texted later, \"You went quiet on me earlier. Everything okay?\" It made me feel a bit bad, like I needed to explain myself. I know he just wants to make sure I'm safe and respected. He even said, \"I'm not going to apologize for having standards.\" He's just very clear about what he wants, which is refreshing. I'm probably overthinking it, but is it normal to feel like I need to respond to every text right away?",
+  "snippets": [
+    {
+      "quote": "Daniel is just... incredible.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator's immediate elevation of Daniel to 'incredible' suggests an early idealization, often a response to love-bombing, setting a high bar for her own gratitude and loyalty."
+    },
+    {
+      "quote": "He's a few years younger than me, but so mature, and so serious about his deen.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This snippet provides demographic context (age difference, religious commitment 'deen') and establishes Daniel's perceived maturity and religious seriousness, which the narrator values."
+    },
+    {
+      "quote": "He texts me every morning, \"Morning. What's your day looking like?\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This establishes a baseline of constant communication, presented as care. It is an early thread of a tether, normalizing daily check-ins that can later become an expectation of reporting."
+    },
+    {
+      "quote": "I love that he wants to be so connected.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator interprets Daniel's constant communication as a positive desire for connection, absorbing his intensity as a sign of deep affection rather than a potential boundary issue."
+    },
+    {
+      "quote": "He's Egyptian, and I'm Syrian, and it's nice to have someone who understands my background.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This provides cultural and national background, highlighting the importance of shared heritage and understanding within the Conservative Sunni Muslim community. It also sets up a potential power dynamic where he can leverage this shared background."
+    },
+    {
+      "quote": "he surprised me by making a reservation at this lovely Middle Eastern place downtown.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A thoughtful gesture that also centralizes his agency in planning and decision-making. It's a subtle move of control, where he takes charge of her leisure time, framed as a pleasant surprise."
+    },
+    {
+      "quote": "\"I made us a reservation, figured you'd rather not have to think about it,\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a 'take-charge real-man' move. He preempts her decision-making, framing it as care and convenience. The 'not have to think about it' removes her from the process, subtly eroding her agency."
+    },
+    {
+      "quote": "Later, he asked me, \"How religious is the family?\" and \"When did you start covering?\"",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "These are standard identity probes within the Conservative Sunni Muslim community to gauge religious observance and family background. They are normal questions but also gather information for future judgment or control."
+    },
+    {
+      "quote": "which is normal, you know, for us.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator rationalizes Daniel's probing questions as culturally normal, dismissing any potential discomfort she might feel and aligning herself with his expectations of 'us'."
+    },
+    {
+      "quote": "But then he got a bit quiet when I said I sometimes don't wear hijab if I'm just with my girlfriends.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "This is a subtle 'reacts-badly-to-no' moment. His quietness is a mild, non-verbal consequence for her expressing a boundary or a less conservative practice, testing her willingness to conform."
+    },
+    {
+      "quote": "\"I just think when you're really with someone, they kind of become your priority, you know? Before friends.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This phrase frames isolation as devotion and commitment, subtly demanding that she prioritize him over her independent social life. It's 'love-as-ownership' disguised as a natural progression of a serious relationship."
+    },
+    {
+      "quote": "It was a little intense, but he explained, \"I'm just a really passionate man. When I care about someone, I care all the way.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Intensity-high",
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He reframes his intensity and potential possessiveness as an admirable, fixed personality trait ('passionate man'), pre-framing future controlling behavior as simply 'caring all the way.' This makes her discomfort seem like a misinterpretation of his 'good' qualities."
+    },
+    {
+      "quote": "I guess I went quiet after that,",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her silence indicates she absorbed his message and felt unable to push back or articulate her discomfort. It's a moment of passive compliance, showing the early erosion of her agency."
+    },
+    {
+      "quote": "and he texted later, \"You went quiet on me earlier. Everything okay?\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is a 'fear-seeding/mood-management' tactic. It sounds caring but establishes an expectation of constant responsiveness. Her silence is flagged as a 'problem' she needs to account for, creating carefulness around her communication speed and emotional state."
+    },
+    {
+      "quote": "It made me feel a bit bad, like I needed to explain myself.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "The narrator internalizes the blame, feeling obligated to account for her own emotional state or silence. This indicates a shift in the relationship dynamic where her feelings become something she owes him an explanation for."
+    },
+    {
+      "quote": "I know he just wants to make sure I'm safe and respected.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator rationalizes Daniel's controlling behavior (constant check-ins, defining her social priorities) as protective and respectful, adopting his framing of his actions as benevolent."
+    },
+    {
+      "quote": "He even said, \"I'm not going to apologize for having standards.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Dominance-high",
+        "Accountability-low",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Moral Injury"
+      ],
+      "reasoning": "This is a 'doesn't-back-down' maneuver. He frames his rigid expectations as 'standards,' making any challenge to them seem like an attack on his integrity or masculinity. It's a refusal of accountability disguised as principled resolve."
+    },
+    {
+      "quote": "He's just very clear about what he wants, which is refreshing.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator interprets Daniel's clear, uncompromising expectations as a positive trait ('refreshing'), rather than recognizing it as a potential lack of flexibility or willingness to compromise, further absorbing his framing."
+    },
+    {
+      "quote": "I'm probably overthinking it, but is it normal to feel like I need to respond to every text right away?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the narrator's closing question, expressing a small, socially acceptable concern. It highlights the subtle pressure she feels regarding communication responsiveness, which is a direct outcome of Daniel's 'respect-as-compliance' and 'mood-management' tactics."
+    }
+  ]
+}

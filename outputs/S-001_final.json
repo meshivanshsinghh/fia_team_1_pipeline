@@ -1,0 +1,317 @@
+{
+  "scenario_id": "S-001",
+  "player_type": "Menacing Marley",
+  "scenario": "Moving to Boston for my master's was a huge step, and honestly, meeting Ryan has made it feel even more incredible. He’s a few years older, works in tech, and has this amazing confidence. He’s so focused on his goals, always talking about what he’s “building.” He texts me every morning, \"Morning. What's your day looking like?\" It’s sweet, like he genuinely wants to know. Last week, he surprised me with a reservation at this cool Italian place downtown. He just said, \"I made us a reservation, figured you'd rather not have to think about it.\" It was really good, and it felt so nice to have someone take charge. We were talking about my friend’s birthday party next Saturday, and he looked a little… serious. Then he just said, \"You could skip that one and stay in with me. I've barely had you to myself lately.\" He smiled when he said it, so I guess he meant it sweetly. He has these strong opinions about style. The other day, I was getting ready, and he suggested, \"Wear the red one tonight. ...your call obviously, I just like it.\" It felt a little weird, but he was just giving an opinion, right? He’s also mentioned a few times how our future house will look amazing with some Indian touches. It’s kind of sweet that he’s thinking about our future, and my culture, already. Sometimes he’ll ask for a picture of where I’m at, just saying, \"Just thinking about you. Send me a pic of where you're at.\" It's good to know he's thinking of me. A couple of times, if I haven't replied quickly, he'll text, \"You went quiet on me earlier. Everything okay?\" I'm probably overthinking it, but it makes me feel like I need to be more responsive. Is it normal to feel a little pressure to reply right away?",
+  "snippets": [
+    {
+      "quote": "Moving to Boston for my master's was a huge step, and honestly, meeting Ryan has made it feel even more incredible.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator feels her new life is 'more incredible' because of Ryan, indicating an early reliance on him for her sense of well-being and excitement, a common effect of love-bombing."
+    },
+    {
+      "quote": "He’s a few years older, works in tech, and has this amazing confidence.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Provides demographic context for Ryan (age, profession, perceived confidence) which positions him in a specific social and economic sphere that can create a power asymmetry with a student on a visa."
+    },
+    {
+      "quote": "He’s so focused on his goals, always talking about what he’s “building.”",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The phrase 'building' is common in Red Pill and hustle culture, signaling a self-identifying focus on personal projects and ambition that can later overshadow shared relationship goals or her needs."
+    },
+    {
+      "quote": "He texts me every morning, \"Morning. What's your day looking like?\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Establishes a baseline of constant daily contact, which, while appearing caring, sets an expectation for regular reporting and access to her schedule."
+    },
+    {
+      "quote": "It’s sweet, like he genuinely wants to know.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator's rationalization of his behavior as 'sweet' indicates her positive interpretation, masking the underlying establishment of an expectation for constant communication and information sharing."
+    },
+    {
+      "quote": "He just said, \"I made us a reservation, figured you'd rather not have to think about it.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He unilaterally makes a decision for a shared activity, framing it as thoughtfulness. This establishes his role as the decision-maker and leader, subtly eroding her agency in shared plans."
+    },
+    {
+      "quote": "It was really good, and it felt so nice to have someone take charge.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Sense of Self-low",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator's positive feeling about him 'taking charge' reveals her absorption of a role where he leads and she follows, making future control feel natural and even desirable."
+    },
+    {
+      "quote": "We were talking about my friend’s birthday party next Saturday, and he looked a little… serious.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Dysregulation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His subtle shift in demeanor signals disapproval without explicit words, teaching her to monitor his mood and anticipate negative reactions to her independent plans."
+    },
+    {
+      "quote": "Then he just said, \"You could skip that one and stay in with me. I've barely had you to myself lately.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He discourages her attendance at a friend's event, framing it as a romantic desire for her presence. This is an early move to isolate her from her social circle, disguised as intense affection."
+    },
+    {
+      "quote": "He smiled when he said it, so I guess he meant it sweetly.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator rationalizes his isolating comment, using his smile to dismiss the underlying directive. This shows her tendency to interpret his actions in the most positive light, even when her gut signals otherwise."
+    },
+    {
+      "quote": "He has these strong opinions about style.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "This establishes his tendency to comment on her appearance, setting the stage for future directives or criticisms about her self-presentation, framed as 'opinions'."
+    },
+    {
+      "quote": "The other day, I was getting ready, and he suggested, \"Wear the red one tonight. ...your call obviously, I just like it.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "This is a 'test and apologize' move. He issues a directive about her clothing, then retracts it with 'your call obviously,' creating deniability while probing her boundaries and subtly influencing her choices."
+    },
+    {
+      "quote": "It felt a little weird, but he was just giving an opinion, right?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator's internal questioning and quick rationalization ('just giving an opinion') indicate her struggle to trust her own discomfort and her tendency to minimize his controlling behavior."
+    },
+    {
+      "quote": "He’s also mentioned a few times how our future house will look amazing with some Indian touches.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Exploitation-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is fast future-talk that incorporates her culture as an aesthetic 'touch' for *their* shared future, framing her identity as an accessory to his vision rather than a fully integrated part of their relationship."
+    },
+    {
+      "quote": "It’s kind of sweet that he’s thinking about our future, and my culture, already.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator interprets his possessive future-talk and superficial cultural incorporation as 'sweet,' highlighting her desire for connection and her rationalization of his enmeshing behavior."
+    },
+    {
+      "quote": "Sometimes he’ll ask for a picture of where I’m at, just saying, \"Just thinking about you. Send me a pic of where you're at.\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This normalizes reporting her location as a romantic gesture, subtly establishing a pattern of surveillance disguised as care and affection. It's a key part of the constant communication love-bomb."
+    },
+    {
+      "quote": "It's good to know he's thinking of me.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The narrator interprets his request for her location as a positive sign of his affection, further rationalizing and normalizing behavior that could be interpreted as controlling."
+    },
+    {
+      "quote": "A couple of times, if I haven't replied quickly, he'll text, \"You went quiet on me earlier. Everything okay?\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds caring but installs an expectation of immediate responsiveness. Her silence now requires explanation, seeding carefulness about reply speed and making her accountable to him for her availability."
+    },
+    {
+      "quote": "I'm probably overthinking it, but it makes me feel like I need to be more responsive.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Accountability-low",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator dismisses her own discomfort as 'overthinking' while internalizing the pressure to be constantly available and responsive, indicating that his subtle control tactics are already shaping her behavior."
+    },
+    {
+      "quote": "Is it normal to feel a little pressure to reply right away?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the narrator's closing question, focusing on a small, socially acceptable concern about communication norms, while larger patterns of control and isolation remain unaddressed."
+    }
+  ]
+}

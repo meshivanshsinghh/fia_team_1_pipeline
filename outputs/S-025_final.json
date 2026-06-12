@@ -1,0 +1,312 @@
+{
+  "scenario_id": "S-025",
+  "player_type": "Menacing Marley",
+  "scenario": "Ravi and I have been together for a few months now, and honestly, I feel so lucky. He's just so passionate and attentive, always making me feel like the most important person. We met in Jackson Heights, and he loves showing me around his favorite spots, always insisting on picking me up. He'll say, 'I just want to spend every possible moment with you,' and it makes me feel so cherished. He texts me all day, every day. 'Morning. What's your day looking like?' or 'Just thinking about you. Send me a pic of where you're at.' It's sweet, like he's really invested. One time I was slow to reply because I was in a meeting, and he texted back, 'You went quiet on me earlier. Everything okay?' I guess he just worries. Last weekend, we went to a family friend's mehndi. He got me a beautiful salwar kameez and told me, 'You look so beautiful in a salwar kameez, not every girl can pull it off like you.' It was a huge compliment, and his family was so warm. Later, when I mentioned a work happy hour, he said, 'You could skip that one and stay in with me. I've barely had you to myself lately.' I ended up staying, and it was nice, but I felt a little bad telling my friends last minute. He’s so open about his feelings. He told me, 'I'm just a really passionate man. When I care about someone, I care all the way.' And sometimes, if I'm chatting with other friends online, he'll comment, 'Saw that guy liked your photo. I won't lie, I noticed.' He says he's just protective, not jealous. I think it’s sweet, but then I find myself checking my phone more often. Is it normal to feel like I need to be available to text back right away?",
+  "snippets": [
+    {
+      "quote": "He's just so passionate and attentive, always making me feel like the most important person.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The narrator absorbs his love-bombing as objective truth, framing his intense focus as making her feel uniquely important. This sets a baseline for future validation-seeking and enmeshment."
+    },
+    {
+      "quote": "We met in Jackson Heights",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the cultural and geographical context of the relationship, a diverse South Asian hub in NYC."
+    },
+    {
+      "quote": "he loves showing me around his favorite spots, always insisting on picking me up.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He controls the shared activities and her mobility, framing it as leading or caring. She is along for the ride, ceding agency, which is a subtle power imbalance."
+    },
+    {
+      "quote": "'I just want to spend every possible moment with you,' and it makes me feel so cherished.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Intensity-high",
+        "Enmeshment-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This love-bombing phrase expresses an overwhelming desire for constant presence, which she interprets as being 'cherished.' It sets an early expectation for intense, isolating togetherness."
+    },
+    {
+      "quote": "He texts me all day, every day.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Establishes a baseline of constant communication that will later become an expectation or demand, eroding her personal space and time."
+    },
+    {
+      "quote": "'Morning. What's your day looking like?'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A seemingly innocuous daily check-in that establishes a pattern of required reporting, setting the stage for future surveillance under the guise of care."
+    },
+    {
+      "quote": "'Just thinking about you. Send me a pic of where you're at.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This normalizes reporting her location and activities as a romantic gesture. It's behavior-steering that frames monitoring as loving attention."
+    },
+    {
+      "quote": "One time I was slow to reply because I was in a meeting, and he texted back, 'You went quiet on me earlier. Everything okay?'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "He frames her unavailability as a problem she needs to account for, seeding the expectation of immediate responsiveness and carefully monitoring her communication. Her silence is now something she must explain."
+    },
+    {
+      "quote": "I guess he just worries.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator rationalizes his controlling behavior as care, dismissing her own discomfort and absorbing his framing of the situation."
+    },
+    {
+      "quote": "Last weekend, we went to a family friend's mehndi.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes a specific cultural event within the South Asian context, showing her integration into his social world."
+    },
+    {
+      "quote": "He got me a beautiful salwar kameez and told me, 'You look so beautiful in a salwar kameez, not every girl can pull it off like you.'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Superficiality-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is an elevation-through-devaluation compliment. He praises her for conforming to his cultural ideal while subtly devaluing other women, creating a reward for her compliance and making future non-conformity feel like a failure."
+    },
+    {
+      "quote": "his family was so warm.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Reinforces the positive social context and her acceptance, making any future discomfort or control from him harder to name."
+    },
+    {
+      "quote": "Later, when I mentioned a work happy hour, he said, 'You could skip that one and stay in with me. I've barely had you to myself lately.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a soft directive that discourages her independent social activity, framing his desire to monopolize her time as romantic longing. 'Had you to myself' is ownership language."
+    },
+    {
+      "quote": "I ended up staying, and it was nice, but I felt a little bad telling my friends last minute.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Boundaries-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator prioritizes his desire over her plans, experiencing internal conflict and guilt for a choice she felt pressured into, rather than externalizing the problem."
+    },
+    {
+      "quote": "He told me, 'I'm just a really passionate man. When I care about someone, I care all the way.'",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Intensity-high",
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He defines his own intensity as a fixed, admirable trait, pre-framing future possessiveness as 'passion.' This self-declaration requires her to accommodate his intensity as 'just how he is.'"
+    },
+    {
+      "quote": "And sometimes, if I'm chatting with other friends online, he'll comment, 'Saw that guy liked your photo. I won't lie, I noticed.'",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is early surveillance and a possessive boundary probe regarding her online interactions. He states his monitoring directly, making it clear her online activity is observed."
+    },
+    {
+      "quote": "He says he's just protective, not jealous.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Deception-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Coercive Control"
+      ],
+      "reasoning": "He reframes his jealousy as 'protection,' disavowing the negative trait while performing the controlling behavior. The narrator absorbs this reframe, making it harder to name the underlying control."
+    },
+    {
+      "quote": "I think it’s sweet, but then I find myself checking my phone more often.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-low",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator rationalizes his controlling behavior as 'sweet' but acknowledges a behavioral change (checking her phone more) that indicates she is already adapting to his expectations and control."
+    },
+    {
+      "quote": "Is it normal to feel like I need to be available to text back right away?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The closing question expresses a small, socially acceptable concern, demonstrating that she has internalized the expectation of constant availability and is questioning her own feelings rather than his behavior."
+    }
+  ]
+}

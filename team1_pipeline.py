@@ -151,10 +151,13 @@ def build_linguistic_profile(scenario_id, register, player_type, community_df, p
     }
     
     # Save to disk as an artifact
-    ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     clean_type = player_type.replace(' ', '')
-    profile_path = PROFILES_DIR / f"profile_{scenario_id}_{clean_type}_{ts}.json"
+    profile_path = PROFILES_DIR / f"profile_{scenario_id}_{clean_type}.json"
     
+    # Clean up any old versions
+    for old_profile in PROFILES_DIR.glob(f"profile_{scenario_id}_*.json"):
+        old_profile.unlink()
+
     with open(profile_path, 'w', encoding='utf-8') as f:
         json.dump(profile, f, indent=2, ensure_ascii=False)
         
@@ -311,11 +314,24 @@ def main():
                 result, raw = regenerate_until_in_range(result, raw, system_prompt, user_msg)
                 
                 # STEP 5: Save
-                ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-                output_path = OUTPUTS_DIR / f"{scenario_id}_final_{ts}.json"
+                log("step 5", "Cleaning up old files and saving new version...")
+                
+                final_output = {
+                    "scenario_id": scenario_id,
+                    "player_type": player_type
+                }
+                
+                final_output.update(result)
+                
+                # Delete any existing files
+                for old_file in OUTPUTS_DIR.glob(f"{scenario_id}_final*.json"):
+                    old_file.unlink()
+                
+                # Save with a static, deterministic filename
+                output_path = OUTPUTS_DIR / f"{scenario_id}_final.json"
                 
                 with open(output_path, 'w', encoding='utf-8') as f:
-                    json.dump(result, f, indent=2, ensure_ascii=False)
+                    json.dump(final_output, f, indent=2, ensure_ascii=False)
                     
                 log("SUCCESS", f"Final JSON saved to: {output_path.name}")
                 

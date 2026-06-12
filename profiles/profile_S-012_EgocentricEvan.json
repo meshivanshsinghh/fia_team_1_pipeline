@@ -1,0 +1,810 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-012",
+    "target_register": "Wellness-Spiritual",
+    "player_type": "Egocentric Evan"
+  },
+  "manipulation_vocabulary": [],
+  "community_vocabulary": [
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I had to release him with love",
+      "type": "phrase",
+      "translation": "Framing his exit from relationship as spiritual practice",
+      "status_signal": "Common framing",
+      "notes": "Self-positions as evolved"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "She wasn't conscious enough",
+      "type": "phrase about ex",
+      "translation": "Ex framed as lacking spiritual awareness",
+      "status_signal": "Direct status hierarchy",
+      "notes": "Standard framing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Holotropic breathwork",
+      "type": "lifestyle marker",
+      "translation": "Specific intense breathing practice for altered states",
+      "status_signal": "Specific practice often retreat-based",
+      "notes": "Specific modality"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "My healer",
+      "type": "lifestyle marker",
+      "translation": "Energy worker or alternative practitioner",
+      "status_signal": "Spiritual-wellness signal",
+      "notes": "Specific path engagement"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "My shaman",
+      "type": "lifestyle marker",
+      "translation": "Specific spiritual practitioner he works with",
+      "status_signal": "Direct community signal",
+      "notes": "Specific path commitment"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Alignment",
+      "type": "vocabulary",
+      "translation": "Life-rightness as spatial orientation",
+      "status_signal": "Common signal",
+      "notes": "Vague but loaded"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "She was in her ego",
+      "type": "phrase about ex",
+      "translation": "Ex framed as spiritually unevolved",
+      "status_signal": "Standard wellness-spiritual dismissal",
+      "notes": "Reveals contempt framework"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Tracksmith",
+      "type": "status signal",
+      "translation": "Specific athletic brand for runners",
+      "status_signal": "Athletic-wellness specific brand",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Sober-curious",
+      "type": "lifestyle marker",
+      "translation": "Reducing or eliminating alcohol",
+      "status_signal": "Specific wellness identity",
+      "notes": "Generational trend"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "EMDR",
+      "type": "lifestyle marker",
+      "translation": "Eye Movement Desensitization and Reprocessing — trauma therapy",
+      "status_signal": "Specific therapy modality and trauma-work commitment",
+      "notes": "Specific modality"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I had to leave for my own healing",
+      "type": "phrase",
+      "translation": "He's framing a breakup or exit as personal growth rather than what actually happened",
+      "status_signal": "Standard exit-rationalization framing",
+      "notes": "Common self-positioning"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "He's still in his ego",
+      "type": "phrase",
+      "translation": "Person framed as spiritually undeveloped",
+      "status_signal": "Standard dismissal",
+      "notes": "Pre-loaded judgment"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Outdoor Voices",
+      "type": "status signal",
+      "translation": "Specific athleisure brand",
+      "status_signal": "Wellness-aesthetic athletic wear",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Bali (extended stay)",
+      "type": "lifestyle marker",
+      "translation": "Long-term living in Bali for spiritual development",
+      "status_signal": "Digital-nomad spiritual crossover",
+      "notes": "Specific destination"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Kundalini yoga",
+      "type": "lifestyle marker",
+      "translation": "Specific spiritually-oriented yoga",
+      "status_signal": "More spiritual yoga signal",
+      "notes": "Specific yoga style"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "The universe brought us together",
+      "type": "phrase",
+      "translation": "Meeting framed as cosmically ordained",
+      "status_signal": "Standard framing",
+      "notes": "Removes randomness; increases stakes"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Plant medicine",
+      "type": "lifestyle marker",
+      "translation": "Ayahuasca / psilocybin / MDMA-therapy as developmental experience",
+      "status_signal": "Standard signal",
+      "notes": "Specific to ceremony-experienced"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Nervous system regulation",
+      "type": "vocabulary",
+      "translation": "Polyvagal theory framework",
+      "status_signal": "Common signal",
+      "notes": "Therapy-fluent vocabulary"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Ayahuasca journey",
+      "type": "lifestyle marker",
+      "translation": "Specific psychedelic experience",
+      "status_signal": "Strong signal",
+      "notes": "Common reference"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "She wasn't ready for the depth I bring",
+      "type": "phrase about ex",
+      "translation": "Ex framed as having failed to keep up with him",
+      "status_signal": "Heavy positioning",
+      "notes": "Watch the pattern across exes"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "They were low-vibration",
+      "type": "phrase about people",
+      "translation": "People in his past framed as bad energy",
+      "status_signal": "Standard dismissal",
+      "notes": "Reveals worldview"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Hot yoga / Bikram",
+      "type": "lifestyle marker",
+      "translation": "Yoga in heated room — more fitness-leaning",
+      "status_signal": "Fitness-leaning yoga signal",
+      "notes": "Specific yoga style"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Ubud",
+      "type": "lifestyle marker",
+      "translation": "Specific Balinese town for wellness tourism",
+      "status_signal": "Standard wellness-tourism destination",
+      "notes": "Specific destination"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "My Reiki practitioner",
+      "type": "lifestyle marker",
+      "translation": "Energy-healing practitioner",
+      "status_signal": "Spiritual-wellness signal",
+      "notes": "Specific energy work"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I'm feeling activated",
+      "type": "phrase",
+      "translation": "He's emotionally triggered and using polyvagal vocabulary to dignify it",
+      "status_signal": "Somatic-awareness signal; sometimes used to exit conversations",
+      "notes": "Common therapy-speak"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "My acupuncturist",
+      "type": "lifestyle marker",
+      "translation": "Alternative medicine practitioner",
+      "status_signal": "Common wellness signal",
+      "notes": "Standard wellness infrastructure"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Sensual Eating / Authentic Tantra",
+      "type": "lifestyle marker",
+      "translation": "Specific sexuality-and-tantra workshops",
+      "status_signal": "Sacred-sexuality signal",
+      "notes": "Specific workshop circuit"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Embodiment / embodied",
+      "type": "vocabulary",
+      "translation": "Awareness located in body",
+      "status_signal": "Common framing",
+      "notes": "Vague but loaded"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Iyengar yoga",
+      "type": "lifestyle marker",
+      "translation": "Specific traditional precise-alignment yoga lineage",
+      "status_signal": "Traditional yoga signal",
+      "notes": "Specific yoga style"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I'm holding space for you",
+      "type": "phrase",
+      "translation": "He's claiming to support you while sometimes doing nothing",
+      "status_signal": "Often deployed one-way",
+      "notes": "Watch for reciprocity"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Vegan",
+      "type": "lifestyle marker",
+      "translation": "No animal products in diet — often framed ethically and spiritually",
+      "status_signal": "Standard wellness dietary commitment",
+      "notes": "Specific dietary identity"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "The Mankind Project",
+      "type": "lifestyle marker",
+      "translation": "Specific men's-work organization with weekend retreats",
+      "status_signal": "Specific masculine-development signal",
+      "notes": "Specific organization"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "You have such high vibration",
+      "type": "phrase",
+      "translation": "He's complimenting your spiritual frequency",
+      "status_signal": "Standard wellness-spiritual compliment",
+      "notes": "Hierarchy framing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "My therapist",
+      "type": "lifestyle marker",
+      "translation": "Specifically IFS or somatic or trauma-informed therapist",
+      "status_signal": "Standard wellness-spiritual infrastructure",
+      "notes": "Therapy as ongoing identity"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Vipassana retreat",
+      "type": "lifestyle marker",
+      "translation": "10-day silent Buddhist meditation retreat",
+      "status_signal": "Buddhist-traditional signal",
+      "notes": "Specific practice"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I do my own research on health",
+      "type": "phrase",
+      "translation": "Alternative health information ecosystem",
+      "status_signal": "Wellness-conspiracy crossover",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I trust divine timing",
+      "type": "phrase",
+      "translation": "Standard wellness framing of patience",
+      "status_signal": "Standard wellness vocabulary",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "What's your big three?",
+      "type": "question",
+      "translation": "Sun moon and rising sign in astrology",
+      "status_signal": "Astrology-literate probe",
+      "notes": "Specific framework"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "You're a beautiful soul",
+      "type": "phrase",
+      "translation": "Compliment that frames you in metaphysical rather than ordinary terms",
+      "status_signal": "Common love-bombing phrasing",
+      "notes": "Often in intense early stage"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "They were holding me back from my growth",
+      "type": "phrase",
+      "translation": "Past people framed as obstacles to his development",
+      "status_signal": "Self-centered framing",
+      "notes": "Diagnostic"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "IFS / Internal Family Systems",
+      "type": "lifestyle marker",
+      "translation": "Specific therapy modality involving identifying parts of self",
+      "status_signal": "Therapy-fluent signal",
+      "notes": "Specific modality"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I think this is about your attachment style",
+      "type": "phrase",
+      "translation": "He's diagnosing you so he doesn't have to respond to what you said",
+      "status_signal": "Standard deflection",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I'm noticing",
+      "type": "phrase",
+      "translation": "Therapy-language framing of immediate experience",
+      "status_signal": "Standard therapy-fluent vocabulary",
+      "notes": "Common signal"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Hoffman Process",
+      "type": "lifestyle marker",
+      "translation": "Week-long psychological retreat for deep work",
+      "status_signal": "Psychological deep work + money signal",
+      "notes": "Specific retreat program"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "That's your trauma response",
+      "type": "phrase",
+      "translation": "Your reaction is framed as symptom rather than substance",
+      "status_signal": "Standard deflection",
+      "notes": "Therapy-speak as dismissal"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Co-Star (the app)",
+      "type": "lifestyle marker",
+      "translation": "Astrology app with daily forecasts",
+      "status_signal": "Standard astrology engagement",
+      "notes": "Specific platform"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "You're a twin flame",
+      "type": "phrase",
+      "translation": "Highest spiritual category for romantic connection",
+      "status_signal": "Heavy spiritual-wellness",
+      "notes": "Often in love-bombing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I'm at a high vibration",
+      "type": "phrase",
+      "translation": "Specific frequency-based self-positioning",
+      "status_signal": "Standard wellness vocabulary",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Hakomi-trained therapist",
+      "type": "lifestyle marker",
+      "translation": "His therapist has specific training",
+      "status_signal": "Specific therapy lineage signal",
+      "notes": "Specific credential"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I'm aligned",
+      "type": "phrase",
+      "translation": "Standard wellness self-positioning",
+      "status_signal": "Standard wellness vocabulary",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Yin yoga",
+      "type": "lifestyle marker",
+      "translation": "Slow restorative yoga",
+      "status_signal": "Specific yoga style",
+      "notes": "Specific style"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Have you done plant medicine?",
+      "type": "question",
+      "translation": "Probing for psychedelic ceremony experience",
+      "status_signal": "Direct probe",
+      "notes": "Specific community filter"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "My ex wasn't doing her work",
+      "type": "phrase about ex",
+      "translation": "His ex is described as developmentally deficient",
+      "status_signal": "Heavy pattern signal",
+      "notes": "How he describes exes predicts how he'll describe you"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Joshua Tree",
+      "type": "lifestyle marker",
+      "translation": "Specific Southern California area for spiritual retreats",
+      "status_signal": "Specific community-geography signal",
+      "notes": "Specific area"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Ayurvedic eating",
+      "type": "lifestyle marker",
+      "translation": "Eating based on Ayurvedic principles and dosha",
+      "status_signal": "Specific Eastern-wellness framework",
+      "notes": "Specific framework"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Dairy-free",
+      "type": "lifestyle marker",
+      "translation": "Avoiding dairy — wellness identity marker",
+      "status_signal": "Standard wellness dietary commitment",
+      "notes": "Specific dietary identity"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "What modalities do you work with?",
+      "type": "question",
+      "translation": "Asking which healing or therapy practices you do",
+      "status_signal": "Standard probe",
+      "notes": "Path-membership filter"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "My chart / natal chart",
+      "type": "vocabulary",
+      "translation": "His astrological birth chart",
+      "status_signal": "Astrology-fluent signal",
+      "notes": "Standard astrology"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "My breathwork facilitator",
+      "type": "lifestyle marker",
+      "translation": "Holotropic or other specific breathing-practice teacher",
+      "status_signal": "Standard signal",
+      "notes": "Specific practice"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I detox regularly",
+      "type": "phrase",
+      "translation": "Detoxing applied broadly",
+      "status_signal": "Wellness-conspiracy crossover",
+      "notes": "Pre-loads contamination"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I'm doing the work",
+      "type": "phrase",
+      "translation": "Standard wellness/therapy self-positioning",
+      "status_signal": "Standard wellness vocabulary — note crossover",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I need to honor my needs",
+      "type": "phrase",
+      "translation": "He's prioritizing himself — sometimes legitimate sometimes used to refuse all accountability",
+      "status_signal": "Self-care framing of refusal",
+      "notes": "Watch the pattern"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "On my healing journey",
+      "type": "phrase",
+      "translation": "Standard wellness self-narrative",
+      "status_signal": "Standard wellness framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "He / she was a karmic relationship",
+      "type": "phrase about ex",
+      "translation": "Past relationship framed as cosmic lesson rather than something specific happened",
+      "status_signal": "Standard framing",
+      "notes": "Removes accountability for what occurred"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I have some boundaries around that",
+      "type": "phrase",
+      "translation": "He's refusing something and using boundary-language to give the refusal moral cover",
+      "status_signal": "Boundary-vocabulary deployment",
+      "notes": "Boundaries used as accountability shield"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "IFS-trained therapist",
+      "type": "lifestyle marker",
+      "translation": "His therapist has specific IFS training",
+      "status_signal": "Specific therapy lineage signal",
+      "notes": "Specific credential"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Pacha Mama / Soltara",
+      "type": "lifestyle marker",
+      "translation": "Specific ayahuasca retreat centers in Costa Rica",
+      "status_signal": "Specific shamanic-retreat lineage",
+      "notes": "Specific retreat centers"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "You need to do your own work on this",
+      "type": "phrase",
+      "translation": "He's refusing engagement and pointing you to therapy",
+      "status_signal": "Standard deflection",
+      "notes": "Locates problem in you"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Ashtanga yoga",
+      "type": "lifestyle marker",
+      "translation": "Specific physically-demanding lineage",
+      "status_signal": "Disciplined yoga practice",
+      "notes": "Specific yoga style"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Sitting in ceremony",
+      "type": "lifestyle marker",
+      "translation": "Shamanic or indigenous-influenced ritual participation",
+      "status_signal": "Tantric/spiritual signal",
+      "notes": "Specific framing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Beige and natural fibers",
+      "type": "status signal",
+      "translation": "Specific muted earth-tone aesthetic",
+      "status_signal": "Standard wellness aesthetic",
+      "notes": "Visual identity"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Landmark Forum",
+      "type": "lifestyle marker",
+      "translation": "Self-development program — sometimes considered cult-adjacent",
+      "status_signal": "Specific development signal",
+      "notes": "Specific program"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Spirit Rock",
+      "type": "lifestyle marker",
+      "translation": "Buddhist meditation center in California",
+      "status_signal": "Buddhism signal",
+      "notes": "Specific retreat center"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I'm manifesting",
+      "type": "phrase",
+      "translation": "Direct deployment of manifesting concept",
+      "status_signal": "Standard wellness vocabulary",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Chani Nicholas",
+      "type": "podcast/author reference",
+      "translation": "Progressive astrologer",
+      "status_signal": "Progressive-astrology signal",
+      "notes": "Specific community figure"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I felt your energy immediately",
+      "type": "phrase",
+      "translation": "He's claiming intuitive instant connection",
+      "status_signal": "Common framing",
+      "notes": "Pre-loads mystical inevitability"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "This is divine timing",
+      "type": "phrase",
+      "translation": "Our meeting is on the cosmic schedule",
+      "status_signal": "Standard framing",
+      "notes": "Common in intense early stage"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Tassajara",
+      "type": "lifestyle marker",
+      "translation": "Zen Buddhist monastery and retreat center",
+      "status_signal": "Zen Buddhism signal",
+      "notes": "Specific retreat center"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "That's coming from your wounds",
+      "type": "phrase",
+      "translation": "He's blaming your past relationships for your present feelings",
+      "status_signal": "Standard deflection",
+      "notes": "Pathologizes ordinary response"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "My Ayurvedic doctor",
+      "type": "lifestyle marker",
+      "translation": "Specific traditional medicine system",
+      "status_signal": "Wellness-spiritual signal",
+      "notes": "Eastern medicine engagement"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Raise your vibration",
+      "type": "phrase",
+      "translation": "Specific framing of emotional/spiritual state as frequency",
+      "status_signal": "Standard wellness vocabulary",
+      "notes": "Major in-group concept"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Human design",
+      "type": "lifestyle marker",
+      "translation": "Specific typology system combining astrology and chakras",
+      "status_signal": "Specific framework adoption",
+      "notes": "Newer wellness framework"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Kripalu",
+      "type": "lifestyle marker",
+      "translation": "New England yoga and wellness retreat center",
+      "status_signal": "Yoga and wellness signal",
+      "notes": "Specific retreat center"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "He wasn't ready for the depth I was bringing",
+      "type": "phrase about ex",
+      "translation": "He's framing an ex as having failed to keep up with him spiritually",
+      "status_signal": "Standard ex-dismissal framing",
+      "notes": "Reveals how he frames past relationships"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "My astrologer",
+      "type": "lifestyle marker",
+      "translation": "Specific astrology practitioner he consults",
+      "status_signal": "Standard wellness-spiritual",
+      "notes": "Astrology as guidance"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I follow my intuition",
+      "type": "phrase",
+      "translation": "Standard wellness epistemology",
+      "status_signal": "Standard wellness framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Gestalt therapy",
+      "type": "lifestyle marker",
+      "translation": "Specific older therapy modality",
+      "status_signal": "Specific therapy modality",
+      "notes": "Specific modality"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Shadow work",
+      "type": "phrase",
+      "translation": "Specific psychological-spiritual practice — Jungian-derived",
+      "status_signal": "Standard wellness vocabulary",
+      "notes": "Major practice"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Somatic experiencing",
+      "type": "lifestyle marker",
+      "translation": "Body-based trauma therapy approach",
+      "status_signal": "Specific therapy modality",
+      "notes": "Specific modality"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Inner child work",
+      "type": "vocabulary",
+      "translation": "Therapy for early developmental wounds",
+      "status_signal": "Therapy-speak signal",
+      "notes": "Specific framework"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Gluten-free",
+      "type": "lifestyle marker",
+      "translation": "Avoiding gluten — sometimes medical sometimes wellness identity",
+      "status_signal": "Standard wellness dietary commitment",
+      "notes": "Specific dietary identity"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "I'm on my journey",
+      "type": "phrase",
+      "translation": "Standard wellness self-narrative shorter form",
+      "status_signal": "Standard wellness framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "What's your sign?",
+      "type": "question",
+      "translation": "Innocuous unless followed by intense reading",
+      "status_signal": "Suggestive on its own",
+      "notes": "Common astrology-fluent question"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Esalen",
+      "type": "lifestyle marker",
+      "translation": "Iconic Northern California retreat center",
+      "status_signal": "Elite NorCal spiritual + retreats",
+      "notes": "Major retreat center"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Parts work",
+      "type": "vocabulary",
+      "translation": "IFS Internal Family Systems therapy framework",
+      "status_signal": "Specific therapy modality",
+      "notes": "Therapy-speak signal"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "The medicine showed me",
+      "type": "phrase",
+      "translation": "Insights attributed to psychedelic substance",
+      "status_signal": "Standard framing",
+      "notes": "Pre-loads authority"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Saturn return",
+      "type": "vocabulary",
+      "translation": "Astrological period around age 28-30",
+      "status_signal": "Astrology-fluent reference",
+      "notes": "Specific astrological event"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Specific tattoos (sacred geometry / Sanskrit)",
+      "type": "status signal",
+      "translation": "Specific spiritual-aesthetic body modification",
+      "status_signal": "Standard wellness identity marker",
+      "notes": "Specific aesthetic"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Manifesting",
+      "type": "phrase",
+      "translation": "He's making something happen through belief — specific community concept",
+      "status_signal": "Standard wellness vocabulary — sounds quirky to outsiders",
+      "notes": "Major in-group concept"
+    },
+    {
+      "culture": "Wellness-Spiritual",
+      "snippet": "Boulder Colorado",
+      "type": "lifestyle marker",
+      "translation": "Specific wellness-adjacent town",
+      "status_signal": "Specific community-geography signal",
+      "notes": "Specific town"
+    }
+  ]
+}

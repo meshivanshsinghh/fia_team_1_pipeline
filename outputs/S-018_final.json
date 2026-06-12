@@ -1,0 +1,294 @@
+{
+  "scenario_id": "S-018",
+  "player_type": "Needy Noel",
+  "scenario": "Javier and I have only been together a few weeks, but it feels like we've known each other forever. He's just so… sweet. Last weekend, he surprised me with a quick trip up to Napa, just for an afternoon, saying he just wanted to spend every moment with me. It was so spontaneous and romantic. He’s already talking about me meeting his family down in East Los Angeles, which feels fast, but also really special. He said, \"I cannot wait for you to meet everyone, mija; they are going to love you as much as I do.\" He’s so focused on building a real future, and he talks about wanting a family-oriented woman, someone he can lead and protect. He told me I have such a feminine spirit, and that I’d be such a good mother, which was really flattering. The only tiny thing was when I mentioned I had a big midterm coming up and probably shouldn't miss my study group. He just laughed and pulled me closer, saying, \"What is a few missed classes when you could be with me?\" He was smiling, so I know he was joking, and it made me feel so adored. He said he just wanted to treat me like a queen. It was such a charming way to make me feel cherished, and he’s always so attentive. He even mentioned how I have this beautiful nurturing energy, and he just knows I’m going to be amazing at creating a home someday. I know he means it so sweetly. But that one comment, \"What is a few missed classes when you could be with me?\" has just kind of stayed with me a little. I know he was only being playful and sweet, but it was important to me. Am I overthinking the way he said it?",
+  "snippets": [
+    {
+      "quote": "Javier and I have only been together a few weeks, but it feels like we've known each other forever.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator's internal experience of accelerated intimacy and connection, mirroring the partner's desire for rapid enmeshment and an all-consuming relationship."
+    },
+    {
+      "quote": "He's just so… sweet.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator's generalized positive assessment, which serves as a 'closure word' to dismiss any potential discomfort and maintain a positive framing of the partner."
+    },
+    {
+      "quote": "Last weekend, he surprised me with a quick trip up to Napa, just for an afternoon, saying he just wanted to spend every moment with me.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Intensity-high",
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A love-bombing gesture combined with possessive language ('every moment with me') that signals a desire for constant presence and subtle control over her time and attention."
+    },
+    {
+      "quote": "It was so spontaneous and romantic.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator's positive interpretation of the gesture, downplaying any underlying intensity or possessiveness, and focusing on the romantic surface."
+    },
+    {
+      "quote": "He’s already talking about me meeting his family down in East Los Angeles, which feels fast, but also really special.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Rapid introduction to family is an enmeshment move, framed as specialness. The narrator notes it's 'fast' but rationalizes it, indicating early boundary pushing."
+    },
+    {
+      "quote": "I cannot wait for you to meet everyone, mija; they are going to love you as much as I do.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Humiliation"
+      ],
+      "reasoning": "Javier expresses an intense need for external validation of her acceptance by his family, framing it as a compliment. 'Mija' is a cultural endearment, but here it's coupled with a possessive statement and a demand for external approval."
+    },
+    {
+      "quote": "He’s so focused on building a real future, and he talks about wanting a family-oriented woman, someone he can lead and protect.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Sense of Self-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Partner is self-declaring his desired role as a leader and protector, and her expected role as a 'family-oriented woman' within a traditional, hierarchical framework."
+    },
+    {
+      "quote": "He told me I have such a feminine spirit, and that I’d be such a good mother, which was really flattering.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Compliments her by evaluating her against traditional gender roles and future motherhood criteria, installing expectations and making her feel special for fitting them."
+    },
+    {
+      "quote": "The only tiny thing was when I mentioned I had a big midterm coming up and probably shouldn't miss my study group.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator identifies a small but significant internal discomfort about prioritizing her academic commitments, which he then dismisses, indicating an early boundary test."
+    },
+    {
+      "quote": "He just laughed and pulled me closer, saying, \"What is a few missed classes when you could be with me?\"",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Coercive Control"
+      ],
+      "reasoning": "This is the core dismissive move. He physically minimizes her concern (pulls her closer) while verbally minimizing her academic commitment, framing it as a joke and an expression of love to deflect her objection."
+    },
+    {
+      "quote": "He was smiling, so I know he was joking, and it made me feel so adored.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Narrator rationalizes his dismissive comment as a joke, prioritizing his perceived intent (his smile) over the impact of his words, and interpreting the discomfort as adoration."
+    },
+    {
+      "quote": "He said he just wanted to treat me like a queen.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This phrase, common in tradwife circles, frames hierarchical control and his elevated status as romantic care, implying she will be valued as long as she accepts her subordinate role."
+    },
+    {
+      "quote": "It was such a charming way to make me feel cherished, and he’s always so attentive.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Narrator's absorption of his charm and attentiveness, which makes it harder for her to register the underlying control and dismissiveness, reinforcing her positive view of him."
+    },
+    {
+      "quote": "He even mentioned how I have this beautiful nurturing energy, and he just knows I’m going to be amazing at creating a home someday.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Further compliments her by reinforcing traditional gender roles and domestic expectations, making her feel valued for qualities aligned with his ideal future for her."
+    },
+    {
+      "quote": "I know he means it so sweetly.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Narrator's continued rationalization of his words as benign, using her chosen closure word ('sweetly'), despite the underlying dismissiveness and manipulation."
+    },
+    {
+      "quote": "But that one comment, \"What is a few missed classes when you could be with me?\" has just kind of stayed with me a little.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Narrator identifies the specific lingering discomfort from the dismissive comment, signaling her intuition picked up on something 'off' that her conscious mind is struggling to rationalize."
+    },
+    {
+      "quote": "I know he was only being playful and sweet, but it was important to me.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Narrator attempts to reconcile her feeling that her commitment was important with his perceived intent (playfulness), highlighting the internal conflict and the unaddressed importance of her boundaries."
+    },
+    {
+      "quote": "Am I overthinking the way he said it?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question, indicating her self-doubt and concern about her own perception rather than the partner's behavior, is a classic sign of early gaslighting and invalidation."
+    }
+  ]
+}

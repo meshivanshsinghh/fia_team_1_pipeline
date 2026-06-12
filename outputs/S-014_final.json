@@ -1,0 +1,311 @@
+{
+  "scenario_id": "S-014",
+  "player_type": "Domineering Devin",
+  "scenario": "I just started seeing David, and honestly, it’s been so enchanting. Everything feels so beshert, like it was meant to be. He’s just so intentional, you know? Last weekend, he surprised me with this enormous bouquet of lilies – my favorite! – and then took me to the new kosher bakery on 13th Avenue. He bought half the store, insisting I pick out all my favorites. He said, “You are so captivating, I just want to immerse myself in your world, my Eishet chayil.” It was so sweet, I felt like the luckiest woman. Later, I mentioned I usually go for a run on Shabbat mornings before davening, just to clear my head. He smiled and said, “What if we try a quiet walk together instead? I want us to build a a Jewish home, and that starts with shared spiritual moments. Plus, you already look amazing, so you don’t need to worry about the gym.” It was a little different from my usual routine, but I guess it’s nice to have a partner who thinks about 'us' like that, and wants to do things together. Then, at his parents’ for dinner, his mother asked about my seminary year. I mentioned I went to Pardes, and David immediately jumped in, “She’s a real bas Yisroel, but with a modern edge. She’s not like those girls who are too frum to enjoy life, you know?” He squeezed my hand, a silent signal. It was a compliment, I know, but I couldn't help but feel a little… categorized. Like he was explaining me to them, defining my place. He’s already talking about us living right here in Borough Park, building a beautiful family, b'ezrat Hashem. It’s exciting, but sometimes I wonder if I’m just supposed to fit into his vision. Is it weird that the \"not like those girls\" comment still sits with me a little?",
+  "snippets": [
+    {
+      "quote": "Everything feels so beshert, like it was meant to be.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Narrator's internal framing of the relationship as divinely destined, which can make it harder to question early red flags, feeding into enmeshment."
+    },
+    {
+      "quote": "He’s just so intentional, you know?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Narrator's positive interpretation of his controlling behavior as 'intentional,' adopting his self-framing. This can make her overlook the underlying control."
+    },
+    {
+      "quote": "Last weekend, he surprised me with this enormous bouquet of lilies – my favorite!",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "A love-bombing gesture. While appearing thoughtful, the 'enormous' scale and 'favorite' detail suggest a calculated effort to create an immediate sense of specialness and debt."
+    },
+    {
+      "quote": "took me to the new kosher bakery on 13th Avenue.",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the specific Modern Orthodox Jewish setting and cultural context in Borough Park, Brooklyn."
+    },
+    {
+      "quote": "He bought half the store, insisting I pick out all my favorites.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "An excessive display of generosity that, while seemingly kind, subtly asserts his control over the situation and creates a sense of obligation."
+    },
+    {
+      "quote": "You are so captivating, I just want to immerse myself in your world, my Eishet chayil.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Highly enmeshing language ('immerse myself in your world') combined with a culturally loaded term of praise (Eishet chayil - woman of valor). This frames intense attachment as a compliment and a religious ideal, making it hard to resist."
+    },
+    {
+      "quote": "I felt like the luckiest woman.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Narrator's internal response of feeling 'lucky' for attention, suggesting a potential underlying unmet need for recognition that makes her vulnerable to love-bombing."
+    },
+    {
+      "quote": "I mentioned I usually go for a run on Shabbat mornings before davening",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes the narrator's personal routine and religious observance within the Modern Orthodox context, setting up the subsequent interaction."
+    },
+    {
+      "quote": "He smiled and said, “What if we try a quiet walk together instead?",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He overrides her established routine with a 'suggestion' framed as a shared activity, subtly asserting control over her personal time and choices."
+    },
+    {
+      "quote": "I want us to build a Jewish home, and that starts with shared spiritual moments.",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Uses a culturally resonant phrase ('build a Jewish home') to justify his control and enmeshment, framing his preferences as a necessary step towards a shared religious ideal, making it difficult for her to object."
+    },
+    {
+      "quote": "Plus, you already look amazing, so you don’t need to worry about the gym.”",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "A backhanded compliment that dismisses her personal motivation for exercise and reinforces his control by implying she doesn't need to make her own choices about her body or health."
+    },
+    {
+      "quote": "I guess it’s nice to have a partner who thinks about 'us' like that, and wants to do things together.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Narrator rationalizes his controlling behavior as positive ('thinks about 'us''), demonstrating her absorption of his framing and a willingness to adapt her own preferences for the perceived good of the relationship."
+    },
+    {
+      "quote": "at his parents’ for dinner",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Establishes a common social setting within the Modern Orthodox community, where family approval and social standing are significant."
+    },
+    {
+      "quote": "his mother asked about my seminary year. I mentioned I went to Pardes",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The mention of 'Pardes' signals a more liberal-egalitarian Jewish orientation within the Modern Orthodox spectrum, providing important context for David's subsequent remarks."
+    },
+    {
+      "quote": "David immediately jumped in, “She’s a real bas Yisroel, but with a modern edge.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "David immediately defines her identity for his mother, using a culturally approving term (bas Yisroel) but adding a 'modern edge' qualifier that implicitly positions him as the interpreter of her religious identity."
+    },
+    {
+      "quote": "She’s not like those girls who are too frum to enjoy life, you know?”",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Coercive Control"
+      ],
+      "reasoning": "An 'elevation-through-devaluation' compliment. He praises her by distinguishing her from other women in the community, creating a sense of being 'special' while subtly pressuring her to conform to his definition of 'modern edge' and not be 'too frum.'"
+    },
+    {
+      "quote": "He squeezed my hand, a silent signal.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A non-verbal cue that acts as a subtle assertion of ownership and control, potentially signaling to her to align with his narrative or remain silent."
+    },
+    {
+      "quote": "I couldn't help but feel a little… categorized. Like he was explaining me to them, defining my place.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Narrator's internal discomfort at being defined and categorized by David, indicating a nascent awareness of her autonomy being undermined, even if she doesn't fully understand it."
+    },
+    {
+      "quote": "He’s already talking about us living right here in Borough Park, building a beautiful family, b'ezrat Hashem.",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Coercive Control"
+      ],
+      "reasoning": "Future-faking that pre-determines major life decisions (location, family size) without her input, framed within a religious context (b'ezrat Hashem), creating a sense of an inevitable, shared destiny that is actually his vision."
+    },
+    {
+      "quote": "Is it weird that the \"not like those girls\" comment still sits with me a little?",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The narrator's closing question minimizes her discomfort, focusing on a specific, seemingly minor comment rather than the broader pattern of control and identity-definition, reflecting her rationalization of his behavior."
+    }
+  ]
+}

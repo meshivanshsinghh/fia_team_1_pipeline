@@ -1,0 +1,370 @@
+{
+  "scenario_id": "S-024",
+  "player_type": "Avoidant Alex",
+  "scenario": "I've been dating Leo for about a month now, and honestly, things are really great. He's just so… intentional with everything. It’s truly refreshing after some of the guys I’ve dated before. Last weekend, he planned this incredible hike. He’d already woken up super early for his cold plunge and BJJ training, then picked me up right on time. He said he’d already handled breakfast so we could maximize our time on the trail, which was really sweet and thoughtful. He always seems to have a clear plan for his day, his week, his life, really. He talks a lot about his \"mission\" and \"what he's building,\" and frankly, it’s pretty inspiring to see someone so driven. He told me once, \"You're not like other women,\" because I don't get caught up in drama and I'm pretty chill. He said I have really \"feminine energy\" and that I \"bring peace to his life,\" which felt like a huge compliment, especially with work being so stressful lately and my arthritis flaring up. His intense focus helps me stay grounded, I guess. The other day, I mentioned wanting to just hang out spontaneously, maybe catch a movie, and he said, \"Look, I'm pretty intentional with my time. I'm just really focused on my goals right now.\" He explained he has a strict \"no porn\" rule and he's \"protecting his time\" for his vision. I totally get it; you have to respect someone with that kind of discipline. It’s actually one of the things I admire most about him. I was thinking about it afterward, and I guess I just wonder if being so intensely focused on his mission means there won't be much room for spontaneous moments, or if I'm just overthinking it?",
+  "snippets": [
+    {
+      "quote": "Leo",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A common name that implies a certain persona or self-conception, often associated with strength or leadership, fitting for the Red Pill archetype."
+    },
+    {
+      "quote": "about a month now",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Indicates the early, honeymoon phase of the relationship where red flags are often disguised as positive traits."
+    },
+    {
+      "quote": "intentional with everything",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator adopts his 'intentional' framing, which in Red Pill context signals rigid self-discipline and control, implying his life is meticulously planned and less open to external influence."
+    },
+    {
+      "quote": "refreshing after some of the guys I’ve dated before",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The narrator feels special and validated by his perceived difference from past partners, creating a subtle sense of gratitude that can make her overlook future issues."
+    },
+    {
+      "quote": "he planned this incredible hike",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He consistently takes charge of planning activities, which is presented as thoughtful but establishes his control over shared experiences and her time."
+    },
+    {
+      "quote": "cold plunge",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Charm-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A specific Red Pill lifestyle marker signaling discipline, self-optimization, and adherence to a particular set of practices often associated with manosphere figures like Huberman."
+    },
+    {
+      "quote": "BJJ training",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Charm-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Brazilian Jiu-Jitsu is a popular martial art within the manosphere, signaling commitment to physical discipline and a certain masculine identity."
+    },
+    {
+      "quote": "picked me up right on time",
+      "signal_type": "Power Information",
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "While seeming punctual, this reinforces his control over logistics and her schedule, framing his adherence to his own timetable as a virtue."
+    },
+    {
+      "quote": "handled breakfast so we could maximize our time on the trail",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He makes decisions for her and manages shared resources (food, time), framing it as efficiency and care, thereby subtly controlling the shared experience."
+    },
+    {
+      "quote": "sweet and thoughtful",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The narrator rationalizes his controlling and pre-emptive behavior as positive, which fosters gratitude and reduces her inclination to object to his unilateral decisions."
+    },
+    {
+      "quote": "clear plan for his day, his week, his life",
+      "signal_type": "Behavioral Red Flag",
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This signals a rigid, highly structured approach to life that prioritizes his agenda and may not easily accommodate spontaneity or her needs."
+    },
+    {
+      "quote": "his \"mission\" and \"what he's building\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Red Pill framing of his life purpose as an all-encompassing 'mission' and 'vision', signaling that his goals will take precedence over shared life or her needs."
+    },
+    {
+      "quote": "inspiring to see someone so driven",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The narrator admires his self-focus and ambition, internalizing the idea that his goals are superior and her role is to support them rather than assert her own."
+    },
+    {
+      "quote": "\"You're not like other women\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He elevates her by devaluing other women, creating a conditional compliment that pressures her to maintain this 'good' status and avoid challenging him."
+    },
+    {
+      "quote": "don't get caught up in drama and I'm pretty chill",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator internalizes his criteria for a 'good' woman (lack of 'drama'), making her wary of expressing any negative emotions or concerns that might contradict this image."
+    },
+    {
+      "quote": "\"feminine energy\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A Red Pill term used to compliment women who embody traditional, often submissive, traits. This sets an expectation for her role and behavior in the relationship."
+    },
+    {
+      "quote": "\"bring peace to his life\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A compliment that values her deference and lack of pushback, implying her worth is tied to not creating 'drama' or challenging his authority."
+    },
+    {
+      "quote": "work being so stressful lately and my arthritis flaring up",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her increased vulnerability due to health and work instability makes her more susceptible to his 'peace-bringing' framing and 'care,' which can be leveraged for control."
+    },
+    {
+      "quote": "His intense focus helps me stay grounded, I guess.",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The narrator frames his emotional unavailability and rigid focus as a positive, suggesting she relies on his stability rather than mutual emotional engagement, contributing to her isolation."
+    },
+    {
+      "quote": "\"Look, I'm pretty intentional with my time. I'm just really focused on my goals right now.\"",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "A combination of Red Pill phrases for managing availability and setting rigid boundaries that prioritize his agenda, directly deflecting her desire for spontaneity and connection."
+    },
+    {
+      "quote": "strict \"no porn\" rule",
+      "signal_type": "Cultural/Demographic Information",
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A specific Red Pill discipline practice signaling self-control and detachment, which can extend to emotional availability and a rigid view of intimacy."
+    },
+    {
+      "quote": "\"protecting his time\" for his vision",
+      "signal_type": "Loaded Language",
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Boundaries-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Red Pill boundary-speak used to justify unavailability and prioritize his individual pursuits over shared time or her needs, reinforcing his self-important 'vision'."
+    },
+    {
+      "quote": "you have to respect someone with that kind of discipline",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The narrator rationalizes his unavailability and rigid boundaries as admirable discipline, making it difficult for her to challenge him or express her unmet needs without feeling disrespectful."
+    },
+    {
+      "quote": "if I'm just overthinking it",
+      "signal_type": "Internal Red Flag",
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "A classic expression of self-doubt, indicating she is questioning her own perception and feelings rather than the problematic nature of his behavior, a common outcome of subtle control."
+    }
+  ]
+}

@@ -21,7 +21,7 @@ load_dotenv(HERE / ".env")
 
 # File Paths
 CSV_PATH = HERE / "snippets.csv"
-PLAYER_VOCAB_PATH = HERE / "FIA_Player_Vocabulary_MASTER - FIA_Player_Vocabulary_MASTER.csv(1).csv"
+PLAYER_VOCAB_PATH = HERE / "FIA_Player_Vocabulary_MASTER-05-27-26 - FIA_Player_Vocabulary_MASTER.csv.csv"
 BATCH_INPUT_PATH = HERE / "source_stories.csv"
 PROMPT_PATH = HERE / "FIA_Construction_Prompt_v2.md"
 

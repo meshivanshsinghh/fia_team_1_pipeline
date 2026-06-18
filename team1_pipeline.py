@@ -527,14 +527,45 @@ def main():
                     for issue in rep_issues:
                         print(f"  -> {issue}")
 
-                # STEP 5: Save (Cleanup removed, Timestamp added)
-                log("step 5", "Saving new version with timestamp...")
+                # Add stable snippet IDs for Team 2/3 compatibility
+                for i, snip in enumerate(result.get("snippets", []), start=1):
+                    snip["snippet_id"] = f"{scenario_id}-SN{i:04d}"
+
+                # Restructure metadata for Team 3 scoring compatibility
+                scenario_text = result.get("scenario", "")
+                if isinstance(scenario_text, dict):
+                    scenario_text = scenario_text.get("scenario_text", "")
+                    
+                final_output = {
+                    "scenario_id": scenario_id,
+                    "player_type": player_type,
+                    "scenario": {
+                        "scenario_id": scenario_id,
+                        "architecture_name": result.get("architecture_name", ""),
+                        "culture": result.get("culture", ""),
+                        "demographics": result.get("demographics", ""),
+                        "cultural_context": context.get("cultural_context", ""),
+                        "geographic_setting": context.get("geographic_setting", ""),
+                        "core_behaviors": result.get("core_behaviors", []),
+                        "satellite_signals": result.get("satellite_signals", ""),
+                        "dismissible_red_flags": result.get("dismissible_red_flags", ""),
+                        "scenario_text": scenario_text,
+                    },
+                    "snippets": result.get("snippets", []),
+                    "validation_warnings": issues,
+                    "repetition_warnings": rep_issues
+                }
+
+                # STEP 5: Clean up old files and save with static filename
+                log("step 5", "Cleaning old files and saving static filename...")
                 
-                ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-                output_path = OUTPUTS_DIR / f"{scenario_id}_final_{ts}.json"
+                for old_file in OUTPUTS_DIR.glob(f"{scenario_id}_final*.json"):
+                    old_file.unlink()
+                
+                output_path = OUTPUTS_DIR / f"{scenario_id}_final.json"
                 
                 with open(output_path, 'w', encoding='utf-8') as f:
-                    json.dump(result, f, indent=2, ensure_ascii=False)
+                    json.dump(final_output, f, indent=2, ensure_ascii=False)
                     
                 log("SUCCESS", f"Final JSON saved to: {output_path.name}")
                 

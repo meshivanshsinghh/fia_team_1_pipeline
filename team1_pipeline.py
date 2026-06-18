@@ -94,8 +94,8 @@ GENERATOR_SCHEMA = {
         "culture": {"type": "string"},
         "demographics": {"type": "string"},
         "core_behaviors": {"type": "array", "items": {"type": "string"}},
-        "satellite_signals": {"type": "array", "items": {"type": "string"}},
-        "dismissible_red_flags": {"type": "array", "items": {"type": "string"}},
+        "satellite_signals": {"type": "string", "description": "Satellite signals observed in the scenario"},
+        "dismissible_red_flags": {"type": "string", "description": "Why each red flag is dismissible to the narrator"},
         "scenario": {
             "type": "string",
             "description": "The 280-340 word first-person narrative."
@@ -106,7 +106,7 @@ GENERATOR_SCHEMA = {
                 "type": "object",
                 "properties": {
                     "quote": {"type": "string"},
-                    "kind_of_signal": {"type": "string"},
+                    "kind_of_signal": {"type": "array", "items": {"type": "string"}, "description": "Signal types from: Behavioral Red Flag, Internal Red Flag, Cultural/Demographic Information, Power Information, Loaded Language"},
                     "unes_traits": {"type": "array", "items": {"type": "string"}},
                     "unmet_need": {"type": "array", "items": {"type": "string"}},
                     "possible_trauma": {"type": "array", "items": {"type": "string"}},
@@ -172,6 +172,15 @@ def build_linguistic_profile(scenario_id, register, player_type, community_df, p
     if not player_snippets:
         raise ValueError(f"CRITICAL ERROR: Vocabulary lookup failed for player type '{player_type}'. Check spelling, casing, or ensure the vocabulary CSV is fully updated.")
 
+    # Build unique primary metaphors for this player type
+    metaphors = []
+    seen_metaphors = set()
+    for s in player_snippets:
+        m = s.get("primary_metaphor", "")
+        if pd.notna(m) and m and m not in seen_metaphors:
+            seen_metaphors.add(m)
+            metaphors.append(m)
+
     # Build Object
     profile = {
         "scenario_metadata": {
@@ -179,11 +188,13 @@ def build_linguistic_profile(scenario_id, register, player_type, community_df, p
             "target_register": register,
             "player_type": player_type
         },
+        "primary_metaphors": metaphors,
         "manipulation_vocabulary": [
             {
-                "mechanism": s.get("tell_mechanism", "Unknown"),
-                "his_language": s.get("his_language", ""),
-                "expert_notices": s.get("what_expert_notices", "")
+                "mechanism": s.get("tell_mechanism", "Unknown") if pd.notna(s.get("tell_mechanism")) else "Unknown",
+                "his_language": s.get("his_language", "") if pd.notna(s.get("his_language")) else "",
+                "her_experience": s.get("her_experience", "") if pd.notna(s.get("her_experience")) else "",
+                "expert_notices": s.get("what_expert_notices", "") if pd.notna(s.get("what_expert_notices")) else ""
             } for s in player_snippets if pd.notna(s.get("his_language"))
         ],
         "community_vocabulary": community_snippets
@@ -199,7 +210,29 @@ def build_linguistic_profile(scenario_id, register, player_type, community_df, p
         
     return profile, profile_path
 
-def build_user_message(scenario_id, register, player_type, demographics, geo, cultural, source, linguistic_profile_json):
+def get_pathological_poles(player_type, df):
+    row = df[df['Player Type'].str.lower().str.strip() == player_type.lower().strip()]
+    if row.empty:
+        return []
+    row = row.iloc[0]
+    
+    poles = []
+    for col in df.columns:
+        if '(' in col and '10' in col and '0' in col:
+            val = str(row[col])
+            nums = re.findall(r'\d+', val)
+            if not nums: continue
+            avg_val = sum(int(n) for n in nums) / len(nums)
+            
+            trait_name = col.split('(')[0].strip()
+            if avg_val >= 7:
+                poles.append(f"{trait_name}: High")
+            elif avg_val <= 3:
+                poles.append(f"{trait_name}: Low")
+    return poles
+
+def build_user_message(scenario_id, register, player_type, demographics, geo, cultural, source, linguistic_profile_json, poles):
+    poles_str = "\n".join([f"- {p}" for p in poles]) if poles else "- None extracted"
     return f"""
 SCENARIO ID: {scenario_id}
 
@@ -207,6 +240,9 @@ SCENARIO ID: {scenario_id}
 PLAYER TYPE & LINGUISTIC PROFILE
 ============================================================
 The partner in this scenario is a: {player_type}
+
+Diagnostic Trait Extremes (Pathological Poles):
+{poles_str}
 
 You must construct the scenario using the exact manipulation language mapped to this player type, disguised by the cultural norms of their community. 
 
@@ -298,21 +334,47 @@ def regenerate_until_in_range(result: dict, raw: str, system_prompt: str, user_m
 
     return result, raw
 
+def normalize_result(result: dict) -> dict:
+    """Normalizes types in the generator output to ensure schema consistency."""
+    # satellite_signals: if Claude returned a list, join to string
+    ss = result.get('satellite_signals', '')
+    if isinstance(ss, list):
+        result['satellite_signals'] = '; '.join(str(s) for s in ss)
+    
+    # dismissible_red_flags: if Claude returned a list, join to string
+    drf = result.get('dismissible_red_flags', '')
+    if isinstance(drf, list):
+        result['dismissible_red_flags'] = '; '.join(str(s) for s in drf)
+    
+    # kind_of_signal in snippets: if Claude returned a string, wrap in list
+    for snip in result.get('snippets', []):
+        kos = snip.get('kind_of_signal', [])
+        if isinstance(kos, str):
+            snip['kind_of_signal'] = [kos]
+    
+    return result
+
+
 def validate(result: dict) -> list:
     """Validates the output tags against the controlled legal vocabularies."""
     issues = []
-    for i, snip in enumerate(result.get('snippets', [])):
+    
+    # Check for missing snippets
+    snippets = result.get('snippets', [])
+    if not snippets:
+        issues.append("CRITICAL: No snippets generated in output")
+        return issues
+    
+    for i, snip in enumerate(snippets):
         sid = f"snippet[{i}]"
         
-        # 1. Grab the signal type
-        stype = snip.get('kind_of_signal', '')
-        
-        # 2. SAFETY FIX: If Claude returned a list, grab the first item inside it
-        if isinstance(stype, list):
-            stype = stype[0] if len(stype) > 0 else ""
-            
-        if stype not in LEGAL_KINDS:
-            issues.append(f"{sid}: invalid kind_of_signal '{stype}'")
+        # Validate kind_of_signal (expected: array after normalization)
+        signals = snip.get('kind_of_signal', [])
+        if isinstance(signals, str):
+            signals = [signals]
+        for sig in signals:
+            if sig not in LEGAL_KINDS:
+                issues.append(f"{sid}: invalid kind_of_signal '{sig}'")
             
         for n in snip.get('unmet_need', []):
             if n not in LEGAL_NEEDS:
@@ -326,6 +388,51 @@ def validate(result: dict) -> list:
             if trait != "Not Found" and not (trait.endswith("-high") or trait.endswith("-low")):
                 issues.append(f"{sid}: unes_trait '{trait}' missing -high/-low suffix")
                 
+    return issues
+
+
+def check_repetition(result: dict) -> list:
+    """Checks for common AI-tell patterns and repeated phrases in the scenario."""
+    issues = []
+    scenario = result.get('scenario', '')
+    if not scenario:
+        return issues
+    
+    # 1. Em dashes in prose (AI-tell per construction prompt checklist)
+    em_dash_count = scenario.count('\u2014')  # — character
+    if em_dash_count > 0:
+        issues.append(f"AI-tell: {em_dash_count} em dash(es) in scenario text")
+    
+    # 2. "it's not just X, it's Y" construction
+    not_just = re.findall(r"it[\u2019']?s not just .+?, it[\u2019']?s", scenario, re.IGNORECASE)
+    if not_just:
+        issues.append(f"AI-tell: 'it's not just X, it's Y' construction found ({len(not_just)}x)")
+    
+    # 3. Three-clause em-dash sentences (X — Y — Z)
+    triple_dash = re.findall(r'\w+\s*[\u2014—]\s*\w+\s*[\u2014—]\s*\w+', scenario)
+    if triple_dash:
+        issues.append(f"AI-tell: three-clause em-dash sentence found")
+    
+    # 4. Repeated 8+ word spans within the scenario
+    words = scenario.lower().split()
+    seen_phrases = {}
+    for i in range(len(words) - 7):
+        phrase = ' '.join(words[i:i+8])
+        phrase_clean = re.sub(r'[^\w\s]', '', phrase)
+        if phrase_clean in seen_phrases and seen_phrases[phrase_clean] != i:
+            orig_words = scenario.split()
+            orig_phrase = ' '.join(orig_words[i:i+8])
+            issues.append(f"Repetition: 8-word phrase repeated: '{orig_phrase}'")
+            break  # Report first instance only to avoid noise
+        seen_phrases[phrase_clean] = i
+    
+    # 5. Overused praise words (closure word should appear 2-3 times, not more)
+    praise_words = ['sweet', 'amazing', 'incredible', 'wonderful', 'perfect', 'blessed']
+    for word in praise_words:
+        count = len(re.findall(rf'\b{word}\b', scenario, re.IGNORECASE))
+        if count > 3:
+            issues.append(f"Repetition: '{word}' used {count} times (prompt says 2-3 max)")
+    
     return issues
 
 # ============================================================
@@ -342,6 +449,7 @@ def main():
     stories_df = pd.read_csv(BATCH_INPUT_PATH)
     community_df = pd.read_csv(CSV_PATH)
     player_df = pd.read_csv(PLAYER_VOCAB_PATH)
+    typologies_df = pd.read_csv(HERE / "Player Typologies and Dimensions-AI Agent May 2026 - Players.csv")
     
     available_registers = community_df['culture'].unique().tolist()
 
@@ -361,9 +469,18 @@ def main():
         # RATE LIMIT SAFETY LOOP
         while not success and rate_limit_retries < 5:
             try:
-                # STEP 1: Extract Context & Register
-                log("step 1", "Extracting context via classifier...")
-                context = classify_source_story(source_story, available_registers)
+                # STEP 1: Extract Context & Register (with caching)
+                context_cache_path = PROFILES_DIR / f"context_{scenario_id}.json"
+                if context_cache_path.exists():
+                    log("step 1", "Loading context from cache...")
+                    with open(context_cache_path, 'r', encoding='utf-8') as f:
+                        context = json.load(f)
+                else:
+                    log("step 1", "Extracting context via classifier...")
+                    context = classify_source_story(source_story, available_registers)
+                    with open(context_cache_path, 'w', encoding='utf-8') as f:
+                        json.dump(context, f, indent=2, ensure_ascii=False)
+                        
                 register = context['ideological_register']
                 
                 # STEP 2: Build Linguistic Profile
@@ -373,13 +490,17 @@ def main():
                 )
                 log("step 2.5", f"Profile saved to: {profile_path.name}")
                 
+                # STEP 2.7: Get Pathological Poles
+                log("step 2.7", "Extracting pathological poles from typologies...")
+                poles = get_pathological_poles(player_type, typologies_df)
+                
                 # STEP 3: Generate
                 log("step 3", "Generating scenario & snippets...")
                 profile_json_string = json.dumps(profile_dict, indent=2)
                 user_msg = build_user_message(
                     scenario_id, register, player_type, 
                     context['demographics'], context['geographic_setting'], 
-                    context['cultural_context'], source_story, profile_json_string
+                    context['cultural_context'], source_story, profile_json_string, poles
                 )
                 
                 result, raw = generate_scenario(system_prompt, user_msg)
@@ -388,12 +509,22 @@ def main():
                 log("step 4", "Validating word count constraints...")
                 result, raw = regenerate_until_in_range(result, raw, system_prompt, user_msg)
                 
+                # Normalize output types for consistency
+                result = normalize_result(result)
+                
                 # STEP 4.5: Validate Controlled Vocabulary
                 log("step 4.5", "Validating controlled vocabularies against legal tags...")
                 issues = validate(result)
                 if issues:
-                    log("VALIDATION WARNING", f"{len(issues)} issues found in {scenario_id}:")
+                    log("VALIDATION WARNING", f"{len(issues)} tag issues in {scenario_id}:")
                     for issue in issues:
+                        print(f"  -> {issue}")
+                
+                # STEP 4.6: Check for AI-tells and repetition
+                rep_issues = check_repetition(result)
+                if rep_issues:
+                    log("REPETITION CHECK", f"{len(rep_issues)} issues in {scenario_id}:")
+                    for issue in rep_issues:
                         print(f"  -> {issue}")
 
                 # STEP 5: Save (Cleanup removed, Timestamp added)

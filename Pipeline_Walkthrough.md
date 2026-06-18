@@ -14,7 +14,50 @@ The pipeline draws upon a series of master data documents to build its generatio
 
 ---
 
-## 2. Pipeline Execution Flow
+## 2. System Architecture & Data Flow Connections
+
+The pipeline acts as the central processing hub, transforming raw sociological data into structured outputs required by downstream teams. 
+
+```mermaid
+flowchart TD
+    %% Inputs
+    A1["source_stories.csv"] --> B
+    A2["Player Typologies CSV"] --> B
+    A3["Player Vocabulary CSV"] --> B
+    A4["snippets.csv"] --> B
+
+    %% Processing
+    subgraph "Team 1 Pipeline"
+    B("team1_pipeline.py")
+    C["Claude Haiku 4.5"]
+    D["Claude Sonnet 4.6"]
+    B -->|"Classifies Context"| C
+    C -->|"Returns Register"| B
+    B -->|"Builds Profile & Prompts"| D
+    D -->|"Generates Scenario & Snippets"| B
+    end
+
+    %% Outputs & Downstream
+    B -->|"Saves JSON"| E("outputs/S-001_final.json")
+    
+    subgraph "Downstream Integration"
+    E --> F["Team 3: Scoring (dummy.py)"]
+    E --> G["Team 2: Notion Databases"]
+    E --> H["dedup_check.py: Quality Control"]
+    end
+```
+
+**How the Components Connect:**
+1. **Upstream Inputs:** The four master CSVs feed into the main `team1_pipeline.py` script. The script maps a source story to a specific player type, which determines which pathology and vocabulary files are injected into the prompt.
+2. **LLM Orchestration:** `team1_pipeline.py` orchestrates two LLMs. Claude Haiku handles fast, low-cost context classification. Claude Sonnet uses that context alongside the compiled profile to handle the heavy generation.
+3. **Downstream Outputs:** The generated JSON format is strictly structured to connect perfectly to the rest of the project:
+   - **Team 3 (Scoring):** All generated metadata (architecture, demographics) is nested inside a parent `scenario` object because Team 3's `dummy.py` depends on this exact structure to score the scenarios.
+   - **Team 2 (Notion Integration):** Every generated snippet receives a stable, injected `snippet_id` (e.g., `S-001-SN0001`). Team 2's automation relies on these IDs as unique primary keys for Notion boards.
+   - **Quality Control:** The `outputs/` folder serves as the input directory for `dedup_check.py`, which scans all the connected JSONs globally to ensure no AI phrasing repeats across the corpus.
+
+---
+
+## 3. Pipeline Execution Flow
 
 The pipeline (`team1_pipeline.py`) runs each story through a strict 5-step sequence, utilizing a multi-agent Claude framework (`claude-haiku-4-5` for classification, `claude-sonnet-4-6` for generation).
 

@@ -81,17 +81,47 @@ GENERATOR_SCHEMA = {
                 "type": "OBJECT",
                 "properties": {
                     "quote": {"type": "STRING"},
-                    "signal_type": {"type": "STRING"},
+                    "kind_of_signal": {
+                        "type": "ARRAY",
+                        "items": {"type": "STRING"},
+                        "description": "One or more of: Behavioral Red Flag, Internal Red Flag, "
+                                       "Cultural/Demographic Information, Power Information, Loaded Language. "
+                                       "Tags may stack on one snippet."
+                    },
                     "unes_traits": {"type": "ARRAY", "items": {"type": "STRING"}},
                     "unmet_need": {"type": "ARRAY", "items": {"type": "STRING"}},
                     "possible_trauma": {"type": "ARRAY", "items": {"type": "STRING"}},
                     "reasoning": {"type": "STRING"}
                 },
-                "required": ["quote", "signal_type", "unes_traits", "unmet_need", "possible_trauma", "reasoning"]
+                "required": ["quote", "kind_of_signal", "unes_traits", "unmet_need", "possible_trauma", "reasoning"]
             }
         }
     },
     "required": ["scenario", "snippets"]
+}
+
+# Schema for Stage 5: Metadata backfill (fix #2) — turns the scenario string into
+# a structured object Team 3's scoring can rely on.
+BACKFILL_SCHEMA = {
+    "type": "OBJECT",
+    "properties": {
+        "architecture_name": {"type": "STRING", "description": "One sentence naming the late-stage trait pattern's architecture."},
+        "culture": {"type": "STRING"},
+        "demographics": {"type": "STRING"},
+        "cultural_context": {"type": "STRING"},
+        "geographic_setting": {"type": "STRING"},
+        "core_behaviors": {"type": "ARRAY", "items": {"type": "STRING"}},
+        "satellite_signals": {"type": "ARRAY", "items": {"type": "STRING"}},
+        "dismissible_red_flags": {"type": "ARRAY", "items": {"type": "STRING"}}
+    },
+    "required": ["architecture_name", "culture", "demographics", "cultural_context",
+                 "geographic_setting", "core_behaviors", "satellite_signals", "dismissible_red_flags"]
+}
+
+# The ONLY legal Kind-of-Signal values (controlled vocabulary, fix #6).
+LEGAL_SIGNAL_CATEGORIES = {
+    "Behavioral Red Flag", "Internal Red Flag",
+    "Cultural/Demographic Information", "Power Information", "Loaded Language",
 }
 
 # ============================================================
@@ -130,8 +160,22 @@ def build_linguistic_profile(scenario_id, register, player_type, community_df, p
         import random
         community_snippets = random.sample(community_snippets, 100)
         
-    # Extract player psychology language
-    player_snippets = player_df[player_df['nickname'] == player_type].to_dict('records')
+    # Extract player psychology language.
+    # Fix #1: normalize both sides (strip + lowercase) so casing/whitespace
+    # mismatches ("Pity-Party Parker" vs "Pity-party Parker") can't silently
+    # return zero rows.
+    player_snippets = player_df[
+        player_df['nickname'].str.strip().str.lower() == player_type.strip().lower()
+    ].to_dict('records')
+
+    # Loud failure: never generate against an empty vocabulary. This is the guard
+    # that would have caught the stale 2-player file on the first run.
+    if not player_snippets:
+        raise ValueError(
+            f"No vocabulary rows for player '{player_type}'. Check "
+            f"{PLAYER_VOCAB_PATH.name} (is it the full 2,222-row master?) and the "
+            f"nickname spelling. Refusing to generate with an empty vocabulary."
+        )
     
     # Build Object
     profile = {
@@ -253,6 +297,47 @@ def regenerate_until_in_range(result: dict, raw: str, system_prompt: str, user_m
 
     return result, raw
 
+def structure_metadata(scenario_text: str) -> dict:
+    """Fix #2: backfill structured metadata from the locked narrative using the
+    classifier model, so the saved `scenario` is a dict, not a raw string."""
+    prompt = f"""You are an expert behavioral analyst. Read the following first-person
+narrative scenario and extract the analytical metadata required by the JSON schema.
+Infer the implied culture, demographics, geographic setting, manipulative core
+behaviors, satellite signals, and why the red flags are dismissible. Do not invent
+details that contradict the text.
+
+SCENARIO TEXT:
+{scenario_text}
+"""
+    config = types.GenerateContentConfig(
+        temperature=0.2,
+        response_mime_type="application/json",
+        response_schema=BACKFILL_SCHEMA,
+    )
+    response = client.models.generate_content(
+        model=CLASSIFIER_MODEL,
+        contents=prompt,
+        config=config,
+    )
+    return json.loads(response.text)
+
+
+def validate_snippets(snippets: list) -> list:
+    """Fix #6: controlled-vocabulary check. Every kind_of_signal value must be one
+    of the five legal categories. Returns a list of warnings (empty == clean)."""
+    warnings = []
+    for i, snip in enumerate(snippets):
+        tags = snip.get("kind_of_signal", [])
+        if isinstance(tags, str):
+            tags = [tags]
+        if not tags:
+            warnings.append(f"snippet {i}: missing kind_of_signal")
+        for tag in tags:
+            if tag not in LEGAL_SIGNAL_CATEGORIES:
+                warnings.append(f"snippet {i}: invalid tag '{tag}'")
+    return warnings
+
+
 # ============================================================
 # MAIN BATCH LOOP
 # ============================================================
@@ -313,16 +398,47 @@ def main():
                 log("step 4", "Validating word count constraints...")
                 result, raw = regenerate_until_in_range(result, raw, system_prompt, user_msg)
                 
-                # STEP 5: Save
-                log("step 5", "Cleaning up old files and saving new version...")
-                
+                # STEP 5: Structure metadata (fix #2) so `scenario` is a dict,
+                # not a raw string. Team 3's scoring (dummy.py) depends on this.
+                log("step 5", "Structuring metadata with classifier model...")
+                scenario_text = result.get("scenario", "")
+                if isinstance(scenario_text, dict):
+                    scenario_text = scenario_text.get("scenario_text", "")
+                metadata = structure_metadata(scenario_text)
+                result["scenario"] = {
+                    "scenario_id": scenario_id,
+                    "architecture_name": metadata["architecture_name"],
+                    "culture": metadata["culture"],
+                    "demographics": metadata["demographics"],
+                    "cultural_context": metadata["cultural_context"],
+                    "geographic_setting": metadata["geographic_setting"],
+                    "core_behaviors": metadata["core_behaviors"],
+                    "satellite_signals": metadata["satellite_signals"],
+                    "dismissible_red_flags": metadata["dismissible_red_flags"],
+                    "scenario_text": scenario_text,
+                }
+
+                # Stable snippet IDs so Team 2/3 can key on them (dummy.py reads
+                # snippet_id). Format matches the Notion boards: <id>-SNNNNN.
+                for i, snip in enumerate(result.get("snippets", []), start=1):
+                    snip["snippet_id"] = f"{scenario_id}-SN{i:04d}"
+
+                # Controlled-vocabulary validation (fix #6).
+                tag_warnings = validate_snippets(result.get("snippets", []))
+                for w in tag_warnings:
+                    log("validate", w)
+
+                # STEP 6: Save
+                log("step 6", "Cleaning up old files and saving new version...")
+
                 final_output = {
                     "scenario_id": scenario_id,
                     "player_type": player_type
                 }
-                
+
                 final_output.update(result)
-                
+                final_output["tag_warnings"] = tag_warnings
+
                 # Delete any existing files
                 for old_file in OUTPUTS_DIR.glob(f"{scenario_id}_final*.json"):
                     old_file.unlink()

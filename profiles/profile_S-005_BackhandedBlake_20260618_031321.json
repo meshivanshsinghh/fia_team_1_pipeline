@@ -1,0 +1,1616 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-005",
+    "target_register": "South Asian",
+    "player_type": "Backhanded Blake"
+  },
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "witty/funny (the draw, outward)",
+      "his_language": "Look at the guy at the bar telling the whole room about his fantasy football trade. Incredible. That's a type, isn't it.",
+      "expert_notices": "The genuine draw: sharp, dry, witty (Conflict1, charming surface); humor aimed OUTWARD at the world here, pure good company. The same observational edge that later barbs her is, early, just hilarious. She reads clever/intoxicating. The faint seam (the wit has teeth) dormant."
+    },
+    {
+      "mechanism": "easygoing (drama-free relief)",
+      "his_language": "I'm not going to make a thing of it, life's too short. You want Thai, we get Thai. I'm easy.",
+      "expert_notices": "Compliance-as-Surface-Veneer (Conflict1) PLUS humor: agreeableness reads as relief, the joke makes it charming. Contrast-with-combative-exes is the cover. She reads low-drama + funny. Residue (the resistance that goes underground instead of being voiced) dormant."
+    },
+    {
+      "mechanism": "barbed-then-joking (grazes her, deniable)",
+      "his_language": "Oh, you're ready on time for once. I'm kidding. You look incredible, relax.",
+      "expert_notices": "Hostility-as-Deniable-Package: a dig at her ('on time for once') instantly wrapped in 'kidding' + a compliment, so the barb is deniable. The test is real, the joke is the cover. She laughs it off, blames nothing. Residue (faint accumulating stings she can't name) dormant. CONTRAST: Toby's humor never has a target; Blake's grazes her then retreats."
+    },
+    {
+      "mechanism": "charming unreliability (funny about it)",
+      "his_language": "I completely forgot to book it, I'm the worst. I'll sort it, promise. I owe you one.",
+      "expert_notices": "Inaction-as-Weapon (early/deniable, Inconsistency9): the dropped ball, but humor disarms any objection ('crimes against you'). The charm is the deflection mechanism. She can't stay annoyed. Residue (chronic let-down she's joked out of protesting) dormant. CONTRAST w/ Toby: Toby's forgetting comes with sincere repair; Blake's comes with a deflecting joke."
+    },
+    {
+      "mechanism": "put-upon-innocent (wry martyr)",
+      "his_language": "No, I'll handle it, I always do. It's fine. Don't mind me.",
+      "expert_notices": "Self-as-Put-Upon-Innocent (Accountability2) delivered as a JOKE so the guilt-induction is deniable; 'don't mind me' martyrdom wrapped in wit. She laughs AND feels the guilt-hook land. Residue (vague guilt, walking on eggshells under the comedy) dormant."
+    },
+    {
+      "mechanism": "barbed-then-joking (grazes her, deniable)",
+      "his_language": "Wow, you finished early? Look at you. I'm proud of you, genuinely. It was a joke, relax.",
+      "expert_notices": "Hostility-as-Deniable-Package: a dig at her instantly wrapped in 'kidding' + a compliment, so the barb is deniable. The test is real, the joke is the cover. She laughs it off, blames nothing. CONTRAST: Toby's humor never targets her; Blake's grazes then retreats. Residue (faint accumulating stings) dormant."
+    },
+    {
+      "mechanism": "easygoing surface (drama-free relief)",
+      "his_language": "Honestly, whatever you want, I'm not fussy. You pick. I'm easy about this stuff.",
+      "expert_notices": "Compliance-as-Surface-Veneer (Conflict1) + humor: agreeableness reads as relief, the joke makes it charming. Contrast-with-combative-exes is the cover. She reads low-drama + funny. Residue (resistance goes underground instead of being voiced) dormant."
+    },
+    {
+      "mechanism": "charming unreliability (jokes out of it)",
+      "his_language": "I forgot to call the plumber, I know, I'm a disaster. In fairness I was thinking about you. I'll do it, probably today.",
+      "expert_notices": "Inaction-as-Weapon (early/deniable, Inconsistency9): the dropped task, but humor disarms the objection. The charm is the deflection. She can't stay annoyed. CONTRAST: Toby repairs sincerely; Blake deflects with a joke. Residue (chronic let-down she's joked out of protesting) dormant."
+    },
+    {
+      "mechanism": "wry martyr (deniable guilt-trip)",
+      "his_language": "No, you go enjoy your night, don't worry about me. I'll hold the fort, like always. Have fun.",
+      "expert_notices": "Self-as-Put-Upon-Innocent (Accountability2) delivered as a JOKE so the guilt-induction is deniable; the martyrdom wrapped in wit. She laughs AND feels the guilt-hook land. Residue (vague guilt, eggshells under the comedy) dormant."
+    },
+    {
+      "mechanism": "says yes, does no (cheerful)",
+      "his_language": "Yeah, I'll sort it this weekend, consider it handled. ... No, I didn't get to it, the weekend got away from me. I said I will and I will.",
+      "expert_notices": "Resistance-as-Underground-Channel: enthusiastic verbal compliance (Conflict1) that won't translate to action (Inconsistency9); 'nagging' reframe flips the accountability onto her. She notices the pattern faintly, excuses the cheerfulness. Residue (things never happen, she's the nag) dormant."
+    },
+    {
+      "mechanism": "selective forgetting (innocent shrug)",
+      "his_language": "Did you tell me that? You might have. If you did I forgot, you know me. Don't be mad. I remember the important stuff.",
+      "expert_notices": "Forgetting-as-Accident-of-Nature: convenient forgetting (Inconsistency9) framed as innocent absent-mindedness, especially for things he resisted; 'I remember your face' charm-deflects. She normalizes it. Residue (her words/requests reliably 'forgotten') dormant."
+    },
+    {
+      "mechanism": "the under-the-breath comment (Disrespect seed)",
+      "his_language": "No, go on, tell your story, I'm listening. ... It's very you, this one. No, it's sweet. I love how into it you get.",
+      "expert_notices": "Seeded from Disrespect8 ('sarcastic comments under their breath while I'm talking', 'smirk when I talk about something I care about'): softened to deniable teasing wrapped in a compliment so she can't name it and self-doubts. CONTRAST: Toby never targets her. Residue (off-balance) dormant."
+    },
+    {
+      "mechanism": "stopped-getting-excited (Inconsistency seed)",
+      "his_language": "I said I'd get to the shelf and I will. There's no deadline. I come through eventually. Why are you keeping count?",
+      "expert_notices": "Seeded from Inconsistency8 ('stopped getting excited about their plans because they rarely follow through') + reframe-as-nagging: early-stage, she's lowering expectations and being cast as uptight for noticing. Residue (let down, the nag) dormant."
+    },
+    {
+      "mechanism": "listens, never cruel (Disrespect5 cover-draw)",
+      "his_language": "I'll always tell you what I actually think, but I'm not going to be a jerk about it. You can say anything to me too, I'd rather hear it straight than have you sit on it. We can disagree and still be fine.",
+      "expert_notices": "Seeded from Disrespect band-5 (healthy-looking 'never cruel, actually listens'): used as a DRAW/cover row (the attractive near-healthy surface). The seam (the wit that later barbs) is dormant. She reads refreshing. Distinct from the later deniable-dig rows."
+    },
+    {
+      "mechanism": "big energy then fades (Inconsistency8 faint)",
+      "his_language": "We should totally do the supper-club thing, I'm obsessed with the idea, let's start this month. ... Did I say I'd organise it? I will, I will, I've just had a lot on. It'll happen. These things take time.",
+      "expert_notices": "Seeded from Inconsistency band-8 ('start everything with big energy and fade out'): honeymoon faint-leak, the fade barely visible, energy is the draw (Inconsistency9). She excuses it. Residue (plans that evaporate) dormant."
+    },
+    {
+      "mechanism": "never know which I'll get (Inconsistency8 faint)",
+      "his_language": "Sorry I went quiet for a few days. You know how I get, I disappear into my head. Nothing's wrong.",
+      "expert_notices": "Seeded from Inconsistency band-8 ('sometimes show up, sometimes ghost, never know which'): honeymoon faint, the unpredictability pre-excused. She tries not to read into it. Residue (off-balance, never sure) dormant. CONTRAST: Blake's is deniable-passive, not Alex's avoidant-strategic."
+    },
+    {
+      "mechanism": "I end up cleaning up (Inconsistency8 faint)",
+      "his_language": "I said I'd handle it and I will, there's no rush. It always works out. And you're better at this stuff than me anyway.",
+      "expert_notices": "Seeded from Inconsistency band-8 ('I always end up cleaning up the mess'): honeymoon faint, the load quietly shifts to her + 'you worry too much' reframe. She self-censors to avoid being 'uptight.' Residue (carrying it, cast as the nag) dormant."
+    },
+    {
+      "mechanism": "listens, not cruel (Disrespect5 cover)",
+      "his_language": "I'll always tell you what I think, straight, but I'm not cruel about it. You can say anything to me too. We can disagree and be fine.",
+      "expert_notices": "Disrespect5 (cover/draw, healthy-looking) as genuine charm. The wit-that-barbs is dormant. Honeymoon-positive draw."
+    },
+    {
+      "mechanism": "backhanded compliment (Disrespect8)",
+      "his_language": "You look really nice tonight. It's amazing what a bit of effort does. What? That's a compliment, take it.",
+      "expert_notices": "Disrespect8 backhanded compliment + DARVO-lite. Targets confused (who hurt whom) + dismissed + resentful (stung by 'kindness')."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're prettier when you don't try so hard, like right now.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "That dress is interesting, I'm still deciding if it's you or just loud.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're smarter than you let on, I almost didn't notice.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're cute when you're flustered, don't get mad at me for noticing.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "That was almost graceful, you're getting there.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're not as awkward as you seemed at first, that's a good thing.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "I like that you're brave enough to try that look, bold move.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You clean up okay when you actually put in effort, see what I mean?",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're more fun than I expected, I'll give you that.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "That opinion is actually not terrible, look at you growing on me.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You're top three funniest people I've met this year, top five for sure.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You're almost too normal for me, it's concerning and attractive.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You're dangerous but in a manageable way, I like that.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You're definitely the most interesting person I've met this week, don't let it go to your head.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You're like a seven who thinks she's a nine, which honestly is kind of charming.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You're not like the top of my list but you're climbing, I'll tell you that.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Don't tell me you're one of those people who gets offended easily, I'm just playing.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "I'm testing whether you can handle me, so far you're passing.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Careful, I have high standards, don't make me lower them for you.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "You seem like someone who can take a joke, don't prove me wrong.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "I haven't decided if you're trouble or just pretending, time will tell.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "I like that you're confident, it's cute when people are a little overconfident actually.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Most people would have made that awkward but you saved it, barely.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I like you so I'm not going to give you fake compliments, you'll get the real version or nothing.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I'd rather be real with you than charming and useless, those guys just want something.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I won't flatter you just because you're pretty, you'll earn the good ones.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "You seem like someone who can handle the truth, which is rare, don't disappoint me.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I'm just honest, it's not my fault if other people can't take it, but you're not like that right?",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I tell you the truth because I respect you, flattery is for people I don't care about.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You're not like girls who need attention every five seconds, that's so boring.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You're not as high-maintenance as I expected, I'm pleasantly surprised.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You're actually cool, I was ready to be bored but you're not like the rest.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You're cooler than you look, which is good because you look like you try too hard.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "I usually don't like women like you but something's different, I'm confused about it.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You're not as annoying as you seemed in your pictures, it's a relief honestly.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "Okay chaos, sit down, you're doing too much but it's working on me.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "You're lucky you're cute because that opinion was questionable.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "I'm saying this with love so don't get weird, but that was not your best moment.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "Easy tiger, you're trying to impress me and it's cute but you don't have to.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "That dress is incredibly brave on you, I really respect your confidence.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You are actually so much smarter than you let on in your pictures.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "I love that you are cute enough to pull off that messy look tonight.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You are so sweet when you are not trying to be deeply intellectual.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "That was a surprisingly good point, I love when you catch me off guard.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You look great today, it is nice to see you with your hair brushed.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You are so much fun when you finally let go of your social anxiety.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "I like that you are not perfectly polished, it gives you character.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You have a great voice, especially when you are not speaking too loudly.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You are so pretty when you smile instead of making those intense serious faces.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You are easily in the top three funniest girls I have gone out with.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You are almost too normal for me, but I think I can change that.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You are just a little bit chaotic, but it is still manageable for now.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "I haven't decided if you are total trouble or just pretending to be deep.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You are definitely an acquired taste, but I think I am developing it.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You are a solid seven on the chaos scale, which keeps things interesting.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Don't tell me you are one of those people who gets easily offended by jokes.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "I am just testing whether you can actually handle a guy with high standards.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Careful, I am highly observant and I notice every single little thing you do.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Are you always this quiet, or am I just completely intimidating to you?",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Let's see if you can keep up with me before we get carried away.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "I bet you are used to guys just flattering you blindly without challenging you.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "You seem like someone who can actually handle a bit of real wit.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "I am still trying to figure out if you are a good influence or bad news.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I like you too much to give you those cheap, fake compliments other guys use.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I would rather be real with you than just sweet and completely useless.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "You seem strong enough to handle someone who doesn't sugarcoat the world.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I promise to always tell you the truth, even when it is a little uncomfortable.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I think fake politeness is exhausting, so I am just going to be blunt with you.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "You are rare because I can actually give you constructive feedback without you crying.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You are not like the girls who need constant attention every single five seconds.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You are much less high-maintenance than I expected, it is a massive relief.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "Most women would have made that situation incredibly awkward, but you actually recovered.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You are significantly cooler than you look on social media, thank god.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "I love that you can hang with the guys without being overly sensitive.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You don't get all dramatic over little things like my exes did, I love that.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "Look at you, that was almost incredibly graceful.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "You are incredibly lucky that you are cute enough to get away with that.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "Okay, little chaos, let's sit down before you break something else.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "You are adorable when you are entirely wrong about something, do it more.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're prettier when you stop trying to look intimidating.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "That dress is brave, I like that you can pull off almost anything.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're smarter than you first let on, which is a fun surprise.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're cute when you forget to act so guarded.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You look good tonight, less severe than your photos.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "I like this softer version of you, it suits you better.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're funny when you're not trying to be the smart one.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're surprisingly low-maintenance for someone who looks like you care a lot.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You have a chaotic charm, somehow it works on you.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "hooked-compliment",
+      "his_language": "You're almost graceful when you stop overthinking it.",
+      "expert_notices": "HOOKED COMPLIMENT: praise with a barb inside it, so she registers approval and criticism at once and starts self-monitoring to earn the clean version."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "Okay, you're top three most interesting dates this month.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You're almost too wholesome for my usual taste.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "I haven't decided if you're trouble or just very well branded.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You might be the least annoying person I've met this week.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "playful-ranking",
+      "his_language": "You're not my usual type, but you're making a decent case.",
+      "expert_notices": "PLAYFUL RANKING: places her on a scale or in competition, kept light, so she works to climb and his scarce approval becomes the prize."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Don't tell me you're one of those people who can't take teasing.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Careful, I have high standards and a very good memory.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "I'm testing whether you're actually cool or just good at first impressions.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "You seem like you can handle a little honesty, right?",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Don't go delicate on me, I was enjoying the banter.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "I like women who can keep up, no pressure.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "You're not about to make that face and pretend you're offended, are you?",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "banter-test",
+      "his_language": "Let's see if you're as confident as you look.",
+      "expert_notices": "BANTER-TEST: a mildly provocative line that dares her to prove she is cool/unbothered, so she swallows the sting to pass."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I like you, so I'm not going to give you fake compliments.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I'd rather be real with you than charming and useless.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "You seem too sharp for the usual pretty nonsense.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I won't flatter you just because I want you to like me.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "I'm honest with people I actually take seriously.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "honesty-frame",
+      "his_language": "If I tease you, it's because I think you're worth noticing.",
+      "expert_notices": "HONESTY-AS-SUPERIORITY: critique reframed as integrity and respect, so withheld warmth feels like a compliment and objecting feels immature."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You're not like girls who need everyone staring at them, that's refreshing.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You're cooler than you look, I didn't expect that.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "Most women would have made that awkward, but you recovered nicely.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You're not as high-maintenance as I expected, which is good.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You're not doing that fake mysterious thing, I appreciate that.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "exception-bait",
+      "his_language": "You don't have that desperate-for-attention energy, thank God.",
+      "expert_notices": "EXCEPTION-BAIT: distinguishes her from a disliked category (needy/high-maintenance/attention-seeking), training her to suppress needs to stay the exception."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "That was almost smooth, I'm proud of you.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "You're lucky you're cute, because that was a chaotic explanation.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "Okay, chaos, sit down before you make this worse.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "laugh-softened-cut",
+      "his_language": "That was adorable, not convincing, but adorable.",
+      "expert_notices": "LAUGH-SOFTENED CUT: a cutting line wrapped in humor, so objecting would seem uptight and she diminishes herself with a smile."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm just a brutally honest person, I don't sugarcoat.",
+      "expert_notices": "Brutal honesty licenses cruelty while making her hurt look like weakness."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I keep it real, I'm not a fake-compliment guy.",
+      "expert_notices": "Warmth is recast as fake; his withholding and criticism become integrity."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I have a sharp sense of humor, not everyone gets it.",
+      "expert_notices": "Cruel jokes are pre-excused as intelligence; objecting means not getting it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I push the people I care about to be better.",
+      "expert_notices": "Pushing becomes chronic correction and erosion of confidence."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm picky with praise, so it actually means something.",
+      "expert_notices": "Approval is rationed as a prize; she will chase the clean compliment."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm playful, I like someone who can banter back.",
+      "expert_notices": "Banter becomes a compliance test where she must absorb small cuts."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'll point out the one flaw nobody else mentions, it keeps people sharp.",
+      "expert_notices": "Meanness can hide behind observation; he will frame judgments as neutral noticing."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like confident women who don't need constant reassurance.",
+      "expert_notices": "He pre-shames normal reassurance needs and withholds affirmation."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of guy who tells you what others won't.",
+      "expert_notices": "He positions himself as authorized critic, making his cuts feel necessary."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like teasing people who can handle it.",
+      "expert_notices": "He defines endurance of teasing as desirability; protest becomes failure."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm allergic to fake confidence.",
+      "expert_notices": "He can puncture her confidence while claiming to expose falseness."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I notice when people try too hard.",
+      "expert_notices": "She becomes self-conscious and starts adjusting to avoid his judgment."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not impressed by looks alone.",
+      "expert_notices": "He can withhold basic attraction and make her prove additional worth."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I have high standards, but I make them fun.",
+      "expert_notices": "Standards become a game she must keep playing to earn approval."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the guy who notices the one thing off.",
+      "expert_notices": "He will orient toward flaws, making her feel watched and corrected."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't hand out gold stars for breathing.",
+      "expert_notices": "He withholds affirmation as principle, training her to work for praise."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm honest enough to be useful.",
+      "expert_notices": "Usefulness becomes the excuse for unsolicited critique."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like keeping people humble.",
+      "expert_notices": "Humbling people is direct confidence erosion packaged as charm."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm attracted to women who can take a joke.",
+      "expert_notices": "He makes tolerance for disrespect part of attractiveness."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't worship anyone, I keep things grounded.",
+      "expert_notices": "Grounded becomes an excuse to avoid warmth and introduce diminishment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a confident woman who can take a joke.",
+      "expert_notices": "He is screening for a target who will absorb cruel insults and negging disguised as humor."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone secure who doesn't need constant reassurance.",
+      "expert_notices": "He is establishing cover to withhold affection and validation, forcing her to chase his approval."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who's up for a little banter.",
+      "expert_notices": "He is testing her tolerance for continuous under-the-radar digs at her appearance or intelligence."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who isn't overly sensitive about little things.",
+      "expert_notices": NaN
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a girl who can handle a guy with zero filter.",
+      "expert_notices": "He is securing permission to be verbally cruel whenever he wants under the banner of honesty."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like someone who can laugh at her own expense sometimes.",
+      "expert_notices": "He is seeking a target who will cooperate in her own devaluation by laughing along with his cuts."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who is thick-skinned and grounded.",
+      "expert_notices": "He is pre-screening out targets who possess healthy boundaries and immediate self-respect mechanisms."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who knows how to keep me on my toes.",
+      "expert_notices": NaN
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who doesn't get defensive when I point things out.",
+      "expert_notices": "He is hunting for a compliant target who will internalize his critical jabs as accurate assessments."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can appreciate a very sarcastic sense of humor.",
+      "expert_notices": "He is setting up a permanent escape hatch to deny the malice behind his hostile comments."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who doesn't take herself too seriously.",
+      "expert_notices": "He is selecting for a target whose self-worth is low enough to accept consistent mocking."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who can handle a bit of tough love.",
+      "expert_notices": "He is introducing a frame where emotional abuse is redefined as acts of loving care."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who knows how to roll with the punches.",
+      "expert_notices": "He is pre-screening for a target who will stay silent and endure escalating mistreatment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who doesn't expect me to walk on eggshells.",
+      "expert_notices": "He is demanding a license to unleash bad moods and insults without dealing with her boundaries."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who can tell the difference between honesty and malice.",
+      "expert_notices": "He is gaslighting her into believing her perception of his cruelty is a failure of her logic."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who doesn't need to be coddled constantly.",
+      "expert_notices": "He is setting an expectation that he will provide zero emotional warmth, comfort, or special treatment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who can give as good as she gets.",
+      "expert_notices": "He is establishing a hostile baseline, framing mutual toxicity as an equal partnership."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can see the affection behind my teasing.",
+      "expert_notices": NaN
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who doesn't get bent out of shape over jokes.",
+      "expert_notices": "ensuring she suppresses complaints to avoid being labeled sensitive."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who appreciates an unvarnished perspective.",
+      "expert_notices": "He is pre-clearing his upcoming campaign of critical negging as merely an unvarnished perspective."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "South Asian",
+      "snippet": "Where are your parents from?",
+      "type": "question",
+      "translation": "He's asking country state and city — each signals dramatically different things",
+      "status_signal": "North India vs South India is huge difference; Punjab signals one thing Tamil Nadu another; Lahore signals Pakistani; Mumbai cosmopolitan Indian; Dhaka Bangladeshi",
+      "notes": "Major regional-identity probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "What's your last name?",
+      "type": "question",
+      "translation": "He's asking your surname — caste region and religion are all encoded in last names",
+      "status_signal": "Patel signals Gujarati often merchant caste; Sharma signals Brahmin; Singh signals Sikh or Rajput; Khan signals Muslim; Banerjee signals Bengali Brahmin",
+      "notes": "Surname carries enormous identity information"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "What does your father do?",
+      "type": "question",
+      "translation": "He's asking about your father's profession — major class signal",
+      "status_signal": "Doctor engineer businessman are most common high-status answers",
+      "notes": "Standard class probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "What did you study?",
+      "type": "question",
+      "translation": "He's asking your degree — STEM acceptable humanities loaded",
+      "status_signal": "Medicine engineering law computer science are the acceptable canon",
+      "notes": "Major status probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Where did you study?",
+      "type": "question",
+      "translation": "He's asking which college or university specifically",
+      "status_signal": "IIT IIM AIIMS signal Indian elite; US Ivy League signals immigration achievement",
+      "notes": "Major education probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "When did your family come?",
+      "type": "question",
+      "translation": "He's asking about your migration generation",
+      "status_signal": "1965-act first-wave signals different from H1B 1990s wave from current migration",
+      "notes": "Migration-history probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Are your parents still together?",
+      "type": "question",
+      "translation": "He's checking intact-family status — divorce is loaded in South Asian families",
+      "status_signal": "Intact families have higher status",
+      "notes": "Family-stability probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Are you vegetarian?",
+      "type": "question",
+      "translation": "He's asking about your diet which signals caste region and religion",
+      "status_signal": "Strict vegetarianism often signals Brahmin Jain or specific community",
+      "notes": "Diet as identity signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Do you eat beef?",
+      "type": "question",
+      "translation": "Hindus generally don't even if non-practicing — eating beef signals more assimilated or non-Hindu",
+      "status_signal": "Major religious-cultural probe",
+      "notes": "Diet as religious identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Do you eat pork?",
+      "type": "question",
+      "translation": "Muslims don't — eating pork signals non-Muslim or non-practicing",
+      "status_signal": "Religious-identity probe",
+      "notes": "Diet as religious identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Do you speak Hindi?",
+      "type": "question",
+      "translation": "He's asking about language — signals specific regional community",
+      "status_signal": "Hindi/Urdu/Punjabi/Gujarati/Bengali/Tamil each signal different regional community",
+      "notes": "Major regional probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Are you Punjabi?",
+      "type": "question",
+      "translation": "Direct regional identification probe",
+      "status_signal": "Each region carries distinct cultural complexes",
+      "notes": "Regional-identity probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Where in India are you from?",
+      "type": "question",
+      "translation": "He's asking state-level identity which matters intensely",
+      "status_signal": "State-level identity often determines food language tradition",
+      "notes": "Major identity probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Did your parents have an arranged marriage?",
+      "type": "question",
+      "translation": "He's asking about family approach to marriage",
+      "status_signal": "Arranged signals more traditional; semi-arranged middle ground; love marriage more modern",
+      "notes": "Marriage-process probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "How did you meet your husband?",
+      "type": "question",
+      "translation": "He's asking whether arrangement was traditional",
+      "status_signal": "Family-arranged signals traditional; family-introduced middle; organic more modern",
+      "notes": "Marriage-process probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Are your in-laws nearby?",
+      "type": "question",
+      "translation": "He's checking joint-family structure",
+      "status_signal": "Living with in-laws signals traditional patrilocal; nuclear signals modern",
+      "notes": "Family-structure probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Punjabi",
+      "type": "lifestyle marker",
+      "translation": "Family from Punjab (India or Pakistan)",
+      "status_signal": "Carries reputation for outgoing-energy; often Sikh or Hindu; diaspora-prominent",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Gujarati",
+      "type": "lifestyle marker",
+      "translation": "Family from Gujarat",
+      "status_signal": "Carries reputation for business community; often merchant tradition",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Bengali",
+      "type": "lifestyle marker",
+      "translation": "Family from Bengal (India or Bangladesh)",
+      "status_signal": "Carries reputation for intellectual literary tradition",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "South Indian",
+      "type": "lifestyle marker",
+      "translation": "Family from Tamil Nadu Kerala Karnataka or Andhra",
+      "status_signal": "Carries reputation for education focus and engineering tradition",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Tamil",
+      "type": "lifestyle marker",
+      "translation": "Family from Tamil Nadu or Sri Lankan Tamil background",
+      "status_signal": "Specific South Indian community",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Marathi",
+      "type": "lifestyle marker",
+      "translation": "Family from Maharashtra",
+      "status_signal": "Specific middle-India community",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Hyderabadi",
+      "type": "lifestyle marker",
+      "translation": "Family from Hyderabad — distinct identity mixing Muslim and Telugu heritage",
+      "status_signal": "Specific community with distinct identity",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Sindhi",
+      "type": "lifestyle marker",
+      "translation": "Family with Sindhi heritage — often post-Partition migration",
+      "status_signal": "Specific community",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Lahore",
+      "type": "lifestyle marker",
+      "translation": "Pakistani family — major Pakistani city of origin",
+      "status_signal": "Pakistani cultural cosmopolitan often well-established",
+      "notes": "Pakistani-specific signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Karachi",
+      "type": "lifestyle marker",
+      "translation": "Pakistani family — Karachi is largest city",
+      "status_signal": "Pakistani — broad range of class and background",
+      "notes": "Pakistani-specific signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Dhaka",
+      "type": "lifestyle marker",
+      "translation": "Bangladeshi family",
+      "status_signal": "Bangladeshi cultural identity distinct from Pakistani or Indian",
+      "notes": "Bangladeshi-specific signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Hindu",
+      "type": "lifestyle marker",
+      "translation": "He practices Hinduism — major identity-and-cultural complex",
+      "status_signal": "Religious identity often paired with regional identity",
+      "notes": "Foundational identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Muslim",
+      "type": "lifestyle marker",
+      "translation": "He practices Islam",
+      "status_signal": "Religious identity overlapping with Pakistani/Bangladeshi/Indian Muslim background",
+      "notes": "Foundational identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Sikh",
+      "type": "lifestyle marker",
+      "translation": "He practices Sikhism — usually Punjabi background",
+      "status_signal": "Specific religious-cultural identity",
+      "notes": "Foundational identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Jain",
+      "type": "lifestyle marker",
+      "translation": "He practices Jainism — usually Gujarati background; strict vegetarianism",
+      "status_signal": "Specific religious-cultural identity",
+      "notes": "Diet often diagnostic"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Christian",
+      "type": "lifestyle marker",
+      "translation": "He's South Asian Christian — Kerala Goa or specific minority",
+      "status_signal": "Specific minority within South Asian context",
+      "notes": "Specific religious identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Brahmin",
+      "type": "lifestyle marker",
+      "translation": "He's from priestly/scholarly caste background",
+      "status_signal": "Carries stereotype (which insiders use) of priestly/scholarly background often vegetarian; often light-skinned in family stereotypes",
+      "notes": "Caste is officially denied but operates"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Patel",
+      "type": "lifestyle marker",
+      "translation": "Gujarati surname signaling merchant/trading caste",
+      "status_signal": "Signals merchant/trading tradition often successful immigrant business",
+      "notes": "Specific caste-and-region signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Bania",
+      "type": "lifestyle marker",
+      "translation": "Merchant caste designation",
+      "status_signal": "Signals merchant/trading tradition",
+      "notes": "Specific caste identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Rajput",
+      "type": "lifestyle marker",
+      "translation": "Warrior caste designation",
+      "status_signal": "Signals warrior tradition often Punjabi or Rajasthani",
+      "notes": "Specific caste identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Dalit",
+      "type": "lifestyle marker",
+      "translation": "Historically oppressed caste — rarely volunteered",
+      "status_signal": "Signals having to navigate caste discrimination",
+      "notes": "Specific caste identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "IIT",
+      "type": "lifestyle marker",
+      "translation": "Indian Institute of Technology — elite engineering schools",
+      "status_signal": "Major prestige signal — engineering elite",
+      "notes": "Specific elite institution"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "IIM",
+      "type": "lifestyle marker",
+      "translation": "Indian Institute of Management — elite business schools",
+      "status_signal": "Major prestige signal — business elite",
+      "notes": "Specific elite institution"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "AIIMS",
+      "type": "lifestyle marker",
+      "translation": "All India Institute of Medical Sciences — elite medical schools",
+      "status_signal": "Major prestige signal — medical elite",
+      "notes": "Specific elite institution"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "St. Stephen's",
+      "type": "lifestyle marker",
+      "translation": "Elite Delhi college",
+      "status_signal": "Major prestige signal",
+      "notes": "Specific elite institution"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "LSR / Lady Shri Ram",
+      "type": "lifestyle marker",
+      "translation": "Elite Delhi women's college",
+      "status_signal": "Major prestige signal for women's education",
+      "notes": "Specific elite institution"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Convent school",
+      "type": "lifestyle marker",
+      "translation": "Indian Christian-mission school often elite",
+      "status_signal": "Signals English-medium education upper-middle-class background",
+      "notes": "Specific class marker"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Big fat Indian wedding",
+      "type": "lifestyle marker",
+      "translation": "Multi-day wedding with many events and many guests",
+      "status_signal": "Standard family-wealth display",
+      "notes": "Specific cultural framing"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Mehndi",
+      "type": "lifestyle marker",
+      "translation": "Pre-wedding henna ceremony",
+      "status_signal": "Standard wedding event",
+      "notes": "Wedding-process element"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Sangeet",
+      "type": "lifestyle marker",
+      "translation": "Pre-wedding music and dance event",
+      "status_signal": "Standard wedding event",
+      "notes": "Wedding-process element"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Haldi",
+      "type": "lifestyle marker",
+      "translation": "Pre-wedding turmeric ceremony",
+      "status_signal": "Standard wedding event",
+      "notes": "Wedding-process element"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Baraat",
+      "type": "lifestyle marker",
+      "translation": "Groom's procession to the wedding venue",
+      "status_signal": "Standard wedding event",
+      "notes": "Wedding-process element"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Destination wedding in Goa or Udaipur",
+      "type": "lifestyle marker",
+      "translation": "Specific high-status destination wedding locations",
+      "status_signal": "Signals modern wealth and fashion-forward",
+      "notes": "Major wealth display"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Heavy gold",
+      "type": "status signal",
+      "translation": "Significant gold jewelry at wedding",
+      "status_signal": "Signals traditional family wealth",
+      "notes": "Major wealth display"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Designer lehenga",
+      "type": "status signal",
+      "translation": "Designer bridal outfit",
+      "status_signal": "Signals new money / fashion-forward",
+      "notes": "Specific wealth signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Dowry / jahez",
+      "type": "vocabulary",
+      "translation": "Wealth from bride's family to groom — officially illegal in India but operating",
+      "status_signal": "Standard traditional structure though denied",
+      "notes": "Specific marriage-process element"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Joint family",
+      "type": "vocabulary",
+      "translation": "Multi-generational household structure",
+      "status_signal": "Traditional family arrangement",
+      "notes": "Major family-structure signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Saas",
+      "type": "vocabulary",
+      "translation": "Mother-in-law (Hindi)",
+      "status_signal": "Specific in-law category",
+      "notes": "Family-structure vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Saasur",
+      "type": "vocabulary",
+      "translation": "Father-in-law (Hindi)",
+      "status_signal": "Specific in-law category",
+      "notes": "Family-structure vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Devar / jeth",
+      "type": "vocabulary",
+      "translation": "Husband's younger or older brother — specific in-law categories",
+      "status_signal": "Specific in-law categories",
+      "notes": "Family-structure vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Nanad",
+      "type": "vocabulary",
+      "translation": "Husband's sister",
+      "status_signal": "Specific in-law category",
+      "notes": "Family-structure vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Bahu / daughter-in-law",
+      "type": "vocabulary",
+      "translation": "Wife's role in husband's family",
+      "status_signal": "Major role-category in traditional family",
+      "notes": "Family-structure vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Rishta",
+      "type": "vocabulary",
+      "translation": "Marriage proposal or marriage prospect",
+      "status_signal": "Standard traditional marriage process",
+      "notes": "Marriage-process vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Rishta aunty",
+      "type": "vocabulary",
+      "translation": "Community matchmaker — usually older woman who arranges marriages",
+      "status_signal": "Specific community role",
+      "notes": "Marriage-process role"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Looking for a rishta",
+      "type": "phrase",
+      "translation": "Family is actively seeking marriage prospects",
+      "status_signal": "Traditional marriage process active",
+      "notes": "Standard family activity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Arranged marriage",
+      "type": "vocabulary",
+      "translation": "Marriage facilitated by families",
+      "status_signal": "Traditional marriage structure",
+      "notes": "Major marriage-process category"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Semi-arranged",
+      "type": "vocabulary",
+      "translation": "Family-introduced but couple chooses",
+      "status_signal": "Middle-ground modern adaptation",
+      "notes": "Marriage-process category"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Love marriage",
+      "type": "vocabulary",
+      "translation": "Marriage chosen by individuals without family involvement",
+      "status_signal": "Often loaded as less traditional or less stable",
+      "notes": "Marriage-process category"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Kundli matched",
+      "type": "phrase",
+      "translation": "Astrological horoscopes were compared and approved",
+      "status_signal": "Traditional marriage-vetting process",
+      "notes": "Standard Hindu-tradition practice"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Same gotra",
+      "type": "phrase",
+      "translation": "Same lineage clan — traditionally a problem for marriage",
+      "status_signal": "Specific traditional restriction",
+      "notes": "Marriage-restriction category"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's a good Indian girl",
+      "type": "phrase about a woman",
+      "translation": "She conforms to traditional expectations of femininity family loyalty and sexual restraint",
+      "status_signal": "Major approval phrase",
+      "notes": "Standard community approval"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's a good Pakistani girl",
+      "type": "phrase about a woman",
+      "translation": "Same as above for Pakistani family context",
+      "status_signal": "Major approval phrase",
+      "notes": "Standard community approval"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "He's from a good family",
+      "type": "phrase about a man",
+      "translation": "Family has standing money education and reputation",
+      "status_signal": "Major status approval",
+      "notes": "Standard probe-result"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Her family is well-settled",
+      "type": "phrase about a woman",
+      "translation": "They're established in the US with stable professional lives",
+      "status_signal": "Major status approval",
+      "notes": "Standard probe-result"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "He's well-placed",
+      "type": "phrase about a man",
+      "translation": "He has a good professional position",
+      "status_signal": "Status approval",
+      "notes": "Standard probe-result"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's homely",
+      "type": "phrase about a woman",
+      "translation": "In South Asian English this means domestic and family-oriented (not unattractive) — it's a compliment in traditional context",
+      "status_signal": "Specific in-group meaning different from outside",
+      "notes": "Cultural-translation phrase"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's fair",
+      "type": "phrase about a woman",
+      "translation": "Light-skinned — considered a positive trait in colorist evaluation",
+      "status_signal": "Major colorism marker",
+      "notes": "Reflects harmful but operating preference"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "He's a doctor",
+      "type": "phrase about a man",
+      "translation": "Often the first thing mentioned — the entire status statement",
+      "status_signal": "Major status marker",
+      "notes": "Standard high-status profession"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "He's working in IT",
+      "type": "phrase about a man",
+      "translation": "Tech professional often H1B visa often middle-class",
+      "status_signal": "Standard tech-professional signal",
+      "notes": "Specific professional category"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "They live in a joint family",
+      "type": "phrase about a family",
+      "translation": "Traditional multi-generational household structure",
+      "status_signal": "Family-structure signal",
+      "notes": "Standard description"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She moved into the in-laws' house",
+      "type": "phrase about a woman",
+      "translation": "Traditional patrilocal arrangement",
+      "status_signal": "Major traditional-family signal",
+      "notes": "Standard description"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "The mother-in-law is very particular",
+      "type": "phrase about an in-law",
+      "translation": "MIL has strict expectations often controlling daughter-in-law",
+      "status_signal": "Standard mother-in-law concern",
+      "notes": "Family-dynamics signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She doesn't go to her parents' house too much",
+      "type": "phrase about a woman",
+      "translation": "She's been properly absorbed into her husband's family — considered virtuous in traditional framing",
+      "status_signal": "Standard traditional-virtue framing",
+      "notes": "Approval of absorption"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "His mother runs the household",
+      "type": "phrase about a family",
+      "translation": "MIL has authority over wife in joint family",
+      "status_signal": "Family-hierarchy signal",
+      "notes": "Standard description"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "What will people say?",
+      "type": "phrase",
+      "translation": "Community surveillance as control mechanism",
+      "status_signal": "Standard social-control framing",
+      "notes": "Major control mechanism"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Log kya kahenge?",
+      "type": "phrase",
+      "translation": "Hindi/Urdu version of 'what will people say'",
+      "status_signal": "Standard social-control framing",
+      "notes": "Same concept in original language"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "That's not how things are done",
+      "type": "phrase",
+      "translation": "Traditional norms are being invoked",
+      "status_signal": "Standard norm-enforcement",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "He's a settled boy",
+      "type": "phrase about a man",
+      "translation": "Established career and stability suitable for marriage",
+      "status_signal": "Standard marriage-criterion",
+      "notes": "Approval phrase"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's adjusting",
+      "type": "phrase about a woman",
+      "translation": "She's accepting her in-laws' authority and household structure",
+      "status_signal": "Praise for adaptation to traditional structure",
+      "notes": "Specific cultural framing"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's not adjusting",
+      "type": "phrase about a woman",
+      "translation": "She's resisting traditional in-law authority — and the resistance is being treated as her problem",
+      "status_signal": "Standard blame-the-DIL framing",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Sharam karo / have some shame",
+      "type": "phrase",
+      "translation": "He's invoking shame as control mechanism",
+      "status_signal": "Standard cultural-shame deployment",
+      "notes": "Common control move"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Izzat / honor",
+      "type": "vocabulary",
+      "translation": "Family honor as accumulated reputation property",
+      "status_signal": "Major control concept",
+      "notes": "Specific cultural framework"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She brought shame to the family",
+      "type": "phrase about a woman",
+      "translation": "Her behavior damaged family reputation",
+      "status_signal": "Heavy patriarchal-family accusation",
+      "notes": "Common control framing"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "It's against our culture",
+      "type": "phrase",
+      "translation": "He's invoking culture as authoritative reason",
+      "status_signal": "Standard tradition-as-authority",
+      "notes": "Common control move"
+    }
+  ]
+}

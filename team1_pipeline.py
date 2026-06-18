@@ -8,8 +8,7 @@ import datetime
 from pathlib import Path
 from collections import Counter
 
-from google import genai
-from google.genai import types
+import anthropic
 import pandas as pd
 from dotenv import load_dotenv
 
@@ -32,19 +31,37 @@ OUTPUTS_DIR.mkdir(exist_ok=True)
 PROFILES_DIR.mkdir(exist_ok=True)
 
 # API Configuration
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
-CLASSIFIER_MODEL = os.environ.get("GEMINI_CLASSIFIER_MODEL", "gemini-2.5-pro") # Upgraded model name
-GENERATOR_MODEL = os.environ.get("GEMINI_GENERATOR_MODEL", "gemini-2.5-pro")
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+CLASSIFIER_MODEL = os.environ.get("CLAUDE_CLASSIFIER_MODEL", "claude-haiku-4-5") 
+GENERATOR_MODEL = os.environ.get("CLAUDE_GENERATOR_MODEL", "claude-sonnet-4-6")
 
-if not GEMINI_API_KEY:
-    raise EnvironmentError("GEMINI_API_KEY not found in environment or .env file.")
+if not ANTHROPIC_API_KEY:
+    raise EnvironmentError("ANTHROPIC_API_KEY not found in environment or .env file.")
 
-client = genai.Client(api_key=GEMINI_API_KEY)
+client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
 # Generation Constraints
 WORD_COUNT_MIN = 280
 WORD_COUNT_MAX = 340
 WORD_COUNT_RETRIES = 2
+
+# ============================================================
+# CONTROLLED VOCABULARIES 
+# ============================================================
+LEGAL_KINDS = {
+    "Behavioral Red Flag", "Internal Red Flag",
+    "Cultural/Demographic Information", "Power Information", "Loaded Language"
+}
+LEGAL_NEEDS = {
+    "Connection", "Fairness", "Morality", "Reality",
+    "Worth", "Autonomy", "Agency", "Safety", "Not Found"
+}
+LEGAL_TRAUMAS = {
+    "Coercive Control", "Gaslighting (DARVO)", "Humiliation",
+    "Betrayal / Exploitation", "Emotional Neglect", "Moral Injury",
+    "Narcissistic Grandiosity", "Obsessive Attachment / Enmeshment",
+    "Psychopathy / Terror", "Not Found"
+}
 
 def log(stage, msg):
     print(f"[{stage.upper()}] {msg}")
@@ -57,41 +74,49 @@ def word_count(text: str) -> int:
 # ============================================================
 # Schema for Stage 1: Classifier
 CLASSIFIER_SCHEMA = {
-    "type": "OBJECT",
+    "type": "object",
     "properties": {
-        "demographics": {"type": "STRING", "description": "Age, race, gender, relationship status"},
-        "geographic_setting": {"type": "STRING", "description": "City or environment type"},
-        "cultural_context": {"type": "STRING", "description": "Job, social sphere, or community type"},
-        "ideological_register": {"type": "STRING", "description": "The exact name of the cultural register to use (e.g., Black Manosphere, Evangelical, etc.)"}
+        "demographics": {"type": "string", "description": "Age, race, gender, relationship status"},
+        "geographic_setting": {"type": "string", "description": "City or environment type"},
+        "cultural_context": {"type": "string", "description": "Job, social sphere, or community type"},
+        "ideological_register": {"type": "string", "description": "The exact name of the cultural register to use (e.g., Black Manosphere, Evangelical, etc.)"}
     },
     "required": ["demographics", "geographic_setting", "cultural_context", "ideological_register"]
 }
 
-# Schema for Stage 3: Generator (from team1_pipeline.py)
+# Schema for Stage 3: Generator
 GENERATOR_SCHEMA = {
-    "type": "OBJECT",
+    "type": "object",
     "properties": {
+        "scenario_id": {"type": "string"},
+        "player_type": {"type": "string"},
+        "architecture_name": {"type": "string"},
+        "culture": {"type": "string"},
+        "demographics": {"type": "string"},
+        "core_behaviors": {"type": "array", "items": {"type": "string"}},
+        "satellite_signals": {"type": "array", "items": {"type": "string"}},
+        "dismissible_red_flags": {"type": "array", "items": {"type": "string"}},
         "scenario": {
-            "type": "STRING",
+            "type": "string",
             "description": "The 280-340 word first-person narrative."
         },
         "snippets": {
-            "type": "ARRAY",
+            "type": "array",
             "items": {
-                "type": "OBJECT",
+                "type": "object",
                 "properties": {
-                    "quote": {"type": "STRING"},
-                    "signal_type": {"type": "STRING"},
-                    "unes_traits": {"type": "ARRAY", "items": {"type": "STRING"}},
-                    "unmet_need": {"type": "ARRAY", "items": {"type": "STRING"}},
-                    "possible_trauma": {"type": "ARRAY", "items": {"type": "STRING"}},
-                    "reasoning": {"type": "STRING"}
+                    "quote": {"type": "string"},
+                    "kind_of_signal": {"type": "string"},
+                    "unes_traits": {"type": "array", "items": {"type": "string"}},
+                    "unmet_need": {"type": "array", "items": {"type": "string"}},
+                    "possible_trauma": {"type": "array", "items": {"type": "string"}},
+                    "reasoning": {"type": "string"}
                 },
-                "required": ["quote", "signal_type", "unes_traits", "unmet_need", "possible_trauma", "reasoning"]
+                "required": ["quote", "kind_of_signal", "unes_traits", "unmet_need", "possible_trauma", "reasoning"]
             }
         }
     },
-    "required": ["scenario", "snippets"]
+    "required": ["scenario_id", "player_type", "architecture_name", "culture", "demographics", "core_behaviors", "satellite_signals", "dismissible_red_flags", "scenario", "snippets"]
 }
 
 # ============================================================
@@ -99,7 +124,7 @@ GENERATOR_SCHEMA = {
 # ============================================================
 
 def classify_source_story(source_story: str, available_registers: list) -> dict:
-    """Uses the LLM to extract demographics and pick a valid register."""
+    """Uses Claude to extract demographics and pick a valid register via Tool Use."""
     prompt = f"""
     Analyze the following late-stage source story. Extract the demographics, geographic setting, and cultural context. 
     Then, select the most appropriate ideological register from this exact list: {available_registers}
@@ -108,18 +133,25 @@ def classify_source_story(source_story: str, available_registers: list) -> dict:
     {source_story}
     """
     
-    config = types.GenerateContentConfig(
+    response = client.messages.create(
+        model=CLASSIFIER_MODEL,
+        max_tokens=1024,
         temperature=0.0,
-        response_mime_type="application/json",
-        response_schema=CLASSIFIER_SCHEMA,
+        tools=[{
+            "name": "record_classification",
+            "description": "Output the classification data according to the schema.",
+            "input_schema": CLASSIFIER_SCHEMA
+        }],
+        tool_choice={"type": "tool", "name": "record_classification"},
+        messages=[{"role": "user", "content": prompt}]
     )
     
-    response = client.models.generate_content(
-        model=CLASSIFIER_MODEL,
-        contents=prompt,
-        config=config
-    )
-    return json.loads(response.text)
+    # Extract the JSON payload from the tool use block
+    for block in response.content:
+        if block.type == 'tool_use':
+            return block.input
+            
+    raise ValueError("Claude failed to use the classification tool.")
 
 def build_linguistic_profile(scenario_id, register, player_type, community_df, player_df):
     """Combines community language with player manipulation language and saves it."""
@@ -130,9 +162,16 @@ def build_linguistic_profile(scenario_id, register, player_type, community_df, p
         import random
         community_snippets = random.sample(community_snippets, 100)
         
-    # Extract player psychology language
-    player_snippets = player_df[player_df['nickname'] == player_type].to_dict('records')
+    # Normalize player_type to lowercase & strip whitespace for safe matching
+    clean_player = str(player_type).strip().lower()
     
+    # Extract player psychology language with normalized matching
+    player_snippets = player_df[player_df['nickname'].astype(str).str.strip().str.lower() == clean_player].to_dict('records')
+    
+    # Loud Failure Guard for empty vocabulary
+    if not player_snippets:
+        raise ValueError(f"CRITICAL ERROR: Vocabulary lookup failed for player type '{player_type}'. Check spelling, casing, or ensure the vocabulary CSV is fully updated.")
+
     # Build Object
     profile = {
         "scenario_metadata": {
@@ -151,13 +190,10 @@ def build_linguistic_profile(scenario_id, register, player_type, community_df, p
     }
     
     # Save to disk as an artifact
+    ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     clean_type = player_type.replace(' ', '')
-    profile_path = PROFILES_DIR / f"profile_{scenario_id}_{clean_type}.json"
+    profile_path = PROFILES_DIR / f"profile_{scenario_id}_{clean_type}_{ts}.json"
     
-    # Clean up any old versions
-    for old_profile in PROFILES_DIR.glob(f"profile_{scenario_id}_*.json"):
-        old_profile.unlink()
-
     with open(profile_path, 'w', encoding='utf-8') as f:
         json.dump(profile, f, indent=2, ensure_ascii=False)
         
@@ -194,28 +230,31 @@ LATE-STAGE SOURCE STORY
 """
 
 def generate_scenario(system_prompt: str, user_message: str):
-    """Calls Gemini to generate the scenario and snippets table."""
-    config = types.GenerateContentConfig(
-        system_instruction=system_prompt,
-        temperature=0.7,
-        response_mime_type="application/json",
-        response_schema=GENERATOR_SCHEMA,
-    )
-    response = client.models.generate_content(
+    """Calls Claude to generate the scenario and snippets table."""
+    response = client.messages.create(
         model=GENERATOR_MODEL,
-        contents=user_message,
-        config=config
+        max_tokens=4096, 
+        temperature=0.7,
+        system=system_prompt,
+        tools=[{
+            "name": "generate_scenario_output",
+            "description": "Output the generated scenario and snippets.",
+            "input_schema": GENERATOR_SCHEMA
+        }],
+        tool_choice={"type": "tool", "name": "generate_scenario_output"},
+        messages=[{"role": "user", "content": user_message}]
     )
-    raw = response.text
-    try:
-        return json.loads(raw), raw
-    except json.JSONDecodeError:
-        log("error", "Failed to parse JSON. Raw output:")
-        print(raw)
-        raise
+    
+    for block in response.content:
+        if block.type == 'tool_use':
+            result_dict = block.input
+            raw_json_str = json.dumps(result_dict) 
+            return result_dict, raw_json_str
+            
+    raise ValueError("Claude failed to use the generation tool.")
 
 def regenerate_until_in_range(result: dict, raw: str, system_prompt: str, user_msg: str):
-    """Forces the word count into the 280-340 sweet spot."""
+    """Forces the word count into the 280-340 sweet spot using Claude."""
     scenario_text = result.get("scenario", "")
     current_wc = word_count(scenario_text)
     attempts = 0
@@ -224,26 +263,32 @@ def regenerate_until_in_range(result: dict, raw: str, system_prompt: str, user_m
         attempts += 1
         log("word-count", f"Attempt {attempts}: count is {current_wc}. Regenerating...")
         
-        correction = f"\n\nCRITICAL FIX: Your previous scenario was {current_wc} words. You MUST write strictly between {WORD_COUNT_MIN} and {WORD_COUNT_MAX} words. Do not change the JSON structure."
+        correction = f"\n\nCRITICAL FIX: Your previous scenario was {current_wc} words. You MUST write strictly between {WORD_COUNT_MIN} and {WORD_COUNT_MAX} words."
         
-        config = types.GenerateContentConfig(
-            system_instruction=system_prompt,
-            temperature=0.6,
-            response_mime_type="application/json",
-            response_schema=GENERATOR_SCHEMA,
-        )
-        response = client.models.generate_content(
-            model=GENERATOR_MODEL,
-            contents=user_msg + correction,
-            config=config
-        )
-        raw = response.text
         try:
-            result = json.loads(raw)
-            scenario_text = result.get("scenario", "")
-            current_wc = word_count(scenario_text)
-        except json.JSONDecodeError:
-            log("error", "JSON decode failed on retry.")
+            response = client.messages.create(
+                model=GENERATOR_MODEL,
+                max_tokens=4096,
+                temperature=0.6,
+                system=system_prompt,
+                tools=[{
+                    "name": "generate_scenario_output",
+                    "description": "Output the generated scenario and snippets.",
+                    "input_schema": GENERATOR_SCHEMA
+                }],
+                tool_choice={"type": "tool", "name": "generate_scenario_output"},
+                messages=[{"role": "user", "content": user_msg + correction}]
+            )
+            
+            for block in response.content:
+                if block.type == 'tool_use':
+                    result = block.input
+                    raw = json.dumps(result)
+                    scenario_text = result.get("scenario", "")
+                    current_wc = word_count(scenario_text)
+                    break
+        except Exception as e:
+            log("error", f"API or JSON decode failed on retry: {str(e)}")
             break
 
     if WORD_COUNT_MIN <= current_wc <= WORD_COUNT_MAX:
@@ -252,6 +297,36 @@ def regenerate_until_in_range(result: dict, raw: str, system_prompt: str, user_m
         log("word-count", f"WARNING: Failed to hit word count target. Final count: {current_wc}.")
 
     return result, raw
+
+def validate(result: dict) -> list:
+    """Validates the output tags against the controlled legal vocabularies."""
+    issues = []
+    for i, snip in enumerate(result.get('snippets', [])):
+        sid = f"snippet[{i}]"
+        
+        # 1. Grab the signal type
+        stype = snip.get('kind_of_signal', '')
+        
+        # 2. SAFETY FIX: If Claude returned a list, grab the first item inside it
+        if isinstance(stype, list):
+            stype = stype[0] if len(stype) > 0 else ""
+            
+        if stype not in LEGAL_KINDS:
+            issues.append(f"{sid}: invalid kind_of_signal '{stype}'")
+            
+        for n in snip.get('unmet_need', []):
+            if n not in LEGAL_NEEDS:
+                issues.append(f"{sid}: invalid unmet_need '{n}'")
+                
+        for t in snip.get('possible_trauma', []):
+            if t not in LEGAL_TRAUMAS:
+                issues.append(f"{sid}: invalid possible_trauma '{t}'")
+                
+        for trait in snip.get('unes_traits', []):
+            if trait != "Not Found" and not (trait.endswith("-high") or trait.endswith("-low")):
+                issues.append(f"{sid}: unes_trait '{trait}' missing -high/-low suffix")
+                
+    return issues
 
 # ============================================================
 # MAIN BATCH LOOP
@@ -313,25 +388,22 @@ def main():
                 log("step 4", "Validating word count constraints...")
                 result, raw = regenerate_until_in_range(result, raw, system_prompt, user_msg)
                 
-                # STEP 5: Save
-                log("step 5", "Cleaning up old files and saving new version...")
+                # STEP 4.5: Validate Controlled Vocabulary
+                log("step 4.5", "Validating controlled vocabularies against legal tags...")
+                issues = validate(result)
+                if issues:
+                    log("VALIDATION WARNING", f"{len(issues)} issues found in {scenario_id}:")
+                    for issue in issues:
+                        print(f"  -> {issue}")
+
+                # STEP 5: Save (Cleanup removed, Timestamp added)
+                log("step 5", "Saving new version with timestamp...")
                 
-                final_output = {
-                    "scenario_id": scenario_id,
-                    "player_type": player_type
-                }
-                
-                final_output.update(result)
-                
-                # Delete any existing files
-                for old_file in OUTPUTS_DIR.glob(f"{scenario_id}_final*.json"):
-                    old_file.unlink()
-                
-                # Save with a static, deterministic filename
-                output_path = OUTPUTS_DIR / f"{scenario_id}_final.json"
+                ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+                output_path = OUTPUTS_DIR / f"{scenario_id}_final_{ts}.json"
                 
                 with open(output_path, 'w', encoding='utf-8') as f:
-                    json.dump(final_output, f, indent=2, ensure_ascii=False)
+                    json.dump(result, f, indent=2, ensure_ascii=False)
                     
                 log("SUCCESS", f"Final JSON saved to: {output_path.name}")
                 
@@ -342,7 +414,7 @@ def main():
 
             except Exception as e:
                 error_msg = str(e)
-                if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
+                if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg or "503" in error_msg or "UNAVAILABLE" in error_msg:
                     rate_limit_retries += 1
                     log("RATE LIMIT HIT", f"Sleeping for 60 seconds to reset quota... (Attempt {rate_limit_retries}/5)")
                     time.sleep(60)

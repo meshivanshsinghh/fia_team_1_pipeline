@@ -1,0 +1,405 @@
+{
+  "scenario_id": "S-006",
+  "player_type": "Avoidant Alex",
+  "architecture_name": "He recruits her into a traditional domestic role while keeping his own commitment permanently deferred, framing her patience and her children's secondariness as proof she has the right feminine energy.",
+  "culture": "Tradwife-Recruiting",
+  "demographics": "Female, likely 30s-40s, single parent with children, working multiple jobs; Male, likely late 30s-40s, rural/small-town, traditional masculinity framing",
+  "core_behaviors": [
+    "Performs protective provider role as entry move for traditional gender hierarchy",
+    "Pre-excuses emotional unavailability and intermittency as masculine rhythm",
+    "Evaluates her against tradwife criteria while withholding reciprocal commitment"
+  ],
+  "satellite_signals": "Anti-label framing dressed as romance; 'feminine energy' compliments that pre-load role expectations; picnic planned over son's soccer game framed as wanting her all to himself; has not asked her children's names after weeks",
+  "dismissible_red_flags": "Surprise visits and planned dates easily read as romantic attentiveness; 'I just want you all to myself' easily dismissed as flattering possessiveness; not asking about kids could be read as giving her space from mom-mode",
+  "scenario": "I met Ryan at the county fair about three weeks ago and honestly it's been a lot of sweet since then. He showed up at my door last Tuesday with a bunch of wildflowers, just said he wanted to brighten my day. I was still in my work uniform from the diner shift and he didn't even blink, just handed them over like it was the most natural thing.\n\nHe takes me to this little cafe in the city every Saturday. I told him I'm usually juggling the kids and my cleaning job on weekends and he said, you deserve a break, you work too hard. That felt really good to hear. Nobody's said that to me in a while.\n\nHe did say something early on that I keep turning over. He said he's a slow mover, that he doesn't like things to get too heavy too fast, and that he does best with a woman who has her own full life going on. He said it like a compliment, like I was exactly that kind of woman. I think I am. I just wasn't sure if that was him saying something about us or about himself.\n\nLast week he planned a surprise picnic by the lake. It landed on the same afternoon as my son Caleb's soccer game. Ryan just kind of laughed it off, said I just want you all to myself today, is that so wrong? I went. Caleb's dad was there so it was fine. I told myself Ryan didn't know about the game, which is true.\n\nHe's said a few times that I have a soft feminine energy, that most women my age are too stressed to just be present. I liked hearing it. I think.\n\nHe hasn't asked about the kids much. Not their names, not their ages. I keep waiting for it to come up naturally. Is it weird that it hasn't yet?",
+  "snippets": [
+    {
+      "quote": "a bunch of wildflowers, just said he wanted to brighten my day",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The unannounced arrival with flowers is framed as spontaneous romance, but it establishes him as the one who decides when contact happens and on what terms. She is receiving him; he is not asking. The gesture creates warmth and debt before any conversation about what she needs."
+    },
+    {
+      "quote": "I was still in my work uniform from the diner shift",
+      "kind_of_signal": [
+        "Power Information",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Class and labor marker. She is coming off a service-industry shift; he is arriving with flowers. The gap between his leisure and her exhaustion is visible in this single image, and his gesture lands in that gap."
+    },
+    {
+      "quote": "He takes me to this little cafe in the city every Saturday",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He sets the day, the place, and the rhythm. Saturday is her busiest day with kids and work, but he has inserted himself into it as a standing fixture. She frames it as a treat; structurally, he is already managing her schedule."
+    },
+    {
+      "quote": "you deserve a break, you work too hard",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The line is genuinely kind on the surface and lands hard because nobody has said it to her in a while. But it also positions him as the one who grants her rest, which installs a provider-protector frame early. She becomes someone who needs rescuing from her own life."
+    },
+    {
+      "quote": "Nobody's said that to me in a while",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She registers her own hunger for recognition, and this moment shows how effectively his words land in that gap. Her unmet need for acknowledgment makes the provider framing more adhesive than it would otherwise be."
+    },
+    {
+      "quote": "he's a slow mover, that he doesn't like things to get too heavy too fast",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Commitment-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Coercive Control"
+      ],
+      "reasoning": "This is the avoidant self-advertisement delivered early, framed as honesty. 'Slow mover' and 'too heavy' pre-install the terms under which any future request for clarity or commitment will be classified as pressure. He is telling her the rules of the relationship before she has agreed to them."
+    },
+    {
+      "quote": "he does best with a woman who has her own full life going on",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "Target-search language dressed as a compliment. He is pre-selecting for a woman who will not protest his absences, framing his preferred degree of unavailability as a compatibility criterion. She hears that she is exactly right; he is screening for someone who will not ask for more."
+    },
+    {
+      "quote": "He said it like a compliment, like I was exactly that kind of woman",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She absorbs his target-search criteria as a personal compliment and begins to identify with them. The moment she accepts 'woman who doesn't crowd him' as a flattering description of herself, she has agreed to the terms he needs."
+    },
+    {
+      "quote": "I just wasn't sure if that was him saying something about us or about himself",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She notices the ambiguity but cannot resolve it, and she moves on without resolving it. This is the interpretive fog the avoidant pattern depends on: she is uncertain whether his statement was a warning or a description, and she does not ask."
+    },
+    {
+      "quote": "He planned a surprise picnic by the lake",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He plans without consulting her calendar. The surprise framing makes the lack of coordination feel romantic rather than inconsiderate. Her schedule, her son's game, her logistics are not part of his planning process."
+    },
+    {
+      "quote": "It landed on the same afternoon as my son Caleb's soccer game",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "The conflict with Caleb's game is the load-bearing asymmetry. He planned an event that required her to choose between him and her child, without knowing or asking her schedule. She chose him. The children are already being displaced, and it has not registered as a problem yet."
+    },
+    {
+      "quote": "I just want you all to myself today, is that so wrong",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The rhetorical question closes off objection before she can make one. 'Is that so wrong' pre-frames any pushback as an accusation against him, putting her in the position of defending his feelings rather than her son's game. The children's claims on her time are being framed as competition."
+    },
+    {
+      "quote": "I went. Caleb's dad was there so it was fine",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Moral Injury"
+      ],
+      "reasoning": "She rationalizes the choice by outsourcing Caleb's coverage to his father. The rationalization works, which means she will use it again. She is already reorganizing her children's needs around his preferences and finding reasons why that is acceptable."
+    },
+    {
+      "quote": "I told myself Ryan didn't know about the game, which is true",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Moral Injury"
+      ],
+      "reasoning": "She is doing his accountability work for him. He didn't ask, so he didn't know, so it isn't his fault. This is the internal move that lets the pattern continue: she supplies the exculpatory logic he never had to offer."
+    },
+    {
+      "quote": "you have a soft feminine energy",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Tradwife-register compliment that functions as role assignment. 'Soft feminine energy' is not just praise; it is an evaluation against a criterion he holds. She is being graded on how well she performs the femininity he is recruiting for. The compliment installs an expectation she will feel pressure to maintain."
+    },
+    {
+      "quote": "most women my age are too stressed to just be present",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Coercive Control"
+      ],
+      "reasoning": "Elevation-through-devaluation. He separates her from her peer group by criticizing women her age as too stressed, then positions her as the rare exception. She is rewarded for being different from other women, which makes future objection feel like falling back into the devalued category."
+    },
+    {
+      "quote": "I liked hearing it. I think",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The trailing 'I think' is the dictional tell. She registered something ambiguous in the compliment but cannot name it. The hesitation is real; the sentence closes before she can follow it."
+    },
+    {
+      "quote": "He hasn't asked about the kids much. Not their names, not their ages",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Attachment-low",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Coercive Control"
+      ],
+      "reasoning": "This is the load-bearing asymmetry. After three weeks of Saturday dates, surprise visits, and a picnic that displaced her son's soccer game, he has not asked her children's names. She has been fully present to him; he has not been present to the most central fact of her life. The children are invisible to him."
+    },
+    {
+      "quote": "I keep waiting for it to come up naturally",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Coercive Control"
+      ],
+      "reasoning": "She is managing his avoidance by waiting rather than asking. 'Come up naturally' means she has decided not to raise it herself, which is already an accommodation to the terms he installed early: don't crowd him, don't be heavy, let him come to you."
+    },
+    {
+      "quote": "Is it weird that it hasn't yet?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Trust-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Emotional Neglect"
+      ],
+      "reasoning": "The closing question is the smallest socially acceptable version of a much larger concern. She is not asking whether a man who has not learned her children's names after three weeks is a safe partner for her family. She is asking whether her noticing is weird. The structural problem has been converted into a question about her own perception."
+    }
+  ]
+}

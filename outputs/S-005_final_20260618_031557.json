@@ -1,0 +1,371 @@
+{
+  "scenario_id": "S-005",
+  "player_type": "Backhanded Blake",
+  "architecture_name": "He uses deniable wit and honesty-framing to install himself as the authoritative judge of her worth while keeping her grateful for the evaluation.",
+  "culture": "South Asian",
+  "demographics": "F/26 Venezuelan-diaspora graduate student, M/29 Venezuelan-American, Miami-based",
+  "core_behaviors": [
+    "Deploys hooked compliments and playful rankings to make his approval feel like a prize she must earn",
+    "Uses honesty-framing to position critique as respect and withheld warmth as integrity",
+    "Introduces exception-bait to train her to suppress needs and stay the 'good' version he prefers"
+  ],
+  "satellite_signals": "Playful ranking language keeps her in competition with unnamed others; honesty-frame pre-excuses future criticism; exception-bait trains her to suppress needs; long-distance gap gives him interpretive authority over her social world in Miami.",
+  "dismissible_red_flags": "Teasing and banter easily read as flirtatious chemistry; honesty-framing sounds like emotional maturity; playful rankings feel like affectionate ribbing in early-stage relationships.",
+  "scenario": "I've been in Boston for about three months now for my master's and Marco and I have been doing long distance since I left Miami. It's been hard but honestly he makes it feel kind of sweet? He texts constantly, little check-ins throughout the day, and he'll call out of nowhere when he figures out I'm free, which is cute even when it catches me mid-study-group.\n\nHe's funny in this dry, observational way that I wasn't expecting. Like the first time we video called after I moved he watched me try to explain my thesis topic and said, \"you're smarter than you let on, I almost didn't notice.\" I laughed because the delivery was so deadpan. I think he meant it as a compliment.\n\nHe's also said a few times that he's not a fake-compliment guy, like he'll actually tell me what he thinks. He said once, \"I like you too much to give you those cheap compliments other guys use.\" Which I get, it's kind of refreshing? My last boyfriend was all flattery and nothing underneath it.\n\nThe one thing I keep thinking about is this: he talks a lot about the Venezuelan community back in Miami, his whole friend group, and there's one woman, Stacey, a fitness trainer, who comes up a lot. He describes her as someone everyone looks up to, basically family. He's mentioned her maybe four or five times in the last few weeks. When I said it sounded like she was kind of a big deal in the group he laughed and said, \"don't tell me you're one of those people who gets insecure easily, I'm just playing.\" Then he said when I'm back we'll all hang out and I'll love her.\n\nI don't think I'm being insecure, I just noticed it. Is it weird that the comment kind of stayed with me?",
+  "snippets": [
+    {
+      "quote": "he makes it feel kind of sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She's narrating the difficulty of long-distance but immediately softens it with his framing. The word 'sweet' is doing absorption work — she's already translating his behavior into a positive category before examining what it actually is."
+    },
+    {
+      "quote": "he'll call out of nowhere when he figures out I'm free",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He's tracking her schedule closely enough to know when she's free and acting on that knowledge unilaterally. Framed as romantic attentiveness, this is surveillance of her time. She doesn't ask how he knows — she calls it cute."
+    },
+    {
+      "quote": "which is cute even when it catches me mid-study-group",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Autonomy-low",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She registers the disruption to her academic life and immediately re-labels it as cute. The rationalization is doing the work his behavior should be held to — she's absorbing the intrusion so she doesn't have to name it."
+    },
+    {
+      "quote": "dry, observational way that I wasn't expecting",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "She's describing the quality that drew her in — the wit she didn't see coming. In the Backhanded Blake pattern, this is exactly the surface that makes the later barbs feel like more of the same clever banter rather than something she should name."
+    },
+    {
+      "quote": "you're smarter than you let on, I almost didn't notice",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Classic hooked compliment: the praise ('smarter') is real, but the barb ('almost didn't notice') is also real. She gets approval and a small cut at the same time. The delivery as deadpan humor makes it ungrievable — she laughed, so nothing happened. She will start demonstrating her intelligence earlier in future conversations to earn the clean version of this compliment."
+    },
+    {
+      "quote": "I laughed because the delivery was so deadpan",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She's explaining why she laughed — the delivery made it feel like a joke. But she's also explaining away the sting. The laugh was the price of entry; she paid it without noticing she was paying anything."
+    },
+    {
+      "quote": "I think he meant it as a compliment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She's doing the interpretive work for him. 'I think' signals she's not sure, but she lands on the charitable reading and moves on. This is the moment of absorption — the ambiguity resolves in his favor because she resolves it."
+    },
+    {
+      "quote": "he's not a fake-compliment guy",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "Honesty-as-superiority framing. He's pre-installing the rule that withheld warmth equals integrity and criticism equals respect. Once this frame is in place, any future cut becomes a compliment — he's being real with her because he takes her seriously."
+    },
+    {
+      "quote": "I like you too much to give you those cheap compliments other guys use",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the honesty-frame in full deployment. He positions himself above other men, frames warmth as cheap, and makes her feel that receiving his critique is a privilege. She now has a reason to feel grateful when he withholds praise — it means he respects her enough to be honest."
+    },
+    {
+      "quote": "it's kind of refreshing",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She's absorbed his framing and is now reporting it back as her own conclusion. 'Refreshing' is his category, not hers — she's adopted his self-description as her evaluation of him."
+    },
+    {
+      "quote": "My last boyfriend was all flattery and nothing underneath it",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The contrast with her ex is doing structural work. He's positioned himself as the antidote to her previous disappointment. She's bringing the vulnerability; he's the solution to it. This is the power gap — her past experience is the leverage point that makes his honesty-framing land."
+    },
+    {
+      "quote": "he talks a lot about the Venezuelan community back in Miami",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He's repeatedly orienting the relationship toward his world — his community, his city, his social network. She is in Boston building her own life, but the relational center of gravity is consistently placed in Miami, where he has interpretive authority over who matters and why."
+    },
+    {
+      "quote": "Stacey, a fitness trainer, who comes up a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A specific woman mentioned four or five times in a few weeks, described in terms that signal her standing in his community. The repetition is doing work — it keeps another woman present in the relationship and creates a low-grade comparison the narrator can't quite name."
+    },
+    {
+      "quote": "someone everyone looks up to, basically family",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He's established Stacey's status in the community before the narrator has met anyone in it. The 'basically family' framing makes any future concern about her feel like an attack on family loyalty — a culturally loaded move in Venezuelan community context."
+    },
+    {
+      "quote": "I feel a little left out",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She names the feeling but minimizes it with 'a little.' She's registering the structural fact — she is outside the community he keeps referencing — but she's not letting herself stay with it long enough to examine what it means."
+    },
+    {
+      "quote": "don't tell me you're one of those people who gets insecure easily, I'm just playing",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Accountability-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Humiliation"
+      ],
+      "reasoning": "This is the banter-test and DARVO move combined. She raised a real observation about Stacey's prominence in his stories. He responded by categorizing her as 'one of those people' — the insecure, easily-bothered type — then immediately wrapped it in 'I'm just playing.' She now has to choose between defending her observation (proving she's insecure) or laughing it off (passing his test). The concern gets buried either way."
+    },
+    {
+      "quote": "when I'm back we'll all hang out and I'll love her",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He closes the Stacey conversation by projecting her future feelings — she will love her — rather than engaging with what she actually said. The 'when I'm back' framing also reinstalls Miami as the relational destination, and his community as the one she'll be joining, not the other way around."
+    },
+    {
+      "quote": "I don't think I'm being insecure, I just noticed it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She's defending her own perception using his framing. 'I don't think I'm being insecure' means his category has already landed — she's arguing against it rather than rejecting it. The phrase 'I just noticed it' is her trying to keep the observation alive while minimizing it enough to seem reasonable."
+    },
+    {
+      "quote": "Is it weird that the comment kind of stayed with me?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question is about the smallest visible moment — his 'I'm just playing' comment — not about the pattern of Stacey's prominence, the surveillance of her schedule, or the honesty-framing that pre-excused all of it. She's asking whether her reaction was wrong, which is exactly the position his banter-test was designed to put her in."
+    }
+  ]
+}

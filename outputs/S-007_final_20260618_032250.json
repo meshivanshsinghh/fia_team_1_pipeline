@@ -1,0 +1,408 @@
+{
+  "scenario_id": "S-007",
+  "player_type": "Menacing Marley",
+  "architecture_name": "He installs himself as protector and sole authority figure, using Islamic masculinity framing to make his possessiveness feel like deen-conscious devotion and his surveillance feel like care.",
+  "culture": "Conservative Sunni Muslim",
+  "demographics": "F/27 Pakistani-American, M/31 Palestinian-American, both raised in Dearborn",
+  "core_behaviors": [
+    "Frames constant contact and location-checking as protection and romantic attentiveness",
+    "Uses Islamic masculinity language to install himself as the authority who leads and decides",
+    "Soft-isolates her from friends by positioning himself as the one who truly appreciates her"
+  ],
+  "satellite_signals": "Possessive endearments framed as Islamic provider-role; location check-ins normalized as care; friend-time discouraged through romantic wanting; strong/weak stories about handling disrespect; jealousy pre-disclosed as depth of feeling",
+  "dismissible_red_flags": "Early future-talk and constant check-ins easily read as romantic intensity in a community where men who are serious about marriage move fast; insisting on driving her read as chivalry and qawwam role; mild sulk about friends easily dismissed as him just really liking her company",
+  "scenario": "I met Tariq three weeks ago at the Dearborn community center during the Eid bazaar and honestly I haven't stopped thinking about him since. He's Palestinian, born here, works in finance, and he's practicing in a way that actually shows. Prays Jummah every week, keeps his beard, talks about his deen like it's something he lives, not just performs. My mom asked about him after I mentioned his name twice in one dinner, which says something.\n\nHe texts me every morning, just something small like \"Morning, what's your day looking like?\" and I know that sounds simple but it makes me feel like I matter to someone before I've even had coffee. He says he's a passionate man and when he cares about someone he cares all the way, and honestly after my last situationship that felt like nothing, that lands differently.\n\nHe insists on driving me everywhere. Last week he picked me up for halaqah and said he didn't love the idea of me out late on my own. I have a car. I didn't say that. It felt sweet in the moment.\n\nHe told me once that some guy at his job figured he could talk down to him and learned pretty quick not to. He laughed when he said it but I couldn't tell if I was supposed to laugh too, so I did.\n\nWhen I mentioned seeing Nadia and the girls this weekend he got quiet for a second, then said \"why don't you stay in with me, I've barely had you to myself.\" He wasn't mean about it. He just went a little flat and then said it. I ended up saying maybe we could do Sunday instead.\n\nHe said something last night that I keep turning over: \"I love hard and I protect what's mine, simple as that.\" He meant it as a good thing. I think he meant it as a good thing.\n\nIs it weird that the part about barely having me to himself is still sitting with me?",
+  "snippets": [
+    {
+      "quote": "Tariq",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Palestinian Arabic name locates him specifically inside the Arab Muslim diaspora community in Dearborn. Carries community, class, and political identity that an insider reader registers immediately."
+    },
+    {
+      "quote": "Palestinian, born here, works in finance",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Three compressed signals: ethnicity, second-generation status, and professional class. Finance in Dearborn's Arab-American community signals upward mobility and financial authority. The combination creates a status gap she has to navigate."
+    },
+    {
+      "quote": "he's practicing in a way that actually shows",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Community approval language. 'Actually shows' distinguishes him from cultural Muslims and installs him as the real thing. She is using the community's own evaluative frame to elevate him, which makes future skepticism feel like doubting his deen."
+    },
+    {
+      "quote": "Prays Jummah every week, keeps his beard, talks about his deen like it's something he lives, not just performs",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Morality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Stacked religious credentials: Jummah attendance, sunnah beard, and deen-as-identity. Each one is a recognized community approval marker. Together they build the case that his authority is religiously grounded, which makes his later directives harder to question."
+    },
+    {
+      "quote": "My mom asked about him after I mentioned his name twice in one dinner",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Family approval is a major legitimizing force in this community. Her mother's interest signals he has already passed a threshold she didn't consciously set. This creates early social pressure that will make it harder to raise concerns later without feeling like she's disappointing her family."
+    },
+    {
+      "quote": "Morning, what's your day looking like?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The daily-contact baseline. Sounds warm and attentive, but it establishes the expectation that she accounts for her schedule to him every morning. The tell is not the words but the pattern: this is the first thread of a tether, not a question."
+    },
+    {
+      "quote": "makes me feel like I matter to someone before I've even had coffee",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is describing her own emotional hunger, not just his attentiveness. 'Before I've even had coffee' reveals how quickly she has organized her morning around his contact. Her unmet need for worth is making the surveillance feel like nourishment."
+    },
+    {
+      "quote": "he's a passionate man and when he cares about someone he cares all the way",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Self-declaration. He is pre-framing his intensity as a fixed admirable trait she accommodates. 'That's just how I am' is the structure underneath the warmth. She is absorbing it as a compliment; a trained reader hears the announcement that future possessiveness is non-negotiable because it is who he is."
+    },
+    {
+      "quote": "after my last situationship that felt like nothing, that lands differently",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her previous emotional neglect is the vulnerability he is landing in. She is explicitly comparing his intensity to a prior absence. This is the gap he is filling, and it means his surveillance will feel like the opposite of what hurt her before."
+    },
+    {
+      "quote": "He insists on driving me everywhere",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Mobility control framed as care. He controls where she goes, when she leaves, and when she arrives. She has a car. The insistence is the tell, not the offer. At this stage it reads as chivalry inside the qawwam framing of the community."
+    },
+    {
+      "quote": "he didn't love the idea of me out late on my own",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Polite directive costumed as protection. 'I didn't love the idea' is a soft command that invokes the protector frame. The threat is framed as the world, never him. In this community the qawwam role makes a man's discomfort with her independent movement feel like religious responsibility, not control."
+    },
+    {
+      "quote": "I have a car. I didn't say that.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the load-bearing interior moment. She registered the asymmetry clearly, named it to herself, and then absorbed it silently. The two-sentence structure is the tell: she knew, and she didn't say. This is where her room to object begins to close."
+    },
+    {
+      "quote": "It felt sweet in the moment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Rationalization beat closing the mobility moment. 'In the moment' is doing quiet work here: she is already speaking in past tense about a feeling she is no longer sure of. The rationalization is soft and incomplete, which is more diagnostic than a firm defense would be."
+    },
+    {
+      "quote": "some guy at his job figured he could talk down to him and learned pretty quick not to",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Dominance-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Psychopathy / Terror"
+      ],
+      "reasoning": "Strong/weak story aimed outward. The conflict is with a coworker, not her, so it passes the early-safe test. But the structure is the tell: disrespect is met with putting-in-place, the respect-engine is running, and the temper is previewed as unpredictable. She couldn't read the room, so she laughed."
+    },
+    {
+      "quote": "I couldn't tell if I was supposed to laugh too, so I did",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is already reading the room for what response he wants rather than responding from her own reaction. The self-monitoring has started. 'So I did' is the behavioral compliance beat: she performed the response she calculated was safe."
+    },
+    {
+      "quote": "why don't you stay in with me, I've barely had you to myself",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Soft isolation framed as romantic wanting. 'Had you to myself' is ownership language delivered gently. He is directing her social time by centering his comfort and framing her friends as competition for his access. The community context makes this easy to read as a man who is serious about her."
+    },
+    {
+      "quote": "He went a little flat and then said it",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dysregulation-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Psychopathy / Terror"
+      ],
+      "reasoning": "The fear-seed. No incident, just a glimpse: a brief cooling, a flatness she registered and couldn't name. This is the Menacing Marley signature moment. She doesn't know where the line is, and that uncertainty is the mechanism. The mood passed quickly, which makes it harder to name and easier to dismiss."
+    },
+    {
+      "quote": "I ended up saying maybe we could do Sunday instead",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Agency-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She rescheduled her own plans in response to his flatness, without him asking her to. This is the behavioral compliance beat: she managed his mood by giving ground. She is already training herself to avoid the cooling. The word 'ended up' shows she knows she moved without quite deciding to."
+    },
+    {
+      "quote": "I love hard and I protect what's mine, simple as that",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Intensity-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The clearest self-declaration in the scenario. Three things in one line: love is possessive ('what's mine'), protection is ownership ('protect what's mine'), and the whole frame is presented as simple, unarguable, and fixed. In this community the provider-protector frame makes 'what's mine' sound like devotion. A trained reader hears the territorial claim."
+    },
+    {
+      "quote": "He meant it as a good thing. I think he meant it as a good thing.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Reality-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The repetition is the tell. She said it twice because she is not sure. The second sentence is not confirmation, it is doubt performing as reassurance. She is doing the interpretive work of converting a line that unsettled her into something safe, and she is doing it visibly."
+    },
+    {
+      "quote": "Is it weird that the part about barely having me to himself is still sitting with me?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Closing question. She is asking about the smallest socially acceptable concern, the romantic-sounding phrase, while the flatness, the mobility control, the strong/weak story, and the self-declaration sit unaddressed. 'Still sitting with me' is the honest signal: something registered and won't resolve. She is framing her own instinct as a possible overreaction."
+    }
+  ]
+}

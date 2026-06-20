@@ -1,0 +1,25 @@
+{
+  "scenario_id": "S-012",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-012",
+    "architecture_name": "He uses honesty-framing and playful ranking to install himself as the interpretive authority on her worth, while her cultural identity becomes the raw material he collects and grades.",
+    "culture": "Wellness-Spiritual",
+    "demographics": "F/28 Lakota descent, M/33 white, Denver-origin",
+    "cultural_context": "Dating/romantic relationship, community and family-oriented background",
+    "geographic_setting": "Rapid City, South Dakota",
+    "core_behaviors": [
+      "Deploys hooked compliments and banter-tests to make his scarce approval feel like a prize worth earning",
+      "Uses honesty-framing to pre-license critique and pre-shame her need for reassurance",
+      "Treats her cultural identity as an experience he is curating and grading rather than a world she belongs to"
+    ],
+    "satellite_signals": "Playful ranking embedded in cultural appreciation; honesty-frame used to withhold warmth; exception-bait training her to suppress needs; her family and community repositioned as backdrop to his adventure.",
+    "dismissible_red_flags": "His backhanded compliments read as dry wit and are immediately followed by warmth, making each sting individually deniable. His honesty-framing sounds like respect for her intelligence. The road trip feels romantic, not extractive. His forgetting the Sunday gathering feels like spontaneity, not a pattern.",
+    "scenario_text": "I've been seeing Ethan for about six weeks and honestly it's been kind of electric. He's from Denver originally, we met at a college thing in Boulder, and he does this freelance consulting work that lets him be pretty spontaneous. He's done a lot, Vipassana retreat, plant medicine in Costa Rica, talks about his breathwork facilitator like she's basically a life coach. He's well-traveled and sharp and has this dry humor I find genuinely intoxicating.\n\nThe thing is, he's also really honest. Like, he told me early on, \"I like you too much to give you fake compliments, you'll get the real version or nothing.\" Which sounds good, right? And mostly it is. But his compliments have this little hook in them sometimes. Last week he said my beadwork was \"surprisingly intricate for someone still finding her practice.\" I laughed because he said it warmly, but I'm still kind of sitting with the \"surprisingly.\"\n\nHe planned this whole spontaneous road trip to the Badlands last weekend. I had to cancel our family's Sunday gathering to go, which I felt bad about, but he said \"I want to immerse myself in your world, not just hear about it,\" and that felt meaningful. On the drive he kept making these little observations, like \"you're more connected to this land than you let on in regular life,\" which I think was a compliment? I couldn't quite tell if I was supposed to feel seen or corrected, so I just smiled.\n\nHe said something at dinner that I keep coming back to. I was talking about my grandmother's stories and he goes, \"that's actually fascinating, I didn't expect that level of depth from you.\" Then immediately, \"I mean that as a compliment, don't make it weird.\"\n\nMy friend Dani said it sounds like he grades everything. I told her that's just how he is, he's honest, not everyone gets his sense of humor.\n\nIs it weird that the \"didn't expect that level of depth\" part is still sitting with me?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

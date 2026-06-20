@@ -1,0 +1,25 @@
+{
+  "scenario_id": "S-005",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-005",
+    "architecture_name": "He uses deniable barbs and withheld approval to install a scarcity economy where her worth is always provisional and his judgment is the only currency that counts.",
+    "culture": "South Asian",
+    "demographics": "F/26 Venezuelan-American, M/29 Indian-American (Tamil)",
+    "cultural_context": "Graduate student, dating/romantic sphere, Venezuelan diaspora community",
+    "geographic_setting": "Boston (primary), Miami (secondary/origin)",
+    "core_behaviors": [
+      "Delivers backhanded compliments framed as honesty or banter",
+      "Withholds straightforward approval while positioning critique as integrity",
+      "Uses exception-bait to train her to suppress needs and stay the 'cool girl'"
+    ],
+    "satellite_signals": "Honesty-frame used to pre-license ongoing critique; playful ranking installs competitive scarcity; banter-test dares her to prove she is unbothered so she swallows stings; exception-bait trains her to suppress needs to stay the exception.",
+    "dismissible_red_flags": "The barbs are always immediately wrapped in a joke or a compliment, making them easy to dismiss as dry humor. His 'honesty' framing sounds like respect and maturity. The exception-bait reads as a compliment rather than a suppression mechanism. The narrator herself reaches for 'that's just his sense of humor' each time something stings.",
+    "scenario_text": "I've been seeing Arjun for about six weeks and honestly it's been really fun. He's Tamil, grew up in New Jersey, works in biotech in Boston, so the timing of us meeting right when I moved here for my PhD felt kind of lucky. He's sharp and dry and makes me laugh more than anyone I've dated, which I wasn't expecting.\n\nThe thing I like most is that he doesn't do fake compliments. He told me early on, \"I'd rather be real with you than charming and useless, those guys just want something.\" After a couple of exes who were all sweetness and zero substance, that felt genuinely refreshing. When he does say something nice it actually lands, you know?\n\nHis sense of humor has a little edge to it. Like last week I wore this kurta I love to his friend's dinner and he looked at me and went, \"That's a brave choice, I respect the confidence.\" Everyone laughed and I laughed too, but I kept thinking about it on the way home. When I mentioned it later he said \"babe, that was a compliment, you're reading into it,\" and I felt a little silly for bringing it up.\n\nHe also said once, kind of offhand, \"You're not like girls who need everyone staring at them, that's refreshing.\" Which is sweet, I think. I've just noticed I don't really ask him for much reassurance because I don't want to be that. He said he's \"not a gold stars for breathing kind of guy,\" which, fair enough, he's just honest.\n\nThe thing I keep coming back to is the kurta comment. I genuinely couldn't tell if it was a compliment or something else, and when I said so he acted like I'd made it weird. My friend Priya said just let it go. Maybe she's right.\n\nIs it normal to still be thinking about a joke three days later, or am I being too sensitive?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

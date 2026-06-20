@@ -1,0 +1,25 @@
+{
+  "scenario_id": "S-008",
+  "player_type": "Neglectful Nico",
+  "scenario": {
+    "scenario_id": "S-008",
+    "architecture_name": "He uses wellness-spiritual vocabulary and calm self-containment to pre-disqualify her emotional needs as drama, installing a hierarchy where his flatness reads as maturity and her feeling reads as the problem.",
+    "culture": "Wellness-Spiritual",
+    "demographics": "F/late-20s Latina, M/mid-30s, East Los Angeles",
+    "cultural_context": "Dating, romantic relationships, family-oriented values",
+    "geographic_setting": "East Los Angeles, urban",
+    "core_behaviors": [
+      "Positions his emotional flatness as evolved calm and spiritual maturity",
+      "Praises her for being low-maintenance, quietly training her to suppress needs",
+      "Uses wellness-spiritual vocabulary to pre-frame her feelings as unprocessed trauma or low vibration"
+    ],
+    "satellite_signals": "Wellness vocabulary deployed to pathologize her emotional bids; ease-as-compliment loop installing need-suppression; self-contained framing advertising emotional unavailability as health; cool non-response leaving her unsettled but unable to name it.",
+    "dismissible_red_flags": "His calm and low-drama presentation reads as relief after chaotic past relationships; his wellness vocabulary signals self-awareness and emotional intelligence; his praise for her being easygoing feels like a compliment, not a constraint.",
+    "scenario_text": "I've been seeing Mateo for about two months and honestly it's been really good. He's a somatic practitioner out of Topanga Canyon, does breathwork facilitation on weekends, and he's just so grounded. After my last relationship, which was honestly a lot, being with someone this steady feels like I can finally exhale.\n\nHe said something early on that kind of stuck with me. We were at this little vegan spot in Silver Lake and he goes, \"I'm not going to blow up your phone or make everything heavy. I like peaceful people, the kind who don't need everything processed right away.\" I remember feeling so relieved. Like, yes. That's what I want too.\n\nHe tells me I have a calm energy, that I'm not like people who make everything a whole thing. He said it again last week after I mentioned something stressful at work, just kind of smiled and said, \"You handle things so well.\" I glowed a little. I want to keep being that person for him.\n\nThe thing I keep coming back to is this one moment a few weeks ago. I was upset about something with my mom, nothing huge, and I brought it to him. He listened, then said, \"I mean, it'll probably feel different tomorrow. Feelings are fine but they're not facts, you know?\" He wasn't unkind. He was calm. I told myself he's just not a feelings person, that's okay, I'm on my own healing journey anyway.\n\nBut that night I kind of just sat with it alone. And I've noticed I've been editing what I bring to him, keeping things light, not wanting to seem like I'm making everything heavy. My friend Daniela asked if he ever just sits with me in something hard, and I didn't really have an answer.\n\nHe's great though. Really. Is it weird that that one comment has kind of stayed with me?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

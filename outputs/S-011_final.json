@@ -1,0 +1,25 @@
+{
+  "scenario_id": "S-011",
+  "player_type": "Menacing Marley",
+  "scenario": {
+    "scenario_id": "S-011",
+    "architecture_name": "He uses possessive protection framing and constant-contact expectations to install a loyalty-and-primacy demand before she has language for what is being asked of her.",
+    "culture": "Red Pill",
+    "demographics": "F/22 Black American, M/27 Ghanaian-American, Boston urban environment, early relationship",
+    "cultural_context": "Dating/romantic relationship, social sphere involving friend groups and community events",
+    "geographic_setting": "Boston, urban environment",
+    "core_behaviors": [
+      "Installs daily-contact baseline framed as care, then treats gaps as disrespect",
+      "Positions himself as protector against other men while monopolizing her time as devotion",
+      "Uses self-declarations about loyalty and intensity to pre-authorize possessiveness"
+    ],
+    "satellite_signals": "Constant-contact expectation framed as care; possessive jealousy reframed as protection; soft isolation via romantic wanting; respect-as-compliance framing; self-declarations advertising volatility as depth.",
+    "dismissible_red_flags": "Daily check-in texts read as attentiveness; pouting over her plans reads as romantic wanting; jealousy disclosures read as refreshing honesty; 'I love hard' framing reads as emotional depth after emotionally unavailable exes.",
+    "scenario_text": "I've been seeing Kwame for about six weeks and honestly it's been a lot. In a good way, mostly. He moved here from Accra a few years ago and he's got this energy that's hard to describe, like he's completely locked in on whatever he decides matters to him. Right now that seems to be me, which is a lot to take in but also kind of amazing.\n\nHe texts me every morning, something like \"Morning. What's your day looking like?\" and I know that sounds small but my last boyfriend would go silent for days and I'd be guessing. Kwame's the opposite. He said early on, \"I love hard and I expect a lot. Most people can't handle it,\" and I remember thinking that was a little intense, but also honest? He's upfront about who he is.\n\nHe's also said he's a jealous guy, but only because he's \"so crazy about\" me. He saw that a guy from my stats class liked one of my photos and he mentioned it, just casually, like he noticed. I didn't know what to do with that so I just kind of laughed it off.\n\nLast week I had a study group and he did this thing where he went, \"Wow, okay, I just thought you'd want to spend the time with me, but no, it's fine.\" And then he was quiet for a bit. I ended up going but I felt bad the whole time, which is probably silly because he came around after and was totally sweet again.\n\nHe told me he's protective of what's his and that he doesn't share attention well, but he said it with this smile like it was just the truth about him, not a warning. His friends all seem to respect him a lot. I'm not like a worrier by nature but the study group thing has been sitting with me a little. Is it weird that I felt guilty for going?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

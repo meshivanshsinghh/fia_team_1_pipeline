@@ -1,0 +1,25 @@
+{
+  "scenario_id": "S-009",
+  "player_type": "Domineering Devin",
+  "scenario": {
+    "scenario_id": "S-009",
+    "architecture_name": "He uses the vocabulary of discipline, provision, and natural order to install a hierarchy in which her compliance is the only rational option and her preferences become disruptions to a system he has already built.",
+    "culture": "Red Pill",
+    "demographics": "F/late 20s, chronic illness, Portland OR; M/early 30s, Lebanese-American, military background, Red Pill-adjacent",
+    "cultural_context": "Dating/romantic relationship, early-stage relationship dynamics",
+    "geographic_setting": "Portland, Oregon",
+    "core_behaviors": [
+      "Frames provision and planning as care while routing all decisions through himself",
+      "Installs a merit-hierarchy that ranks her friends, her habits, and eventually her as either up to standard or not",
+      "Deploys discipline-as-moral-law so that any preference she has that differs from his reads as her failing to meet the bar"
+    ],
+    "satellite_signals": "Discipline stated as moral law; provider framing tied to gendered role; merit-hierarchy applied to her social circle; schedule subordinated to his fixed points; correction framed as coaching; community norm used to depersonalize control.",
+    "dismissible_red_flags": "His early-morning routine and financial planning read as admirable self-discipline; paying for everything reads as old-fashioned generosity; scheduling around his fixed commitments reads as practical; correcting her on her friends reads as having standards he applies to himself too.",
+    "scenario_text": "I've been seeing Marcus for about three weeks and honestly it's been kind of a lot, in a good way. He's ex-military, works in commercial real estate now, and he's one of those people who just has everything dialed in. Up at five every morning, cold plunge, lifts before most people are awake. I've never dated anyone this put-together.\n\nHe insists on paying every time. Like, I reached for my card once and he just shook his head. \"Put it away. That's the man's job, simple as that.\" It's old-fashioned but after splitting everything down the middle with my last two exes it honestly feels like being taken care of. He already booked us a trip for next month, said I don't need to do anything but show up. He prefers it that way.\n\nHe's been really attentive about my health stuff too. He found out I have a flare cycle and now he builds our plans around my good days. He said, \"I've got a system, I'll handle the logistics so you're not burning energy on that.\" I know that sounds like a lot, but when you're managing a chronic illness, someone just taking things off your plate is genuinely a relief.\n\nLast week he mentioned my friend Dani, who's been job-hopping since we graduated. \"Nice girl, but she's going nowhere. Be careful how much you take after her.\" It stung a little because Dani is one of my closest friends, but he has a point that she's kind of adrift, and he does hold himself to the same bar.\n\nHe also said he wants a partner who supports his vision, that he's building something and needs someone who gets that. He said I have feminine energy, which I think was a compliment? He's not like anyone I've dated and I like how certain he is about everything.\n\nI guess I'm just wondering, is it weird that the comment about Dani is still sitting with me a little?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

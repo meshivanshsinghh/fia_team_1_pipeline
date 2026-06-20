@@ -1,0 +1,27 @@
+{
+  "scenario_id": "S-017",
+  "player_type": "Conspiratorial Corey",
+  "scenario": {
+    "scenario_id": "S-017",
+    "architecture_name": "He installs himself as her sole decoder of reality, framing his surveillance as devotion and her shrinking world as a private fortress worth protecting.",
+    "culture": "Red Pill",
+    "demographics": "F/late-20s, urban professional; M/early-30s, Red Pill-adjacent, self-described \"pattern reader,\" BJJ training, carnivore diet",
+    "cultural_context": "Dating and romantic relationships, workplace social sphere",
+    "geographic_setting": "Urban environment (office setting mentioned)",
+    "core_behaviors": [
+      "Positions himself as her perceptive protector and sole reliable decoder of other people's motives",
+      "Frames isolation as romantic privacy and sacred fortress-building",
+      "Installs a loyalty pact early so any outside perspective reads as betrayal",
+      "Uses hyper-attentiveness as both flattery and low-level surveillance",
+      "Recruits her into his fate narrative to bypass her own judgment"
+    ],
+    "satellite_signals": "Fate narrative used to override her hesitations; total-attention surveillance framed as devotion; loyalty pact installed before she has time to evaluate it; friends subtly recoded as people who \"don't really get her\"; us-against-world framing presented as romantic exclusivity.",
+    "dismissible_red_flags": "His hyper-attentiveness reads as rare devotion in a culture of emotionally unavailable men; the fate narrative feels romantic rather than controlling; the loyalty pact sounds principled rather than preemptive; his warnings about her friends are framed as protective insight, not social pruning; the \"just us\" framing feels intimate rather than isolating.",
+    "scenario_text": "I've been seeing Jamal for about six weeks and honestly it's been kind of overwhelming in the best way. He's the most attentive person I've ever dated. He remembers everything, like the exact thing I said about my dad on our second date, and he brought it up last week totally unprompted. It made me feel so seen.\n\nHe does this thing where he reads people really fast. On our third date he said, \"I clocked your ex in one photo. I can always tell.\" His confidence about it was kind of magnetic. A week later he pointed something out about a coworker I'd mentioned and honestly he wasn't wrong, so now I find myself running people by him before I decide how I feel about them. It's nice to have someone in my corner like that.\n\nHe told me early on that he doesn't trust easily, that he keeps his circle almost nonexistent, and that letting me in was a big deal. \"I'm ride or die once I'm in,\" he said. \"Are you that kind of person?\" I said yes without really thinking about it, which I guess I'm still sitting with a little.\n\nHe's also been saying he wants to keep us private for now. \"I don't want random people putting fingerprints on what this is,\" he said, which sounded protective and sweet. I haven't told my best friend Kezia I'm even seeing someone. It's been six weeks. The secret is starting to feel a little heavy, but every time I think about telling her, I remember what he said about how people always complicate things when they get opinions.\n\nHe said last weekend, \"Your friends seem fine, but not everyone knows how to see you. Not like I do.\" It made me feel chosen. It also made me feel a tiny bit far from them.\n\nIs it weird that I haven't mentioned him to Kezia yet?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

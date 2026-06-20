@@ -1,0 +1,394 @@
+{
+  "scenario_id": "S-004",
+  "player_type": "Neglectful Nico",
+  "scenario": {
+    "scenario_id": "S-004",
+    "architecture_name": "He uses rationalist-register calm and self-sufficiency framing to install a hierarchy in which her emotional needs are pre-classified as bad epistemics, training her to suppress them before they surface.",
+    "culture": "Bay Area Rationalist / EA",
+    "demographics": "F/late-20s South Asian-American, M/early-30s white, Bay Area",
+    "cultural_context": "Dating and romantic relationships, family and cultural traditions",
+    "geographic_setting": "San Francisco Bay Area",
+    "core_behaviors": [
+      "Positions emotional flatness as superior rationality",
+      "Praises her for being low-maintenance to install a role she must maintain",
+      "Pre-frames her emotional needs as drama or bad epistemics before they arise"
+    ],
+    "satellite_signals": "Calm-as-superiority framing; ease-as-compliment role installation; self-contained low-need declarations; first cool non-response to her upset; rationalist vocabulary deployed to position his flatness as virtue.",
+    "dismissible_red_flags": "His self-sufficiency declarations read as healthy independence and maturity; his calm reads as stability after chaotic exes; his praise of her easygoing nature reads as a compliment rather than a role assignment; his cool non-response to her upset is mild enough to be read as simply not being a feelings person.",
+    "scenario_text": "I've been seeing Ethan for about six weeks and honestly it's been such a relief. He's a researcher at a biosafety nonprofit in Berkeley, very into EA stuff, reads Astral Codex Ten, the whole thing. My last relationship was genuinely chaotic, someone who texted at 2am when he was upset and needed me to manage his moods constantly. Ethan is just not like that.\n\nHe told me early on, \"I don't really need much to be happy, just my own space and some peace,\" and I found that so attractive. He has his own routines, his own projects, doesn't blow up my phone. He said once, \"I'm not going to spiral because you didn't text back fast enough, I just think adults should act like adults,\" and I remember feeling this actual physical exhale. After my ex, that felt like oxygen.\n\nHe also said something that kind of stuck with me in a good way. He goes, \"You're so easy to be around, it's honestly rare.\" I glowed at that. I want to keep being that person for him.\n\nThe one thing I keep turning over is from last week. I was upset about something with my family, nothing huge, just one of those situations where my mom said something that landed wrong and I needed to talk it through. I brought it to Ethan and he listened, then said, \"I mean, it'll probably feel different tomorrow, you're just in it right now.\" He wasn't unkind about it. He moved on pretty quickly and I told myself he just isn't a feelings person, which is fine, I have friends for that.\n\nBut I noticed I didn't bring it up again. And I kind of don't want to bring things like that to him anymore, which is maybe just me being realistic about what he's good at.\n\nIs it weird that his response stayed with me a little?"
+  },
+  "snippets": [
+    {
+      "quote": "Ethan for about six weeks and honestly it's been such a relief",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She opens with relief as the primary emotion, not affection or excitement. Relief after chaos is the core draw for this pattern. The relationship is being evaluated by how little it costs her, not by what it gives her, which is the trap's hinge.",
+      "snippet_id": "S-004-SN0001"
+    },
+    {
+      "quote": "a researcher at a biosafety nonprofit in Berkeley, very into EA stuff, reads Astral Codex Ten",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Geographic and ideological placement. Berkeley, EA nonprofit, Astral Codex Ten: three signals that locate him precisely inside the rationalist community. The status hierarchy of that community, where epistemic rigor is the primary virtue, will later be the frame his emotional flatness gets laundered through.",
+      "snippet_id": "S-004-SN0002"
+    },
+    {
+      "quote": "My last relationship was genuinely chaotic",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is arriving from a dysregulated prior relationship. This is the vulnerability the relief-after-chaos draw exploits. His flatness reads as stability because she is calibrated to chaos, not because flatness is warmth.",
+      "snippet_id": "S-004-SN0003"
+    },
+    {
+      "quote": "I don't really need much to be happy, just my own space and some peace",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Enmeshment-low",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Self-contained declaration. He is announcing, early and explicitly, that his emotional needs are minimal and that peace is the organizing value of his life. This sounds like maturity. The structural fact is that a relationship requiring almost nothing from him also has almost no room for her needs. She heard this as a compliment to his stability.",
+      "snippet_id": "S-004-SN0004"
+    },
+    {
+      "quote": "I found that so attractive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is absorbing his low-need declaration as a desirable trait. Her attraction is to the absence of demand, not to the presence of warmth. This is the relief-after-chaos draw doing its work.",
+      "snippet_id": "S-004-SN0005"
+    },
+    {
+      "quote": "I'm not going to spiral because you didn't text back fast enough, I just think adults should act like adults",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Two moves packed into one sentence. First, he positions his low attachment as adult maturity. Second, the phrase 'adults should act like adults' quietly installs a standard: emotional need will later be classifiable as childish or irrational. In the rationalist register, this framing is especially potent because the community already treats emotional regulation as a virtue. She heard it as steadiness.",
+      "snippet_id": "S-004-SN0006"
+    },
+    {
+      "quote": "I remember feeling this actual physical exhale",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The physical exhale is her body reading absence-of-chaos as safety. It is genuine relief. The seam is that the same emotional flatness producing this exhale is the wall her feelings will hit later. She is not yet distinguishing calm from warmth.",
+      "snippet_id": "S-004-SN0007"
+    },
+    {
+      "quote": "You're so easy to be around, it's honestly rare",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "Ease-as-compliment: the praise is for being low-maintenance, not for who she is. 'Rare' elevates her by implying most women are difficult. The role being installed is: the one who doesn't need much. She must now maintain that role to keep the approval. The word 'honestly' makes it land as confession rather than calculation.",
+      "snippet_id": "S-004-SN0008"
+    },
+    {
+      "quote": "I glowed at that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She registers the praise as meaningful and wants to sustain it. The glow is the moment the role takes hold. She is now motivated to keep being easy.",
+      "snippet_id": "S-004-SN0009"
+    },
+    {
+      "quote": "I want to keep being that person for him",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Autonomy-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "She has accepted the role and is now actively managing herself to fit it. 'Keep being that person' means she is already monitoring which parts of herself are safe to show. This is the behavior-steer the ease-as-compliment move produces: she will suppress needs to protect the label.",
+      "snippet_id": "S-004-SN0010"
+    },
+    {
+      "quote": "I was upset about something with my family, nothing huge, just one of those situations where my mom said something that landed wrong",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is pre-minimizing her own upset before she even describes it. 'Nothing huge' and 'just one of those situations' are self-corrections that show she has already internalized the standard: her feelings need to be small to be acceptable. The family context is culturally specific, a South Asian family dynamic where maternal comments carry particular weight, but she is not naming that weight.",
+      "snippet_id": "S-004-SN0011"
+    },
+    {
+      "quote": "I needed to talk it through",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "A normal bid for emotional connection. She brought something real to him. The significance is in what follows: this ordinary need is the first thing that hits the blank wall.",
+      "snippet_id": "S-004-SN0012"
+    },
+    {
+      "quote": "it'll probably feel different tomorrow, you're just in it right now",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Disrespect-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The core cool non-response. He does not ask what happened, does not reflect her feeling back, does not sit with her. He offers a prediction about when her feeling will end. 'You're just in it right now' is the rationalist register's version of 'you'll feel better tomorrow': it positions her emotion as a temporary cognitive distortion rather than valid information. The feeling has nowhere to land.",
+      "snippet_id": "S-004-SN0013"
+    },
+    {
+      "quote": "He wasn't unkind about it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is defending him using the absence of cruelty as the standard. 'He wasn't unkind' is not the same as 'he was warm' or 'he helped.' The bar has already dropped to: he didn't hurt me. This is the first sign she is adjusting her expectations downward.",
+      "snippet_id": "S-004-SN0014"
+    },
+    {
+      "quote": "I told myself he just isn't a feelings person, which is fine, I have friends for that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is doing the work of rationalizing his non-response and redistributing her emotional needs away from him. 'I have friends for that' sounds like healthy compartmentalization. It is actually her beginning to accept that he will not be a source of emotional support, and deciding that is fine. This is the behavior-steer: she is pre-routing her needs away from him to keep things easy.",
+      "snippet_id": "S-004-SN0015"
+    },
+    {
+      "quote": "I noticed I didn't bring it up again",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Coercive Control"
+      ],
+      "reasoning": "The behavioral consequence of the cool non-response. She did not raise the topic again. She noticed this herself, which means part of her registered it as significant. But she has not yet named what it means: she is already self-silencing after one interaction.",
+      "snippet_id": "S-004-SN0016"
+    },
+    {
+      "quote": "I kind of don't want to bring things like that to him anymore",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Disrespect-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Coercive Control"
+      ],
+      "reasoning": "This is the load-bearing moment. Six weeks in, after one cool non-response, she has already decided to stop bringing emotional content to her partner. She frames it as being 'realistic about what he's good at,' which sounds mature. The structural fact is that she is pre-emptively shrinking herself to fit the role he praised her for. The relationship is already shaping which parts of her are allowed to exist inside it.",
+      "snippet_id": "S-004-SN0017"
+    },
+    {
+      "quote": "which is maybe just me being realistic about what he's good at",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is reframing her own self-silencing as a reasonable accommodation of his personality. 'Realistic' is doing a lot of work here: it converts her unmet need into a character assessment of him, and then accepts that assessment as fixed. This is the rationalist register's version of 'he just isn't a feelings person': she is using the community's high-decoupling framing to explain away the absence of empathy as a neutral trait difference.",
+      "snippet_id": "S-004-SN0018"
+    },
+    {
+      "quote": "Is it weird that his response stayed with me a little?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The closing question is perfectly calibrated to the pattern. She is not asking whether he is emotionally unavailable. She is asking whether her own noticing is valid. 'A little' minimizes the concern. 'Weird' frames her instinct as potentially abnormal. She is seeking permission to trust what she already registered. The question is about her reaction, not his behavior, which is exactly where the manipulation has placed the problem.",
+      "snippet_id": "S-004-SN0019"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

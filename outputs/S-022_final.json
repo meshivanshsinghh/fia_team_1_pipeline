@@ -1,0 +1,25 @@
+{
+  "scenario_id": "S-022",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-022",
+    "architecture_name": "He uses honesty-framed compliments and deniable teasing to install himself as the authority on how she should look, positioning modesty-community standards as the thing she needs to transcend to earn his real approval.",
+    "culture": "Conservative Sunni Muslim",
+    "demographics": "Female, 20s, Arab-American, Dearborn MI; Male, late 20s, Arab-American, Dearborn MI, works in finance",
+    "cultural_context": "Dating and romantic relationships within a Muslim community with emphasis on modesty values",
+    "geographic_setting": "Dearborn, Michigan",
+    "core_behaviors": [
+      "Delivers backhanded compliments framed as honest appreciation, then acts wounded when she notices the hook",
+      "Positions himself as the rare man who tells her the truth other men won't, making his critiques feel like respect",
+      "Uses community modesty standards as the implicit contrast against which he elevates her, rewarding her for distance from them"
+    ],
+    "satellite_signals": "Honesty-as-superiority frame installed early; approval-withholding as control mechanism; exception-bait separating her from modest-community women; deniable digs at her appearance wrapped in compliments; community vocabulary (deen, hijab, fitnah) used as backdrop against which his approval becomes the prize.",
+    "dismissible_red_flags": "His backhanded compliments are easily read as awkward but well-meaning flattery; his honesty frame sounds like maturity and respect after men who gave empty praise; his teasing reads as dry wit and chemistry rather than a pattern of small corrections; his comments about her appearance feel like aesthetic enthusiasm rather than control.",
+    "scenario_text": "I've been talking to Samir for about six weeks now, through the halal route, wali involved and everything. He's Egyptian-American, works in finance downtown, prays Jummah, on his deen from what I can tell. My parents like him. My mom keeps saying ma sha Allah every time I mention him.\n\nWhat I actually like is that he's not fake about it. He told me early on, \"I'm not going to give you cheap compliments just because I want you to like me, you'll get the real version.\" After guys who just said whatever, that felt refreshing. Like he actually sees me.\n\nAnd he does say nice things. It's just that they have this little hook in them sometimes. Last week he said, \"You look really good tonight, it's amazing what a bit of effort does.\" I laughed because he immediately said \"that's a compliment, take it.\" So I did. I told myself he's just dry, that's his humor.\n\nThen on our third meeting he said, \"You're not like girls who need everyone staring at them, that's refreshing.\" I felt good about that. I'm not someone who needs constant attention. But later I kept thinking about it, because I hadn't asked for his opinion on that.\n\nThe thing I keep coming back to is something he said while we were looking at photos on my phone. He pointed to one where I was dressed up for my cousin's wedding, abaya and everything, and said, \"You're prettier when you stop trying to look so covered up, like right now.\" And then he kind of moved on, like it was nothing.\n\nI didn't say anything. I couldn't tell if I was supposed to push back or just let it go, so I let it go. He's been really respectful otherwise and I don't want to make it a thing.\n\nIs it weird that that comment is still sitting with me a little?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

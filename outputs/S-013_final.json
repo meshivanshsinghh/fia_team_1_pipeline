@@ -1,0 +1,26 @@
+{
+  "scenario_id": "S-013",
+  "player_type": "Egocentric Evan",
+  "scenario": {
+    "scenario_id": "S-013",
+    "architecture_name": "He uses her Filipino cultural identity as a display asset and installs himself as the authoritative curator of her image, so that her traditions become his stage and her \"gracefulness\" becomes a standard she must maintain for him.",
+    "culture": "South Asian",
+    "demographics": "F/late-20s Filipino-American, Daly City; M/early-30s, Indian-American (Punjabi), Bay Area tech professional",
+    "cultural_context": "Cultural community, volunteer/social sphere, dating/relationship",
+    "geographic_setting": "Daly City, Bay Area",
+    "core_behaviors": [
+      "Uses her cultural identity as a display asset and status prop",
+      "Installs himself as curator and evaluator of her image and traditions",
+      "Frames his planning and attention as care while positioning her as swept along in his orbit",
+      "Deploys triangulation and self-promotion to keep her grateful and slightly insecure"
+    ],
+    "satellite_signals": "Pedestal praise routed through his discernment; self-promotion as social center-of-gravity; triangulation via live admirer mention; spotlight-monopoly at shared events; subtle put-down embedded in a compliment about her \"graceful image\"; rating-habit framing of their dates; her closing concern is the smallest visible beat while the image-maintenance standard sits unexamined.",
+    "dismissible_red_flags": "His cultural curiosity reads as genuine romantic interest; his detailed planning reads as attentiveness and care; his compliment about her \"graceful image\" reads as admiration of her heritage; his mention of a coworker reads as flattering transparency; his social confidence reads as magnetism, not as a spotlight monopoly.",
+    "scenario_text": "We met at a Filipino cultural event in Daly City, like three weeks ago, and I'm honestly still kind of amazed by how fast this is moving. He showed up to volunteer and was just immediately the person everyone gravitated to, which I found kind of magnetic at the time.\n\nLast weekend he surprised me by coming to another community event I was helping organize. He said, \"I want to know your whole world, every part of it.\" It felt so genuine. We watched the folk dances together and he kept leaning over to ask me questions, which I loved. Afterward he told his friends, \"She's the most put-together woman I've been around in a long time, and I don't say that.\" His friend laughed and said something like \"Arjun never says that,\" and I felt so chosen.\n\nAt dinner he got a little more, I don't know, evaluating? He said, \"Your family has this incredible sense of tradition. It takes real discipline to carry yourself with that kind of grace. I find that genuinely rare.\" I think he meant it as a compliment. I took it as one. But I've been turning it over since because it also felt like he was describing a standard I'd better keep meeting.\n\nHe'd already planned the whole evening, restaurant and everything, and when I mentioned I'd told my friend Marisol I might stop by her place after, he said, \"Why would you leave early? I'm more fun than Marisol, admit it.\" I laughed and stayed.\n\nOh, and at some point he mentioned a woman at his office has been \"pretty obvious\" about liking him. He said it casually, like I'd find it funny. I did laugh. It lodged somewhere though.\n\nHe texted later: \"Solid night. You were perfect.\" Which was sweet. I think.\n\nIs it weird that the part about grace and discipline is still sitting with me a little?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

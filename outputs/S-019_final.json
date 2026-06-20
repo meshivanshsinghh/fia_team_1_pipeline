@@ -1,0 +1,26 @@
+{
+  "scenario_id": "S-019",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-019",
+    "architecture_name": "He uses dry wit and withheld approval to install himself as the arbiter of her worth, training her to suppress needs and self-monitor to stay the exception he has defined her as.",
+    "culture": "Chinese American",
+    "demographics": "F/26 first-generation Chinese American (Cantonese-speaking, Flushing-raised), M/29 ABC from Cupertino, works at a Bay Area tech company",
+    "cultural_context": "Dating and romantic relationships, cultural identity navigation",
+    "geographic_setting": "San Francisco",
+    "core_behaviors": [
+      "Delivers backhanded compliments framed as honesty or banter, then retreats behind 'I'm kidding' when she registers the sting",
+      "Withholds warm approval and reframes that withholding as integrity and respect",
+      "Casts her as the cool exception to a category of needy or dramatic women, training her to suppress her own needs to stay in that category",
+      "Uses dry observational humor aimed outward to establish wit as his identity, then gradually turns the same edge toward her"
+    ],
+    "satellite_signals": "Honesty-frame self-declaration installed early; exception-bait deployed around her Flushing background and accent; approval withheld and reframed as respect; banter-test used to pre-shame any reaction she might have; hooked compliments about her appearance and intelligence; wry martyr move when she goes out with friends.",
+    "dismissible_red_flags": "The backhanded compliments are easily read as dry humor or awkward phrasing from someone who is not good at expressing warmth. His self-description as brutally honest sounds like refreshing directness after men who over-performed affection. The exception-bait about her being low-drama lands as a genuine compliment. His wry martyr comment when she goes out reads as self-deprecating humor, not guilt-tripping.",
+    "scenario_text": "I've been seeing Derek for about six weeks and honestly it's been really nice. He's funny in this dry, quick way, like he'll clock something across the room and just say one thing and I'm crying. We met through mutual friends in the Sunset and he grew up in Cupertino, works at one of the big tech companies downtown. Very put-together, knows what he wants.\n\nThe thing I like most is that he's honest. On our third date he said, \"I like you too much to give you fake compliments, you'll get the real version or nothing,\" and at the time that felt refreshing. My last ex said everything was amazing all the time and meant none of it.\n\nHe does tease me, though. Last week I was telling him about a dim sum place my popo used to take me to in Flushing and he listened, then said, \"You're smarter than you let on in your pictures, I almost didn't notice.\" I laughed because I didn't know what else to do, and he immediately moved on. I've been thinking about it since, which probably means I'm overthinking.\n\nHe also said once, \"You're not like girls who need attention every five seconds, that's so boring,\" and I felt good about that, I really did. But now I notice I haven't texted him first in two weeks because I don't want to seem like one of those girls.\n\nLast Friday I went out with my coworkers and he texted, \"No, go enjoy your night, don't worry about me, I'll hold the fort like always.\" I think he was joking. He said he was joking when I brought it up. I laughed it off.\n\nHe's never actually been mean. That's the thing. He's just... honest. And I like that about him, I think.\n\nIs it weird that the comment about my pictures has stayed with me a little?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

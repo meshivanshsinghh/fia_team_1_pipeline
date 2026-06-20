@@ -1,0 +1,417 @@
+{
+  "scenario_id": "S-006",
+  "player_type": "Avoidant Alex",
+  "scenario": {
+    "scenario_id": "S-006",
+    "architecture_name": "He recruits her into a traditional-feminine role while rationing his presence and dodging the children, family, and community commitments that role actually requires.",
+    "culture": "Tradwife-Recruiting",
+    "demographics": "Female, mid-40s, divorced single mother of two, working class, rural/small-town setting near a mid-size city",
+    "cultural_context": "Single mother, working multiple part-time jobs, family-oriented community, children",
+    "geographic_setting": "Rural/small town county area with nearby city",
+    "core_behaviors": [
+      "Performs provider-protector identity through grand gestures while avoiding the children and community obligations that come with it",
+      "Uses traditional-femininity compliments to install a role she must maintain to keep his warmth",
+      "Pre-excuses his withdrawal and unavailability as natural rhythm so she blames herself for wanting more"
+    ],
+    "satellite_signals": "Anti-label and anti-future language dressed as romantic spontaneity; intermittency pre-excused as recharging; possessive jealousy framed as flattery; children and family gatherings consistently sidestepped; provider gestures that create debt without creating access.",
+    "dismissible_red_flags": "The picnic scheduling conflict looks like poor planning rather than deliberate displacement of her son; his not asking about the kids reads as nervousness around a new relationship; his comment about other men reads as sweet jealousy; his need for space reads as maturity and self-awareness rather than avoidance of commitment.",
+    "scenario_text": "I met Ryan about three weeks ago at the county fair and honestly I wasn't even looking. He found me at the pie booth and just started talking, easy and calm, like he had all the time in the world. He showed up at my door last Saturday with a bunch of wildflowers, said he just wanted to brighten my day. I stood there in my work uniform and I didn't know what to say.\n\nHe knows I'm running on empty most of the time, two part-time jobs, two kids, the whole thing. He keeps saying I deserve a break, that a woman like me shouldn't have to carry so much alone. He's been taking me to this little cafe in the city on Saturdays, just the two of us, and it feels like the first time in years someone's actually seeing me.\n\nLast weekend he planned a picnic by the lake. It was beautiful, really, except it landed right on top of Caleb's soccer game. I mentioned it and he kind of laughed it off, said he just wanted me all to himself for once, was that so wrong? I ended up going to the picnic. I told myself Caleb's dad had it covered.\n\nHe's said a few things that stuck with me. That he's not really a future-talker, more of a moments person. That he needs room to breathe to show up right. That he doesn't text all day but he smiles every time he sees my name. He said I have such a feminine spirit, like I was made for a slower, simpler life. I liked hearing that. I think I did.\n\nHe hasn't asked much about the kids. Not their names, not their ages. And last Sunday my sister had her usual family dinner and he had something come up.\n\nIs it normal that he hasn't asked their names yet?"
+  },
+  "snippets": [
+    {
+      "quote": "He found me at the pie booth and just started talking, easy and calm, like he had all the time in the world",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The ease and calm read as confident masculinity in this register, but they also signal someone performing approachability without any real investment yet. He initiates on his terms, in a public community space, with no cost to himself.",
+      "snippet_id": "S-006-SN0001"
+    },
+    {
+      "quote": "He showed up at my door last Saturday with a bunch of wildflowers, said he just wanted to brighten my day",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "An unannounced arrival framed as pure generosity. The gesture creates emotional debt and positions him as the provider-protector before any real relationship exists. She has no room to say the timing was bad without seeming ungrateful for the flowers.",
+      "snippet_id": "S-006-SN0002"
+    },
+    {
+      "quote": "I stood there in my work uniform and I didn't know what to say",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Autonomy-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She registers being caught off-guard but reads it as romantic surprise rather than a boundary crossed. Her speechlessness is the first sign she is being moved through the scene rather than choosing her way through it.",
+      "snippet_id": "S-006-SN0003"
+    },
+    {
+      "quote": "He knows I'm running on empty most of the time, two part-time jobs, two kids, the whole thing",
+      "kind_of_signal": [
+        "Power Information",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Her exhaustion, financial precarity, and caregiving load are named here as context. A trained reader sees that he has full visibility into her vulnerabilities from the start. The resource gap between a woman stretched across two jobs and a man with leisure to plan picnics is the structural engine of this scenario.",
+      "snippet_id": "S-006-SN0004"
+    },
+    {
+      "quote": "a woman like me shouldn't have to carry so much alone",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Provider-protector framing delivered as sympathy. The phrase installs the idea that her current life is a burden she needs rescuing from, and positions him as the man who could do the rescuing. In the tradwife register, this is the opening move of the role-cast: she is the woman who needs a man to lead.",
+      "snippet_id": "S-006-SN0005"
+    },
+    {
+      "quote": "He's been taking me to this little cafe in the city on Saturdays, just the two of us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He controls the day, the destination, and the company. Saturdays are a primary family day for a single mother with two kids. Claiming that slot consistently, away from her home and community, is structural even if it reads as romantic.",
+      "snippet_id": "S-006-SN0006"
+    },
+    {
+      "quote": "it feels like the first time in years someone's actually seeing me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her longing for being seen is real and legitimate. It is also exactly the vulnerability his gestures are targeting. The feeling of being seen is doing the work of making her overlook what she is not yet being shown.",
+      "snippet_id": "S-006-SN0007"
+    },
+    {
+      "quote": "he planned a picnic by the lake... it landed right on top of Caleb's soccer game",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "He knows she has children. He planned an event that displaced her son's game without checking her schedule first. This is the load-bearing seedling: the gesture looks romantic but structurally requires her to choose him over her child. The framing that follows makes that choice feel normal.",
+      "snippet_id": "S-006-SN0008"
+    },
+    {
+      "quote": "he kind of laughed it off, said he just wanted me all to himself for once, was that so wrong",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Empathy-low",
+        "Dominance-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the scenario's most diagnostic line. He converts her son's soccer game into a rival for his attention, frames possession as romantic desire, and asks a rhetorical question that makes objection feel like punishing him for caring. The laugh closes the moment without engaging her conflict. She has no room to say yes, that is wrong, without seeming cold.",
+      "snippet_id": "S-006-SN0009"
+    },
+    {
+      "quote": "I ended up going to the picnic. I told myself Caleb's dad had it covered",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Boundaries-low",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Moral Injury"
+      ],
+      "reasoning": "She chose Ryan over her son's game and rationalized it immediately. The rationalization is the tell: she is already doing the internal work of making his preference feel acceptable. This is the asymmetric-reciprocity moment closed by self-blame rather than by naming what happened.",
+      "snippet_id": "S-006-SN0010"
+    },
+    {
+      "quote": "he's not really a future-talker, more of a moments person",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Goal Persistence-low",
+        "Commitment-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "A self-declaration that sounds romantic and present-focused but pre-blocks any conversation about where this is going. For a single mother of two, the future is not abstract, it is her children's stability. He is announcing that her need for that conversation will be treated as pressure.",
+      "snippet_id": "S-006-SN0011"
+    },
+    {
+      "quote": "he needs room to breathe to show up right",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Boundaries-high",
+        "Enmeshment-low",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Withdrawal pre-framed as a condition of his good behavior toward her. If she crowds him, he will not show up right. The logic installs her as responsible for managing his availability by suppressing her own needs.",
+      "snippet_id": "S-006-SN0012"
+    },
+    {
+      "quote": "he doesn't text all day but he smiles every time he sees my name",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Rationed warmth framed as meaningful. He offers a private interior fact she cannot verify in place of consistent contact. The structure rewards her for accepting less: his smile when he sees her name is supposed to compensate for his silence the rest of the time.",
+      "snippet_id": "S-006-SN0013"
+    },
+    {
+      "quote": "you have such a feminine spirit",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Superficiality-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In the tradwife register, feminine spirit is a role-casting compliment. It tells her she is being evaluated on a polarity scale and is currently passing. The implicit structure is that she must stay in her feminine to keep his approval. It sounds like admiration; it functions as a performance review.",
+      "snippet_id": "S-006-SN0014"
+    },
+    {
+      "quote": "like I was made for a slower, simpler life",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Slow living and simple life are specific tradwife lifestyle markers. He is not just complimenting her, he is naming the life he is recruiting her into. For a woman working two jobs, this framing also implies her current exhausting life is a problem his vision would solve, deepening the provider-protector debt.",
+      "snippet_id": "S-006-SN0015"
+    },
+    {
+      "quote": "I liked hearing that. I think I did",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The hesitation in I think I did is a dictional tell. She registered something uncertain in her own reaction but did not follow it. The self-correction is the moment she almost named her ambivalence and then absorbed it back.",
+      "snippet_id": "S-006-SN0016"
+    },
+    {
+      "quote": "He hasn't asked much about the kids. Not their names, not their ages",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Attachment-low",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Fairness",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest behavioral signal in the scenario and the one she is almost asking about. In a family-oriented rural community, not knowing the children's names after three weeks of pursuing their mother is not forgetfulness. It signals that the children are not part of what he is pursuing.",
+      "snippet_id": "S-006-SN0017"
+    },
+    {
+      "quote": "last Sunday my sister had her usual family dinner and he had something come up",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "Family dinners in this community register are not optional social events, they are the primary accountability structure. He has now missed both her son's game and her family gathering. The pattern is consistent: he is present for the dates he controls and absent from every context where her people could observe him.",
+      "snippet_id": "S-006-SN0018"
+    },
+    {
+      "quote": "Is it normal that he hasn't asked their names yet?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She asks the smallest socially acceptable version of the concern she actually has. The real question is whether he intends to be present for her children at all. She asks about names because names are concrete and verifiable, and because asking the larger question would mean naming what she is already sensing.",
+      "snippet_id": "S-006-SN0019"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

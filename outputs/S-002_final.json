@@ -3,19 +3,19 @@
   "player_type": "Arrogant Avery",
   "scenario": {
     "scenario_id": "S-002",
-    "architecture_name": "He flatters her mind and career while quietly training her to accept his interpretive authority over both.",
+    "architecture_name": "He sets himself up as the smartest read on every subject, including her own work and her own family, until deferring to his certainty feels like good sense and her judgment starts to feel like the thing that needs fixing.",
     "culture": "Red Pill",
     "demographics": "Young adult woman, early dating, Atlanta marketing scene; Alex is a confident late-20s guy in tech/finance-adjacent social circles",
-    "cultural_context": "Professional/social scene centered on marketing, client success, and Instagram-savvy urban dating",
+    "cultural_context": "Professional/social scene centered on marketing, client success, and image-conscious urban dating",
     "geographic_setting": "Atlanta, urban nightlife / trendy rooftop bar",
     "core_behaviors": [
-      "Plans and directs the evening while framing it as care",
-      "Praises her intelligence and success as something he discovered",
-      "Uses joking possessiveness and subtle correction to narrow her room to object"
+      "Treats himself as the authority on every subject, including her own work and family",
+      "Overrides her interpretations with calm certainty, then offers the correction as help",
+      "Ranks his perception above other people's and frames her judgment as the thing to fix"
     ],
-    "satellite_signals": "Rooftop bar, Instagram-savvy professional scene, client-success celebration, his friends as audience, praise that sounds like admiration but carries ranking.",
-    "dismissible_red_flags": "At this stage it reads like confidence, teasing, and high standards. He seems impressed by her and protective of the relationship, so the small comments are easy to file under chemistry.",
-    "scenario_text": "Alex and I have only been seeing each other a few weeks, and I’m still in that slightly buzzy, can’t-believe-this-is-real part of it. He took me to this rooftop bar in Atlanta after I landed a big client, and he had already picked the place and made the reservation. I didn’t mind. It felt kind of nice, honestly, like he was the sort of guy who just handles things.\n\nHe kept saying, “Ask me anything, honestly,” and then went on about markets, my car, even why my boss probably moved the deadline the way he did. He has this way of making everything sound so clear. I told him I’d been stuck on a work problem for weeks, and he just laughed and laid out a plan like it was obvious. It worked, which was annoying in the best way.\n\nLater, when I mentioned my sister being weird about my schedule, he said, “Want my honest read on your family? I see these things clearly.” I did not even know how to answer that, but he was so calm about it that I mostly just listened. He can be a little intense, but in a good way, like he actually thinks.\n\nWhen the photographer came by, he said, “I want you all to myself tonight, no need to share with the world just yet.” I laughed because it sounded sweet, and he is sweet in his own blunt way. Then, when his friends came over, he introduced me as his “marketing genius” and said, “Don’t go stealing her away, she’s mine.”\n\nI liked that he was proud of me. I also liked that he noticed my page, though he did say, “I love it when you look natural, maybe tone it down a bit online.” He said it like he was helping, and I guess maybe he was. Is it weird that the comment about my Instagram is still sitting with me a little?"
+    "satellite_signals": "Rooftop client-success celebration; his friends as audience; he had met her family once yet offered to read them; praise that doubles as ranking; the frame of seeing the real moves that others miss.",
+    "dismissible_red_flags": "At this stage it reads like confidence, competence, and high standards. His fixes work and his certainty is reassuring, so the corrections land as care and his authority feels like relief rather than a takeover.",
+    "scenario_text": "Alex and I have only been seeing each other a few weeks, and I’m still in that buzzy, can’t-believe-this-is-real part of it. He took me to a rooftop bar in Atlanta after I landed a big client, and he kept circling back to the deal like he understood it better than I did. He has this way of making everything sound obvious once he’s explained it. I{AP}d been stuck on a work problem for weeks, and he laid out a plan like it was nothing. It worked, which was annoying in the best way.\n\n“Ask me anything,” he kept saying, and then he’d go: markets, my car, why my boss probably moved the deadline the way he did. When I offered my own read, he smiled and said, “Cute theory, but here’s what’s actually happening,” and then explained it. He was probably right. He usually is. He told me, “Most people can’t see the real moves. I can.”\n\nLater I mentioned my sister being weird about my schedule, and he said, “Want my honest read on your family? I see these things clearly.” He’d met them once. I didn’t know how to answer, but he was so calm and certain I just listened. He can be intense, but in a good way, like he actually thinks, not like the guys who just nod along.\n\nWhen his friends came over, he introduced me as “my marketing genius, I found her before the rest of you.” I liked that he was proud of me. Then I started telling them about the campaign and he cut in with, “Let me say it better,” and finished my story for me. Everyone laughed.\n\nOn the way out he said, “You’re brilliant, you just second-guess yourself. Stick with me and you’ll stop doing that.” Is it weird that the part about me second-guessing is the part still sitting with me?"
   },
   "snippets": [
     {
@@ -24,8 +24,7 @@
         "Cultural/Demographic Information"
       ],
       "unes_traits": [
-        "Attachment-low",
-        "Inconsistency-low"
+        "Not Found"
       ],
       "unmet_need": [
         "Not Found"
@@ -33,130 +32,34 @@
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "Early-stage timing sets the scene. There is no alarm yet, just new-relationship intensity and the sense that this is still being sorted out.",
+      "reasoning": "Early-stage timing sets the scene. There is no alarm yet, just new-relationship glow and the sense that this is still being sorted out.",
       "snippet_id": "S-002-SN0001"
     },
     {
-      "quote": "in that slightly buzzy, can’t-believe-this-is-real part of it",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Intensity-high",
-        "Charm-high"
-      ],
-      "unmet_need": [
-        "Connection"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "She is already feeling the pull of his charm and excitement. The wording shows how easy it is for her to stay inside the glow instead of questioning the structure underneath.",
-      "snippet_id": "S-002-SN0002"
-    },
-    {
-      "quote": "He took me to this rooftop bar in Atlanta",
-      "kind_of_signal": [
-        "Cultural/Demographic Information",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "He chooses the setting and moves her through it. It is a small mobility and social-control cue, dressed up as a nice date.",
-      "snippet_id": "S-002-SN0003"
-    },
-    {
-      "quote": "had already picked the place and made the reservation",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Dominance-high"
-      ],
-      "unmet_need": [
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "He is doing the deciding before she gets a say. At this stage it reads as competence, but it also establishes who organizes the relationship.",
-      "snippet_id": "S-002-SN0004"
-    },
-    {
-      "quote": "the sort of guy who just handles things",
-      "kind_of_signal": [
-        "Internal Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Dominance-high"
-      ],
-      "unmet_need": [
-        "Safety",
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She is already translating his control into a virtue. The phrase makes his taking over feel like relief, which is exactly why it can later become hard to resist.",
-      "snippet_id": "S-002-SN0005"
-    },
-    {
-      "quote": "Ask me anything, honestly",
-      "kind_of_signal": [
-        "Loaded Language",
-        "Behavioral Red Flag"
-      ],
-      "unes_traits": [
-        "Boundaries-high",
-        "Charm-high"
-      ],
-      "unmet_need": [
-        "Connection",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "Open-book talk sounds generous, but it also invites him to become the interpreter of everything. The warmth is real; so is the invitation to defer to his read.",
-      "snippet_id": "S-002-SN0006"
-    },
-    {
-      "quote": "markets, my car, even why my boss probably moved the deadline",
+      "quote": "circling back to the deal like he understood it better than I did",
       "kind_of_signal": [
         "Behavioral Red Flag"
       ],
       "unes_traits": [
         "Grandiosity-high",
-        "Control-high"
+        "Dominance-high"
       ],
       "unmet_need": [
-        "Autonomy",
         "Reality"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Gaslighting (DARVO)"
       ],
-      "reasoning": "He ranges across domains as if he has an answer for everything. That breadth reads impressive early, but it also trains her to treat his opinion as the default explanation.",
-      "snippet_id": "S-002-SN0007"
+      "reasoning": "He positions himself as understanding her own work better than she does. It is the first move of interpretive authority, dressed as interest.",
+      "snippet_id": "S-002-SN0002"
     },
     {
-      "quote": "He has this way of making everything sound so clear",
+      "quote": "making everything sound obvious once he’s explained it",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Charm-high",
+        "Grandiosity-high",
         "Cognitive Flexibility-low"
       ],
       "unmet_need": [
@@ -165,61 +68,123 @@
       "possible_trauma": [
         "Gaslighting (DARVO)"
       ],
-      "reasoning": "She is drawn to the clarity and calm. The danger is that his certainty can start replacing her own uncertainty, even when he is just projecting confidence.",
-      "snippet_id": "S-002-SN0008"
+      "reasoning": "His certainty reframes hard things as obvious, which quietly makes her own uncertainty feel like a deficiency rather than a normal response.",
+      "snippet_id": "S-002-SN0003"
     },
     {
-      "quote": "laid out a plan like it was obvious",
+      "quote": "laid out a plan like it was nothing",
       "kind_of_signal": [
         "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Control-high",
-        "Dominance-high"
+        "Dominance-high",
+        "Grandiosity-high"
       ],
       "unmet_need": [
-        "Agency"
+        "Reality"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Gaslighting (DARVO)"
       ],
-      "reasoning": "He turns his solution into the natural solution. That makes her agreement feel less like a choice and more like common sense.",
-      "snippet_id": "S-002-SN0009"
+      "reasoning": "He turns his solution into the natural solution. Effective help like this is exactly what makes deferring to him start to feel rational.",
+      "snippet_id": "S-002-SN0004"
     },
     {
-      "quote": "It worked",
+      "quote": "It worked, which was annoying in the best way",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Control-high"
+        "Grandiosity-high"
       ],
       "unmet_need": [
         "Reality",
-        "Agency"
+        "Autonomy"
       ],
       "possible_trauma": [
-        "Betrayal / Exploitation"
+        "Gaslighting (DARVO)"
       ],
-      "reasoning": "His help is genuinely effective, which is why the dependency can grow so smoothly. When someone’s fixes work, it becomes easier to outsource judgment to them.",
-      "snippet_id": "S-002-SN0010"
+      "reasoning": "His fixes genuinely work, which is what makes handing him her judgment feel sensible. That is where the autonomy erosion starts, with her own thinking quietly outsourced.",
+      "snippet_id": "S-002-SN0005"
     },
     {
-      "quote": "my sister being weird about my schedule",
+      "quote": "Ask me anything",
       "kind_of_signal": [
-        "Cultural/Demographic Information"
+        "Loaded Language",
+        "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Not Found"
+        "Grandiosity-high",
+        "Dominance-high"
       ],
       "unmet_need": [
-        "Connection"
+        "Reality"
       ],
       "possible_trauma": [
-        "Not Found"
+        "Gaslighting (DARVO)"
       ],
-      "reasoning": "This is ordinary personal context, but it also gives him a family angle to step into. He is not just dating her, he is beginning to interpret her world.",
-      "snippet_id": "S-002-SN0011"
+      "reasoning": "The open-book invitation installs him as the interpreter of everything. It sounds generous, but it routes every question back to his authority.",
+      "snippet_id": "S-002-SN0006"
+    },
+    {
+      "quote": "markets, my car, why my boss probably moved the deadline",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He has an answer for every domain. The breadth reads impressive early, but it trains her to treat his opinion as the default explanation.",
+      "snippet_id": "S-002-SN0007"
+    },
+    {
+      "quote": "Cute theory, but here’s what’s actually happening",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Dominance-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Humiliation"
+      ],
+      "reasoning": "The load-bearing line. He dismisses her read with a pat on the head and replaces it with his own, so her interpretation is treated as a draft to be corrected.",
+      "snippet_id": "S-002-SN0008"
+    },
+    {
+      "quote": "Most people can’t see the real moves. I can",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Pure self-elevation. He ranks his perception above everyone else's, the frame of superior sight, which positions him as uniquely entitled to be right.",
+      "snippet_id": "S-002-SN0009"
     },
     {
       "quote": "Want my honest read on your family? I see these things clearly",
@@ -229,47 +194,61 @@
       ],
       "unes_traits": [
         "Grandiosity-high",
-        "Control-high",
-        "Cognitive Flexibility-low"
+        "Cognitive Flexibility-low",
+        "Dominance-high"
       ],
       "unmet_need": [
-        "Reality",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "This is the clearest early version of his architecture. He claims superior clarity about her family, which sounds helpful, but it also positions him as the authority on people he barely knows.",
-      "snippet_id": "S-002-SN0012"
-    },
-    {
-      "quote": "so calm about it",
-      "kind_of_signal": [
-        "Behavioral Red Flag"
-      ],
-      "unes_traits": [
-        "Conflict-high",
-        "Emotional Overexposure-low"
-      ],
-      "unmet_need": [
-        "Safety",
         "Reality"
       ],
       "possible_trauma": [
         "Gaslighting (DARVO)"
       ],
-      "reasoning": "His calmness reads as maturity, but it also makes his interpretation feel hard to challenge. Calm can be a shield for dominance when the other person is expected to doubt herself.",
+      "reasoning": "The clearest version of his architecture and a self-declaration. He claims superior clarity about people he barely knows and offers to author her own family for her.",
+      "snippet_id": "S-002-SN0011"
+    },
+    {
+      "quote": "He’d met them once",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "A satellite. He has almost no information yet speaks as the authority, which is the tell that his certainty is a posture rather than knowledge.",
+      "snippet_id": "S-002-SN0012"
+    },
+    {
+      "quote": "so calm and certain I just listened",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "His calm certainty makes disagreement feel unreasonable. She defers not because he proved anything but because confidence is reading to her as truth.",
       "snippet_id": "S-002-SN0013"
     },
     {
-      "quote": "he actually thinks",
+      "quote": "he actually thinks, not like the guys who just nod along",
       "kind_of_signal": [
         "Loaded Language"
       ],
       "unes_traits": [
-        "Grandiosity-high",
-        "Cognitive Flexibility-low"
+        "Grandiosity-high"
       ],
       "unmet_need": [
         "Worth"
@@ -277,170 +256,125 @@
       "possible_trauma": [
         "Narcissistic Grandiosity"
       ],
-      "reasoning": "This is admiration language that ranks him above other men. It sounds like a compliment, but it also installs him as unusually smart and therefore unusually entitled to be right.",
+      "reasoning": "Admiration language that ranks him above other men. It installs him as exceptionally smart and therefore, in her mind, exceptionally entitled to be right.",
       "snippet_id": "S-002-SN0014"
     },
     {
-      "quote": "I want you all to myself tonight",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Isolation-high",
-        "Attachment-high"
-      ],
-      "unmet_need": [
-        "Connection",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Obsessive Attachment / Enmeshment"
-      ],
-      "reasoning": "At first it reads as flirtation. The structure underneath is possessive exclusivity, a gentle first move toward making her attention feel owed rather than freely given.",
-      "snippet_id": "S-002-SN0015"
-    },
-    {
-      "quote": "no need to share with the world just yet",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Isolation-high",
-        "Validation-seeking-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "He frames privacy as a romantic preference, but it also limits her public self-presentation. That can become a subtle way of narrowing who gets to see and affirm her.",
-      "snippet_id": "S-002-SN0016"
-    },
-    {
-      "quote": "my marketing genius",
+      "quote": "my marketing genius, I found her before the rest of you",
       "kind_of_signal": [
         "Cultural/Demographic Information",
         "Loaded Language"
       ],
       "unes_traits": [
-        "Charm-high",
+        "Grandiosity-high",
         "Validation-seeking-high"
       ],
       "unmet_need": [
         "Worth"
       ],
       "possible_trauma": [
-        "Not Found"
+        "Narcissistic Grandiosity"
       ],
-      "reasoning": "This is affectionate and status-boosting at the same time. He is admiring her, but also packaging her in a role that reflects well on him in front of his friends.",
-      "snippet_id": "S-002-SN0017"
+      "reasoning": "Praise that doubles as acquisition. He credits himself for discovering her, repackaging her achievement as evidence of his own judgment in front of an audience.",
+      "snippet_id": "S-002-SN0015"
     },
     {
-      "quote": "Don’t go stealing her away, she’s mine",
+      "quote": "Let me say it better",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
         "Dominance-high",
-        "Control-high",
-        "Enmeshment-low"
+        "Disrespect-high"
       ],
       "unmet_need": [
-        "Agency",
-        "Autonomy"
+        "Worth"
       ],
       "possible_trauma": [
-        "Coercive Control",
-        "Obsessive Attachment / Enmeshment"
+        "Humiliation"
       ],
-      "reasoning": "The joke is doing real work. It turns her into a possession in public, which can feel playful early while still marking a claim on her social presence.",
-      "snippet_id": "S-002-SN0018"
+      "reasoning": "He talks over her in public and takes the narrative, the talks-over-until-they-stop pattern. Her account of her own work is treated as something he improves.",
+      "snippet_id": "S-002-SN0016"
     },
     {
-      "quote": "I love it when you look natural",
+      "quote": "Everyone laughed",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She joins the laughter at her own expense to keep the mood. Her discomfort goes unspoken and unmet, smoothed over to protect his image.",
+      "snippet_id": "S-002-SN0017"
+    },
+    {
+      "quote": "You’re brilliant, you just second-guess yourself",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
         "Disrespect-high",
-        "Control-high",
-        "Validation-seeking-high"
+        "Grandiosity-high"
       ],
       "unmet_need": [
         "Worth",
+        "Reality",
         "Autonomy"
       ],
       "possible_trauma": [
         "Humiliation",
-        "Coercive Control"
-      ],
-      "reasoning": "This is praise with a correction inside it. He is rewarding her, but he is also telling her which version of herself he prefers, which narrows the room for her own style.",
-      "snippet_id": "S-002-SN0019"
-    },
-    {
-      "quote": "maybe tone it down a bit online",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Disrespect-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Humiliation"
-      ],
-      "reasoning": "This is the load-bearing seedling. He is not just complimenting her, he is editing her public self-presentation while hiding the instruction inside concern.",
-      "snippet_id": "S-002-SN0020"
-    },
-    {
-      "quote": "He said it like he was helping",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Charm-high",
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Agency"
-      ],
-      "possible_trauma": [
         "Gaslighting (DARVO)"
       ],
-      "reasoning": "She can feel the pressure but still experiences it as care. That split is important, because it shows how easily his control gets laundered through helpfulness.",
-      "snippet_id": "S-002-SN0021"
+      "reasoning": "Praise with a diagnosis attached. He affirms her, then locates the flaw in her own confidence, which sets him up as the cure and her judgment as the problem.",
+      "snippet_id": "S-002-SN0018"
     },
     {
-      "quote": "Is it weird that the comment about my Instagram is still sitting with me a little?",
+      "quote": "Stick with me and you’ll stop doing that",
       "kind_of_signal": [
-        "Internal Red Flag"
+        "Behavioral Red Flag",
+        "Loaded Language"
       ],
       "unes_traits": [
-        "Trust-high",
-        "Control-high"
+        "Dominance-high",
+        "Grandiosity-high"
       ],
       "unmet_need": [
         "Reality",
         "Autonomy"
       ],
       "possible_trauma": [
-        "Not Found"
+        "Gaslighting (DARVO)"
       ],
-      "reasoning": "She is asking about the smallest socially acceptable concern, not naming the larger pattern. The fact that the comment lingers shows she noticed the edge even while trying to keep it light.",
-      "snippet_id": "S-002-SN0022"
+      "reasoning": "He offers himself as the remedy for the self-doubt he just named. This is the autonomy hit: he trains her to route her own judgment through him, so reliance becomes the path to confidence.",
+      "snippet_id": "S-002-SN0019"
+    },
+    {
+      "quote": "Is it weird that the part about me second-guessing is the part still sitting with me?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Humiliation"
+      ],
+      "reasoning": "She circles the smallest acceptable worry, but the line that stuck is the one that redefined her own mind as the problem, which is exactly where his authority takes root.",
+      "snippet_id": "S-002-SN0021"
     }
   ],
   "validation_warnings": [],

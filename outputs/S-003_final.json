@@ -15,7 +15,7 @@
     ],
     "satellite_signals": "Polyamorous register is used as a soft cover for noncommitment, with phrases like no labels, space, and rhythm doing the real work. The narrator reads his distance as maturity because he is charming, calm, and careful with words.",
     "dismissible_red_flags": "Early-stage warmth, honesty about needing space, and a dislike of labels can all seem healthy at first. His calm delivery makes the distance feel thoughtful instead of withholding.",
-    "scenario_text": "I met Eli at a little art booth outside Santa Fe, and he had that calm, put-together way of talking that makes everything feel easy. He told me he liked that I had my own life going on, which honestly felt sweet. Most guys either get weird about how busy I am or act like they need constant texts. He didn’t. He just smiled and said, “That’s refreshing.”\n\nWe drove up to Taos last weekend, and when I offered him the tamales and agua fresca I’d packed, he looked genuinely touched. He said, “You’re the kind of person who makes things feel real.” I liked that. It made me feel seen, not just looked at. Later, when I mentioned my friend Marisol’s state-of-the-union conversation with her nesting partner, he laughed and said he was glad we were “keeping this light” and not making it a whole thing.\n\nThat part stayed with me a little. I asked if he meant he didn’t want to talk about what we were doing, and he said, “Why ruin what we have with pressure? I like this exactly how it is.” He said it softly, like he was protecting something delicate. I told myself he was probably just being careful, and honestly I do like that he isn’t clingy.\n\nAfter dinner he kissed me at my door and said, “I’m not fully ready for anything serious yet, but I really like being with you.” It sounded honest, not cruel. He texted the next morning, “I’m here when I’m here. That’s the best I can promise right now.” I guess I just keep feeling lucky that he’s so clear with me, even when the clarity leaves a little space I’m not sure what to do with. Is it weird that the “keeping this light” comment stayed with me?"
+    "scenario_text": "I met Eli at a little art booth outside Santa Fe, and he had that calm, put-together way of talking that makes everything feel easy. He told me he liked that I had my own life going on. Most guys either get weird about how busy I am or act like they need constant texts. He didn’t. He just smiled and said, “That’s refreshing.”\n\nWe drove up to Taos last weekend, and when I offered him the tamales and agua fresca I’d packed, he looked genuinely touched. He said, “You’re the kind of person who makes things feel real.” I liked that. It made me feel seen, not just looked at. Later, when I mentioned my friend Marisol’s state-of-the-union conversation with her nesting partner, he laughed and said he was glad we were “keeping this light” and not making it a whole thing.\n\nThat part stayed with me a little. I asked if he meant he didn’t want to talk about what we were doing, and he said, “Why ruin what we have with pressure? I like this exactly how it is.” He said it softly, like he was protecting something delicate. I told myself he was probably just being careful, and I do like that he isn’t clingy.\n\nAfter dinner he kissed me at my door and said, “I’m not fully ready for anything serious yet, but I really like being with you.” It sounded honest, not cruel. He texted the next morning, “I’m here when I’m here. That’s the best I can promise right now.” I guess I just keep feeling lucky that he’s so clear with me, even when the clarity leaves a little space I’m not sure what to do with. Is it weird that the “keeping this light” comment stayed with me?"
   },
   "snippets": [
     {
@@ -32,7 +32,7 @@
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "The setting locates them in a specific travel-and-art context without needing explanation. It helps make the relationship feel casual and early-stage, which is exactly why the later distancing can pass as normal.",
+      "reasoning": "The setting locates them in a casual travel-and-art context without explanation. It helps the relationship read as early-stage, which is exactly why the later distancing can pass as normal.",
       "snippet_id": "S-003-SN0001"
     },
     {
@@ -46,12 +46,12 @@
         "Intensity-low"
       ],
       "unmet_need": [
-        "Reality"
+        "Connection"
       ],
       "possible_trauma": [
         "Emotional Neglect"
       ],
-      "reasoning": "He presents as polished and easy, which reads as attractive at first. The surface calm also makes it easier for him to keep emotional distance without it looking like a problem.",
+      "reasoning": "He presents as polished and easy, which reads as attractive at first. The surface calm is also what lets him hold emotional distance without it looking like a problem.",
       "snippet_id": "S-003-SN0002"
     },
     {
@@ -65,13 +65,12 @@
         "Attachment-low"
       ],
       "unmet_need": [
-        "Autonomy",
         "Connection"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Emotional Neglect"
       ],
-      "reasoning": "This sounds like praise, but it quietly defines the ideal partner as someone who does not ask for much. She starts feeling that wanting more time or closeness would make her less appealing.",
+      "reasoning": "This sounds like praise, but it quietly defines the ideal partner as someone who does not ask for much, so wanting more closeness starts to feel like a flaw.",
       "snippet_id": "S-003-SN0003"
     },
     {
@@ -85,13 +84,12 @@
         "Conflict-low"
       ],
       "unmet_need": [
-        "Worth",
         "Connection"
       ],
       "possible_trauma": [
         "Emotional Neglect"
       ],
-      "reasoning": "A small compliment, but it rewards her for being easy to manage. It frames his low availability as a virtue and sets up a standard where her needs should stay light.",
+      "reasoning": "A small compliment that rewards her for being easy to manage. It frames his low availability as a virtue and sets the standard that her needs should stay light.",
       "snippet_id": "S-003-SN0004"
     },
     {
@@ -105,13 +103,12 @@
         "Superficiality-high"
       ],
       "unmet_need": [
-        "Worth",
         "Connection"
       ],
       "possible_trauma": [
-        "Obsessive Attachment / Enmeshment"
+        "Emotional Neglect"
       ],
-      "reasoning": "He is flattering her in a way that makes her feel chosen and special. The praise is vague enough to be seductive, but it also makes her feel responsible for supplying the feeling of reality in the relationship.",
+      "reasoning": "Vague, seductive praise that makes her feel chosen. It also quietly makes her the one responsible for supplying the realness, while he supplies very little.",
       "snippet_id": "S-003-SN0005"
     },
     {
@@ -120,16 +117,15 @@
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Trust-high",
-        "Attachment-high"
+        "Charm-high"
       ],
       "unmet_need": [
-        "Worth"
+        "Connection"
       ],
       "possible_trauma": [
-        "Not Found"
+        "Emotional Neglect"
       ],
-      "reasoning": "She is already adjusting herself around his praise, which shows how quickly she absorbs his framing. The line is small, but it shows her leaning toward his approval instead of checking whether the compliment actually fits.",
+      "reasoning": "She is already adjusting around his praise, which shows how quickly she absorbs his framing and leans toward his approval rather than checking whether it fits.",
       "snippet_id": "S-003-SN0006"
     },
     {
@@ -146,7 +142,7 @@
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "This is polyamory-specific language, and it places the scene inside a relationship culture where check-ins are normal. That makes his later refusal to define things feel more reasonable than it should.",
+      "reasoning": "Polyamory-specific language that places the scene inside a culture where check-ins are normal, which makes his refusal to define things feel more reasonable than it is.",
       "snippet_id": "S-003-SN0007"
     },
     {
@@ -163,7 +159,7 @@
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "This term marks the poly register clearly. It also signals that structured relationships and explicit arrangements are normal in her world, which is why his vagueness can hide inside a framework that values openness.",
+      "reasoning": "This term marks the poly register and signals that structured, explicit arrangements are normal in her world, which is why his vagueness can hide inside a framework that values openness.",
       "snippet_id": "S-003-SN0008"
     },
     {
@@ -177,13 +173,14 @@
         "Inconsistency-high"
       ],
       "unmet_need": [
-        "Agency",
-        "Reality"
+        "Reality",
+        "Connection"
       ],
       "possible_trauma": [
-        "Gaslighting (DARVO)"
+        "Gaslighting (DARVO)",
+        "Emotional Neglect"
       ],
-      "reasoning": "This is a classic soft-pressure phrase. It sounds considerate, but it steers the relationship away from clarity and makes her feel like she would be the one making things heavy if she asked for more.",
+      "reasoning": "A soft-pressure phrase. It sounds considerate, but it steers the relationship away from clarity and makes her feel that she would be the one making things heavy if she asked for more.",
       "snippet_id": "S-003-SN0009"
     },
     {
@@ -197,13 +194,12 @@
         "Charm-high"
       ],
       "unmet_need": [
-        "Agency",
-        "Worth"
+        "Reality"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Gaslighting (DARVO)"
       ],
-      "reasoning": "He is pre-emptively defining her potential questions as overreaction. That makes ordinary curiosity feel like drama, which narrows the room she has to ask for clarity.",
+      "reasoning": "He pre-emptively defines her potential questions as overreaction. That makes ordinary curiosity feel like drama, which narrows the room she has to ask for clarity.",
       "snippet_id": "S-003-SN0010"
     },
     {
@@ -217,13 +213,12 @@
         "Deception-high"
       ],
       "unmet_need": [
-        "Agency",
         "Reality"
       ],
       "possible_trauma": [
         "Gaslighting (DARVO)"
       ],
-      "reasoning": "He turns a reasonable relationship question into something that sounds destructive. The move is gentle, but it shifts the burden onto her to justify wanting basic definition.",
+      "reasoning": "He turns a reasonable relationship question into something destructive. The move is gentle, but it shifts the burden onto her to justify wanting basic definition.",
       "snippet_id": "S-003-SN0011"
     },
     {
@@ -239,12 +234,13 @@
       ],
       "unmet_need": [
         "Connection",
-        "Agency"
+        "Safety"
       ],
       "possible_trauma": [
-        "Emotional Neglect"
+        "Emotional Neglect",
+        "Betrayal / Exploitation"
       ],
-      "reasoning": "This is the clearest early version of the trap. He is enjoying closeness while explicitly refusing growth or commitment, which leaves her holding the uncertainty alone while he keeps the benefit of access.",
+      "reasoning": "The clearest early version of the trap. He enjoys closeness while refusing growth, so she holds the uncertainty alone while he keeps the benefit of access.",
       "snippet_id": "S-003-SN0012"
     },
     {
@@ -258,13 +254,12 @@
         "Goal Persistence-low"
       ],
       "unmet_need": [
-        "Connection",
-        "Safety"
+        "Connection"
       ],
       "possible_trauma": [
         "Emotional Neglect"
       ],
-      "reasoning": "This is honest, but it is also a built-in limit on the relationship. Because he says it softly and early, she is encouraged to treat his unavailability as temporary rather than structural.",
+      "reasoning": "Honest, but also a built-in limit on the relationship. Said softly and early, it encourages her to treat his unavailability as temporary rather than structural.",
       "snippet_id": "S-003-SN0013"
     },
     {
@@ -278,13 +273,12 @@
         "Validation-seeking-high"
       ],
       "unmet_need": [
-        "Worth",
         "Connection"
       ],
       "possible_trauma": [
-        "Obsessive Attachment / Enmeshment"
+        "Emotional Neglect"
       ],
-      "reasoning": "The line gives her just enough reassurance to stay engaged. It creates a pattern where he can offer warmth without offering any actual forward motion.",
+      "reasoning": "Just enough reassurance to keep her engaged. It creates a pattern where he can offer warmth without offering any actual forward motion.",
       "snippet_id": "S-003-SN0014"
     },
     {
@@ -299,13 +293,14 @@
         "Control-high"
       ],
       "unmet_need": [
-        "Safety",
-        "Agency"
+        "Connection",
+        "Safety"
       ],
       "possible_trauma": [
-        "Emotional Neglect"
+        "Emotional Neglect",
+        "Betrayal / Exploitation"
       ],
-      "reasoning": "This is the clearest statement of intermittent availability. It sounds casual and self-aware, but it also normalizes his on-and-off presence and makes her adapt to his rhythm.",
+      "reasoning": "The clearest statement of intermittent availability. It sounds casual and self-aware, but it normalizes his on-and-off presence and makes her adapt to his rhythm while he keeps access.",
       "snippet_id": "S-003-SN0015"
     },
     {
@@ -319,13 +314,14 @@
         "Inconsistency-high"
       ],
       "unmet_need": [
-        "Safety",
-        "Connection"
+        "Connection",
+        "Safety"
       ],
       "possible_trauma": [
-        "Emotional Neglect"
+        "Emotional Neglect",
+        "Betrayal / Exploitation"
       ],
-      "reasoning": "He caps the relationship at minimal certainty while sounding reasonable. The phrase is gentle, but it quietly trains her to accept scraps of commitment as the maximum she should expect.",
+      "reasoning": "He caps the relationship at minimal certainty while sounding reasonable, training her to accept scraps of commitment as the maximum she should expect.",
       "snippet_id": "S-003-SN0016"
     },
     {
@@ -335,16 +331,17 @@
       ],
       "unes_traits": [
         "Attachment-low",
-        "Trust-high"
+        "Inconsistency-high"
       ],
       "unmet_need": [
-        "Safety",
-        "Reality"
+        "Connection",
+        "Safety"
       ],
       "possible_trauma": [
-        "Emotional Neglect"
+        "Emotional Neglect",
+        "Betrayal / Exploitation"
       ],
-      "reasoning": "She can feel that his honesty is not actually giving her what she wants, but she still turns that discomfort into a minor personal puzzle. That is the early self-doubt that keeps the pattern going.",
+      "reasoning": "She can feel that his honesty is not actually giving her what she wants, but she turns that discomfort into a minor personal puzzle. That is the early self-doubt that keeps the pattern going.",
       "snippet_id": "S-003-SN0017"
     },
     {
@@ -353,17 +350,18 @@
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Trust-high",
-        "Attachment-high"
+        "Charm-high",
+        "Inconsistency-high"
       ],
       "unmet_need": [
         "Reality",
         "Connection"
       ],
       "possible_trauma": [
-        "Not Found"
+        "Gaslighting (DARVO)",
+        "Emotional Neglect"
       ],
-      "reasoning": "She is asking about the smallest socially acceptable part of the exchange, not the bigger issue of his refusal to define the relationship. That tells you the real concern is already sitting under the surface.",
+      "reasoning": "She asks about the smallest socially acceptable part of the exchange, not his refusal to define the relationship. The real concern is already sitting under the surface.",
       "snippet_id": "S-003-SN0018"
     }
   ],

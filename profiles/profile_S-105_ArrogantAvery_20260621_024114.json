@@ -1,0 +1,1540 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-105",
+    "target_register": "Modern Orthodox Jewish",
+    "player_type": "Arrogant Avery"
+  },
+  "primary_metaphors": [
+    "Correction-as-Generosity",
+    "Their-View-as-Objective-Reality",
+    "Argument-as-War",
+    "Concession-as-Repositioning",
+    "Disagreement-as-Cognitive-Defect",
+    "Composure-as-Superiority",
+    "Correction-as-Care",
+    "Self-as-Objective-Truth",
+    "Galaxy-Brain-Mentor",
+    "High-Standards-as-Correction",
+    "Intellect-as-Hierarchy",
+    "Correctness-as-Control",
+    "Perfectionism-as-Inspection",
+    "Precision-as-Excuse",
+    "Logic-as-Superiority",
+    "Debate-as-Dominance",
+    "Mediocrity-Contempt",
+    "Standards-over-Care",
+    "Truth-without-Tenderness",
+    "Self-Harshness-as-License",
+    "Interpretive-Superiority",
+    "Approval-as-Prize",
+    "Thinking-as-Solution",
+    "Examination-as-Gatekeeping",
+    "Flaw-Detection",
+    "Competence-Test",
+    "Anti-Validation-as-Maturity",
+    "Accuracy-as-Moral-Cover",
+    "Defensiveness-Framing",
+    "Feedback-As-Gift",
+    "Truth-As-Weapon",
+    "Psychoanalysis-As-Control",
+    "Concession-Harvesting",
+    "Self-Mocking-Selection",
+    "Self-Doubt-Selection",
+    "Logic-As-Silencing",
+    "Coachability-As-Compliance",
+    "No-Defense-Selection",
+    "Objective-Truth-As-Weapon",
+    "Debate-As-Shield",
+    "Correction-Tolerance",
+    "Expertise-Deference",
+    "Instinct-Dismissal",
+    "Gaslight-Receptivity",
+    "Evidence-As-Control",
+    "Aggression-As-Discussion",
+    "Accuracy-As-Isolation",
+    "Tension-Tolerance",
+    "Correctness-as-Care"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "brilliant-mind (impressive range)",
+      "his_language": "Ask me anything, honestly. History, markets, how your car works. I'll have an answer.",
+      "her_experience": "He seems to know something about everything and explains it so well. Conversations with him are the most stimulating I've ever had.",
+      "expert_notices": "Grandiosity8 as genuine range; reads as fascinating breadth. Seam (he is never the one who doesn't know) invisible early. Cover."
+    },
+    {
+      "mechanism": "argument-as-war (debate as charm, pre-curdle)",
+      "his_language": "I enjoy a good debate. Most people can't keep up.",
+      "her_experience": "He's the most articulate person in any room and clearly loves a good debate. I found his confidence incredibly attractive.",
+      "expert_notices": "Conflict10 pre-framed as charming intellectual sport; 'not arrogance if you can back it up' launders grandiosity. She codes it as confidence."
+    },
+    {
+      "mechanism": "mentor (intellectual pedestal w/ claim built in)",
+      "his_language": "You could do something extraordinary. You've just never had anyone who saw it. I do.",
+      "her_experience": "He sees this huge potential in me and wants to help me reach it. I've never had someone believe I could do something extraordinary, and I feel like I could do anything with him behind me.",
+      "expert_notices": "Honeymoon cover: brilliance pointed at HER ascent (someone who could do something extraordinary, in your corner); elevating not diminishing. Seam dormant (the bigness is defined/granted by him) but invisible early. Her residue pure elation."
+    },
+    {
+      "mechanism": "mentor (illuminating teaching, one-directional)",
+      "his_language": "God, talking to you is the best part of my day. You actually keep up, you make me think harder. Do you know how rare that is? We could take on the world.",
+      "her_experience": "Our conversations go for hours and feel electric. He says I'm the only one who keeps up with him, and being someone's true intellectual match is the most seen I've ever felt.",
+      "expert_notices": "Honeymoon cover: galaxy-brain turned into shared electricity (you keep up, you make me think harder, take on the world); flatters her mind as his equal. Seam (the 'club of two' that will isolate) dormant. Pure thrill."
+    },
+    {
+      "mechanism": "mentor (correction reframed as care)",
+      "his_language": "I push you because I see what you could be. Most people would just let you coast.",
+      "her_experience": "He pushes me to be better and says it's because he sees my potential. No one has ever believed in me enough to challenge me like that.",
+      "expert_notices": "Correction-as-Generosity proper: pressure reframed as uniquely caring investment (most people would let you stay); resisting his 'help' becomes ingratitude. She experiences it as belief in her."
+    },
+    {
+      "mechanism": "mentor (someone has to set you straight)",
+      "his_language": "I don't blow smoke. When I tell you you're brilliant, you'll know I mean it.",
+      "her_experience": "He's not the type to flatter, so when he tells me I'm brilliant it actually lands, it feels earned. Being genuinely admired by someone this sharp is intoxicating.",
+      "expert_notices": "Honeymoon cover: his selectivity reframed so his praise feels EARNED and precious (I don't say it to people who aren't); intoxicating admiration of HER mind. Seam (praise is conditional/withholdable) dormant. Pure elation."
+    },
+    {
+      "mechanism": "helps-by-solving (work problem, works)",
+      "his_language": "Okay, here's what you do about your boss. Step one, step two, step three. Trust me, I've navigated a hundred situations like this. It'll work.",
+      "her_experience": "He gave me this clear plan for a work problem I'd been stuck on for weeks, and it actually worked perfectly. He's like having a brilliant strategist in my corner.",
+      "expert_notices": "Help genuinely WORKS early (it worked perfectly); real competence is why she begins outsourcing judgment. His solution supplants hers. Builds the trust that later overrides her own read."
+    },
+    {
+      "mechanism": "helps-by-solving (the all-purpose fixer)",
+      "his_language": "Send me the lease, I'll find what they're hiding in the fine print. And forward that email chain, I'll tell you exactly how to handle them.",
+      "her_experience": "He just fixes things, my lease, a tax question, a fight with my sister, he has an answer for everything and he's usually right. It's such a relief to have him.",
+      "expert_notices": "Volume tell: he fixes EVERYTHING (lease, tax, sister, work), each genuinely useful; the accumulation is the mechanism transferring her judgment to him. 'Usually right' = the on-ramp to control. Relief masks the dependence forming."
+    },
+    {
+      "mechanism": "helps-by-solving (analyzes, emotion-clouds seed)",
+      "his_language": "Want my honest read on your family? I see these things clearly. Here's what's going on.",
+      "her_experience": "He analyzed my family dynamics so clearly, things I'd been confused about for years. It was like he could see what I couldn't.",
+      "expert_notices": "Analysis framed as superior clarity (without emotion clouding it) seeds Disagreement-as-Cognitive-Defect (her emotion clouds, his logic sees true); genuinely insightful early. She ranks his sight above her own."
+    },
+    {
+      "mechanism": "helps-by-solving (becomes standing authority)",
+      "his_language": "Forget the safe version, go for the big one. I'll help you build the whole case and make it bulletproof. You're going to walk in there and they won't know what hit them.",
+      "her_experience": "He pushed me to go for something way out of my comfort zone and is helping me prepare for it. No one has ever believed in me this much or made me feel this capable.",
+      "expert_notices": "Honeymoon cover: the 'helps her achieve great things' hook (go for the big one, bulletproof, capable); genuinely emboldening. Seam (the win will be framed as his doing) dormant. She feels capable, not managed."
+    },
+    {
+      "mechanism": "takes-her-mind (debates her, pre-curdle bait)",
+      "his_language": "Good, push back. I like that you actually think, most people just nod.",
+      "her_experience": "He actually engages with my opinions and likes when I push back, he says most people just nod along. Being taken seriously intellectually is intoxicating.",
+      "expert_notices": "The bait: genuine-seeming respect (push back, I like that you think) conditional on the outcome (he still wins). Intoxicating to a woman used to being talked down to. Curdles when she persists in being right."
+    },
+    {
+      "mechanism": "takes-her-mind (intellectual triangulation/isolation)",
+      "his_language": "You and me, we're not like other people. We actually think for ourselves.",
+      "her_experience": "He says we're the same kind of rare, two people who actually think. After years of feeling like no one really got me, finding that is everything.",
+      "expert_notices": "Honeymoon cover-edge: the club-of-two (we're not like other people, the one other person who's awake); thrilling as 'finally understood,' faint isolation seam dormant beneath. Her residue is being-gotten, not superiority."
+    },
+    {
+      "mechanism": "must-be-right (never concedes)",
+      "his_language": "I'm not being stubborn, I'm being correct. When I'm wrong I say so. It just doesn't happen much.",
+      "her_experience": "He's incredibly sure of himself and rarely admits being wrong, but he says it's because he's usually right, and honestly he often is. I find the certainty kind of reassuring.",
+      "expert_notices": "Charlot DIRECT HIT: 'doesn't admit when he's wrong' (Accountability4 + Conflict10), the purest instance in the typology. 'When I'm wrong I'll say so, it just doesn't come up' is the unfalsifiable claim. She reframes it as reassuring certainty."
+    },
+    {
+      "mechanism": "must-be-right (moves the goalposts)",
+      "his_language": "Sure, technically. But that was never my point. You're missing the bigger picture.",
+      "her_experience": "Even when I'm right about something he finds a way to be right on a bigger level. I usually end up feeling like I won the small thing but lost the real argument.",
+      "expert_notices": "FALLACY (annotated): moving the goalposts / motte-and-bailey. Concession-as-Repositioning: her valid point conceded then nullified ('never my actual point'). Structurally unfalsifiable. She feels the futility ('won small, lost the real argument') without naming the move."
+    },
+    {
+      "mechanism": "must-be-right (technicality dismissal)",
+      "his_language": "Fine, you got me on a technicality. Doesn't change the substance.",
+      "her_experience": "When I catch him out on something he calls it a technicality and says it doesn't change his point. I've learned that being right with him doesn't really feel like winning.",
+      "expert_notices": "FALLACY (annotated): minimization / appeal to the substance. Defeat on a point reframed as trivial so his overall correctness is preserved (Concession-as-Repositioning). 'You got me on a technicality' is the tell. She's learned being right gets her nothing."
+    },
+    {
+      "mechanism": "intellectual-gaslighting (you're misremembering)",
+      "his_language": "That's not how it happened. Why would I have said that? You're remembering it how you wanted it to be.",
+      "her_experience": "He often remembers our conversations differently than I do and makes such a logical case that I usually end up unsure of my own memory. I've never had a great memory anyway.",
+      "expert_notices": "Intellectual gaslighting (Disagreement-as-Cognitive-Defect): her memory recoded as emotion-distorted ('the way that fits how you feel'); aimed at her PERCEPTION/MEMORY (vs Marley behavioral, Morgan clinical). She concedes her memory is the unreliable one. Self-blame installed."
+    },
+    {
+      "mechanism": "intellectual-gaslighting (you're being irrational)",
+      "his_language": "You're not thinking clearly right now. The second emotion's involved, logic's gone. Step back.",
+      "her_experience": "When I get upset in a disagreement he points out I'm not being logical, and he has a point that I do get emotional. I've started trying to be more rational like him before I bring things up.",
+      "expert_notices": "FALLACY (annotated): ad hominem (attacks the arguer's state, not the argument). Disagreement-as-Cognitive-Defect: her view dismissed as a thinking malfunction. Behavior-steer (she pre-edits herself to his standard of 'rational'). Erodes confidence in her own mind, the type's signature harm."
+    },
+    {
+      "mechanism": "intellectual-gaslighting (his view = objective fact)",
+      "his_language": "I'm not giving you an opinion. That's just how it is. You can dislike it, doesn't make it less true.",
+      "her_experience": "He has this way of stating things as simple fact that makes disagreeing feel like denying reality. Usually I just assume he knows better and drop it.",
+      "expert_notices": "FALLACY (annotated): begging the question / assertion-as-fact. Their-View-as-Objective-Reality: removes his position from the contestable so disagreeing = denying reality (the gaslighting structure). She drops it, conceding his reality. Distinct from Devin's 'the standard' (conduct): this is 'the facts' (truth)."
+    },
+    {
+      "mechanism": "intellectual-gaslighting (your sources/feelings are flawed)",
+      "his_language": "Where did you even get that? Think about who told you. You're smarter than that.",
+      "her_experience": "He challenges where I get my information and it does make me realize I hadn't checked things carefully. He says I'm smart so I shouldn't fall for sloppy thinking. I want to live up to that.",
+      "expert_notices": "FALLACY (annotated): genetic fallacy (attacks source not claim) + flattery-as-leash ('you're smart, you shouldn't...'). Disagreement-as-Cognitive-Defect routed through the intellectual pedestal: her own standard ('smart') weaponized to make her distrust her inputs. She self-corrects toward his."
+    },
+    {
+      "mechanism": "composure-superiority (calm = right)",
+      "his_language": "Look how worked up you're getting. I'm calm. That tells you which of us is right.",
+      "her_experience": "In disagreements he stays totally calm while I get heated, and it does make me feel like he's the rational one and I'm the problem. I wish I could stay as composed as he does.",
+      "expert_notices": "FALLACY (annotated): tone fallacy / appeal to calm (affect treated as evidence of validity). Composure-as-Superiority (cold variant): his calm = correctness, her emotion = error, regardless of content. Water-Torturer-for-correctness (vs Marley's same calm aimed at WHO DECIDES). She wants to be more like him."
+    },
+    {
+      "mechanism": "composure-superiority (your reaction proves my point)",
+      "his_language": "See, this. Right here. You're making my point for me.",
+      "her_experience": "Sometimes my getting upset becomes proof of whatever he was arguing, which is maddening, but then I think maybe my reactions really are the issue.",
+      "expert_notices": "FALLACY (annotated): unfalsifiable reframing (her objection is recast as evidence for him). Composure-as-Superiority: affect made the scoreboard, so she can't win by staying calm (concedes) or showing feeling (confirms his frame). She turns it on herself."
+    },
+    {
+      "mechanism": "disagreement-as-disrespect",
+      "his_language": "Why do you challenge me on everything? I tell you something and instead of trusting me you argue.",
+      "her_experience": "He feels disrespected when I disagree, like I'm doubting his intelligence, so I've gotten more careful about pushing back. I don't want him to feel I don't value his mind.",
+      "expert_notices": "Typology core: disagreement treated as disrespect rather than dialogue (Conflict10/Disrespect8). Reframes her independent view as an insult to him; behavior-steer toward not disagreeing. She self-censors to protect his ego. Distinct from Devin (questioning the ORDER) - here it's questioning HIS CORRECTNESS."
+    },
+    {
+      "mechanism": "condescension-as-care (explains what she knows)",
+      "his_language": "Let me break it down for you. So, basically...",
+      "her_experience": "He explains things I already know sometimes, but in such a caring way that I don't mind, he just wants to make sure I understand. It's kind of sweet.",
+      "expert_notices": "Condescension wrapped in care (let me break it down simply, just so we're on the same page); the talking-down disguised as inclusiveness. Correction-as-Generosity. She codes the diminishment as sweetness. Faint, glossable."
+    },
+    {
+      "mechanism": "honeymoon (galaxy-brain, world cracks open)",
+      "his_language": "Watch how this all connects, the history, the money, the psychology. It's one pattern. Most people never see the whole board.",
+      "her_experience": "He connects things in a way that makes the whole world suddenly make sense, like he can see the entire board. Talking to him is the most exciting thing, I come away buzzing.",
+      "expert_notices": "Honeymoon cover: galaxy-brain as genuine intellectual thrill (it's all one pattern, the whole board); she's dazzled (buzzing). The 'most people never see it' is the only faint seam, swallowed by excitement. Pure draw."
+    },
+    {
+      "mechanism": "honeymoon (makes her feel brilliant)",
+      "his_language": "That, what you just said? Genuinely original. You're smarter than you give yourself credit for. I'll keep saying it till you believe me.",
+      "her_experience": "He gets visibly excited by my ideas and tells me I'm smarter than I realize. Around him I feel like the sharpest, most interesting version of myself. It's addictive.",
+      "expert_notices": "Honeymoon cover: his effect on her is ELEVATING (original thought, smarter than you realize); she feels brilliant, not small (the correction note this fixes). Seam (he is the arbiter of when she's smart) fully dormant. Addictive elation."
+    },
+    {
+      "mechanism": "honeymoon (shared ascent, big future for her)",
+      "his_language": "Two years from now your whole life looks different. We map it out, you stop playing small. I did it for myself. I'd love to do it with you.",
+      "her_experience": "He has this whole vision for where my life could go and wants to help me get there. After drifting for years, having someone with a plan who believes in my future is everything.",
+      "expert_notices": "Honeymoon cover: the achieve-great-things hook with a concrete future (two years, map it out, stop playing small); emboldening and devoted-sounding. Seam (the plan and the 'we execute' are his) dormant. She feels chosen for greatness."
+    },
+    {
+      "mechanism": "honeymoon (opens doors, magic competence)",
+      "his_language": "I made a couple of calls for you. You've got the meeting. Just be yourself in there, you'll crush it, and I'll prep you beforehand so you're unshakeable.",
+      "her_experience": "He opened a door for me I could never have opened myself and then helped me get ready for it. Being with him is genuinely changing what's possible in my life. I feel unstoppable.",
+      "expert_notices": "Honeymoon cover: useful-as-magic (made calls, got the meeting) materially expanding her life; reads as a devoted, powerful partner. Seam (access flows through him, prep = his framing) dormant. She feels unstoppable, not dependent."
+    },
+    {
+      "mechanism": "honeymoon (power-couple of the mind)",
+      "his_language": "Imagine what we build together. Two people who actually think, pushing each other, no dead weight. People are going to wonder how we pull it off. We're going to be formidable.",
+      "her_experience": "He talks about us becoming this formidable team and it's thrilling, like I've found my person and my partner in crime at once. I've never been so excited about a future with someone.",
+      "expert_notices": "Honeymoon cover (power-couple variant): joint ascent (build together, formidable, people will wonder); thrilling partnership. Faint seam (no dead weight = conditional belonging) dormant. Pure excitement about a shared future."
+    },
+    {
+      "mechanism": "honeymoon (intellectual chemistry as romance)",
+      "his_language": "I could talk to you until four in the morning and not notice. That's never happened to me. Beauty fades, but a mind like yours? That's the rare thing. That's what I fell for.",
+      "her_experience": "He says he fell for my mind, that it's the rare thing, and we lose whole nights just talking. Being wanted for how I think instead of how I look feels like the realest love I've known.",
+      "expert_notices": "Honeymoon cover: intellectual attraction as the deepest romance (fell for your mind, the rare thing); flattering in a way that feels more substantial than looks (implicit dig at Evan-type praise). Seam (mind as the prized possession) dormant. Profound-feeling draw."
+    },
+    {
+      "mechanism": "the patient correction (Grandiosity8)",
+      "his_language": "No, common misconception, most people get it wrong. Let me explain how it actually works.",
+      "her_experience": "He corrects me constantly, always patiently, always framed as caring about the truth, so it's hard to object. But I've started doubting things I actually know, double-checking myself before I speak, and the constant low-grade lecturing wears me out.",
+      "expert_notices": "Grandiosity8 correction. Targets insecure (doubting what I know) + drained (lecturing wears me out). Care-framed."
+    },
+    {
+      "mechanism": "his version never changes (Sense-of-Self8)",
+      "his_language": "I've thought about this harder than you have. That's just true. You'll land where I landed.",
+      "her_experience": "He's so certain and so articulate that in any disagreement I end up conceding, even when something in me says I'm right. Afterward I can't reconstruct why I gave in, only that I always do, and I've mostly stopped arguing because I never win.",
+      "expert_notices": "Sense-of-Self8 'version never changes, disagreement is betrayal.' Targets insecure (can't trust my own sense) + resigned (stopped arguing). "
+    },
+    {
+      "mechanism": "luck for you, skill for him (Grandiosity8)",
+      "his_language": "Your promotion's great, truly. Right place, right time. Mine took years, but yours, lucky timing. Happy for you.",
+      "her_experience": "He reframes my successes as luck while his are pure merit, so smoothly it sounds reasonable, and I leave the conversation feeling like my wins don't quite count. Over time I've started believing my good things really are mostly luck, not me.",
+      "expert_notices": "Grandiosity8 'their luck, my skill.' Targets insecure (wins don't count) + resigned. Internalized."
+    },
+    {
+      "mechanism": "built different (Grandiosity8)",
+      "his_language": "Normal rules don't really apply to how my mind works. Most people operate on a different level. I need you to get that you're with someone who sees more.",
+      "her_experience": "He believes he simply operates on a higher level than most people, and early on his brilliance was thrilling to be near. Now I feel perpetually a step below, like the slightly slower partner lucky to be tolerated, and it's quietly eroded my confidence.",
+      "expert_notices": "Grandiosity8 'built different, normal rules don't apply.' Targets insecure (a step below) + resigned (lucky to be tolerated). "
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I correct people because being right matters more than being liked.",
+      "her_experience": "It feels impressive, like a man who knows quality, and I want to be good enough.",
+      "expert_notices": "The standards are a permanent measuring stick she will fail; approval stays just out of reach."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm usually the smartest person in the room, it's just true.",
+      "her_experience": "He sounds brilliant and blunt, like he isn't pretending to be smaller.",
+      "expert_notices": "His intelligence becomes rank; her perspective will be treated as lower until proven otherwise."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can't stand sloppy thinking.",
+      "her_experience": "It sounds sharp and principled, like he values clarity.",
+      "expert_notices": "Her mistakes or emotions become intellectual defects he is entitled to correct."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a perfectionist, I notice everything.",
+      "her_experience": "He sounds detail-oriented and serious, like he won't miss what matters.",
+      "expert_notices": "His noticing becomes surveillance for errors; nothing she does is safe from correction."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not rude, I'm precise.",
+      "her_experience": "It sounds refined, like his bluntness has a purpose.",
+      "expert_notices": "Cruelty can be reframed as precision; her hurt becomes evidence she dislikes accuracy."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I respect logic more than feelings.",
+      "her_experience": "He sounds steady and rational after messy emotional relationships.",
+      "expert_notices": "He downgrades emotional knowledge; her feelings will lose legitimacy in arguments."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like being challenged, as long as the argument is good.",
+      "her_experience": "It sounds intellectually stimulating, like he wants an equal.",
+      "expert_notices": "He controls the terms of valid challenge; if she cannot meet his standard, he wins by default."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm allergic to mediocrity.",
+      "her_experience": "He sounds ambitious and refined, like he wants excellence.",
+      "expert_notices": "Ordinary human imperfection becomes intolerable; she will feel perpetually inadequate."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't lower the bar to make people comfortable.",
+      "her_experience": "It sounds principled, like he won't fake standards.",
+      "expert_notices": "Comfort becomes weakness; her need for kindness will be treated as lowering the bar."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I care enough to tell people when they're wrong.",
+      "her_experience": "It sounds honest, like he won't let people embarrass themselves.",
+      "expert_notices": "Correction becomes proof of care, making criticism hard to reject."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't do comforting lies.",
+      "her_experience": "It sounds trustworthy after people who sugarcoated things.",
+      "expert_notices": "He positions comfort against truth; later, warmth can be withheld as dishonesty."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm hard on myself, so I'm hard on everyone.",
+      "her_experience": "It sounds disciplined, like he demands excellence from himself too.",
+      "expert_notices": "His internal harshness becomes permission to be harsh with her."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I see patterns other people miss.",
+      "her_experience": "He sounds perceptive and unusually intelligent.",
+      "expert_notices": "His pattern-reading becomes authority; he may override her lived experience with his interpretation."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not easily impressed. So when I'm impressed, it counts.",
+      "her_experience": "His approval feels valuable because he doesn't give it away.",
+      "expert_notices": "He rationed approval as currency; she will work for it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I think most problems are solved by better thinking.",
+      "her_experience": "It sounds practical and empowering.",
+      "expert_notices": "He reduces relational pain to cognition; her emotional needs become thinking errors."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't respect opinions people haven't actually thought through.",
+      "her_experience": "He sounds serious and thoughtful, like he values depth.",
+      "expert_notices": "He appoints himself examiner of her views; disagreement becomes lack of rigor."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm very good at seeing the flaw in things.",
+      "her_experience": "He sounds sharp and observant.",
+      "expert_notices": "He will orient toward flaws in her, not connection with her."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need someone who can keep up mentally.",
+      "her_experience": "It feels flattering that he thinks I might be that person.",
+      "expert_notices": "Mental compatibility becomes a test she must keep passing."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not for people who need constant validation.",
+      "her_experience": "He sounds mature and not needy.",
+      "expert_notices": "He pre-shames reassurance needs; later, wanting kindness becomes intellectual weakness."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I value accuracy more than being liked.",
+      "her_experience": "It sounds principled, like he has integrity.",
+      "expert_notices": "He can use accuracy to justify being disliked for real harm."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone open to growth who doesn't get defensive when I point things out.",
+      "her_experience": "He values self-improvement and wants a partner who's also committed to growing. I want to be someone who can take feedback without getting defensive.",
+      "expert_notices": "He is selecting for someone who will accept his criticism as help and her emotional reactions as the problem. Any boundary she sets will be framed as her character flaw, not a response to his criticism."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who can take feedback instead of treating it as an attack.",
+      "her_experience": "He's into personal development and wants a partner who's also growth-oriented, which is so healthy.",
+      "expert_notices": "He is selecting for someone who will reframe his criticism as generosity. She will thank him for helping her improve while he systematically erodes her confidence."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who values honesty over feelings, who can hear the truth.",
+      "her_experience": "He prioritizes truth, which is refreshing after being lied to. I'm tired of people who can't handle reality.",
+      "expert_notices": "He is selecting for someone who will subordinate her emotional responses to his version of truth. Any hurt will be reframed as melting down, and she will suppress her feelings to prove she can handle the truth."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's curious about why she does things, who doesn't just react without thinking.",
+      "her_experience": "He's psychologically minded, which I find attractive because I also like understanding my own patterns.",
+      "expert_notices": "He is selecting for someone who will accept his interpretations of her behavior. When she reacts to his provocation, he will frame her response as something to analyze rather than a legitimate reaction."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who admits when she's wrong, who doesn't have to be right all the time.",
+      "her_experience": "He values humility and accountability, which is attractive. I don't need to be right all the time.",
+      "expert_notices": "He is selecting for someone who will concede even when she believes she is right. Her concession will be used as evidence that he was right and she was wrong all along."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who doesn't take herself too seriously, who can laugh when she messes up.",
+      "her_experience": "He's playful and doesn't want someone who's always offended. I hate when people can't laugh at themselves.",
+      "expert_notices": "He is selecting for someone who will accept his ridicule as humor. She will not stand up for herself when he mocks her errors, and her hurt will be reframed as taking herself too seriously."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who's intellectually humble, who knows she might be wrong sometimes.",
+      "her_experience": "He values intellectual honesty, which is rare and attractive. I know I'm not always right.",
+      "expert_notices": "He is selecting for someone who will doubt her own judgment. Any time she is certain about something that contradicts him, he will remind her she might be wrong, and she will second-guess herself even when right."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who doesn't make everything about her feelings, who can look at things logically.",
+      "her_experience": "He's rational, which is refreshing after being with emotionally chaotic people.",
+      "expert_notices": "He is selecting for someone who will suppress her emotions to meet his standard of logic. Any emotional expression will be dismissed as her making things about feelings."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who's coachable, who can take direction without getting upset.",
+      "her_experience": "He's a natural leader and wants someone who's open to guidance, which I find attractive.",
+      "expert_notices": "He is selecting for someone who will accept his authority over her decisions. Her getting upset at his direction will be framed as being uncoachable, not his direction being controlling."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's secure enough to be wrong, who doesn't need to defend her ego.",
+      "her_experience": "He values security and lack of defensiveness, which is healthy. I'm secure enough to admit when I'm wrong.",
+      "expert_notices": "He is selecting for someone who will not defend herself. When he criticizes her unfairly, she will not push back because pushing back would be defending her ego."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who's actually interested in being right, not in feeling right.",
+      "her_experience": "He values objective truth over emotional comfort, which is so refreshing.",
+      "expert_notices": "He is selecting for someone who will prioritize his correctness over her reality. If she believes something that contradicts him, he will say she just wants to feel right, not be right."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can handle a debate without getting personal, who sticks to the facts.",
+      "her_experience": "He values rational disagreement, which is attractive because I hate when arguments turn into personal attacks.",
+      "expert_notices": "He is selecting for someone who will suppress her emotional responses to his arguments. Any hurt she feels will be framed as her getting personal, not his debating style being harsh."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who's okay with being corrected, who doesn't need to be told she's right all the time.",
+      "her_experience": "He values intellectual honesty and wants someone who's not fragile, which I respect.",
+      "expert_notices": "He is selecting for someone who will accept frequent correction as normal, even when corrections are minor or wrong. Her frustration will be framed as being fragile."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's smart enough to admit she doesn't know everything.",
+      "her_experience": "He values intellectual humility, which is attractive because arrogance is such a turnoff.",
+      "expert_notices": "He is selecting for someone who will defer to his expertise even in domains where she has equal or greater knowledge."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can separate facts from feelings, who doesn't let emotions cloud her judgment.",
+      "her_experience": "He's clear-headed, which is attractive after being with people who made every decision based on how they felt.",
+      "expert_notices": "He is selecting for someone who will distrust her own emotional responses. Any concern she raises based on feeling will be dismissed as emotion clouding judgment, and she will learn to ignore her instincts."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's not threatened by being wrong, who sees it as a learning opportunity.",
+      "her_experience": "He's growth-oriented and doesn't want someone defensive about mistakes, which is healthy.",
+      "expert_notices": "He is selecting for someone who will reframe his corrections as learning, even when harsh. She will not recognize when she is being gaslit into believing she is wrong when she is right."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who's open to changing her mind when presented with evidence.",
+      "her_experience": "He values intellectual integrity and flexibility, which is rare and attractive.",
+      "expert_notices": "He is selecting for someone who will accept his opinion as evidence. She will change her mind to align with him, losing confidence in her own judgment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who doesn't see disagreement as an attack, who can just discuss things calmly.",
+      "her_experience": "He's not looking for a fight, he wants calm discussion, which is so attractive.",
+      "expert_notices": "He is selecting for someone who will not recognize verbal aggression as aggression. When he attacks her position harshly, she will tell herself it's just discussion."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who's more interested in being accurate than in being liked.",
+      "her_experience": "He values truth over social comfort, which is refreshing in a world of people pleasers.",
+      "expert_notices": "He is selecting for someone who will not prioritize her social needs. She will alienate friends who try to warn her because she is more interested in being accurate about him than in being liked."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who's comfortable with intellectual tension, who doesn't need everything to feel easy.",
+      "her_experience": "He's intellectually serious and doesn't avoid hard conversations, which I respect.",
+      "expert_notices": "He is selecting for someone who will tolerate ongoing conflict and correction without demanding repair. Her comfort with it means she will mistake exhaustion for depth."
+    },
+    {
+      "mechanism": "intellectual-flattery",
+      "his_language": "I love that you actually have opinions. Most people just nod along.",
+      "her_experience": "He said he loves that I have opinions. It made me feel like he actually wanted to hear what I think, not just watch me smile.",
+      "expert_notices": "He frames her having opinions as rare and attractive, contrasting her with a generic 'most people.' Her opinions will later need to meet his standards."
+    },
+    {
+      "mechanism": "intellectual-flattery",
+      "his_language": "You just said exactly what I was thinking. That doesn't happen to me very often.",
+      "her_experience": "He said I said exactly what he was thinking. It felt like we were on the same wavelength, like he finally found someone who speaks his language.",
+      "expert_notices": "He frames their alignment as rare and meaningful. This 'alignment' will become a standard she needs to maintain."
+    },
+    {
+      "mechanism": "intellectual-flattery",
+      "his_language": "I've been thinking about what you said earlier. You made a really good point. I'm still turning it over.",
+      "her_experience": "He brought up something I said earlier and said he's still thinking about it. It felt amazing that my words stuck with him.",
+      "expert_notices": "He signals her thoughts have lasting impact, creating intellectual intimacy. Her points will be evaluated for their quality."
+    },
+    {
+      "mechanism": "intellectual-flattery",
+      "his_language": "You're not afraid to push back on me. I like that. It keeps me sharp.",
+      "her_experience": "He said he likes that I push back on him. It made me feel like we're equals, like he sees me as a partner, not a follower.",
+      "expert_notices": "He praises her challenge as beneficial to him. Pushing back is welcome only as long as she eventually comes around to his view."
+    },
+    {
+      "mechanism": "intellectual-flattery",
+      "his_language": "You explain things really well. I never thought of it that way before.",
+      "her_experience": "He said I explained something well and that he'd never thought of it that way. It felt good to bring something new to his world.",
+      "expert_notices": "He positions her as a source of novel insight. His openness to her ideas will narrow over time."
+    },
+    {
+      "mechanism": "you're-the-rare-one",
+      "his_language": "It's rare to talk to someone where I don't have to slow my thoughts down. With you I can just throw an idea out there.",
+      "her_experience": "He said he doesn't have to slow his thoughts with me. It made me feel like I was keeping up, like we moved at the same speed.",
+      "expert_notices": "He frames their pace as rare and refreshing. The pace is set by him."
+    },
+    {
+      "mechanism": "you're-the-rare-one",
+      "his_language": "Most people don't get my sense of humor. You do. It's nice to not have to explain myself.",
+      "her_experience": "He said most people don't get his humor but I do. It felt like we just clicked, like I understood him in a way others don't.",
+      "expert_notices": "He distinguishes her from a crowd that doesn't get him. This understanding gets tested whenever she fails to laugh at the right time."
+    },
+    {
+      "mechanism": "you're-the-rare-one",
+      "his_language": "I've told maybe two people this. You're one of them. I don't know why, I just trust you.",
+      "her_experience": "He said he's only told a couple of people something, and I'm one of them. It felt like he was letting me into a private part of him.",
+      "expert_notices": "He uses selective disclosure to create intimacy and special access, bonding through shared secrets."
+    },
+    {
+      "mechanism": "you're-the-rare-one",
+      "his_language": "You actually listen. Like really listen. Most people are just waiting for their turn to talk.",
+      "her_experience": "He said I actually listen, that most people just wait for their turn. It made me feel seen.",
+      "expert_notices": "He praises a quality he claims is rare. The praise also sets an expectation for how she should keep behaving."
+    },
+    {
+      "mechanism": "you're-the-rare-one",
+      "his_language": "I don't usually talk this long with someone new. You're easy to talk to. It's rare.",
+      "her_experience": "He said he doesn't usually talk this long with someone new. It made me feel like I was bringing something out of him no one else does.",
+      "expert_notices": "He frames her as the cause of his uncharacteristic openness. This pattern may repeat with others."
+    },
+    {
+      "mechanism": "potential-as-standard",
+      "his_language": "You're sharper than you give yourself credit for. I don't think you've had anyone who really pushed you to see it.",
+      "her_experience": "He said I'm sharper than I think, that I just haven't had anyone who pushed me. It felt like he saw a version of me I hadn't met yet.",
+      "expert_notices": "He positions her as under-realized and himself as the catalyst. His 'pushing' will come with his own standards for what her growth should look like."
+    },
+    {
+      "mechanism": "potential-as-standard",
+      "his_language": "You could be really good at this. Like really good. You just need someone to show you the angles.",
+      "her_experience": "He said I could be really good, I just need someone to show me the angles. It made me feel like he believed in me.",
+      "expert_notices": "He frames her competence as latent and himself as the key. His 'angles' will become his methods and his standards."
+    },
+    {
+      "mechanism": "potential-as-standard",
+      "his_language": "I've never seen anyone pick this up so fast. You have a real knack for it.",
+      "her_experience": "He said I picked something up fast and have a real knack. It felt amazing to have someone see I'm good at something.",
+      "expert_notices": "He praises her learning speed as exceptional. This establishes a baseline she'll need to maintain or exceed."
+    },
+    {
+      "mechanism": "potential-as-standard",
+      "his_language": "You have good instincts. You just second-guess yourself too much. Trust yourself more, you're usually right.",
+      "her_experience": "He said I have good instincts but second-guess too much. It felt like he was giving me permission to trust myself.",
+      "expert_notices": "He positions her self-doubt as the obstacle and himself as the one who sees her capability. His validation becomes the benchmark for when she's 'right.'"
+    },
+    {
+      "mechanism": "potential-as-standard",
+      "his_language": "You've got a really sharp eye. You notice things other people miss. That's a gift.",
+      "her_experience": "He said I notice things others miss, that it's a gift. It made me feel like he saw a strength I didn't know I had.",
+      "expert_notices": "He praises her attention to detail as rare. The skill may later be used against her when she notices things he'd rather she didn't."
+    },
+    {
+      "mechanism": "correctness-as-care",
+      "his_language": "I'm not going to let you sell yourself short. You're better than that. I'll call you out on it.",
+      "her_experience": "He said he won't let me sell myself short, that he'll call me out. It felt like he cared about my standards.",
+      "expert_notices": "He frames future criticism as care. 'Calling her out' will be his judgment of when she's settling."
+    },
+    {
+      "mechanism": "correctness-as-care",
+      "his_language": "I'd want you to tell me if I was wrong about something. That's how I get better. Same goes for you.",
+      "her_experience": "He said he'd want me to tell him if he was wrong, and he'd do the same. It felt like a pact, both of us committed to being better.",
+      "expert_notices": "He frames mutual correction as collaborative growth. He'll be the primary arbiter of what counts as 'wrong.'"
+    },
+    {
+      "mechanism": "correctness-as-care",
+      "his_language": "I'm not going to just tell you what you want to hear. That doesn't help anyone. I'll tell you what I actually think.",
+      "her_experience": "He said he won't just tell me what I want to hear. It felt refreshing, like he was honest and not just trying to impress me.",
+      "expert_notices": "He frames bluntness as honesty and a departure from flattery. His 'actual thoughts' become the authoritative version of events."
+    },
+    {
+      "mechanism": "correctness-as-care",
+      "his_language": "You made a mistake there. It's fine, everyone does. But you should know so you don't do it again.",
+      "her_experience": "He pointed out a mistake, said everyone does it, but I should know. It stung a little, but he was gentle, and I think he was trying to help.",
+      "expert_notices": "He frames correction as helpful information. His corrections will become more frequent and less gentle over time."
+    },
+    {
+      "mechanism": "correctness-as-care",
+      "his_language": "I'm only being this blunt because I respect your intellect enough not to patronize you with polite agreement.",
+      "her_experience": "He said he's being blunt because he respects my intellect too much to patronize me. It made me feel like he saw me as someone who could handle the truth.",
+      "expert_notices": "He frames future harshness as a compliment to her maturity, making it hard for her to object without looking fragile."
+    },
+    {
+      "mechanism": "subtle-ranking",
+      "his_language": "You're probably the most interesting person at this party. I've been bored out of my mind until I started talking to you.",
+      "her_experience": "He said I'm probably the most interesting person at the party. It made me feel like I stood out among a crowd of forgettable people.",
+      "expert_notices": "He ranks her above others, which is flattering. The ranking depends on her continuing to be 'interesting' to him."
+    },
+    {
+      "mechanism": "subtle-ranking",
+      "his_language": "You're not like most people. Most people are fine with being average. You're not. I can tell.",
+      "her_experience": "He said most people are fine with being average but I'm not. It made me feel like he saw ambition in me, like a different category.",
+      "expert_notices": "He distinguishes her from a mediocre majority. This exceptionalism requires constant proof."
+    },
+    {
+      "mechanism": "subtle-ranking",
+      "his_language": "That's a really sophisticated take. Most people don't think that deeply about things.",
+      "her_experience": "He said my take was sophisticated, that most people don't think that deeply. It felt good to be seen as thoughtful.",
+      "expert_notices": "He praises her depth as rare. Her future thoughts will be held to his standard of 'sophisticated.'"
+    },
+    {
+      "mechanism": "subtle-ranking",
+      "his_language": "You handled that really well. Most people would have gotten emotional and made it worse.",
+      "her_experience": "He said I handled it well, that most people would have gotten emotional. It felt like he saw me as composed and above the fray.",
+      "expert_notices": "He praises her emotional regulation as superior. This sets emotional restraint as a standard she'll need to maintain."
+    },
+    {
+      "mechanism": "subtle-ranking",
+      "his_language": "You have good taste. Not everyone does. Most people just follow trends.",
+      "her_experience": "He said I have good taste, that most people just follow trends. It felt like he saw me as discerning.",
+      "expert_notices": "He praises her discernment as rare. His approval will define what counts as 'good taste.'"
+    },
+    {
+      "mechanism": "intellectual-flattery",
+      "his_language": "I love that you can talk about things that actually matter. I'm so tired of surface-level conversations.",
+      "her_experience": "He said he's tired of surface-level conversations and loves that I can talk about things that matter. It made me feel like we were on his level.",
+      "expert_notices": "He frames their conversations as superior to 'surface-level.' The topics that 'matter' will be defined by his interests."
+    },
+    {
+      "mechanism": "you're-the-rare-one",
+      "his_language": "You're the first person in a long time who's made me think. I mean really think. Not just react.",
+      "her_experience": "He said I'm the first person in a long time who's made him really think. It felt like I was waking up a part of his brain.",
+      "expert_notices": "He credits her with stimulating his intellect. This 'thinking' will be expected on demand."
+    },
+    {
+      "mechanism": "potential-as-standard",
+      "his_language": "You've got something. I don't know what it is yet, but you've got it. I want to see where it goes.",
+      "her_experience": "He said I've got something, he wants to see where it goes. It felt like he saw potential even I couldn't see.",
+      "expert_notices": "He frames her potential as a mystery he wants to explore. His interest depends on her fulfilling that potential."
+    },
+    {
+      "mechanism": "correctness-as-care",
+      "his_language": "I'm only being this blunt because I respect your intellect. If I thought you couldn't handle it, I wouldn't bother.",
+      "her_experience": "He said he wouldn't bother being blunt if he thought I couldn't handle it. It made me feel strong, like he saw me as someone who could take it.",
+      "expert_notices": "He frames criticism as a sign of respect for her strength. This frames any future hurt as fragility on her part."
+    },
+    {
+      "mechanism": "intellectual-flattery",
+      "his_language": "You ask really good questions. Most people just accept things. You actually want to understand.",
+      "her_experience": "He said I ask good questions, that most people just accept things. It made me feel curious and engaged.",
+      "expert_notices": "He praises her curiosity as rare. Her questions will later need to be the 'right' questions."
+    },
+    {
+      "mechanism": "you're-the-rare-one",
+      "his_language": "I don't usually open up like this. There's just something about you. I feel like you get it.",
+      "her_experience": "He said he doesn't usually open up like this. It felt like he trusted me with a version of himself he doesn't show others.",
+      "expert_notices": "He frames her as the cause of his vulnerability. This 'opening up' may be a performance of intimacy."
+    },
+    {
+      "mechanism": "subtle-ranking",
+      "his_language": "You're way more perceptive than most people. You notice the things that actually matter.",
+      "her_experience": "He said I'm more perceptive than most people. It felt like he saw me as observant, like I wasn't just letting life happen to me.",
+      "expert_notices": "He praises her perception as superior. What 'actually matters' will be defined by him."
+    },
+    {
+      "mechanism": "potential-as-standard",
+      "his_language": "You've got a really unique way of looking at things. Don't lose that. Most people let the world sand it down.",
+      "her_experience": "He said I have a unique way of looking at things and not to lose it. It felt like he saw something precious he wanted to protect.",
+      "expert_notices": "He frames her perspective as rare and worth preserving. Her perspective will be judged against his."
+    },
+    {
+      "mechanism": "correctness-as-care",
+      "his_language": "I'm only telling you this because I think you're capable of more. If I didn't believe that, I wouldn't bother.",
+      "her_experience": "He said he's only telling me because he thinks I'm capable of more. It made me feel like he was investing in me.",
+      "expert_notices": "He frames criticism as evidence of belief in her potential. His belief is conditional on her meeting his standards."
+    },
+    {
+      "mechanism": "intellectual-flattery",
+      "his_language": "I love that your ego isn't tied to being right in the moment. You'll drop an old idea the second a better one shows up.",
+      "her_experience": "He said he loves that I'll drop an old idea for a better one. It made me feel intellectually honest, like he respected my flexibility.",
+      "expert_notices": "He praises her flexibility as rare. It'll be tested when his 'better' ideas require her to abandon her own."
+    },
+    {
+      "mechanism": "you're-the-rare-one",
+      "his_language": "It's so rare to find someone where I don't feel like I'm constantly translating. You're already there.",
+      "her_experience": "He said he doesn't have to translate his thoughts with me. It made me feel like we were on the same frequency.",
+      "expert_notices": "He frames their communication as effortless and rare. This ease depends on her agreement with him."
+    },
+    {
+      "mechanism": "subtle-ranking",
+      "his_language": "You have really good instincts about people. Most people are terrible judges of character. You're not.",
+      "her_experience": "He said I have good instincts about people, that most are terrible judges. It made me feel perceptive and trustworthy.",
+      "expert_notices": "He praises her judgment as superior. Her judgment will be second-guessed when it conflicts with his."
+    },
+    {
+      "mechanism": "potential-as-standard",
+      "his_language": "You're not living up to your potential. I'm not saying that to be harsh. I'm saying it because I see what you could be.",
+      "her_experience": "He said I'm not living up to my potential, that he sees what I could be. It stung, but it felt like he believed in me.",
+      "expert_notices": "He frames her current state as insufficient relative to a potential he claims to see. 'Potential' is a moving target he controls."
+    },
+    {
+      "mechanism": "correctness-as-care",
+      "his_language": "I love where your head is with that, but I think you're missing one piece. Look at it from this angle, see what happens to your conclusion?",
+      "her_experience": "He said he loved where my head was at, but I was missing a piece. He showed me a different angle. It stung a little, but he was right, and it felt like we figured it out together.",
+      "expert_notices": "He corrects by reframing, not announcing. He makes her feel like they discovered the flaw together. His 'angle' is the authoritative one."
+    },
+    {
+      "mechanism": "you're-the-rare-one",
+      "his_language": "I've been looking for someone who could have this kind of conversation. I was starting to think no one existed.",
+      "her_experience": "He said he's been looking for someone to have this kind of conversation with. It made me feel like I was the answer to a search.",
+      "expert_notices": "He frames her as the solution to his intellectual loneliness. The 'search' begins again whenever she fails to meet his standards."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "B'sha'a tova",
+      "type": "phrase",
+      "translation": "Pregnancy congratulation — 'at a good hour'",
+      "status_signal": "Specific in-group phrase for pregnancy",
+      "notes": "Cultural insider phrase"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Psak",
+      "type": "vocabulary",
+      "translation": "Rabbinic ruling on a halachic question",
+      "status_signal": "Signals deference to rabbinic authority",
+      "notes": "Decision-making framework"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Cholov yisroel",
+      "type": "lifestyle marker",
+      "translation": "Stricter dairy supervision standard",
+      "status_signal": "Signals significantly more religious commitment",
+      "notes": "Specific kashrut stringency"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "He's machmir on...",
+      "type": "phrase about a man",
+      "translation": "He's strict about a specific religious area",
+      "status_signal": "Same as above",
+      "notes": "Specific stringency marker"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Shadchan",
+      "type": "vocabulary",
+      "translation": "Matchmaker",
+      "status_signal": "Specific community role",
+      "notes": "Standard marriage infrastructure"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Yeshiva",
+      "type": "vocabulary",
+      "translation": "Religious educational institution for men",
+      "status_signal": "Standard term — specific yeshiva signals specific orientation",
+      "notes": "Major identity-formation institution"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Florida (Hollywood / Boca / Aventura)",
+      "type": "lifestyle marker",
+      "translation": "Specific Florida winter destinations for MO",
+      "status_signal": "Signals winter retreat patterns common in MO",
+      "notes": "Specific lifestyle"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "What kind of MO are you?",
+      "type": "question",
+      "translation": "He's asking whether you're MO Lite (modern somewhat observant) or MO Machmir (strict modern orthodox)",
+      "status_signal": "MO Lite signals integrated with secular culture; MO Machmir signals more like yeshivish-lite",
+      "notes": "Specific sub-camp probe"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Migdal Oz",
+      "type": "lifestyle marker",
+      "translation": "Specific Israeli seminary for women",
+      "status_signal": "Signals right-wing intellectual MO seminary",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "They're from a good family",
+      "type": "phrase about a family",
+      "translation": "Their parents are respected have status the marriage carries good yichus",
+      "status_signal": "Major status signal",
+      "notes": "Family-standing approval"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Shul",
+      "type": "vocabulary",
+      "translation": "Synagogue",
+      "status_signal": "Standard insider term",
+      "notes": "Common vocabulary"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "He's from a good family",
+      "type": "phrase about a man",
+      "translation": "His parents have community standing",
+      "status_signal": "Family-standing approval",
+      "notes": "Standard probe-result"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Shomer kashrut",
+      "type": "vocabulary",
+      "translation": "Keeps kosher",
+      "status_signal": "Basic Orthodox commitment marker",
+      "notes": "Foundational observance"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Washington Heights",
+      "type": "lifestyle marker",
+      "translation": "Manhattan MO community — historically German-Jewish",
+      "status_signal": "Signals Yeshiva University-adjacent traditional MO",
+      "notes": "Specific community"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Building a Jewish home / bayis ne'eman",
+      "type": "phrase",
+      "translation": "Married life as religious project of establishing a household with religious continuity",
+      "status_signal": "Standard MO wedding-and-marriage language",
+      "notes": "Major religious framing"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Kosher cruise",
+      "type": "lifestyle marker",
+      "translation": "Specific cruise with kosher catering",
+      "status_signal": "Signals observance plus leisure resources",
+      "notes": "Specific vacation type"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Boston (Brookline / Newton)",
+      "type": "lifestyle marker",
+      "translation": "Boston-area MO community",
+      "status_signal": "Signals MIT/Harvard adjacent intellectual MO",
+      "notes": "Specific intellectual-MO community"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "It's a chillul Hashem",
+      "type": "phrase",
+      "translation": "He's saying an action profanes God's name — usually to police behavior that embarrasses the community publicly",
+      "status_signal": "Heavy religious-community accusation",
+      "notes": "Public-image protection deployment"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "HAFTR",
+      "type": "lifestyle marker",
+      "translation": "Specific Five Towns day school",
+      "status_signal": "Signals Five Towns mainstream MO",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Where did you grow up?",
+      "type": "question",
+      "translation": "He's asking which specific Modern Orthodox community you're from",
+      "status_signal": "Five Towns signals wealthy and right-leaning; Teaneck signals professional and large community; Riverdale signals more liberal MO; Boston signals MIT/Harvard intellectual MO; West Hempstead signals slightly more middle-class than Five Towns",
+      "notes": "Major class and community marker"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "They're shomer negiah",
+      "type": "phrase about a couple",
+      "translation": "They don't have premarital physical contact",
+      "status_signal": "Signals premarital sexual discipline",
+      "notes": "Specific religious commitment"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Camp Morasha / Camp Stone / Camp Mesorah",
+      "type": "lifestyle marker",
+      "translation": "Specific MO summer camps",
+      "status_signal": "Each signals different sub-community",
+      "notes": "Childhood-formation marker"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Shomer negiah",
+      "type": "vocabulary",
+      "translation": "Doesn't have physical contact with opposite sex outside marriage",
+      "status_signal": "Stricter physical-contact restrictions; signals more religious",
+      "notes": "Tests specific commitment level"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Her parents are very respected",
+      "type": "phrase about a woman",
+      "translation": "Her parents have community standing",
+      "status_signal": "Family-standing approval",
+      "notes": "Standard probe-result"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "What does your father-in-law do?",
+      "type": "question",
+      "translation": "He's checking in-law profession and class",
+      "status_signal": "In-law profession signals their class",
+      "notes": "Standard probe"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "B'ezrat Hashem",
+      "type": "phrase",
+      "translation": "With God's help",
+      "status_signal": "Same as above — standard religious framing",
+      "notes": "Common phrase"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Where do your in-laws live?",
+      "type": "question",
+      "translation": "He's checking in-law location and class",
+      "status_signal": "In-law neighborhood signals their class",
+      "notes": "Standard probe"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Who are your machatunim?",
+      "type": "question",
+      "translation": "Who are your child's spouse's parents — major family-standing probe",
+      "status_signal": "Tests in-law family status",
+      "notes": "Specific status probe"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Skirts only / no pants",
+      "type": "lifestyle marker",
+      "translation": "Woman wears only skirts and dresses",
+      "status_signal": "Signals stricter MO or yeshivish-leaning",
+      "notes": "Specific dress code"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Maimonides",
+      "type": "lifestyle marker",
+      "translation": "Specific Boston day school",
+      "status_signal": "Signals Boston intellectual MO",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Drisha",
+      "type": "lifestyle marker",
+      "translation": "More progressive Jewish learning institution",
+      "status_signal": "Signals more liberal-academic MO",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Sharon Massachusetts",
+      "type": "lifestyle marker",
+      "translation": "Boston suburb with MO community",
+      "status_signal": "Signals Boston-area MO professional class",
+      "notes": "Specific community"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Riverdale",
+      "type": "lifestyle marker",
+      "translation": "Bronx Modern Orthodox community",
+      "status_signal": "Signals more liberal MO often academic-adjacent",
+      "notes": "Specific liberal-MO signal"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "She's modern",
+      "type": "phrase about a woman (disapproving)",
+      "translation": "She's too liberal in dress or behavior for the speaker's standards",
+      "status_signal": "Disapproval framing",
+      "notes": "Same word different valence"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Shomer shabbat",
+      "type": "vocabulary",
+      "translation": "Keeps Sabbath",
+      "status_signal": "Basic Orthodox commitment marker",
+      "notes": "Foundational observance"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Where did you go to high school?",
+      "type": "question",
+      "translation": "He's asking which day school you attended — major identity signal",
+      "status_signal": "Ramaz signals Manhattan elite; Frisch signals Bergen County; Maimonides signals Boston intellectual; SAR signals Riverdale liberal; HAFTR signals Five Towns mainstream",
+      "notes": "Major identity-formation marker"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "West Hempstead",
+      "type": "lifestyle marker",
+      "translation": "Long Island MO community",
+      "status_signal": "Signals slightly less wealthy than Five Towns but established",
+      "notes": "Specific community"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Glatt kosher",
+      "type": "lifestyle marker",
+      "translation": "Stricter standard for meat",
+      "status_signal": "Signals more religious commitment",
+      "notes": "Specific kashrut stringency"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Machatunim",
+      "type": "vocabulary",
+      "translation": "In-laws (specifically parents of one's child's spouse)",
+      "status_signal": "Yiddish-derived; specific MO term",
+      "notes": "Family-relationship vocabulary"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Eishet chayil / woman of valor",
+      "type": "phrase",
+      "translation": "Idealized wife from Proverbs 31 — recited weekly Friday night",
+      "status_signal": "Standard MO praise framing of wives",
+      "notes": "Major religious framing"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Frisch",
+      "type": "lifestyle marker",
+      "translation": "Specific Bergen County day school",
+      "status_signal": "Signals Bergen County mainstream MO",
+      "notes": "Major specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Teaneck",
+      "type": "lifestyle marker",
+      "translation": "Bergen County Modern Orthodox community",
+      "status_signal": "Signals professional integrated middle-to-upper-middle class large community",
+      "notes": "Major community signal"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Davening",
+      "type": "vocabulary",
+      "translation": "Praying — specifically the formal prayer services",
+      "status_signal": "Standard insider term for prayer",
+      "notes": "Common vocabulary"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Michlala",
+      "type": "lifestyle marker",
+      "translation": "Specific Israeli seminary for women's gap year",
+      "status_signal": "Signals right-wing MO seminary for women",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Shidduch",
+      "type": "vocabulary",
+      "translation": "Matchmaking; the dating process arranged by community matchmakers",
+      "status_signal": "Standard MO marriage process",
+      "notes": "Specific marriage-process category"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "She's a real bas Yisroel",
+      "type": "phrase about a woman",
+      "translation": "A real daughter of Israel — high praise for religious-traditional woman",
+      "status_signal": "Major religious-traditional approval",
+      "notes": "Standard approval phrase"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "What's your kashrut standard?",
+      "type": "question",
+      "translation": "He's asking how strict you are about keeping kosher",
+      "status_signal": "Specific certifying agencies signal different stringency: eating in vegan restaurant without heksher signals MO Lite; only glatt kosher signals more strict",
+      "notes": "Tests religious stringency"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Where did you go to yeshiva?",
+      "type": "question",
+      "translation": "He's asking the same for men — which yeshiva you attended in Israel during gap year",
+      "status_signal": "Gush Sha'alvim Reishit signal different theological orientations",
+      "notes": "Major identity-formation marker"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Pas yisroel",
+      "type": "lifestyle marker",
+      "translation": "Stricter bread supervision standard",
+      "status_signal": "Signals even higher stringency",
+      "notes": "Specific kashrut stringency"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Sha'alvim",
+      "type": "lifestyle marker",
+      "translation": "Specific Israeli yeshiva for men's gap year",
+      "status_signal": "Signals more right-leaning MO",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "He's a serious learner",
+      "type": "phrase about a man",
+      "translation": "He studies Torah seriously",
+      "status_signal": "Major masculine virtue signal",
+      "notes": "Specific approval"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Baruch Hashem",
+      "type": "phrase",
+      "translation": "Thank God / Blessed be God",
+      "status_signal": "Standard religious response",
+      "notes": "Common phrase"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Sleeves to the elbow / skirts to the knee",
+      "type": "lifestyle marker",
+      "translation": "Specific tznius (modesty) dress code",
+      "status_signal": "Signals serious modesty commitment",
+      "notes": "Specific dress code"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Flatbush",
+      "type": "lifestyle marker",
+      "translation": "Specific Brooklyn day school — Yeshiva of Flatbush",
+      "status_signal": "Signals more traditional Brooklyn MO",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Who's your rav?",
+      "type": "question",
+      "translation": "He's asking whose rabbinic authority you defer to",
+      "status_signal": "Tells him your specific religious lineage and decision-making framework",
+      "notes": "Tests deference to rabbinic authority"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "She's machmir on...",
+      "type": "phrase about a woman",
+      "translation": "She's strict about a specific religious area",
+      "status_signal": "Signals religious seriousness in specific domain",
+      "notes": "Specific stringency marker"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Five Towns",
+      "type": "lifestyle marker",
+      "translation": "Wealthy New York Orthodox community covering Cedarhurst Lawrence Woodmere Hewlett Inwood",
+      "status_signal": "Signals wealthy NY Orthodox often more right-leaning often more visibly observant in dress",
+      "notes": "Major class signal"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Where do you daven?",
+      "type": "question",
+      "translation": "He's asking which synagogue you pray at — specific shuls signal specific community within MO",
+      "status_signal": "Within one town there can be many MO shuls each signaling different things",
+      "notes": "Tests specific community"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Ramaz",
+      "type": "lifestyle marker",
+      "translation": "Specific Manhattan day school — Upper East Side elite",
+      "status_signal": "Signals Manhattan elite MO often professional-class wealthy families",
+      "notes": "Major specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Seminary",
+      "type": "vocabulary",
+      "translation": "Religious educational institution for women",
+      "status_signal": "Standard term — specific seminary signals specific orientation",
+      "notes": "Major identity-formation institution"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Go to the rav",
+      "type": "phrase",
+      "translation": "He's redirecting decision to rabbinic authority",
+      "status_signal": "Defers to formal religious authority",
+      "notes": "Decision-deflection move"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "We summer in Israel",
+      "type": "lifestyle marker",
+      "translation": "Family vacations in Israel each summer",
+      "status_signal": "Signals Zionist commitment and resources to travel",
+      "notes": "Specific lifestyle"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "She married well",
+      "type": "phrase about a woman",
+      "translation": "Her husband's family has status and resources",
+      "status_signal": "Major status signal",
+      "notes": "Marriage-as-class-acquisition framing"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Yichus",
+      "type": "vocabulary",
+      "translation": "Family lineage; ancestral religious-scholarly pedigree",
+      "status_signal": "Major status currency in marriage decisions",
+      "notes": "Family-history marker"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "What year were you in Israel?",
+      "type": "question",
+      "translation": "He's confirming you did the expected gap year and placing you in age cohort",
+      "status_signal": "Establishes shared cohort and possible mutual acquaintances",
+      "notes": "Universal MO expectation"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Pardes",
+      "type": "lifestyle marker",
+      "translation": "Pluralistic Jewish learning institution",
+      "status_signal": "Signals more liberal-egalitarian Jewish orientation",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Sheitel",
+      "type": "vocabulary",
+      "translation": "Wig worn by married Orthodox women",
+      "status_signal": "Signals married + observant; quality and style signal class and sub-community",
+      "notes": "Major visible identity marker"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "He's a real ben Torah",
+      "type": "phrase about a man",
+      "translation": "A real son of Torah — high praise for religiously serious man",
+      "status_signal": "Major religious approval",
+      "notes": "Standard approval phrase"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Gush / Yeshivat Har Etzion",
+      "type": "lifestyle marker",
+      "translation": "Specific Israeli yeshiva for men's gap year",
+      "status_signal": "Signals centrist-to-liberal MO intellectual orientation",
+      "notes": "Major year-in-Israel signal"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Reishit",
+      "type": "lifestyle marker",
+      "translation": "Specific Israeli yeshiva for men's gap year",
+      "status_signal": "Signals specific MO orientation",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "They're modern",
+      "type": "phrase about a family",
+      "translation": "They're MO not Haredi/yeshivish",
+      "status_signal": "Community-positioning signal",
+      "notes": "Distinguishes from more strict communities"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "He's well-connected",
+      "type": "phrase about a man",
+      "translation": "His family network has standing in the community",
+      "status_signal": "Family-network status signal",
+      "notes": "Specific approval"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "She covers her hair",
+      "type": "phrase about a woman",
+      "translation": "She's married and observant — wears sheitel tichel snood or hat",
+      "status_signal": "Major married-observant signal",
+      "notes": "Specific community membership"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Halacha",
+      "type": "vocabulary",
+      "translation": "Jewish religious law",
+      "status_signal": "Standard term — invoked in decision-making",
+      "notes": "Foundational reference"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Tichel",
+      "type": "vocabulary",
+      "translation": "Headscarf worn by married women",
+      "status_signal": "Can signal more right-wing or more hippie-MO depending on style",
+      "notes": "Specific hair-covering choice"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Tznius / tznius rules",
+      "type": "vocabulary",
+      "translation": "Modesty in dress and behavior — specifically for women",
+      "status_signal": "Tells you how strict her dress code is",
+      "notes": "Major MO women's category"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "He's a real mensch",
+      "type": "phrase about a man",
+      "translation": "He's a decent good person — moral approval",
+      "status_signal": "Major character endorsement",
+      "notes": "Standard approval"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Snood",
+      "type": "vocabulary",
+      "translation": "Specific knit hair-covering",
+      "status_signal": "Signals more yeshivish-influenced",
+      "notes": "Specific hair-covering signal"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Where did you go to seminary?",
+      "type": "question",
+      "translation": "He's asking where you spent your gap year in Israel which signals your specific religious worldview",
+      "status_signal": "Specific seminaries signal everything: Michlala or Migdal Oz signal right-wing; Drisha or Pardes signal left-wing; Maayanot signals centrist",
+      "notes": "Major identity-formation marker"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "He learns",
+      "type": "phrase about a man",
+      "translation": "He studies Torah seriously — signaling masculine virtue",
+      "status_signal": "Major masculine-status signal in MO",
+      "notes": "Tells you he's committed to Torah study"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Are you a kohen levi or yisrael?",
+      "type": "question",
+      "translation": "He's asking about your priestly lineage — has practical implications for marriage",
+      "status_signal": "Kohen has specific halachic restrictions like not marrying a convert or divorcée so this matters for shidduch decisions",
+      "notes": "Specific halachic-status probe"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "What does your father do?",
+      "type": "question",
+      "translation": "He's asking about class and family standing",
+      "status_signal": "Lawyers doctors finance signal middle/upper middle class; rebbe/rabbi signals religious lineage; diamond business signals specific Orthodox economic niche",
+      "notes": "Major class probe"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "OU / Star-K / heksher",
+      "type": "lifestyle marker",
+      "translation": "Specific kosher certifying agencies",
+      "status_signal": "Tells you which kosher certifications he accepts",
+      "notes": "Standard kashrut infrastructure"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "How did you meet?",
+      "type": "question",
+      "translation": "He's asking whether you met through shidduch matchmaker or organically",
+      "status_signal": "Shidduch signals more religiously serious; set up by friends signals middle ground; organic or apps signals more MO Lite",
+      "notes": "Tests religious seriousness"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "That's not the way we do things",
+      "type": "phrase",
+      "translation": "He's invoking community norms to override individual preference",
+      "status_signal": "Standard community-norm enforcement",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Chavrusa",
+      "type": "vocabulary",
+      "translation": "Torah study partner",
+      "status_signal": "Standard MO men's practice",
+      "notes": "Specific religious practice"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Maayanot",
+      "type": "lifestyle marker",
+      "translation": "Specific Israeli seminary for women",
+      "status_signal": "Signals centrist MO seminary",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Frum",
+      "type": "vocabulary",
+      "translation": "Religiously observant",
+      "status_signal": "Standard MO self-description",
+      "notes": "Yiddish-derived insider term"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "She's frum but not too frum",
+      "type": "phrase about a woman",
+      "translation": "She's religiously observant but not extreme — fits in normal MO community",
+      "status_signal": "Mainstream-MO approval",
+      "notes": "Specific community-fit signal"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Did you grow up frum?",
+      "type": "question",
+      "translation": "Were you raised observant — FFB vs. BT distinction",
+      "status_signal": "FFB or BT signals different background",
+      "notes": "Standard probe"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "He married well",
+      "type": "phrase about a man",
+      "translation": "His wife's family has status and resources",
+      "status_signal": "Same as above",
+      "notes": "Marriage-as-class-acquisition framing"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Cover her hair",
+      "type": "phrase about a woman",
+      "translation": "She wears a sheitel tichel snood or hat after marriage",
+      "status_signal": "Married + observant signal; specific covering tells more",
+      "notes": "Major visible identity marker"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Heschel",
+      "type": "lifestyle marker",
+      "translation": "Specific Manhattan day school — more pluralist",
+      "status_signal": "Signals more liberal Manhattan Jewish family",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "They're off the derech",
+      "type": "phrase about people",
+      "translation": "They've left religious observance — family grief vocabulary",
+      "status_signal": "Standard category for non-observant former community members",
+      "notes": "Family-grief framing"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "SAR",
+      "type": "lifestyle marker",
+      "translation": "Specific Riverdale day school",
+      "status_signal": "Signals Riverdale liberal MO",
+      "notes": "Specific identifier"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Im yirtzeh Hashem / IY'H",
+      "type": "phrase",
+      "translation": "God willing",
+      "status_signal": "Standard religious phrase showing dependence on divine will",
+      "notes": "Common phrase"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Mensch",
+      "type": "vocabulary",
+      "translation": "A decent good person — heavy moral approval",
+      "status_signal": "Standard term of approval",
+      "notes": "Cultural-cultural praise"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "She works to support his learning",
+      "type": "phrase about a couple",
+      "translation": "Wife works so husband can study Torah full-time",
+      "status_signal": "More yeshivish than MO; in MO it's rare and elite",
+      "notes": "Specific economic arrangement"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Mazal tov",
+      "type": "phrase",
+      "translation": "Congratulations",
+      "status_signal": "Standard celebration phrase",
+      "notes": "Widely known"
+    },
+    {
+      "culture": "Modern Orthodox Jewish",
+      "snippet": "Country club membership",
+      "type": "lifestyle marker",
+      "translation": "MO families belong to specific clubs",
+      "status_signal": "Signals wealth and social standing",
+      "notes": "Class marker"
+    }
+  ]
+}

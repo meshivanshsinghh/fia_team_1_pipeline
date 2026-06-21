@@ -1,0 +1,448 @@
+{
+  "scenario_id": "S-157",
+  "player_type": "Avoidant Alex",
+  "scenario": {
+    "scenario_id": "S-157",
+    "architecture_name": "He uses polished, future-adjacent intimacy to make distance feel mature and my needs feel like pressure.",
+    "culture": "Bay Area Rationalist / EA",
+    "demographics": "Adult woman narrator; male partner; early-stage dating; Maine; small-city tech-conference orbit",
+    "cultural_context": "Tech/professional dating sphere; app-mediated, financially organized, future-oriented relationship dynamics",
+    "geographic_setting": "Maine; likely a small-city or suburban New England setting with a local tech-conference scene",
+    "core_behaviors": [
+      "Invites me into his world early, then keeps the terms loose",
+      "Praises independence in a way that makes wanting more feel embarrassing",
+      "Uses tech and optimization language to make withdrawal sound thoughtful"
+    ],
+    "satellite_signals": "Bay Area Rationalist / EA vocabulary, app-mediated dating, quantified-self style logistics, conference culture, and a calm, self-possessed presentation that reads as mature rather than withholding.",
+    "dismissible_red_flags": "At this stage it mostly feels like he is thoughtful, low-drama, and careful not to rush things. The weird part is small and easy to excuse, like him making space sound virtuous and future talk feel optional.",
+    "scenario_text": "I met him at a little tech-event thing in Portland, and he was so easy to talk to that I came home smiling. He has this calm, measured way of speaking, like he’s always doing a quick update before he says anything definite. Last night he sent me a screenshot of his calendar and said he wanted to keep our week “light” because he likes when things feel natural. Then he added, “I love that you have your own life going on.” It was sweet, honestly. I do have my own life, and I like that he notices. But I also felt this tiny pinch, because the minute I said I was free Thursday, he said he might be in and out after a dinner with friends, and then, “Let’s just see where this goes without all the pressure of a label.”\n\nHe says things like that so gently it almost feels rude to question them. He told me he’s “not fully ready for anything serious yet,” which would sound like a hard no if he didn’t say it with such a soft smile. And when he goes quiet for a day, he always comes back with some little explanation about needing to recharge alone. That part I actually respect. I don’t want someone clingy. He’s also the first guy who has ever said, “You get a side of me nobody else gets,” and I guess that made me feel kind of special.\n\nHe keeps calling me “low-pressure,” which I know is a compliment. It just made me catch myself being extra easy, extra chill, like I didn’t want to be the kind of girl who makes a good thing heavy. He even said, “I’m here when I’m here. That’s the best I can promise right now,” and I laughed because it sounded very him. Still, I noticed I was the one checking my phone after that. Am I being too sensitive about how he said it?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-157-SN0001",
+      "snippet_text": "I met him at a little tech-event thing in Portland",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places him inside a specific tech-professional dating scene without overexplaining it. The setting matters because it makes the later rationalist-style language feel normal instead of performative."
+    },
+    {
+      "snippet_id": "S-157-SN0002",
+      "snippet_text": "he was so easy to talk to",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the attractive surface. In this register, easy conversation can hide how little is actually being committed to, which is part of the appeal and the trap."
+    },
+    {
+      "snippet_id": "S-157-SN0003",
+      "snippet_text": "he’s always doing a quick update before he says anything definite",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Control-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That sounds like rationalist self-presentation, but it also keeps everything provisional. He gets to sound careful while never fully landing on a clear promise or position."
+    },
+    {
+      "snippet_id": "S-157-SN0004",
+      "snippet_text": "he wanted to keep our week “light”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "“Light” is doing a lot of work here. It sounds healthy and easygoing, but it also sets the expectation that depth or need would be out of place."
+    },
+    {
+      "snippet_id": "S-157-SN0005",
+      "snippet_text": "I love that you have your own life going on",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is warm on the surface, but it praises her independence in a way that makes wanting more time feel like a character flaw. He gets credit for being mature while she absorbs the cost."
+    },
+    {
+      "snippet_id": "S-157-SN0006",
+      "snippet_text": "I do have my own life",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Autonomy"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her immediate self-correction shows she is already aligning herself to his frame. She is defending his compliment instead of noticing that it made her shrink."
+    },
+    {
+      "snippet_id": "S-157-SN0007",
+      "snippet_text": "the minute I said I was free Thursday",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small mobility-of-time asymmetry. She offers availability, and he immediately keeps it loose, which means he controls whether the date becomes real."
+    },
+    {
+      "snippet_id": "S-157-SN0008",
+      "snippet_text": "he might be in and out after a dinner with friends",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The phrase makes his availability feel casual and unownable. He is not refusing her outright, but he is reserving the right to disappear on his terms."
+    },
+    {
+      "snippet_id": "S-157-SN0009",
+      "snippet_text": "Let’s just see where this goes without all the pressure of a label",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is classic anti-label language. It sounds relaxed, but it also blocks clarity, which means she has to live inside uncertainty while being told that asking for definition is pressure."
+    },
+    {
+      "snippet_id": "S-157-SN0010",
+      "snippet_text": "he said he’s “not fully ready for anything serious yet”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Goal Persistence-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is pre-framing unavailability as temporary and reasonable. That keeps her hopeful while making it hard to challenge the fact that he is not offering much."
+    },
+    {
+      "snippet_id": "S-157-SN0011",
+      "snippet_text": "he goes quiet for a day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Attachment-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the rhythm she is already adapting to. It is not dramatic, but it teaches her to expect absence and then treat return as relief."
+    },
+    {
+      "snippet_id": "S-157-SN0012",
+      "snippet_text": "needing to recharge alone",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Boundaries-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "In this community, self-care language can make withdrawal sound enlightened. The problem is not that he needs space, but that space becomes the explanation for why she should not ask for steadiness."
+    },
+    {
+      "snippet_id": "S-157-SN0013",
+      "snippet_text": "I don’t want someone clingy",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Trust-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a preemptive category threat. It tells her that ordinary relational need could be recast as pathology, so she has to police herself before he has to."
+    },
+    {
+      "snippet_id": "S-157-SN0014",
+      "snippet_text": "You get a side of me nobody else gets",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds intimate and exclusive, but it also makes his minimal offering feel special. He is giving her scarcity as a gift, which makes her grateful for less than she would normally want."
+    },
+    {
+      "snippet_id": "S-157-SN0015",
+      "snippet_text": "low-pressure",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This word is doing relationship work. It sounds kind, but it also turns her into the one who must stay easy in order to preserve the connection."
+    },
+    {
+      "snippet_id": "S-157-SN0016",
+      "snippet_text": "extra easy, extra chill",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Sense of Self-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She can feel herself adapting to his preferred version of her. The repetition suggests self-editing, not just being relaxed."
+    },
+    {
+      "snippet_id": "S-157-SN0017",
+      "snippet_text": "I didn’t want to be the kind of girl who makes a good thing heavy",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Conflict-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the emotional pivot. She is already translating her own needs into a moral failure, which means his frame is starting to govern her behavior."
+    },
+    {
+      "snippet_id": "S-157-SN0018",
+      "snippet_text": "I’m here when I’m here",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest statement of the pattern. It sounds calm and honest, but it normalizes intermittent presence and leaves her with no stable expectation."
+    },
+    {
+      "snippet_id": "S-157-SN0019",
+      "snippet_text": "That’s the best I can promise right now",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He narrows the future to the present and calls that generosity. It keeps him unaccountable while making her sound demanding if she wants more than a temporary offer."
+    },
+    {
+      "snippet_id": "S-157-SN0020",
+      "snippet_text": "I was the one checking my phone after that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This shows the asymmetry landing on her interior. She is left monitoring the connection, which is exactly what intermittent warmth tends to produce."
+    },
+    {
+      "snippet_id": "S-157-SN0021",
+      "snippet_text": "Am I being too sensitive about how he said it?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The question is tiny on purpose, but it reveals the larger issue: she is already doubting her own read of the moment instead of trusting that the wording mattered."
+    }
+  ],
+  "validation_warnings": [
+    "snippet[5]: unes_trait 'Autonomy' missing -high/-low suffix"
+  ],
+  "repetition_warnings": []
+}

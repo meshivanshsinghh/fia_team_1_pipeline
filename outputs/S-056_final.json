@@ -1,0 +1,357 @@
+{
+  "scenario_id": "S-056",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-056",
+    "architecture_name": "He uses wit and selective praise to make her work for approval while quietly training her to doubt her own read on things.",
+    "culture": "Old-Money WASP",
+    "demographics": "F/29, Manhattan, white, magazine-adjacent job; M/33, Connecticut prep-school, finance-adjacent, old-money social circle",
+    "cultural_context": "Urban social/dating scene among affluent, arts-and-restaurants-oriented professionals",
+    "geographic_setting": "New York City area, especially Manhattan, Queens, and the Hamptons",
+    "core_behaviors": [
+      "Dry wit that lands as charm first and correction second",
+      "Backhanded compliments that keep her trying harder",
+      "Selective forgetting and cheerful agreement that shift the labor back onto her"
+    ],
+    "satellite_signals": "Old-money club and school references, understated luxury, and a social world where being easygoing and not making a scene counts as virtue.",
+    "dismissible_red_flags": "At this stage he just seems sharp, amused, and a little exacting. The comments are easy to laugh off because he follows them with warmth or praise.",
+    "scenario_text": "I keep thinking about last night because, honestly, most of it was so easy with him. We met at The Brook after dinner, and he was in one of those old navy jackets that somehow looks better when it’s a little worn in. He made me laugh right away, mostly by pointing out the kind of men who talk too loudly at the bar. “Incredible,” he said, and I was already smiling. He has that dry, quick way of looking at a room like he’s clocking everything and being kind about it at the same time.\n\nHe offered to order for us, which was sweet, and then said, “You’re not one of those girls who needs a whole production, thank God.” I laughed because it felt like a compliment, and maybe it was. Later he told me I looked “much better” in the soft light than in the lobby, which was rude if I sit with it too long, but he said it with such a grin that I just let it go. He also kept saying I was “refreshing” because I didn’t get offended easily.\n\nThe part I can’t quite shake is that he forgot, again, that I’d mentioned my friend’s birthday on Friday. He went, “Did you? I must have missed that,” and then immediately asked if I wanted to go to the club instead, like it was nothing. I said I’d already promised her, and he just smiled and said, “Of course, of course, I’m not keeping score.”\n\nHe’s so easy to be around, and I do like that he’s not fussy. I just don’t know why the little digs stay with me longer than the nice parts. Am I being too sensitive about the joke about being “one of those girls”?"
+  },
+  "snippets": [
+    {
+      "quote": "most of it was so easy with him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She’s already smoothing over the rough edges by emphasizing ease. That’s the start of accepting his tone as the normal price of being with him.",
+      "snippet_id": "S-056-SN0001"
+    },
+    {
+      "quote": "The Brook",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A specific old-money club reference places the scene inside an establishment social world. It quietly signals class, network, and who belongs without needing explanation.",
+      "snippet_id": "S-056-SN0002"
+    },
+    {
+      "quote": "old navy jackets",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-low"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The clothing detail does class work. It’s understated rather than flashy, which fits the register and makes him seem easy, polished, and native to the setting.",
+      "snippet_id": "S-056-SN0003"
+    },
+    {
+      "quote": "the kind of men who talk too loudly at the bar",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He’s mocking other men as a way to look discerning. It reads as wit, but it also sets him up as the judge in the room.",
+      "snippet_id": "S-056-SN0004"
+    },
+    {
+      "quote": "clocking everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds observant and attractive, but it also hints that he’s always evaluating and categorizing people. That kind of constant read can later become correction.",
+      "snippet_id": "S-056-SN0005"
+    },
+    {
+      "quote": "order for us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A small convenience, but he takes over the decision-making. In a date setting, that’s a gentle way of putting himself in charge of the scene.",
+      "snippet_id": "S-056-SN0006"
+    },
+    {
+      "quote": "You’re not one of those girls",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is exception-bait. He flatters her by separating her from a disliked category, which makes her feel chosen while also teaching her to stay unlike the women he devalues.",
+      "snippet_id": "S-056-SN0007"
+    },
+    {
+      "quote": "needs a whole production",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He frames ordinary female needs as excessive performance. That makes her feel lucky to be low-maintenance and less likely to ask for normal care.",
+      "snippet_id": "S-056-SN0008"
+    },
+    {
+      "quote": "I laughed because it felt like a compliment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She can feel the sting but chooses the safer interpretation. That split between what landed and what she tells herself is the early internal cost.",
+      "snippet_id": "S-056-SN0009"
+    },
+    {
+      "quote": "you looked “much better”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a backhanded compliment. He offers approval while quietly correcting her appearance, which nudges her into self-monitoring.",
+      "snippet_id": "S-056-SN0010"
+    },
+    {
+      "quote": "in the soft light",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He’s making her appearance a moving target. Even praise comes with an implied standard, so she starts thinking about how to present herself for him.",
+      "snippet_id": "S-056-SN0011"
+    },
+    {
+      "quote": "you didn’t get offended easily",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He rewards her for absorbing the sting. That sounds like praise, but it also sets a rule that discomfort should be swallowed to stay desirable.",
+      "snippet_id": "S-056-SN0012"
+    },
+    {
+      "quote": "Did you? I must have missed that",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Selective forgetting is already doing work here. Whether he truly forgot or not, the effect is that her stated plans become easy for him to brush aside.",
+      "snippet_id": "S-056-SN0013"
+    },
+    {
+      "quote": "I’m not keeping score",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He turns a reasonable boundary into something petty before she can object. It sounds relaxed, but it also discourages her from naming the imbalance.",
+      "snippet_id": "S-056-SN0014"
+    },
+    {
+      "quote": "He’s so easy to be around",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She’s using his ease to override the little cuts. That’s how the charm keeps working, because it gives her a reason not to press on what bothered her.",
+      "snippet_id": "S-056-SN0015"
+    },
+    {
+      "quote": "not fussy",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "In this register, not fussy is a compliment. But it also means she’s being valued for taking up less space and asking for less.",
+      "snippet_id": "S-056-SN0016"
+    },
+    {
+      "quote": "the little digs stay with me longer",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Perseverance-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest signal that the jokes are landing as cuts. She’s not alarmed, but her body is keeping the score even while her mind minimizes it.",
+      "snippet_id": "S-056-SN0017"
+    },
+    {
+      "quote": "one of those girls",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The phrase does category work. It creates a bad woman type in the background so she’ll keep performing the opposite of it.",
+      "snippet_id": "S-056-SN0018"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

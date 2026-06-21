@@ -1,0 +1,441 @@
+{
+  "scenario_id": "S-070",
+  "player_type": "Tornado Toby",
+  "scenario": {
+    "scenario_id": "S-070",
+    "architecture_name": "He floods the relationship with exciting attention, then quietly makes my world smaller by treating my time and plans as things to reroute around him.",
+    "culture": "Red Pill",
+    "demographics": "F/20s, Liam male, both young adults in Dorchester, Boston",
+    "cultural_context": "Young adult dating/social life centered on neighborhood bars and friends; intimate relationship dynamics with mild possessiveness/control",
+    "geographic_setting": "Dorchester, Boston; local neighborhood pub/social scene",
+    "core_behaviors": [
+      "High-energy attention that feels intoxicating",
+      "Early possessive framing dressed up as romance",
+      "Plans and availability subtly rerouted around him"
+    ],
+    "satellite_signals": "Neighborhood pub scene, friends-and-plans friction, his social ease in his own turf, affectionate check-ins that feel flattering, and a mild push to wear what he picked out.",
+    "dismissible_red_flags": "We’ve only been seeing each other a couple of weeks, so the intensity reads as excitement. He sounds sweet, funny, and really into me, and I keep telling myself the small weird bits are just early-days enthusiasm.",
+    "scenario_text": "We’ve only been seeing each other a couple of weeks, so I know I’m probably being dramatic, but Liam has this way of making everything feel a little brighter. He’s from Dorchester too, so he keeps taking me to these local Irish pubs where he seems to know half the room. He always introduces me like I’m something special, like, “This is my amazing girlfriend,” which is honestly cute enough to make me blush every time.\n\nThe thing that’s sitting with me is how quickly he turns my plans into his plans. I mentioned a party my friends are hosting this weekend, and he laughed and said, “Come on, let’s keep you all to ourselves.” He said it like it was playful, and I did laugh. Then he asked what I was wearing and told me he had something better in mind, “just trust me.” He even texted later asking for my schedule so he could “line up a couple surprises,” which sounds sweet on paper. It is sweet, mostly. I like that he’s thoughtful. I like that he checks in. I like that he keeps saying he can’t stop thinking about me.\n\nBut I also noticed I’ve already skipped one thing with my friends because he had a better idea for the night, and I’m the one who ended up moving things around. He’s not bossy exactly. It’s more like he gets so excited about us that I just go along with it. He’ll say, “You’re so chill, babe, that’s why this works,” and I do feel chill, or I want to be. I guess I just don’t want to turn into the kind of girl who makes a fuss over something this early. Is it weird that I felt a little weird when he said he wanted to keep me all to himself this weekend?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-070-SN0001",
+      "snippet_text": "We’ve only been seeing each other a couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is early dating context, so the intensity can still pass as normal. It also matters because the attachment and possessiveness are arriving before there is much shared history."
+    },
+    {
+      "snippet_id": "S-070-SN0002",
+      "snippet_text": "making everything feel a little brighter",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She’s describing the emotional lift he gives her. That’s the draw, but it also shows how quickly he’s becoming the center of her mood."
+    },
+    {
+      "snippet_id": "S-070-SN0003",
+      "snippet_text": "from Dorchester too",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This locates them in the same neighborhood and social world. It helps explain why he can move comfortably through the pubs and social scene."
+    },
+    {
+      "snippet_id": "S-070-SN0004",
+      "snippet_text": "these local Irish pubs",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is neighborhood and class texture, not a red flag by itself. It places the relationship in a familiar local scene where he already has social footing."
+    },
+    {
+      "snippet_id": "S-070-SN0005",
+      "snippet_text": "he seems to know half the room",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He has social ease and local reach, so she’s entering his territory rather than meeting as equals. That gives him the softer kind of power that can shape how quickly she follows his lead."
+    },
+    {
+      "snippet_id": "S-070-SN0006",
+      "snippet_text": "my amazing girlfriend",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is flattering and public, which feels good in the moment. It also puts her into a role he is announcing to others, which can start making the relationship feel defined on his terms."
+    },
+    {
+      "snippet_id": "S-070-SN0007",
+      "snippet_text": "how quickly he turns my plans into his plans",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest structural line in the story. He isn’t openly ordering her around, but his excitement repeatedly reroutes her choices until his preference becomes the default."
+    },
+    {
+      "snippet_id": "S-070-SN0008",
+      "snippet_text": "keep you all to ourselves",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds playful, but it already frames her as something to be kept inside their bubble. In a new relationship, that kind of ‘we don’t need anyone else’ language can quietly start shrinking her outside life."
+    },
+    {
+      "snippet_id": "S-070-SN0009",
+      "snippet_text": "what I was wearing",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Asking about her outfit can be innocent, but here it’s part of him moving into advisory control. The shift from interest to direction is small, which is why it’s easy to miss."
+    },
+    {
+      "snippet_id": "S-070-SN0010",
+      "snippet_text": "something better in mind",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Grandiosity-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He positions his preference as an upgrade over hers, which makes disagreement feel like choosing the worse option. It’s a soft way of taking the steering wheel while sounding helpful."
+    },
+    {
+      "snippet_id": "S-070-SN0011",
+      "snippet_text": "just trust me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a classic trust cue. On the surface it sounds easygoing, but it asks her to suspend her own judgment and let him define what’s best."
+    },
+    {
+      "snippet_id": "S-070-SN0012",
+      "snippet_text": "asking for my schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "At this stage it can read as considerate planning, but it also gives him access to her availability. Once someone starts organizing your time, they can start organizing you."
+    },
+    {
+      "snippet_id": "S-070-SN0013",
+      "snippet_text": "line up a couple surprises",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Inconsistency-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Surprises are appealing, especially this early. The catch is that surprise-based romance often means he gets to set the pace and she gets to react after the fact."
+    },
+    {
+      "snippet_id": "S-070-SN0014",
+      "snippet_text": "I like that he’s thoughtful",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her rationalization. She’s translating the control-adjacent bits into care, which is understandable because the overall feeling is still flattering and warm."
+    },
+    {
+      "snippet_id": "S-070-SN0015",
+      "snippet_text": "I like that he checks in",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The check-ins feel affectionate, and they probably are. But in context, they also help keep her oriented toward him, which can make the relationship feel more centrally managed by his attention."
+    },
+    {
+      "snippet_id": "S-070-SN0016",
+      "snippet_text": "I’ve already skipped one thing with my friends",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the first concrete cost. She hasn’t been told not to go, but the relationship has already started displacing her other plans, which is how isolation often begins."
+    },
+    {
+      "snippet_id": "S-070-SN0017",
+      "snippet_text": "I’m the one who ended up moving things around",
+      "kind_of_signal": [
+        "Power Information",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Agency-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This shows who is adapting. Even without a direct command, the burden of making the relationship work is landing on her schedule and her flexibility."
+    },
+    {
+      "snippet_id": "S-070-SN0018",
+      "snippet_text": "He’s not bossy exactly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Dominance-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She’s trying to rule out the obvious harsh label because he doesn’t present as overtly controlling. That hesitation is useful, because it shows how the softer version gets overlooked."
+    },
+    {
+      "snippet_id": "S-070-SN0019",
+      "snippet_text": "he gets so excited about us",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the emotional engine she’s responding to. The excitement feels romantic, but it also explains why his preferences keep becoming the default without much overt pressure."
+    },
+    {
+      "snippet_id": "S-070-SN0020",
+      "snippet_text": "You’re so chill, babe",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a compliment that also assigns her a role. If she is ‘chill,’ then later objections can be treated as a failure to stay in the identity he praised."
+    },
+    {
+      "snippet_id": "S-070-SN0021",
+      "snippet_text": "the kind of girl who makes a fuss",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "She’s pre-emptively policing herself with his frame in mind. That’s important because the pressure isn’t just external anymore, it’s starting to live inside how she edits her own reactions."
+    },
+    {
+      "snippet_id": "S-070-SN0022",
+      "snippet_text": "a little weird when he said he wanted to keep me all to himself this weekend",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the closing concern she actually has. It’s small and socially acceptable, but it points right at the bigger pattern: his affection is already carrying a possessive edge."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

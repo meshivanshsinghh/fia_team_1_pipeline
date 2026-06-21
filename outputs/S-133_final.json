@@ -1,0 +1,408 @@
+{
+  "scenario_id": "S-133",
+  "player_type": "Menacing Marley",
+  "scenario": {
+    "scenario_id": "S-133",
+    "architecture_name": "He uses protective, high-status care to normalize monitoring, possession, and the expectation that I stay responsive and available to him.",
+    "culture": "Black Professional",
+    "demographics": "Indigenous/Navajo woman, late 20s, university receptionist; Black professional campus-adjacent social register",
+    "cultural_context": "University reception/front-desk work in an academic setting with Indigenous studies overlap",
+    "geographic_setting": "University campus in Albuquerque, New Mexico",
+    "core_behaviors": [
+      "Daily contact as a tether",
+      "Care framed as leadership and protection",
+      "Special attention that becomes expectation",
+      "Quiet monitoring of her movements and schedule"
+    ],
+    "satellite_signals": "Campus-professor status, coffee-drop-ins, location awareness, and a polished, respectful tone that makes his attention feel flattering before it starts feeling like a routine she has to maintain.",
+    "dismissible_red_flags": "At this stage it reads like a thoughtful professor being friendly, curious, and a little intense. The concern is easy to brush off because the gestures are warm, useful, and never overtly hostile.",
+    "scenario_text": "I’ve been seeing him around the university a lot more lately, and honestly he’s been kind of sweet. He’s one of those professors who always looks put together, and he talks like he already knows the room. The first time he came by reception, he asked, “Where did you go to school?” and then smiled like that answer mattered. When I told him I did my undergrad in Santa Fe, he said, “Okay, smart girl,” like he was filing it away.\n\nAfter that, he started doing these little check-ins. “Morning. What’s your day looking like?” or “Just thinking about you. Send me a pic of where you’re at.” It didn’t feel rude, just attentive. He brought me coffee once, right when I was dragging in from the parking lot, and said, “I just want to make sure you’re good.” That part was actually nice. I’m not used to men being that intentional.\n\nHe’s also got this way of talking that sounds half protective, half like he’s already decided what’s best. “I’m a simple guy. If I text someone I care about, I like to hear back. That’s all.” Then later, when I got busy and didn’t answer right away, he said, “You went quiet on me earlier. Everything okay?” I told him work was hectic and he laughed, “You’re too worked up to think about this clearly right now. Let me handle it.”\n\nThe thing is, he’s not mean about it. He says it like he’s being considerate, like he’s taking care of me. And part of me does like that. It feels good to be noticed, especially by somebody who seems so calm and sure of himself. I just keep wondering if I’m supposed to text back faster than I have been. Is it weird that his “morning” texts are starting to feel like a routine?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-133-SN0001",
+      "snippet_text": "I’ve been seeing him around the university a lot more lately",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The repeated appearance matters more than the words. He is building familiarity through frequency, which can feel flattering at first but also starts to make him part of her routine."
+    },
+    {
+      "snippet_id": "S-133-SN0002",
+      "snippet_text": "he’s one of those professors who always looks put together",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is status presentation. The polished look helps him read as competent and safe, which makes his attention easier to trust."
+    },
+    {
+      "snippet_id": "S-133-SN0003",
+      "snippet_text": "He asked, “Where did you go to school?”",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In Black professional settings this is a real status probe, not small talk. He is quietly sorting her into a class and institutional story while sounding interested and respectful."
+    },
+    {
+      "snippet_id": "S-133-SN0004",
+      "snippet_text": "“Okay, smart girl,”",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The compliment is affectionate, but it also places him in the position of evaluator. He gets to define her as impressive and keep the upper hand while doing it."
+    },
+    {
+      "snippet_id": "S-133-SN0005",
+      "snippet_text": "“Morning. What’s your day looking like?”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a sweet daily check-in, but it also establishes a reporting habit. He is normalizing access to her schedule and making responsiveness part of the relationship."
+    },
+    {
+      "snippet_id": "S-133-SN0006",
+      "snippet_text": "“Just thinking about you. Send me a pic of where you’re at.”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The surface is romantic, but the request quietly turns her location into something he expects to receive. That is early monitoring dressed as interest."
+    },
+    {
+      "snippet_id": "S-133-SN0007",
+      "snippet_text": "He brought me coffee once",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A nice gesture, but it also creates a little debt. She is likely to remember the favor and feel warmer toward him because of it."
+    },
+    {
+      "snippet_id": "S-133-SN0008",
+      "snippet_text": "“I just want to make sure you’re good.”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is care language, but it also frames his attention as necessary. He positions himself as the one who gets to check on her and define what being 'good' means."
+    },
+    {
+      "snippet_id": "S-133-SN0009",
+      "snippet_text": "“I’m a simple guy.",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is presenting himself as straightforward and readable, which makes his demands seem uncomplicated and fair. That kind of self-description often hides a stronger expectation that others adapt to him."
+    },
+    {
+      "snippet_id": "S-133-SN0010",
+      "snippet_text": "If I text someone I care about, I like to hear back.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a rule disguised as a preference. He is defining responsiveness as respect, which lets him treat her timing as a moral issue instead of a normal boundary."
+    },
+    {
+      "snippet_id": "S-133-SN0011",
+      "snippet_text": "You went quiet on me earlier.",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A small line, but it shows he is tracking her availability closely. The phrasing makes her silence feel like something she owes him an explanation for."
+    },
+    {
+      "snippet_id": "S-133-SN0012",
+      "snippet_text": "“You’re too worked up to think about this clearly right now.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Empathy-low",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Coercive Control"
+      ],
+      "reasoning": "He recodes her state as the problem and uses that to take over the situation. It sounds calm, but it puts him in charge of what counts as clear thinking."
+    },
+    {
+      "snippet_id": "S-133-SN0013",
+      "snippet_text": "Let me handle it.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest takeover line. He is not asking what she wants handled, he is stepping into the decision for her."
+    },
+    {
+      "snippet_id": "S-133-SN0014",
+      "snippet_text": "He says it like he’s being considerate",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Her own mind is doing the work of softening the moment. She can feel the pressure, but she is still translating it into kindness because the delivery is gentle."
+    },
+    {
+      "snippet_id": "S-133-SN0015",
+      "snippet_text": "like he’s taking care of me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the internal version of the same move. She experiences the control as care, which is exactly why it can deepen before she names it."
+    },
+    {
+      "snippet_id": "S-133-SN0016",
+      "snippet_text": "It feels good to be noticed",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the hook. The attention is meeting a real need for recognition, so it becomes easier to overlook the part where it starts narrowing her space."
+    },
+    {
+      "snippet_id": "S-133-SN0017",
+      "snippet_text": "by somebody who seems so calm and sure of himself",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His calm and certainty read as maturity, but they also make it harder for her to challenge him. He comes off as the one with the steadier read on things."
+    },
+    {
+      "snippet_id": "S-133-SN0018",
+      "snippet_text": "I just keep wondering if I’m supposed to text back faster than I have been",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the real interior shift. She is starting to manage his expectations, which means his attention has already become a standard she feels responsible for meeting."
+    },
+    {
+      "snippet_id": "S-133-SN0019",
+      "snippet_text": "his “morning” texts",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A simple phrase, but it shows routine and repetition. The daily text is becoming a tether, not just a flirtation."
+    },
+    {
+      "snippet_id": "S-133-SN0020",
+      "snippet_text": "starting to feel like a routine",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is noticing the shift from romance to expectation. Routine can be comforting, but here it also means he is setting a pattern she may feel obliged to maintain."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

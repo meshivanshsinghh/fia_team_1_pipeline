@@ -1,0 +1,1237 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-061",
+    "target_register": "Hustle Culture",
+    "player_type": "Domineering Devin"
+  },
+  "primary_metaphors": [
+    "Authority-as-Care",
+    "Order-as-Control",
+    "Caretaking-that-Disables",
+    "Decision-as-Dominance",
+    "Future-as-Plan",
+    "Safety-as-Control",
+    "Traditional-Authority",
+    "Crisis-as-Jurisdiction",
+    "Particularity-as-Control",
+    "Efficiency-as-Authority",
+    "Structure-as-Cage",
+    "Action-as-Override",
+    "Ease-as-Dependency",
+    "Life-as-System",
+    "Certainty-as-Control",
+    "Hands-On-as-Intrusion",
+    "Solution-as-Override",
+    "Home-as-Domain",
+    "Protector-as-Enforcer",
+    "Trust-as-Submission",
+    "Hierarchy-Compliance",
+    "Authority-Pre-screen",
+    "Financial-Trap",
+    "Trust-As-Submission",
+    "Domestic-Lockdown",
+    "Protection-As-Control"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "discipline-as-routine (moral law)",
+      "his_language": "I'm up at five every day, no exceptions. You don't get anywhere only training on the days you feel like it.",
+      "her_experience": "He's so disciplined, up before dawn every single day. After dating guys who couldn't hold a routine, it's honestly attractive.",
+      "expert_notices": "Discipline stated as moral law (no exceptions); right now only his. The absoluteness is the faint seam. Admirable cover."
+    },
+    {
+      "mechanism": "discipline-as-routine (contempt for rest)",
+      "his_language": "I don't do lazy weekends. There's always something to maintain, train, or fix.",
+      "her_experience": "He's always productive, always improving something. It makes my slow Sundays feel a little aimless by comparison, but I admire it.",
+      "expert_notices": "Contempt for rest folded into work ethic (idle hands); her downtime already reframed by her as aimless. Empathy1 floor under the discipline."
+    },
+    {
+      "mechanism": "discipline-as-routine (order inside and out)",
+      "his_language": "Everything in my place has a spot and goes back to it. Keeps my head straight.",
+      "her_experience": "His apartment is immaculate and everything has its place. He's so put-together. I felt embarrassed about my own clutter.",
+      "expert_notices": "Rigidity (Cog-flex2) presented as mental-health practice; she measures her home against his standard and finds it short. The standard entering the room."
+    },
+    {
+      "mechanism": "provider (the man's job)",
+      "his_language": "Put your card away. When you're with me, I take care of it. That's the man's job, simple as that.",
+      "her_experience": "He always pays, always. He says it's the man's job. It's old-fashioned but after splitting every bill with exes it feels like being taken care of.",
+      "expert_notices": "Provision tied to role/order (the man's job, simple as that); gendered hierarchy stated as settled fact, not romance. Reads as chivalry, functions as position."
+    },
+    {
+      "mechanism": "provider (removes her from a domain)",
+      "his_language": "I've got a system for the money, savings, the works. You won't ever have to stress about it. I'll handle that side.",
+      "her_experience": "He's completely on top of his finances and says I'll never have to worry about money with him. It's a huge relief honestly.",
+      "expert_notices": "Provision that removes her from a domain (that side is his); care and the architecture of control are the same act. Distinct from Marley (ownership)/Morgan (debt): this is role."
+    },
+    {
+      "mechanism": "provider (prefers to control the logistics)",
+      "his_language": "I already booked it, paid, sorted the whole trip. You don't need to do anything but show up. I prefer it that way.",
+      "her_experience": "He planned and paid for our entire trip without me lifting a finger. He likes handling everything. It's a different world from what I'm used to.",
+      "expert_notices": "I prefer it that way' is the tell: provision structured so decisions route through him. She's a guest on a trip about her. Generous on its face."
+    },
+    {
+      "mechanism": "provider (duty, non-negotiable)",
+      "his_language": "A man who can't provide isn't really a man, in my opinion. I was raised to take care of what's mine. That's not negotiable.",
+      "her_experience": "He has strong views about a man's duty to provide, and he lives by them. I find his sense of responsibility really reassuring.",
+      "expert_notices": "Provision as non-negotiable identity (not negotiable, what's mine); gendered order plus a faint possessive, wrapped in duty."
+    },
+    {
+      "mechanism": "achievement (self-made doctrine)",
+      "his_language": "Nobody handed me anything. Everything I have, I built myself. That matters to me.",
+      "her_experience": "He's completely self-made, built everything from nothing. There's something really impressive about that kind of drive.",
+      "expert_notices": "Self-made narrative as moral identity; 'no excuses, no handouts' is the merit-doctrine that later sorts people and her. Work ethic real, yardstick forming."
+    },
+    {
+      "mechanism": "achievement (merit as worth)",
+      "his_language": "I don't respect much, but I respect someone who earns their place. Can't stand people who expect things they didn't work for.",
+      "her_experience": "He has so much respect for hard work and zero patience for people who coast. I like that he has standards.",
+      "expert_notices": "Merit as the basis of who's worthy (earns their place); contempt for the 'undeserving' (Disrespect9) stated as principle. She codes contempt as standards."
+    },
+    {
+      "mechanism": "achievement (earned rank)",
+      "his_language": "I set a goal, I hit it. Made rank ahead of schedule, hit every number I set. That's just discipline applied over time.",
+      "her_experience": "He's accomplished so much and so young, and he's modest about it, says it's just discipline. I'm proud to be with someone like that.",
+      "expert_notices": "Achievement as proof of earned rank (Grandiosity8, earned-not-fragile vs Evan); 'made rank' anchors the institutional hierarchy. She's placed near the top of his order."
+    },
+    {
+      "mechanism": "grit (never quits = devotion)",
+      "his_language": "I don't quit. Ever. On anything, or anyone. Once I'm committed, that's it, I'm in for good.",
+      "her_experience": "He told me he never quits on anyone he's committed to. After being ghosted and let down, hearing that made me feel so secure.",
+      "expert_notices": "Persistence (Goal-persistence8) as devotion; reassuring. The seam: 'never quits' also means never yields, never lets her leave a thing alone. Invisible now."
+    },
+    {
+      "mechanism": "grit (won't let it slide)",
+      "his_language": "When something's not up to standard, I don't let it slide. I fix it. You don't get anywhere accepting good enough.",
+      "her_experience": "He doesn't let things slide, he fixes whatever isn't right. I've always been more of a 'good enough' person, so it's kind of inspiring.",
+      "expert_notices": "Doesn't let it slide' on standards; now tasks, but the engine that won't let her deviations slide either. She positions herself as the lesser standard."
+    },
+    {
+      "mechanism": "grit (out-stubborn, not most people)",
+      "his_language": "I'll out-stubborn any problem. I just don't stop. Most people fold when it gets hard. I'm not most people.",
+      "her_experience": "He's relentless, he just doesn't give up on anything. It's the opposite of every flaky person I've dated and I love it.",
+      "expert_notices": "Grit fused with 'I'm not most people' (merit-superiority); immovability as strength. Cold persistence, contrast with Marley's volatility."
+    },
+    {
+      "mechanism": "grit (never walks = never concedes)",
+      "his_language": "If we ever had a problem, I wouldn't walk. I'd dig in until it's solved. I don't do unfinished.",
+      "her_experience": "He says he'd never walk away from a problem between us, he'd stay and work it. That kind of commitment is exactly what I've wanted.",
+      "expert_notices": "Reassurance carries a slip toward 'solved my [way]' he corrects; persistence as never-conceding. She hears only the staying. Pattern: his way is the only finish line."
+    },
+    {
+      "mechanism": "natural-order (everyone has a place)",
+      "his_language": "Everyone's got their place, and things run right when people stay in it. That's just order.",
+      "her_experience": "He believes everyone has their place and society works when people respect that. I'd never thought about it that way but he makes it sound sensible.",
+      "expert_notices": "The authoritarian core stated plainly (everyone's got a place, stay in it); hierarchy reframed as benign order. She's being introduced to the frame she'll be placed in."
+    },
+    {
+      "mechanism": "natural-order (don't question the structure)",
+      "his_language": "I've got no patience for people who think the rules don't apply to them.",
+      "her_experience": "He has real respect for the way things are supposed to be done. It's grounding, like he has a code, after dating men with none.",
+      "expert_notices": "Conventionalism (a way things are done, a reason) plus intolerance of deviation; 'rules don't apply to them' marks the cardinal sin as questioning the order. She reads it as 'a code.'"
+    },
+    {
+      "mechanism": "natural-order (hierarchy is just/earned)",
+      "his_language": "I'm not saying everyone's equal. People earn their standing or they don't.",
+      "her_experience": "He's pretty unsentimental about people being where they've earned to be. Part of me flinched, but he lives by it himself, so it's hard to argue.",
+      "expert_notices": "Merit-justified hierarchy (earn their standing); 'gets soft' is the contempt. Her flinch immediately overridden by his self-application. The just-world alibi for ranking."
+    },
+    {
+      "mechanism": "submission-up (reveres earned authority)",
+      "his_language": "Your father's a serious man. You can tell he built something real. I made sure to show him the respect he's owed.",
+      "her_experience": "He was so respectful with my dad, almost formal, and my parents adored him instantly. It meant a lot that he took it seriously.",
+      "expert_notices": "Eager deference upward (respect he's owed) reads as good character; the same ranking instinct that judges downward. Charms the authority figures. Cover for the structure."
+    },
+    {
+      "mechanism": "submission-up (respect the position)",
+      "his_language": "You respect the position even if you don't like the man in it. That's what holds everything together.",
+      "her_experience": "He has this old-school respect for authority and rank. It's a little intense but it comes from somewhere principled, the military I think.",
+      "expert_notices": "Submission to established authority as load-bearing belief (respect the position, chain of command); institutional grounding. 'A little intense' is the seam she sources to principle."
+    },
+    {
+      "mechanism": "submission-up (impresses the hierarchy)",
+      "his_language": "I always make a point with the boss, the brass, whoever's above me. You handle yourself right with the people who matter, doors open.",
+      "her_experience": "He knows exactly how to carry himself around important people. Watching him work a room of higher-ups, I felt proud to be on his arm.",
+      "expert_notices": "Strategic deference to 'people who matter' (ranked by power) presented as savvy; she sees polish, not the rank-calculus. Sets up the downward contrast."
+    },
+    {
+      "mechanism": "contempt-down (the undisciplined are lesser)",
+      "his_language": "Look at that guy, no bearing, lets himself go. You can read a man off how he carries himself.",
+      "her_experience": "He's quick to judge people who seem undisciplined. It can be a little harsh, but he holds himself to the same bar, so I let it go.",
+      "expert_notices": "Contempt downward (Disrespect9) moralized by the shared merit-bar; 'reads character off bearing' is the sorting instinct. She excuses via his self-application."
+    },
+    {
+      "mechanism": "contempt-down (ranks her friends as beneath)",
+      "his_language": "Your friend who job-hops and is always broke? Nice enough, but she's going nowhere. Be careful who you take after.",
+      "her_experience": "He's not impressed by some of my friends, thinks they lack direction. He might have a point, but it stung to hear about people I love.",
+      "expert_notices": "Isolation9 via merit-ranking, not jealousy: her friends sorted as low-status and a contaminating influence (watch how much you take after). Behavior-steer away from them. The sting registered, half-conceded."
+    },
+    {
+      "mechanism": "contempt-down (no grace for struggle)",
+      "his_language": "I don't buy the whole 'they're struggling' thing. Everyone's got it hard. Some people get up anyway.",
+      "her_experience": "He doesn't have much sympathy for people going through a rough patch, says everyone struggles. It's the one place his toughness feels a little cold to me.",
+      "expert_notices": "Empathy1 bare: struggle recoded as weakness/excuse. She names a flicker of coldness here (closest she comes) but does not generalize it. Just-world floor."
+    },
+    {
+      "mechanism": "correction-as-training (the right way)",
+      "his_language": "That's not how you do that. Here, watch. There's a correct way and a sloppy way, and the correct way takes the same time.",
+      "her_experience": "He showed me a 'better' way to do something I've done fine for years. He wasn't unkind about it, and honestly his way was more efficient.",
+      "expert_notices": "Unsolicited correction toward 'the correct way' (Cog-flex2); her competent method recoded as sloppy. Infantilization via instruction. She concedes the efficiency, not the overreach."
+    },
+    {
+      "mechanism": "correction-as-training (drills standards into her)",
+      "his_language": "We're going to get you on a real routine. Up at a set time, gym, meals planned. I'll set it up. You'll feel a hundred times better.",
+      "her_experience": "He's helping me build better habits, set me up with a whole routine. It's a lot but he's right that I've let things slip. I want to be better.",
+      "expert_notices": "Her life restructured to his standard, framed as help (I'll set it up); the recruit-being-trained dynamic. Behavior-steer, one-directional. She frames her old life as 'slipped' and aspires to his bar."
+    },
+    {
+      "mechanism": "correction-as-training (disregards her reasoning)",
+      "his_language": "I hear you, but no. I've thought about this more than you have and I'm telling you the right way to handle it. Trust me on this.",
+      "her_experience": "When we disagree he's very sure he knows best, and usually he has thought it through more. I've started just going with his judgment.",
+      "expert_notices": "Charlot direct hit: disregards her reasoning when it disagrees with his. 'Thought about it more than you' asserts rank over her judgment. She defers, deskilling herself."
+    },
+    {
+      "mechanism": "correction-as-training (approval of conduct, cold)",
+      "his_language": "Good. That's how it's done. See, you're capable when you apply yourself, you just needed pushing.",
+      "her_experience": "When I do something to his standard he gives this approval that, I won't lie, feels really good to earn. Like I passed a test.",
+      "expert_notices": "Cold approval-of-conduct (not warmth, not the cut 'good girl') conditioned on meeting his bar; 'needed someone to hold the standard' is the infantilizing claim. She's training toward his approval (earn, graduated)."
+    },
+    {
+      "mechanism": "enmeshment (merge fast as seriousness)",
+      "his_language": "No reason to keep things separate if we're serious. Your schedule, your money, your goals, let's combine it. My system works.",
+      "her_experience": "He wants to merge everything fast, finances, calendars, plans. It moved quick but it felt like he was really committed, all in.",
+      "expert_notices": "Enmeshment8 as seriousness; 'run it all as one system, mine works' is the absorption (his structure becomes theirs). Reads as commitment. The one-directionality is the tell."
+    },
+    {
+      "mechanism": "enmeshment (our way = his way)",
+      "his_language": "We do it this way now. I've already figured out what works, so why reinvent it.",
+      "her_experience": "He calls his routines 'our way' now, which is sweet, though it's basically his way that I've adopted. It does work better, so I don't mind.",
+      "expert_notices": "Our way' that is his way (Enmeshment8 + Cog-flex2); 'I'm not rigid' is the disavowal-tell. She notices the asymmetry ('basically his way') and minimizes it."
+    },
+    {
+      "mechanism": "enmeshment (no separateness permitted)",
+      "his_language": "I don't really believe in separate lives inside a relationship. Separate accounts, separate friends, separate plans, that's how people drift.",
+      "her_experience": "He thinks couples shouldn't keep separate lives, that it leads to drifting apart. It makes sense, but I've noticed I see my own friends less.",
+      "expert_notices": "Isolation9 via anti-separateness doctrine (separate friends leads to drift); merges to eliminate her independent sphere. Behavior already shifting (friends less). She supplies the logic herself."
+    },
+    {
+      "mechanism": "her-place (a good woman accepts her place)",
+      "his_language": "I take care of the big picture, you make a good home and back me up. A man and a woman who both know their role, that's unbeatable.",
+      "her_experience": "He has clear ideas about roles, him leading, me supporting. It's traditional but there's something restful about both knowing where we stand.",
+      "expert_notices": "Fixed gendered place stated as functional order (know their role); her sphere defined as support. 'Restful' is how she experiences being slotted. Conventionalism (Unorthodoxy1)."
+    },
+    {
+      "mechanism": "don't-question (questioning = disrespect)",
+      "his_language": "I don't mind you having an opinion. I mind the questioning, especially in front of people.",
+      "her_experience": "He distinguishes between sharing an opinion and 'undermining' him, especially in public. I've learned to pick my battles.",
+      "expert_notices": "The cardinal sin named: questioning the authority itself (not being wrong) is the offense. 'Undermining in front of people' polices her in public. Behavior-steer toward deference. Distinct from Avery (who'd argue she's WRONG)."
+    },
+    {
+      "mechanism": "don't-question (defer on principle)",
+      "his_language": "Someone has to have the final call, and that's me. Things fall apart otherwise.",
+      "her_experience": "He believes someone needs the final say and that it's him. He frames it as just structure, the way a team needs a captain, and the way he says it, it sounds almost reasonable.",
+      "expert_notices": "Final-authority claim laundered as 'structure, not ego' (the disavowal-tell); submission expected on principle. 'Almost reasonable' is the seam she talks past. Dominance10."
+    },
+    {
+      "mechanism": "insubordination (cold disappointment, faint shaming)",
+      "his_language": "I'm not angry. I'm disappointed you handled it that way after everything we talked about.",
+      "her_experience": "When I don't meet his standard he gets this quiet, disappointed thing, worse than yelling honestly. I end up working hard to get back in his good graces.",
+      "expert_notices": "Shaming-as-discipline (typology) in the COLD register (Dysregulation3, not Marley's heat): disappointment as the punishment, 'expected more discipline from you' infantilizes. She does repair labor. No blowup, no incident."
+    },
+    {
+      "mechanism": "community (his world welcomes her in)",
+      "his_language": "Everyone at the congregation is going to love you. They're good people, real community, they look out for their own. You'll have a whole family there.",
+      "her_experience": "His community welcomed me so warmly, it's this tight, caring group. After feeling a bit adrift, suddenly having a whole built-in family is wonderful.",
+      "expert_notices": "Isolation9 via ABSORPTION not jealousy: she's folded into his total community (a whole family there). The warm welcome disguises the replacement of her own world. Belonging is the hook."
+    },
+    {
+      "mechanism": "community (the order is bigger than him)",
+      "his_language": "It's not just my opinion on how to live. It's something bigger than me. I answer to it too. That's what keeps a person honest.",
+      "her_experience": "He's so grounded in his faith and answers to something bigger than himself. There's a humility in it that I really respect.",
+      "expert_notices": "His authority laundered through a higher order (I answer to it too); submission-upward made concrete and made to look like humility. His standards now read as the order's, not his preference."
+    },
+    {
+      "mechanism": "community (rules become 'how we do things')",
+      "his_language": "We don't really do that in our circle. It's not a rule I made up, it's just how things are done where I come from. You'll get the rhythm of it.",
+      "her_experience": "There are certain ways things are done in his community and I'm learning them. It's not like he's making me, it's just their culture, and I want to fit in.",
+      "expert_notices": "Control depersonalized into community norm (not a rule I made up); much harder to push back on than a preference. She pre-emptively clears him ('not him being controlling') which is the disavowal-tell."
+    },
+    {
+      "mechanism": "community (headship as sincere belief, early)",
+      "his_language": "The way we believe it, a husband leads and a wife supports that, and he's accountable for the whole household. It's not about less-than. It's about order and who answers for what.",
+      "her_experience": "He has sincere beliefs about a husband leading and a wife supporting, from his faith. It's traditional, but he frames it as responsibility falling on him, and there's something steadying about it.",
+      "expert_notices": "Gendered headship as devout belief (we believe), pre-empting the 'less-than' objection; framed as his burden of accountability. Early-stage: stated as sincere worldview she finds steadying, NOT yet enforced on her. Conventionalism (Unorthodoxy1)."
+    },
+    {
+      "mechanism": "community (distributed surveillance, faint)",
+      "his_language": "Just so you know how it works here, people notice things, they talk. It's a close community. Reflects on both of us how we carry ourselves.",
+      "her_experience": "He mentioned the community's pretty close-knit and people notice things. I hadn't thought about being watched, but I get wanting to make a good impression.",
+      "expert_notices": "Enforcement distributed to the community (people notice, they talk) so control is deniable and not-him; 'reflects on both of us' begins making her conduct accountable to the structure. The surveillance seam, kept light."
+    },
+    {
+      "mechanism": "time-control (punctuality as character)",
+      "his_language": "We leave at seven. Not seven-oh-five. On time is late in my book, early is on time. Says everything about a person, honestly.",
+      "her_experience": "He's militantly punctual and I've had to step it up. He's right that I was always a bit late. It's actually made me more reliable.",
+      "expert_notices": "Time as a moral test (on time is late); punctuality standard imposed and moralized (says everything about a person). She adopts it and credits him with improving her. Behavioral micromanagement, on-fingerprint."
+    },
+    {
+      "mechanism": "time-control (her hours become accountable)",
+      "his_language": "What's the plan for your day? Walk me through it. I just like to know the schedule, keeps us both efficient and on the same page.",
+      "her_experience": "He likes to know my schedule for the day, which felt like a lot at first, but he says it keeps us coordinated and honestly it does.",
+      "expert_notices": "Her time made accountable to him (walk me through it) under an efficiency frame; the accounting of her hours is the behavioral control. She registers 'a lot' then accepts the rationale. Distinct from Marley's possessive checking (this is logistics/order)."
+    },
+    {
+      "mechanism": "time-control (idle time as failure)",
+      "his_language": "What did you actually get done today? A day with nothing to show for it is a day you don't get back. I can't sit still like that.",
+      "her_experience": "He asks what I accomplished each day. It can feel like a performance review, but it does push me to use my time better.",
+      "expert_notices": "Idle time recoded as moral failure (nothing to show for it); her day subject to his audit (performance review, in her own words). Empathy1 floor (rest = waste). She frames the audit as motivating."
+    },
+    {
+      "mechanism": "time-control (his schedule is the schedule)",
+      "his_language": "I run a tight schedule and it works, so we'll build yours around the fixed points in mine. Easier than two systems fighting each other.",
+      "her_experience": "We've organized my week around his fixed commitments, since his schedule is less flexible. It made sense and my time feels more structured now.",
+      "expert_notices": "Her schedule subordinated to his as the fixed reference (build yours around mine); Enmeshment8 + the one-directional standard. 'Made sense' is the rationale she supplies. The asymmetry invisible to her."
+    },
+    {
+      "mechanism": "conduct-as-representation (presentable)",
+      "his_language": "Wear something on the conservative side tonight, these are serious people. How you present reflects on me, and on us as a couple. Presentation matters.",
+      "her_experience": "He asked me to dress more conservatively for an event with important people, said it reflects on us. It's not how I'd usually dress but I want to make him proud.",
+      "expert_notices": "Appearance policed as REPRESENTATION of him/the order (reflects on me, on us), not jealousy (Marley) or appraisal (Evan). Behavior-steer toward his standard of appropriate. She complies to 'make him proud.' Charlot: tries to change you."
+    },
+    {
+      "mechanism": "conduct-as-representation (composure in public)",
+      "his_language": "When we're out with my people, keep it composed. No getting loud or too opinionated. There's a way we conduct ourselves. It matters more than you'd think.",
+      "her_experience": "He likes me to be composed around his community, not too loud or forward. I've toned myself down at those things. I figure every group has its norms.",
+      "expert_notices": "Public conduct policed as conformity to the order (a way we conduct ourselves); her self-expression (loud, opinionated) recoded as inappropriate. She tones herself down, naming it as norms. Self-erasure framed as etiquette."
+    },
+    {
+      "mechanism": "conduct-as-representation (she carries his standing)",
+      "his_language": "You represent me when you're out there, whether I'm with you or not. I hold myself to a standard and I need the people closest to me to hold it too.",
+      "her_experience": "He said I represent him even when he's not there, which is a big responsibility but also kind of an honor, like he trusts me with his name.",
+      "expert_notices": "Her autonomy recoded as representation of him (you represent me); his standard extended to her conduct even in his absence (remote behavioral control). She reframes the burden as honor/trust. Grandiosity8."
+    },
+    {
+      "mechanism": "conduct-as-representation (correction framed as standards)",
+      "his_language": "That story you told at dinner, maybe keep that one in the vault going forward. Not our crowd's kind of humor. I'm looking out for how you come across.",
+      "her_experience": "He gently told me a joke I made didn't land with his crowd and to skip it next time. A little embarrassing, but he's just helping me read the room.",
+      "expert_notices": "Post-hoc correction of her self-expression to fit the order (not our crowd's humor), framed as protective coaching (looking out for how you come across). She absorbs it as her social error. Infantilizing."
+    },
+    {
+      "mechanism": "rules-with-reasons (justification as control)",
+      "his_language": "It's not me telling you what to do. It's just that statistically that route's more dangerous at night, so we don't take it. It's not personal, it's facts.",
+      "her_experience": "He always has a logical reason for the things he'd prefer I do or not do, usually safety. It's hard to argue with because he's usually right.",
+      "expert_notices": "Control delivered as impersonal reason (it's not me, it's facts) so non-compliance feels irrational; the justification is the mechanism (Cog-flex2/Sense-of-Self10). 'Hard to argue with' = the design. NOT winning an argument (Avery): he treats her compliance as the only rational option."
+    },
+    {
+      "mechanism": "rules-with-reasons (your disagreement = you don't understand)",
+      "his_language": "If you understood the reasoning the way I do, you'd land where I have. So let me walk you through why, and then it'll make sense.",
+      "her_experience": "When I disagree he patiently explains his reasoning until I see it his way. He's not dismissive, he genuinely thinks I'll agree once I get it. And often I do.",
+      "expert_notices": "Her disagreement recoded as incomplete understanding (if you understood, you'd agree); he doesn't argue the point (Avery) he re-explains the standard until she yields. Charlot: disregards your reasoning. The patience is the trap."
+    },
+    {
+      "mechanism": "rules-with-reasons (principle over her preference)",
+      "his_language": "I'm not being inflexible. I just have principles, and a principle you abandon when it's inconvenient was never a principle. You'll understand that about me.",
+      "her_experience": "He's very principled and doesn't bend his rules even when I'd prefer he did. I used to think that was stubborn but now I kind of admire the consistency.",
+      "expert_notices": "Rigidity (Cog-flex2) reframed as integrity (principle you abandon was never a principle); her preferences subordinated to his fixed code. She converts 'stubborn' into 'admirable consistency.' The immovability seam."
+    },
+    {
+      "mechanism": "its-the-rules (rules he lives by, self-applied)",
+      "his_language": "I've got rules I live by and I don't break them, not for convenience, not for anybody. That's just who I am.",
+      "her_experience": "He lives by this clear set of personal rules and never bends them. After dating guys with no backbone, a man with a real code is so attractive.",
+      "expert_notices": "Rule applied to HIMSELF (rules I live by); reads as integrity/backbone. The seam is the absoluteness (not for anybody, never bend) that will later extend to her. Early, glossy, self-directed. She's happy."
+    },
+    {
+      "mechanism": "its-the-rules (right way exists, impersonal)",
+      "his_language": "There's a right way to do most things. I didn't invent it, it's just how it's done properly. I follow it because it works.",
+      "her_experience": "He believes there's a proper way to do things and he follows it to the letter. It's part of why he's so successful and reliable, I think.",
+      "expert_notices": "Conventionalism (a right way, how it's done properly) as impersonal fact he submits to (didn't invent it); attributed by her to his success/reliability. The non-negotiable standard, not yet aimed at her."
+    },
+    {
+      "mechanism": "its-the-rules (follows the rules at work, respected)",
+      "his_language": "I go by the book at work. Every procedure, every standard, no cutting corners. It's why they trust me with the big stuff.",
+      "her_experience": "He's so respected at his job because he does everything by the book, never cuts a corner. Watching how seriously people take him is impressive.",
+      "expert_notices": "Rule-following as the source of his standing/respect (why they trust me); she admires the success it produces. Self-applied discipline, fully early-stage, reads as professional excellence."
+    },
+    {
+      "mechanism": "its-the-rules (no exceptions, even for himself)",
+      "his_language": "I hold myself to the rules harder than I'd ever hold anyone else. If I cheat on the small stuff, the whole thing falls apart.",
+      "her_experience": "He's actually strictest with himself, holds himself to a higher bar than anyone. That kind of self-discipline is rare and I really respect it.",
+      "expert_notices": "Self-applied strictness (strictest with myself) is the move that LICENSES later imposition on her (if I hold myself to it...); reads now as admirable rigor. She respects it; the imposition seam is invisible."
+    },
+    {
+      "mechanism": "its-the-rules (order prevents chaos, principled)",
+      "his_language": "Rules aren't there to box you in. They're there so things don't fall into chaos. People who roll their eyes at structure are usually the ones whose lives are a mess.",
+      "her_experience": "He has this grounded view that rules and structure are what keep life from falling apart. He has a point, the most chaotic people I know do reject all that.",
+      "expert_notices": "Conventionalism defended as anti-chaos (rules so things don't fall into chaos); the faint contempt downward (people whose lives are a mess) laundered as observation. She agrees, adopting the frame. Apple of order."
+    },
+    {
+      "mechanism": "its-the-rules (the rule is the authority, not him)",
+      "his_language": "Don't go by what I want, go by what's correct. I'm not the boss of it either, the standard is the standard. I just keep to it.",
+      "her_experience": "He insists it's not about him being in charge, it's about doing what's correct. He frames himself as serving the standard, not bossing people. It's humble in a way.",
+      "expert_notices": "Authority displaced onto 'the standard' (I'm not the boss of it either) so compliance isn't to HIM, it's to correctness; this is the laundering that later makes resisting him feel like resisting truth. She reads humility. Sets up rules-with-reasons."
+    },
+    {
+      "mechanism": "its-the-rules (faint first inclusion of her, gentle)",
+      "his_language": "When you're with someone like me, there's a rhythm to how things run. Nothing heavy, you'll pick it up. It's a good way to live, you'll see.",
+      "her_experience": "He says being with him comes with a certain rhythm to things and that I'll pick it up. It sounds nice honestly, like a more orderly life than I've had.",
+      "expert_notices": "The FIRST faint extension of the rules toward her (a rhythm to how things run, you'll pick it up) kept soft and appealing (nothing heavy, a good way to live); behavior-steer in seed form. Early-stage: an invitation, not a command. She's drawn to the order."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the provider type. I want to be the one taking care of things so you don't have to worry.",
+      "her_experience": "He sounds capable and steady, like I could finally stop carrying everything.",
+      "expert_notices": "Leadership becomes authority over her, not just competence in his own life."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I have high standards for how a household runs, and I don't apologize for that.",
+      "her_experience": "It feels reassuring, like he can bring order to chaos.",
+      "expert_notices": "Done right means done his way; her methods become mistakes to correct."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I believe the man should carry the weight in a relationship. That's how I was raised.",
+      "her_experience": "It sounds protective and generous, like I wouldn't be alone anymore.",
+      "expert_notices": "Handling everything centralizes power; her practical independence can erode."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I make the hard calls so the people I love don't have to. That's what a man does.",
+      "her_experience": "He sounds confident, like he won't leave me stuck in uncertainty.",
+      "expert_notices": "Decisiveness can erase consultation; once he decides, her input becomes delay."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like a household that runs on a system. Everyone knows their role and things just work.",
+      "her_experience": "It feels stable, like he thinks ahead and won't drift.",
+      "expert_notices": "Planning becomes possession of the future; her changes or preferences become disruptions."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm old-fashioned about who does what, and honestly most women find it a relief.",
+      "her_experience": "It sounds safe, like he'll prevent problems before they happen.",
+      "expert_notices": "Not leaving things to chance can become surveillance and restriction."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "When I commit to a woman, I take full responsibility for her. All of it.",
+      "her_experience": "It sounds mature and dependable, like he takes his role seriously.",
+      "expert_notices": "Responsibility may mean gendered hierarchy where he leads and she complies."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't think a relationship is equal so much as it's two people with their own lanes.",
+      "her_experience": "He sounds strong and trustworthy in a crisis.",
+      "expert_notices": "Crisis competence becomes justification for taking over outside crises too."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not controlling, I just have a clear idea of how things should be done, and I'm usually right.",
+      "her_experience": "It sounds honest and maybe even endearing.",
+      "expert_notices": "Particular becomes a softened word for rigid control over shared life."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I set the direction and I expect to be trusted on it. That's earned, but I expect it.",
+      "her_experience": "It feels impressive, like he can guide us well.",
+      "expert_notices": "He will privilege his judgment over hers under the banner of efficiency."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I want to build something solid, and that means someone who'll follow my lead on the big things.",
+      "her_experience": "It sounds caring, like he builds stability for others.",
+      "expert_notices": "Structure can become a cage, especially when safety is defined by him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I look after my own. In exchange I ask for loyalty and that my judgment gets respected.",
+      "her_experience": "He sounds dependable, like he won't make me do everything.",
+      "expert_notices": "Stepping up can mean stepping over her decisions."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I think a good man should make his partner's life simpler by making the decisions.",
+      "her_experience": "It feels like relief, especially after doing everything myself.",
+      "expert_notices": "Making life easier may mean removing choice and making dependency feel comfortable."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I run a tight ship at home, finances, schedule, all of it, and it works.",
+      "her_experience": "He sounds intentional, like he knows himself and his values.",
+      "expert_notices": "His life run becomes the template she must adapt to."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't do chaos. I need a partner who's comfortable letting me steer.",
+      "her_experience": "It feels reassuring that he won't be flaky.",
+      "expert_notices": "Firm plans can become inflexible demands where her uncertainty is not allowed."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm protective to a fault. I need to know where things stand and where my partner is.",
+      "her_experience": "It sounds attentive and invested.",
+      "expert_notices": "Hands-on becomes intrusive when she becomes something important to manage."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I believe respect in a relationship means deferring to whoever's got the better judgment. Usually that's me.",
+      "her_experience": "He sounds capable, like he won't let things spiral.",
+      "expert_notices": "Immediate solutions can bypass her feelings, consent, and process."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I've built a stable life and I want a woman who appreciates being taken care of within it.",
+      "her_experience": "It sounds warm and intentional, like he cares about domestic life.",
+      "expert_notices": "His standards become household rules she must satisfy."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'll handle the world so you don't have to, but my house runs my way.",
+      "her_experience": "It sounds brave, like he'll take pressure off me.",
+      "expert_notices": "He authorizes harshness as protection and appoints himself moral enforcer."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of man who'll fix everything for you, as long as you trust how I do it.",
+      "her_experience": "It sounds romantic, like surrendering control would create ease.",
+      "expert_notices": "Full trust becomes compliance; questioning him becomes failure to support his leadership."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone traditional who puts family first.",
+      "her_experience": "We have the same old-school values, family matters to me too, so it feels aligned.",
+      "expert_notices": "He is pre-screening for deference to male authority and a hierarchy he leads, ensuring she accepts his control."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who lets me take the lead.",
+      "her_experience": "He is a confident, protective man who wants to take care of things, which is hot.",
+      "expert_notices": "He is directly selecting for submissiveness, ensuring his decisions will never be questioned or countermanded."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who values a man who provides.",
+      "her_experience": "He wants to be a traditional provider and protector, which makes me feel safe.",
+      "expert_notices": "He is using financial provision as a tool to demand total ownership and control over her choices."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who respects how a relationship should be run.",
+      "her_experience": "He appreciates traditional gender roles and clarity about who does what.",
+      "expert_notices": "He is masking his demand for absolute structural dominance behind the benign language of natural roles."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a feminine woman who's happy in a traditional role.",
+      "her_experience": "He loves true femininity and wants a classic chivalrous relationship.",
+      "expert_notices": "He is filtering for a target who believes compliance and deference are essential components of her womanhood."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a girl who trusts her man's judgment completely.",
+      "her_experience": "He wants a deep trusting bond where he feels respected as the leader.",
+      "expert_notices": "He is selecting for a blind obedience that will allow him to make major life decisions without her consent."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who focuses on creating a peaceful home.",
+      "her_experience": "He wants a beautiful calm domestic life where we can both relax.",
+      "expert_notices": "He is assigning her the total responsibility for domestic labor while keeping all structural power for himself."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who understands that the man protects the household.",
+      "her_experience": "He is fiercely protective and wants to make sure I am always safe.",
+      "expert_notices": "He is framing his hyper-surveillance, jealousy, and restriction of her movement as chivalrous protection."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a sweet family-oriented woman who wants to stay home with kids.",
+      "her_experience": "He wants a beautiful traditional family and values motherhood,  which is wonderful.",
+      "expert_notices": "He is seeking to cut off her financial independence and career ties, making it incredibly difficult for her to leave."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who doesn't challenge my authority in front of others.",
+      "her_experience": "He values public respect and wants us to look like a united front.",
+      "expert_notices": "He is ensuring she will never look for outside help or expose his controlling behavior to friends."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who takes pride in taking care of her family.",
+      "her_experience": "He appreciates hard work and traditional domestic devotion, which feels rewarding.",
+      "expert_notices": "He is looking for a target who will accept a subservient position as her primary moral duty."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a lady who knows how to carry herself with modesty.",
+      "her_experience": "He respects me and wants a classy woman, not someone desperate for attention.",
+      "expert_notices": "He is starting the process of controlling her wardrobe, makeup, and self-expression under the guise of modesty."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who is comfortable with a strong old-school provider.",
+      "her_experience": "He is a real man's man who wants to take care of his woman completely.",
+      "expert_notices": "He is screening out independent women who would demand financial transparency and equal partnership."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who lets a man be a man.",
+      "her_experience": "He values his masculinity and wants a relationship where he can be strong.",
+      "expert_notices": "He is establishing a pass for aggressive, entitled, or patriarchal behavior as just being a man."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who defers to my experience in big decisions.",
+      "her_experience": "He is mature and experienced, so it makes sense that he wants to guide us.",
+      "expert_notices": "He is demand-testing for a target who will surrender her financial and geographic autonomy."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a traditional marriage built on clear distinct roles.",
+      "her_experience": "He likes structure and clarity, which makes a relationship feel stable.",
+      "expert_notices": "He is establishing an authoritarian framework where his role is command and her role is obedience."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who values family and where she comes from.",
+      "her_experience": "He is high-principled and wants to build a respectable family name with me.",
+      "expert_notices": "He is preparing to use family pressure and reputational guilt to keep her from breaking the marriage."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who looks up to her partner.",
+      "her_experience": "He wants to be admired and respected by the woman he loves.",
+      "expert_notices": "He is selecting for an unbalance of power where she views herself as inherently inferior to him."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who lets me handle the heavy lifting in life.",
+      "her_experience": "He is supportive and wants to protect me from stress and financial worry.",
+      "expert_notices": "He is attempting to take over all financial levers, leaving her without any resources of her own."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who believes the husband is the head of the home.",
+      "her_experience": "He has strong faith and values traditional spiritual leadership, which I find grounding.",
+      "expert_notices": "He is securing structural justification for domestic tyranny and total control."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Hustle Culture",
+      "snippet": "What do you do?",
+      "type": "question",
+      "translation": "He's checking where you fall in the status hierarchy — founder is top corporate worker is bottom",
+      "status_signal": "Founder > investor > executive > consultant > corporate professional > everything else",
+      "notes": "Status probe disguised as small talk"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "How's business?",
+      "type": "question",
+      "translation": "He's confirming you have a business and signaling that he has one too",
+      "status_signal": "Founder-identity probe",
+      "notes": "Tests entrepreneurial status"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "How's the team?",
+      "type": "question",
+      "translation": "He's checking whether you have employees — and signaling that he does",
+      "status_signal": "Tests company scale",
+      "notes": "Founder-status probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "What's your morning routine?",
+      "type": "question",
+      "translation": "He's checking whether you're disciplined about optimization or just a normal person",
+      "status_signal": "Expected answer involves waking early cold exposure fasting journaling working out",
+      "notes": "Discipline-as-identity probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Are you in any masterminds?",
+      "type": "question",
+      "translation": "He's asking whether you're in paid high-status networking circles",
+      "status_signal": "Tests network access and willingness to invest in development",
+      "notes": "Status-network probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Who's your coach?",
+      "type": "question",
+      "translation": "He's checking whether you have a coach and who specifically",
+      "status_signal": "Tests development infrastructure and specific coaching lineage",
+      "notes": "Standard self-improvement probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Have you done Strategic Coach?",
+      "type": "question",
+      "translation": "He's checking whether you're plugged into specific founder development programs",
+      "status_signal": "Strategic Coach signals founder development; specific programs signal sub-orientations",
+      "notes": "Specific program probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "What's your AUM?",
+      "type": "question",
+      "translation": "Finance-bro variant — how much money do you manage",
+      "status_signal": "Tests scale of finance role",
+      "notes": "Finance-specific status probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "What's your headcount?",
+      "type": "question",
+      "translation": "He's asking how many employees you have",
+      "status_signal": "Tests company scale",
+      "notes": "Founder-scale probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "What round are you on?",
+      "type": "question",
+      "translation": "He's asking what funding round your startup has raised",
+      "status_signal": "Series A B C signals startup scale and stage",
+      "notes": "Startup-scale probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Who's in your network?",
+      "type": "question",
+      "translation": "He's testing whether you have access to high-status people",
+      "status_signal": "Tests network access",
+      "notes": "Connection-status probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Are you on Twitter / X?",
+      "type": "question",
+      "translation": "He's checking whether you participate in the network on the platform that matters in his world",
+      "status_signal": "X presence signals being in the network",
+      "notes": "Network-platform probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Operator",
+      "type": "lifestyle marker",
+      "translation": "Self-description as someone who runs things",
+      "status_signal": "Specific hustle-culture identity claim",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Series A / Series B / Series C",
+      "type": "lifestyle marker",
+      "translation": "Funding round terminology — signals startup scale and stage",
+      "status_signal": "Series B+ signals legitimate scaled startup; pre-seed signals aspirational",
+      "notes": "Startup-scale signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Pre-seed",
+      "type": "lifestyle marker",
+      "translation": "Earliest stage funding — often signals aspirational rather than established",
+      "status_signal": "Standard early-stage signal",
+      "notes": "Startup-stage signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Bootstrapped",
+      "type": "lifestyle marker",
+      "translation": "No outside investment — sometimes pride sometimes lack of access",
+      "status_signal": "Specific positioning — funding-independent identity",
+      "notes": "Specific identity marker"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Acquired",
+      "type": "lifestyle marker",
+      "translation": "Company was bought — signals successful exit",
+      "status_signal": "Major status signal — successful exit",
+      "notes": "Exit-status signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Exit",
+      "type": "vocabulary",
+      "translation": "Sale of company — the goal of startup work",
+      "status_signal": "Hustle-culture vocabulary for endgame",
+      "notes": "Major terminology"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Angel from [specific founder]",
+      "type": "lifestyle marker",
+      "translation": "Angel investor who is a known founder",
+      "status_signal": "Network-access signal",
+      "notes": "Specific investor type"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Cap table",
+      "type": "vocabulary",
+      "translation": "The list of who owns equity in the company",
+      "status_signal": "Standard startup vocabulary",
+      "notes": "Hustle-culture terminology"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Term sheet",
+      "type": "vocabulary",
+      "translation": "Investment agreement document",
+      "status_signal": "Standard startup vocabulary",
+      "notes": "Hustle-culture terminology"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Tesla Model S / X",
+      "type": "status signal",
+      "translation": "Specific car signaling tech early-adopter",
+      "status_signal": "Tech-bro signal",
+      "notes": "Car-as-status signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Porsche Taycan",
+      "type": "status signal",
+      "translation": "Specific car signaling current EV money",
+      "status_signal": "Current-wealth signal",
+      "notes": "Car-as-status signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Range Rover",
+      "type": "status signal",
+      "translation": "Specific car signaling different aesthetic — established wealth",
+      "status_signal": "Old-money or established-wealth signal",
+      "notes": "Car-as-status signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "No bag / carries nothing",
+      "type": "status signal",
+      "translation": "Carrying nothing signals busy-and-important",
+      "status_signal": "Specific deliberate-minimalism signal",
+      "notes": "Anti-signal as signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Specific leather bag (Goyard / Hermès)",
+      "type": "status signal",
+      "translation": "Specific high-status accessories",
+      "status_signal": "Wealth-aesthetic signal",
+      "notes": "Accessory-as-status signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Equinox",
+      "type": "lifestyle marker",
+      "translation": "Premium gym chain — signals coastal professional",
+      "status_signal": "Coastal-professional signal",
+      "notes": "Specific gym membership"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Barry's Bootcamp",
+      "type": "lifestyle marker",
+      "translation": "Specific boutique fitness — signals fitness commitment",
+      "status_signal": "Specific fitness identity",
+      "notes": "Gym-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "CrossFit",
+      "type": "lifestyle marker",
+      "translation": "Specific fitness culture",
+      "status_signal": "Different fitness identity",
+      "notes": "Gym-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Cold plunge",
+      "type": "lifestyle marker",
+      "translation": "Ice-water immersion as discipline marker",
+      "status_signal": "Standard optimization signal",
+      "notes": "Discipline practice"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Sauna",
+      "type": "lifestyle marker",
+      "translation": "Heat exposure as discipline marker",
+      "status_signal": "Standard optimization signal",
+      "notes": "Discipline practice"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Intermittent fasting / IF",
+      "type": "lifestyle marker",
+      "translation": "Time-restricted eating as discipline marker",
+      "status_signal": "Standard optimization signal",
+      "notes": "Diet-discipline practice"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "OMAD",
+      "type": "lifestyle marker",
+      "translation": "One meal a day — stricter fasting protocol",
+      "status_signal": "Stronger optimization signal",
+      "notes": "Diet-discipline practice"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "NMN / NAD+ supplements",
+      "type": "lifestyle marker",
+      "translation": "Specific longevity-focused supplements",
+      "status_signal": "Longevity-optimization signal",
+      "notes": "Supplement-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Peptides",
+      "type": "lifestyle marker",
+      "translation": "Specific performance/longevity compounds",
+      "status_signal": "Optimization commitment signal",
+      "notes": "Supplement-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Functional medicine doctor",
+      "type": "lifestyle marker",
+      "translation": "Alternative medical practitioner often used by optimization-fluent",
+      "status_signal": "Money + alternative-medicine worldview signal",
+      "notes": "Specific health infrastructure"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Longevity clinic",
+      "type": "lifestyle marker",
+      "translation": "Specific medical infrastructure for life-extension",
+      "status_signal": "Wealth + optimization signal",
+      "notes": "Specific health infrastructure"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Strategic Coach",
+      "type": "lifestyle marker",
+      "translation": "Dan Sullivan founder coaching program",
+      "status_signal": "Specific founder-development signal",
+      "notes": "Specific program"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "EOS Worldwide / Traction",
+      "type": "lifestyle marker",
+      "translation": "Specific business operating system",
+      "status_signal": "Mid-size company signal",
+      "notes": "Specific business framework"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Hoffman Process",
+      "type": "lifestyle marker",
+      "translation": "Week-long psychological retreat",
+      "status_signal": "Psychological-work + wealth signal",
+      "notes": "Specific retreat"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Landmark Forum",
+      "type": "lifestyle marker",
+      "translation": "Specific self-development program — sometimes considered cult-adjacent",
+      "status_signal": "Specific development signal",
+      "notes": "Specific program"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Founder retreats",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only founder gatherings",
+      "status_signal": "Specific network-access signal",
+      "notes": "Specific events"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm building something",
+      "type": "phrase",
+      "translation": "He's a founder — signaling identity through what he's building",
+      "status_signal": "Major founder-identity signal",
+      "notes": "Standard self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm in growth mode",
+      "type": "phrase",
+      "translation": "He's scaling — current trajectory framing",
+      "status_signal": "Standard momentum signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm scaling right now",
+      "type": "phrase",
+      "translation": "He's in growth phase — same as above",
+      "status_signal": "Standard momentum signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm in deep work",
+      "type": "phrase",
+      "translation": "He can't be interrupted — using Cal Newport's vocabulary",
+      "status_signal": "Standard focus-priority signal",
+      "notes": "Borrows specific framework"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm locked in",
+      "type": "phrase",
+      "translation": "He's currently focused on his work",
+      "status_signal": "Standard focus signal",
+      "notes": "Often signals reduced availability"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm playing the long game",
+      "type": "phrase",
+      "translation": "He's pursuing patient strategy — often used to justify delays",
+      "status_signal": "Standard patience framing",
+      "notes": "Often deflects from current behavior"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm leveling up",
+      "type": "phrase",
+      "translation": "He's improving — gamified life vocabulary",
+      "status_signal": "Standard improvement signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm optimizing",
+      "type": "phrase",
+      "translation": "He's improving his systems — applied broadly to his life",
+      "status_signal": "Standard self-improvement signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm running a 90-day sprint",
+      "type": "phrase",
+      "translation": "He's in a time-boxed focus period",
+      "status_signal": "Standard time-boxing framing",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm protecting my time",
+      "type": "phrase",
+      "translation": "He's refusing demands on his attention — using wellness vocabulary to dignify it",
+      "status_signal": "Boundary-vocabulary deployment",
+      "notes": "Often refuses partner needs"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm protecting my energy",
+      "type": "phrase",
+      "translation": "He's refusing emotional engagement — using wellness vocabulary",
+      "status_signal": "Boundary-vocabulary deployment",
+      "notes": "Often refuses partner emotional labor"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I need a partner who's running at my pace",
+      "type": "phrase",
+      "translation": "He needs someone equally optimization-committed and won't slow down for you",
+      "status_signal": "Pace-matching demand",
+      "notes": "Frames you as needing to match him"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I need a partner who's locked in",
+      "type": "phrase",
+      "translation": "He needs someone equally focused on goals",
+      "status_signal": "Same as above — pace-matching demand",
+      "notes": "Standard demand"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "She doesn't understand the mission",
+      "type": "phrase about an ex or current partner",
+      "translation": "Partner doesn't share his goals — framed as her failure",
+      "status_signal": "Partner-as-failure framing",
+      "notes": "Reveals how he describes partners"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "He's not on my level",
+      "type": "phrase",
+      "translation": "Status difference framed as objective hierarchy",
+      "status_signal": "Standard hustle-hierarchy framing",
+      "notes": "Reveals worldview"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm not playing small anymore",
+      "type": "phrase",
+      "translation": "He's upgraded ambitions — often signals leaving past relationships behind",
+      "status_signal": "Self-aggrandizement framing",
+      "notes": "Often signals partner-as-anchor framing"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm dialed in",
+      "type": "phrase",
+      "translation": "He's focused",
+      "status_signal": "Standard focus signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm executing",
+      "type": "phrase",
+      "translation": "He's doing the work — execution as identity",
+      "status_signal": "Standard execution signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm on the buy-side",
+      "type": "phrase",
+      "translation": "He works at hedge fund private equity or asset management",
+      "status_signal": "Specific finance positioning",
+      "notes": "Industry-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm on the sell-side",
+      "type": "phrase",
+      "translation": "He works in investment banking or sales",
+      "status_signal": "Specific finance positioning",
+      "notes": "Industry-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I made partner",
+      "type": "phrase",
+      "translation": "He's reached partner level at PE/VC/law firm",
+      "status_signal": "Major status milestone",
+      "notes": "Specific career achievement"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "VC",
+      "type": "vocabulary",
+      "translation": "Venture capital — investment in startups",
+      "status_signal": "Standard hustle vocabulary",
+      "notes": "Industry term"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "PE",
+      "type": "vocabulary",
+      "translation": "Private equity",
+      "status_signal": "Standard hustle vocabulary",
+      "notes": "Industry term"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "My LPs",
+      "type": "phrase",
+      "translation": "Limited partners — investors in his fund",
+      "status_signal": "Fund-manager identity",
+      "notes": "Specific role marker"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "My mission",
+      "type": "phrase",
+      "translation": "His life purpose framed as military operation",
+      "status_signal": "Standard mission rhetoric",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "My vision",
+      "type": "phrase",
+      "translation": "His goal as singular guiding principle",
+      "status_signal": "Standard vision rhetoric",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "My north star",
+      "type": "phrase",
+      "translation": "His primary guiding principle",
+      "status_signal": "Standard rhetoric",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I need a partner who supports the mission",
+      "type": "phrase",
+      "translation": "He wants someone who'll subordinate her life to his goals",
+      "status_signal": "Major partner-expectation framing",
+      "notes": "Standard demand"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I need a high-performance partner",
+      "type": "phrase",
+      "translation": "He wants someone who matches his optimization",
+      "status_signal": "Specific partner criteria",
+      "notes": "Filter on partner"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I need someone who understands that the work comes first",
+      "type": "phrase",
+      "translation": "He needs you to accept that his work will always be the priority",
+      "status_signal": "Major hierarchy framing",
+      "notes": "Standard demand"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm not really available right now but it's worth it",
+      "type": "phrase",
+      "translation": "Framing his unavailability as worth your patience",
+      "status_signal": "Standard delay framing",
+      "notes": "Often used long-term"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm in monk mode",
+      "type": "phrase",
+      "translation": "He's saying he's focused/withdrawn from social life — coded for intense work/optimization mindset",
+      "status_signal": "Sounds quirky but signals worldview — scarcity framing of time and relationships",
+      "notes": "Common in-group phrasing"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm grinding",
+      "type": "phrase",
+      "translation": "He's working very hard — signals optimization-and-output worldview",
+      "status_signal": "Common in-group phrasing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm 1% better every day",
+      "type": "phrase",
+      "translation": "Specific incremental-improvement framing",
+      "status_signal": "James Clear-derived but signals broader worldview",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm in beast mode",
+      "type": "phrase",
+      "translation": "Direct hyperintensity framing",
+      "status_signal": "Standard in-group phrasing",
+      "notes": "Common phrasing"
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "scenario_id": "S-105",
+  "player_type": "Arrogant Avery",
+  "scenario": {
+    "scenario_id": "S-105",
+    "architecture_name": "He uses brilliance, correction, and chivalry to make me feel chosen while quietly becoming the authority on what I think and how I should grow.",
+    "culture": "Modern Orthodox Jewish",
+    "demographics": "Likely adult woman; Jewish man named Moshe; he is a few years older; dating/courting in Brooklyn",
+    "cultural_context": "Jewish family/social circle with kosher dating and marriage-oriented courtship",
+    "geographic_setting": "Brooklyn, New York City; urban Jewish social environment",
+    "core_behaviors": [
+      "Uses intellectual praise as a hook",
+      "Frames correction as care and investment",
+      "Creates a club-of-two feeling that makes his judgment feel special",
+      "Keeps the car, the plan, and the interpretive authority"
+    ],
+    "satellite_signals": "Kosher dating, Brooklyn Jewish social circle, family and shul references, and a polished Modern Orthodox register make his control feel like maturity and standards rather than pressure.",
+    "dismissible_red_flags": "He mostly sounds impressive, warm, and unusually attentive. The only off-note is that he keeps turning small disagreements into lessons, but that can easily read as confidence or high standards.",
+    "scenario_text": "I met Moshe at my cousin’s shalosh seudah in Brooklyn, and he was the one person there who could talk for ten minutes about a sugya and then turn around and make my aunt laugh. He’s a few years older than me, went to a yeshiva everyone seems to know, and has that calm, certain way of speaking that makes you feel like he’s already thought through whatever you’re about to say. I kind of liked that. It felt steady.\n\nOn our third date he picked me up and said, “Ask me anything, honestly. History, markets, how your car works. I’ll have an answer.” I laughed because he really did seem to know something about everything. Later, when I said I was still deciding about a work thing, he said, “Good, push back. I like that you actually think.” That was such a nice change from guys who just nod.\n\nHe’s also very into “helping.” When I mentioned my boss, he immediately mapped out what I should say, then texted me a cleaner version after I got home. “I push you because I see what you could be,” he said, and I know he meant it sweetly. He says things like, “You could do something extraordinary,” in this really matter-of-fact way that makes it hard not to believe him.\n\nThe thing is, when I disagreed with him about something small, he smiled and said, “Sure, technically, but that was never my point. You’re missing the bigger picture.” I ended up feeling like I’d won the little thing and lost the real one. Maybe I’m being sensitive. He is usually right, and honestly it does feel good to be with someone who’s so clear.\n\nStill, he keeps calling me “smart” in this very particular way, like it’s a standard he’s already measuring me against. Is it weird that I keep thinking about that?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Moshe at my cousin’s shalosh seudah in Brooklyn",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the relationship inside a specific Modern Orthodox social world. The cousin gathering and Brooklyn setting make the courtship feel community-based, not random.",
+      "snippet_id": "S-105-SN0001"
+    },
+    {
+      "quote": "he was the one person there who could talk for ten minutes about a sugya",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He presents himself as unusually learned and impressive in the room. It reads as attractive, but it also establishes him as the one with the authority and the intellectual edge.",
+      "snippet_id": "S-105-SN0002"
+    },
+    {
+      "quote": "make my aunt laugh",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is socially skilled and disarming, which helps him move easily through her family space. The charm makes later correction feel less alarming.",
+      "snippet_id": "S-105-SN0003"
+    },
+    {
+      "quote": "He’s a few years older than me",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The age gap is mild, but it still supports the sense that he is the more established person. That matters because he will be the one setting the tone.",
+      "snippet_id": "S-105-SN0004"
+    },
+    {
+      "quote": "went to a yeshiva everyone seems to know",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is insider status language. It signals standing in the community and helps explain why his opinions can feel weighty before he ever says much.",
+      "snippet_id": "S-105-SN0005"
+    },
+    {
+      "quote": "that calm, certain way of speaking",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Confidence-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His composure reads as maturity, but it also makes him feel like the default authority. She starts orienting to his certainty instead of her own read.",
+      "snippet_id": "S-105-SN0006"
+    },
+    {
+      "quote": "it felt steady",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is soothing herself with the idea that calm equals good. That can be true, but here it also helps her overlook how one-sided the dynamic is becoming.",
+      "snippet_id": "S-105-SN0007"
+    },
+    {
+      "quote": "Ask me anything, honestly",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds open, but it also positions him as the person who knows and can answer everything. The openness is part of the authority he is building.",
+      "snippet_id": "S-105-SN0008"
+    },
+    {
+      "quote": "I’ll have an answer",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is advertising himself as the source of answers. That creates a subtle dependency because her uncertainty now has a designated resolver.",
+      "snippet_id": "S-105-SN0009"
+    },
+    {
+      "quote": "I like that you actually think",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is flattering, but it also sets up a hierarchy where her thinking is being judged by him. Approval is offered as a prize, which makes disagreement feel costly.",
+      "snippet_id": "S-105-SN0010"
+    },
+    {
+      "quote": "That was such a nice change from guys who just nod",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is comparing him favorably to other men, which makes his attention feel special. That specialness can hide the fact that he is already positioning himself as the one who evaluates her mind.",
+      "snippet_id": "S-105-SN0011"
+    },
+    {
+      "quote": "When I mentioned my boss",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small doorway into her work life. It matters because he immediately steps into that space as the fixer, not as a listener.",
+      "snippet_id": "S-105-SN0012"
+    },
+    {
+      "quote": "he immediately mapped out what I should say",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes over her response instead of helping her think it through. The phrasing turns advice into direction, which is the early shape of control.",
+      "snippet_id": "S-105-SN0013"
+    },
+    {
+      "quote": "he texted me a cleaner version after I got home",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Perseverance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He does not just offer a thought and leave it. He follows up with a revised script, which keeps his interpretation active after the conversation ends.",
+      "snippet_id": "S-105-SN0014"
+    },
+    {
+      "quote": "I push you because I see what you could be",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is correction framed as generosity. It sounds loving, but it also makes his standards the measure of her potential, so resistance can be recast as refusing growth.",
+      "snippet_id": "S-105-SN0015"
+    },
+    {
+      "quote": "You could do something extraordinary",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is the classic mentor line. It elevates her, but through his gaze, which means his approval becomes the gate to her own sense of possibility.",
+      "snippet_id": "S-105-SN0016"
+    },
+    {
+      "quote": "Sure, technically, but that was never my point",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He concedes the small fact and then repositions the whole argument so he still wins. That makes her rightness feel irrelevant, which is exhausting and destabilizing.",
+      "snippet_id": "S-105-SN0017"
+    },
+    {
+      "quote": "You’re missing the bigger picture",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This turns her disagreement into a cognitive flaw. It sounds reasonable, but it quietly tells her that her perspective is too small to count against his.",
+      "snippet_id": "S-105-SN0018"
+    },
+    {
+      "quote": "I ended up feeling like I’d won the little thing and lost the real one",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She can feel the futility even if she cannot yet name it. The structure is already there: she gets a technical win but loses interpretive ground.",
+      "snippet_id": "S-105-SN0019"
+    },
+    {
+      "quote": "he is usually right",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already deferring to his judgment as the safer default. That trust feels calming now, but it also makes her more vulnerable to his version of events.",
+      "snippet_id": "S-105-SN0020"
+    },
+    {
+      "quote": "it does feel good to be with someone who’s so clear",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Clarity is being experienced as comfort. The problem is that his clarity is not neutral, it is the basis for him deciding what is true.",
+      "snippet_id": "S-105-SN0021"
+    },
+    {
+      "quote": "he keeps calling me “smart”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The praise is real, but it is also selective and evaluative. Being called smart becomes part of the grading system, not just affection.",
+      "snippet_id": "S-105-SN0022"
+    },
+    {
+      "quote": "in this very particular way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She can tell the praise has a specific texture she does not fully trust yet. That little unease is the narrator noticing the difference between warmth and assessment.",
+      "snippet_id": "S-105-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

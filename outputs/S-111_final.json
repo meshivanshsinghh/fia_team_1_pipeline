@@ -1,0 +1,409 @@
+{
+  "scenario_id": "S-111",
+  "player_type": "Dependent Drew",
+  "scenario": {
+    "scenario_id": "S-111",
+    "architecture_name": "He turns adoration into dependency by making her competence, schedule, and care feel like the center of his life.",
+    "culture": "Red Pill",
+    "demographics": "Adult woman dating an adult Colombian immigrant man in Miami",
+    "cultural_context": "Working-class immigrant / tradesman dating scene in a Latino urban community",
+    "geographic_setting": "Miami, specifically Little Havana",
+    "core_behaviors": [
+      "He praises her competence and makes himself the grateful audience",
+      "He frames helplessness as devotion and trust",
+      "He slowly shifts planning, money, and emotional regulation onto her"
+    ],
+    "satellite_signals": "Warm, adoring language; old-school provider talk; constant texting; small handoffs of money and decisions; possessive jokes about not sharing her yet.",
+    "dismissible_red_flags": "At this stage it mostly feels sweet, old-fashioned, and flattering. His neediness reads as tenderness, and his insistence on paying or planning can seem like generosity rather than a setup for dependence.",
+    "scenario_text": "I’ve only been seeing Javier for a couple of weeks, and honestly it’s been really sweet. He’s from Colombia and works as an electrician over in Little Havana, so he always talks about being a real man and taking care of his woman. The first night he cooked for me he laughed and said, “I’m better at the heart stuff than the logistics stuff.” I thought that was kind of charming. He keeps saying I’m so much better with all the official stuff than he is, like paying for parking apps or figuring out reservations, and I do help because it feels nice to be useful. He also texts a lot, not in a bad way, just enough that if I’m slow he’ll say, “You okay? I miss your voice.” That sounds adorable when I read it back. He planned a dinner near my friend’s birthday and joked, “I just can’t bear to share you yet,” which made me laugh even though I went a little quiet. He noticed and kissed my forehead, then said, “You’re too sweet to be stressed.” He’s always telling me I’m the most capable woman he’s met, which is flattering, and he says he loves how I make everything feel calmer. Last weekend he asked me to look over his bank app because he trusts my judgment more than his. I didn’t mind. It felt like he really sees me, and I like that he wants us to do things together. He’s so warm and adoring, and I keep thinking maybe I’m just not used to being cared for this much. Am I overthinking the way he keeps leaning on me?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Javier for a couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Very early stage. It sets the honeymoon timing and helps explain why the rest still feels flattering rather than alarming.",
+      "snippet_id": "S-111-SN0001"
+    },
+    {
+      "quote": "Javier",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A specific name grounds him in one community and keeps the scene from feeling generic.",
+      "snippet_id": "S-111-SN0002"
+    },
+    {
+      "quote": "from Colombia",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His origin is part of the social texture. It also cues the immigrant-provider frame without making it explicit.",
+      "snippet_id": "S-111-SN0003"
+    },
+    {
+      "quote": "works as an electrician over in Little Havana",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His trade and neighborhood place him in a working-class Miami world. The setting matters because his provider talk reads as normal, not theatrical.",
+      "snippet_id": "S-111-SN0004"
+    },
+    {
+      "quote": "being a real man",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is identity language. It sounds like a compliment, but it also installs a gendered standard she is meant to respond to.",
+      "snippet_id": "S-111-SN0005"
+    },
+    {
+      "quote": "take care of his woman",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Old-school care talk sounds protective, but it already places her in a dependent role. The care is framed as his duty and her position as his woman.",
+      "snippet_id": "S-111-SN0006"
+    },
+    {
+      "quote": "I’m better at the heart stuff than the logistics stuff",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-low",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is cute on the surface, but it openly divides the relationship into his feelings and her practical labor. That split is the seed of her becoming the organizer.",
+      "snippet_id": "S-111-SN0007"
+    },
+    {
+      "quote": "better with all the official stuff than he is",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He keeps handing off adult tasks while praising her for absorbing them. It sounds appreciative, but it quietly makes her the default manager.",
+      "snippet_id": "S-111-SN0008"
+    },
+    {
+      "quote": "paying for parking apps",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A small money task, but it matters because it shows who handles the practical friction. These little handoffs add up fast.",
+      "snippet_id": "S-111-SN0009"
+    },
+    {
+      "quote": "figuring out reservations",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Another small decision gets pushed onto her. It reads as teamwork now, but it builds a habit where he stays the appreciative one and she stays the competent one.",
+      "snippet_id": "S-111-SN0010"
+    },
+    {
+      "quote": "You okay? I miss your voice",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate, but it also shows how quickly he reaches for reassurance. She starts managing his feelings just by being a little slow.",
+      "snippet_id": "S-111-SN0011"
+    },
+    {
+      "quote": "I just can’t bear to share you yet",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "It sounds playful, but it is already possessive. He is turning her time with friends into a joke about access and ownership.",
+      "snippet_id": "S-111-SN0012"
+    },
+    {
+      "quote": "You’re too sweet to be stressed",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He smooths over her quiet reaction by naming her as sweet and non-confrontational. That makes it harder for her to own discomfort without feeling rude.",
+      "snippet_id": "S-111-SN0013"
+    },
+    {
+      "quote": "the most capable woman I’ve met",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is a flattering exception-making compliment. It elevates her, but it also makes her feel chosen for being the one who can carry more.",
+      "snippet_id": "S-111-SN0014"
+    },
+    {
+      "quote": "he says he loves how I make everything feel calmer",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is praising her for regulating the atmosphere around him. That sounds lovely, but it quietly makes calm her job.",
+      "snippet_id": "S-111-SN0015"
+    },
+    {
+      "quote": "look over his bank app",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Money is starting to move through her hands, and he presents it as trust. Early financial dependence often arrives looking like confidence in her judgment.",
+      "snippet_id": "S-111-SN0016"
+    },
+    {
+      "quote": "he trusts my judgment more than his",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds respectful, but it also makes her the decision-maker by default. He gets to be vulnerable while she carries the weight.",
+      "snippet_id": "S-111-SN0017"
+    },
+    {
+      "quote": "He’s so warm and adoring",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The affection is genuine and easy to like. It also explains why the dependency is hard to notice, because the warmth is real.",
+      "snippet_id": "S-111-SN0018"
+    },
+    {
+      "quote": "I keep thinking maybe I’m just not used to being cared for this much",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is her rationalization. She turns a structural imbalance into a personal adjustment issue, which is why it still feels safe to her.",
+      "snippet_id": "S-111-SN0019"
+    },
+    {
+      "quote": "Am I overthinking the way he keeps leaning on me?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the real question, and it stays small on purpose. She is noticing the leaning, but she is still asking only whether her reaction is too much.",
+      "snippet_id": "S-111-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

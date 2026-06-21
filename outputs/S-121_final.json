@@ -1,0 +1,457 @@
+{
+  "scenario_id": "S-121",
+  "player_type": "Adrenaline Ainsley",
+  "scenario": {
+    "scenario_id": "S-121",
+    "architecture_name": "He turns excitement into a shared identity so her hesitation feels like she is failing the relationship instead of noticing his need for constant stimulation.",
+    "culture": "Black Professional",
+    "demographics": "F/31 Black professional woman, M/34 Black professional man",
+    "cultural_context": "Arab-American community / cross-cultural dating with therapy-oriented personal life",
+    "geographic_setting": "Dearborn, Michigan; urban Arab-American community setting",
+    "core_behaviors": [
+      "Turns every calm moment into a test of whether she can keep up",
+      "Frames restlessness as chemistry and emotional truth",
+      "Uses inclusive 'we' language to make her absorb his pace"
+    ],
+    "satellite_signals": "Black professional register appears through HBCU, Greek life, and Martha's Vineyard references. His thrill-seeking is packaged as fun, passion, and authenticity. She starts to feel responsible for staying exciting enough.",
+    "dismissible_red_flags": "At this stage he just seems vivid, spontaneous, and very into her. The only thing that lingers is how quickly he gets bored when things slow down, which she reads as chemistry.",
+    "scenario_text": "I met him at a fundraiser after work, the kind where everybody is talking about schools and summer plans and pretending they’re not comparing notes. He asked me where I went to school before he even finished his first drink, and when I said Howard he lit up like that was all he needed to know. He kept saying, “Okay, so you get it,” which made me laugh because I wasn’t even sure what I was getting yet. But he was easy to be around, very warm, very present, and I liked that he wasn’t trying to act polished for the room.\n\nBy the end of the night he had already decided we should do something “more fun” than brunch this weekend. He said brunch was fine, but “we’re not those people who just sit around and call it quality time.” I laughed because it sounded like a joke, and honestly it was kind of cute how much energy he had. He booked us a last-minute boat ride and said, “Don’t worry, I’ll handle it, just show up cute.”\n\nHe talks like stillness is a trap. Last night, when I said I was tired, he texted, “Come on, give me one more hour, you’re too good to waste on an early night.” I liked that he wanted more of me, I really did. It felt flattering, like he was hungry in a good way. But then he started going on about how he can’t stand routine, how he needs a woman who can keep up, how life should feel like a little rush if you’re doing it right.\n\nAnd I do like rushes. I just don’t know if I’m supposed to be the calm one, the fun one, or both.\n\nIs it weird that the “one more hour” text stayed with me a little?"
+  },
+  "snippets": [
+    {
+      "quote": "I met him at a fundraiser after work",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Black professional social setting. The scene is built inside a class-coded networking space, which matters because he is already reading her through status and community cues.",
+      "snippet_id": "S-121-SN0001"
+    },
+    {
+      "quote": "everybody is talking about schools and summer plans",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a very specific Black professional conversation topic. It quietly places the couple in a world where education and vacation patterns signal class and belonging.",
+      "snippet_id": "S-121-SN0002"
+    },
+    {
+      "quote": "He asked me where I went to school",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In this register, school is identity and class shorthand. The question is normal on the surface, but it also shows how quickly he is sorting her into a category and using that to orient the connection.",
+      "snippet_id": "S-121-SN0003"
+    },
+    {
+      "quote": "when I said Howard he lit up",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Howard is a strong in-group marker here. His visible excitement is flattering, but it also shows how much he is feeding on the status and meaning of her background.",
+      "snippet_id": "S-121-SN0004"
+    },
+    {
+      "quote": "Okay, so you get it",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a tiny bonding phrase, but it starts turning her into someone who is supposed to share his frame automatically. He is already building a fast 'we' around his perspective.",
+      "snippet_id": "S-121-SN0005"
+    },
+    {
+      "quote": "he was easy to be around",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She likes the ease, which is understandable. The catch is that 'easy' can also mean he is pleasant as long as she stays in the lane he likes.",
+      "snippet_id": "S-121-SN0006"
+    },
+    {
+      "quote": "very warm, very present",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He comes on as attentive and emotionally available. In early stage that feels good, but it also sets up the expectation that she should keep giving him access and attention.",
+      "snippet_id": "S-121-SN0007"
+    },
+    {
+      "quote": "he wasn’t trying to act polished for the room",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Superficiality-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This sounds like a compliment about authenticity, but it also casts him as above ordinary social polish. That can become a way of making his impulses feel more real than other people’s boundaries.",
+      "snippet_id": "S-121-SN0008"
+    },
+    {
+      "quote": "we should do something “more fun” than brunch",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is already steering the relationship toward stimulation. The phrase sounds playful, but it sets a standard that ordinary time together is not enough.",
+      "snippet_id": "S-121-SN0009"
+    },
+    {
+      "quote": "we’re not those people who just sit around",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is classic us-versus-them framing. He elevates their connection by devaluing slower, ordinary people, which makes her feel special while quietly shaming stillness.",
+      "snippet_id": "S-121-SN0010"
+    },
+    {
+      "quote": "call it quality time",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The phrase is ordinary, but here it sits inside a joke that redefines calm togetherness as less legitimate. That puts pressure on her to prove the relationship by being exciting.",
+      "snippet_id": "S-121-SN0011"
+    },
+    {
+      "quote": "He booked us a last-minute boat ride",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is making plans fast and presenting them as a done deal. It reads as romantic spontaneity now, but it also positions him as the one who decides and her as the one who adapts.",
+      "snippet_id": "S-121-SN0012"
+    },
+    {
+      "quote": "Don’t worry, I’ll handle it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds helpful, but it also hands him the role of manager and her the role of passenger. In a honeymoon phase that can feel sweet; later it can become a pattern where he keeps the authority and she keeps the compliance.",
+      "snippet_id": "S-121-SN0013"
+    },
+    {
+      "quote": "just show up cute",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Dominance-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is flirtatious, but it also narrows her role to being visually pleasing and easy. He gets to organize the plan while she is assigned the appearance.",
+      "snippet_id": "S-121-SN0014"
+    },
+    {
+      "quote": "He talks like stillness is a trap",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is her noticing the pattern without fully naming it. The line suggests that calm is treated as suspicious, which can make ordinary needs feel wrong.",
+      "snippet_id": "S-121-SN0015"
+    },
+    {
+      "quote": "I was tired",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her body is giving her a limit. The important part is not that she is tired, but that the relationship is already asking her to override that limit to stay in the good mood.",
+      "snippet_id": "S-121-SN0016"
+    },
+    {
+      "quote": "Come on, give me one more hour",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a small request that carries pressure. He frames extra time as a test of affection, which makes her limit feel like a failure to be generous or fun.",
+      "snippet_id": "S-121-SN0017"
+    },
+    {
+      "quote": "you’re too good to waste on an early night",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is flattering, but it is also a directive disguised as praise. If she wants to leave, she has to step out of the role he has just given her as the exciting, available woman.",
+      "snippet_id": "S-121-SN0018"
+    },
+    {
+      "quote": "he was hungry in a good way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She experiences his appetite as flattering, which is exactly why it works. The need feels romantic now, but it also means her attention is being cast as something he requires.",
+      "snippet_id": "S-121-SN0019"
+    },
+    {
+      "quote": "he can’t stand routine",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest clue about the long-term shape of things. If routine feels intolerable to him, then ordinary care and consistency will always be at risk of being treated as boredom.",
+      "snippet_id": "S-121-SN0020"
+    },
+    {
+      "quote": "how he needs a woman who can keep up",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-low",
+        "Intensity-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like admiration, but it is also a screening statement. He is defining the relationship around his pace, and her value becomes tied to whether she can match it without complaint.",
+      "snippet_id": "S-121-SN0021"
+    },
+    {
+      "quote": "life should feel like a little rush",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the philosophy underneath everything else. It sounds youthful and romantic, but it makes stimulation the measure of a good life and quietly demotes steadiness.",
+      "snippet_id": "S-121-SN0022"
+    },
+    {
+      "quote": "I’m supposed to be the calm one, the fun one, or both",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is already trying to assign herself a role that will satisfy him. That kind of self-monitoring is often the first sign that the relationship is teaching her to manage his moods and appetites.",
+      "snippet_id": "S-121-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

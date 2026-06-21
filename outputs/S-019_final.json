@@ -1,26 +1,417 @@
 {
   "scenario_id": "S-019",
-  "player_type": "Backhanded Blake",
+  "player_type": "Arrogant Avery",
   "scenario": {
     "scenario_id": "S-019",
-    "architecture_name": "He uses dry wit and withheld approval to install himself as the arbiter of her worth, training her to suppress needs and self-monitor to stay the exception he has defined her as.",
+    "architecture_name": "He uses being the smartest person in the room to make his correction feel like care and his certainty feel like intimacy.",
     "culture": "Chinese American",
-    "demographics": "F/26 first-generation Chinese American (Cantonese-speaking, Flushing-raised), M/29 ABC from Cupertino, works at a Bay Area tech company",
-    "cultural_context": "Dating and romantic relationships, cultural identity navigation",
-    "geographic_setting": "San Francisco",
+    "demographics": "First-generation Chinese American woman, dating a Bay Area guy in his early 30s, software product manager, from a family that cares a lot about school and face.",
+    "cultural_context": "Chinese American social and family-cultural context; dating with emphasis on heritage, family approval, and Lunar New Year traditions",
+    "geographic_setting": "San Francisco, urban Bay Area",
     "core_behaviors": [
-      "Delivers backhanded compliments framed as honesty or banter, then retreats behind 'I'm kidding' when she registers the sting",
-      "Withholds warm approval and reframes that withholding as integrity and respect",
-      "Casts her as the cool exception to a category of needy or dramatic women, training her to suppress her own needs to stay in that category",
-      "Uses dry observational humor aimed outward to establish wit as his identity, then gradually turns the same edge toward her"
+      "Corrects me as if he is helping",
+      "Treats his view like the objective one",
+      "Makes me feel special for keeping up with him",
+      "Turns disagreement into a test of whether I can take feedback"
     ],
-    "satellite_signals": "Honesty-frame self-declaration installed early; exception-bait deployed around her Flushing background and accent; approval withheld and reframed as respect; banter-test used to pre-shame any reaction she might have; hooked compliments about her appearance and intelligence; wry martyr move when she goes out with friends.",
-    "dismissible_red_flags": "The backhanded compliments are easily read as dry humor or awkward phrasing from someone who is not good at expressing warmth. His self-description as brutally honest sounds like refreshing directness after men who over-performed affection. The exception-bait about her being low-drama lands as a genuine compliment. His wry martyr comment when she goes out reads as self-deprecating humor, not guilt-tripping.",
-    "scenario_text": "I've been seeing Derek for about six weeks and honestly it's been really nice. He's funny in this dry, quick way, like he'll clock something across the room and just say one thing and I'm crying. We met through mutual friends in the Sunset and he grew up in Cupertino, works at one of the big tech companies downtown. Very put-together, knows what he wants.\n\nThe thing I like most is that he's honest. On our third date he said, \"I like you too much to give you fake compliments, you'll get the real version or nothing,\" and at the time that felt refreshing. My last ex said everything was amazing all the time and meant none of it.\n\nHe does tease me, though. Last week I was telling him about a dim sum place my popo used to take me to in Flushing and he listened, then said, \"You're smarter than you let on in your pictures, I almost didn't notice.\" I laughed because I didn't know what else to do, and he immediately moved on. I've been thinking about it since, which probably means I'm overthinking.\n\nHe also said once, \"You're not like girls who need attention every five seconds, that's so boring,\" and I felt good about that, I really did. But now I notice I haven't texted him first in two weeks because I don't want to seem like one of those girls.\n\nLast Friday I went out with my coworkers and he texted, \"No, go enjoy your night, don't worry about me, I'll hold the fort like always.\" I think he was joking. He said he was joking when I brought it up. I laughed it off.\n\nHe's never actually been mean. That's the thing. He's just... honest. And I like that about him, I think.\n\nIs it weird that the comment about my pictures has stayed with me a little?"
+    "satellite_signals": "Chinese American family and achievement references, Bay Area status cues, intellectual chemistry, and a calm, exacting tone that reads as maturity.",
+    "dismissible_red_flags": "He mostly sounds thoughtful and impressive, and I like that he has opinions. The only thing that stays with me is how quickly he turns a small disagreement into a lesson.",
+    "scenario_text": "I met him through a friend from work, and at first I liked that he could talk about everything, from AI to why my dad’s generation thinks the way it does. He’s from Cupertino, went to Berkeley, and has that calm, sure way of speaking that makes people lean in. On our third date he asked if I’d gone to Chinese school, then smiled and said, “Okay, so you get the family pressure thing.” It sounded kind of sweet, like he was trying to understand me, not just date me.\n\nHe keeps saying I’m sharper than I give myself credit for. When I mentioned a problem with my manager, he said, “Send me the email, I’ll tell you exactly how to handle it.” And honestly, he was right. His advice worked. That made me trust him more than I probably should.\n\nThe part I’m trying not to overthink is how he talks when I push back. Last night I said I didn’t think my sister was being dramatic, and he laughed a little and said, “No, you’re just looking at it emotionally. I’m giving you the cleaner read.” He said it so calmly that I almost apologized. Then he added, “I like that you actually think. Most people just nod.” I know he meant it as a compliment, and I did feel weirdly proud.\n\nHe also keeps saying things like, “I’m not being stubborn, I’m being correct,” which should probably annoy me more than it does. Instead it just makes him seem very certain, very solid. I guess I’m used to people who are vague. He’s not vague. He’s just... a lot more exact than I am.\n\nAm I being too sensitive about the way he corrects me?"
   },
-  "snippets": [],
-  "validation_warnings": [
-    "CRITICAL: No snippets generated in output"
+  "snippets": [
+    {
+      "quote": "I met him through a friend from work",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Plain meet-cute setup, but it also places him inside her everyday social world rather than as a stranger.",
+      "snippet_id": "S-019-SN0001"
+    },
+    {
+      "quote": "he could talk about everything, from AI to why my dad’s generation thinks the way it does",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He performs wide-ranging expertise and moves quickly into interpreting her family. It reads as impressive at first, but it also puts him in the role of explainer about her own people.",
+      "snippet_id": "S-019-SN0002"
+    },
+    {
+      "quote": "He’s from Cupertino",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This locates him in a specific Bay Area Chinese-American professional world.",
+      "snippet_id": "S-019-SN0003"
+    },
+    {
+      "quote": "went to Berkeley",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The school reference signals status and intellectual hierarchy. It helps explain why his confidence lands as authority rather than just personality.",
+      "snippet_id": "S-019-SN0004"
+    },
+    {
+      "quote": "that calm, sure way of speaking",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His composure is framed as attractive, but the phrase also signals a style where certainty can shut down disagreement before it starts.",
+      "snippet_id": "S-019-SN0005"
+    },
+    {
+      "quote": "On our third date",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Early-stage timing matters here because the intensity of his interpretive confidence arrives very quickly.",
+      "snippet_id": "S-019-SN0006"
+    },
+    {
+      "quote": "Chinese school",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a community marker, not just background detail. It places the relationship inside a Chinese-American achievement and family-transmission frame.",
+      "snippet_id": "S-019-SN0007"
+    },
+    {
+      "quote": "family pressure thing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He turns a family reality into a category he can read cleanly, which sounds understanding but also positions him as the one who gets to define the situation.",
+      "snippet_id": "S-019-SN0008"
+    },
+    {
+      "quote": "you’re sharper than you give yourself credit for",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is flattering, but it also installs him as the judge of her capacity. Praise like this can make later correction feel earned.",
+      "snippet_id": "S-019-SN0009"
+    },
+    {
+      "quote": "Send me the email",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He moves from sympathy into direct management. The request is small, but it shifts decision-making toward him.",
+      "snippet_id": "S-019-SN0010"
+    },
+    {
+      "quote": "I’ll tell you exactly how to handle it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He presents his solution as the definitive one. That sounds helpful early on, but it also makes his judgment the default.",
+      "snippet_id": "S-019-SN0011"
+    },
+    {
+      "quote": "And honestly, he was right",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She’s already giving his judgment extra weight because it worked once. That makes it easier for him to become the authority in future disagreements.",
+      "snippet_id": "S-019-SN0012"
+    },
+    {
+      "quote": "the cleaner read",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Cleaner read sounds like clarity, but it also implies her view is messy or contaminated by emotion. It’s a neat way to privilege his interpretation.",
+      "snippet_id": "S-019-SN0013"
+    },
+    {
+      "quote": "you’re just looking at it emotionally",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He reframes her disagreement as a cognitive flaw. That lets him dismiss her point without having to engage it.",
+      "snippet_id": "S-019-SN0014"
+    },
+    {
+      "quote": "I’m giving you the cleaner read",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is a classic superiority move. He casts himself as the one with the clearer, more objective sight, which makes her own perspective sound inferior.",
+      "snippet_id": "S-019-SN0015"
+    },
+    {
+      "quote": "I like that you actually think",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "It sounds admiring, but it also sets up a standard. He likes her thinking when it is legible to him and manageable inside his frame.",
+      "snippet_id": "S-019-SN0016"
+    },
+    {
+      "quote": "Most people just nod",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He separates her from a supposedly dull crowd, which flatters her while reinforcing his own exceptionalism.",
+      "snippet_id": "S-019-SN0017"
+    },
+    {
+      "quote": "I’m not being stubborn, I’m being correct",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Conflict-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the clearest tell. He turns disagreement into a matter of correctness, so if she resists, she is not just disagreeing, she is opposing truth.",
+      "snippet_id": "S-019-SN0018"
+    },
+    {
+      "quote": "very certain, very solid",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is starting to equate his certainty with reliability. That feeling is understandable, but it also makes it harder to notice when certainty is being used as leverage.",
+      "snippet_id": "S-019-SN0019"
+    },
+    {
+      "quote": "He’s not vague",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is reassuring herself that clarity equals goodness. The line shows her leaning on his decisiveness to settle her own doubt.",
+      "snippet_id": "S-019-SN0020"
+    },
+    {
+      "quote": "Am I being too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This closing question shows the smallest concern she can safely name. She is not asking whether he is controlling, only whether her reaction to his correction is too much.",
+      "snippet_id": "S-019-SN0021"
+    }
   ],
+  "validation_warnings": [],
   "repetition_warnings": []
 }

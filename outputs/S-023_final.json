@@ -1,0 +1,442 @@
+{
+  "scenario_id": "S-023",
+  "player_type": "Charming Charlie",
+  "scenario": {
+    "scenario_id": "S-023",
+    "architecture_name": "He makes being chosen feel like a private world, then quietly turns that world into a place where his attention, pace, and interpretation set the terms.",
+    "culture": "South Asian",
+    "demographics": "Aisha, adult woman in San Francisco; Daniel, younger man; cross-cultural dating with ties to Casablanca",
+    "cultural_context": "Romantic dating context with bilingual/family-oriented themes; cross-cultural urban relationship sphere",
+    "geographic_setting": "San Francisco, with ties to Casablanca",
+    "core_behaviors": [
+      "Total presence that feels intoxicating and rare",
+      "Fast intimacy framed as destiny and aliveness",
+      "Possessive joking and future-talk that installs his terms",
+      "Constant check-ins that read as care but quietly set the pace"
+    ],
+    "satellite_signals": "Bilingual and family-oriented themes are used as romance markers; his attentiveness is flattering but also creates obligation, urgency, and a sense that she should keep up with his intensity.",
+    "dismissible_red_flags": "His constant texting, possessive joke, and fast family talk can all be read as playful enthusiasm in a new relationship, especially because he is otherwise warm and thoughtful.",
+    "scenario_text": "I’ve been seeing Daniel for a few weeks now, and honestly, he’s been so sweet. He’s younger than me, but he has this way of making everything feel alive. Last night he took me to this little place in the Mission, and the whole table just kind of disappeared when he was looking at me. He kept saying, “I want you to feel at home here,” and I know he meant it nicely, because he really does try. He even asked, “What does your father do?” and “Where are your parents from?” in that careful way people ask when they’re trying to understand you, not judge you. I told him my sister in Casablanca would laugh at how formal he was, and he said, “Good, let her laugh. I’m serious about you.” That was sweet, I guess. A little much, but sweet. He’s always texting, though, little check-ins all day, and if I don’t answer right away he sends a second one like, “You good?” It’s kind of cute, because he says he just likes knowing I’m okay. He also jokes a lot, like when a waiter complimented my dress and he said, “You’re all mine now,” then smiled like I was supposed to know he was kidding. He keeps talking about how, when we have our family, the kids will speak both English and Arabic, and it makes me feel special, like he can already see a life with me. I don’t know, maybe I’m being silly, but he has this intensity that’s hard not to get pulled into. Is it weird that the “you’re all mine now” joke stayed with me a little?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been seeing Daniel for a few weeks now",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple relationship timing, but it matters because the intensity is arriving very early. It sets up how fast he is moving without making it sound alarming.",
+      "snippet_id": "S-023-SN0001"
+    },
+    {
+      "quote": "he’s been so sweet",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her category word for him. It shows she is absorbing the charm as care, which makes later control feel flattering instead of intrusive.",
+      "snippet_id": "S-023-SN0002"
+    },
+    {
+      "quote": "He’s younger than me",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Age difference alone is not the issue, but it helps explain why his confidence and pace can feel flattering. He has the social ease here, and she is adjusting to it.",
+      "snippet_id": "S-023-SN0003"
+    },
+    {
+      "quote": "he has this way of making everything feel alive",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the seduction-as-aliveness move. He makes stimulation feel like love, which is powerful early on because it gives her a rush she wants to keep.",
+      "snippet_id": "S-023-SN0004"
+    },
+    {
+      "quote": "the whole table just kind of disappeared",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Total-focus language. It sounds romantic, but it also means the relationship moment is being made into a sealed bubble where nothing else matters.",
+      "snippet_id": "S-023-SN0005"
+    },
+    {
+      "quote": "I want you to feel at home here",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is care language, but it also places him as the one who grants belonging. That can quietly make her grateful for access he controls.",
+      "snippet_id": "S-023-SN0006"
+    },
+    {
+      "quote": "What does your father do?",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A standard South Asian-style status probe. On the surface it is polite curiosity, but in context it also shows he is sorting her through family and class markers.",
+      "snippet_id": "S-023-SN0007"
+    },
+    {
+      "quote": "Where are your parents from?",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a classic identity question in the register. It sounds interested, but it also starts mapping her into a family story he can use.",
+      "snippet_id": "S-023-SN0008"
+    },
+    {
+      "quote": "trying to understand you, not judge you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He frames himself as nonjudgmental, which lowers her guard. The phrase also preemptively protects him from criticism if she later feels sorted or evaluated.",
+      "snippet_id": "S-023-SN0009"
+    },
+    {
+      "quote": "Good, let her laugh. I’m serious about you",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He turns her family’s reaction into a test of his seriousness. It sounds romantic, but it also asks her to align with his version of the relationship over her own people’s perspective.",
+      "snippet_id": "S-023-SN0010"
+    },
+    {
+      "quote": "That was sweet, I guess",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She half-accepts the moment while leaving room for discomfort. The little hedge shows she noticed the intensity without fully naming why it sat oddly.",
+      "snippet_id": "S-023-SN0011"
+    },
+    {
+      "quote": "It’s kind of cute",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She softens the repeated check-ins by making them cute. That kind of language often covers for a pace that is starting to feel a little managed.",
+      "snippet_id": "S-023-SN0012"
+    },
+    {
+      "quote": "little check-ins all day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Neediness-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Frequent contact can feel caring early on, but the pattern also sets an expectation of constant availability. It quietly narrows her room to move at her own pace.",
+      "snippet_id": "S-023-SN0013"
+    },
+    {
+      "quote": "You good?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A small check-in, but repeated it becomes a demand for reassurance. She has to answer his anxiety instead of just living her day.",
+      "snippet_id": "S-023-SN0014"
+    },
+    {
+      "quote": "You’re all mine now",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Joking possession is still possession. The smile makes it easy to laugh along, but the line casts her as claimed, which is a very different role from being chosen.",
+      "snippet_id": "S-023-SN0015"
+    },
+    {
+      "quote": "he smiled like I was supposed to know he was kidding",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the seam. He gets to keep the possessive line while making her responsible for treating it as harmless, which can train her not to object.",
+      "snippet_id": "S-023-SN0016"
+    },
+    {
+      "quote": "when we have our family",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-low",
+        "Intensity-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Future family talk can be lovely, but here it arrives very early and as a settled assumption. It makes the relationship feel pre-written, which is hard to question without seeming cold.",
+      "snippet_id": "S-023-SN0017"
+    },
+    {
+      "quote": "the kids will speak both English and Arabic",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a culturally specific dream, and it sounds affectionate. It also shows how quickly he is building a shared future before there is much real continuity.",
+      "snippet_id": "S-023-SN0018"
+    },
+    {
+      "quote": "he can already see a life with me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She feels chosen, which is the hook. The problem is not the hope itself, but how quickly his certainty starts standing in for actual trust-building.",
+      "snippet_id": "S-023-SN0019"
+    },
+    {
+      "quote": "he has this intensity",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She notices the intensity as a feature, not a warning. In this kind of relationship, intensity is often the thing that makes everything else seem more meaningful than it is.",
+      "snippet_id": "S-023-SN0020"
+    },
+    {
+      "quote": "hard not to get pulled into",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This shows the pull working on her. She is not naming coercion, just the sense that his energy is carrying her along faster than she would choose on her own.",
+      "snippet_id": "S-023-SN0021"
+    },
+    {
+      "quote": "the “you’re all mine now” joke",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She ends on the smallest socially acceptable concern, which is exactly right. The joke is the visible piece of a larger possessive style, but it is still easy to dismiss as banter.",
+      "snippet_id": "S-023-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

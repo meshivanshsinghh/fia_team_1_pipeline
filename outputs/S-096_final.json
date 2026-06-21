@@ -1,0 +1,390 @@
+{
+  "scenario_id": "S-096",
+  "player_type": "Egocentric Evan",
+  "scenario": {
+    "scenario_id": "S-096",
+    "architecture_name": "He uses dazzling attention and public praise to make me feel chosen, then quietly turns that specialness into a demand for constant admiration and quicker access to my life.",
+    "culture": "Polyamorous",
+    "demographics": "Adult woman, newly dating a woman originally from Mexico City",
+    "cultural_context": "Urban dating / relationship sphere with family-oriented social life",
+    "geographic_setting": "San Francisco, urban city setting",
+    "core_behaviors": [
+      "Performs possession-framed praise as if it were devotion",
+      "Uses his own discernment as the subject of compliments",
+      "Turns admiration into a quiet obligation to keep up with his pace"
+    ],
+    "satellite_signals": "Rooftop dinner, family Sunday gathering, frequent texting, offers to drop her off at work, playful questions about exes, teasing about confusion, and a sense that he is collecting her life as proof of his taste.",
+    "dismissible_red_flags": "It mostly reads like enthusiastic early dating. The money, attention, and curiosity are all easy to excuse as romantic intensity, and his teasing can pass as flirtation.",
+    "scenario_text": "I recently moved to San Francisco, so everything still feels a little bright and new, and Evan has been part of that in a way that honestly makes me smile. He’s the kind of guy who walks into a room like he already belongs there. On our second date he took me up to this rooftop place and kept saying, “I look at you and I genuinely can’t believe you’re mine.” I laughed because it was sweet, and because he looked so pleased with himself saying it. He told the waiter, “I’ve got the most beautiful woman in any room we walk into,” which was embarrassing in the best way. He also keeps saying I’m “perfect” and that he’s picky, so it feels like a real compliment, not just something he says to everyone. The other night he texted, “My friends couldn’t stop talking about you after,” and then added, “I told them, yeah, I know. I’ve got good taste.” I liked that a lot more than I probably should have. He’s been wanting to show me off, and I do feel kind of lucky. He asked what I’d think if he posted us sometime, just because “people should see what I’m walking around with.” That made me laugh too. He’s also been asking about my exes in this playful way, like he’s curious about my world. And when I misremembered the name of a neighborhood, he grinned and said, “You’re so cute when you’re confused.” I know he means it affectionately. I just keep wondering if I’m supposed to be this happy about how often he reminds me I’m his. Am I overthinking the way he keeps saying I’m his?"
+  },
+  "snippets": [
+    {
+      "quote": "I recently moved to San Francisco",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Plain setting detail. It places her in a new city, which helps explain why his attention lands so strongly without making the moment feel ominous.",
+      "snippet_id": "S-096-SN0001"
+    },
+    {
+      "quote": "He’s the kind of guy who walks into a room like he already belongs there",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is polished confidence on the surface, but it also signals a self-image that expects the room to organize around him. Early on that can feel magnetic, especially if he makes belonging look effortless.",
+      "snippet_id": "S-096-SN0002"
+    },
+    {
+      "quote": "I look at you and I genuinely can’t believe you’re mine",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is possession-framed praise. It sounds romantic, but the important word is mine. He is not just admiring her, he is claiming her, which quietly sets up ownership language early.",
+      "snippet_id": "S-096-SN0003"
+    },
+    {
+      "quote": "I’ve got the most beautiful woman in any room we walk into",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Superficiality-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He is praising her, but the compliment is really about his own possession of her. The public setting matters too, because he is performing her as proof of his taste.",
+      "snippet_id": "S-096-SN0004"
+    },
+    {
+      "quote": "perfect",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Superficiality-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "A simple superlative, but in this context it turns her into an idealized object. That kind of praise feels great early on and also sets an impossible standard.",
+      "snippet_id": "S-096-SN0005"
+    },
+    {
+      "quote": "he’s picky",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She reads this as discerning taste, and that is exactly the point. He is making his own judgment the thing being admired, so the compliment is really about his standards.",
+      "snippet_id": "S-096-SN0006"
+    },
+    {
+      "quote": "My friends couldn’t stop talking about you after",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He routes the compliment through an audience, which makes her feel socially validated and also turns her into something he can display. That can be flattering while quietly building a showpiece role.",
+      "snippet_id": "S-096-SN0007"
+    },
+    {
+      "quote": "I told them, yeah, I know",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He claims the admiration as his own accomplishment. The line is funny, but it also keeps attention centered on how well he chose, not on who she is.",
+      "snippet_id": "S-096-SN0008"
+    },
+    {
+      "quote": "I’ve got good taste",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is a small brag disguised as a joke. He is not just complimenting her, he is using her to confirm his discernment and superiority.",
+      "snippet_id": "S-096-SN0009"
+    },
+    {
+      "quote": "show me off",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "That phrase makes the relationship feel like display. It is affectionate on the surface, but it also frames her as something to present rather than someone to know.",
+      "snippet_id": "S-096-SN0010"
+    },
+    {
+      "quote": "I do feel kind of lucky",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her absorption of the dynamic. She is starting to interpret his attention as a prize she should be grateful for, which makes it harder to notice what is being asked of her.",
+      "snippet_id": "S-096-SN0011"
+    },
+    {
+      "quote": "people should see what I’m walking around with",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is openly objectifying in a playful way. She is being framed as a status object on his arm, which sounds flattering but keeps the focus on his image.",
+      "snippet_id": "S-096-SN0012"
+    },
+    {
+      "quote": "He asked what I’d think if he posted us sometime",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is testing for public display and making her answer feel like part of the relationship contract. It is not a hard demand, but it does move the pace toward his preferences.",
+      "snippet_id": "S-096-SN0013"
+    },
+    {
+      "quote": "people should see",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This keeps the audience in the frame. He is not just enjoying her privately, he wants outside recognition as part of the payoff.",
+      "snippet_id": "S-096-SN0014"
+    },
+    {
+      "quote": "my exes",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a normal dating detail, but it also opens the door to comparison and ranking. In a different context it would be harmless; here it helps establish that he is interested in her social history as a field to inspect.",
+      "snippet_id": "S-096-SN0015"
+    },
+    {
+      "quote": "he’s curious about my world",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She experiences his questions as interest, which is understandable. The subtle risk is that curiosity can become a way of collecting information, especially when paired with all the display language around her.",
+      "snippet_id": "S-096-SN0016"
+    },
+    {
+      "quote": "You’re so cute when you’re confused",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Coercive Control"
+      ],
+      "reasoning": "This is a gentle put-down dressed as affection. He is turning her mistake into something adorable, which keeps the tone light while still positioning him as the one who gets to name her.",
+      "snippet_id": "S-096-SN0017"
+    },
+    {
+      "quote": "I know he means it affectionately",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is actively cushioning the sting for him. That rationalization matters because it shows she already feels the need to translate his little jabs into something easier to swallow.",
+      "snippet_id": "S-096-SN0018"
+    },
+    {
+      "quote": "I’m his",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Coercive Control"
+      ],
+      "reasoning": "This is the quiet center of the whole scene. It sounds romantic in a honeymoon phase, but it also signals ownership and shrinking room for her separate self.",
+      "snippet_id": "S-096-SN0019"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

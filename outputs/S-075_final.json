@@ -1,0 +1,450 @@
+{
+  "scenario_id": "S-075",
+  "player_type": "Charming Charlie",
+  "scenario": {
+    "scenario_id": "S-075",
+    "architecture_name": "He uses dazzling presence and community warmth to make her feel specially chosen, then quietly positions himself as the one who gets to define closeness, pace, and belonging.",
+    "culture": "Modern Orthodox Jewish",
+    "demographics": "Likely adult, race unspecified, gender unspecified",
+    "cultural_context": "Residential landlord-tenant setting within an Orthodox Jewish community, with social contact centered on Shabbat dinners and neighborhood integration",
+    "geographic_setting": "Borough Park, Brooklyn; urban Orthodox Jewish neighborhood",
+    "core_behaviors": [
+      "He floods the moment with attention so she feels uniquely seen",
+      "He frames himself as the one who can make her feel at home in the neighborhood",
+      "He mixes helpfulness with subtle questions that create familiarity and obligation"
+    ],
+    "satellite_signals": "Shabbat dinner invitation, neighborhood integration, moving help, landlord-family warmth, and lightly possessive curiosity about her plans all sit inside a communal Orthodox register that makes the attention feel normal and kind.",
+    "dismissible_red_flags": "At this stage it reads like generous landlord behavior and neighborhood friendliness. The curiosity about her plans and the constant availability can seem like ordinary attentiveness, even flattering, because the whole setting rewards being welcoming and involved.",
+    "scenario_text": "I moved into the little suite over the Goldsteins’ garage in Borough Park a few weeks ago, and honestly it’s been sweet so far. Mrs. Goldstein came up with a plate of kugel on my second night and said, so warmly, that she wanted me to feel like I had a shul family here, not just a rental. That made me relax right away. Their youngest kept running in and out during Shabbat dinner, and Mr. Goldstein kept laughing, like the whole table was his favorite place to be. He has this way of looking at you like you’re the only person in the room, which sounds dramatic, but it really is kind of disarming. When he helped me carry up a box of books, he put his hand on the side of it and said, “Let me take care of this, you’re our guest.” I remember feeling weirdly lucky, like I’d landed somewhere good.\n\nHe’s also the one who always asks what I’m doing, but in a light way. “You headed out tonight?” “Where’d you daven this morning?” “You settling in okay?” It doesn’t feel intrusive exactly, just... interested. He remembered that I said I was looking for a decent bagel place and texted me later with two suggestions, plus a little “Baruch Hashem, you’re in the right neighborhood now.” That kind of thing makes me smile. He’s very, very charming, and I guess I like that he seems so present. Sometimes I catch myself thinking he’s a little too good at making the room go quiet around him, but then he’ll joke with Mrs. Goldstein or hand me the good challah and I forget why I noticed.\n\nMaybe I’m just not used to people being this nice. Do you think I was being too sensitive about how much he asked where I was going?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-075-SN0001",
+      "quote": "the little suite over the Goldsteins’ garage",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The housing detail places her as a tenant inside their property, which matters because it quietly puts him in a position to watch, ask, and influence. It also roots the scene in a very specific neighborhood and relationship structure."
+    },
+    {
+      "snippet_id": "S-075-SN0002",
+      "quote": "Borough Park",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a strong community marker. In context, it tells you the social world is dense, observant, and built around Orthodox norms, which makes their friendliness feel more ordinary and less optional."
+    },
+    {
+      "snippet_id": "S-075-SN0003",
+      "quote": "Mrs. Goldstein came up with a plate of kugel",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A welcoming food gesture is real, but it also starts the debt-and-belonging dynamic. She is being folded into their world through hospitality, which makes later curiosity and access feel natural instead of chosen."
+    },
+    {
+      "snippet_id": "S-075-SN0004",
+      "quote": "feel like I had a shul family here",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Belonging"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is warm community language, but it also casts them as family-like authorities in her life. That kind of phrasing can make ordinary tenant boundaries feel less available because she has already been invited into a quasi-familial role."
+    },
+    {
+      "snippet_id": "S-075-SN0005",
+      "quote": "during Shabbat dinner",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This anchors the Orthodox setting and shows how social contact is happening through communal ritual rather than private dating-style intimacy. It makes the warmth feel culturally normal, which is why it can pass as harmless."
+    },
+    {
+      "snippet_id": "S-075-SN0006",
+      "quote": "the whole table was his favorite place to be",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He is performing total enjoyment in a way that centers his emotional effect on the room. It reads as charisma, but it also trains everyone to respond to his mood and presence."
+    },
+    {
+      "snippet_id": "S-075-SN0007",
+      "quote": "looking at you like you’re the only person in the room",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the classic focused-presence move. It feels flattering because it singles her out, but the power of it is that she starts orienting around being the one he is watching."
+    },
+    {
+      "snippet_id": "S-075-SN0008",
+      "quote": "Let me take care of this, you’re our guest",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is help phrased as caretaking, which sounds kind but also places him in the role of manager and her in the role of dependent guest. That makes it harder for her to object without seeming ungrateful."
+    },
+    {
+      "snippet_id": "S-075-SN0009",
+      "quote": "you’re our guest",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The phrase sounds hospitable, but it also defines her status for her. Once she is a guest, he and his family get to set the terms of care, access, and gratitude."
+    },
+    {
+      "snippet_id": "S-075-SN0010",
+      "quote": "He’s also the one who always asks what I’m doing",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The repeated checking-in is framed as interest, but it also signals monitoring. At this stage it can feel flattering because it reads as attentiveness rather than surveillance."
+    },
+    {
+      "snippet_id": "S-075-SN0011",
+      "quote": "“You headed out tonight?”",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A casual question can still function like a soft location check. The wording is light, which makes it easy to accept, but it also normalizes him tracking her movements."
+    },
+    {
+      "snippet_id": "S-075-SN0012",
+      "quote": "“Where’d you daven this morning?”",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is insider Orthodox language, so it sounds natural in the setting. But it also shows how quickly he is gathering details about her routine, which can become a way of knowing and steering her life."
+    },
+    {
+      "snippet_id": "S-075-SN0013",
+      "quote": "“You settling in okay?”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "On the surface it is a kind check-in. In context, it keeps him positioned as the person who interprets her comfort, which subtly makes her more answerable to him."
+    },
+    {
+      "snippet_id": "S-075-SN0014",
+      "quote": "texted me later with two suggestions",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Following up with personalized suggestions is a small but effective way of staying present in her day. It feels thoughtful, yet it also keeps the connection active and his influence ongoing."
+    },
+    {
+      "snippet_id": "S-075-SN0015",
+      "quote": "“Baruch Hashem, you’re in the right neighborhood now.”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This uses familiar religious language to wrap a claim of authority in warmth. It sounds like blessing, but it also places him in the role of someone who can tell her where she belongs."
+    },
+    {
+      "snippet_id": "S-075-SN0016",
+      "quote": "He’s very, very charming",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is naming the exact quality that makes the rest of the behavior easy to absorb. The repetition suggests she is trying to steady herself while still admiring him."
+    },
+    {
+      "snippet_id": "S-075-SN0017",
+      "quote": "he seems so present",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Presence is the hook here. It feels like intimacy, but it can also be the mechanism that makes her overlook how quickly he is moving into her routines and attention."
+    },
+    {
+      "snippet_id": "S-075-SN0018",
+      "quote": "a little too good at making the room go quiet around him",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is a sharp little noticing. He is not just charming; he is commanding the emotional field, and she can feel that there is something slightly engineered about it."
+    },
+    {
+      "snippet_id": "S-075-SN0019",
+      "quote": "joke with Mrs. Goldstein",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The social ease of joking helps him smooth over any tension or scrutiny. It keeps everything light, which is part of why she can’t quite pin down the unease."
+    },
+    {
+      "snippet_id": "S-075-SN0020",
+      "quote": "hand me the good challah",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The food detail is culturally specific and affectionate, but it also shows how access is being managed through little privileges. Being handed the good piece makes her feel included and chosen."
+    },
+    {
+      "snippet_id": "S-075-SN0021",
+      "quote": "I was being too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the narrator absorbing the pressure back onto herself. It shows how quickly she turns a small discomfort into a personal flaw instead of a signal worth trusting."
+    },
+    {
+      "snippet_id": "S-075-SN0022",
+      "quote": "how much he asked where I was going",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the smallest visible thing she can ask about, which is exactly why it works as a closing concern. The repeated questions are easy to dismiss, but they establish a pattern of soft monitoring."
+    }
+  ],
+  "validation_warnings": [
+    "snippet[3]: invalid unmet_need 'Belonging'"
+  ],
+  "repetition_warnings": []
+}

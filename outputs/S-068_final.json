@@ -1,0 +1,388 @@
+{
+  "scenario_id": "S-068",
+  "player_type": "Storytelling Sam",
+  "scenario": {
+    "scenario_id": "S-068",
+    "architecture_name": "He uses vivid future talk and warm listening to make me feel chosen while quietly training me to hand him the story, the pace, and the meaning.",
+    "culture": "Conservative Sunni Muslim",
+    "demographics": "Young adult Arab/Muslim couple, narrator and Ahmed dating, Dearborn, Michigan",
+    "cultural_context": "Arab-American Muslim social sphere centered around local eateries, an Islamic school background, and an Arab-American museum",
+    "geographic_setting": "Dearborn, Michigan; urban Arab-American community setting",
+    "core_behaviors": [
+      "Paints a detailed shared future as if it is already underway",
+      "Uses attentive listening to draw her into telling more and more",
+      "Turns her little corrections into a sweetness test instead of a real adjustment"
+    ],
+    "satellite_signals": "Arab-American Muslim social life in Dearborn, local eateries, Islamic school memories, and the Arab-American museum create a familiar, respectable backdrop. His charm is specific and flattering, but it also makes her feel like she should stay easygoing and let him steer the conversation.",
+    "dismissible_red_flags": "At this stage it reads like romantic interest, curiosity, and playful teasing. The small discomforts are easy to excuse because he is warm, remembers details, and seems genuinely into her stories.",
+    "scenario_text": "Ahmed and I have only been seeing each other a few weeks, and honestly it has been kind of sweet. We both work from our little apartments in Dearborn, so our dates usually end up at the same Arab places near Ford Road, with too much tea and me talking faster than I mean to. He always grins when I get excited. Last night I was telling him about my Islamic school days, and he said, smiling, that I’m cute when I go off on tangents. Then he added, very casually, maybe give me a little heads-up next time you’re telling a story. I laughed because he said it like a joke, and he looked so pleased with himself. After that, at the Arab-American museum, he kept saying he could picture the whole thing with me, the little place by the water, my studio out back full of light, him making coffee in the morning. He said, in sha Allah, we’re going to build that. It sounded so vivid I almost forgot we were still just dating. He asked me what kind of books I’d keep in the studio and what my mom would think of the neighborhood, like he was already making room for me in his life. Then when I tried to say he had been a little distracted when I was talking, he just laughed and said he loves the sound of my voice. That made me feel silly for even mentioning it, because he really does seem interested, and I like that he’s so sure about us. I guess I’m just wondering if I was being too sensitive about the heads-up comment?"
+  },
+  "snippets": [
+    {
+      "quote": "We both work from our little apartments in Dearborn",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This grounds the relationship in a specific Arab-American Muslim setting and also shows equal-seeming but separate lives. The apartments matter because the future talk arrives before any real shared infrastructure exists.",
+      "snippet_id": "S-068-SN0001"
+    },
+    {
+      "quote": "our dates usually end up at the same Arab places near Ford Road",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The restaurant circuit is a familiar community backdrop. It signals ordinary dating in a tight local world, which makes his bigger future talk feel even more intimate and believable.",
+      "snippet_id": "S-068-SN0002"
+    },
+    {
+      "quote": "too much tea",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A small cultural detail that locates the scene without explanation. It gives the conversation a warm, ordinary texture rather than a dramatic one.",
+      "snippet_id": "S-068-SN0003"
+    },
+    {
+      "quote": "He always grins when I get excited",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His reaction is flattering and makes her feel seen, but it also trains her to associate his approval with her emotional performance. The grin is part of the hook.",
+      "snippet_id": "S-068-SN0004"
+    },
+    {
+      "quote": "my Islamic school days",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places her inside a recognizable Muslim upbringing and gives him a shared reference point to work from. It helps his later story-telling feel like genuine intimacy.",
+      "snippet_id": "S-068-SN0005"
+    },
+    {
+      "quote": "you’re cute when you go off on tangents",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is affectionate on the surface, but it also frames her speech as a cute quirk he can manage. The compliment quietly assigns him the role of editor.",
+      "snippet_id": "S-068-SN0006"
+    },
+    {
+      "quote": "maybe give me a little heads-up next time",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds mild, but it is a directive about how she should speak. The softness makes it easier to accept while still moving him into a supervisory position.",
+      "snippet_id": "S-068-SN0007"
+    },
+    {
+      "quote": "I laughed because he said it like a joke",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already smoothing over the moment by treating it as humor. That is the early sign that she is going to let his framing override her own read.",
+      "snippet_id": "S-068-SN0008"
+    },
+    {
+      "quote": "the Arab-American museum",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a specific community landmark that locates the couple in Dearborn’s Arab-American world. It also gives the date a polished, respectable setting for his future-painting.",
+      "snippet_id": "S-068-SN0009"
+    },
+    {
+      "quote": "I could picture the whole thing with me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is not just complimenting her, he is narrating a life around her. That kind of vivid imagining feels romantic, but it also pulls her into his script.",
+      "snippet_id": "S-068-SN0010"
+    },
+    {
+      "quote": "the little place by the water",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The specificity makes the future feel real, which is exactly why it works. The detail is doing emotional work that no actual plan has done yet.",
+      "snippet_id": "S-068-SN0011"
+    },
+    {
+      "quote": "my studio out back full of light",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He is imagining a space for her, which feels generous, but it also lets him define the shape of her life. The dream is hers in theory, his in practice.",
+      "snippet_id": "S-068-SN0012"
+    },
+    {
+      "quote": "he said, in sha Allah, we’re going to build that",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "In this register, in sha Allah can be sincere, but here it also softens a promise into something untouchable. He is turning a future fantasy into a religious-sounding certainty without giving any concrete steps.",
+      "snippet_id": "S-068-SN0013"
+    },
+    {
+      "quote": "He asked me what kind of books I’d keep in the studio",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is drawing her into the fantasy by asking for details, which makes her feel included. It is sweet, but it also gets her investing labor into his vision.",
+      "snippet_id": "S-068-SN0014"
+    },
+    {
+      "quote": "what my mom would think of the neighborhood",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Bringing in her mother makes the future feel social and serious, but it also starts testing how her family will fit into his plan. He is already thinking about how to place himself inside her world.",
+      "snippet_id": "S-068-SN0015"
+    },
+    {
+      "quote": "he just laughed and said he loves the sound of my voice",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Empathy-low",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the line that smooths over her concern without actually answering it. It sounds tender, but it sidesteps the substance and makes her feel petty for noticing the distraction.",
+      "snippet_id": "S-068-SN0016"
+    },
+    {
+      "quote": "he really does seem interested",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is talking herself back into certainty. That little hedge shows she has noticed the mismatch, but the charm is still winning.",
+      "snippet_id": "S-068-SN0017"
+    },
+    {
+      "quote": "he’s so sure about us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "His certainty feels flattering, and in this stage it reads as devotion. The problem is that the certainty is about the story, not about any actual shared structure yet.",
+      "snippet_id": "S-068-SN0018"
+    },
+    {
+      "quote": "too sensitive about the heads-up comment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She ends by shrinking her own concern. That is the clearest sign the comment landed, even though she is still trying to keep it small and reasonable.",
+      "snippet_id": "S-068-SN0019"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

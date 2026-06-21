@@ -1,0 +1,453 @@
+{
+  "scenario_id": "S-139",
+  "player_type": "Arrogant Avery",
+  "scenario": {
+    "scenario_id": "S-139",
+    "architecture_name": "He uses competence and praise to install himself as the standard, then frames her independence as a misunderstanding of the facts.",
+    "culture": "Hustle Culture",
+    "demographics": "Young adult Mexican working-holiday traveler; male boss in rural Queensland café",
+    "cultural_context": "Café workplace in a small remote local community; hospitality/service job on a working holiday",
+    "geographic_setting": "Rural outback of Queensland, Australia",
+    "core_behaviors": [
+      "Presents himself as the only person who can really show her how things work",
+      "Uses praise and correction in the same breath",
+      "Makes closeness feel like a shortcut to success"
+    ],
+    "satellite_signals": "Remote outback setting, café workplace hierarchy, his car and local knowledge, her newcomer status, and hustle-style language about standards, feedback, and getting up to speed.",
+    "dismissible_red_flags": "At this stage he mostly sounds helpful, sharp, and invested in her growth. The control is easy to miss because it arrives as guidance, confidence, and a kind of flattering mentorship.",
+    "scenario_text": "I’m still settling into the café here in rural Queensland, and mostly I like how straightforward everything feels. My boss, Ben, is one of those people who seems to know how every little thing works. He’ll say, half laughing, “Ask me anything, honestly. History, markets, how your car works.” It sounds a bit much, but he really does have an answer for everything, and I’ve started going to him first when I’m unsure about a table or a supplier order.\n\nHe’s been driving me to work because I don’t have a car out here, and he always says, “I’m protecting my time, so I’m protecting yours too.” That made me laugh the first time. He also introduced me to everyone on my second shift and told them, “I want everyone to know how special you are.” It was sweet, honestly. A little intense, but sweet.\n\nWhat’s been sitting with me is how often he corrects me in this very calm voice, like he’s doing me a favor. If I say something about a local product or the way we should set up the counter, he’ll go, “No, common misconception, most people get it wrong. Let me explain how it actually works.” And he usually is right, which is the annoying part. I can’t even say he’s rude, because he isn’t. He just has this way of making his version sound like the obvious one.\n\nMaybe I’m just not used to someone being so direct. He says he likes that I don’t get defensive, and I do want to be coachable. I’m here to learn, after all, and he’s been generous with his time. Still, I noticed I’ve started checking myself before I speak, just in case I’m missing something simple.\n\nDo you think I was being too sensitive about the way he corrected me?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m still settling into the café here in rural Queensland",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Grounding detail. It places her as a newcomer in a remote work setting, which matters because it makes his guidance feel necessary and hard to question.",
+      "snippet_id": "S-139-SN0001"
+    },
+    {
+      "quote": "My boss, Ben",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This quietly establishes the hierarchy. He is not just a date or friend, he is her boss, so his approval carries practical weight.",
+      "snippet_id": "S-139-SN0002"
+    },
+    {
+      "quote": "one of those people who seems to know how every little thing works",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is admiration on the surface, but it also sets him up as the authority on everything. She is already treating his view as the default.",
+      "snippet_id": "S-139-SN0003"
+    },
+    {
+      "quote": "Ask me anything, honestly. History, markets, how your car works",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The line is charming because it sounds broad and confident, but it also announces that he will be the one explaining reality. He is positioning himself as the source of answers.",
+      "snippet_id": "S-139-SN0004"
+    },
+    {
+      "quote": "he really does have an answer for everything",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She is already outsourcing judgment to him. The relief she feels is real, but it also shows how quickly his certainty is becoming her reference point.",
+      "snippet_id": "S-139-SN0005"
+    },
+    {
+      "quote": "I’ve started going to him first",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small but important shift. He is becoming the first stop for decisions, which means his perspective is quietly replacing her own.",
+      "snippet_id": "S-139-SN0006"
+    },
+    {
+      "quote": "He’s been driving me to work",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Transportation gives him built-in control over timing and access. It feels generous, but it also means she is moving through his schedule.",
+      "snippet_id": "S-139-SN0007"
+    },
+    {
+      "quote": "I don’t have a car out here",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This makes the transportation arrangement structurally unequal. Her dependence is practical, not emotional, which is exactly why it can be so easy to overlook.",
+      "snippet_id": "S-139-SN0008"
+    },
+    {
+      "quote": "I’m protecting my time, so I’m protecting yours too",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds efficient and caring, but it turns his preferences into a shared rule. He gets to define the arrangement as mutual even though he is the one setting it.",
+      "snippet_id": "S-139-SN0009"
+    },
+    {
+      "quote": "I want everyone to know how special you are",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering because it elevates her publicly. It also makes her feel chosen in front of others, which can create a debt to keep living up to that special status.",
+      "snippet_id": "S-139-SN0010"
+    },
+    {
+      "quote": "It was sweet, honestly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Inconsistency-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her own word shows the rationalization. She is smoothing over the intensity by calling it sweet, which tells us she has noticed the edge but is not naming it.",
+      "snippet_id": "S-139-SN0011"
+    },
+    {
+      "quote": "a little intense, but sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the narrator’s small concession. She feels the force of it, but the final adjective keeps her inside the positive frame.",
+      "snippet_id": "S-139-SN0012"
+    },
+    {
+      "quote": "he corrects me in this very calm voice",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The calmness is part of the move. He is not escalating emotionally, he is using composure to make correction feel reasonable and superior.",
+      "snippet_id": "S-139-SN0013"
+    },
+    {
+      "quote": "like he’s doing me a favor",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She can feel the asymmetry. The correction is being framed as generosity, which makes it harder for her to object without seeming ungrateful.",
+      "snippet_id": "S-139-SN0014"
+    },
+    {
+      "quote": "No, common misconception, most people get it wrong",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Disrespect-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is correction-as-superiority. He treats disagreement as ignorance and puts himself on the side of the people who supposedly see clearly.",
+      "snippet_id": "S-139-SN0015"
+    },
+    {
+      "quote": "Let me explain how it actually works",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is not just offering information, he is claiming interpretive authority. The phrase makes his version sound like objective fact rather than one view among others.",
+      "snippet_id": "S-139-SN0016"
+    },
+    {
+      "quote": "he usually is right",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the hinge. She is starting to treat his correctness as a reason to defer, which is how the control becomes self-reinforcing.",
+      "snippet_id": "S-139-SN0017"
+    },
+    {
+      "quote": "He just has this way of making his version sound like the obvious one",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Deception-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She can sense the effect even if she cannot fully name it. His confidence turns his interpretation into the obvious one, which leaves less room for her own read.",
+      "snippet_id": "S-139-SN0018"
+    },
+    {
+      "quote": "he likes that I don’t get defensive",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like praise, but it rewards compliance. If she pushes back later, she will be the one failing the standard he has already set.",
+      "snippet_id": "S-139-SN0019"
+    },
+    {
+      "quote": "I do want to be coachable",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the narrator absorbing his frame. She is beginning to see herself as someone to be trained, which makes his corrections feel earned.",
+      "snippet_id": "S-139-SN0020"
+    },
+    {
+      "quote": "I’ve started checking myself before I speak",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest sign that his style is changing her behavior. She is self-censoring preemptively, even though nothing overtly bad has happened yet.",
+      "snippet_id": "S-139-SN0021"
+    },
+    {
+      "quote": "Do you think I was being too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She ends on the smallest socially acceptable concern, not the bigger pattern. That makes the question feel safe, but it also shows how much she is already minimizing her own discomfort.",
+      "snippet_id": "S-139-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,454 @@
+{
+  "scenario_id": "S-099",
+  "player_type": "Needy Noel",
+  "scenario": {
+    "scenario_id": "S-099",
+    "architecture_name": "He turns devotion into a demand for total availability, so my independence starts feeling like a failure of love.",
+    "culture": "Hustle Culture",
+    "demographics": "F/young adult, dating a man in his late 20s, tech firm employee, downtown San Diego",
+    "cultural_context": "Tech firm employee in a professional urban dating/social scene; partner is an aspiring actor",
+    "geographic_setting": "Downtown San Diego, California; urban coastal setting with beach outings",
+    "core_behaviors": [
+      "Premises that constant replying and constant closeness are what caring looks like",
+      "Uses sweet vulnerability to make reassurance my job",
+      "Frames my work and friends as things that compete with us"
+    ],
+    "satellite_signals": "Hustle-culture language around being locked in, making time, and supporting the mission; beach-date spontaneity; constant texting as proof of care; his acting dreams give him a polished, aspirational self-story.",
+    "dismissible_red_flags": "He mostly sounds affectionate and excited, and the intensity can pass as new-relationship energy. The only thing that keeps catching me is how quickly his sweetness turns into a quiet expectation that I stay reachable.",
+    "scenario_text": "I met Noah three weeks ago at a cafe near Little Italy, and he has been so easy to like. He works in some founder-adjacent startup thing, but he keeps saying he is in monk mode about his acting auditions, which sounds kind of admirable to me, honestly. He texts me first thing in the morning, then again when he is locked in at work, just little check-ins like, “You good?” or “Miss your face.” It feels sweet, and I like that he is not playing games.\n\nThe thing that stuck with me today was how he said, “I find a quick reply is just respectful, that’s all.” We were talking about my calendar, and he laughed that couples who tell each other everything are the strong ones. I agreed, because, I mean, I do like openness. He also said, “If you really love someone, you want to be around them,” and I told him that made sense. It did, at the time.\n\nHe is also weirdly encouraging about my work. When I said I had a late client call, he said, “Don’t let the work own you,” and offered to bring dinner by after. Then he asked if I was in any masterminds, which made me laugh, because no, I am just trying to survive product deadlines. He said I was “way more chill than most girls” and that he liked that I am not always on my phone, which felt flattering, even though it also made me feel like I should prove I am the easy one.\n\nLast night he told me he missed me the second I left, then added, “I know I’m keen, I’m trying to play it slightly cooler.” I thought that was cute. But now I keep checking whether I answer fast enough, and I do not know if that is normal or if I am just getting used to his rhythm. Did I sound rude when I took a while to text back after my meeting?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Noah just three weeks ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Very early dating context. The speed matters because it makes the later expectations feel premature, even though the narrator is still treating it like exciting new connection.",
+      "snippet_id": "S-099-SN0001"
+    },
+    {
+      "quote": "at a cafe near Little Italy",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Location detail grounds the scene in downtown San Diego and keeps the relationship feeling ordinary and local rather than dramatic.",
+      "snippet_id": "S-099-SN0002"
+    },
+    {
+      "quote": "he has been so easy to like",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already doing the work of making him legible as pleasant. That can be fine, but it also hints that his appeal is carrying the relationship before anything solid is built.",
+      "snippet_id": "S-099-SN0003"
+    },
+    {
+      "quote": "he keeps saying he is in monk mode",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is hustle-culture self-framing. 'Monk mode' sounds disciplined and noble, but it also excuses reduced availability and makes his attention feel like a scarce resource she should value.",
+      "snippet_id": "S-099-SN0004"
+    },
+    {
+      "quote": "acting auditions",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "His aspiring-actor identity matters because it helps explain the polished, self-staging feel. He is building a persona that can make constant attention seem romantic and purposeful.",
+      "snippet_id": "S-099-SN0005"
+    },
+    {
+      "quote": "He texts me first thing in the morning",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The contact itself is sweet, but the timing shows how quickly he is setting a constant-contact rhythm. Early on that can feel flattering; later it becomes the baseline she has to meet.",
+      "snippet_id": "S-099-SN0006"
+    },
+    {
+      "quote": "when he is locked in at work",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "'Locked in' is hustle language for disciplined focus, but here it also normalizes that he is always in motion and that her access to him depends on fitting into his schedule.",
+      "snippet_id": "S-099-SN0007"
+    },
+    {
+      "quote": "You good?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A tiny check-in can be caring, but repeated micro-checks often become reassurance-seeking. It nudges her into the role of keeping him settled.",
+      "snippet_id": "S-099-SN0008"
+    },
+    {
+      "quote": "Miss your face",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Cute on the surface, but it is also a quick bid for emotional return. The phrasing is affectionate, yet it keeps her aware that her absence is already registering for him.",
+      "snippet_id": "S-099-SN0009"
+    },
+    {
+      "quote": "I find a quick reply is just respectful",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-low",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a value statement, not a demand, which is why it works. He is planting a rule that makes ordinary response time feel like a moral issue.",
+      "snippet_id": "S-099-SN0010"
+    },
+    {
+      "quote": "couples who tell each other everything are the strong ones",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Boundaries-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a classic premise-setting line. It sounds mature and intimate, but it quietly makes privacy look weak and turns openness into proof of love.",
+      "snippet_id": "S-099-SN0011"
+    },
+    {
+      "quote": "If you really love someone, you want to be around them",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is defining love as constant proximity. That sounds romantic in the moment, but it sets up any desire for space as evidence that she loves less.",
+      "snippet_id": "S-099-SN0012"
+    },
+    {
+      "quote": "Don’t let the work own you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds supportive, but it also lightly reorders her priorities. He is making himself the person who gets to comment on how she uses her time and energy.",
+      "snippet_id": "S-099-SN0013"
+    },
+    {
+      "quote": "offered to bring dinner by after",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A caring gesture, but it also turns her work night into something he can enter and manage. The kindness creates access.",
+      "snippet_id": "S-099-SN0014"
+    },
+    {
+      "quote": "Are you in any masterminds",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is hustle-culture status talk. He is checking her place in the self-improvement hierarchy while also signaling that he belongs in that world.",
+      "snippet_id": "S-099-SN0015"
+    },
+    {
+      "quote": "you are just trying to survive product deadlines",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her work pressure is visible here, which makes his constant contact more intrusive. He is not just affectionate, he is doing it against the grain of her actual day.",
+      "snippet_id": "S-099-SN0016"
+    },
+    {
+      "quote": "way more chill than most girls",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-low",
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is praise that separates her from other women. It feels flattering, but it rewards her for being the exception and makes future needs or complaints feel like a downgrade.",
+      "snippet_id": "S-099-SN0017"
+    },
+    {
+      "quote": "not always on my phone",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He likes that she is not always on her phone, but he says it in a way that makes her feel she should prove she is low-maintenance and easy to access.",
+      "snippet_id": "S-099-SN0018"
+    },
+    {
+      "quote": "I missed me the second I left",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest early sign of his emotional dependence. It is sweet now, but it asks her to absorb his discomfort with separation.",
+      "snippet_id": "S-099-SN0019"
+    },
+    {
+      "quote": "I know I’m keen",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He self-identifies as eager in a self-aware, joking way. That makes the intensity feel manageable, while still normalizing that his pace is fast and her job is to reassure him.",
+      "snippet_id": "S-099-SN0020"
+    },
+    {
+      "quote": "I’m trying to play it slightly cooler",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He knows he is coming on strong, but he frames it as a charming quirk rather than a pressure point. That keeps her in the role of soothing his awareness of himself.",
+      "snippet_id": "S-099-SN0021"
+    },
+    {
+      "quote": "I keep checking whether I answer fast enough",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her own behavior is already adapting to his pace. That is the important shift: she is monitoring herself to avoid upsetting him, even though nothing overtly bad has happened.",
+      "snippet_id": "S-099-SN0022"
+    },
+    {
+      "quote": "Did I sound rude when I took a while to text back after my meeting?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The question is tiny on purpose, which is exactly why it matters. She is asking about politeness, but underneath she is checking whether she violated the new rule that his attention needs immediate return.",
+      "snippet_id": "S-099-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

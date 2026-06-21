@@ -1,0 +1,500 @@
+{
+  "scenario_id": "S-131",
+  "player_type": "Manipulative Morgan",
+  "scenario": {
+    "scenario_id": "S-131",
+    "architecture_name": "He uses attentive charm and surprise favors to make me feel specially chosen, then quietly positions himself as the one who knows, decides, and gets to be hurt if I question him.",
+    "culture": "South Asian",
+    "demographics": "Young adult woman; South Asian or immigrant-family background; female; single/dating; Jackson Heights, Queens",
+    "cultural_context": "College-bound young adult in an urban immigrant family context; boyfriend is a tech-savvy consultant, suggesting a professional/socially mobile milieu",
+    "geographic_setting": "Jackson Heights, Queens, New York City",
+    "core_behaviors": [
+      "Uses charm as a lure and keeps the tone light",
+      "Builds closeness through surprise favors and future talk",
+      "Frames his questions as care, but they also gather information",
+      "Treats my hesitation like proof I should trust him more"
+    ],
+    "satellite_signals": "South Asian family and status cues, college-bound urban immigrant setting, tech-consultant boyfriend, and a polished, easy intimacy that feels flattering before it feels intrusive.",
+    "dismissible_red_flags": "His attention feels generous, and the questions sound like interest in my life. The only thing that stays with me is how fast he seems to know what I need, which I can still read as sweet.",
+    "scenario_text": "I met Arjun at a friend’s Diwali thing in Jackson Heights, and he was the kind of guy who made everything feel easy right away. He had this calm, polished way of talking, like he’d already taken in the whole room and decided what would make people comfortable. He asked where my parents are from, then laughed like he was trying not to sound too nosy. I told him Queens, obviously, but he kept going, asking what I studied and whether my family is the “weirdly chill” kind or the “what will people say” kind. I laughed because, honestly, he said it like he got it. He also kept saying he loved a girl who was “real” and not stuck up about family stuff. That felt nice, even if it was a little much for a first conversation.\n\nA few days later he showed up at my building with chai from this little place near 74th Street because I’d mentioned I missed the one my cousin makes. He said, “I notice what you need before you say it,” and it was hard not to melt a little. He drove me to campus because he said the E train was a mess and he didn’t like me going alone that late. Then he kept asking little things, like whether my parents were still together, whether I eat beef, whether my in-laws would be nearby someday, which made me laugh because we are nowhere near that. He just grinned and said he was trying to understand me properly.\n\nThe only moment that stayed with me was when I asked why he kept wanting all these details, and he said, “You’re not really going to make this weird, are you? I’m just trying to take care of you.” He looked so genuinely surprised that I felt kind of bad for even asking. Maybe I was being too suspicious. Do you think I was overthinking the way he asked all that?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-131-SN0001",
+      "snippet_text": "I met Arjun at a friend’s Diwali thing in Jackson Heights",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The setting and event place him inside a specific South Asian social world. It also signals a community context where introductions carry a lot of informal screening."
+    },
+    {
+      "snippet_id": "S-131-SN0002",
+      "snippet_text": "he was the kind of guy who made everything feel easy right away",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the classic quick-comfort move. It sounds romantic, but it also hints at fast charm without much depth, which can make her lower her guard early."
+    },
+    {
+      "snippet_id": "S-131-SN0003",
+      "snippet_text": "He had this calm, polished way of talking",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high",
+        "Dysregulation-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He presents as smooth and put-together, which reads as attractive. The emphasis on polish also suggests presentation over substance."
+    },
+    {
+      "snippet_id": "S-131-SN0004",
+      "snippet_text": "like he’d already taken in the whole room",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He seems socially observant, but the wording implies he is scanning and mapping people quickly. That kind of fast read can be useful for charm and later control."
+    },
+    {
+      "snippet_id": "S-131-SN0005",
+      "snippet_text": "what would make people comfortable",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This sounds considerate, and it is on the surface. But it also casts him as the one managing the room, which quietly gives him the role of organizer and interpreter."
+    },
+    {
+      "snippet_id": "S-131-SN0006",
+      "snippet_text": "He asked where my parents are from",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In this register, that question is not small. It is a standard identity probe that quickly gathers family, class, and community information."
+    },
+    {
+      "snippet_id": "S-131-SN0007",
+      "snippet_text": "what I studied",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is another South Asian status question. It sounds casual, but it helps him place her socially and professionally."
+    },
+    {
+      "snippet_id": "S-131-SN0008",
+      "snippet_text": "whether my family is the “weirdly chill” kind",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is sorting her family into a type and making “chill” into the desirable category. That rewards her for being easy to fit and makes more traditional boundaries seem less acceptable."
+    },
+    {
+      "snippet_id": "S-131-SN0009",
+      "snippet_text": "the “what will people say” kind",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This phrase is deeply loaded in South Asian families, where reputation and community surveillance can shape behavior. He is invoking that framework as if he belongs inside it."
+    },
+    {
+      "snippet_id": "S-131-SN0010",
+      "snippet_text": "a girl who was “real”",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is setting up a category of the good woman, the authentic one, which makes her want to prove she belongs there. That can become a test he controls."
+    },
+    {
+      "snippet_id": "S-131-SN0011",
+      "snippet_text": "not stuck up about family stuff",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This sounds like praise, but it also quietly shames women who do have stronger family boundaries. He gets to define maturity as being easy with him."
+    },
+    {
+      "snippet_id": "S-131-SN0012",
+      "snippet_text": "He showed up at my building with chai",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The gesture is sweet and culturally legible, which is why it lands. But it also shows him inserting himself into her routine and making himself feel necessary."
+    },
+    {
+      "snippet_id": "S-131-SN0013",
+      "snippet_text": "because I’d mentioned I missed the one my cousin makes",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Remembering a small detail is flattering, and it makes him seem attentive. The deeper effect is that he begins to feel intimate before the relationship has earned that level of access."
+    },
+    {
+      "snippet_id": "S-131-SN0014",
+      "snippet_text": "I notice what you need before you say it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a very flattering line, but it also assigns him interpretive authority over her needs. Once he is the one who “knows” first, it becomes harder for her to disagree later."
+    },
+    {
+      "snippet_id": "S-131-SN0015",
+      "snippet_text": "He drove me to campus",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He controls the movement and the timing here. On the surface it is helpful, but it also puts him in the driver’s seat literally and socially."
+    },
+    {
+      "snippet_id": "S-131-SN0016",
+      "snippet_text": "the E train was a mess",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This gives the practical reason she accepts the ride, which makes the dependency feel normal rather than chosen. It quietly shows why his help seems reasonable."
+    },
+    {
+      "snippet_id": "S-131-SN0017",
+      "snippet_text": "whether my parents were still together",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That is a loaded family probe in this community. It sounds personal and caring, but it also helps him map vulnerability and family structure very quickly."
+    },
+    {
+      "snippet_id": "S-131-SN0018",
+      "snippet_text": "whether I eat beef",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a specific South Asian identity question tied to religion, region, and family practice. It places him as someone fluent in the codes, not just curious about them."
+    },
+    {
+      "snippet_id": "S-131-SN0019",
+      "snippet_text": "whether my in-laws would be nearby someday",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-low",
+        "Control-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This jumps far ahead in a way that sounds playful, but it also starts imagining a future structure where she is already slotted into a family system. It is a soft way of making the relationship feel pre-decided."
+    },
+    {
+      "snippet_id": "S-131-SN0020",
+      "snippet_text": "I was nowhere near that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She notices the mismatch between where they are and where his questions jump. It is a small internal check that something feels premature, even if she does not name it."
+    },
+    {
+      "snippet_id": "S-131-SN0021",
+      "snippet_text": "He just grinned and said he was trying to understand me properly",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds caring, but it also turns his probing into a moral good. He gets to frame his curiosity as legitimate understanding, which makes her seem unreasonable if she resists."
+    },
+    {
+      "snippet_id": "S-131-SN0022",
+      "snippet_text": "You’re not really going to make this weird, are you?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the first clear reversal. Instead of answering her concern, he makes her discomfort the problem and pressures her to back off."
+    },
+    {
+      "snippet_id": "S-131-SN0023",
+      "snippet_text": "I’m just trying to take care of you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Care language is doing the work of control here. It sounds protective, but it also makes his questions and pressure hard to challenge without seeming ungrateful."
+    },
+    {
+      "snippet_id": "S-131-SN0024",
+      "snippet_text": "I felt kind of bad for even asking",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her own reaction shows the effect of his framing. She is already turning away from her question and toward protecting his feelings, which is exactly the asymmetry he is building."
+    },
+    {
+      "snippet_id": "S-131-SN0025",
+      "snippet_text": "Do you think I was overthinking the way he asked all that?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the smallest acceptable concern, which is what makes it believable. She is not asking if he is controlling, just whether her reaction to his tone was too much."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,420 @@
+{
+  "scenario_id": "S-119",
+  "player_type": "Storytelling Sam",
+  "scenario": {
+    "scenario_id": "S-119",
+    "architecture_name": "He turns family belonging into a vivid future so her gratitude binds her before any real commitment exists.",
+    "culture": "Chinese American",
+    "demographics": "Adult woman dating Miguel; Miguel is a Filipino man; relationship status: dating",
+    "cultural_context": "Filipino family gatherings and extended-family social sphere in a tight-knit immigrant/community context",
+    "geographic_setting": "Daly City, California; suburban Filipino-American family/community setting",
+    "core_behaviors": [
+      "Paints a shared future in concrete domestic detail",
+      "Uses family gatherings and community warmth as proof of seriousness",
+      "Invites her to imagine herself inside his world before there is actual change"
+    ],
+    "satellite_signals": "Daly City suburb setting, extended-family gatherings, Tagalog she half-follows, auntie commentary, and his dreamy future talk create a warm but pressuring atmosphere.",
+    "dismissible_red_flags": "It mostly reads as romantic and family-oriented. The future talk sounds sweet, and the family inclusion can seem like normal closeness rather than a trap.",
+    "scenario_text": "Miguel keeps saying I’m the first person he’s dated who actually gets what family means, which is flattering because my own parents are pretty practical and not very gushy. Last weekend in Daly City, his cousins were all over the place, kids running through the yard, somebody grilling, his aunties arguing over who makes the better pancit. I only caught every other Tagalog sentence, but Miguel kept leaning over to translate little bits for me, like he wanted me inside the joke. He said, smiling, that I was doing great and that I was already part of the rhythm.\n\nAt one point he pointed at the little house behind his parents’ place and said he could picture the whole thing for us someday, a place with a bright kitchen, my books on the counter, maybe a tiny room off the back that I could use as a studio. He said it so casually, like he was describing something we’d already done. Then he added, “You’d love it here. My mom would make sure you never left hungry.” It was sweet, honestly. He always makes everything sound easy.\n\nLater, when his auntie told him, laughing, that he was still his mother’s boy, he just grinned and said, “Yeah, but I’m building something now.” I liked that. It sounded grown-up, like he knew what he wanted. He asked me what kind of neighborhood I’d want if we ever moved, and whether I’d want a window for plants or more space for painting. I told him I didn’t know, but he said we had time, and that the good part was still ahead of us. It made me feel lucky, like he was already making room for me.\n\nI guess the only thing that stayed with me was how fast it all feels when he talks like that. Is it weird that I keep thinking about the way he said it?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m the first person he’s dated who actually gets what family means",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He flatters her by making her the rare exception. That sounds intimate, but it also sets up a role where she has to keep proving she belongs in his world.",
+      "snippet_id": "S-119-SN0001"
+    },
+    {
+      "quote": "my own parents are pretty practical and not very gushy",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places her family style in contrast with his more emotional, family-centered style. It helps explain why his warmth feels especially persuasive to her.",
+      "snippet_id": "S-119-SN0002"
+    },
+    {
+      "quote": "Last weekend in Daly City",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The setting locates the relationship inside a specific suburban immigrant community. It matters because the family network is part of the pressure and the appeal.",
+      "snippet_id": "S-119-SN0003"
+    },
+    {
+      "quote": "his cousins were all over the place",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The big extended-family scene shows how much of his life is already communal. She is being brought into a ready-made circle, which can feel warm while also narrowing her room to stay separate.",
+      "snippet_id": "S-119-SN0004"
+    },
+    {
+      "quote": "somebody grilling",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A small domestic detail that makes the family scene feel lived-in and welcoming. It helps sell the future as ordinary and already in progress.",
+      "snippet_id": "S-119-SN0005"
+    },
+    {
+      "quote": "his aunties arguing over who makes the better pancit",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The food talk and auntie banter are community markers. They make the circle feel warm and familiar, which makes her more willing to trust the larger story he is telling.",
+      "snippet_id": "S-119-SN0006"
+    },
+    {
+      "quote": "I only caught every other Tagalog sentence",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is slightly out of the linguistic center, which creates a soft dependency on him to interpret. That can feel caring early on, but it also puts him in the role of gatekeeper.",
+      "snippet_id": "S-119-SN0007"
+    },
+    {
+      "quote": "he kept leaning over to translate little bits for me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Translation is helpful on the surface, but it also makes him the one who decides what she gets to understand. He becomes the interpreter of the room, which gives him quiet authority.",
+      "snippet_id": "S-119-SN0008"
+    },
+    {
+      "quote": "I was already part of the rhythm",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is belonging language. It sounds affectionate, but it also asks her to accept a ready-made role inside his family system before anything is actually settled.",
+      "snippet_id": "S-119-SN0009"
+    },
+    {
+      "quote": "he could picture the whole thing for us someday",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the future-painting move. He is not just talking about a possibility, he is making the imagined future feel vivid enough to stand in for commitment.",
+      "snippet_id": "S-119-SN0010"
+    },
+    {
+      "quote": "a place with a bright kitchen",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The detail makes the fantasy feel concrete and cozy. Specificity can be seductive because it makes a future sound already designed, even when nothing has been built.",
+      "snippet_id": "S-119-SN0011"
+    },
+    {
+      "quote": "my books on the counter",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is not just imagining a house, he is imagining her things placed inside it. That makes the future feel personal and intimate, which can pull her deeper into the story.",
+      "snippet_id": "S-119-SN0012"
+    },
+    {
+      "quote": "a tiny room off the back that I could use as a studio",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He offers her a space of her own, but it is still inside the world he is describing. The gesture sounds generous while quietly keeping the whole future on his terms.",
+      "snippet_id": "S-119-SN0013"
+    },
+    {
+      "quote": "You’d love it here. My mom would make sure you never left hungry",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds like family warmth, but it also makes comfort and care part of the package he is selling. It ties her affection to his household and makes the future feel hard to refuse.",
+      "snippet_id": "S-119-SN0014"
+    },
+    {
+      "quote": "I’m building something now",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He casts himself as a man in motion, which sounds mature and purposeful. But it also keeps the relationship in a perpetual construction phase, where she is expected to wait and admire.",
+      "snippet_id": "S-119-SN0015"
+    },
+    {
+      "quote": "what kind of neighborhood I’d want",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is drawing her into planning, which feels collaborative. The catch is that the planning is about a future he is already narrating, so her input becomes emotional investment.",
+      "snippet_id": "S-119-SN0016"
+    },
+    {
+      "quote": "whether I’d want a window for plants or more space for painting",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is very personalized and easy to love. He is using her tastes to make the imagined future feel tailored, which deepens attachment before there is any real follow-through.",
+      "snippet_id": "S-119-SN0017"
+    },
+    {
+      "quote": "we had time",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the soft delay phrase. It feels patient, but it also keeps the future indefinitely open, which lets him create closeness without having to deliver anything yet.",
+      "snippet_id": "S-119-SN0018"
+    },
+    {
+      "quote": "the good part was still ahead of us",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the clearest version of present-as-prologue. It makes the current relationship feel like a warm-up, so she is trained to tolerate the lack of substance now because the real payoff is supposedly coming.",
+      "snippet_id": "S-119-SN0019"
+    },
+    {
+      "quote": "how fast it all feels when he talks like that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "She notices the speed, but only as a feeling. That small unease is the real signal here: his words are moving faster than any actual shared life.",
+      "snippet_id": "S-119-SN0020"
+    },
+    {
+      "quote": "the way he said it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is focused on tone and delivery more than content. That is exactly how a vivid storyteller can make a promise feel true without making it true.",
+      "snippet_id": "S-119-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,448 @@
+{
+  "scenario_id": "S-057",
+  "player_type": "Blunt Bailey",
+  "scenario": {
+    "scenario_id": "S-057",
+    "architecture_name": "He uses practical care and literal honesty to build trust, then quietly turns that trust into planning authority and interpretive control.",
+    "culture": "Black Professional",
+    "demographics": "Nigerian immigrant woman, late 20s; he is a Black professional man in tech downtown, early 30s",
+    "cultural_context": "African diaspora community with a tech-worker dating context",
+    "geographic_setting": "Boston, specifically Dorchester neighborhood",
+    "core_behaviors": [
+      "Takes over planning while framing it as care",
+      "Uses literal honesty to seem trustworthy",
+      "Builds a private little world where her schedule becomes his reference point"
+    ],
+    "satellite_signals": "African diaspora community in Dorchester, Nigerian food, tech-worker status, HBCU and Black professional class markers, plus a quiet stability narrative that makes his control feel like competence.",
+    "dismissible_red_flags": "At this stage he mostly looks thoughtful, reliable, and unusually direct. His questions about her schedule and friends can read like interest, and his habit of planning ahead can feel like a blessing rather than a problem.",
+    "scenario_text": "I’m smiling as I type this because, honestly, he’s been sweet. We met through a friend in Dorchester, and the first thing that got me was how plain he was about everything. If he thought my manager was mismanaging me, he said it. If he didn’t understand a joke, he said that too. It was kind of refreshing after men who talk in circles.\n\nLast night he took me to this little Nigerian place near Fields Corner, not flashy at all, just good food and quiet enough that we could actually talk. He said he’d asked the owner about the jollof ahead of time because he wanted to make sure I’d like it. That felt thoughtful, like he was paying attention. He kept saying, “I’m just telling you the truth,” and weirdly, I believed him.\n\nHe’s also been asking about my day in a way that sounds casual but is very specific. “What time do you leave work? What time do you get home? Are you free after seven?” At first I thought he just liked being organized, which I do too, because my schedule is chaotic with work and church stuff. He even made a little spreadsheet for the weekend, which made me laugh and also made me feel looked after.\n\nAnd he’s so matter-of-fact about care. My phone charger was dying and the next day he had one in his bag. I mentioned I was tired after the train and he offered to pick me up from Savin Hill without making a big production out of it. He doesn’t do the performative stuff, which I actually like.\n\nThe only tiny thing is that he keeps saying my friends don’t really see how hard I work, and that I’m “a real one.” It sounds like a compliment, and maybe it is. I just don’t know why that one comment stayed with me. Was I being too sensitive about that?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m smiling as I type this because, honestly, he’s been sweet.",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She opens from a positive, absorbed place, and the word sweet is doing a lot of work. It sounds affectionate, but it also shows she is already smoothing over small discomforts instead of separating them out.",
+      "snippet_id": "S-057-SN0001"
+    },
+    {
+      "quote": "We met through a friend in Dorchester",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the relationship inside a specific Boston Black professional and diaspora setting. It is ordinary background, but it matters because the whole romance is being read through community familiarity and social trust.",
+      "snippet_id": "S-057-SN0002"
+    },
+    {
+      "quote": "the first thing that got me was how plain he was about everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Deception-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His plainness is attractive because it reads as honesty. The structural issue is that she is trusting directness as proof of safety, which makes later control feel less suspicious.",
+      "snippet_id": "S-057-SN0003"
+    },
+    {
+      "quote": "If he thought my manager was mismanaging me, he said it",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is already positioning himself as the one who names the truth about her work life. It sounds supportive, but it also sets him up as the interpreter of her reality.",
+      "snippet_id": "S-057-SN0004"
+    },
+    {
+      "quote": "He said that too",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The appeal is that he seems direct and unfiltered. But repeated bluntness can become a way of steering the conversation while still seeming innocent, because she is trained to read honesty as virtue.",
+      "snippet_id": "S-057-SN0005"
+    },
+    {
+      "quote": "It was kind of refreshing after men who talk in circles",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is comparing him favorably to men who felt evasive, so his directness lands as relief. That relief makes her less likely to notice when his certainty starts narrowing the room.",
+      "snippet_id": "S-057-SN0006"
+    },
+    {
+      "quote": "this little Nigerian place near Fields Corner",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The restaurant choice signals shared cultural grounding and care. It is a warm detail, but it also makes the date feel tailored to her identity, which can deepen gratitude fast.",
+      "snippet_id": "S-057-SN0007"
+    },
+    {
+      "quote": "he’d asked the owner about the jollof ahead of time",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is attentive and culturally fluent, so it reads as thoughtful. The deeper pattern is that he is gathering information in advance and using it to manage the scene for her.",
+      "snippet_id": "S-057-SN0008"
+    },
+    {
+      "quote": "I wanted to make sure I’d like it",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Empathy-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "On the surface this is caring and considerate. It also reveals pre-planning around her preferences, which can become a habit of deciding the terms of the experience before she has a say.",
+      "snippet_id": "S-057-SN0009"
+    },
+    {
+      "quote": "I’m just telling you the truth",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "In this register, that line sounds like integrity. It also creates a very strong frame where his version of events gets moral authority, and disagreement can start to feel like resisting truth itself.",
+      "snippet_id": "S-057-SN0010"
+    },
+    {
+      "quote": "He’s also been asking about my day in a way that sounds casual but is very specific",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The question pattern is not alarming by itself, but it shows he is collecting structure around her time. Early on, that can feel attentive; later it can become a map of her availability.",
+      "snippet_id": "S-057-SN0011"
+    },
+    {
+      "quote": "What time do you leave work? What time do you get home? Are you free after seven?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "These are ordinary questions with an ordinary surface meaning, but together they show him building a schedule around her. The power piece is that he is already organizing her time before she has asked him to.",
+      "snippet_id": "S-057-SN0012"
+    },
+    {
+      "quote": "I thought he just liked being organized",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the narrator explaining away a pattern as a personality trait. She is not worried yet, but she is doing the work of making his management feel like compatibility.",
+      "snippet_id": "S-057-SN0013"
+    },
+    {
+      "quote": "he even made a little spreadsheet for the weekend",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A spreadsheet is cute at first, especially in a tech-worker dating context. But it also means he is translating romance into logistics he controls, which makes her fit inside his structure.",
+      "snippet_id": "S-057-SN0014"
+    },
+    {
+      "quote": "which made me laugh and also made me feel looked after",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her laugh shows she experiences it as endearing, and the feeling of being looked after is the hook. She is accepting care in a way that lowers the chance she’ll question the planning behind it.",
+      "snippet_id": "S-057-SN0015"
+    },
+    {
+      "quote": "My phone charger was dying and the next day he had one in his bag",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is a practical kindness, and it works because it is concrete. The deeper effect is that he becomes the person who anticipates and solves small problems before she can, which builds dependence on his attentiveness.",
+      "snippet_id": "S-057-SN0016"
+    },
+    {
+      "quote": "he offered to pick me up from Savin Hill",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Transportation is a small but real power point. When he has the car and offers the ride, that can be generous, but it also quietly puts him in the position of arranging her movement.",
+      "snippet_id": "S-057-SN0017"
+    },
+    {
+      "quote": "without making a big production out of it",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This phrase frames him as the opposite of performative men, which makes his care feel more trustworthy. It also teaches her to prefer his quiet competence over visible mutual negotiation.",
+      "snippet_id": "S-057-SN0018"
+    },
+    {
+      "quote": "he keeps saying my friends don’t really see how hard I work",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest seed of separation. He is flattering her by contrasting her with her friends, which rewards distance from her social world and makes him the special witness to her value.",
+      "snippet_id": "S-057-SN0019"
+    },
+    {
+      "quote": "I’m a real one",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Inside Black professional speech, this sounds like recognition and respect. It also works as a category claim, marking her as the good exception and making his approval feel especially meaningful.",
+      "snippet_id": "S-057-SN0020"
+    },
+    {
+      "quote": "that one comment stayed with me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Perseverance-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is noticing her own lingering reaction, which is the smallest possible warning sign. She cannot fully dismiss it, but she also cannot yet name why it matters, so it sits there and keeps echoing.",
+      "snippet_id": "S-057-SN0021"
+    },
+    {
+      "quote": "Was I being too sensitive about that?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the actual question she is asking, and it is intentionally tiny. She is not asking whether he is controlling her, only whether her reaction to one compliment was too much, which shows how early the dynamic still is.",
+      "snippet_id": "S-057-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,33 +1,32 @@
 {
   "scenario_id": "S-021",
-  "player_type": "Avoidant Alex",
+  "player_type": "Backhanded Blake",
   "scenario": {
     "scenario_id": "S-021",
-    "architecture_name": "He uses wellness-spiritual language about freedom, rhythm, and self-work to pre-justify emotional unavailability, installing her silence about unmet needs as proof she is the evolved, low-pressure partner he has been waiting for.",
-    "culture": "Wellness-Spiritual",
-    "demographics": "Female, late 20s, Coos Bay Oregon; partner male, mid-30s, wellness-adjacent, somatic-therapy fluent",
-    "cultural_context": "Dating and romantic relationships, early-stage courtship in small-town Pacific Northwest setting",
-    "geographic_setting": "Coos Bay, Oregon",
+    "architecture_name": "He uses dry wit and selective unreliability to make her chase his approval while quietly shrinking her room to object.",
+    "culture": "Old-Money WASP",
+    "demographics": "F/26, M/31, early dating",
+    "cultural_context": "Working-class dating and family-oriented social sphere; he is an HVAC technician and introduces her to his mother and sister",
+    "geographic_setting": "Coos Bay, Oregon; small coastal town / beachside environment",
     "core_behaviors": [
-      "Pre-excuses disappearance using healing-journey framing",
-      "Rewards her silence about needs as spiritual maturity",
-      "Frames commitment-avoidance as conscious, evolved non-attachment",
-      "Deploys rationed warmth as proof of rare depth"
+      "Dry, outward-facing wit that turns inward into a cut",
+      "Cheerful agreement that quietly does not turn into action",
+      "Compliments that carry a correction inside them",
+      "Approval framed as scarce and therefore worth working for"
     ],
-    "satellite_signals": "Anti-label framing dressed as spiritual authenticity; pre-excused withdrawal normalized as recharge rhythm; compliments that reward her for needing little; therapy-speak deployed to close conversations about his availability.",
-    "dismissible_red_flags": "His self-disclosure about being hot and cold reads as admirable honesty and self-awareness; his praise of her independence reads as mutual respect and healthy non-codependency; his resistance to labels reads as romantic presence-over-performance.",
-    "scenario_text": "I met Eli about six weeks ago at a sound bath in Coos Bay, which honestly felt like divine timing. He's mid-thirties, does somatic work with a small practice out of his home, has this quiet, grounded energy that I wasn't expecting. On our second date he said he'd been doing shadow work for years and it had changed how he moves through relationships. I thought that was really beautiful.\n\nHe's been pretty consistent about seeing me once a week, sometimes twice. When we're together it's genuinely wonderful, very present, very real. He told me early on that he's a bit inconsistent but it's real when he's here, and I appreciated him being upfront about that. He also mentioned he needs a lot of space, but that doesn't mean he doesn't care, which made sense to me. I do have my own life going on, my job, my yin yoga practice, my friends. I'm not someone who needs constant check-ins.\n\nLast week after a really good night together he texted the next morning saying he needed quiet for a day or two, that he always comes back. I told myself that was fine, and it mostly was. He did come back, sent a voice note Thursday saying he'd been thinking about me.\n\nThe thing that's sitting with me is something he said a few weeks in. I asked, kind of casually, if we were seeing other people. He smiled and said let's not put pressure on this, I like how easy it feels with you. I laughed and said sure, totally. But I've been thinking about it since. He's said a few times that he loves that I have my own life going on, and I know that's a compliment. I think it is.\n\nI guess I'm just wondering, is it weird that the question is still sitting in my chest a little?"
+    "satellite_signals": "Old-money restraint is used as cover for withholding warmth. He sounds polished, discerning, and 'not impressed by nonsense,' which makes the backhanded remarks feel like taste rather than hostility. The social code of being easygoing and not vulgar helps her absorb the sting.",
+    "dismissible_red_flags": "At this stage his lines can read as playful, clever, or just a little exacting. He is not overtly angry, and his teasing comes wrapped in compliments, so she can tell herself he is simply dry and hard to read.",
+    "scenario_text": "I keep thinking I’m probably overthinking this, because most of the time he’s genuinely fun to be around. Blake has that dry, quick way of looking at people like he’s already clocked the whole room, and I do laugh. He said my friend was “very earnest” after dinner at the club, which honestly made me laugh too. He’s also been so easy about plans, or at least he sounds easy. When I asked if he wanted to come up to Edgartown with me next month, he said, “We’ll see, darling, one simply doesn’t rush these things,” and then kissed my forehead like I was being adorable for asking. I liked that. I really did. He’s the first man I’ve dated who doesn’t act impressed by everything, which feels kind of refreshing after a lot of showy people. He told me he likes women who can take a joke, and I said I can. I can, mostly. Last night I was telling him about a charity thing my aunt is doing, and he said, “It’s very you, all that good-hearted energy,” with this little smile that made me wonder if he meant it sweetly or if he was being clever. Then he added, “No, no, I mean it,” and changed the subject before I could quite decide. He’s also got this habit of saying he’ll sort something and then acting like it was never urgent, which is fine, I guess. He remembered to bring the wine, and he did text after, “I’m not one of those useless men.” I laughed, because he was joking. Maybe I’m just not used to someone this dry. Still, there was one thing at dinner that stayed with me a little. Do you think I was being too sensitive about the joke about my dress?"
   },
   "snippets": [
     {
-      "quote": "felt like divine timing",
+      "quote": "I keep thinking I’m probably overthinking this",
       "kind_of_signal": [
-        "Cultural/Demographic Information",
-        "Loaded Language"
+        "Internal Red Flag"
       ],
       "unes_traits": [
-        "Superficiality-high",
-        "Deception-high"
+        "Validation-seeking-high",
+        "Trust-low"
       ],
       "unmet_need": [
         "Reality"
@@ -35,405 +34,303 @@
       "possible_trauma": [
         "Gaslighting (DARVO)"
       ],
-      "reasoning": "Wellness-spiritual framing that pre-loads the relationship with cosmic significance before it has been earned. 'Divine timing' removes her analytical distance and installs a sense of predestination, making skepticism feel like fighting the universe.",
+      "reasoning": "She is already checking her own perception before naming the issue. That self-doubt is the opening he benefits from, because it makes his later comments easier to absorb as harmless.",
       "snippet_id": "S-021-SN0001"
     },
     {
-      "quote": "does somatic work with a small practice out of his home",
-      "kind_of_signal": [
-        "Cultural/Demographic Information",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Superficiality-high",
-        "Charm-high"
-      ],
-      "unmet_need": [
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "Locates him inside the wellness-spiritual register with professional credibility. A somatic practitioner carries interpretive authority in this community — he knows the vocabulary of bodies, feelings, and healing, which positions him to name her experience for her later.",
-      "snippet_id": "S-021-SN0002"
-    },
-    {
-      "quote": "quiet, grounded energy that I wasn't expecting",
+      "quote": "most of the time he’s genuinely fun to be around",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Attachment-low",
-        "Dysregulation-low",
-        "Intensity-low"
-      ],
-      "unmet_need": [
-        "Connection"
-      ],
-      "possible_trauma": [
-        "Emotional Neglect"
-      ],
-      "reasoning": "She reads his flatness as groundedness. In this register, low emotional energy reads as spiritual steadiness. What she is describing is a man who generates little warmth — and she is already framing the scarcity as a feature.",
-      "snippet_id": "S-021-SN0003"
-    },
-    {
-      "quote": "he'd been doing shadow work for years and it had changed how he moves through relationships",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Superficiality-high",
-        "Deception-high",
-        "Accountability-low"
-      ],
-      "unmet_need": [
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "Self-positioning as a man who has done the work pre-empts her from raising concerns. If he has already changed how he moves through relationships, any difficulty she experiences becomes her problem to process, not his pattern to examine.",
-      "snippet_id": "S-021-SN0004"
-    },
-    {
-      "quote": "I thought that was really beautiful",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Trust-high",
-        "Empathy-low"
-      ],
-      "unmet_need": [
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "She absorbs his self-description as evidence of depth rather than as a self-advertisement. Her admiration is doing the work of verification — she has accepted his framing without any behavioral confirmation.",
-      "snippet_id": "S-021-SN0005"
-    },
-    {
-      "quote": "pretty consistent about seeing me once a week, sometimes twice",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Attachment-low",
-        "Enmeshment-low",
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Connection",
-        "Safety"
-      ],
-      "possible_trauma": [
-        "Emotional Neglect"
-      ],
-      "reasoning": "He controls the frequency of contact and she has accepted his schedule as the baseline. Once or twice a week is framed as consistency, but the standard was set entirely by him. She has no say in how often they see each other.",
-      "snippet_id": "S-021-SN0006"
-    },
-    {
-      "quote": "very present, very real",
-      "kind_of_signal": [
-        "Internal Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Superficiality-high",
-        "Inconsistency-high"
-      ],
-      "unmet_need": [
-        "Connection"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "Wellness-spiritual vocabulary. She is using his register to describe what she values in him. 'Present' and 'real' are the community's highest compliments — and she is applying them to a man who is intermittently available at best.",
-      "snippet_id": "S-021-SN0007"
-    },
-    {
-      "quote": "he's a bit inconsistent but it's real when he's here",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Inconsistency-high",
-        "Attachment-low",
-        "Charm-high"
-      ],
-      "unmet_need": [
-        "Safety",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Emotional Neglect",
-        "Coercive Control"
-      ],
-      "reasoning": "This is intermittency pre-excused. He announces the hot-cold pattern early and frames it with a sincerity claim — the realness of his presence is offered as compensation for his unreliability. She has now been given a reason to excuse every future disappearance.",
-      "snippet_id": "S-021-SN0008"
-    },
-    {
-      "quote": "I appreciated him being upfront about that",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Trust-high",
-        "Accountability-low"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Safety"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "She reads his self-disclosure as honesty and maturity. In the wellness register, naming your patterns counts as doing the work. She has rewarded his warning with gratitude, which means she has pre-accepted the behavior he just described.",
-      "snippet_id": "S-021-SN0009"
-    },
-    {
-      "quote": "he needs a lot of space, but that doesn't mean he doesn't care",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Attachment-low",
-        "Enmeshment-low",
-        "Boundaries-high"
-      ],
-      "unmet_need": [
-        "Connection",
-        "Safety"
-      ],
-      "possible_trauma": [
-        "Emotional Neglect",
-        "Coercive Control"
-      ],
-      "reasoning": "Independence reframed as ideal. He separates space from care so that any future loneliness she feels cannot be named as evidence of his absence. The logic is installed early: space is not withdrawal, it is just how he is built.",
-      "snippet_id": "S-021-SN0010"
-    },
-    {
-      "quote": "I do have my own life going on, my job, my yin yoga practice, my friends",
-      "kind_of_signal": [
-        "Internal Red Flag",
-        "Cultural/Demographic Information"
-      ],
-      "unes_traits": [
-        "Neediness-low",
-        "Attachment-low"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Connection"
-      ],
-      "possible_trauma": [
-        "Emotional Neglect"
-      ],
-      "reasoning": "She is defending herself against a need she hasn't voiced yet. He has praised independence often enough that she now pre-justifies herself to herself. The yin yoga and friends are real, but listing them here is her proving she is the low-pressure woman he wants.",
-      "snippet_id": "S-021-SN0011"
-    },
-    {
-      "quote": "I'm not someone who needs constant check-ins",
-      "kind_of_signal": [
-        "Internal Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Neediness-low",
-        "Boundaries-high",
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Connection"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Emotional Neglect"
-      ],
-      "reasoning": "She has absorbed his framing so completely that she now describes herself using his preferred category. 'Constant check-ins' is his language for what she should not want. She is performing the identity he has rewarded her for — low-pressure, independent, not clingy.",
-      "snippet_id": "S-021-SN0012"
-    },
-    {
-      "quote": "he needed quiet for a day or two, that he always comes back",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Inconsistency-high",
-        "Attachment-low",
+        "Charm-high",
         "Conflict-low"
       ],
       "unmet_need": [
-        "Safety",
-        "Reality"
+        "Connection"
       ],
       "possible_trauma": [
-        "Emotional Neglect",
-        "Coercive Control"
+        "Emotional Neglect"
       ],
-      "reasoning": "Pre-excused disappearance delivered after a good night. The phrase 'always comes back' is doing structural work: it installs waiting as the correct response and frames any protest as a failure to trust his rhythm. She is being trained to sit with absence.",
-      "snippet_id": "S-021-SN0013"
+      "reasoning": "This is the narrator doing the work of preserving the good version of him. It shows why the sharper moments can slip by, because the overall vibe still feels pleasant to her.",
+      "snippet_id": "S-021-SN0002"
     },
     {
-      "quote": "I told myself that was fine, and it mostly was",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Conflict-low",
-        "Cognitive Flexibility-low"
-      ],
-      "unmet_need": [
-        "Safety",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Emotional Neglect",
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "The 'mostly' is the tell. She registered something that was not entirely fine and then overrode it. The rationalization is doing exactly what his framing was designed to produce — she manages her own discomfort so he does not have to.",
-      "snippet_id": "S-021-SN0014"
-    },
-    {
-      "quote": "sent a voice note Thursday saying he'd been thinking about me",
+      "quote": "Blake has that dry, quick way of looking at people",
       "kind_of_signal": [
         "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Charm-high",
-        "Superficiality-high",
-        "Inconsistency-high"
+        "Charm-low",
+        "Disrespect-high"
       ],
       "unmet_need": [
-        "Connection",
         "Worth"
       ],
       "possible_trauma": [
-        "Emotional Neglect"
+        "Humiliation"
       ],
-      "reasoning": "Rationed warmth as precious. After two days of silence, a voice note is offered as proof of care. The gesture is small enough that it costs him nothing, but it lands as meaningful because she has been waiting. Scarcity has made the ordinary feel significant.",
-      "snippet_id": "S-021-SN0015"
+      "reasoning": "The look is framed as wit, but it also signals a habit of sizing people up. That kind of observational edge often becomes a way to keep others slightly off balance.",
+      "snippet_id": "S-021-SN0003"
     },
     {
-      "quote": "let's not put pressure on this, I like how easy it feels with you",
+      "quote": "he’s already clocked the whole room",
       "kind_of_signal": [
-        "Behavioral Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is positioned as the one who gets to define what everyone in the room is like. That interpretive authority can feel attractive early, but it creates a hierarchy fast.",
+      "snippet_id": "S-021-SN0004"
+    },
+    {
+      "quote": "my friend was “very earnest”",
+      "kind_of_signal": [
         "Loaded Language"
       ],
       "unes_traits": [
-        "Commitment-as-Trap",
-        "Control-high",
-        "Attachment-low",
+        "Disrespect-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "‘Very earnest’ is a polite old-money way of sounding superior without sounding rude. It lets him make a small cut while keeping the tone socially acceptable.",
+      "snippet_id": "S-021-SN0005"
+    },
+    {
+      "quote": "at dinner at the club",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the scene in an old-money social setting where restraint and coded judgment matter. The club context makes the teasing feel more like status fluency than open hostility.",
+      "snippet_id": "S-021-SN0006"
+    },
+    {
+      "quote": "He’s also been so easy about plans",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
         "Inconsistency-high"
       ],
       "unmet_need": [
         "Safety",
-        "Reality",
         "Agency"
       ],
       "possible_trauma": [
-        "Coercive Control",
-        "Gaslighting (DARVO)"
+        "Coercive Control"
       ],
-      "reasoning": "Anti-label charm at the moment she asked a direct question about exclusivity. He reframes her reasonable question as pressure, and pairs it with a compliment about ease — so she is simultaneously told her need is the problem and praised for being the kind of woman who won't push. She laughed and agreed. The question was closed without being answered.",
-      "snippet_id": "S-021-SN0016"
+      "reasoning": "‘Easy’ sounds nice, but here it also points to a man who agrees lightly and then doesn’t follow through with much urgency. That kind of loose commitment can quietly shift the burden onto her.",
+      "snippet_id": "S-021-SN0007"
     },
     {
-      "quote": "I laughed and said sure, totally",
+      "quote": "or at least he sounds easy",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Conflict-low",
-        "Autonomy",
-        "Agency"
+        "Inconsistency-high",
+        "Trust-low"
       ],
       "unmet_need": [
-        "Agency",
         "Reality"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Gaslighting (DARVO)"
       ],
-      "reasoning": "She performed agreement she did not feel. The laugh is a social exit from a moment that was uncomfortable — she couldn't tell if she was supposed to push back or let it go, so she let it go. The question she is asking the chatbot is the one she swallowed here.",
-      "snippet_id": "S-021-SN0017"
+      "reasoning": "She is already noticing a gap between his tone and his follow-through. The phrase shows her trying to reconcile the pleasant surface with a less dependable pattern underneath.",
+      "snippet_id": "S-021-SN0008"
     },
     {
-      "quote": "he loves that I have my own life going on",
+      "quote": "When I asked if he wanted to come up to Edgartown",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Edgartown is a strong old-money location marker, and the invitation also shows her making the plan. That makes his reply feel like he gets to set the pace while she waits on him.",
+      "snippet_id": "S-021-SN0009"
+    },
+    {
+      "quote": "one simply doesn’t rush these things",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like old-fashioned composure, but it also functions as a soft veto. He turns her question into a lesson about proper timing, which keeps him in control of the pace.",
+      "snippet_id": "S-021-SN0010"
+    },
+    {
+      "quote": "kisses my forehead like I was being adorable for asking",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The affection is real, but it also places her in a smaller role for even asking. He answers her with tenderness and a tiny bit of condescension at the same time.",
+      "snippet_id": "S-021-SN0011"
+    },
+    {
+      "quote": "doesn’t act impressed by everything",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This reads as maturity, but it also sets up scarcity. If he is not easily impressed, then his approval becomes something she has to earn instead of simply receive.",
+      "snippet_id": "S-021-SN0012"
+    },
+    {
+      "quote": "I like women who can take a joke",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a classic filter statement. It sounds playful, but it quietly tells her that future discomfort may be treated as her failure to be fun enough.",
+      "snippet_id": "S-021-SN0013"
+    },
+    {
+      "quote": "all that good-hearted energy",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
-        "Attachment-low",
-        "Control-high",
-        "Exploitation-high"
+        "Disrespect-high",
+        "Charm-high"
       ],
       "unmet_need": [
-        "Worth",
-        "Connection"
+        "Worth"
       ],
       "possible_trauma": [
-        "Emotional Neglect",
-        "Coercive Control"
+        "Humiliation"
       ],
-      "reasoning": "He praises her independence so warmly that wanting more of his time would feel like a betrayal of the quality he admires in her. The compliment is a ceiling: it defines the relationship's emotional floor as the condition for his approval. She has been rewarded for needing little.",
-      "snippet_id": "S-021-SN0018"
+      "reasoning": "The compliment carries a slight patronizing tilt, as if her kindness is a trait he can admire from above. It feels warm on the surface, but it also puts her in a softer, more manageable category.",
+      "snippet_id": "S-021-SN0014"
     },
     {
-      "quote": "I know that's a compliment. I think it is.",
+      "quote": "I’m not one of those useless men",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He is preemptively praising himself while mocking an unnamed category of men. That makes his approval feel scarce and makes her laugh along with a self-congratulating line.",
+      "snippet_id": "S-021-SN0015"
+    },
+    {
+      "quote": "he was joking",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Cognitive Flexibility-low",
-        "Trust-high",
-        "Empathy-low"
+        "Trust-low",
+        "Conflict-low"
       ],
       "unmet_need": [
-        "Reality",
-        "Worth"
+        "Reality"
       ],
       "possible_trauma": [
         "Gaslighting (DARVO)"
       ],
-      "reasoning": "The double-take is the diagnostic moment. She knows what a compliment sounds like, and she is not quite sure this is one. The second sentence — 'I think it is' — shows she has already begun to doubt her own reading. His framing is working.",
-      "snippet_id": "S-021-SN0019"
+      "reasoning": "This is the narrator doing the familiar repair work for him. She is translating something that stung into harmless banter so she does not have to make it into a problem.",
+      "snippet_id": "S-021-SN0016"
     },
     {
-      "quote": "is it weird that the question is still sitting in my chest a little?",
+      "quote": "the joke about my dress",
       "kind_of_signal": [
-        "Internal Red Flag"
+        "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Conflict-low",
-        "Neediness-low",
-        "Goal Persistence-low"
+        "Disrespect-high",
+        "Charm-high"
       ],
       "unmet_need": [
-        "Reality",
-        "Safety",
-        "Agency"
+        "Worth"
       ],
       "possible_trauma": [
-        "Coercive Control",
-        "Emotional Neglect"
+        "Humiliation"
       ],
-      "reasoning": "She is asking whether her own body's signal is legitimate. Six weeks in, after a direct question about exclusivity was deflected, she is checking with a chatbot to find out if she is allowed to still wonder. The question she is asking is the smallest possible version of what is actually sitting with her.",
-      "snippet_id": "S-021-SN0020"
+      "reasoning": "This is the clearest small cut in the scene. A joke about her dress gives him a way to evaluate her appearance while keeping enough charm around it that she can laugh instead of object.",
+      "snippet_id": "S-021-SN0017"
     }
   ],
-  "validation_warnings": [
-    "snippet[15]: unes_trait 'Commitment-as-Trap' missing -high/-low suffix",
-    "snippet[16]: unes_trait 'Autonomy' missing -high/-low suffix",
-    "snippet[16]: unes_trait 'Agency' missing -high/-low suffix"
-  ],
+  "validation_warnings": [],
   "repetition_warnings": []
 }

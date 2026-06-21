@@ -1,0 +1,503 @@
+{
+  "scenario_id": "S-127",
+  "player_type": "Conspiratorial Corey",
+  "scenario": {
+    "scenario_id": "S-127",
+    "architecture_name": "He builds a sealed little world where his certainty feels like protection, and her job is to prove she belongs inside it.",
+    "culture": "Tradwife-Recruiting",
+    "demographics": "Adult woman in a new heterosexual dating relationship; partner is an adult man",
+    "cultural_context": "Early-stage romantic relationship with traditional, provider-protector courtship and family-centered rural life aspirations",
+    "geographic_setting": "Countryside / rural farm setting",
+    "core_behaviors": [
+      "Handles arrangements and transportation so he sets the pace",
+      "Frames shared life as a private, protected world",
+      "Tests loyalty by making outside plans feel like a slight"
+    ],
+    "satellite_signals": "Provider-protector courtship, family approval, farm-life fantasy, and private-world language make the relationship feel serious and wholesome while quietly narrowing her room to choose.",
+    "dismissible_red_flags": "His eagerness, planning, and disappointment when she makes other plans can read as devotion and old-fashioned seriousness, especially in a rural tradwife frame.",
+    "scenario_text": "I’ve only been seeing him a couple of weeks, and honestly it’s been kind of dreamy. Last weekend he drove us out to the countryside and said he wanted to take care of everything, so I just let him. He had the whole route planned, the lunch packed, even the stop at that little farm stand I mentioned once. He kept saying, “Just relax, babe, I’ve got it.” It was sweet, and I did feel looked after.\n\nHe talks like he can already see our life, like a big house on the farm and a quiet simple life where I’d never have to worry about much. He says things like, “A man’s got to lead things in the right order,” and I’m probably more old-fashioned than I admit, so it doesn’t sound crazy to me. It sounds… intentional.\n\nHe’s also really intense about us being private. He keeps saying people always have opinions and that some things are better kept between two people. I actually like that part, mostly. It feels sacred, I guess. He said I’m the first one he’s brought home, which made me feel special in a way I can’t really explain.\n\nThe only thing is, when I mentioned brunch with my friend next weekend, he went quiet for a second and then said, “You really want to spend that much time away from me already?” He smiled when he said it, so I laughed too. Then he asked if I’d rather do something “just us,” and I could tell he wanted me to say yes.\n\nHe’s not mean about it. He just has this way of making his world feel so clear that I start wondering if I’m the one making things complicated. Is it weird that I felt a little off when he said that about my friend?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing him a couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The relationship is very new, which makes the speed itself part of the story. It sets up how quickly he is already acting attached and serious.",
+      "snippet_id": "S-127-SN0001"
+    },
+    {
+      "quote": "kind of dreamy",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is her own softened language for something that feels exciting and a little unreal. The dreaminess is part of why she overlooks the pace.",
+      "snippet_id": "S-127-SN0002"
+    },
+    {
+      "quote": "he drove us out to the countryside",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He controls the movement and the setting. Even though it reads as a nice outing, he is the one deciding the pace and where they go.",
+      "snippet_id": "S-127-SN0003"
+    },
+    {
+      "quote": "he wanted to take care of everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds generous, but it also places him in charge of the whole experience. Care becomes a way to make her dependent on his handling of things.",
+      "snippet_id": "S-127-SN0004"
+    },
+    {
+      "quote": "He had the whole route planned",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The route is already decided, so she is being moved through his plan rather than participating as an equal. It is a small version of him setting the terms.",
+      "snippet_id": "S-127-SN0005"
+    },
+    {
+      "quote": "the lunch packed",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He handles the details in a way that is thoughtful, but it also reinforces that he is the organizer and she is the recipient. That can start to feel like a role.",
+      "snippet_id": "S-127-SN0006"
+    },
+    {
+      "quote": "the stop at that little farm stand",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a rural, domestic detail that places the relationship in the right world. It helps show the wholesome surface without carrying the main manipulation by itself.",
+      "snippet_id": "S-127-SN0007"
+    },
+    {
+      "quote": "Just relax, babe, I’ve got it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is care phrased as command. It sounds comforting, but it also tells her to step back and let him run the scene.",
+      "snippet_id": "S-127-SN0008"
+    },
+    {
+      "quote": "He talks like he can already see our life",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is already narrating a future that includes her. That can feel romantic, but it also means he is treating the relationship as settled before she has.",
+      "snippet_id": "S-127-SN0009"
+    },
+    {
+      "quote": "a big house on the farm",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The farm-house fantasy fits the tradwife register and makes the future feel pre-built. It also hints that her life is being folded into his vision.",
+      "snippet_id": "S-127-SN0010"
+    },
+    {
+      "quote": "quiet simple life",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds wholesome, but it can also mean fewer outside inputs and fewer competing demands. In this context, simplicity starts to look like narrowing.",
+      "snippet_id": "S-127-SN0011"
+    },
+    {
+      "quote": "A man’s got to lead things in the right order",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is direct hierarchy language dressed up as principle. It makes his preferences feel morally fixed, which makes disagreement harder to voice.",
+      "snippet_id": "S-127-SN0012"
+    },
+    {
+      "quote": "old-fashioned",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-low",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is locating herself inside a traditional frame, which helps his courtship feel normal and even desirable. The shared value makes his control easier to miss.",
+      "snippet_id": "S-127-SN0013"
+    },
+    {
+      "quote": "It sounds… intentional",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is trying to reassure herself with a positive word while also noticing the feeling is doing more work than the facts. The pause shows the seam.",
+      "snippet_id": "S-127-SN0014"
+    },
+    {
+      "quote": "He’s also really intense about us being private",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Privacy is being framed as romance, but the intensity around it is already about limiting outside contact. That is the start of a closed system.",
+      "snippet_id": "S-127-SN0015"
+    },
+    {
+      "quote": "some things are better kept between two people",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds intimate, but it also cuts out other perspectives. The phrase turns secrecy into virtue and makes outside input feel improper.",
+      "snippet_id": "S-127-SN0016"
+    },
+    {
+      "quote": "It feels sacred",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is giving the relationship a moral glow, which makes the privacy feel protected rather than limiting. Sacred language can keep her from asking practical questions.",
+      "snippet_id": "S-127-SN0017"
+    },
+    {
+      "quote": "I’m the first one he’s brought home",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Being the first brought home gives her a special status, which is flattering and sticky. It creates a feeling of exception that can be hard to step out of later.",
+      "snippet_id": "S-127-SN0018"
+    },
+    {
+      "quote": "You really want to spend that much time away from me already?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Isolation-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a small guilt move wrapped in a joke. It turns her separate plan into a test of closeness and makes her feel responsible for soothing him.",
+      "snippet_id": "S-127-SN0019"
+    },
+    {
+      "quote": "just us",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This phrase sounds romantic, but here it means narrowing the relationship to a closed circle. It quietly replaces her outside life with couple identity.",
+      "snippet_id": "S-127-SN0020"
+    },
+    {
+      "quote": "He smiled when he said it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The smile makes the comment easier to dismiss, which is exactly why it lands. She can tell it bothered her without being able to call it mean.",
+      "snippet_id": "S-127-SN0021"
+    },
+    {
+      "quote": "I could tell he wanted me to say yes",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is noticing pressure without naming it as pressure. The expectation is there, but it stays soft enough for her to comply without a fight.",
+      "snippet_id": "S-127-SN0022"
+    },
+    {
+      "quote": "my world feel so clear",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Coercive Control"
+      ],
+      "reasoning": "Clarity is a big seduction here. He makes his version of reality feel simpler than hers, which can be comforting now and limiting later.",
+      "snippet_id": "S-127-SN0023"
+    },
+    {
+      "quote": "I’m the one making things complicated",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is her self-correction after his pressure. She is already moving toward blaming her own hesitation instead of the way he framed the moment.",
+      "snippet_id": "S-127-SN0024"
+    },
+    {
+      "quote": "I felt a little off",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the smallest honest signal in the whole piece. She is not alarmed, just unsettled, which is exactly the kind of feeling that gets minimized early.",
+      "snippet_id": "S-127-SN0025"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

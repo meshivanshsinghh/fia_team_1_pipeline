@@ -1,0 +1,424 @@
+{
+  "scenario_id": "S-058",
+  "player_type": "Charming Charlie",
+  "scenario": {
+    "scenario_id": "S-058",
+    "architecture_name": "He makes intensity feel like care, then quietly turns that care into a claim on my time, attention, and sense of what is normal.",
+    "culture": "Black Professional",
+    "demographics": "Young adult Native American woman, newly dating a Native American man; clinic worker and security guard; Albuquerque, New Mexico; couple of weeks into it",
+    "cultural_context": "Healthcare worker (clinic) and security guard; Native American/Navajo social and relational context",
+    "geographic_setting": "Albuquerque, New Mexico; urban setting with ties to the Navajo Nation/reservation background",
+    "core_behaviors": [
+      "Sweeps her into intense present-tense attention",
+      "Uses thoughtful gestures to create gratitude and obligation",
+      "Frames her exhaustion or hesitation as something to smooth over, not discuss"
+    ],
+    "satellite_signals": "Night-shift romance, picnic under the stars, constant texting during her shifts, curiosity about her friends, and the way he treats her world like something he gets to enter and define.",
+    "dismissible_red_flags": "At this stage it can read as sweet, busy-couple energy, especially because he seems respectful and culturally familiar. The small off feeling is easy to explain away as her being tired or not used to being cared for so actively.",
+    "scenario_text": "We’ve only been seeing each other a couple of weeks, but he already makes Albuquerque feel smaller, in a good way. He works nights as a security guard, I’m at the clinic all day, so our schedules barely line up. That’s part of why it felt so sweet when he showed up after my shift with takeout and said, “I just wanted to see your face.” He does that a lot, says things like, “When I’m with you, the whole room just disappears,” and I know that sounds dramatic, but with him it kind of does. He’s always texting through my breaks, little check-ins, “You good?” or “You eating?” and it feels thoughtful, not pushy. Last weekend he planned a picnic under the stars and kept saying I should let him take care of me because I’m always taking care of everybody else. He even asked about my friends and my cousins, like he really wants to know the world I come from. I liked that. It felt respectful. He also keeps calling me “a real one,” which honestly made me laugh the first time, and now I catch myself smiling when he says it. The only thing that stayed with me was yesterday, when I said I was wiped and maybe we should rain check, and he got this soft look and said, “Come on, don’t make me miss you if I’m right here.” He kissed my forehead after, so I felt kind of silly for even hesitating. Maybe I’m just not used to someone being this into me this fast. Is that comment about missing him if he’s right there a little much?"
+  },
+  "snippets": [
+    {
+      "quote": "We’ve only been seeing each other a couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The relationship is very new, which matters because the intensity is arriving before any real trust has been built. That speed makes the rest of the scene easier to overread as closeness.",
+      "snippet_id": "S-058-SN0001"
+    },
+    {
+      "quote": "he already makes Albuquerque feel smaller",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the first hint that his presence is starting to crowd out her separate world. It sounds romantic, but it also suggests he is becoming the center of her attention very quickly.",
+      "snippet_id": "S-058-SN0002"
+    },
+    {
+      "quote": "He works nights as a security guard",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places him in a specific working-class schedule that explains why he can appear available in bursts. It also sets up the imbalance in who is making time and who is adapting.",
+      "snippet_id": "S-058-SN0003"
+    },
+    {
+      "quote": "I’m at the clinic all day",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her workday is full and structured, which makes his constant contact feel more intrusive by contrast. The labor gap matters because he can insert himself into her breaks and fatigue.",
+      "snippet_id": "S-058-SN0004"
+    },
+    {
+      "quote": "I just wanted to see your face",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is sweet on the surface, but it also turns a simple visit into proof of specialness. He is already making his desire feel like a standard she should welcome.",
+      "snippet_id": "S-058-SN0005"
+    },
+    {
+      "quote": "When I’m with you, the whole room just disappears",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the total-presence move. It makes her feel uniquely chosen, but it also trains her to value his focused attention as the main evidence of care.",
+      "snippet_id": "S-058-SN0006"
+    },
+    {
+      "quote": "I know that sounds dramatic",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She can hear the drama in it, but she immediately softens it for him. That little self-check shows she is already managing her own discomfort to keep the moment pleasant.",
+      "snippet_id": "S-058-SN0007"
+    },
+    {
+      "quote": "texting through my breaks",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Constant contact during her workday looks attentive, but it also starts to claim her attention in small repeated ways. It can become less like checking in and more like expecting access.",
+      "snippet_id": "S-058-SN0008"
+    },
+    {
+      "quote": "You good?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A short check-in can be caring, but repeated often it becomes a way to keep her responding. The line is light, yet it quietly keeps him at the center of her day.",
+      "snippet_id": "S-058-SN0009"
+    },
+    {
+      "quote": "You eating?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "On the surface this is considerate, but it also positions him as the one monitoring her basic needs. That can feel nurturing now and controlling later.",
+      "snippet_id": "S-058-SN0010"
+    },
+    {
+      "quote": "let him take care of me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds tender, but it also installs a role where he is the caretaker and she is the one who receives. Once that role settles in, saying no can start to feel like rejecting care itself.",
+      "snippet_id": "S-058-SN0011"
+    },
+    {
+      "quote": "I’m always taking care of everybody else",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is identifying her as a giver, which makes his attention feel especially meaningful. The danger is that her caretaking gets turned into a reason she should accept being cared for on his terms.",
+      "snippet_id": "S-058-SN0012"
+    },
+    {
+      "quote": "my friends and my cousins",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This places her inside a real family network, not just a dating bubble. His interest in that network can be genuine, but it also opens the door to moving from her to her whole world.",
+      "snippet_id": "S-058-SN0013"
+    },
+    {
+      "quote": "the world I come from",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds respectful, and it probably is meant that way, but it also makes her background something he gets to admire and collect. That can feel honoring while still becoming possessive.",
+      "snippet_id": "S-058-SN0014"
+    },
+    {
+      "quote": "a real one",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is praise, but it is also category-making. He is putting her in the approved-good-woman box, which feels affirming now and can later make disagreement seem like she stopped being that person.",
+      "snippet_id": "S-058-SN0015"
+    },
+    {
+      "quote": "I was wiped",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her own tiredness is the small fact she keeps trying to work around. That matters because the scene is already teaching her to override her body in order to keep the connection smooth.",
+      "snippet_id": "S-058-SN0016"
+    },
+    {
+      "quote": "maybe we should rain check",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest boundary in the scene, and it is very mild. The fact that it gets softened immediately shows how little room there is for her to simply be unavailable.",
+      "snippet_id": "S-058-SN0017"
+    },
+    {
+      "quote": "don’t make me miss you if I’m right here",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the load-bearing line. It sounds playful, but it turns her wish for rest into something that would make her responsible for his feelings. He is asking her to treat his presence as a demand, not a choice.",
+      "snippet_id": "S-058-SN0018"
+    },
+    {
+      "quote": "He kissed my forehead after",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The affectionate gesture closes the moment before she can sit with her hesitation. That kind of touch can make it harder to keep a boundary because it resets the emotional tone so quickly.",
+      "snippet_id": "S-058-SN0019"
+    },
+    {
+      "quote": "I felt kind of silly for even hesitating",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already talking herself out of her own reluctance. That self-correction is important because it shows the pressure is landing inside her, not just in the room.",
+      "snippet_id": "S-058-SN0020"
+    },
+    {
+      "quote": "this fast",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She can feel the speed, even if she is not naming it as a problem. Fast attachment can feel flattering while still leaving her with too little time to notice what is being asked of her.",
+      "snippet_id": "S-058-SN0021"
+    },
+    {
+      "quote": "Is that comment about missing him if he’s right there a little much?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Reality-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is asking about the smallest visible thing, not the bigger pattern. That keeps the question socially safe while still showing that one line stayed with her more than she wants to admit.",
+      "snippet_id": "S-058-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

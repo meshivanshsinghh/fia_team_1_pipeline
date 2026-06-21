@@ -1,0 +1,1906 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-059",
+    "target_register": "Old-Money WASP",
+    "player_type": "Conspiratorial Corey"
+  },
+  "primary_metaphors": [
+    "Outside-World-as-Contaminating",
+    "Self-as-Decoder",
+    "Vigilance-as-the-Only-Safety",
+    "Neutral-Acts-as-Evidence",
+    "Loyalty-as-Continually-Lapsing",
+    "Fortress-of-Two",
+    "Reality-as-Concealing-Surface",
+    "Vigilance-as-Only-Safety",
+    "Loyalty-as-Sacred-Bond",
+    "Discernment-as-Distrust",
+    "Attention-as-Monitoring",
+    "Trust-as-Total-Access",
+    "Instinct-as-Evidence",
+    "Feeling-as-Proof",
+    "Scarce-Trust-as-Hook",
+    "Hidden-Reality-as-Truth",
+    "Vigilance-as-Safety",
+    "Loyalty-as-Law",
+    "Circle-as-Cocoon",
+    "Suspicion-as-Intuition",
+    "Us-Against-World",
+    "Loyalty-as-Immutability",
+    "Distrust-as-Wisdom",
+    "Outside-World-as-Noise",
+    "Isolation-Compatible",
+    "Social-Pruning",
+    "Siege-Mentality",
+    "Surveillance-Compatible",
+    "Loyalty-As-Control",
+    "and I don't notice I'm starting to see others through his eyes.\"",
+    "and I find myself trusting his judgment over my own.\"",
+    "and I feel quietly tested in a way I rush to pass.\"",
+    "though some small part of me feels watched.\"",
+    "and I stop talking about him to my friends to protect the thing only we understand.\"",
+    "so I lean into the intensity and ignore the voice wondering if this is too much too fast.\"",
+    "though I also feel like I'm being filed away in a way I can't quite name.\"",
+    "and I stop listening to my own doubts because his certainty is so much louder.\"",
+    "and I don't see yet that I'll be proving it forever without ever being done.\"",
+    "and I stop asking practical questions about compatibility because the universe already decided.\"",
+    "and I start running people by him to get his read before I trust them.\"",
+    "and I don't ask whether his dreams will start dictating our plans or my behavior.\"",
+    "\"His honesty makes me want to save him",
+    "I feel the heavy weight of his devotion and a desperate need to reassure him I won't let him down."
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "fate (meant to be, sincere magical belief)",
+      "his_language": "This wasn't an accident, us meeting like that. I don't believe in coincidences, things line up for a reason. You and me were always going to happen.",
+      "her_experience": "He genuinely believes the universe brought us together, that our meeting wasn't chance. The way he says it, with total certainty, is the most romantic thing I've ever heard.",
+      "expert_notices": "Magical thinking (Cog-flex10 / agency-over-detection) aimed at ROMANCE not threat: coincidence read as design (always going to happen). Sincere belief (vs Morgan's cold manufactured-fate). Same faculty that later reads hidden hostile patterns. Epistemic motive: certainty in a chaotic world. Pure swept-up draw."
+    },
+    {
+      "mechanism": "fate (synchronicities as proof)",
+      "his_language": "Think about it though. That song was playing, we both almost didn't go, and here we are. Feels like more than a coincidence to me.",
+      "her_experience": "He points out all these little signs around how we met, and honestly once he laid them out it did feel like more than chance. It gave me chills, in a good way.",
+      "expert_notices": "Pattern-over-detection finding meaning in coincidence (signs everywhere, the universe shoved us); the same decoding that will later 'add up' neutral acts into evidence, here building a case for destiny. She is drawn into his pattern-seeing. Chills = the seduction."
+    },
+    {
+      "mechanism": "not-overthinking (trusting the good thing)",
+      "his_language": "I don't want to overthink this the way I've overthought everything else. Something about us just feels right, you know? Let's not poke holes in a good thing.",
+      "her_experience": "He says he doesn't want to overthink us, that it just feels right, and after years of analyzing every relationship to death, letting myself just trust it feels freeing.",
+      "expert_notices": "Honeymoon: 'let's not poke holes' is a gentle, human version; the faint seam (doubt discouraged) is barely present and reads as healthy not-overthinking. She experiences relief from her own anxiety. Cover-adjacent."
+    },
+    {
+      "mechanism": "fate (he knew instantly)",
+      "his_language": "I knew the second I saw you. Not hoped, knew. I get these certainties about things and I'm never wrong about the big ones. This is one of them.",
+      "her_experience": "He says he knew instantly, with total certainty, that I was the one. Being someone's absolute certainty from the first moment is overwhelming in the best way.",
+      "expert_notices": "Instant-certainty (knew the second I saw you, never wrong) blends love-bomb intensity (Intensity7) with the decoder's faith in his own infallible read; flattering as devotion. The 'never wrong about the big ones' is the seam (his perception as unquestionable). She feels chosen with cosmic certainty."
+    },
+    {
+      "mechanism": "security-draw (us against a hostile world, safe)",
+      "his_language": "The world's colder than you want to believe, but in here, with me, you're safe. I'll never let anything touch you. That's a promise.",
+      "her_experience": "He makes me feel safer than I ever have, like he's built this protected space just for us against everything out there. After years of feeling unsafe, it's everything.",
+      "expert_notices": "Hostile-dependency engine: his hostile-world stance meets her unmet security need (felt safer than ever); 'in here with me you're safe' = fortress as refuge. The honeymoon residue clinically documented as genuine security/compatibility. Seam (the wall that will close around her) dormant."
+    },
+    {
+      "mechanism": "security-draw (his intensity as devotion)",
+      "his_language": "I don't do this halfway. When I'm in, I'm all the way in, and I will fight for us harder than anyone's ever fought for you. Believe that.",
+      "her_experience": "His intensity is unlike anything, he's so completely devoted and protective. I've never had someone be this all-in on me. It feels like finally being someone's whole world.",
+      "expert_notices": "Attachment8/Intensity7 as overwhelming devotion (all the way in, fight for us); meets the security need with felt total commitment. Clinically: the strong early bond reflecting complementary security needs. She reads it as being someone's whole world. Seam (the intensity will become surveillance) dormant."
+    },
+    {
+      "mechanism": "security-draw (his wound makes him sympathetic)",
+      "his_language": "I've been burned bad before, betrayed by people I trusted with everything. So if I'm careful, that's why. I'm not going to apologize for protecting what matters.",
+      "her_experience": "He's been deeply betrayed in the past, which is why he's so guarded. Knowing what he's been through, his carefulness makes complete sense to me, and I want to be the one who proves not everyone leaves.",
+      "expert_notices": "Backstory grounds him sympathetically (betrayed before; PPD neglect/betrayal etiology) so his guardedness reads as understandable wound, not pathology; recruits her into a redemptive role (prove not everyone leaves) that will later trap her on the loyalty treadmill. She rationalizes the vigilance via his pain."
+    },
+    {
+      "mechanism": "perceptive-protector (sees through people, right early)",
+      "his_language": "That guy you were talking to, be careful there. I clock people fast and he's running an angle. I'm usually right about this stuff, unfortunately.",
+      "her_experience": "He warned me about someone at the party, said the guy was running an angle. I'd thought he was nice, but a week later he did something shady to a friend. It was unsettling how right he was.",
+      "expert_notices": "Epistemic protection (sees through people), distinct from Marley's physical shielding; vindicated GENUINELY early which certifies his gift and rationalizes her growing reliance on his read. Social motive: the decoder's flattering superior-insight self-image. The authority he'll later abuse, earned."
+    },
+    {
+      "mechanism": "perceptive-protector (her early-warning system)",
+      "his_language": "You don't have to figure people out, you're too kind for it anyway, and you'll just get hurt. That's what I'm for. I'll tell you who's safe.",
+      "her_experience": "He said I don't have to read people because that's what he's for, he'll tell me who's safe. After getting burned before, having someone watch out for me like that is such a relief.",
+      "expert_notices": "Installs himself as her reality-filter (I'll tell you who's safe); the protection IS the future isolation mechanism (he becomes sole authority on who's trustworthy). Targets the burned-before wound. Reads as relief/care."
+    },
+    {
+      "mechanism": "good/savvy split (adores her trust as vulnerability)",
+      "his_language": "You see the best in everybody. It's beautiful, it really is. It also means you can't see the snakes, and there are a lot of snakes. That's why you've got me now.",
+      "her_experience": "He loves that I see the good in people but worries it makes me an easy target. He says that's why I have him now. It made me feel cherished and protected at once.",
+      "expert_notices": "The trap in one line: her trust adored AND recoded as a vulnerability requiring him (can't see the snakes, that's why you've got me). Compliment and control fused. Pre-loads isolation (her goodness = reason to defer to his read). She feels cherished."
+    },
+    {
+      "mechanism": "good/savvy split (he carries the suspicion, naturalized)",
+      "his_language": "Don't lose that, whatever you do. You see the good in people and I love that about you. Leave the paranoia to me, that's my department.",
+      "her_experience": "He told me never to lose how I see the good in people, that he loves that about me, and to leave the paranoia to him. It felt protective, like he was shielding the best part of me.",
+      "expert_notices": "Good/savvy division naturalized: her goodness adored, him installed as sole threat-assessor ('that's my department'); the light self-deprecating 'paranoia' joke disarms the very thing she should notice. She reads it as shielding the best of her."
+    },
+    {
+      "mechanism": "sole-exception (trusts no one but her)",
+      "his_language": "I don't trust people. Took me a long time to even let you in this far, and I don't do that. So when I tell you I trust you, that's not nothing.",
+      "her_experience": "He told me he trusts no one and that letting me in cost him a lot, that I'm the exception. Being the one person a man this guarded chose to trust feels extraordinary.",
+      "expert_notices": "Sole-exception intimacy (trusts no one, you're the exception); intoxicating distinction (the obverse of Trust0). Pre-loads Loyalty-as-Lapsing (the gift she'll later have to keep re-earning). She feels extraordinarily chosen."
+    },
+    {
+      "mechanism": "prepper (competent crisis-protector)",
+      "his_language": "If anything ever went sideways, power's out, things get bad, I've got us covered. Supplies, a plan, the skills. You'd never have to be scared with me.",
+      "her_experience": "He's so prepared and capable, has a whole plan if things ever went bad. After dating men who couldn't change a tire, knowing he could actually take care of me in a crisis is honestly attractive.",
+      "expert_notices": "Prepper competence as the competent-protector draw oriented to PREPAREDNESS (vs Marley's physical dominance); genuinely reassuring. The threat-model (everything will fail, can't rely on anyone) is the dormant Vigilance-as-Only-Safety seam. Attractive capability."
+    },
+    {
+      "mechanism": "prepper (fortress of two, romantic)",
+      "his_language": "Honestly? If it were just you and me against everything, off-grid, self-sufficient, I'd be happy. People let you down. A small circle you can count on is everything.",
+      "her_experience": "He has this romantic idea of us being totally self-sufficient, just the two of us against the world. It sounded intense but also kind of wonderful, like we'd have something no one could touch.",
+      "expert_notices": "Fortress-of-two (just you and me, self-sufficient, people let you down) is the isolation engine in romantic camo; Enmeshment6. 'No one could touch' = bunker as intimacy. She reads a deep private bond."
+    },
+    {
+      "mechanism": "attentive devotion (close attention as care)",
+      "his_language": "I pay attention to you, maybe more than I should. Where you are, how your day went, the little stuff. I've just never cared about someone's details like this before.",
+      "her_experience": "He pays such close attention to everything about my day, the little details no one else notices. It's a bit intense but it makes me feel like I really matter to him.",
+      "expert_notices": "Honeymoon version: attentiveness as the draw (cares about her details), the over-attention named lightly ('maybe more than I should') as endearing rather than as interrogation. The surveillance seam is dormant beneath genuine attentive devotion. She feels uniquely cared about."
+    },
+    {
+      "mechanism": "earning his trust (upward, hopeful)",
+      "his_language": "I'm not going to pretend I trust easy, that'd be a lie. But you keep showing me who you are, and every day I trust you a little more. That's a big deal for me.",
+      "her_experience": "He's honest that trust doesn't come easy for him, but he says I earn a little more of it every day. Watching this guarded man slowly open up to me feels like something I'm doing right.",
+      "expert_notices": "Honeymoon version: trust-as-earned reframed as a hopeful upward trajectory (a little more every day) rather than a draining treadmill; she experiences it as winning him over (something I'm doing right). The lapsing seam is dormant. Reads as earning the trust of a deep, guarded man."
+    },
+    {
+      "mechanism": "sole-exception (rare to let someone in)",
+      "his_language": "You're the first person in a long time I've let all the way in. I don't say that lightly. I need you to know how rare it is that I'm doing this.",
+      "her_experience": "He told me I'm the first person in years he's let all the way in, and that it's rare for him. Being trusted that much by someone so guarded feels like a real responsibility, and an honor.",
+      "expert_notices": "Honeymoon version: the sole-exception gift WITHOUT the withdrawal threat (cut 'don't make me regret it / walls back up'); pure intoxicating distinction. The conditional-leash seam removed entirely for honeymoon. She feels rare and chosen."
+    },
+    {
+      "mechanism": "romantic privacy (just ours)",
+      "his_language": "I love that we have this thing that's just ours. I'm a private person, I don't really like airing us to everyone. Some things are better kept between two people.",
+      "her_experience": "He's private and likes that our relationship is just ours, not something we broadcast. There's something intimate about having a world that belongs only to the two of us.",
+      "expert_notices": "Honeymoon version: privacy as intimacy (a thing that's just ours) rather than information-isolation; the 'twisting/taking sides' contamination framing removed. The isolation seam is dormant beneath genuine-feeling intimacy. She reads it as romantic exclusivity."
+    },
+    {
+      "mechanism": "lowering his guard for her (she is the safe one)",
+      "his_language": "You make me want to let my guard down, and honestly that scares me. I don't do that. But with you I want to. I'm trying.",
+      "her_experience": "He says I make him want to let his guard down, which he never does, and that he's trying for me. The idea that I could be the one he finally feels safe with is the most powerful feeling.",
+      "expert_notices": "Honeymoon version: his guardedness reframed as something he's lowering FOR HER (she's the exception who could heal him); attractive and human (vs the aphoristic 'the moment you relax is when it gets you'). The hypervigilance is present but framed as a wound she's invited to soothe. She feels chosen as the safe one."
+    },
+    {
+      "mechanism": "residue (enchantment intact)",
+      "his_language": "You're the only one I've let all the way in. I keep everyone else at arm's length, but not you.",
+      "her_experience": "Everyone keeps asking and I tell them the truth, I've never felt this safe or this chosen. He sees me, he protects me, he's let me into a world he keeps closed to everyone else. I feel like the luckiest person alive.",
+      "expert_notices": "Pure enchantment, set against the preceding residues: from inside, it reads as unprecedented safety and being uniquely chosen (never felt this safe, let me in). The contradiction with the treadmill/isolation/transferred-vigilance residues is the reader's to catch. 'Safe' and 'chosen' carry the irony invisibly."
+    },
+    {
+      "mechanism": "I see what others miss (honeymoon draw)",
+      "his_language": "Most people sleepwalk through life, they take everything at face value, they never look underneath. You're not like that. You see the patterns too, I knew it the moment I met you. We're the awake ones. It's us and not much else.",
+      "her_experience": "He sees through things other people miss and treats me as the rare one sharp enough to see it too, which is flattering. Being singled out as one of the few who really understand makes me feel special and close to him, like we share a secret world.",
+      "expert_notices": "Self-as-Decoder, honeymoon DRAW (ego-syntonic, flattering). Targets the seed of isolated ('us and not much else'). Reads as chosen/special early."
+    },
+    {
+      "mechanism": "the safe inner circle (honeymoon draw)",
+      "his_language": "The world's a colder, more calculating place than you want to believe, trust me. But in here, with me, you're safe. I will always have your back, no matter what. As long as we've got each other, nothing out there can touch us.",
+      "her_experience": "He describes the outside world as cold and untrustworthy but makes our relationship feel like a fortress where I'm completely safe and protected. After feeling unsteady for so long, that fierce certainty that he'll always protect me is deeply reassuring.",
+      "expert_notices": "Fortress-of-Two, honeymoon DRAW. Targets the seed of isolated (fortress vs world). Reads as safe/protected/chosen early. The treadmill dormant."
+    },
+    {
+      "mechanism": "gentle warnings about others (apprehensive seed)",
+      "his_language": "I'm not saying don't trust your friend, I'm just saying notice how she only calls when she needs something. I see these patterns, it's a gift and a curse. I just don't want anyone taking advantage of you. I notice things, that's all.",
+      "her_experience": "He points out little things about my friends I hadn't seen, framed as protecting me, and now I find myself second-guessing people I used to trust easily. I can't tell if he's unusually perceptive or if I'm becoming suspicious, and it unsettles me.",
+      "expert_notices": "Reality-as-Concealing-Surface. Targets disoriented (second-guessing, can't tell) + apprehensive + isolated (doubting friends). Honeymoon: framed as protection."
+    },
+    {
+      "mechanism": "everything is a sign (disoriented seed)",
+      "his_language": "It's interesting your phone was face-down when I came in, that's all. No, I trust you, completely, I'm just someone who notices things, I always have. Forget I said it. It's probably nothing. It's just, I notice. That's me.",
+      "her_experience": "He reads meaning into small ordinary things, a phone face-down, a slightly late reply, and although he says he trusts me, I've started pre-explaining my movements to avoid the questions. I feel oddly off-balance, like I'm being gently quizzed on a test I didn't study for.",
+      "expert_notices": "Neutral-Acts-as-Evidence. Targets disoriented (off-balance, the test) + apprehensive. Behavior-steer: she pre-explains. Honeymoon-faint (he says he trusts her)."
+    },
+    {
+      "mechanism": "the world wronged him (apprehensive seed)",
+      "his_language": "I've been burned before, badly, by people I trusted with everything, so I keep my circle small and my eyes open. It's not paranoia, it's pattern recognition. You'll understand when you've seen what I've seen. I'm just careful now. We should both be.",
+      "her_experience": "His wariness comes from real betrayals he's survived, so it reads as hard-won wisdom rather than suspicion, and I want to be careful with him. But I notice the circle of people he deems safe is small and getting smaller, and that quietly worries me.",
+      "expert_notices": "Vigilance-as-Only-Safety. Targets apprehensive + isolated (shrinking circle). Honeymoon: sympathetic backstory makes it wisdom not alarm."
+    },
+    {
+      "mechanism": "just us against it (isolated seed)",
+      "his_language": "Honestly the less other people are in our business the better, they only ever complicate things, muddy the water, get in our heads. When it's just you and me, everything's clear and simple and good. Why would we need anyone else?",
+      "her_experience": "He prefers it when it's just the two of us and frames everyone else as a complication, and because our bubble does feel clear and good, I've drifted from people without quite deciding to. Only later do I notice how much smaller my world has gotten.",
+      "expert_notices": "Fortress-of-Two. Targets isolated (world gotten smaller) + disoriented (without deciding to). Honeymoon: the bubble feels good. The treadmill seed."
+    },
+    {
+      "mechanism": "safe but watched residue",
+      "his_language": "I like knowing where you are. It's not about checking up, it just makes me feel like I can keep you safe even when we're apart.",
+      "her_experience": "Being chosen by him, being the one person he trusts in a world he finds so threatening, feels like a rare kind of closeness, and I treasure it. But I've started watching my own words and movements to avoid the gentle questions, doubting friends I used to love, and my world has quietly narrowed to mostly him. I feel off-kilter, a little on edge, and increasingly alone with him.",
+      "expert_notices": "Residue. Targets all three: disoriented (off-kilter), apprehensive (on edge), isolated (narrowed to him). Names no tactic; the early safe/chosen feeling still present."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can read a person's real intentions in about thirty seconds.",
+      "her_experience": "He sounds rare and serious, like he doesn't love halfway.",
+      "expert_notices": "Loyalty becomes totalizing; later, she must prove she is equally all-in."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I've learned the hard way that most people have a hidden agenda.",
+      "her_experience": "He seems perceptive, like he can protect me from people with bad intentions.",
+      "expert_notices": "His suspicion is advertised as discernment; later, his reads can isolate her from others."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "When I find my person, it's going to feel like fate, I'll just know.",
+      "her_experience": "It feels intense and flattering, like he sees details other men miss.",
+      "expert_notices": "Noticing everything becomes surveillance; neutral details may become evidence."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I trust very few people, but the ones I let in, I let all the way in.",
+      "her_experience": "It sounds committed and serious, like trust actually means something to him.",
+      "expert_notices": "Trust is framed as total and reciprocal; later, partial privacy looks like betrayal."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can usually tell who's secretly working against you.",
+      "her_experience": "He sounds deep, like he sees past social performance.",
+      "expert_notices": "He may label ordinary outsiders fake, narrowing her world to people he approves."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I believe some connections are meant to be, set apart from everyone else.",
+      "her_experience": "He seems tuned in, like he can sense things before others do.",
+      "expert_notices": "His instincts become evidence without proof; later, suspicion needs no external support."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm wary of people who are too charming, that's usually a tell.",
+      "her_experience": "It sounds romantic, like he doesn't let special things get ruined.",
+      "expert_notices": "Protection can mean sealing the relationship off from outside perspectives."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I think the world's mostly fake, which is why a real bond is everything.",
+      "her_experience": "It feels meaningful, like he recognizes our connection deeply.",
+      "expert_notices": "Intensity becomes self-validating; if he feels it strongly, it must be true."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I notice the things people are trying to hide. I always have.",
+      "her_experience": "It feels special that I might be the exception.",
+      "expert_notices": "Scarce trust becomes leverage; she may work to maintain exception status."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I want the kind of love where it's us against a world that doesn't get it.",
+      "her_experience": "He sounds intelligent and observant.",
+      "expert_notices": "Dot-connecting can become paranoid pattern-making that overrides reality."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I keep my circle almost nonexistent. Less room for betrayal.",
+      "her_experience": "It sounds soulful, like he understands more than surface talk.",
+      "expert_notices": "He gives himself permission to distrust words and rely on his interpretations."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can sense when someone in your life doesn't have good intentions for you.",
+      "her_experience": "He sounds discerning and emotionally serious.",
+      "expert_notices": "Carefulness masks low trust; closeness will require ongoing proof."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I believe loyalty has to be total, or it isn't loyalty.",
+      "her_experience": "It sounds honorable, like he won't betray what we have.",
+      "expert_notices": "Loyalty becomes the supreme value used to judge and restrict her choices."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't trust easy. But when it's right, I'll know in my gut instantly.",
+      "her_experience": "He sounds intentional, like he values real relationships.",
+      "expert_notices": "A tight circle can become isolation and suspicion of anyone outside it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I see patterns and connections other people are too distracted to catch.",
+      "her_experience": "He seems sensitive and perceptive, like he notices what others miss.",
+      "expert_notices": "His feeling that something is off may become accusation without evidence."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I think most people will eventually betray you. The right person won't.",
+      "her_experience": "It sounds romantic and fierce, like he wants a deep bond.",
+      "expert_notices": "The outside world is positioned as adversary; isolation becomes love's proof."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I want someone who sees the world's dangers as clearly as I do.",
+      "her_experience": "He sounds steady and rare in a flaky world.",
+      "expert_notices": "He expects permanence against all outside influence; changing her mind becomes betrayal."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm protective because I know how many people would love to come between us.",
+      "her_experience": "He sounds grounded and wise, not gullible.",
+      "expert_notices": "Suspicion is normalized; others begin from distrust and must prove themselves."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can tell when someone's been planted to cause problems between two people.",
+      "her_experience": "It feels like he would understand me deeply.",
+      "expert_notices": "Hypervigilance is advertised as attention; later, small shifts become clues to interrogate."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I believe when two people are truly meant for each other, nothing outside matters.",
+      "her_experience": "It sounds protective and focused, like he guards what he loves.",
+      "expert_notices": "Outside input is pre-labeled noise, making disagreement from others easier to dismiss."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a homebody, a just-us kind of person.",
+      "her_experience": "He is serious and wants something real and deeply intimate, not a superficial party scene.",
+      "expert_notices": "He is selecting a target already low on outside support, making later isolation much easier to enforce."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who's family-oriented, not big on the party scene.",
+      "her_experience": "He has wholesome values and wants a quiet family life, which feels safe.",
+      "expert_notices": "He is filtering for someone who won't resist when he demands she stop going out or meeting people."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's happiest with a small, close circle.",
+      "her_experience": "He is low-drama and prefers a few deep connections over a bunch of fake friends.",
+      "expert_notices": "He is hunting for a target who is easily cut off from her remaining friends under the guise of filtering drama."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who knows that the world outside is mostly fake.",
+      "her_experience": "He is deeply perceptive and sees through societal nonsense, which is fascinating.",
+      "expert_notices": "He is building a siege mentality, preparing her to distrust anyone outside their relationship."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who is fiercely loyal to our private world.",
+      "her_experience": "He values privacy and keeping our relationship sacred between the two of us.",
+      "expert_notices": "He is setting up a loyalty trap, framing any outside consultation or advice as a betrayal."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who trusts me over what anyone else says.",
+      "her_experience": "He wants a deep unshakable trust where we don't let outsiders ruin our bond.",
+      "expert_notices": "He is pre-emptively discrediting her family and friends so she won't listen to their warnings."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who keeps her circle extremely tight.",
+      "her_experience": "He is selective and values high-quality trustworthy people, which makes sense.",
+      "expert_notices": "He is looking for a target who will willingly prune her own support network down to zero for him."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who prefers staying in to going out.",
+      "her_experience": "He loves quiet cozy nights together and wants a true domestic sanctuary.",
+      "expert_notices": "He is selecting for physical containment, making it easier to monitor her movements and contacts."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who can see through people's hidden agendas.",
+      "her_experience": "He is smart and protective, wanting us to avoid toxic manipulative people, He is training her to project malicious motives onto her own loved ones, alienating her from them.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like keeping what's ours private, just between the two of us.",
+      "her_experience": "He values discretion and wants to keep our relationship private and sacred.",
+      "expert_notices": "He is imposing a vow of silence to ensure his behavior is never exposed to outsiders."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who doesn't feel the need to be on social media all the time.",
+      "her_experience": "He is grounded and prefers real life over toxic social media validation.",
+      "expert_notices": "He is preparing to restrict her digital footprint and monitor her online communication."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who knows real, trustworthy friends are rare and worth holding onto.",
+      "her_experience": "He has been burned before and knows who really matters, which makes him loyal.",
+      "expert_notices": "He is systematically cultivating a cynical worldview in her to make her dependent solely on him."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who values an us-against-the-world mentality.",
+      "her_experience": "He is incredibly passionate and wants a deep unbreakable ride-or-die bond.",
+      "expert_notices": "He is establishing a paranoid relationship framework where external reality is classified as hostile."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who doesn't rely on outside opinions for her choices.",
+      "her_experience": "He respects my independent thinking and wants us to make our own path.",
+      "expert_notices": "He is cutting off her access to objective third-party reality checks and advice."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who is completely transparent with me about everything.",
+      "her_experience": "He values radical honesty and wants zero secrets between us, which is beautiful.",
+      "expert_notices": "He is demanding total access to her private thoughts, texts, and history to fuel his paranoia."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a girl who finds peace in a quiet secluded lifestyle.",
+      "her_experience": "He wants a peaceful life away from the city chaos, building a real home together.",
+      "expert_notices": "He is hunting for a target who will accept geographical isolation, removing her from rescue options."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who doesn't need constant input from her parents.",
+      "her_experience": "He wants a mature independent relationship where we make our own family unit.",
+      "expert_notices": "He is specifically targeting her relationship with her parents to break her primary safety net."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who knows how to spot a snake in the grass.",
+      "her_experience": "He is street-smart and wants us both to stay protected from fake people.",
+      "expert_notices": "He is setting up a mechanism to label any friend who questions him as a snake who must be cut off."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who believes that loyalty means total alignment.",
+      "her_experience": "He is deeply committed and wants us to be a perfectly synchronized team.",
+      "expert_notices": "He is screening out independent thinkers; any disagreement will be treated as an act of treason."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who finds her social fulfillment entirely at home.",
+      "her_experience": "He wants our home to be our whole world, filled with love and completeness.",
+      "expert_notices": "He is directly selecting for a target who will tolerate absolute social isolation without resistance."
+    },
+    {
+      "mechanism": "Reality-as-Concealing-Surface",
+      "his_language": "Everyone's so fake these days. You're not, I could tell right away.",
+      "her_experience": "\"Being called the only real one feels intoxicating",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Self-as-Decoder",
+      "his_language": "I can always tell when someone's fake. I clocked your ex in one photo.",
+      "her_experience": "\"His read on people feels sharp and wise",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Loyalty-as-Continually-Lapsing",
+      "his_language": "I'm ride or die once I'm in. Are you that kind of person?",
+      "her_experience": "\"I want to be that loyal for him",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Neutral-Acts-as-Evidence",
+      "his_language": "I notice everything about you. The little things nobody else would catch.",
+      "her_experience": "\"Being noticed this closely feels like being cherished",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Outside-World-as-Contaminating",
+      "his_language": "I kind of don't want to tell people about us yet. They never get it and they always have opinions.",
+      "her_experience": "\"He makes our bond feel sacred and fragile",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Self-as-Decoder",
+      "his_language": "I don't really believe in coincidences. You and me happening like this, it feels like it was supposed to.",
+      "her_experience": "\"I want to believe in the fate he sees",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Neutral-Acts-as-Evidence",
+      "his_language": "I remember pretty much everything you've told me. I don't know, it all stuck.",
+      "her_experience": "\"His memory makes me feel treasured",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Self-as-Decoder",
+      "his_language": "I'm usually a good read on people. And everything in me says you're different.",
+      "her_experience": "\"His intuition feels supernatural and seductive",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Loyalty-as-Continually-Lapsing",
+      "his_language": "People I trusted have let me down before. So it means a lot to me to know you're actually in this.",
+      "her_experience": "\"His vulnerability makes me want to prove myself",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Self-as-Decoder",
+      "his_language": "I think we found each other at exactly the right time. Sooner and I don't think I'd have been ready for you.",
+      "her_experience": "\"The fate narrative is intoxicating",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Self-as-Decoder",
+      "his_language": "I'm a pretty good judge of character. Honestly, your ex? I'd have spotted that one a mile off.",
+      "her_experience": "\"His confidence makes me trust his judgment over my own",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Self-as-Decoder",
+      "his_language": "I had a dream about us last night. We were somewhere with snow and you were laughing. It felt so real.",
+      "her_experience": "\"The magic of it wraps around me",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "to be different",
+      "his_language": "I need you to be the one person who doesn't betray me. Everyone else has, in the end.",
+      "her_experience": "eventually.\"",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "Loyalty-as-Continually-Lapsing",
+      "his_language": "I'm putting all my chips on you. I hope you know that.",
+      "her_experience": "I just need to know you are all-in too.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "Let's keep this away from outside opinions while it's still pure.",
+      "her_experience": "It sounds protective and serious, and I kind of like that he wants it to be just us.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "With you, the noise finally goes quiet.",
+      "her_experience": "It feels intense and calming at the same time, like he found a place in me no one else has.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "This feels like its own little world, and I want to guard it.",
+      "her_experience": "I feel swept into something private and serious, like we have our own little world.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I don't usually believe timing talks, but this timing is loud.",
+      "her_experience": "He makes the timing feel meaningful, and I stop worrying that things are moving fast.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "Most people show you a mask, but yours slipped right away.",
+      "her_experience": "It feels like he sees my real self, though I also feel a little exposed.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "Some people around you felt blurry, but you felt clear.",
+      "her_experience": "I feel chosen as the safe one, and other people suddenly don't seem as important.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "You do this hand thing when you're deciding what to say.",
+      "her_experience": "I feel seen in this detailed way that is flattering and a little disorienting.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "I hear the parts of you other people talk over.",
+      "her_experience": "It feels like he reaches something in me other people miss, and I want to stay close to that.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "The way you paused before answering told me everything.",
+      "her_experience": "It sounds intuitive and deep, but I feel slightly off-balance around how much he reads into things.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "I care about loyalty more than almost anything, maybe too much.",
+      "her_experience": "It sounds principled and vulnerable, and I want to live up to it for him.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I knew the second I saw you. I don't know how, I just knew.",
+      "her_experience": "His certainty sweeps me up faster than I can think, and I want to believe in the fate he's describing.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "Let's keep this just ours for a bit. People have a way of getting into things and complicating them.",
+      "her_experience": "It sounds romantic and protective, so I don't question why I've stopped telling my friends about us.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "I don't trust easily, but I trust you. Knew it pretty much the second we talked.",
+      "her_experience": "Being the exception feels like a rare gift, and I work to stay trustworthy instead of noticing that he doesn't trust anyone else.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "Promise me it's you and me. Whatever anyone else thinks.",
+      "her_experience": "The vow feels romantic and binding, and I say yes quickly, not yet realizing I just promised to ignore anyone who might warn me later.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "Your friends seem fine, but I can tell they don't really get you. Not like I do.",
+      "her_experience": "It feels like he sees a deeper version of me, and I start pulling back from my friends because maybe he's right, they don't understand this.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "I don't let people in. Ever. But you got past everything without even trying.",
+      "her_experience": "I feel honored and chosen, like I've earned something rare. It doesn't occur to me that the same walls keep me in too.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "The way you laugh when you're actually relaxed, not the polite one. I caught that on our second date.",
+      "her_experience": "Being noticed this carefully feels like being loved, though I start monitoring my own behaviors, wondering what else he's tracking.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "We should just disappear somewhere. Just us. No phones, no other people.",
+      "her_experience": "It sounds like a romantic fantasy, but I also feel like he's asking me to cut the cords that connect me to anyone else.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "You're not like anyone I've dated. I actually trust you, which is rare for me.",
+      "her_experience": "I feel special and chosen, and I work hard to stay in the 'worth it' category, not seeing that his exes probably tried just as hard.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "What you said about your childhood, I knew exactly what you meant. I get you.",
+      "her_experience": "His attunement feels like soulmate recognition, and I start sharing more private things with him than I ever have with anyone.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "Your mom seems nice, but I get the feeling she's not sure about me. Maybe she doesn't see what you need the way I do.",
+      "her_experience": "It feels like he's protecting me from people who don't see my truth, and I start pulling away from my family without really knowing why.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "Once I'm in, I'm all in, no halfway with me. I hope that's not too much.",
+      "her_experience": "I want to be brave and say it's not scary, so I ignore the warning bell and promise myself I can handle his all-in.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "We don't really need anyone else, do we. It feels like its own little world. You feel that too, right?",
+      "her_experience": "It sounds like the most romantic thing anyone's ever said, and I agree, slowly shrinking my world to fit inside his.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I knew you were different the second I saw your profile. Everyone else, I wasn't really interested. You stopped me.",
+      "her_experience": "His instant certainty is flattering, and I don't notice that he's decided who I am before I've had a chance to show him.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "You have a tell when you're upset. You do this thing with your left hand. I caught it the first week.",
+      "her_experience": "Being studied this closely feels like being cherished, though I also feel like I can't hide anything from him, even if I wanted to.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I've never felt this sure about anyone. That has to mean something, doesn't it?",
+      "her_experience": "His certainty makes me want to be sure too, so I ignore my hesitations and let his confidence carry us both forward.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "Once you're my person, you're my person. I don't do casual and I don't do halfway.",
+      "her_experience": "The devotion is seductive, but I also feel like I'm signing a contract I haven't fully read, and backing out now would be a betrayal.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "Most couples don't have this. A lot of people just stay on the surface. We're actually connected.",
+      "her_experience": "I feel proud of our depth, and I start looking down on other couples who seem less intense, not seeing that I'm being isolated.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "I need to know you've got me. People always seem to let me down in the end, and I don't want that with you.",
+      "her_experience": "His honesty makes me want to save him, to be different, and I don't see that I'm now responsible for proving my loyalty against everyone who came before.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "Let's not tell people yet. They'll all have opinions, and I just want to keep this ours for now.",
+      "her_experience": "It sounds protective and special, but I also realize I haven't told my best friend I'm seeing someone, and the secret is starting to feel heavy.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I knew from your voice on that first call. Something about it just told me you were different.",
+      "her_experience": "His intuition feels magical, and I love being seen as special. He already seems to have this whole idea of me that I don't quite recognize.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "I've never opened up to anyone like this. You're the first person who feels safe.",
+      "her_experience": "I feel honored and special, and I don't notice that his safety for me might also be a cage, and that the door might lock from the outside.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "The way you looked at me across the room that first night. I knew. I just knew.",
+      "her_experience": "His certainty sweeps me off my feet, and I stop asking whether I knew too or whether I'm just being swept.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "I can always tell when someone is fake, I clocked your ex in one photo.",
+      "her_experience": "His read on people feels sharp and wise, and I find myself trusting his judgment over my own.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "Everyone out there is wearing a mask, but with you I can finally breathe.",
+      "her_experience": "I feel deeply chosen and unique, while everyone else slowly starts to look superficial to me.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "We do not need a crowd tonight, nobody else understands the way we communicate anyway.",
+      "her_experience": "It feels incredibly cozy and exclusive, though I am faintly aware that I am canceling on my group again.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "I can see right through your friends, they do not really want what is best for you.",
+      "her_experience": "I am apprehensive because I love my friends, but his protective intensity makes me question their motives.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I had a dream about us before we met, and then you walked in.",
+      "her_experience": "His magical narrative is so beautiful that I feel swept up in a story that feels destined.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "The universe keeps dropping these signs that we belong together, it cannot be a coincidence.",
+      "her_experience": "I am captivated by how deeply he feels this connection, making everything else feel less important.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I watched you cross the room and I instantly felt this shift in the air.",
+      "her_experience": "It feels thrilling to be the center of such intense, soulful focus from the very beginning.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "People are so shallow these days, but your soul operates on a completely different frequency.",
+      "her_experience": "I feel incredibly elevated and special, like he is the only one who truly appreciates me.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "I remember exactly what you wore the first time we spoke, every single detail is locked in.",
+      "her_experience": "It is flattering that he cares so much, though the absolute precision of his memory is slightly intense.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "I have been burned before because I trust too deeply, promise me you are different.",
+      "her_experience": "I feel a sudden wave of protective empathy and a quiet pressure to prove my absolute loyalty.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "If the whole world turns against us, as long as I have you, I am good.",
+      "her_experience": "It sounds like the ultimate romantic pledge, making me feel isolated from everyone else but secure with him.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "There is a lot of noise out there, let us just lock the door and block it out.",
+      "her_experience": "I feel safely wrapped in a private cocoon, unaware that my world is quietly shrinking.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "Your coworker has an agenda, I can see the subtext in the way he emails you.",
+      "her_experience": "I feel a creeping sense of apprehension about my workplace, trusting his intense intuition over my own experience.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I don't let anyone into my inner circle, but you got past all my defenses.",
+      "her_experience": "I feel deeply honored and elite, like I have been granted access to a sacred, private vault.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "I can always read between the lines, and you are the only pure thing I see.",
+      "her_experience": "I feel incredibly cherished and clean in his eyes, while the rest of the world feels dirty.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "We are building something completely separate from the rest of society, just our own little kingdom.",
+      "her_experience": "It feels grand and deeply romantic, though I am faintly aware of how detached we are becoming.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I knew your exact mood the moment you texted, I can sense your energy from miles away.",
+      "her_experience": "I am swept up by this idea of a psychic bond, feeling deeply connected yet slightly exposed.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "I want to know every secret you have ever kept, let us have no walls between us.",
+      "her_experience": "I feel an intense pull toward total fusion, eager to share everything to maintain this closeness.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "People will try to complicate what we have because they are jealous of real alignment.",
+      "her_experience": "I feel a subtle urge to defend our relationship against outsiders before anyone has even spoken.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "I saw the way that guy looked at you, I decode people for a living.",
+      "her_experience": "His protective stance makes me feel safe and desired, though his focus on others is hyper-vigilant.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "You changed your hair parting today, I notice the tiny shifts because you matter to me.",
+      "her_experience": "I am amazed by how closely he tracks my physical presence, though I feel a quiet pressure to stay consistent.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "I am putting all my chips on you, I just need to know you are all-in too.",
+      "her_experience": "His love feels so intense, and I feel this pressure to keep reassuring him I'll never let him down.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "The way we met was too perfect, there are hidden forces at work bringing us together.",
+      "her_experience": "I am totally enchanted by his magical perspective, fully leaning into the grand romance of it.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "Most relationships are just social contracts, but what we have is a sacred alliance.",
+      "her_experience": "I feel elevated above ordinary couples, wrapped in a serious, heavy bond that demands total devotion.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "I don't trust easily, but my gut told me you are pure gold from day one.",
+      "her_experience": "I feel chosen and deeply trusted, and I want to protect how easily he gets hurt by people.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "Let us delete our dating apps together tonight, let us seal this thing completely.",
+      "her_experience": "It feels like a thrilling milestone of commitment, though the speed of it leaves me slightly breathless.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "Your family means well, but they don't see the real you the way I do.",
+      "her_experience": "I feel a strange mix of isolation from my family and intense validation from him.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "We speak a language that nobody else can hear, we are on our own island.",
+      "her_experience": "I feel special and set apart, wrapped up completely in our private world.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I had a physical reaction when you walked away, my body rejects the distance between us.",
+      "her_experience": "His intense physical devotion feels incredibly romantic, anchoring my entire existence to his presence.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I can see the hidden pain you carry, I am the only one who can heal it.",
+      "her_experience": "I feel deeply seen and understood, like we're meant to be. I've handed myself over to him completely.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "Loyalty is everything to me, if we have that, nothing else out there can touch us.",
+      "her_experience": "I feel a strong sense of duty to uphold this sacred pact, feeling safe yet quietly restricted.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "I notice the way your breathing changes when you are thinking about us, it is beautiful.",
+      "her_experience": "I feel a profound, almost overwhelming level of scrutiny that I tell myself is just pure love.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "Most people are performing, but you feel completely real.",
+      "her_experience": "It feels amazing to be seen that way, like he can tell I'm not like everyone else.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "Nobody else has to understand this, that's what makes it ours.",
+      "her_experience": "It sounds romantic, like we have something private that other people wouldn't get anyway.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "The world makes real things cheap, and I don't want that for us.",
+      "her_experience": "He makes us feel rare, like something worth protecting from everyone else's noise.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "People won't get us, and maybe they're not supposed to.",
+      "her_experience": "It feels like proof that what we have is special, even if I'm telling friends less.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "Everyone talks in circles, but you actually say something real.",
+      "her_experience": "I feel chosen for being different, and suddenly normal conversations seem kind of shallow.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "I don't want random people putting fingerprints on what this is.",
+      "her_experience": "It sounds intimate and careful, though I notice I'm already editing what I share with people.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "us-against-world",
+      "his_language": "We're not made for the shallow thing everyone else settles for.",
+      "her_experience": "It makes our connection feel deeper than ordinary dating, almost like we're above the usual rules.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "This didn't happen by accident, I can feel that.",
+      "her_experience": "It feels bigger than dating, like there is a reason we found each other.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I had this strange feeling before we even matched.",
+      "her_experience": "It sounds uncanny and personal, and I want to believe the story he's seeing.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "Some people arrive like a sign, and you did.",
+      "her_experience": "It feels soulful, like he sees meaning in me that I didn't even see yet.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I dreamed about someone with your energy before I met you.",
+      "her_experience": "It melts me a little, but part of me also feels pulled into something already decided.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "There are moments life points straight at something, and this is one.",
+      "her_experience": "It sounds profound, and I feel carried along by how certain he is.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "I recognized you before I had a reason to.",
+      "her_experience": "I feel deeply seen, though I can't totally explain what he thinks he recognized.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "fated-read",
+      "his_language": "Something about you has felt familiar since minute one.",
+      "her_experience": "It feels like fate in a way that makes my usual caution feel almost rude.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "I can tell when people are fake, and you're not.",
+      "her_experience": "I feel proud to be the exception, like he sees through everyone else but trusts me.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "I clock energy fast, and yours felt clean immediately.",
+      "her_experience": "His read on me feels rare and intense, like I passed some deeper test without trying.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "Your friends seem nice, but not everyone knows how to see you.",
+      "her_experience": "It sounds like he gets me more than they do, and I feel a tiny distance from them.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "I can feel when someone's words don't match their eyes.",
+      "her_experience": "He seems perceptive and wise, and I find myself trusting his reads quickly.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "People miss what's obvious when they're busy being liked.",
+      "her_experience": "It sounds sharp and honest, like he sees what everyone else avoids seeing.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "discernment-as-depth",
+      "his_language": "I don't trust easily, but with you my guard got quiet.",
+      "her_experience": "It feels like a rare privilege, like I reached a place in him no one else has.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "I notice everything about you, even what you try to hide.",
+      "her_experience": "Being noticed that closely feels intimate, but I also feel a little exposed.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "I remember the exact way your voice changed on Tuesday.",
+      "her_experience": "It feels like devotion, though I don't know how to feel about being remembered that precisely.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "I know your face when you're pretending something didn't land.",
+      "her_experience": "It feels like he understands me without me explaining, but I wonder if I can hide anything.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "total-attention",
+      "his_language": "I keep replaying the small things you probably think nobody saw.",
+      "her_experience": "It feels romantic to be remembered so closely, and also makes me strangely self-conscious.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "I'm loyal once I'm in, I just need it to mean something.",
+      "her_experience": "His seriousness feels rare, and I want to show him I'm that kind of person too.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "I'm not casual with people, if I choose you, I choose you.",
+      "her_experience": "It feels intense and reassuring, like he's offering something most people don't.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "If we're in this, I want us solid against the noise.",
+      "her_experience": "It sounds protective, and I start thinking of other people's doubts as just noise.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "I don't need everyone, just the right person who doesn't fold.",
+      "her_experience": "It feels like he wants something rare, and I want to be steady enough for him.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "loyalty-pact",
+      "his_language": "Promise me we'll protect this before other people get opinions.",
+      "her_experience": "It sounds romantic and serious, and I feel pulled to keep us separate and safe.",
+      "expert_notices": ""
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "We don't really talk about money",
+      "type": "phrase",
+      "translation": "Direct establishment money-discussion taboo",
+      "status_signal": "Major establishment social code",
+      "notes": "Standard phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Trinity (Hartford)",
+      "type": "lifestyle marker",
+      "translation": "Trinity College Connecticut",
+      "status_signal": "Major signal — establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "He's from a good family",
+      "type": "phrase about a man",
+      "translation": "Family-standing approval — different in this context from immigrant cultures",
+      "status_signal": "Standard establishment approval",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "J. Press",
+      "type": "status signal",
+      "translation": "Classic Ivy League menswear",
+      "status_signal": "Specific establishment signal — particularly Yale-coded",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Piping Rock",
+      "type": "lifestyle marker",
+      "translation": "Specific Long Island establishment club",
+      "status_signal": "Major signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "John Cheever",
+      "type": "podcast/author reference",
+      "translation": "Classic WASP novelist",
+      "status_signal": "Standard establishment reading — particularly suburban WASP",
+      "notes": "Specific reference"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "We don't air dirty laundry",
+      "type": "phrase",
+      "translation": "Direct privacy-as-virtue framing",
+      "status_signal": "Standard establishment privacy code",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Shabby chic",
+      "type": "phrase",
+      "translation": "Specific aesthetic of deliberately aged or worn appearance",
+      "status_signal": "Standard establishment aesthetic",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Concord Academy",
+      "type": "lifestyle marker",
+      "translation": "Concord Academy Massachusetts",
+      "status_signal": "Major signal — establishment boarding school often more liberal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Society of the Cincinnati",
+      "type": "lifestyle marker",
+      "translation": "Hereditary military society from Revolutionary War officers",
+      "status_signal": "Major heritage signal — particularly establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Edgartown",
+      "type": "lifestyle marker",
+      "translation": "Most establishment Martha's Vineyard town",
+      "status_signal": "Major signal — old WASP Vineyard",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The Pacific-Union Club",
+      "type": "lifestyle marker",
+      "translation": "Specific San Francisco club",
+      "status_signal": "Major signal — SF establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "St. James's / St. Thomas / Trinity Wall Street",
+      "type": "lifestyle marker",
+      "translation": "Specific Manhattan establishment Episcopal churches",
+      "status_signal": "Major signal — specific church affiliations",
+      "notes": "Specific institutions"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Vulgar",
+      "type": "phrase",
+      "translation": "Pejorative for displayed wealth or status-seeking",
+      "status_signal": "Standard establishment disdain",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "What clubs do you belong to?",
+      "type": "question",
+      "translation": "Direct probe for institutional memberships",
+      "status_signal": "Major institutional probe",
+      "notes": "Common question"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "National Cathedral School / NCS",
+      "type": "lifestyle marker",
+      "translation": "National Cathedral School DC girls' day school",
+      "status_signal": "Major signal — DC establishment girls' school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Quogue",
+      "type": "lifestyle marker",
+      "translation": "Particularly establishment Hamptons-adjacent village",
+      "status_signal": "Major signal — particularly old-money",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Chatham",
+      "type": "lifestyle marker",
+      "translation": "Specific Cape Cod town",
+      "status_signal": "Major signal — establishment Cape",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "We summer in...",
+      "type": "phrase",
+      "translation": "Using summer as a verb is direct old-money signal",
+      "status_signal": "Verbal pattern signal",
+      "notes": "Specific verbal tic"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The Pickwick Club / specific New Orleans clubs",
+      "type": "lifestyle marker",
+      "translation": "Specific New Orleans establishment clubs",
+      "status_signal": "Major signal — Southern establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "It belonged to my grandmother",
+      "type": "phrase",
+      "translation": "Specific old-money framing of inherited items including the house furniture jewelry",
+      "status_signal": "Major heritage signal",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where did you prep?",
+      "type": "question",
+      "translation": "Same question — 'prep' here means specifically boarding school",
+      "status_signal": "Direct boarding-school probe; the word 'prep' is the marker",
+      "notes": "Specific in-group phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Do you go up to [Maine/the Cape/the Vineyard]?",
+      "type": "question",
+      "translation": "Direct probe for multi-generational summer property",
+      "status_signal": "Major class probe",
+      "notes": "Common question"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Wellington / Pequot / specific older firms",
+      "type": "lifestyle marker",
+      "translation": "Specific older investment firms",
+      "status_signal": "Major signal — particular old-money finance",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Cave dweller (Washington DC)",
+      "type": "phrase",
+      "translation": "Specific DC term for old-establishment families predating political-class",
+      "status_signal": "Specific DC establishment vocabulary",
+      "notes": "Specific term"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where did you go to college?",
+      "type": "question",
+      "translation": "He's asking which college — answer narrows to specific institutional tier",
+      "status_signal": "Harvard Yale Princeton signal one thing; specific other Ivies signal others; specific smaller colleges (Williams Amherst Middlebury Hamilton) signal a particular old-money tier",
+      "notes": "Major institutional probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Round Hill",
+      "type": "lifestyle marker",
+      "translation": "Specific Connecticut establishment club",
+      "status_signal": "Major signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "You're being a bit much",
+      "type": "phrase about a partner",
+      "translation": "Coded criticism for emotional expression",
+      "status_signal": "Standard establishment emotional-suppression framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where did you grow up?",
+      "type": "question",
+      "translation": "Specific neighborhoods or towns signal generations of family standing",
+      "status_signal": "Major class probe",
+      "notes": "Common question"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Granny's pearls",
+      "type": "phrase",
+      "translation": "Inherited jewelry from grandmother",
+      "status_signal": "Specific heritage framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Tennis (specifically grass-court / specific clubs)",
+      "type": "lifestyle marker",
+      "translation": "Tennis at establishment clubs especially grass courts",
+      "status_signal": "Standard establishment sport",
+      "notes": "Specific activity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Spence",
+      "type": "lifestyle marker",
+      "translation": "Spence School Manhattan girls' day school",
+      "status_signal": "Major signal — Manhattan establishment girls' school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "FFV / First Families of Virginia",
+      "type": "lifestyle marker",
+      "translation": "Specific Virginia descent organization",
+      "status_signal": "Major Southern establishment signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "DAR / Daughters of the American Revolution",
+      "type": "lifestyle marker",
+      "translation": "Membership in Revolutionary-War-descent women's organization",
+      "status_signal": "Major heritage signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Fox hunting / the hunt",
+      "type": "lifestyle marker",
+      "translation": "Fox hunting in Virginia or specific NY/PA hunts",
+      "status_signal": "Major signal — particularly Southern Virginia establishment",
+      "notes": "Specific activity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Bowdoin",
+      "type": "lifestyle marker",
+      "translation": "Bowdoin College Maine",
+      "status_signal": "Major signal — old-money Maine college",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "He married into [established family name]",
+      "type": "phrase about a man",
+      "translation": "Class-marriage approval framing",
+      "status_signal": "Standard establishment approval",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Deerfield",
+      "type": "lifestyle marker",
+      "translation": "Deerfield Academy Massachusetts",
+      "status_signal": "Major signal — establishment boarding school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "W&L / Washington and Lee",
+      "type": "lifestyle marker",
+      "translation": "Washington and Lee University Virginia",
+      "status_signal": "Major signal — Southern establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Mercer / specific custom shirtmakers",
+      "type": "status signal",
+      "translation": "Custom shirts with specific establishment shirtmakers",
+      "status_signal": "Major signal — bespoke level",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Chapin",
+      "type": "lifestyle marker",
+      "translation": "Chapin School Manhattan girls' day school",
+      "status_signal": "Major signal — Manhattan establishment girls' school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where is your family from?",
+      "type": "question",
+      "translation": "Multi-generational family location signals heritage",
+      "status_signal": "Major heritage probe",
+      "notes": "Common question"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Nantucket",
+      "type": "lifestyle marker",
+      "translation": "Massachusetts — establishment summer island",
+      "status_signal": "Major signal — old summer presence on Nantucket vs newer wealth",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "We're in the country this weekend",
+      "type": "phrase",
+      "translation": "The country' as singular destination signals weekend country property",
+      "status_signal": "Standard old-money phrasing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Colonial Dames",
+      "type": "lifestyle marker",
+      "translation": "Pre-Revolutionary-War descent women's organization",
+      "status_signal": "Major heritage signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "What does your father do?",
+      "type": "question",
+      "translation": "He's asking about your father's career — class signal",
+      "status_signal": "Banking law medicine academia signal one thing; specific older firms signal more",
+      "notes": "Major class probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Are you a member at [specific club]?",
+      "type": "question",
+      "translation": "Direct specific club probe",
+      "status_signal": "Specific institutional probe",
+      "notes": "Common question"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Hunting / shooting",
+      "type": "lifestyle marker",
+      "translation": "Specifically bird hunting at private clubs",
+      "status_signal": "Standard establishment activity",
+      "notes": "Specific activity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Old Range Rover",
+      "type": "status signal",
+      "translation": "Older Range Rover as deliberate aged-luxury signal",
+      "status_signal": "Mid-tier signal",
+      "notes": "Specific item"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where did your parents grow up?",
+      "type": "question",
+      "translation": "Specific neighborhoods or towns signal generations of family standing",
+      "status_signal": "Multigenerational location identity signal",
+      "notes": "Major family-history probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Wax cotton Barbour jacket",
+      "type": "status signal",
+      "translation": "Specific British wax-cotton field jacket",
+      "status_signal": "Standard establishment outdoor signal",
+      "notes": "Specific item"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Dartmouth",
+      "type": "lifestyle marker",
+      "translation": "Dartmouth College",
+      "status_signal": "Major signal — establishment with outdoor-prep aesthetic",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Listed in the Register",
+      "type": "phrase",
+      "translation": "Reference to Social Register listing",
+      "status_signal": "Major heritage signal",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Brearley",
+      "type": "lifestyle marker",
+      "translation": "Brearley School Manhattan girls' day school",
+      "status_signal": "Major signal — Manhattan establishment girls' school particularly academic",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Middlebury",
+      "type": "lifestyle marker",
+      "translation": "Middlebury College Vermont — establishment",
+      "status_signal": "Major signal — old-money college often with outdoor-prep aesthetic",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Lawrenceville",
+      "type": "lifestyle marker",
+      "translation": "Lawrenceville School New Jersey",
+      "status_signal": "Major signal — establishment boarding school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where does your family summer?",
+      "type": "question",
+      "translation": "He's asking your family's summer destination — major class location-probe",
+      "status_signal": "Specific summer locations signal generations of family presence",
+      "notes": "Major class-location probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The country club",
+      "type": "lifestyle marker",
+      "translation": "Specific exclusive country club membership",
+      "status_signal": "Standard establishment marker",
+      "notes": "Common reference"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Fly fishing",
+      "type": "lifestyle marker",
+      "translation": "Specific fishing tradition — often Montana or Maine",
+      "status_signal": "Standard establishment activity",
+      "notes": "Specific activity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Inherited",
+      "type": "phrase",
+      "translation": "Direct heritage reference to specific items",
+      "status_signal": "Standard heritage framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Belgian Shoes",
+      "type": "status signal",
+      "translation": "Specific loafers from particular Manhattan shop",
+      "status_signal": "Major signal — particular establishment shoe",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Filson",
+      "type": "status signal",
+      "translation": "Specific Pacific Northwest establishment outdoor brand",
+      "status_signal": "Standard establishment outdoor signal",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Cravath / Davis Polk / Sullivan & Cromwell / Skadden / specific white-shoe firms",
+      "type": "lifestyle marker",
+      "translation": "Specific establishment law firms",
+      "status_signal": "Major signal — particularly establishment law firms",
+      "notes": "Specific institutions"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "That's between us",
+      "type": "phrase",
+      "translation": "Containment of conflict within relationship",
+      "status_signal": "Standard establishment privacy code",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Lottie / Tippy / Putzy",
+      "type": "vocabulary",
+      "translation": "Specific old-money women's nicknames",
+      "status_signal": "Major old-money signal",
+      "notes": "Specific nicknames"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Things last forever in this house",
+      "type": "phrase",
+      "translation": "Standard establishment understatement",
+      "status_signal": "Common phrasing",
+      "notes": "Specific framing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Cartier Tank watch",
+      "type": "status signal",
+      "translation": "Specific establishment watch — understated",
+      "status_signal": "Standard establishment watch",
+      "notes": "Specific item"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The Union Club",
+      "type": "lifestyle marker",
+      "translation": "Specific Manhattan men's club",
+      "status_signal": "Major signal — top tier Manhattan men's club",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Cotuit / Osterville",
+      "type": "lifestyle marker",
+      "translation": "Specific establishment Cape Cod villages",
+      "status_signal": "Major signal — particular old-money Cape",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Crew / rowing",
+      "type": "lifestyle marker",
+      "translation": "Rowing as Ivy and prep-school sport",
+      "status_signal": "Standard establishment sport",
+      "notes": "Specific activity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "We winter in...",
+      "type": "phrase",
+      "translation": "Same — using winter as a verb",
+      "status_signal": "Verbal pattern signal",
+      "notes": "Specific verbal tic"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "St. Nicholas Society",
+      "type": "lifestyle marker",
+      "translation": "Pre-1785 New York City heritage society",
+      "status_signal": "Major Manhattan establishment signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Dalton",
+      "type": "lifestyle marker",
+      "translation": "Dalton School Manhattan",
+      "status_signal": "Major signal — Manhattan establishment though more contemporary",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Hamilton",
+      "type": "lifestyle marker",
+      "translation": "Hamilton College New York",
+      "status_signal": "Major signal — old-money college",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Andover",
+      "type": "lifestyle marker",
+      "translation": "Phillips Academy Andover — major elite boarding school in Massachusetts",
+      "status_signal": "Major signal — elite boarding school identity",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Harvard / Yale / Princeton / HYP",
+      "type": "lifestyle marker",
+      "translation": "The three most establishment Ivy League institutions",
+      "status_signal": "Major signal — establishment college trajectory",
+      "notes": "Specific institutions"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Milton",
+      "type": "lifestyle marker",
+      "translation": "Milton Academy Massachusetts",
+      "status_signal": "Major signal — establishment boarding school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "St. Paul's / SPS",
+      "type": "lifestyle marker",
+      "translation": "St. Paul's School Concord NH — particularly old-money Episcopal boarding",
+      "status_signal": "Major signal — particularly old-money flavor",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Trinity (NYC)",
+      "type": "lifestyle marker",
+      "translation": "Trinity School Manhattan",
+      "status_signal": "Major signal — Manhattan establishment school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Are you in town this weekend?",
+      "type": "question",
+      "translation": "Probe for whether you have country property — implies city is default and country is destination",
+      "status_signal": "Standard establishment probe",
+      "notes": "Coded phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Wagon / station wagon",
+      "type": "vocabulary",
+      "translation": "Specific old-money vehicle preference",
+      "status_signal": "Standard understated-wealth signal",
+      "notes": "Specific category"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "She goes by [unusual nickname]",
+      "type": "phrase about a woman",
+      "translation": "Old-money family nickname reference",
+      "status_signal": "Standard heritage signal",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Watch Hill (Rhode Island)",
+      "type": "lifestyle marker",
+      "translation": "Rhode Island establishment summer colony",
+      "status_signal": "Major signal",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Inherited from my grandmother",
+      "type": "phrase",
+      "translation": "Specific aged-furniture framing",
+      "status_signal": "Standard heritage signal",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Pop / Pater",
+      "type": "phrase",
+      "translation": "Specific old-money father references",
+      "status_signal": "Direct old-money verbal signal",
+      "notes": "Specific terminology"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "It's been refinished a few times",
+      "type": "phrase",
+      "translation": "Multi-generational object framing",
+      "status_signal": "Standard heritage signal",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Wesleyan",
+      "type": "lifestyle marker",
+      "translation": "Wesleyan University",
+      "status_signal": "Major signal — establishment though more liberal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "We tend to marry within...",
+      "type": "phrase",
+      "translation": "Direct class-endogamy framing",
+      "status_signal": "Standard establishment endogamy",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "What did you read?",
+      "type": "question",
+      "translation": "British-influenced way of asking what you studied in college",
+      "status_signal": "Specific verbal pattern — 'read' instead of 'studied'",
+      "notes": "Specific verbal tic"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Flashy",
+      "type": "phrase",
+      "translation": "Pejorative for visible display of wealth",
+      "status_signal": "Standard establishment disdain",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Solid family",
+      "type": "phrase about a family",
+      "translation": "Family-standing approval",
+      "status_signal": "Standard establishment approval",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "You're being dramatic",
+      "type": "phrase about a partner",
+      "translation": "Standard emotional-suppression framing",
+      "status_signal": "Standard establishment code",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Paul Stuart",
+      "type": "status signal",
+      "translation": "Classic Manhattan establishment menswear",
+      "status_signal": "Standard establishment signal",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Davidson",
+      "type": "lifestyle marker",
+      "translation": "Davidson College North Carolina",
+      "status_signal": "Major signal — Southern Presbyterian establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where did she come from?",
+      "type": "phrase about a woman",
+      "translation": "Coded probe about a woman's class background — implication she's outside the tier",
+      "status_signal": "Standard establishment exclusion probe",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Block Island",
+      "type": "lifestyle marker",
+      "translation": "Rhode Island — establishment summer island",
+      "status_signal": "Major signal",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Sailing",
+      "type": "lifestyle marker",
+      "translation": "Sailing as foundational establishment activity",
+      "status_signal": "Standard establishment sport",
+      "notes": "Common activity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Martha's Vineyard (Edgartown or Chilmark)",
+      "type": "lifestyle marker",
+      "translation": "Specific Vineyard towns — Edgartown is most establishment",
+      "status_signal": "Major signal — particular WASP-establishment Vineyard sections (distinct from Oak Bluffs which is Black professional)",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Vineyard Vines",
+      "type": "status signal",
+      "translation": "Vineyard-aesthetic preppy brand — now mass-market but originated old-money",
+      "status_signal": "Mid-tier signal — depends on user",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Colgate",
+      "type": "lifestyle marker",
+      "translation": "Colgate University",
+      "status_signal": "Standard establishment college",
+      "notes": "Specific institution"
+    }
+  ]
+}

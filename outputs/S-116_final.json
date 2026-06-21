@@ -1,0 +1,451 @@
+{
+  "scenario_id": "S-116",
+  "player_type": "Needy Noel",
+  "scenario": {
+    "scenario_id": "S-116",
+    "architecture_name": "He turns care into total availability, so her growing attachment feels like love while quietly becoming a job she is expected to keep doing.",
+    "culture": "South Asian",
+    "demographics": "Emily, F/late 20s, dating Raj, M/early 30s, South Asian, in Queens",
+    "cultural_context": "Dating/relationship context centered on Indian family values, attentive courtship, and cross-cultural romance.",
+    "geographic_setting": "Queens, New York City; urban, multicultural neighborhood setting with ties to Mumbai/India.",
+    "core_behaviors": [
+      "Plans around her schedule and then expects access to it",
+      "Uses warmth, family values, and future talk to make closeness feel virtuous",
+      "Makes his anxiety sound sweet so she ends up reassuring him"
+    ],
+    "satellite_signals": "Cross-cultural courtship in Queens, Indian family-values language, constant texting, bills handled by him, future-family talk, and a gentle but steady pressure to stay reachable.",
+    "dismissible_red_flags": "At this stage it mostly reads as enthusiastic, caring, and a little intense. The parts that sit with her are easy to excuse because he sounds warm, responsible, and genuinely excited about her.",
+    "scenario_text": "I’ve been seeing Raj for a few weeks, and most of the time it feels really nice. He’s the one who picks the place, but he always asks what I’m craving first, then somehow turns it into these little Queens adventures. Last Friday he took me to this South Indian spot near Jackson Heights, and he kept saying I was being “so easy” about everything, which I think he meant as a compliment. He also handles the bill before I can even reach for my card, and I do like that. It feels old-school in a good way, like he wants to take care of me.\n\nWhat’s been sticking with me is how much he wants to stay in touch. He texts in the morning, at lunch, after work, and if I don’t answer for a while he’ll send something like, “You okay, Emily? I miss you a bit.” It’s sweet, honestly, and he says it with this little smiley face like he knows he’s being cute. He also asked if we could share our calendars because, in his words, “the people who matter make time.” I thought that was romantic at first.\n\nThe other night he said, “I do miss you the second you leave, is that too much?” and then laughed like he was making fun of himself. So I told him no, of course not, and he looked so relieved. He’s also mentioned a few times that “couples who tell each other everything are the strong ones,” which sounds healthy enough, I guess. He says he just wants us to be close, and I believe him.\n\nIt’s not that anything bad happened. It’s more that I keep feeling like I’m supposed to answer fast, and I’m not sure if that’s just because he’s excited or because I’m already getting used to being on his little tether. Am I overthinking the way he says he misses me so much?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been seeing Raj for a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Just the setup, but it locates the relationship as very new. That matters because the speed of attachment is already part of the pattern.",
+      "snippet_id": "S-116-SN0001"
+    },
+    {
+      "quote": "he’s the one who picks the place",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is deciding the scene and moving her through it. It reads as considerate, but it also quietly trains her to follow his lead.",
+      "snippet_id": "S-116-SN0002"
+    },
+    {
+      "quote": "he always asks what I’m craving first",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is warm and attentive on the surface. The second reading is that he is making her preferences part of his emotional project, which can become a way of staying fused.",
+      "snippet_id": "S-116-SN0003"
+    },
+    {
+      "quote": "Queens adventures",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This gives the setting a local, date-night texture. It also helps show that he is building a whole little world around the relationship.",
+      "snippet_id": "S-116-SN0004"
+    },
+    {
+      "quote": "South Indian spot near Jackson Heights",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The neighborhood and food choice place the relationship inside a specific South Asian courtship register. It feels normal, but it also shows he is using culture as part of the intimacy.",
+      "snippet_id": "S-116-SN0005"
+    },
+    {
+      "quote": "being “so easy” about everything",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like praise, but it rewards her for not resisting. Being “easy” becomes the role she is supposed to keep performing.",
+      "snippet_id": "S-116-SN0006"
+    },
+    {
+      "quote": "He also handles the bill",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Money creates a soft asymmetry even when it’s generous. The gesture is kind, but it also gives him the upper hand in the rhythm of the relationship.",
+      "snippet_id": "S-116-SN0007"
+    },
+    {
+      "quote": "before I can even reach for my card",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He moves first, so she never gets a real choice in the moment. That can feel romantic early on, while still narrowing her room to reciprocate in her own way.",
+      "snippet_id": "S-116-SN0008"
+    },
+    {
+      "quote": "It feels old-school in a good way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is translating the asymmetry into a flattering story. That phrase shows the rationalization happening in real time.",
+      "snippet_id": "S-116-SN0009"
+    },
+    {
+      "quote": "He texts in the morning, at lunch, after work",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The cadence is affectionate, but it also establishes constant access as the norm. It’s a soft version of always-on contact.",
+      "snippet_id": "S-116-SN0010"
+    },
+    {
+      "quote": "if I don’t answer for a while",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is where the pressure starts to show. Nothing overt happens, but the silence itself becomes something she has to manage.",
+      "snippet_id": "S-116-SN0011"
+    },
+    {
+      "quote": "You okay, Emily?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A caring check-in, but it also asks her to regulate his nervous system. The question pulls her into reassurance duty.",
+      "snippet_id": "S-116-SN0012"
+    },
+    {
+      "quote": "I miss you a bit",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is sweet and disarming, but it makes her absence feel like a wound he is carrying. The pressure is tiny now and easy to soothe.",
+      "snippet_id": "S-116-SN0013"
+    },
+    {
+      "quote": "share our calendars",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a practical request that also creates shared oversight. It moves the relationship toward merged logistics before she has really chosen that level of access.",
+      "snippet_id": "S-116-SN0014"
+    },
+    {
+      "quote": "the people who matter make time",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That sounds like a value statement, but it quietly turns availability into proof of care. Once the premise is set, ordinary busyness can be treated like neglect.",
+      "snippet_id": "S-116-SN0015"
+    },
+    {
+      "quote": "I do miss you the second you leave",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest little seed of the larger problem. He names immediate absence as distress, which makes her feel responsible for filling the gap.",
+      "snippet_id": "S-116-SN0016"
+    },
+    {
+      "quote": "is that too much?",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He softens the need by checking himself, which makes her comfort him. That turns his anxiety into something she is supposed to answer gently.",
+      "snippet_id": "S-116-SN0017"
+    },
+    {
+      "quote": "I’m being cute",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is reading his self-consciousness as charm. It shows how quickly she is being trained to treat pressure as sweetness.",
+      "snippet_id": "S-116-SN0018"
+    },
+    {
+      "quote": "couples who tell each other everything",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the premise-planting move. It sounds wholesome, but it sets up total transparency as the standard, which later makes privacy look suspicious.",
+      "snippet_id": "S-116-SN0019"
+    },
+    {
+      "quote": "the strong ones",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He turns fusion into a virtue. Once strength is defined this way, distance or boundaries can be framed as weakness.",
+      "snippet_id": "S-116-SN0020"
+    },
+    {
+      "quote": "He says he just wants us to be close",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the emotional thesis in miniature. It sounds loving, but it also makes closeness the main requirement of the relationship.",
+      "snippet_id": "S-116-SN0021"
+    },
+    {
+      "quote": "I’m supposed to answer fast",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She can feel the rule forming even though nobody has stated it outright. That’s the important part: the expectation is already becoming internalized.",
+      "snippet_id": "S-116-SN0022"
+    },
+    {
+      "quote": "on his little tether",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is her own language catching the shape of the dynamic. ‘Little tether’ sounds cute, but it also admits she feels attached by a line she didn’t fully choose.",
+      "snippet_id": "S-116-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

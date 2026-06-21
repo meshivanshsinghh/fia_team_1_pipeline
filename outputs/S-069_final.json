@@ -1,0 +1,434 @@
+{
+  "scenario_id": "S-069",
+  "player_type": "Adrenaline Ainsley",
+  "scenario": {
+    "scenario_id": "S-069",
+    "architecture_name": "He turns excitement into a shared mission so her time, style, and attention start orbiting his momentum.",
+    "culture": "Hustle Culture",
+    "demographics": "Vanessa is 38, Alejandro is 28; she is a marketing manager in Los Angeles, he is a graphic designer from Mexico City.",
+    "cultural_context": "Vanessa works as a marketing manager; Alejandro is a graphic designer; the story sits in an urban professional dating/social sphere.",
+    "geographic_setting": "Los Angeles, with Alejandro from Mexico City.",
+    "core_behaviors": [
+      "Plans everything as if momentum is the point",
+      "Uses inclusive 'we' language to pull her into his pace",
+      "Treats her hesitation as a lack of fun rather than a real limit",
+      "Frames his intensity as a gift she should feel lucky to receive"
+    ],
+    "satellite_signals": "Age-gap dating in an urban professional scene; his designer identity and Mexico City background; her work schedule and his spontaneous plans; status talk about being a 'famous couple' and looking 'amazing' in the right presentation.",
+    "dismissible_red_flags": "At this stage it mostly reads as flattering enthusiasm. His big ideas, constant contact, and style opinions can seem like playful romance, and she is inclined to read them as him being thoughtful and invested.",
+    "scenario_text": "I’ve only been seeing Alejandro for a few weeks, but it already feels like we’re in this little bubble in LA where everything is a bit more alive. He’s 28, a graphic designer, and he has this way of making even a random Tuesday feel like it could turn into something worth remembering. Last night he texted, “I’m locked in on Friday,” and then sent me three ideas before I even answered. One was rooftop drinks, one was a late show, and one was this last-minute drive up the coast because, in his words, “quiet weekends make me twitchy.”\n\nI laughed because honestly, that is kind of him. He says he hates boring routine and that life is too short to waste on the same thing every week. I do like how decisive he is. He just takes care of the plan, the ride, the timing, all of it, and I get to show up and enjoy myself. He even said, “You bring the calm, I’ll bring the spark,” which sounded sweet in the moment.\n\nHe’s also very into how we look together. He keeps saying I should wear brighter colors, and last week he told me, “When we’re a famous couple, you’ll thank me.” It was funny, I guess, and a little flattering too. He makes me feel chosen, like I’m not just another girl he’s taking out. I probably sound silly, but after dating so many men who act half-asleep, his energy is kind of addictive.\n\nThe only thing is, I noticed I’ve started checking my calendar around his plans instead of the other way around. It’s not a big deal, just something I noticed. Do you think I was being too sensitive about him saying quiet weekends make him twitchy?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Alejandro for a few weeks",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already adjusting to his pace, but she still frames it as early and exciting. The short timeline matters because it shows how quickly the relationship is organizing around his momentum.",
+      "snippet_id": "S-069-SN0001"
+    },
+    {
+      "quote": "we’re in this little bubble in LA",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The bubble image sounds romantic, but it also hints at a closed world where the relationship becomes its own climate. That can feel intimate at first and still narrow her sense of outside perspective.",
+      "snippet_id": "S-069-SN0002"
+    },
+    {
+      "quote": "He’s 28, a graphic designer",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Basic demographic placement. It locates him in a creative professional lane that fits the hustle-culture dating scene without carrying a direct manipulation move on its own.",
+      "snippet_id": "S-069-SN0003"
+    },
+    {
+      "quote": "He texted, “I’m locked in on Friday,”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In this register, 'locked in' sounds disciplined and high-status, but here it also means he has already claimed the time before she has weighed it. The phrase makes his availability feel like a favor and her schedule feel secondary.",
+      "snippet_id": "S-069-SN0004"
+    },
+    {
+      "quote": "sent me three ideas before I even answered",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is moving the date forward before she can respond, which creates a subtle pressure to catch up rather than choose. It reads as enthusiasm, but it also sets the pace unilaterally.",
+      "snippet_id": "S-069-SN0005"
+    },
+    {
+      "quote": "rooftop drinks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A standard upscale LA date detail. It helps place the social world and the kind of polished, experience-driven romance he is selling.",
+      "snippet_id": "S-069-SN0006"
+    },
+    {
+      "quote": "a late show",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is part of the constant stimulation pattern. He keeps the relationship moving through events, not through steadiness, which makes excitement the default mode.",
+      "snippet_id": "S-069-SN0007"
+    },
+    {
+      "quote": "a last-minute drive up the coast",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The spontaneity sounds fun, but it also assumes she can drop into his plan on short notice. The drive itself implies he is the one setting motion and direction.",
+      "snippet_id": "S-069-SN0008"
+    },
+    {
+      "quote": "quiet weekends make me twitchy",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest self-declaration of his stimulation hunger. Quiet is cast as a problem, so ordinary calm starts to look like something she should help him avoid.",
+      "snippet_id": "S-069-SN0009"
+    },
+    {
+      "quote": "I laughed because honestly, that is kind of him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is smoothing over the tension by converting it into a personality quirk. The 'kind of him' phrasing shows how quickly she translates a pressure point back into affection.",
+      "snippet_id": "S-069-SN0010"
+    },
+    {
+      "quote": "He says he hates boring routine",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "In hustle culture, hating routine can sound ambitious and alive. Here it also pre-frames stability as something dull or inferior, which makes her own need for predictability harder to voice.",
+      "snippet_id": "S-069-SN0011"
+    },
+    {
+      "quote": "life is too short",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a classic pressure phrase. It turns hesitation into wasted life, so saying no starts to feel like being overly cautious instead of making a valid choice.",
+      "snippet_id": "S-069-SN0012"
+    },
+    {
+      "quote": "He just takes care of the plan, the ride, the timing",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is handling the logistics, which is convenient at first, but it also means he is quietly controlling the structure of the date. She is being moved through his setup rather than co-authoring it.",
+      "snippet_id": "S-069-SN0013"
+    },
+    {
+      "quote": "You bring the calm, I’ll bring the spark",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds cute, but it assigns her a role. She becomes the stabilizer and he becomes the engine, which can make his restlessness feel like something she has to manage.",
+      "snippet_id": "S-069-SN0014"
+    },
+    {
+      "quote": "He’s very into how we look together",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The focus is on the couple as an image. That can feel flattering, but it also shifts the relationship toward presentation and status, not just actual closeness.",
+      "snippet_id": "S-069-SN0015"
+    },
+    {
+      "quote": "you should wear brighter colors",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A style suggestion can be harmless, but here it lands as a quiet directive about how she should present herself. It is small enough to dismiss while still nudging her toward his taste.",
+      "snippet_id": "S-069-SN0016"
+    },
+    {
+      "quote": "When we’re a famous couple, you’ll thank me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is playful on the surface, but it installs a future where their value comes from being seen. It also makes her current compliance feel like something she will later owe him for.",
+      "snippet_id": "S-069-SN0017"
+    },
+    {
+      "quote": "He makes me feel chosen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the emotional payoff that keeps the rest of it soft. Feeling chosen is nice, but it can also make her more willing to absorb the small pressures without naming them.",
+      "snippet_id": "S-069-SN0018"
+    },
+    {
+      "quote": "I’m not just another girl he’s taking out",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She is reassuring herself that she has special status. That thought can be comforting early on, yet it also shows how much the relationship’s value depends on being the exception.",
+      "snippet_id": "S-069-SN0019"
+    },
+    {
+      "quote": "his energy is kind of addictive",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is naming the pull without fully questioning it. 'Addictive' captures the thrill, but it also hints that the relationship is starting to work like a hit rather than a steady bond.",
+      "snippet_id": "S-069-SN0020"
+    },
+    {
+      "quote": "I’ve started checking my calendar around his plans",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the quiet asymmetry. Her schedule is beginning to organize itself around his, which is exactly how a fun, spontaneous partner can become the default center of gravity.",
+      "snippet_id": "S-069-SN0021"
+    },
+    {
+      "quote": "Do you think I was being too sensitive about him saying quiet weekends make him twitchy?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is asking about the smallest piece, not the bigger pattern. That narrowing is important because it shows she is already editing her own discomfort down into something easier to dismiss.",
+      "snippet_id": "S-069-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

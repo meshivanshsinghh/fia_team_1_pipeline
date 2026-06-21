@@ -1,0 +1,407 @@
+{
+  "scenario_id": "S-073",
+  "player_type": "Blunt Bailey",
+  "scenario": {
+    "scenario_id": "S-073",
+    "architecture_name": "He uses directness, planning, and practical care to build a world where his certainty quietly outranks my preferences.",
+    "culture": "Red Pill",
+    "demographics": "Adult woman, likely Hispanic/Native American, newly dating Marcus",
+    "cultural_context": "Local dating/relationship context with emphasis on blended Native American and Hispanic cultural identity",
+    "geographic_setting": "Albuquerque, New Mexico; urban Southwestern setting",
+    "core_behaviors": [
+      "Plans surprise dates and manages the schedule",
+      "Uses blunt honesty as a trust signal",
+      "Frames his care as practical action, not talk",
+      "Treats my plans as flexible once he has a better idea"
+    ],
+    "satellite_signals": "Red-pill-flavored directness, routine, and masculine certainty; mobility and planning asymmetry because he drives and sets timing; possessive jokes that still sound playful at this stage.",
+    "dismissible_red_flags": "He seems straightforward, reliable, and thoughtful, and the pushiness is easy to read as enthusiasm. The plan changes and little possessive jokes can feel like normal early dating excitement, especially because he follows through and is so open about what he means.",
+    "scenario_text": "I’ve been seeing Marcus for a few weeks now, and honestly it has been really nice. He’s the kind of guy who says what he means, which is refreshing after the usual guessing game. If I ask him what he thinks, he just tells me. No softening it up, no weird little games. He’ll say, “Look, that dress is doing nothing for you,” and then ten minutes later he’s already found something better online. It stings for half a second, but he’s usually right, and he’s not mean about it.\n\nHe’s also weirdly good at details. I mentioned one author I liked, and he showed up later with a whole stack of books and said, “I read them because you said she mattered to you.” That was honestly sweet. He does that with everything, too. My tire pressure light came on last week and before I even brought it up he had already fixed it. He notices things like that.\n\nThe part that keeps catching me a little is how much he wants to handle the plan. He drives everywhere, picks the restaurant, and keeps asking what my week looks like. He says it like he’s just being organized, which maybe he is. And when I told him I wanted to see my friends this weekend, he gave me this half-smile and said, “You’re all mine later.” He laughed right after, so I laughed too.\n\nHe’s not controlling in a creepy way. He just seems very sure about what works. Sometimes I can feel myself giving in because it’s easier to let him set things up than argue over small stuff. Maybe that’s normal when someone is this intentional. I’m probably overthinking it, but the way he changes my plans so smoothly is sitting with me a little. Do you think I was being too sensitive about the joke?"
+  },
+  "snippets": [
+    {
+      "quote": "I've been seeing Marcus for a few weeks now",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Sets the early-stage timing. It matters because the control is already showing up before any formal commitment, which makes the later pattern easier to forecast.",
+      "snippet_id": "S-073-SN0001"
+    },
+    {
+      "quote": "the usual guessing game",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He frames directness as a virtue and herself as someone who should appreciate it. That sounds healthy, but it also sets him up as the person whose version of events is the one that counts.",
+      "snippet_id": "S-073-SN0002"
+    },
+    {
+      "quote": "Look, that dress is doing nothing for you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Coercive Control"
+      ],
+      "reasoning": "This is blunt criticism dressed as honesty. He is not just giving an opinion, he is positioning himself as the authority on what looks best on her.",
+      "snippet_id": "S-073-SN0003"
+    },
+    {
+      "quote": "he's already found something better online",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He moves from critique into replacement, which makes him the one curating her presentation. The practical help is real, but it also narrows her room to decide for herself.",
+      "snippet_id": "S-073-SN0004"
+    },
+    {
+      "quote": "I read them because you said she mattered to you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Charm-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds thoughtful and generous. The deeper issue is that he turns her interest into a project he can complete, which creates a feeling of being closely studied and claimed through attention.",
+      "snippet_id": "S-073-SN0005"
+    },
+    {
+      "quote": "a whole stack of books",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The scale of the gesture is what makes it land. It is sweet on the surface, but it also shows how fast and thoroughly he can lock onto her world.",
+      "snippet_id": "S-073-SN0006"
+    },
+    {
+      "quote": "My tire pressure light came on",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He notices a practical problem and fixes it before she asks. That is caring, but it also makes him the person who anticipates and manages her needs for her.",
+      "snippet_id": "S-073-SN0007"
+    },
+    {
+      "quote": "before I even brought it up",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her own reaction shows the imbalance. She is already adjusting to a man who acts first and leaves her to catch up, which can feel helpful now and constraining later.",
+      "snippet_id": "S-073-SN0008"
+    },
+    {
+      "quote": "He drives everywhere",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He has the mobility and sets the pace. That is a small everyday power gap, but it matters because the person with the car also gets to shape the evening.",
+      "snippet_id": "S-073-SN0009"
+    },
+    {
+      "quote": "picks the restaurant",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is making the decisions while presenting it as normal organization. Early on that reads as competence, but it quietly teaches her to accept his preferences as the default.",
+      "snippet_id": "S-073-SN0010"
+    },
+    {
+      "quote": "what my week looks like",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds considerate, but it is also schedule surveillance in a soft form. He is learning the shape of her time so he can work around it, and eventually around her.",
+      "snippet_id": "S-073-SN0011"
+    },
+    {
+      "quote": "You’re all mine later",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The joke is playful, but it carries ownership language. At this stage it can pass as flirting, yet it starts normalizing the idea that her time and attention are his to claim.",
+      "snippet_id": "S-073-SN0012"
+    },
+    {
+      "quote": "He laughed right after",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The laugh gives him cover, but it also makes the line easier to absorb. She is left deciding whether to treat it as a joke, which is exactly how the pressure gets softened.",
+      "snippet_id": "S-073-SN0013"
+    },
+    {
+      "quote": "I laughed too",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her response shows she is already accommodating his framing. She is smoothing over the moment instead of testing it, which is how the relationship stays pleasant while the imbalance grows.",
+      "snippet_id": "S-073-SN0014"
+    },
+    {
+      "quote": "He’s not controlling in a creepy way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the narrator protecting the relationship from her own discomfort. She can sense the control, but because it is packaged as competence and care, she talks herself out of naming it.",
+      "snippet_id": "S-073-SN0015"
+    },
+    {
+      "quote": "He just seems very sure about what works",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Certainty is the selling point. In the honeymoon phase it reads as steadiness, but it also means his preference can start to feel like the sensible option rather than one option among many.",
+      "snippet_id": "S-073-SN0016"
+    },
+    {
+      "quote": "I can feel myself giving in",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior signal. She is noticing that compliance is becoming easier than disagreement, which is how practical care turns into a habit of surrender.",
+      "snippet_id": "S-073-SN0017"
+    },
+    {
+      "quote": "it’s easier to let him set things up",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The convenience is doing the work here. He is not forcing anything yet, but the relationship is already organizing around the path of least resistance, which favors him.",
+      "snippet_id": "S-073-SN0018"
+    },
+    {
+      "quote": "change my plans so smoothly",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the core move. He does not need open conflict if he can simply redirect things in a way that feels effortless and reasonable.",
+      "snippet_id": "S-073-SN0019"
+    },
+    {
+      "quote": "too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is preemptively minimizing her own reaction. That self-doubt is important because it shows the joke has already shifted the burden onto her to prove she is not overreacting.",
+      "snippet_id": "S-073-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

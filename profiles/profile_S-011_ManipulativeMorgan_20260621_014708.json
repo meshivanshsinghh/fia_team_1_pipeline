@@ -1,0 +1,1502 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-011",
+    "target_register": "Black Professional",
+    "player_type": "Manipulative Morgan"
+  },
+  "primary_metaphors": [
+    "Charm-as-Lure",
+    "Self-as-Observer-from-Outside",
+    "Vulnerability-as-Performance",
+    "People-as-Instruments",
+    "Relationship-as-Machine",
+    "Rule-Free-Charmer",
+    "Rulelessness-as-Freedom",
+    "Boredom-as-Timer",
+    "People-as-Readable-Objects",
+    "Attachment-as-Optional",
+    "No-Regret-as-No-Remorse",
+    "Camouflage-as-Charm",
+    "Need-Detection-as-Leverage",
+    "Instrumental-Logic",
+    "Moral-Flatness",
+    "Unbothered-as-Detachment",
+    "Guiltlessness-as-Freedom",
+    "Curiosity-as-Extraction",
+    "Consequence-Proof-Self",
+    "Limits-as-Negotiable",
+    "Charm-as-Tool",
+    "Angle-Finding",
+    "Stimulation-Hunger",
+    "Risk-without-Accountability",
+    "Shapeshifter",
+    "Impulsivity-Selection",
+    "Low-Reflection-Selection",
+    "Boundaryless-Selection",
+    "Low-Discernment-Selection",
+    "No-Future-Selection",
+    "Isolation-Selection",
+    "Vulnerability-Selection",
+    "Transgression-Selection",
+    "Low-Need-Selection",
+    "Thrill-Seeking-Selection",
+    "Inexperience-Selection",
+    "Independence-Weaponized",
+    "Non-Judgment-Weaponized",
+    "Dark-Fascination",
+    "No-Structure-Selection",
+    "Over-Trust-Selection",
+    "No-Shrink-Selection",
+    "Uproot-Selection",
+    "Rule-Breaker-Fascination",
+    "Isolation-Primed"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "questioned-deception deflection (non-denial)",
+      "his_language": "I genuinely can't believe you'd think that of me.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: non-denial. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (non-denial)",
+      "his_language": "Wow. Okay. I didn't think you saw me that way.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: non-denial. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (non-denial)",
+      "his_language": "That's really what you think is going on here?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: non-denial. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (convincing-not-conveying)",
+      "his_language": "You know me. That is just not who I am.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: convincing-not-conveying. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (convincing-not-conveying)",
+      "his_language": "Have I ever given you a reason to doubt me? I don't think I have.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: convincing-not-conveying. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (convincing-not-conveying)",
+      "his_language": "Look at how I treat you. Does that look like someone who'd do that?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: convincing-not-conveying. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (attack-the-questioner)",
+      "his_language": "The fact that you'd even ask says more about where you're at than about me.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: attack-the-questioner. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (attack-the-questioner)",
+      "his_language": "I think this is something you need to look at in yourself, honestly.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: attack-the-questioner. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (attack-the-questioner)",
+      "his_language": "Is this about me, or about what your ex did to you?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: attack-the-questioner. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (why-would-I reframe)",
+      "his_language": "Why would I even do that? Think about it, it makes no sense.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: why-would-I reframe. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (why-would-I reframe)",
+      "his_language": "What would I possibly get out of lying to you about something that small?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: why-would-I reframe. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (referral/character)",
+      "his_language": "Ask anyone who knows me. I'm the most loyal person you'll ever meet.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: referral/character. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (referral/character)",
+      "his_language": "My friends will all tell you the same thing about me.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: referral/character. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (character-protest)",
+      "his_language": "I'm a good person. I would never do something like that to someone I care about.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: character-protest. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (qualifier/exclusion hedge)",
+      "his_language": "I would never intentionally hurt you.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: qualifier/exclusion hedge. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (qualifier/exclusion hedge)",
+      "his_language": "I don't really talk to her anymore.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: qualifier/exclusion hedge. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (qualifier/exclusion hedge)",
+      "his_language": "Nothing happened that you'd actually need to worry about.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: qualifier/exclusion hedge. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (over-swearing/bolstering)",
+      "his_language": "I swear on my life, on everything, that is not what happened.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: over-swearing/bolstering. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (over-swearing/bolstering)",
+      "his_language": "I swear on my mother. You have to believe me.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: over-swearing/bolstering. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (selective memory/vagueness)",
+      "his_language": "I honestly don't even remember saying that.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: selective memory/vagueness. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (selective memory/vagueness)",
+      "his_language": "I don't recall it going down that way at all.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: selective memory/vagueness. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (reverse-question stall)",
+      "his_language": "Why do you ask? What did you hear?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: reverse-question stall. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (reverse-question stall)",
+      "his_language": "Where is this coming from all of a sudden?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: reverse-question stall. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (honesty-flagging)",
+      "his_language": "Honestly? To be totally honest with you, no.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: honesty-flagging. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (honesty-flagging)",
+      "his_language": "I'll be real with you, because I always am.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: honesty-flagging. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (failure-to-answer)",
+      "his_language": "Look, the point is I'm here with you right now, isn't it?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: failure-to-answer. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (failure-to-answer)",
+      "his_language": "Can we not do this tonight? I just want to enjoy you.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: failure-to-answer. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (over-detailed account)",
+      "his_language": "Sorry I went quiet for two days. Phone was acting up and work was insane, I just crashed.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: over-detailed account. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (premature too-smooth answer)",
+      "his_language": "No. Next question.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: premature too-smooth answer. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I think you might be the one. I know how that sounds this early, but I just know.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I've never felt anything like this for anyone.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "You have to feel this too. Tell me you feel this too.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I can't stop thinking about you. You're the first thing in my head every morning.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I already can't imagine my life without you in it.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "Where have you been all my life. I mean it.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I didn't believe in this kind of thing until you.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I want to give you everything. Just tell me what you want and it's yours.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (manufactured sameness)",
+      "his_language": "It's wild, it's like you're describing my own brain back to me.",
+      "her_experience": "",
+      "expert_notices": "Charm 10 / mirroring: total sameness asserted fast. Manufactured familiarity, not pedestal."
+    },
+    {
+      "mechanism": "tempo violation (manufactured sameness)",
+      "his_language": "We want the exact same things out of life. Do you know how rare that is?",
+      "her_experience": "",
+      "expert_notices": "Charm 10 / mirroring: total sameness asserted fast. Manufactured familiarity, not pedestal."
+    },
+    {
+      "mechanism": "tempo violation (manufactured sameness)",
+      "his_language": "I feel like I've known you forever. Is that crazy?",
+      "her_experience": "",
+      "expert_notices": "Charm 10 / mirroring: total sameness asserted fast. Manufactured familiarity, not pedestal."
+    },
+    {
+      "mechanism": "tempo violation (manufactured sameness)",
+      "his_language": "It's almost scary how much we have in common.",
+      "her_experience": "",
+      "expert_notices": "Charm 10 / mirroring: total sameness asserted fast. Manufactured familiarity, not pedestal."
+    },
+    {
+      "mechanism": "tempo violation (manufactured sameness)",
+      "his_language": "I've never been able to be myself with anyone the way I can with you.",
+      "her_experience": "",
+      "expert_notices": "Charm 10 / mirroring: total sameness asserted fast. Manufactured familiarity, not pedestal."
+    },
+    {
+      "mechanism": "manufactured fate/targeting (manufactured coincidence)",
+      "his_language": "What are the odds, honestly. I don't even believe in this stuff but I think the universe put you in front of me.",
+      "her_experience": "",
+      "expert_notices": "Fate framing as cover for engineered proximity. Targeting disguised as serendipity. Layperson: destiny; expert: he arranged it."
+    },
+    {
+      "mechanism": "manufactured fate/targeting (retroactive surveillance as charm)",
+      "his_language": "I'll be honest, I noticed you around weeks before we talked. I just finally worked up the nerve.",
+      "her_experience": "",
+      "expert_notices": "Charming on its face; an expert hears pre-meeting surveillance. He was watching her before she knew he existed."
+    },
+    {
+      "mechanism": "manufactured fate/targeting (signs framing)",
+      "his_language": "We keep running into each other. That has to mean something, right?",
+      "her_experience": "",
+      "expert_notices": "Manufactures a pattern to make targeting look like destiny. 'Has to mean something' recruits her into the fate story."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "Don't worry about any of it, I've got you. I'll take care of everything.",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "I don't like how they talk to you. You deserve so much better than that.",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "Let me handle them. Nobody gets to treat you that way while I'm around.",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "You don't need to deal with stressful people anymore. That's what I'm here for.",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "I just want to protect you. Is that so wrong?",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "Why don't you let me drive you, I don't love the idea of you out late on your own.",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "poverty of fear (unshakeable calm)",
+      "his_language": "Relax. Nothing bad is going to happen. I don't really do panic.",
+      "her_experience": "",
+      "expert_notices": "Low-fear profile (Hare/Newman). Calm framed as strength. Magnetic early; the tell is the calm is too total."
+    },
+    {
+      "mechanism": "poverty of fear (no fear of risk)",
+      "his_language": "Worst case isn't that bad. I never really get scared of stuff like that.",
+      "her_experience": "",
+      "expert_notices": "Absent fear response presented as confidence. Seductive (he makes her feel safe); uncanny (no normal risk-anxiety)."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I've been studying what sets you off.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I track when these moods of yours tend to hit.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I've got you completely figured out at this point.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I've been gathering data on what actually makes you happy.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I clocked the exact second you started pulling back from me.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I've got you completely figured out already.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "learned-emotion seam (over-correct empathy)",
+      "his_language": "I'm so sorry. That must have been incredibly hard for you. Do you need a minute? Take whatever you need.",
+      "her_experience": "",
+      "expert_notices": "Words too flawless, textbook empathy a half-beat fast, like a recited script. Verbally perfect, affectively flat. Gagne: learned not felt."
+    },
+    {
+      "mechanism": "learned-emotion seam (rehearsed disclosure)",
+      "his_language": "I don't open up to people. I don't know what it is about you, but I just feel safe.",
+      "her_experience": "",
+      "expert_notices": "Emotional Overexposure8: rare-vulnerability gift timed to bond fast. Strategic oversharing as fast intimacy."
+    },
+    {
+      "mechanism": "poverty of affect (flat content, material pivot)",
+      "his_language": "Yeah, my ex had a pretty bad breakdown at the end, it got dark. Anyway, you hungry? This place does a great steak.",
+      "her_experience": "",
+      "expert_notices": "Hancock 2013: heavy content narrated flatly, instant pivot to a physical need. Content/affect mismatch + material focus."
+    },
+    {
+      "mechanism": "poverty of affect (cause-effect over feeling)",
+      "his_language": "She left, I moved on, it made sense. People run their course. It is what it is.",
+      "her_experience": "",
+      "expert_notices": "Hancock 2013: cause-effect/instrumental framing of loss; no felt residue."
+    },
+    {
+      "mechanism": "borrowed-conscience framing",
+      "his_language": "You make me want to be better. I need you, you keep me grounded.",
+      "her_experience": "",
+      "expert_notices": "Gagne: relationship as external conscience. She's assigned the JOB of his moral compass."
+    },
+    {
+      "mechanism": "register violation (engineering vocabulary)",
+      "his_language": "We just need to recalibrate. The inputs are off and we can optimize this.",
+      "her_experience": "",
+      "expert_notices": "Engineering vocab about an intimate bond. Gloss: logical/mature; expert: system operated from outside."
+    },
+    {
+      "mechanism": "affect mismatch (flat narration of own trauma)",
+      "his_language": "Yeah that whole thing with my family was pretty bad. It is what it is. You ready to order?",
+      "her_experience": "",
+      "expert_notices": "His own painful history narrated in an even voice with a material pivot. Hancock: content/affect mismatch + physiological focus, his-side."
+    },
+    {
+      "mechanism": "extreme confidence (magnetic)",
+      "his_language": "I don't really get nervous. I just know how things are going to go.",
+      "her_experience": "",
+      "expert_notices": "Total unshakeable certainty. Magnetic early; the seam is it's TOO complete, no normal flicker of doubt anyone would have. Low-fear profile."
+    },
+    {
+      "mechanism": "extreme confidence (magnetic)",
+      "his_language": "I never worry about being late, being judged, any of that. It just doesn't get to me.",
+      "her_experience": "",
+      "expert_notices": "Serene disregard for the social anxieties that touch everyone. Reads as enviable ease; the absence of any nervousness is the tell."
+    },
+    {
+      "mechanism": "cold non-neediness / dare (magnetic, contempt underneath)",
+      "his_language": "I don't do jealousy and I don't chase. If someone wants to go, they go.",
+      "her_experience": "",
+      "expert_notices": "Reads as refreshing security after needy exes. Underneath is cold non-attachment / a dare (Cobra taunt). Early it's purely attractive; contempt invisible."
+    },
+    {
+      "mechanism": "instrumental calm framed as maturity",
+      "his_language": "I never lose my head. Getting emotional about things doesn't solve anything.",
+      "her_experience": "",
+      "expert_notices": "Composure presented as maturity. The flat interior (poverty of affect/fear) dressed as admirable steadiness. Magnetic; the seam is the totality."
+    },
+    {
+      "mechanism": "manufactured debt (unasked favor, disclaimed)",
+      "his_language": "I took care of that bill for you. Don't even think about it, seriously. I just don't want you stressed.",
+      "her_experience": "He quietly paid something off for me before I even asked. I was overwhelmed, no one's ever just taken care of me like that.",
+      "expert_notices": "Unasked favor that creates obligation; 'don't think about it' installs the debt by disclaiming it. Instrumental investment he can later draw on. Her residue purely grateful."
+    },
+    {
+      "mechanism": "manufactured debt (favor outpaces stage)",
+      "his_language": "Already handled it. Had your car looked at while you were at work. That's just what I do for people I'm invested in.",
+      "her_experience": "He had my car fixed as a surprise. He says it's just how he is with people he cares about. I felt so looked after, and a little like I could never match it.",
+      "expert_notices": "Invested in' is the ledger word. The favor outpaces the relationship's stage; the imbalance she feels (never match it) is the seeded debt. Cost accounted as investment."
+    },
+    {
+      "mechanism": "manufactured debt (cost kept on the books)",
+      "his_language": "I cleared my whole weekend for you. Cancelled things. You're worth it, so I don't mind what it cost me.",
+      "her_experience": "He dropped everything for me this weekend, even cancelled plans. He keeps mentioning what he gave up, but only because he cares so much.",
+      "expert_notices": "The cost is named and re-named (cancelled things, what it cost me) so the sacrifice stays on the books. She notices the tallying and excuses it. Accounting under generosity."
+    },
+    {
+      "mechanism": "manufactured debt (denial-is-the-tell)",
+      "his_language": "I don't keep score. That's not me. I just do things for the people I choose, and I chose you.",
+      "her_experience": "He told me he never keeps score, he just gives. It's the most generous thing anyone's said to me.",
+      "expert_notices": "The explicit 'I don't keep score' is the score being kept; 'I chose you' is conditional/instrumental. Pre-emptive denial = the tell. Her residue clean."
+    },
+    {
+      "mechanism": "manufactured debt (the draw-down)",
+      "his_language": "After everything I've done for you, I'd just hope you'd want to do this one thing for me. That's all.",
+      "her_experience": "When he asked me for something he gently reminded me of all he's done. He's right that he's given me so much, so of course I said yes.",
+      "expert_notices": "The draw-down: the seeded debt called in (after everything I've done). Early enough to read as fair reciprocity; she complies and rationalizes. The favors were the setup."
+    },
+    {
+      "mechanism": "manufactured debt (provision from surveillance)",
+      "his_language": "I notice what you need before you say it. I've been paying attention. That's just how I love.",
+      "her_experience": "He somehow knows what I need before I do and just provides it. It's uncanny how attentive he is. I feel so seen.",
+      "expert_notices": "Self-as-Observer fused with provision: the attentiveness is data-gathering feeding strategic favors (paying attention = study). 'Uncanny' is the seam, kept as a compliment."
+    },
+    {
+      "mechanism": "manufactured debt (return disclaimed as return)",
+      "his_language": "I'm not like other guys who'd want something back for this. I just want you happy, that's the only return I need.",
+      "her_experience": "He insists he doesn't want anything in return, just my happiness. After men who kept score it's such a relief.",
+      "expert_notices": "The only return I need' still frames it as a return (Machine: inputs/outputs). The contrast with 'other guys' pre-empts suspicion. Instrumental language leaking through the denial."
+    },
+    {
+      "mechanism": "manufactured debt (favor engineers dependence)",
+      "his_language": "Let me handle the hard stuff. You'll get so used to me taking care of everything, you won't know how you managed before me.",
+      "her_experience": "He takes care of everything hard so I don't have to. He says I'll get so used to it, and honestly I already feel like I couldn't go back to managing alone.",
+      "expert_notices": "Provision engineered toward dependence (you won't know how you managed before me); the favor builds reliance, which is the asset. She confirms the dependence forming."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't care what people think, I just do what I want.",
+      "her_experience": "He feels fearless, like being with him would help me stop worrying so much.",
+      "expert_notices": "He is advertising absence of shame and social restraint; the same lack of internal brakes means her wellbeing will not stop him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "Rules kind of bore me, I'm up for anything.",
+      "her_experience": "He sounds exciting and open, like life with him would never feel small.",
+      "expert_notices": "He is presenting low conscience as spontaneity; boundaries and norms will bore him when they protect her too."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I get bored easily, I need someone who keeps things interesting.",
+      "her_experience": "It feels flattering, like he thinks I might be exciting enough for him.",
+      "expert_notices": "He is naming boredom as the timer on her usefulness; when novelty fades, he will seek stimulation elsewhere."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I read people really well, I can talk to anyone.",
+      "her_experience": "He seems socially brilliant, like he understands people in a rare way.",
+      "expert_notices": "He is advertising instrumental scanning; charm is a tool for access, not proof of empathy."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I've never been the jealous type, I don't get attached like that.",
+      "her_experience": "He seems secure and low-drama, which feels refreshing after possessive men.",
+      "expert_notices": "Low jealousy here signals low attachment; he may not care enough to bond, protect, or repair."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I live in the moment, I don't do regret.",
+      "her_experience": "He sounds free and alive, like he doesn't get stuck in shame.",
+      "expert_notices": "He is advertising lack of remorse; harm can happen without meaningful guilt or repair afterward."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm pretty easy to get along with, I read people quick.",
+      "her_experience": "He seems impressive, like he can handle any room or situation.",
+      "expert_notices": "Adaptability is camouflage; he can become whatever gets him through the door."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm good at figuring out what people need.",
+      "her_experience": "It feels thoughtful, like he pays close attention to people.",
+      "expert_notices": "He is advertising vulnerability detection; what people need becomes the handle he can pull."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not sentimental, I just do what works.",
+      "her_experience": "He seems practical and clear-headed, not messy or dramatic.",
+      "expert_notices": "He is naming instrumental thinking; if hurting her works, sentiment will not stop him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm impossible to shock, I've seen every kind of person.",
+      "her_experience": "He seems worldly and calm, like nothing would scare him off.",
+      "expert_notices": "He is advertising desensitization; normal moral shock is absent or muted."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm great under pressure, nothing really gets to me.",
+      "her_experience": "He seems steady and strong, like he'd stay calm in a crisis.",
+      "expert_notices": "His flatness may be low fear and low emotional investment, not secure regulation."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not one of those people who gets weighed down by guilt.",
+      "her_experience": "He sounds resilient, like he doesn't spiral over mistakes.",
+      "expert_notices": "He is telling her guilt will not regulate him; harm will not produce the restraint she expects."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm curious about what makes people tick.",
+      "her_experience": "He sounds thoughtful and psychologically interested.",
+      "expert_notices": "His curiosity is extractive; understanding people helps him manipulate, not connect."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of person who always lands on his feet.",
+      "her_experience": "He sounds resourceful and resilient, like nothing can keep him down.",
+      "expert_notices": "He is advertising survival without accountability; consequences slide off him while others absorb damage."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't really believe in limits unless they make sense.",
+      "her_experience": "He sounds independent and intelligent, not blindly obedient.",
+      "expert_notices": "He reserves the right to reject boundaries that do not serve him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can charm just about anyone, it's a tool like any other.",
+      "her_experience": "It sounds playful and confident, like he knows how to turn it on.",
+      "expert_notices": "He is admitting charm is strategic and need-based, not spontaneous warmth."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I stay pretty calm when things go sideways, I just figure out the next move.",
+      "her_experience": "He sounds smart under pressure, like he can solve anything.",
+      "expert_notices": "Finding the angle means exploiting situations, including people, rather than acting from conscience."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like people who can keep up with my appetite for life.",
+      "her_experience": "He sounds hungry for adventure and experience.",
+      "expert_notices": "The appetite is stimulation hunger; she becomes entertainment until she is no longer enough."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not afraid of consequences, I've always been lucky.",
+      "her_experience": "He sounds bold and exciting, like he takes chances other men won't.",
+      "expert_notices": "He minimizes consequences because he expects to evade them; her risk becomes part of his game."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can become comfortable anywhere, with anyone.",
+      "her_experience": "He sounds flexible and socially gifted.",
+      "expert_notices": "He is advertising shapeshifting; stable identity and sincere attachment may be absent."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone adventurous who's up for anything, no hesitation.",
+      "her_experience": "He sounds so fun and spontaneous, like life with him would never be boring. I've always been the careful one, so someone who pushes me to say yes more feels exciting.",
+      "expert_notices": "He is selecting for impulsivity and low risk-assessment. 'Up for anything' means she will follow his lead into escalating boundary-pushes, and 'no hesitation' screens out anyone who might pause and think."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who doesn't overthink things, just goes with the flow.",
+      "her_experience": "I'm an overthinker, so someone who values going with the flow feels like he balances me out and could help me loosen up.",
+      "expert_notices": "He is screening out critical thinking and self-protective reflection. A woman who doesn't overthink will not analyze his inconsistencies, check his story, or notice when things don't add up."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone open-minded with no hang-ups about trying new things.",
+      "her_experience": "He's non-judgmental and curious, which is so attractive after being with people who made me feel weird about wanting to explore.",
+      "expert_notices": "He is selecting for someone who will not enforce sexual or ethical boundaries. 'No hang-ups' means she will not say no to his escalating requests without feeling like she's being closed-minded."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who trusts fast and doesn't need years to decide.",
+      "her_experience": "I've been burned by men who wouldn't commit, so someone who trusts fast and doesn't drag things out feels like a relief, like he actually knows what he wants.",
+      "expert_notices": "He is selecting for low discernment and high suggestibility. A woman who trusts fast will bypass normal vetting and accept his manufactured persona without verifying it against reality."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who believes in living in the moment, not asking where everything is going.",
+      "her_experience": "He's so present and romantic, not like guys who need a five-year plan on the second date. I like that he's not pressuring me for a future.",
+      "expert_notices": "He is selecting for someone who will not press for commitment or accountability. 'Not asking where it's going' means she will accept the present-tense arrangement indefinitely."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who's not constantly checking in with her friends about her relationships.",
+      "her_experience": "He values privacy and maturity, and I've definitely had friends give bad advice before, so it actually makes sense to keep some things between us.",
+      "expert_notices": "He is screening for isolation potential and low outside counsel. A woman who doesn't consult friends is less likely to get warnings about his behavior and less likely to have support when she needs to leave."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's been through some stuff and come out strong, not sheltered.",
+      "her_experience": "He values resilience and depth, and I've been through hard things too, so it feels like he'd understand me in a way sheltered people couldn't.",
+      "expert_notices": "He is selecting for a history of boundary violations or normalized chaos that will make her less likely to recognize his manipulation as unusual. A sheltered woman would run sooner."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who's curious about everything, especially the stuff most people won't try.",
+      "her_experience": "He's philosophical and deep, interested in the darker or more intense sides of life. I've always been drawn to people who aren't afraid of the unconventional.",
+      "expert_notices": "He is selecting for someone drawn to transgression and the taboo. Her curiosity about edges will make her willing to go further than she normally would, and she will frame her discomfort as not being curious enough."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who doesn't need constant reassurance, who's secure enough to let things breathe.",
+      "her_experience": "He's not needy, which is so attractive after men who needed me to prop up their egos. I want to be that secure person for him.",
+      "expert_notices": "He is selecting for someone who will not demand emotional reciprocity or repair. Her security will be tested by his neglect, and when she finally asks for reassurance, he will point back to this line and say she's changed."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who's a bit of a thrill-seeker, someone who says yes to the scary thing.",
+      "her_experience": "He's exciting and brave, and I want to be more like that. Being with him makes me feel like I can be the version of myself who isn't afraid.",
+      "expert_notices": "He is selecting for someone who will follow him into genuinely dangerous situations. Her thrill-seeking will be leveraged to normalize his escalating asks, and her fear will be reframed as something to overcome."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone with no baggage from past relationships, someone who's moved on.",
+      "her_experience": "He wants a fresh start without drama, which makes sense because who wants to deal with someone else's ex-problems? I like that he's upfront about wanting something uncomplicated.",
+      "expert_notices": "He is selecting for someone without the experience to recognize manipulation. A woman with less relationship history has fewer comparison points and may not realize his behavior is abnormal."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who's independent, not someone who needs me to entertain her.",
+      "her_experience": "He values autonomy and doesn't want a clingy partner, which is refreshing. I have my own life and I want someone who respects that.",
+      "expert_notices": "He is selecting for someone who will not demand his time or attention, allowing him to disappear without consequence. Her independence will later feel like neglect, but he will remind her she wanted this."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who's fascinated by people who are different, who doesn't judge quickly.",
+      "her_experience": "He's so open-minded and accepting, and I've always admired people who don't jump to conclusions about others.",
+      "expert_notices": "He is selecting for someone who will excuse his red flags as her being judgmental. When he does something concerning, she will hesitate to judge it, afraid of being the closed-minded person he warned her not to be."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like someone who's fascinated by what makes people tick, not just the surface.",
+      "her_experience": "He's deep and psychologically interesting, not shallow like people who only want to talk about positive vibes. I like that he wants real conversation.",
+      "expert_notices": "He is selecting for someone who will romanticize his antisocial traits as complexity or darkness, rather than seeing them as the absence of conscience. She will find his pathology compelling, not frightening."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who doesn't need a lot of structure, who can handle spontaneity.",
+      "her_experience": "He's flexible and doesn't need everything planned, which is so different from my controlling ex. I love that he's relaxed about how things go.",
+      "expert_notices": "He is selecting for someone who will not hold him to commitments, schedules, or promises. Spontaneity means she accepts his availability as it comes."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who believes people are basically good, who doesn't assume the worst.",
+      "her_experience": "He's optimistic and trusts people, and I've become too cynical from bad experiences. Being with him makes me want to believe in goodness again.",
+      "expert_notices": "He is selecting for someone whose trust has not been exhausted. Her assumption of goodness will make her slow to see his harmful intent, and she will explain away his behavior as misunderstanding long after she should leave."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who's never been made to feel like she's too much, who's comfortable with herself.",
+      "her_experience": "He appreciates someone who's comfortable in herself, and I've definitely been told I'm too much before, so it feels good that he might not see me that way.",
+      "expert_notices": "He is selecting for someone who has not been conditioned to shrink, which means she has less practice setting limits, making her easier to push past boundaries."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who's up for a real adventure, not just a vacation but something bigger.",
+      "her_experience": "He's not looking for ordinary, he wants something transformative. I've always felt like there was more to life than the standard path.",
+      "expert_notices": "He is selecting for someone willing to uproot her life, burn bridges, and follow him into instability. A whole different way of living means she will cut ties and abandon support systems."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone fascinated by people who do their own thing, who doesn't automatically call it wrong.",
+      "her_experience": "He's anti-establishment in a sexy way, and I've always been a rule-follower, so someone who challenges that perspective is intriguing.",
+      "expert_notices": "He is selecting for someone who will not apply conventional morality to his behavior. Her fascination with rule-breakers means she will excuse his transgressions as interesting rather than harmful."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who lives by her own compass, not what her friends or family tell her to do.",
+      "her_experience": "He values individuality and doesn't want someone who's just following the crowd, which I respect because I've felt pressured by my family's expectations my whole life.",
+      "expert_notices": "He is selecting for someone already primed to reject outside input, which makes isolating her easier because she will dismiss warnings from friends and family as them trying to control her."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Black Professional",
+      "snippet": "Where did you go to school?",
+      "type": "question",
+      "translation": "He's asking which college specifically — HBCU signals one path PWI signals another",
+      "status_signal": "Howard signals DC elite often political; Spelman signals Black women's elite; Morehouse signals Black male leadership; Hampton signals Virginia tidewater elite; FAMU signals Florida HBCU pride",
+      "notes": "Major identity-formation probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Are you Greek?",
+      "type": "question",
+      "translation": "He's asking whether you joined a Divine Nine sorority or fraternity",
+      "status_signal": "Greek membership signals HBCU experience and middle-class trajectory and lifetime Black professional network",
+      "notes": "Major community-membership probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where did you cross?",
+      "type": "question",
+      "translation": "He's asking when and where you joined your fraternity or sorority",
+      "status_signal": "Crossing date and chapter signal specific line and community",
+      "notes": "Specific Greek-life probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "What chapter?",
+      "type": "question",
+      "translation": "He's asking which specific chapter of your fraternity or sorority",
+      "status_signal": "Specific chapter signals geographic and class community",
+      "notes": "Specific Greek-life probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Are you in Jack and Jill?",
+      "type": "question",
+      "translation": "He's asking whether you're a member of the elite Black children's social organization",
+      "status_signal": "Signals middle-to-upper-middle-class parenting and multigenerational Black professional class",
+      "notes": "Major class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "What chapter of Jack and Jill?",
+      "type": "question",
+      "translation": "He's asking which specific Jack and Jill chapter",
+      "status_signal": "Specific chapter signals geographic and class community",
+      "notes": "Specific class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Are you in the Links?",
+      "type": "question",
+      "translation": "Asked of women — he's checking invitation-only Black women's service organization",
+      "status_signal": "Major top-tier Black professional women's signal",
+      "notes": "Specific elite probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Is your husband in the Boulé?",
+      "type": "question",
+      "translation": "Asked of married women — checking invitation-only top Black professional men's fraternity",
+      "status_signal": "Major top-tier Black professional men's signal",
+      "notes": "Specific elite probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where do you summer?",
+      "type": "question",
+      "translation": "He's asking whether you have a vacation home and where",
+      "status_signal": "Significant resources signal and specific tradition",
+      "notes": "Major class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Do y'all go to the Vineyard?",
+      "type": "question",
+      "translation": "He's asking whether you go to Martha's Vineyard specifically Oak Bluffs Inkwell Beach area",
+      "status_signal": "Black professional vacation-tradition signal",
+      "notes": "Major class-and-tradition probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Do you have a place up top?",
+      "type": "question",
+      "translation": "Up top' means Martha's Vineyard — he's asking if you own property there",
+      "status_signal": "Owning at the Vineyard signals significant wealth and 'old' standing in Black professional circles",
+      "notes": "Major wealth-and-standing probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where did your parents go to school?",
+      "type": "question",
+      "translation": "He's asking about multigenerational education",
+      "status_signal": "Multigenerational HBCU signals legacy; first-generation college signals upward mobility",
+      "notes": "Family-legacy probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "What does your father do?",
+      "type": "question",
+      "translation": "He's asking your father's specific profession — class signal",
+      "status_signal": "Doctor lawyer judge professor business owner executive signal different things",
+      "notes": "Family-class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where do your kids go to school?",
+      "type": "question",
+      "translation": "He's asking about your children's education",
+      "status_signal": "Private school public magnet or HBCU pipeline signals class trajectory",
+      "notes": "Class-trajectory probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Is your daughter doing debutante?",
+      "type": "question",
+      "translation": "He's asking about participation in formal Black-elite social rituals",
+      "status_signal": "Debutante participation signals Black social-elite engagement",
+      "notes": "Specific class ritual probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Howard University",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU in DC — major Black elite institution",
+      "status_signal": "Signals DC elite often political-class trajectory",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Spelman College",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Black women's elite institution",
+      "status_signal": "Signals Black women's elite formation often professional-class",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Morehouse College",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Black male leadership tradition",
+      "status_signal": "Signals Black male leadership formation often professional-class",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Hampton University",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Virginia tidewater elite",
+      "status_signal": "Signals tradition and tidewater Black elite",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "FAMU / Florida A&M",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Florida HBCU pride",
+      "status_signal": "Signals Florida HBCU formation and pride",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "AUC / Atlanta University Center",
+      "type": "lifestyle marker",
+      "translation": "The Atlanta HBCU complex (Morehouse Spelman Clark Atlanta)",
+      "status_signal": "Signals Atlanta Black-college-experience network",
+      "notes": "Specific institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Tuskegee",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU with engineering and aviation legacy",
+      "status_signal": "Signals specific HBCU heritage",
+      "notes": "Specific institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Xavier (Louisiana)",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Catholic and medical-pipeline reputation",
+      "status_signal": "Signals specific HBCU heritage often pre-med",
+      "notes": "Specific institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "AKA / Alpha Kappa Alpha",
+      "type": "lifestyle marker",
+      "translation": "Oldest Black sorority — Divine Nine",
+      "status_signal": "Carries stereotype (which insiders use as shorthand though members contest it) of respectability tradition middle-class background and historically lighter skin",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Delta Sigma Theta",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine sorority known for activism orientation",
+      "status_signal": "Carries reputation for civil rights tradition and broader skin-tone diversity",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Zeta Phi Beta",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine sorority",
+      "status_signal": "Carries reputation as more accessible and less stereotyped as elite",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sigma Gamma Rho",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine sorority",
+      "status_signal": "Carries reputation as more accessible less elitist reputation",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Alpha Phi Alpha",
+      "type": "lifestyle marker",
+      "translation": "Oldest Black fraternity — Divine Nine",
+      "status_signal": "Signals leadership and political tradition; MLK was Alpha",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Kappa Alpha Psi / The Kappas",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine fraternity",
+      "status_signal": "Carries reputation for style and aesthetic culture",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Omega Psi Phi / The Ques",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine fraternity",
+      "status_signal": "Carries reputation for rougher masculinity tradition",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Phi Beta Sigma",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine fraternity",
+      "status_signal": "Carries reputation as more accessible less elite-coded",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Divine Nine",
+      "type": "vocabulary",
+      "translation": "The collective name for the nine historic Black Greek-letter organizations",
+      "status_signal": "Standard in-group term for Black Greek life",
+      "notes": "Foundational vocabulary"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My line",
+      "type": "vocabulary",
+      "translation": "The group of people who pledged together",
+      "status_signal": "Specific Greek-life vocabulary",
+      "notes": "Family-network signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My line sisters / line brothers",
+      "type": "vocabulary",
+      "translation": "Lifetime sisters and brothers from pledge process",
+      "status_signal": "Major lifetime-network signal",
+      "notes": "Network terminology"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Prophyte / neophyte",
+      "type": "vocabulary",
+      "translation": "Members who pledged before you / after you",
+      "status_signal": "Specific Greek-life hierarchy vocabulary",
+      "notes": "Greek terminology"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Crossed Spring 2010",
+      "type": "phrase",
+      "translation": "He joined his fraternity or sorority specifically in Spring 2010",
+      "status_signal": "Specific cohort identifier",
+      "notes": "Standard Greek dating"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The strolls",
+      "type": "lifestyle marker",
+      "translation": "Specific Greek-life synchronized walking performances",
+      "status_signal": "Standard Greek-life tradition",
+      "notes": "Cultural-tradition marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The calls",
+      "type": "lifestyle marker",
+      "translation": "Specific Greek-life vocal signals",
+      "status_signal": "Standard Greek-life tradition",
+      "notes": "Cultural-tradition marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Jack and Jill of America",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only Black children's social organization",
+      "status_signal": "Major Black professional class signal often multigenerational",
+      "notes": "Major class organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The Boulé / Sigma Pi Phi",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only top Black professional fraternity",
+      "status_signal": "Top tier Black professional class often older established families",
+      "notes": "Highest-status Black professional org"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The Links Incorporated",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only Black professional women's service organization",
+      "status_signal": "Top tier Black professional women",
+      "notes": "Highest-status Black women's org"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Top Ladies of Distinction",
+      "type": "lifestyle marker",
+      "translation": "Specific Black women's professional service organization",
+      "status_signal": "Specific elite-women's-org signal",
+      "notes": "Specific organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sigma Alpha Iota / specific music fraternities",
+      "type": "lifestyle marker",
+      "translation": "Specific professional Greek organizations",
+      "status_signal": "Specific professional-network signal",
+      "notes": "Specific organizations"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Martha's Vineyard",
+      "type": "lifestyle marker",
+      "translation": "Historic Black professional summer destination",
+      "status_signal": "Major Black middle-to-upper-class multigenerational vacation tradition",
+      "notes": "Major class-vacation signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Oak Bluffs",
+      "type": "lifestyle marker",
+      "translation": "Specific Vineyard town with historic Black community",
+      "status_signal": "Specific Black Vineyard signal — heart of the community",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Inkwell Beach",
+      "type": "lifestyle marker",
+      "translation": "Historic Black beach at Oak Bluffs Martha's Vineyard",
+      "status_signal": "Direct Black Vineyard tradition signal",
+      "notes": "Specific in-group location"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sag Harbor",
+      "type": "lifestyle marker",
+      "translation": "Historic Black summer community on Long Island NY",
+      "status_signal": "Multigenerational Black summer presence signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Highland Beach Maryland",
+      "type": "lifestyle marker",
+      "translation": "Historic Black resort in Maryland",
+      "status_signal": "Multigenerational Black vacation tradition signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Idlewild Michigan",
+      "type": "lifestyle marker",
+      "translation": "Historic Black resort in Michigan",
+      "status_signal": "Multigenerational Black vacation tradition signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "American Beach Florida",
+      "type": "lifestyle marker",
+      "translation": "Historic Black beach community in Florida",
+      "status_signal": "Multigenerational Black vacation tradition signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The Polar Bears (Oak Bluffs morning swimmers)",
+      "type": "lifestyle marker",
+      "translation": "Specific Oak Bluffs morning swimming group",
+      "status_signal": "Insider Black Vineyard signal",
+      "notes": "Specific in-group reference"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The cottage",
+      "type": "lifestyle marker",
+      "translation": "Black professional family vacation property",
+      "status_signal": "Multigenerational vacation property signal",
+      "notes": "Specific class signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The family cottage",
+      "type": "lifestyle marker",
+      "translation": "Specifically inherited Black professional family vacation property",
+      "status_signal": "Major old-money Black professional signal",
+      "notes": "Specific in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sidwell Friends",
+      "type": "lifestyle marker",
+      "translation": "Quaker private school in DC — Obama daughters attended",
+      "status_signal": "Major coastal-elite signal for children",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Dalton",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite private school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Spence",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite girls school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Trinity School",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Brearley",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite girls school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Marin Country Day",
+      "type": "lifestyle marker",
+      "translation": "Bay Area elite Black-affirming private school",
+      "status_signal": "Bay Area Black-elite school signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Hancock Park (Black sections)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black wealthy LA neighborhood section",
+      "status_signal": "Black professional wealth signal in LA",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Brookland (DC)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black DC neighborhood",
+      "status_signal": "Specific DC Black community signal",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "LeDroit Park (DC)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black DC neighborhood",
+      "status_signal": "Specific DC Black professional community",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Cascade (Atlanta)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black Atlanta wealthy neighborhood",
+      "status_signal": "Atlanta Black professional class signal",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Hyde Park (Chicago)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black Chicago middle-class neighborhood",
+      "status_signal": "Chicago Black professional community signal",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "We've been going for generations",
+      "type": "phrase",
+      "translation": "Multigenerational Black wealth and Vineyard or specific resort traditions",
+      "status_signal": "Major old-money Black professional signal",
+      "notes": "Standard in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My grandmother had a cottage",
+      "type": "phrase",
+      "translation": "Specifically at the Vineyard or another historic Black resort",
+      "status_signal": "Major old Black wealth signal",
+      "notes": "Standard in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My parents are both [profession]",
+      "type": "phrase about family",
+      "translation": "Both-parent professional families signal multigenerational middle-class stability",
+      "status_signal": "Major class signal",
+      "notes": "Standard family-status framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He went to an HBCU",
+      "type": "phrase about a man",
+      "translation": "Specific cultural and educational formation",
+      "status_signal": "Major identity-formation signal",
+      "notes": "Standard description"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He went to one of the good Black schools",
+      "type": "phrase about a man",
+      "translation": "Specifically elite HBCU not just any Black school",
+      "status_signal": "Major prestige signal",
+      "notes": "Specific in-group distinction"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's Sidwell",
+      "type": "phrase about a woman",
+      "translation": "She went to or her kids go to Sidwell Friends",
+      "status_signal": "Specific elite school identification",
+      "notes": "Major class signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He's a Dalton kid",
+      "type": "phrase about a man",
+      "translation": "He went to or his kids go to Dalton",
+      "status_signal": "Specific elite school identification",
+      "notes": "Major class signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's one of the only",
+      "type": "phrase about a woman",
+      "translation": "She's one of few Black students or professionals in elite space",
+      "status_signal": "Standard Black-elite-experience signal",
+      "notes": "Common in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He's the only one in the C-suite",
+      "type": "phrase about a man",
+      "translation": "He's one of few Black executives",
+      "status_signal": "Standard Black-elite-experience signal",
+      "notes": "Common in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He had the talk with the kids",
+      "type": "phrase about a family",
+      "translation": "He had the specific conversation about police interaction with his children",
+      "status_signal": "Major cultural-labor signal",
+      "notes": "Specific cultural pattern"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Twice as good",
+      "type": "phrase",
+      "translation": "Effort required to access opportunity as a Black person",
+      "status_signal": "Standard Black professional formation experience",
+      "notes": "Major in-group concept"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "You know how it is",
+      "type": "phrase",
+      "translation": "In-group acknowledgment of shared racial experience",
+      "status_signal": "Standard in-group framing",
+      "notes": "Common phrase"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "I had to code-switch all day",
+      "type": "phrase",
+      "translation": "Performed cultural labor of shifting linguistic registers",
+      "status_signal": "Standard Black professional experience",
+      "notes": "Common in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's a real one",
+      "type": "phrase about a woman",
+      "translation": "She's an authentic Black community member",
+      "status_signal": "Standard cultural-authenticity framing",
+      "notes": "Common in-group approval"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He's not for us",
+      "type": "phrase about a man",
+      "translation": "He doesn't represent or understand Black community",
+      "status_signal": "Standard cultural-belonging judgment",
+      "notes": "Watch who he applies this to"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He doesn't get the culture",
+      "type": "phrase about a person",
+      "translation": "Same as he's not for us — lacks Black-cultural fluency",
+      "status_signal": "Standard cultural-belonging framing",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Going up top",
+      "type": "phrase",
+      "translation": "Going to Martha's Vineyard specifically",
+      "status_signal": "Direct Black Vineyard tradition signal",
+      "notes": "Specific in-group phrasing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "We summered up top",
+      "type": "phrase",
+      "translation": "Family vacationed at the Vineyard",
+      "status_signal": "Direct Black professional class marker",
+      "notes": "Specific in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She did debutante",
+      "type": "phrase about a woman",
+      "translation": "She participated in a formal debutante ball — usually Links cotillion or similar",
+      "status_signal": "Specific Black social-elite ritual signal",
+      "notes": "Specific class marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Fair-skinned / lightskinned",
+      "type": "vocabulary",
+      "translation": "Lighter skin color — operates as social shorthand in some Black professional circles",
+      "status_signal": "Carries class-and-status implications in some circles which is harmful but operating",
+      "notes": "Colorism marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Dark-skinned",
+      "type": "vocabulary",
+      "translation": "Darker skin color — operates as social shorthand",
+      "status_signal": "Carries different class-and-status implications which is harmful but operating",
+      "notes": "Colorism marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's pretty for a dark-skinned girl",
+      "type": "phrase about a woman",
+      "translation": "Direct colorist statement — qualifies beauty by skin tone",
+      "status_signal": "Direct colorism deployment",
+      "notes": "Heavily wounding pattern"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Good hair",
+      "type": "vocabulary",
+      "translation": "Hair texture perceived as closer to non-Black hair — operates as colorist shorthand",
+      "status_signal": "Colorism and texturism marker which is harmful but operating",
+      "notes": "Specific colorism term"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Natural hair",
+      "type": "lifestyle marker",
+      "translation": "Unrelaxed unprocessed hair",
+      "status_signal": "Often signals newer pride orientation or specific generation",
+      "notes": "Specific identity marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Relaxed hair / straight hair",
+      "type": "lifestyle marker",
+      "translation": "Chemically straightened hair",
+      "status_signal": "Often signals older respectability tradition or specific community expectations",
+      "notes": "Specific identity marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Locs / sisterlocs",
+      "type": "lifestyle marker",
+      "translation": "Specific natural hair style",
+      "status_signal": "Specific identity marker often pride-orientation",
+      "notes": "Specific hair style"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The big chop",
+      "type": "phrase",
+      "translation": "Cutting off relaxed hair to transition to natural",
+      "status_signal": "Specific transition narrative",
+      "notes": "Common transition framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "You know what I mean",
+      "type": "phrase",
+      "translation": "In-group acknowledgment of shared racial experience without naming it",
+      "status_signal": "Standard in-group framing",
+      "notes": "Common in-group shorthand"
+    }
+  ]
+}

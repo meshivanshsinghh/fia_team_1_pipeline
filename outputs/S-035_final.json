@@ -1,0 +1,422 @@
+{
+  "scenario_id": "S-035",
+  "player_type": "Adrenaline Ainsley",
+  "scenario": {
+    "scenario_id": "S-035",
+    "architecture_name": "He uses excitement and “just live” spontaneity to make her the calm one who keeps up, pays attention, and absorbs the fallout.",
+    "culture": "Old-Money WASP",
+    "demographics": "Young adult Irish woman, dating a British man; relationship status: newly dating",
+    "cultural_context": "University student in literature studies; social sphere centered on Irish heritage and cross-cultural dating",
+    "geographic_setting": "Dublin, Ireland; university and traditional Irish pub setting",
+    "core_behaviors": [
+      "Pitches recklessness as aliveness and romance",
+      "Makes her feel chosen for being willing to keep up",
+      "Turns her caution into the boring role",
+      "Uses surprise plans and big gestures to create debt"
+    ],
+    "satellite_signals": "University-literature setting; Irish pub and cross-cultural dating; British software engineer confidence; old-money register appears through polished, understated status language and quiet class sorting.",
+    "dismissible_red_flags": "At this stage it can read as fun chemistry, teasing, and a man trying hard to impress her. His restlessness looks like charm, not a pattern yet, and her own hesitation feels easy to excuse as overthinking.",
+    "scenario_text": "I’ve only been seeing him a few weeks, so maybe this is just what it feels like when someone is genuinely excited about you. He’s British, older than most of the lads I know at university, and works in software, which means he talks about everything like it can be solved if you just move fast enough. Last night he turned up outside my flat with no real plan, just this grin, saying he’d found “the good kind of trouble” for us. We ended up at a pub near Trinity, then wandering around because he decided the night wasn’t finished yet. He kept saying, “Come on, you’re not one of those people who likes a quiet life, are you?” and I laughed because, honestly, I do like a bit of noise when I’m with the right person. He bought the drinks, then the chips, then told the barman to keep the change as if that was all perfectly natural. When I mentioned I had an early lecture, he kissed my forehead and said, “You’ll survive. I just want you to feel alive with me.” It was sweet, and a little ridiculous, but in a nice way. He says things like that so easily, like life is meant to be grabbed rather than planned. And I do like that he’s not fussy or timid. It’s part of why he feels so easy to be around, even when he’s dragging me from one thing to the next. I’m not worried exactly. I just noticed I was the one checking the time and he was the one deciding we had to keep going. Was I being boring when I said I needed to head home?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing him a few weeks",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already normalizing the imbalance as “just early days.” That softens the significance of what she is noticing and keeps her from naming a pattern.",
+      "snippet_id": "S-035-SN0001"
+    },
+    {
+      "quote": "He’s British, older than most of the lads I know at university",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places him as older and a bit outside her peer group, which quietly gives him more confidence in the interaction. The age and status difference is small, but it matters.",
+      "snippet_id": "S-035-SN0002"
+    },
+    {
+      "quote": "works in software",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A plain class-and-profession marker. It also helps explain his fast, solution-minded style without making him sound overtly controlling.",
+      "snippet_id": "S-035-SN0003"
+    },
+    {
+      "quote": "talks about everything like it can be solved if you just move fast enough",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He treats speed as wisdom and frames hesitation as a problem. That can feel energetic at first, but it sets up a world where her slower pace looks like a flaw.",
+      "snippet_id": "S-035-SN0004"
+    },
+    {
+      "quote": "turned up outside my flat with no real plan",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Showing up without planning is romantic on the surface, but it also signals that he expects access and flexibility from her without having to coordinate much.",
+      "snippet_id": "S-035-SN0005"
+    },
+    {
+      "quote": "the good kind of trouble",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Psychopathy / Terror"
+      ],
+      "reasoning": "This is the kind of phrase that makes recklessness sound charming. It glamorizes risk before any cost has shown up.",
+      "snippet_id": "S-035-SN0006"
+    },
+    {
+      "quote": "a pub near Trinity",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A concrete local setting that grounds the scene in Dublin and keeps the relationship socially ordinary rather than dramatic.",
+      "snippet_id": "S-035-SN0007"
+    },
+    {
+      "quote": "the night wasn’t finished yet",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He refuses to let the evening settle. That keeps her in motion and makes his appetite the thing the night has to obey.",
+      "snippet_id": "S-035-SN0008"
+    },
+    {
+      "quote": "you’re not one of those people who likes a quiet life, are you?",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a soft challenge disguised as banter. He is sorting her into the right kind of woman before she has a chance to define herself.",
+      "snippet_id": "S-035-SN0009"
+    },
+    {
+      "quote": "I do like a bit of noise when I’m with the right person",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already adapting to his frame and trying to make her own preference sound compatible with his. That’s a small self-edit.",
+      "snippet_id": "S-035-SN0010"
+    },
+    {
+      "quote": "He bought the drinks, then the chips",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The sequence matters. He is paying, which is kind, but it also starts a little debt ledger where she may feel she owes him ease and gratitude.",
+      "snippet_id": "S-035-SN0011"
+    },
+    {
+      "quote": "told the barman to keep the change",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A showy tip can be generous, but here it also performs ease and status. It makes him the one who gets to be casually magnanimous in public.",
+      "snippet_id": "S-035-SN0012"
+    },
+    {
+      "quote": "as if that was all perfectly natural",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Her phrasing shows a tiny wobble. She is noticing the performance, but she smooths it over by treating it as normal and not worth naming.",
+      "snippet_id": "S-035-SN0013"
+    },
+    {
+      "quote": "I had an early lecture",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a small, ordinary responsibility that should matter. It marks the first place where his momentum starts to collide with her actual schedule.",
+      "snippet_id": "S-035-SN0014"
+    },
+    {
+      "quote": "You’ll survive",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds playful, but it dismisses her boundary and reframes her need to leave as something minor he gets to override.",
+      "snippet_id": "S-035-SN0015"
+    },
+    {
+      "quote": "I just want you to feel alive with me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Intensity-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest version of his pitch. He casts himself as the source of aliveness, which makes her job to stay energized for him instead of simply being herself.",
+      "snippet_id": "S-035-SN0016"
+    },
+    {
+      "quote": "It was sweet, and a little ridiculous",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She can feel the oddness, but she immediately wraps it in charm. That’s the rationalizing move that keeps the discomfort small.",
+      "snippet_id": "S-035-SN0017"
+    },
+    {
+      "quote": "life is meant to be grabbed rather than planned",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a philosophy, but it also becomes a rule for the relationship. Planning starts to look timid, and his impulses become the standard.",
+      "snippet_id": "S-035-SN0018"
+    },
+    {
+      "quote": "he’s not fussy or timid",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is praising the exact traits that will later make it harder to object. It frames his lack of restraint as polished confidence.",
+      "snippet_id": "S-035-SN0019"
+    },
+    {
+      "quote": "dragging me from one thing to the next",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the structural beat. He is moving the scene, not sharing it, and she is already being carried along by his pace.",
+      "snippet_id": "S-035-SN0020"
+    },
+    {
+      "quote": "I was the one checking the time",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices the asymmetry in a quiet way. She is the one monitoring reality while he keeps the momentum going.",
+      "snippet_id": "S-035-SN0021"
+    },
+    {
+      "quote": "Was I being boring when I said I needed to head home?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the real question underneath everything. She is not asking whether he was too much, only whether her reasonable limit made her the wrong kind of girl.",
+      "snippet_id": "S-035-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

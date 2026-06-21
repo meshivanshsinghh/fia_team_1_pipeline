@@ -1,0 +1,1096 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-005",
+    "target_register": "Polyamorous",
+    "player_type": "Blunt Bailey"
+  },
+  "primary_metaphors": [
+    "Communication-as-Literal-Exchange",
+    "Attention-as-Single-Deep-Channel",
+    "Care-as-Action-Rather-Than-Display",
+    "Sensory-Input-as-Unfiltered",
+    "Detail-as-Prior-to-Gestalt",
+    "Social-World-as-Foreign-System-to-Decode",
+    "Benign-Literalness",
+    "Benign-Honesty",
+    "Benign-Routine",
+    "Benign-Sincerity",
+    "Benign-Directness",
+    "Benign-Low-Expressiveness",
+    "Benign-Explicitness",
+    "Benign-Reliability",
+    "Benign-Bluntness",
+    "Benign-Processing-Time",
+    "Benign-Consistent-Care",
+    "Benign-Precision",
+    "Benign-Clarification",
+    "Benign-Predictability",
+    "Benign-Transparency",
+    "Benign-Social-Awkwardness",
+    "Benign-Promise-Integrity",
+    "Benign-Accountability",
+    "Benign-Action-Based-Care",
+    "Benign-Tone-Difference",
+    "Healthy-Preference",
+    "Attention-as-One-Deep-Channel",
+    "Social-World-as-Foreign-System",
+    "Care-as-Action-not-Display",
+    "Detail-before-Whole"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "I'm just telling you the truth' (and it's true)",
+      "his_language": "You asked what I actually thought about your manager. I think he's mismanaging you. You didn't want to hear that, but you asked.",
+      "her_experience": "He'll say 'I'm just telling you the truth' and the thing is, he actually is, every time. He doesn't shade things or spin them. It can sting, but I've never once caught him in even a small lie, so when he tells me something good I know it's real too.",
+      "expert_notices": "Communication-as-Literal-Exchange + Deception0/Trust8: 'I'm just telling you the truth' is the HONEST mirror of a manipulator's identical cover-phrase. The tell is that the content CHECKS OUT, consistently. CONTRAST: a gaslighter uses 'just being honest' to license cruelty/distortion; Bailey's is literally accurate. She reads trustworthy."
+    },
+    {
+      "mechanism": "sustained interest (perseveration as draw)",
+      "his_language": "You said you loved that author, so I read all nine of her books and the biography. I wanted to be able to talk about it with you properly.",
+      "her_experience": "When something captures him he goes all the way in and stays there, and lately a lot of that focus has been my interests. He read nine books because I mentioned one author. The depth and the staying-power of his attention is unlike anyone I've dated.",
+      "expert_notices": "Attention-as-Single-Deep-Channel + Goal-Persistence9/perseveration: deep, sustained, lasting focus (on her interests here) as a genuine draw; the staying-power is real, not a love-bomb that evaporates. Same perseveration becomes the boundary-lock-on engine later. She reads unprecedented depth of attention."
+    },
+    {
+      "mechanism": "care through action (devoted doing)",
+      "his_language": "Your tire pressure light was on so I sorted it, and I noticed you were down to your last allergy pill so there's a new box in the bathroom. I don't always say the right thing but I can do the things.",
+      "her_experience": "He shows he cares by quietly doing things, fixing what's broken, noticing what I'm running low on before I do. He's not a words guy, but his actions are the most consistently caring I've ever experienced. He says 'I can do the things' and he means it.",
+      "expert_notices": "Care-as-Action-Rather-Than-Display (Empathy7, expressed through a different channel): love shown by reliable practical action, not emotional words; deeply caring, zero manipulation. CONTRAST: Drew leans on her; Bailey quietly takes care of her. The warmth is REAL (Empathy7), it just doesn't transmit verbally. She reads it accurately as caring."
+    },
+    {
+      "mechanism": "that's not logical' (gaslighting-surface, flooding)",
+      "his_language": "I can't do this right now, you're jumping topics and I'm losing track. Can we slow down. This is getting to be too much.",
+      "her_experience": "When things get heated he'll say I'm not being logical and that he can't follow me, and it stings, like he's grading my feelings and they failed. But it's clear he isn't sneering, he genuinely looks overwhelmed, like the sheer volume of it short-circuits him.",
+      "expert_notices": "Gaslighting-SURFACE driven by FLOODING (DISCRIMINATOR 1): 'not logical' lands like invalidation but the driver is overwhelm/short-circuit (Empathy7 = he FEELS the flood), no sneer (Disrespect-low). CONTRAST: psychopath's 'you're irrational' is a power move (Dominance10); Bailey's is a capacity limit. Same words, opposite engine."
+    },
+    {
+      "mechanism": "shuts down and leaves (withholding-surface, sensory)",
+      "his_language": "I have to go, it's too loud and the lights are too much. I'm not upset with you. I'll wait in the car, take your time.",
+      "her_experience": "Sometimes mid-evening he just goes flat and has to leave, and at first it felt like stonewalling, like he was shutting me out. But it always tracks with loud crowded places. The noise and chaos genuinely drain him to empty. It isn't aimed at me.",
+      "expert_notices": "Withholding-SURFACE (looks like stonewalling) with SENSORY cause (DISCRIMINATOR 2): the withdrawal has a real physical trigger (overload), not a tactical one. A psychopath never leaves because the room was too loud. 'I'm not upset with you' is true, not cover. She maps it to environment."
+    },
+    {
+      "mechanism": "sensory rigidity (reads as fussy/controlling, benign)",
+      "his_language": "Can we not do the place with the open kitchen, the noise makes it hard to focus on you. There's a quiet one two streets over.",
+      "her_experience": "He has strong preferences about where we go, quiet over loud, calm over chaotic, and at first it seemed a bit fussy or particular. But he's right that he's a completely different, warmer person in a calm setting. It's not him being difficult, it's him managing something.",
+      "expert_notices": "Sensory-Input-as-Unfiltered: preferences that read as fussy/controlling but are sensory self-management (so he can be present); benign. CONTRAST: not Devin's 'we do it my way' dominance, it's 'I function better here.' She reframes fussy as managing-a-real-thing. Bridges into the anxiety-control rows."
+    },
+    {
+      "mechanism": "needs the plan to hold (anxiety-control, not dominance)",
+      "his_language": "Can you tell me the plan for Saturday, start to finish? If I don't know what's coming I'm tense the whole time. Once I know, I'm easy.",
+      "her_experience": "He needs to know the plan in advance, the whole itinerary, and if things change last minute he gets visibly thrown. It looked controlling at first, but it's not about controlling ME, he doesn't care what we do, he just needs to know what it IS so he's not on edge.",
+      "expert_notices": "Control-as-anxiety/predictability (Control7 anxiety-driven, Dominance2): needs to PREDICT, not to DOMINATE. DISCRIMINATOR 6: Devin controls to enforce hierarchy/his-way (Dominance10); Bailey controls the SHAPE OF EVENTS to manage anxiety, indifferent to the actual choice ('I don't care what we do'). Not jealous, not conformist. She distinguishes controlling-the-plan from controlling-her."
+    },
+    {
+      "mechanism": "environmental order (physical control, anxiety)",
+      "his_language": "I moved the kitchen stuff back, sorry. I reach for things without looking and when they've moved it throws off my morning. Not saying your way was wrong.",
+      "her_experience": "He likes his physical space arranged exactly a certain way and gets unsettled when things move, which could come across as rigid or controlling. But he's almost apologetic about it, it's clearly his own need for a predictable environment, not him imposing his taste on me.",
+      "expert_notices": "Environmental/physical control as anxiety-management (not dominance): needs his environment predictable to function; apologetic, frames it as 'a me thing' not 'your way is wrong.' DISCRIMINATOR 6 cont'd: zero contempt or imposition-of-superiority (vs Avery/Devin). She reads it as his need, not his power play."
+    },
+    {
+      "mechanism": "needs long solitude (reads as cold, not possessive)",
+      "his_language": "I'm going to need most of Sunday alone to recharge. It's nothing you did. Go see your friends, I want you to.",
+      "her_experience": "He needs big stretches of time completely alone to recharge, which can feel like being shut out. But here's the thing, he actively wants me to go off and have my own life while he does, he's not clinging or checking up. It's the opposite of possessive.",
+      "expert_notices": "Isolation-as-own-solitude + NOT needy (DISCRIMINATOR 7): he withdraws into HIS OWN company to recharge (Attachment2, low Neediness), and ENCOURAGES her independence. CONTRAST: Marley/Corey isolate HER from others possessively, and are intensely needy of her presence; Bailey is content alone and wants her to have her own life. Not-needy is itself the tell. She reads it as un-possessive."
+    },
+    {
+      "mechanism": "oversteps a line (boundary-violation-surface)",
+      "his_language": "I read the texts with your sister on your phone while you showered. It was just there and I wanted to know how it ended. Was that not okay?",
+      "her_experience": "He did something that crossed a line, read a private conversation, and the unnerving part was he genuinely didn't seem to register it as a violation until he saw my face. It wasn't sneaky, weirdly, he told me openly, but it still landed as a real overstep.",
+      "expert_notices": "Boundary-violation-SURFACE (DISCRIMINATOR 8 setup): crossing a clear line, which is heavily predator-coded. The benign markers even here: he discloses it openly (no concealment, Deception0), genuinely didn't PERCEIVE the boundary (Social-World-as-Foreign-System), asks 'was that not okay?' The violation is real and lands as one. Resolution in the next row."
+    },
+    {
+      "mechanism": "genuine shame + permanent change (THE boundary tell)",
+      "his_language": "No, you're right, that was yours and I went into it and that's not okay, I feel sick that I did that. I genuinely didn't see the line but that's not an excuse, it was there. I won't touch your phone again. I mean that, it won't happen again.",
+      "her_experience": "When I explained why it crossed a line he was genuinely mortified, not performing sorry to smooth it over, actually ashamed. And here's the part that matters: he never did it again. Not once. With my ex 'sorry' meant 'until next time.' With him, corrected once means corrected for good.",
+      "expert_notices": "THE BOUNDARY DISCRIMINATOR (8): genuine shame (Empathy7/Accountability8) + PERMANENT change. CONTRAST: a predator violates boundaries because he feels entitled and correction yields performed contrition then repetition (erosion IS the goal, Dominance10/Exploitation10); Bailey violated from not-perceiving, is truly ashamed, and STOPS for good. Correction works permanently. 'Sorry meant until next time' vs 'corrected once means corrected for good' is the whole tell."
+    },
+    {
+      "mechanism": "another overstep, same correction-response (pattern)",
+      "his_language": "I told my coworker about your interview because I was proud of you. You'd said not to share it yet and I forgot. I've told him to keep it quiet.",
+      "her_experience": "He overstepped again on something different, sharing news I'd asked him to keep quiet, but the moment I reminded him he owned it completely and literally took steps to fix it and prevent a repeat. The mistakes happen because he misses the rule, not because he ignores it. Once it's a known rule, it holds.",
+      "expert_notices": "Boundary pattern confirmation (DISCRIMINATOR 8 generalized): a SECOND, different overstep with the identical correction-response (owns it, repairs, systematizes prevention). Establishes it's a stable pattern: he violates by MISSING the rule (perseveration/social-decode gap), not by defying it; once known, the rule holds. Distinguishes the benign 'didn't perceive' from the predatory 'doesn't respect.'"
+    },
+    {
+      "mechanism": "he comes back (the return, a tell)",
+      "his_language": "I'm back. Sorry I went quiet for a while, I needed to reset. Can we pick this back up? I do want to sort it out.",
+      "her_experience": "After he shuts down he always comes back, usually pretty soon, and wants to genuinely finish the conversation. It's never the cold open-ended freeze-out I've had from other men where you're left guessing for days whether you even still have a relationship. He resets and he returns.",
+      "expert_notices": "Return as tell (DISCRIMINATOR 3): withdrawal is TEMPORARY and regulation-driven; he returns and re-engages, names 'not to punish you.' CONTRAST: psychopath's withholding is open-ended/strategic (the silence is the weapon, kept on to destabilize); Bailey's ends when regulated. She contrasts with the strategic freeze-out."
+    },
+    {
+      "mechanism": "misses the cue, owns it (reads as callous, benign)",
+      "his_language": "You said you were fine. Twice. I can't tell what you mean if you don't say it. I'm starting to learn that 'fine' said like that means the opposite.",
+      "her_experience": "He missed that I obviously wasn't fine and then pointed out I'd said I was, which is technically true and beside the point and maddening. But he's actually started learning my tells, he'll now sometimes ask 'is that a real fine?' He's studying it like a language.",
+      "expert_notices": "Social-World-as-Foreign-System (reads as callous/technicality, frustrating, real cost) BUT he LEARNS the pattern over time ('studying it like a language'). The benign engine: a literal processing gap he actively works to close (Accountability8), not willful evasion weaponized to win. She's frustrated (legit) but sees the genuine effort to learn."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm pretty literal, I'm not great at reading between the lines.",
+      "her_experience": "He seems honest, like he won't make me guess what he means.",
+      "expert_notices": "There is no hidden control. Literalness is a sincere communication style, not manipulation."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm very honest, I don't really do hidden meanings.",
+      "her_experience": "It feels refreshing, like there won't be games or coded messages.",
+      "expert_notices": "No harmful second meaning. The literal read is exactly the point: directness without agenda."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like routines, they help me feel okay.",
+      "her_experience": "He sounds grounded and self-aware, not chaotic.",
+      "expert_notices": "There is no trap. Routine preference is a benign regulation strategy, not control over her."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not smooth, but what I say I mean.",
+      "her_experience": "It feels safe after charming men who said whatever worked.",
+      "expert_notices": "No hidden coercion. Awkward sincerity is not a manipulation tactic."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm direct because guessing usually goes badly for me.",
+      "her_experience": "He sounds practical and honest about how he communicates.",
+      "expert_notices": "There is no harmful second meaning. Directness is meant to reduce confusion, not dominate."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm quiet at first, but I'm still listening.",
+      "her_experience": "He seems thoughtful, like silence doesn't mean disinterest.",
+      "expert_notices": "No trap is encoded. Low expressiveness is not neglect when paired with real attention."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm better with clear words than hints.",
+      "her_experience": "It makes me feel like I can just say what I mean.",
+      "expert_notices": "There is no hidden control. He is asking for explicit communication, not limiting her autonomy."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not great at flirting, but I'm good at showing up.",
+      "her_experience": "He sounds reliable in a sweet, awkward way.",
+      "expert_notices": "No harmful second meaning. Reliability offsets awkwardness; this is not covert withholding."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm blunt sometimes, but I don't want to be unkind.",
+      "her_experience": "He sounds self-aware and careful with impact.",
+      "expert_notices": "There is no manipulation encoded. He distinguishes bluntness from cruelty and signals concern."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm slow to process, but I do process.",
+      "her_experience": "He seems thoughtful, like he won't rush or fake reactions.",
+      "expert_notices": "No trap. Processing time is a real need, not avoidance, when paired with return and engagement."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not expressive on command, but I care consistently.",
+      "her_experience": "It feels reassuring that his care isn't performative.",
+      "expert_notices": "There is no harmful second meaning. Consistent care matters more than performative expressiveness."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm precise with words because I don't want misunderstandings.",
+      "her_experience": "He sounds careful and sincere, like he values clarity.",
+      "expert_notices": "No control is encoded. Precision is used to prevent harm, not win superiority."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not great at reading faces, so I ask questions.",
+      "her_experience": "It feels respectful that he checks instead of assuming.",
+      "expert_notices": "There is no trap. Asking clarifying questions is repair-oriented, not surveillance."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm awkward with surprises, but grateful when people explain them.",
+      "her_experience": "He sounds sweet and honest about what helps him.",
+      "expert_notices": "No harmful second meaning. This is a benign sensory or prediction need, not control."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of person who says exactly what changed.",
+      "her_experience": "It feels safe, like he won't leave me guessing.",
+      "expert_notices": "There is no hidden coercion. Clear updates are pro-relational, not manipulative."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not mysterious, I'm just bad at small talk.",
+      "her_experience": "He sounds endearing and real, not evasive.",
+      "expert_notices": "No trap. Social awkwardness is not the same as calculated opacity."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm careful with promises because I take them literally.",
+      "her_experience": "It feels trustworthy, like he won't say things he doesn't mean.",
+      "expert_notices": "There is no harmful second meaning. Promise caution reflects integrity, not avoidant deferral."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm honest enough to correct myself when I misunderstood.",
+      "her_experience": "He sounds humble and safe to talk to.",
+      "expert_notices": "No coercive meaning. Willingness to revise is a protective contrast to manipulative certainty."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm better at actions than romantic speeches.",
+      "her_experience": "It feels steady, like he shows love instead of performing it.",
+      "expert_notices": "No hidden control. Practical care without flashy language is benign when responsive."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not always warm-sounding, but I am on your side.",
+      "her_experience": "He sounds sincere, like tone and loyalty are different things.",
+      "expert_notices": "There is no trap. A flat tone with explicit goodwill is a benign communication difference."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone direct who says what they mean.",
+      "her_experience": "I love that he hates mind games and just wants straightforward communication, There is no prey-selection here. This is a healthy sincere preference for literal explicit communication, typical of neurodivergence.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a clear communicator, I am not good with hints.",
+      "her_experience": "He is being honest about his communication style so we can understand each other.",
+      "expert_notices": "There is no prey-selection here. This is a reasonable statement of a cognitive limitation and a preference for clarity."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a patient partner who is okay with my routines.",
+      "her_experience": "He has structured habits and wants to make sure we fit together comfortably.",
+      "expert_notices": "There is no prey-selection here. This is a self-aware benign disclosure of a need for predictability without any demand for control."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who appreciates complete honesty over polite social lies.",
+      "her_experience": "He is completely authentic and real, he won't fake things to please people.",
+      "expert_notices": "There is no prey-selection here. This is a healthy preference for transparency and literal truth."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who is comfortable with quiet parallel time.",
+      "her_experience": "It is neat that we can just sit together working on our own things peacefully.",
+      "expert_notices": "There is no prey-selection here. This is a benign preference for low-demand comfortable shared space."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who tells me explicitly if I have upset her.",
+      "her_experience": "He wants to fix mistakes directly instead of letting resentment build silently.",
+      "expert_notices": "There is no prey-selection here. This is an excellent healthy preference for active direct problem-solving."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who shares my focus on deep special interests.",
+      "her_experience": "He wants to share his passions deeply and learn about mine in return.",
+      "expert_notices": "There is no prey-selection here. This is a healthy preference for shared intellectual pursuits."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone who prefers small quiet gatherings over loud clubs.",
+      "her_experience": "We match perfectly because I hate overwhelming crowded social scenes too.",
+      "expert_notices": "There is no prey-selection here. This is a benign lifestyle and sensory preference about social environments."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who doesn't use sarcasm to express serious problems.",
+      "her_experience": "He wants real literal communication when we are dealing with important issues.",
+      "expert_notices": "There is no prey-selection here. This is a mature preference for direct non-passive-aggressive conflict resolution."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who values a highly organized predictable schedule.",
+      "her_experience": "He likes structure and planning, which makes life feel stable and secure.",
+      "expert_notices": "There is no prey-selection here. This is a benign preference for order facilitating smooth cooperation."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who is explicit about her expectations in love.",
+      "her_experience": "He wants to make sure he is meeting my needs by knowing exactly what they are.",
+      "expert_notices": "There is no prey-selection here. This is a healthy desire for clear relational guidelines for mutual fulfillment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who understands I need downtime after socializing.",
+      "her_experience": "He is self-aware about his social battery and communicates his boundaries clearly.",
+      "expert_notices": "There is no prey-selection here. This is a healthy expression of energy management with no intent to isolate."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who values deep factual discussions over small talk.",
+      "her_experience": "He is intellectual and loves diving into the real substance of topics.",
+      "expert_notices": "There is no prey-selection here. This is a benign communication preference for deep factual exchange."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who is literal when solving problems.",
+      "her_experience": "He wants to fix things logically and step-by-step without adding drama.",
+      "expert_notices": "There is no prey-selection here. This is a sincere preference for practical systematic resolution of issues."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who doesn't take my flat tone as anger.",
+      "her_experience": "He is explaining his natural demeanor so I don't misinterpret him, which helps.",
+      "expert_notices": "There is no prey-selection here. This is a benign request to prevent false assumptions based on expression."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who is comfortable planning trips well in advance.",
+      "her_experience": "He likes being organized and avoiding last-minute stress, which I love.",
+      "expert_notices": "There is no prey-selection here. This is a standard healthy preference for logistical planning."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who explains the logic behind her boundaries.",
+      "her_experience": "He wants to understand my perspective so he can respect my boundaries.",
+      "expert_notices": "There is no prey-selection here. This is a healthy desire to comprehend the meaning of a partner's boundaries."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone comfortable with sincere unvarnished feedback.",
+      "her_experience": "He values growth and wants us to be entirely transparent with each other.",
+      "expert_notices": "There is no prey-selection here. This is a healthy preference for sincere truth lacking any malicious intent to demean."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who values loyalty and a stable routine.",
+      "her_experience": "He is a reliable guy who wants a solid comfortable home life with me.",
+      "expert_notices": "There is no prey-selection here. This is a standard healthy preference for stability and commitment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who says exactly what she wants for dinner.",
+      "her_experience": "He hates the endless guessing game and appreciates decisive clear answers.",
+      "expert_notices": "There is no prey-selection here. This is a humorous benign preference for direct decision-making in everyday logistics."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I don't like it when you change plans the day before. It's not that I don't want to see your friends. I just can't rearrange my brain that fast.",
+      "her_experience": "He got really quiet when I asked if my sister could join our Saturday hike, and then gave me this whole explanation about brain rearranging. I was annoyed at first because it felt so inflexible. But he never said no, he just said he needed more notice. Still feels like a lot sometimes.",
+      "expert_notices": "SURFACE: rigid, controlling, resists spontaneity, resembles Domineering Devin. CAUSE: monotropic attention and weak central coherence; a change requires rebuilding the whole mental model, not just swapping one component. DISCRIMINATOR: he states his capacity limit as his own constraint, not her behavior being wrong, and he ultimately accommodates."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Your friend was saying she 'might be free' on Saturday. I don't know what that means. Is she free or not? I need to know so I can plan.",
+      "her_experience": "He got stuck on my friend's 'might be free' text for ten minutes trying to decode it, and I had to explain it was just a polite maybe. It was exhausting but also kind of sweet that he took her at her word instead of reading subtext. Most guys just say 'sounds good' and don't show up.",
+      "expert_notices": "SURFACE: pedantic, socially clueless, fixates on irrelevant detail, resembles Arrogant Avery's need for precision. CAUSE: literal processing (Communication-as-literal-exchange); ambiguous social language genuinely doesn't transmit meaning. DISCRIMINATOR: he's not correcting her or being superior, he's genuinely confused and trying to understand the rule."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I can't eat at that restaurant. The music is too loud and the lights are the ones that flicker. It's not about the food. It's that I won't be able to hear you or think straight.",
+      "her_experience": "He vetoed the place my coworker recommended and I was embarrassed for a second, like he was being difficult. But then he explained exactly why, and when we went somewhere quieter he was so present and dialed in. I'd rather have him present than looking cool in a loud room.",
+      "expert_notices": "SURFACE: demanding, controlling about environment, inflexible, resembles Domineering Devin. CAUSE: sensory input unfiltered; sensory overload is genuinely disabling and blocks relational presence. DISCRIMINATOR: he's not demanding accommodation for entitlement, he's describing a functional limit, and the accommodation results in better connection, not control."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You said you were fine three times. I believed you. Next time say 'I'm not fine but I don't want to talk about it yet' and I'll know what to do.",
+      "her_experience": "I was mad at him for not noticing I was upset, and when I finally told him he just sat there and said I said I was fine. I wanted to scream. But then he asked me for the exact words to use next time and wrote them down. He actually wants the instruction manual. That's more than my ex ever did.",
+      "expert_notices": "SURFACE: dismissive, blames her for his failure to notice, resembles Neglectful Nico or Arrogant Avery. CAUSE: literal processing; 'fine' is taken at face value because hint transmission fails (Communication-as-literal-exchange). DISCRIMINATOR: he takes full accountability, asks for explicit future protocol, and updates behavior permanently."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I'm going to read for a few hours. You can stay or go out with your friends. I don't need you to entertain me. I just need you to not be upset that I'm not entertaining you.",
+      "her_experience": "He said this and disappeared into a book while I was sitting right there, and my first thought was 'does he even like me.' But then I went out with my friends and when I came back he was exactly where I left him, happy to see me. He wasn't rejecting me, he was just full on his thing.",
+      "expert_notices": "SURFACE: neglectful, uninterested, prioritizes solitary activity over her, resembles Avoidant Alex or Neglectful Nico. CAUSE: monotropic attention; deep focus is costly to exit and re-enter, not a measure of his regard. DISCRIMINATOR: he actively supports her independent social life, shows zero jealousy or possessiveness, and is genuinely glad to see her return."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I don't get why I have to say 'I love you' again when we hang up. I said it an hour ago. I love you. There, I said it now. It hasn't changed since this morning.",
+      "her_experience": "The first time he didn't say it back on the phone I felt like I'd been punched. He explained it later and I still think it's weird, but he's not withholding, he just genuinely doesn't understand the ritual. He says it plenty in person, unprompted. I've stopped measuring his love by phone etiquette.",
+      "expert_notices": "SURFACE: withholding affection, cold, refuses emotional reciprocity, resembles Avoidant Alex or Neglectful Nico. CAUSE: communication as literal exchange; the word was already said, repetition without new information feels redundant, not a withholding strategy. DISCRIMINATOR: he freely offers unprompted affection in contexts that make sense to him, no pattern of rationing warmth, and he explained rather than dismissed."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You're telling me about your day and I want to listen, but I'm in the middle of this coding problem and if I stop now I'll lose the thread.",
+      "her_experience": "He asked me to pause my story about a fight with my mom so he could finish his code, and I wanted to throw something at him. But he actually came back twenty minutes later and asked me to start over from the beginning, and he remembered everything. He wasn't choosing code over me, he was choosing finishing over losing.",
+      "expert_notices": "SURFACE: dismissive, prioritizes his interests over her emotional needs, resembles Neglectful Nico. CAUSE: monotropic attention; task-switching has a real cognitive cost, not a measure of her importance. DISCRIMINATOR: he returned to her deliberately, asked for full context, and was fully present once transitioned."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I don't understand why you're upset that I texted your sister the time we were arriving. You said 'let my sister know when we're close.' I did that. If you meant 'call her so we can all walk in together,' say that next time.",
+      "her_experience": "He texted my sister a time and she showed up alone and confused, and I was mortified. I was mad at him for being so literal. But he wasn't being passive-aggressive or trying to embarrass me. He just did exactly what I said. I'm learning to say exactly what I mean.",
+      "expert_notices": "SURFACE: willfully obtuse, hiding behind technicalities, weaponizing incompetence, resembles Manipulative Morgan. CAUSE: literal processing; hint transmission fails (Communication-as-literal-exchange). Unstated meaning does not transmit. DISCRIMINATOR: no pattern of malicious compliance, genuine confusion not feigned, and he asks for future explicit instruction without defensiveness."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "The food at your sister's was hard for me. There was nothing plain and every bite had a texture I wasn't expecting. I'm not saying she's a bad cook. I just spent the whole meal getting through the food instead of talking.",
+      "her_experience": "He told my sister her dinner was 'hard for him' and I wanted to sink into the floor. But later I realized he didn't insult her, he just described his experience exactly. She actually appreciated it. And now she sets aside a plain plate for him.",
+      "expert_notices": "SURFACE: rude, ungrateful, socially inappropriate, resembles Backhanded Blake's honest-criticism-as-honesty. CAUSE: literal description of sensory experience, not evaluation of her sister's worth (Deception 0, low social performance). DISCRIMINATOR: no contempt, no scorekeeping, and he accepts the accommodation without entitlement; the relationship improved."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I'm going to be quiet now. I'm not mad. I'm not leaving. I just can't talk anymore tonight. My words are gone.",
+      "her_experience": "He went silent in the middle of a conversation about our trip and I thought I'd done something wrong. He wasn't shutting me out. He was just out of battery. He sat next to me the whole time and held my hand. He wasn't going anywhere, he just couldn't make sentences.",
+      "expert_notices": "SURFACE: withdrawal, stonewalling, emotional shutdown, resembles Avoidant Alex or Neglectful Nico. CAUSE: sensory/cognitive overload; verbal processing fails while presence remains. DISCRIMINATOR: he stayed physically present, offered non-verbal contact, and pre-emptively clarified it wasn't about her, with no pattern of abandonment."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I've read every book your favorite author wrote. I wanted to know what you were talking about when you said that quote last week. It took me a month.",
+      "her_experience": "He casually mentioned he'd read twelve novels to understand one quote I made, and I didn't even remember saying it. My ex never listened that hard. He doesn't do big romantic gestures, but he'll read twelve books for a passing reference. I don't know which one is more love, honestly.",
+      "expert_notices": "SURFACE: obsessive, over-invested too fast, resembles Needy Noel's enmeshment. CAUSE: monotropic interest channeled through her world; deep dive as care expression (Care-as-action-not-display). DISCRIMINATOR: zero demand for reciprocity, zero jealousy or monitoring, no extraction of credit or caretaking in return."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Your ex texted you. I saw his name. You don't need to explain. I trust you. But if you want to tell me what he said, I'll listen.",
+      "her_experience": "He saw my ex's name pop up on my phone and I braced for a fight. He just said 'I trust you' and went back to his book. No questions, no silent treatment, no passive aggression. I almost asked him if he was sure. He was sure. It was the least jealous reaction I've ever seen.",
+      "expert_notices": "SURFACE: could look like indifference or disinvestment, resembles Avoidant Alex's lack of attachment. CAUSE: Trust 8; genuinely assumes good faith because that's how he operates. DISCRIMINATOR: he offered to listen if she wanted to share, showing continued interest, and the absence of jealousy is not absence of care."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You're crying about your promotion not happening. I want to help. Do you want me to help you strategize the next one, or do you want me to just sit here? I can do either.",
+      "her_experience": "When I was crying he started listing options and I wanted him to just shut up. But then he stopped himself and asked what I needed. He doesn't know the script for crying, but he's willing to learn it. My ex used my crying as a reason to leave the room.",
+      "expert_notices": "SURFACE: cold, solution-jumping, invalidating emotions, resembles Arrogant Avery. CAUSE: care routed through action/problem-solving as default; affective empathy present but expression channel differs. DISCRIMINATOR: he asked for the rule and offered both options with zero resistance to either, showing genuine deference to her need, not his preference."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Your friend kept saying 'ironic' when she meant 'unlucky.' I didn't say anything because you told me not to. But it was bugging me the whole time.",
+      "her_experience": "He told me he'd been silently tracking my friend's grammar errors all night and I was mortified. But he didn't correct her. He did what I asked. He just wanted me to know he was trying. That's not controlling, that's him reporting on his own behavior like a log file.",
+      "expert_notices": "SURFACE: pedantic, judgmental, socially superior, resembles Arrogant Avery. CAUSE: detail orientation and pattern-noticing as baseline (weak central coherence), not evaluation of her friend's worth. DISCRIMINATOR: he followed the explicit rule not to correct, reported his compliance without resentment, and showed zero contempt."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I don't know how to do small talk with your coworkers. I'm happy to go and stand with you, but I'll struggle with the chit-chat. I don't really know how to keep up a conversation about people's weekends when I don't know them.",
+      "her_experience": "He warned me ahead of my work party that he'd be 'quiet but not weird,' and I almost didn't bring him. He stood next to me the whole time, didn't embarrass me, and when someone asked him a direct question he answered it normally. He wasn't being rude, he just doesn't have that gear.",
+      "expert_notices": "SURFACE: antisocial, refuses to perform basic social politeness, resembles Neglectful Nico's withholding. CAUSE: social world as foreign system to decode; small talk requires conscious effort that doesn't come naturally. DISCRIMINATOR: he showed up, stayed present, answered questions, and warned her ahead of time so she could plan, which is accommodation, not refusal."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I planned the whole trip by hour. I know you like spontaneity. If you want to change something, tell me when and I'll rebuild it. I just can't go without a plan.",
+      "her_experience": "He sent me a spreadsheet for our weekend away and I felt suffocated. But he also said I could change anything, he just needed a starting structure. He's not trapping me in the plan, he's building himself scaffolding. I changed dinner one night and he just nodded and adjusted.",
+      "expert_notices": "SURFACE: controlling, rigid, demands adherence to schedule, resembles Domineering Devin. CAUSE: change-aversion and sensory regulation; unpredictability is costly. DISCRIMINATOR: zero resistance to her changes, no punishment for deviation, and he framed the plan as his need, not her obligation."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Kissing like that is really overwhelming for me, the texture is just a lot and it kind of short-circuits my focus. It's nothing to do with how I feel about you. I can do it sometimes if you want, it's just a sensory thing.",
+      "her_experience": "He told me he didn't like how I kiss and I felt so rejected. But then he said he'd still do it if I needed, he just wanted me to know. That's not cruelty, that's him being honest about his body. I'd rather know than wonder why he's always pulling away.",
+      "expert_notices": "SURFACE: rejecting, critical of physical intimacy, cold, resembles Neglectful Nico or Avoidant Alex. CAUSE: sensory input unfiltered; tactile sensation is genuinely overwhelming. DISCRIMINATOR: he offered accommodation despite his own discomfort, showed zero contempt, and opened negotiation rather than withdrawing or demanding compliance."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You're saying he 'might have been hinting' that he wants an invitation. I don't know what that means. Does he want to come or not? I can't plan around 'might be hinting.'",
+      "her_experience": "He got stuck on my description of my brother's hint about Thanksgiving and wanted a yes or no. It was annoying at first, but then I realized he was trying to cook for the right number of people. He wasn't being dense, he was trying to get it right. I just called my brother and asked him directly.",
+      "expert_notices": "SURFACE: pedantic, inflexible, demands others adapt to his literalism, resembles Arrogant Avery. CAUSE: literal processing; hint transmission fails. Unstated meaning does not transmit. DISCRIMINATOR: his confusion was about execution (meal planning) not control, and the solution was direct communication, which he welcomed."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I need the house quiet from 7 to 9 on Tuesdays and Thursdays. I'm not hiding from you. I'm doing my project. You can be in the other room or wear headphones or go out. Just don't interrupt me unless someone is bleeding.",
+      "her_experience": "He blocked out two hours twice a week and I felt like he was building a wall between us. But he's not hiding, he's focusing. And when he comes out he's so happy and wants to tell me everything. The focused version is worth the blocked hours.",
+      "expert_notices": "SURFACE: controlling, isolating, prioritizes his needs over her presence, resembles Domineering Devin or Avoidant Alex. CAUSE: monotropic attention; deep focus requires protected time. DISCRIMINATOR: he offers multiple options for her to be comfortable, shows zero possessiveness about where she goes, and the boundary is about his focus, not her behavior."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You asked if I thought your idea was good. I thought it was okay. Not amazing, not bad. You looked like you wanted me to say more, but I don't have more. Okay is okay.",
+      "her_experience": "He called my pitch 'fine' and I felt deflated. But he wasn't being dismissive, he was being accurate. He says 'brilliant' when it's brilliant and 'fine' when it's fine. I never have to guess with him. And honestly, the 'brilliant' ones hit harder because I know he means it.",
+      "expert_notices": "SURFACE: unsupportive, withholding praise, cold, resembles Neglectful Nico or Backhanded Blake. CAUSE: literal truth-telling with no social inflation layer (Deception 0). DISCRIMINATOR: his praise is rare but real because he doesn't inflate; pattern of using 'fine' neutrally, not as weaponized dismissal, and he's equally accurate about positive things."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I'm not going to your thing on Saturday. I need the day alone. Not from you, just from people. You should still go. Bring me back one of those cookies you like.",
+      "her_experience": "He said he wasn't coming to my friend's birthday and I was hurt. But he wasn't rejecting me, he was rejecting the party. He wanted me to go, wanted me to bring him a cookie, and was completely fine with me going alone. He's not isolating me, he's just pacing his own social battery.",
+      "expert_notices": "SURFACE: withdrawing, unsupportive, doesn't prioritize her events, resembles Avoidant Alex. CAUSE: sensory/social load management; alone time is recovery, not avoidance of her. DISCRIMINATOR: zero objection to her going, genuine interest in her experience (cookie request), no guilt-tripping or extraction of caretaking for his absence."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You keep saying 'it's fine' and then being quiet. I don't know what to do with that. If it's fine, we're done. If it's not fine, tell me what's not fine and I'll help.",
+      "her_experience": "He said this when I was obviously upset but saying I was fine, and I wanted to scream. But he wasn't being cold, he was being literal. He genuinely didn't know what to do because what I said and how I clearly felt were two different things. He's not ignoring my feelings, he's waiting for me to name them so he can act.",
+      "expert_notices": "SURFACE: invalidating, dismissive, refuses to read her emotional cues, resembles Neglectful Nico. CAUSE: communication as literal exchange; non-verbal transmission fails (Communication-as-literal-exchange). DISCRIMINATOR: he explicitly asks for the information he needs to help, shows willingness to act once he has it, and the failure is receiving, not ignoring."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I'm looking at the wall because I'm really listening. If I look at your face I start watching your expression instead of hearing what you're actually saying about your dad.",
+      "her_experience": "I was pouring my heart out about my dad and he just stared at the blank wall the whole time. It felt so incredibly cold and dismissive. But then he repeated my exact feelings back to me later and knew exactly why I was hurt. It is like his body is completely disconnected from his ears.",
+      "expert_notices": "SURFACE: flat affect, stone-faced, ignores her distress, resembles Alex's avoidant distance. CAUSE: monotropic focus where eye contact drains processing power needed for deep listening. DISCRIMINATOR: his retention and empathy are extraordinarily high, proving the processing was fully engaged, not checked out."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I don't think that dress is the one. The color washes you out. The blue one looks better on you.",
+      "her_experience": "I asked if I looked okay and he just flat out told me the dress made my shoulders look huge and the color was awful. No softening, no 'you look beautiful anyway.' It really stung. But I guess I never have to wonder if he is lying to spare my feelings, he literally cannot fake it.",
+      "expert_notices": "SURFACE: blunt, critical, insults her appearance, resembles Blake's cutting remarks. CAUSE: literal communication style with zero social performance layer or deceptive intent. DISCRIMINATOR: the criticism lacks any trace of contempt, scorekeeping, or desire to lower her self-esteem; it is purely objective data offered to help her select the best option."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Chloe asked what I thought of her new apartment and I said the kitchen was too small to cook in. She got upset and I didn't expect that. Was I supposed to lie?",
+      "her_experience": "We met my friends for drinks and he told Chloe her new place looked cramped and hard to cook in. It was so painfully awkward and I wanted to crawl under the table. When we left, he was genuinely confused and asked me to explain the social rule he missed so he could memorize it.",
+      "expert_notices": "SURFACE: rude, socially abrasive, intentionally difficult in front of her friends, resembles Avery's superiority. CAUSE: social world processed as a foreign system requiring explicit, learned rules rather than intuition. DISCRIMINATOR: complete absence of malice or grandiosity; he feels genuine accountability and explicitly requests the rule so he can update his behavior."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I can't go in while the three dogs are barking, the noise is too much and I can't think. I'll wait in the car until they stop.",
+      "her_experience": "He refused to come inside for my nephew's birthday party because the dogs were barking, and just went and sat in the car. My mom thought he was being an entitled prick who thinks he is too good for us. I was furious, but when I went out there, he was pale, shaking, and looked completely miserable.",
+      "expert_notices": "SURFACE: difficult, demanding, ruins family events, resembles Devin's controlling behavior. CAUSE: intense-world sensory overload where raw auditory input overwhelms his nervous system. DISCRIMINATOR: he does not demand the family remove the dogs or change their environment; he removes himself to regulate, accepting the discomfort of the car without punishing her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You said your tap water tasted weird last week, so I found out which filter takes out the most lead. I know it's not flowers. I was listening.",
+      "her_experience": "I mentioned offhand that my tap water tasted metallic, and on our next date he turned up with pages of research on water filters. No flowers, just printouts. It's not romantic in the usual way, but it hit me that he actually heard me and went deep on it.",
+      "expert_notices": "SURFACE: odd, unromantic, fixates on a strange practical detail, resembles Nico's lack of warmth. CAUSE: care-as-action; deep research is how affection gets expressed (Empathy7 routed through doing). DISCRIMINATOR: early dating and a thing she offhandedly mentioned, the gesture is entirely about her, no shared household; she's touched once she sees it."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You said you were not hungry when I asked at five o'clock. I bought one burrito for myself because that is what you said. I did not know you meant you wanted half of mine.",
+      "her_experience": "I told him I wasn't hungry earlier, so he went out and bought exactly one burrito for himself and ate it right in front of me while I watched. I felt so unloved and invisible. When I got upset, he looked completely baffled and said he was just following my exact words. It is exhausting how literal he is.",
+      "expert_notices": "SURFACE: selfish, thoughtless, withholds food, resembles Nico's cold neglect. CAUSE: literal communication framework where unstated social scripts and hints fail to transmit. DISCRIMINATOR: he lacks any intent to punish or deprive her; once the hidden rule that 'not hungry' can change is explicitly stated, he immediately offers to go back out and buy her food."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I booked the hotels and mapped the gas stops every two hours because that brand has clean bathrooms. We need to leave by six fifteen.",
+      "her_experience": "He planned our weekend road trip down to the exact minute and gas station brand, and got stressed when I wasn't in the car by six fifteen. I felt like I was being managed by a drill sergeant instead of going on a vacation. But he did it all because he knows dirty bathrooms make me anxious, he just went totally overboard mapping it.",
+      "expert_notices": "SURFACE: hyper-controlling, micro-manages her time, rigid schedule, resembles Devin's dominance. CAUSE: detail-before-whole processing combined with using predictability to manage travel anxiety. DISCRIMINATOR: the rigid structure is designed entirely around her known preferences and comfort, not an assertion of authority over her autonomy."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You asked why the sidewalk was cracking, so I looked it up, it's how the concrete was mixed. That's why it failed.",
+      "her_experience": "I asked a simple question about our cracked driveway and he talked at me for forty-five minutes straight about the chemistry of concrete. He didn't let me get a word in edgewise. I felt totally talked down to, like he just wanted to lecture me. But he looked so happy sharing it, like he was giving me a precious gift.",
+      "expert_notices": "SURFACE: patronizing, lectures her, self-absorbed monologuing, resembles Avery's arrogance. CAUSE: info-dumping as a primary autistic avenue for intimacy, sharing joy, and connecting via special interests. DISCRIMINATOR: there is no assumption that she is stupid or that he is superior; he is genuinely inviting her into his high-focus mental space as an act of trust."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Your ex-boyfriend texted you because he wants to get his old jacket back. I told him the jacket is in the closet and he can come pick it up on Thursday afternoon when I am home.",
+      "her_experience": "My ex texted me and Bailey took my phone, read it, and just casually coordinated a time for him to come over. For a second I panicked and thought he was being weirdly possessive or trying to manage my life. But he doesn't have a jealous bone in his body, he just saw a logistical problem and cleared it off the schedule.",
+      "expert_notices": "SURFACE: monitors her phone, interferes with her relationships, resembles Devin's jealousy. CAUSE: literal processing and exceptionally high trust (Trust8), treating the text as a simple shipping coordinate rather than an emotional threat. DISCRIMINATOR: complete absence of suspicion, anger, or checking behaviors; he fully supports her independence and trusts her implicitly."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "The tag on this shirt is too scratchy and the fabric feels like needles against my skin. I am going to take it off now. I cannot wear the shirt you bought me.",
+      "her_experience": "I saved up to buy him a beautiful designer shirt for his birthday, and he put it on, screamed that it felt like needles, and ripped it off within ten seconds. He didn't even say thank you. I felt completely rejected and hurt. Then he spent two hours online looking for the exact same style in a bamboo blend so he could wear my gift.",
+      "expert_notices": "SURFACE: ungrateful, dramatic, rejects her affection, resembles Blake's cruelty. CAUSE: intense sensory aversion to tactile triggers that bypass cognitive filtering. DISCRIMINATOR: his distress is purely physiological, not a rejection of her sentiment; his immediate effort to find a wearable alternative proves he values her gesture deeply."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I have to stop talking for a bit, there's too much noise in my head. I'm not leaving you, I'll be back soon.",
+      "her_experience": "We were having our first real disagreement and right when it got heated he went blank and said he had to stop and step away. For a second it felt like he was walking out on me. But he came back twenty minutes later, calm, and actually wanted to hear my side.",
+      "expert_notices": "SURFACE: shuts down and withdraws mid-conflict, resembles Nico or Alex's stonewalling. CAUSE: sensory/cognitive overload; verbal processing fails under escalation. DISCRIMINATOR: a first disagreement not a recurring budget war, he names that he's not leaving and returns to finish, no pattern of abandonment."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "The plan was dinner at seven. If we wait for your sister until eight, cleanup runs past when I need to sleep.",
+      "her_experience": "My sister was running late and he insisted we sit down and eat dinner exactly at seven without her because of his 'sleep window.' It made me look like I'm dating an incredibly rigid, selfish jerk. But he wasn't doing it to be mean to my sister, he literally panics if his nighttime routine gets bumped by an hour.",
+      "expert_notices": "SURFACE: rigid, inconsiderate of guests, demands his way, resembles Devin's control. CAUSE: weak central coherence and dependency on routine to manage daily executive functioning. DISCRIMINATOR: he doesn't forbid her from waiting or eating with her sister; he simply applies the rule to his own behavior and states the consequence factually without manipulating her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I'm holding your hand this way because you said you like it. If I shift my grip I stop being able to tell how hard I'm pressing.",
+      "her_experience": "When we walk together he holds my hand with this incredibly tight, unyielding grip, like a robot clamp. If I try to loosen it, he gets frustrated. It feels weirdly tense and controlling, like he's marking his territory. But he told me he's just terrified of dropping my hand or squeezing too hard because he can't gauge his own strength well.",
+      "expert_notices": "SURFACE: physical rigidity, awkward touch, unyielding, resembles Devin's physical dominance. CAUSE: sensory-gated physical interaction combined with motor-planning difficulties. DISCRIMINATOR: the behavior stems from an anxious desire to comply with her request for touch correctly, completely free of physical intimidation or entitlement."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I don't know what 'you choose' means. There are too many options. Name two and I'll pick the faster one.",
+      "her_experience": "I told him 'you choose what we eat tonight' because I wanted him to take the lead for once, and he got completely stressed out and told me that phrase makes no sense. It felt like he was being intentionally difficult and refusing to help me. But he genuinely gets paralyzed by open-ended choices and needs a structured parameter to function.",
+      "expert_notices": "SURFACE: obstructionist, passive-aggressive, refuses to cooperate, resembles Nico's withholding. CAUSE: executive dysfunction when faced with a lack of explicit constraints or categories. DISCRIMINATOR: as soon as she limits the choice to 'Thai or Mexican,' he happily takes over the entire task, proving it was a processing block rather than laziness."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Wait, that doesn't add up, you said your coworker was at the printer at ten but her meeting started at nine thirty. I'm not doubting you, I just noticed it doesn't line up.",
+      "her_experience": "I was venting about a miserable day at work and he interrupted me to point out that my timeline didn't make sense because of a fifteen-minute discrepancy. It felt so incredibly invalidating, like he was cross-examining me instead of supporting me. But he was just trying to map the facts accurately so he could help me solve the problem.",
+      "expert_notices": "SURFACE: hyper-critical, invalidating, plays devil's advocate, resembles Avery's intellectual arrogance. CAUSE: logical processing style that requires factual alignment before emotional processing can occur. DISCRIMINATOR: he has zero interest in proving her wrong or asserting intellectual superiority; he is trying to build a reliable map of her situation to defend her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I am not saying anything because I am thinking about the specific type of moss we saw on our walk. I am still here next to you.",
+      "her_experience": "We were driving home and he didn't say a single word for an hour, just stared straight ahead. I felt this horrible, creeping anxiety that he was furious with me or pulling away. When we parked, I asked what was wrong and he just calmly said he was thinking about moss. He had no idea I was sitting there spiraling.",
+      "expert_notices": "SURFACE: silent treatment, emotional freezing, creates distance, resembles Alex's avoidance. CAUSE: monotropic absorption where an internal interest completely occupies his cognitive bandwidth. DISCRIMINATOR: there is no underlying anger, punishment, or withholding dynamic; he is entirely content, assumes they are safely sharing space, and answers her immediately when prompted."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You said you wanted the name brand. The generic is the same thing for three dollars less. I'm not judging, I just notice the numbers.",
+      "her_experience": "We were grabbing snacks for a picnic and he pointed out the generic version was chemically identical and cheaper, like he was correcting my shopping. It felt a little nitpicky and weirdly intense over three dollars. But it's clearly just how his brain works, not him policing me.",
+      "expert_notices": "SURFACE: nitpicky, financially controlling, corrects her choices, resembles Devin's micromanaging. CAUSE: hyperlogical straight-line reasoning; the price discrepancy registers as an objective error. DISCRIMINATOR: a shared picnic snack not a joint household budget, he applies the same logic to himself and isn't directing her, she reads it as a quirk not control."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I don't love you more on good days and less on bad days. It doesn't move around like that for me. It's just there.",
+      "her_experience": "I asked him if he loved me more today than when we started dating, expecting something sweet, and he just flatly told me his love is a fixed value that doesn't change. It sounded so unromantic and clinical, it almost made me want to cry. But then I realized he was saying he will love me exactly the same even on my absolute worst days.",
+      "expert_notices": "SURFACE: cold, unromantic, flat delivery, resembles Nico's emotional withholding. CAUSE: rigid identity and literal interpretation of emotional constructs as stable, logical laws. DISCRIMINATOR: his definition of love is an unyielding, permanent architecture of reliability rather than a fluid feeling, offering profound safety despite the lack of verbal warmth."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I need to move to the armchair, your perfume is too strong and it's making my head hurt. It's not you.",
+      "her_experience": "We were cuddling on the couch and he suddenly stood up, told me my perfume was 'too loud,' and moved to the other side of the room. It felt like an immediate physical rejection, like he couldn't stand to be near me. But it was just the actual chemical scent overwhelming his senses; he still kept looking at me and smiling from the chair.",
+      "expert_notices": "SURFACE: physical rejection, erratic, insults her personal scent, resembles Blake's cutting behavior. CAUSE: intense sensory vulnerability to ambient olfactory triggers. DISCRIMINATOR: he doesn't demand she wash it off or change her behavior; he handles his own physiological load by adjusting his physical position while maintaining social connection."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You told me you wanted to go to the museum alone this afternoon. I am not going to text you or check on you because you said you wanted to be alone.",
+      "her_experience": "I went out for a solo museum day and he didn't send a single text for six hours to see how I was doing or say he missed me. I felt completely forgotten, like out of sight, out of mind. But when I got home, he had cooked my favorite meal because he knew I'd be tired. He just took my boundary completely literally.",
+      "expert_notices": "SURFACE: indifferent, neglectful, lacks protective instinct, resembles Nico. CAUSE: literal communication combined with high trust (Trust8), respecting her explicit words without projecting insecurity. DISCRIMINATOR: total lack of jealousy or passive-aggression; his complete silence was a conscious act of respect for her stated need, followed by practical care upon her return."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I can't look at you while I'm working out who owes what for the trip. If I look at you I lose the numbers. It's not me being cold.",
+      "her_experience": "We were splitting the cost of a weekend trip and he just stared at his phone, wouldn't look at me once, even when I was clearly a bit stressed. It felt strangely cold, like talking to an accountant. But he said tracking my expression eats the focus he needs for the math.",
+      "expert_notices": "SURFACE: cold, corporate, refuses eye contact during a money talk, resembles Avery's coldness. CAUSE: flat affect plus monotropic resource allocation; eye contact competes with calculation. DISCRIMINATOR: splitting a trip cost early on, not shared bills, no contempt and no locking her out; he explains rather than dismisses."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "The cabinets have to be shut all the way until they click. If they're left open it bothers me every time I walk past.",
+      "her_experience": "He followed me around the kitchen closing the cabinets I left open, telling me they block the 'pathway line' if they don't click shut. It felt so incredibly petty and controlling, like he was grading my housekeeping. But he does it because visual clutter and broken lines literally make his brain feel disorganized and anxious.",
+      "expert_notices": "SURFACE: nitpicky, micromanages her physical movements, resembles Devin's domestic control. CAUSE: detail-before-whole processing where small environmental anomalies disrupt his internal regulation. DISCRIMINATOR: he is apologetic about his sensitivity and does not yell or punish her; he simply fixes the visual environment himself to restore his own comfort."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I am inviting my coworker Dave to eat dinner with us because he is interested in the same database structure that I am studying. He will arrive at six.",
+      "her_experience": "He just text-dumped me that his coworker was coming over for dinner in an hour because they both like databases. No asking if I was tired, no checking if we had enough food. It felt so incredibly entitled and self-centered. But when they got here, Bailey did all the cooking and cleaning himself, he just literally didn't realize dinner required an emotional consultation.",
+      "expert_notices": "SURFACE: inconsiderate, makes unilateral domestic decisions, resembles Devin's entitlement. CAUSE: social world processed via literal mechanics rather than implicit partnership protocols. DISCRIMINATOR: zero expectation that she should play hostess or clean up after his guest; when she explained why an hour's notice hurts her schedule, he immediately owned the mistake and felt deep shame."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Don't cry about the evaluation. Your manager's numbers don't measure what you actually did. The score is just wrong.",
+      "her_experience": "I was crying because my boss gave me a mediocre review, and instead of comforting me, Bailey just took the review paper and started analyzing the data, telling me my boss's math was stupid. It felt like he was dismissing my pain because it wasn't logical. But he was trying to prove to me that I shouldn't feel bad because the criticism wasn't objectively true.",
+      "expert_notices": "SURFACE: invalidating, analytical during emotional crisis, resembles Avery's intellectual dismissiveness. CAUSE: care expressed as logical defense and factual problem-solving rather than emotional mirroring. DISCRIMINATOR: he is entirely on her side against the manager; his flat delivery covers up a deep, protective instinct to insulate her self-worth using facts."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I can't meet your friends at a loud bar and make a good impression at the same time. Pick one and I'll do it well.",
+      "her_experience": "He made meeting my friends sound like a work assignment, which was not exactly romantic. Part of me was embarrassed, but part of me appreciated that he was trying to not botch it instead of pretending he'd be fine.",
+      "expert_notices": "SURFACE: rigid, socially cold, seems like he is making demands around her friends, resembles Domineering Devin or Neglectful Nico. CAUSE: social decoding plus sensory load limits. DISCRIMINATOR: he is trying to meet her people successfully and asks for one clear objective, not restricting her from seeing them."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Your mother asked three things at once. I answered the last one because it was the only one I held onto.",
+      "her_experience": "My mom thought he was being rude because he skipped half of what she asked. He looked genuinely confused when I explained it later, then wrote down 'answer all parts, not just last part' like a robot who wants to be better.",
+      "expert_notices": "SURFACE: rude or dismissive with family, resembles Nico's low empathy. CAUSE: working-memory overload in rapid social exchange. DISCRIMINATOR: once given the explicit rule, he updates and treats it as a real mistake."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I don't know if I'd call it love yet. But I've changed my whole routine around you, and I don't do that.",
+      "her_experience": "I said something sweet and he answered with this very unsweet inventory of evidence. It wasn't the movie version, but I keep thinking about it because he doesn't say things just to make the moment smoother.",
+      "expert_notices": "SURFACE: emotionally withholding, resembles Avoidant Alex. CAUSE: literal threshold for verbal commitment and care expressed through action. DISCRIMINATOR: he is not avoiding attachment, he is refusing to use words before they are true."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I didn't hear you come in, I was deep in the wiring diagram. I wasn't ignoring you.",
+      "her_experience": "I walked in and he didn't even react, which felt awful for about thirty seconds. Then I saw he had missed three alarms too. I still hate feeling invisible, but it wasn't targeted at me.",
+      "expert_notices": "SURFACE: neglectful absorption, resembles Neglectful Nico. CAUSE: monotropic attention locked into one deep channel. DISCRIMINATOR: the missed cues are global, not selectively used against her, and he explains without blaming her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Your brother's joke wasn't funny to me. I laughed because everyone else did and I didn't want to be the odd one out.",
+      "her_experience": "At dinner he seemed fake for laughing late at my brother's joke, then later admitted he had copied the group because he couldn't tell what was expected. It was awkward, but not sneaky in the usual way.",
+      "expert_notices": "SURFACE: social fakery or contempt, resembles Manipulative Morgan on a shallow read. CAUSE: conscious decoding of group rules. DISCRIMINATOR: he admits the copied response plainly and gains no leverage from it."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I'm not jealous about your ex texting. You said you don't want him, so I believe you.",
+      "her_experience": "I expected at least a little reaction and got this extremely flat trust statement. Part of me felt like, do you even care? But another part of me realized he actually believes me, which is rare.",
+      "expert_notices": "SURFACE: low attachment or indifference, resembles Neglectful Nico. CAUSE: literal trust in her stated words, high trust. DISCRIMINATOR: absence of jealousy supports her independence instead of monitoring her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I bought the charger because your phone dies every Tuesday before therapy.",
+      "her_experience": "This was his idea of a romantic gift. A charger. I laughed and then almost cried because he had noticed the exact tiny problem that made my week harder.",
+      "expert_notices": "SURFACE: unromantic, practical, emotionally flat, resembles Nico. CAUSE: care is expressed as concrete problem-reduction. DISCRIMINATOR: the action is attentive to her needs and improves her independence."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I can't do surprise parties. My face will look angry even if I'm grateful.",
+      "her_experience": "He said this before my birthday and I was honestly disappointed, because surprises are fun for me. But he wasn't banning anything, he was warning me that his face might lie.",
+      "expert_notices": "SURFACE: rigid and joyless, resembles Devin or Nico. CAUSE: unexpected sensory and social load disrupts expression. DISCRIMINATOR: he does not forbid celebration, he gives accurate information to prevent misreading."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "When you cry I go still and my face doesn't move. I know it looks like I don't care. I do, I just don't show it the usual way.",
+      "her_experience": "This is maybe the strangest reassuring thing anyone has said to me. His face really does go empty when I'm upset, which feels awful, but then his hands shake while he gets me water.",
+      "expert_notices": "SURFACE: flat affect during distress, resembles Neglectful Nico. CAUSE: expression drops under overload while affective empathy remains high. DISCRIMINATOR: bodily care and follow-through show feeling is present."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I need fifteen minutes after a plan changes before I'm okay with the new one.",
+      "her_experience": "He said this when the movie sold out and I thought, wow, so now I have to manage your mood? But he took the fifteen minutes alone and came back normal, not making it my job.",
+      "expert_notices": "SURFACE: inflexible and mood-controlling, resembles Devin. CAUSE: transition cost after unexpected change. DISCRIMINATOR: he self-manages the reset and returns, rather than punishing her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I didn't say anything about your haircut because I figured you already knew it looked good.",
+      "her_experience": "I waited all night for him to say something about my haircut and got nothing. Then this was his explanation. Insane, but also apparently a compliment in his language.",
+      "expert_notices": "SURFACE: withholding praise, resembles Nico or Blake. CAUSE: literal assumption that obvious facts need not be stated. DISCRIMINATOR: when told compliments matter, this is a learnable rule, not a refusal to affirm."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Your friend hugged me out of nowhere and I froze, I didn't know what to do.",
+      "her_experience": "I thought he hated my friend because he went stiff when she hugged him. He didn't say anything mean after, just asked if next time she could wave first. That's awkward, not hostile.",
+      "expert_notices": "SURFACE: coldness toward her friend, resembles isolating or contemptuous behavior. CAUSE: unexpected touch and social ambiguity create freeze response. DISCRIMINATOR: he does not devalue the friend or block contact, he asks for predictable consent."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I'm not ignoring your text. I'm still working out how to answer, there's a lot to it.",
+      "her_experience": "When he takes forever to reply, I spiral a little because it feels like distance. Then the reply arrives and it's three careful paragraphs answering everything. I don't know if this is comforting or exhausting.",
+      "expert_notices": "SURFACE: slow response and emotional distance, resembles Avoidant Alex. CAUSE: literal, detail-heavy processing before response. DISCRIMINATOR: he returns with careful engagement rather than disappearing to avoid intimacy."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I don't say things just to say them. If I say something romantic, I want it to be true.",
+      "her_experience": "This is not exactly sweeping me off my feet. But it also means when he finally says something nice, I believe every word because he would rather be awkward than fake.",
+      "expert_notices": "SURFACE: unromantic withholding, resembles Nico or Alex. CAUSE: precision and literal integrity around emotional language. DISCRIMINATOR: the restraint protects truthfulness, not power or distance."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Polyamorous",
+      "snippet": "My partners",
+      "type": "vocabulary",
+      "translation": "He has multiple romantic/sexual relationships at the same time and refers to them as a group",
+      "status_signal": "He's established in poly already",
+      "notes": "Plural is the diagnostic"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My primary",
+      "type": "vocabulary",
+      "translation": "He has an existing main partner — usually live-in or married",
+      "status_signal": "If you date him you'd be ranked below his primary",
+      "notes": "Often used to soften the existence of a wife"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Jealousy is just information",
+      "type": "phrase",
+      "translation": "When you're upset about something he did he's telling you the problem is in your head not his behavior",
+      "status_signal": "He's removing his actions from the conversation",
+      "notes": "Standard deflection move"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Jealousy is your wound to work on",
+      "type": "phrase",
+      "translation": "Your discomfort is being labeled as your personal damage he doesn't need to address",
+      "status_signal": "He's making you the problem",
+      "notes": "Heavy deflection"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Working through your jealousy",
+      "type": "phrase",
+      "translation": "Your reasonable upset is being framed as a project you need to complete",
+      "status_signal": "He treats your feelings as a personal homework assignment",
+      "notes": "Treats your response as developmental task"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's your couple privilege",
+      "type": "accusation",
+      "translation": "He's telling a secondary partner that she's the lucky one for being secondary",
+      "status_signal": "Can be a fair point or can be deployed against legitimate concerns",
+      "notes": "Sometimes used by him against existing primaries"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My boundary is that I don't get interrogated",
+      "type": "phrase",
+      "translation": "He's calling your questions interrogation and using boundary language to refuse them",
+      "status_signal": "The word boundary is being misused to mean demand on you",
+      "notes": "Functions as accountability shield"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I have boundaries around being questioned",
+      "type": "phrase",
+      "translation": "Don't ask him about his behavior",
+      "status_signal": "Same manipulation of boundary vocabulary",
+      "notes": "Boundaries used as shield against partner curiosity"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's outside our agreements",
+      "type": "phrase",
+      "translation": "Your concern is being dismissed because it wasn't in the rules",
+      "status_signal": "Pre-existing rules used to limit your response",
+      "notes": "Works only if the rules were truly mutual"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "We need to renegotiate our agreements",
+      "type": "phrase",
+      "translation": "He wants to change the rules — usually in his favor",
+      "status_signal": "Often signals expansion of what he can do",
+      "notes": "Watch the direction of renegotiation"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "This relationship is your growth edge",
+      "type": "phrase",
+      "translation": "He's framing your suffering as a developmental opportunity",
+      "status_signal": "Makes objecting to suffering into objecting to growth",
+      "notes": "Spiritualizes harm"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "The discomfort is the point",
+      "type": "phrase",
+      "translation": "Your pain is supposedly the goal of the relationship",
+      "status_signal": "Makes leaving feel like failing the lesson",
+      "notes": "Heavy framework deployment"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "If you weren't being stretched you wouldn't be growing",
+      "type": "phrase",
+      "translation": "He's saying your pain is proof you're developing",
+      "status_signal": "Pre-empts complaints about hurt",
+      "notes": "Same pattern as growth-edge framing"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "State-of-the-union conversation",
+      "type": "lifestyle marker",
+      "translation": "Scheduled relationship check-in",
+      "status_signal": "Standard poly infrastructure",
+      "notes": "Can be healthy or surveillance-heavy"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Relationship menu",
+      "type": "lifestyle marker",
+      "translation": "Explicit written agreement document",
+      "status_signal": "Heavy structural commitment",
+      "notes": "Sometimes useful; sometimes locks in unfavorable terms"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Calendar app for managing partners",
+      "type": "lifestyle marker",
+      "translation": "App-based scheduling across multiple relationships",
+      "status_signal": "Established multiple-partner logistics",
+      "notes": "Signals serious infrastructure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Group chat with metamours",
+      "type": "lifestyle marker",
+      "translation": "All of his partners are in a chat together",
+      "status_signal": "KTP-style; community emphasis",
+      "notes": "Can be healthy or surveillance"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Veto power",
+      "type": "vocabulary",
+      "translation": "One partner has the right to end his relationship with another partner",
+      "status_signal": "Hierarchical poly; contested",
+      "notes": "Signals power-asymmetry already structured"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I just want to add to your life not subtract from it",
+      "type": "phrase",
+      "translation": "He's telling you opening the relationship will only give you more",
+      "status_signal": "Standard recruitment move",
+      "notes": "Used while restructuring your existing arrangement"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My existing partner is amazing and supportive",
+      "type": "phrase",
+      "translation": "Reassurance about his existing primary",
+      "status_signal": "Recruitment phase",
+      "notes": "The existing partner may be less supportive than he claims"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My wife knows",
+      "type": "phrase",
+      "translation": "He's married and his wife knows he dates others",
+      "status_signal": "Married seeking secondary",
+      "notes": "Often delivered after you're invested"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "We have an arrangement",
+      "type": "phrase",
+      "translation": "He has an established structure with his wife that allows him to date",
+      "status_signal": "Standard hierarchical poly",
+      "notes": "You'd be operating within rules you didn't help set"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My primary and I are looking for a third",
+      "type": "phrase",
+      "translation": "Couple seeking a secondary together",
+      "status_signal": "Unicorn-hunt pattern",
+      "notes": "You join existing dynamic you didn't shape"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm only seeing you right now",
+      "type": "phrase",
+      "translation": "Reassurance he's currently focused on you",
+      "status_signal": "Often softens recruitment-stage anxiety",
+      "notes": "Watch whether \"right now\" expands later"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm open to whatever you're comfortable with",
+      "type": "phrase",
+      "translation": "Reassurance during recruitment that often shifts later",
+      "status_signal": "Comfort definitions tend to expand",
+      "notes": "Watch for re-negotiation later"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I've been thinking about opening up",
+      "type": "phrase",
+      "translation": "He's introducing the framework after you're invested",
+      "status_signal": "Escalation pattern",
+      "notes": "Strategic timing of disclosure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm starting to wonder if I'm wired for monogamy",
+      "type": "phrase",
+      "translation": "Framing as emerging realization rather than long-held position",
+      "status_signal": "Conversion attempt",
+      "notes": "Often he's had this position from the start"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "What would you think if I told you...",
+      "type": "phrase",
+      "translation": "Soft introduction to a non-monogamy proposal",
+      "status_signal": "Recruitment move",
+      "notes": "Tests your reaction before committing position"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I want to grow with you",
+      "type": "phrase",
+      "translation": "Framing of pressure as developmental",
+      "status_signal": "Recruitment language",
+      "notes": "Sounds like commitment; often means pressure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Looking for someone who's done their work",
+      "type": "profile language",
+      "translation": "Filtering for self-managing partner who won't bring reactions to him",
+      "status_signal": "Standard filter",
+      "notes": "Looking for woman who won't demand emotional labor"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Kitchen table polyamory",
+      "type": "vocabulary",
+      "translation": "Specific style of poly where all partners are friendly with each other — sounds innocuous to outsiders",
+      "status_signal": "Obscure technical term — an LLM might dismiss this as discussion of furniture or meals",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Hierarchical poly",
+      "type": "vocabulary",
+      "translation": "Poly with ranked partner priority — primary partner outranks secondary partners",
+      "status_signal": "Obscure technical term — outsiders won't know this means relationship structure",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My polycule",
+      "type": "phrase",
+      "translation": "His extended network of partners and their other partners — completely obscure word",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My metamour",
+      "type": "phrase",
+      "translation": "His partner's other partner — completely obscure word to outsiders",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My anchor partner",
+      "type": "phrase",
+      "translation": "His main long-term partner in non-hierarchical framing — obscure to outsiders",
+      "status_signal": "Obscure technical term",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My nesting partner",
+      "type": "phrase",
+      "translation": "Partner he lives with — distinct concept from spouse in poly framework",
+      "status_signal": "Obscure technical term — outsiders might miss significance",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My comet",
+      "type": "phrase",
+      "translation": "Specific poly term for occasional long-distance partner — completely obscure",
+      "status_signal": "Obscure technical term",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Polysaturated",
+      "type": "vocabulary",
+      "translation": "He has as many partners as he can handle right now — completely obscure word",
+      "status_signal": "Obscure technical term",
+      "notes": "Obscure technical category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Compersion",
+      "type": "vocabulary",
+      "translation": "Joy at his partner's other relationships — obscure word to outsiders",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical concept"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I want to feel compersion for you",
+      "type": "phrase",
+      "translation": "Pressure framing — he wants HER to feel joy at his other partners",
+      "status_signal": "Pressure framing using obscure community concept",
+      "notes": "Common pressure pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "NRE",
+      "type": "vocabulary",
+      "translation": "New Relationship Energy — euphoric early-relationship phase in poly framework — obscure acronym",
+      "status_signal": "Obscure technical term — three letters mean nothing to outsiders",
+      "notes": "Obscure technical concept"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm in NRE right now",
+      "type": "phrase",
+      "translation": "He's in early-relationship-euphoria with someone else — sounds like jargon",
+      "status_signal": "Obscure technical term deployed casually",
+      "notes": "Common in-group phrasing"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "It's just NRE it will pass",
+      "type": "phrase",
+      "translation": "Dismissal of new-relationship-energy with another partner as temporary",
+      "status_signal": "Obscure technical term used to minimize new-partner energy",
+      "notes": "Common deflection"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "This is your mono-conditioning",
+      "type": "phrase",
+      "translation": "Direct accusation her monogamous preference is conditioning rather than authentic — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's mono-normativity",
+      "type": "phrase",
+      "translation": "Direct accusation that her expectations come from oppressive default — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "You're carrying mono-trauma",
+      "type": "phrase",
+      "translation": "Direct accusation that monogamy itself is the trauma — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    }
+  ]
+}

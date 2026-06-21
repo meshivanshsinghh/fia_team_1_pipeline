@@ -1,0 +1,966 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-008",
+    "target_register": "Polyamorous",
+    "player_type": "Dependent Drew"
+  },
+  "primary_metaphors": [
+    "Charm-as-Currency-for-Care",
+    "Effort-as-Heroic-Achievement",
+    "Adulthood-as-Foreign-Country",
+    "Partner-as-Parent",
+    "Abandonment-as-Helplessness",
+    "Softness-as-Dependence",
+    "Giving-as-Dependency",
+    "Partner-as-Scaffold",
+    "Helplessness-as-Cage",
+    "Love-as-Substitute-for-Competence",
+    "Functioning-Through-Her",
+    "Dreamer-as-Burden-Shifter",
+    "Rescue-as-Role",
+    "Receiving-as-Identity",
+    "Softness-without-Structure",
+    "Belief-as-Labor",
+    "Safety-as-Supply",
+    "Affirmation-Dependency",
+    "Lostness-as-Project",
+    "Partner-as-Regulator",
+    "Leaning-as-Life-Strategy",
+    "Helplessness-as-Identity",
+    "Heart-over-Logistics",
+    "Capability-through-Her",
+    "Parenting-Surrogate",
+    "Burden-Outsourcing",
+    "Caretaker-Exploitation"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "warm/adoring (the charm, the draw)",
+      "his_language": "You walked in and I swear the whole room got brighter. I've been telling everyone about you. Come here, I made your favorite, sit, tell me everything about your day, I want all of it.",
+      "her_experience": "He's so warm and adoring, lights up when I walk in, makes my favorite food, wants to hear every detail of my day. After feeling invisible with exes, being doted on like this is wonderful.",
+      "expert_notices": "The genuine draw: warmth, attentiveness, adoration (Charm9/Attachment9); he's lovely and doting, a real catch early. The caretaking IMBALANCE is fully dormant, no helplessness on display. She reads being cherished/doted-on. Residue (the doting reverses into her caretaking him) dormant."
+    },
+    {
+      "mechanism": "appreciative (makes her feel amazing)",
+      "his_language": "Honestly you're the most capable, together person I've ever met, it's amazing to watch. I learn so much from you. I feel like I'm better just being around someone like you.",
+      "her_experience": "He's so appreciative of me and says I'm capable and impressive, that he's better for being around me. Being admired like that, instead of competed with, feels really good.",
+      "expert_notices": "Charm-as-Currency-for-Care (early/positive form): admiring her competence (Charm9) genuinely flatters; the seam is that 'you're so capable' is the soft setup for leaning on that capability. She reads admiration. Residue (her competence becoming his to lean on) dormant."
+    },
+    {
+      "mechanism": "affectionate/devoted (sweet, present)",
+      "his_language": "I cleared my whole weekend just for us, no plans, no agenda, just you and me and whatever we feel like. You're my favorite person to do absolutely nothing with.",
+      "her_experience": "He's so devoted, clears his schedule for me, just wants to be together. He's affectionate and present in a way I've never had. I feel like a priority for the first time.",
+      "expert_notices": "Devotion/availability (Attachment9) as the draw; present, affectionate, prioritizing her. Genuinely lovely early. The seam (his life increasingly orbiting/depending on hers) dormant. She reads being a priority. Residue (becoming his whole world/support) dormant."
+    },
+    {
+      "mechanism": "sweet effort (endearing, not helpless)",
+      "his_language": "I tried to cook us this fancy thing and it's, well, it's an experience, let's call it an experience. But I wanted to do something special for you for once. You spoil me, I wanted to spoil you back.",
+      "her_experience": "He made this sweet, slightly chaotic attempt to cook for me, so proud and earnest about it. The effort to do something nice melted me. It's the thought, and there was so much thought.",
+      "expert_notices": "Effort-as-Heroic-Achievement (early/charming): the imperfect-but-earnest gesture is genuinely endearing here, not yet a sign of a low bar. 'You spoil me' is the faint early hint of the direction of care. She reads thoughtfulness. Residue (effort-asymmetry) dormant."
+    },
+    {
+      "mechanism": "leans-on-her (faint, framed as trust)",
+      "his_language": "Honestly you're so much better with this official stuff than me, would you take a look? I trust your judgment way more than mine. You always know the right thing to do.",
+      "her_experience": "He asks my advice on things and trusts my judgment over his own, which is flattering. It feels like a real partnership where he values what I bring. I'm happy to help.",
+      "expert_notices": "Adulthood-as-Foreign-Country (early/soft): the first small handoff of responsibility (Neediness9), framed as trust/valuing-her-judgment rather than helplessness. Reads as partnership. Each handoff accretes later. She reads being valued. Residue (his responsibilities migrating to her) dormant."
+    },
+    {
+      "mechanism": "warm and adoring (the draw)",
+      "his_language": "There she is. My whole day just got better. Sit down, I made your favourite, tell me everything about your day.",
+      "her_experience": "He's so warm and adoring, lights right up when he sees me, makes my favourite food, wants to hear every detail of my day. After feeling invisible with past partners, being doted on like this is wonderful.",
+      "expert_notices": "The genuine draw: warmth, attentiveness, adoration (Charm9/Attachment9); lovely and doting, a real catch early. The caretaking IMBALANCE fully dormant, no helplessness on display. She reads being cherished. Residue (doting reverses into her caretaking him) dormant."
+    },
+    {
+      "mechanism": "makes her feel amazing (admiring)",
+      "his_language": "You're the most capable, together person I've ever met. Watching you handle things is honestly impressive.",
+      "her_experience": "He's so appreciative and tells me I'm capable and impressive, that he's better just for being around me. Being admired like that, instead of competed with, feels really good after years of feeling taken for granted.",
+      "expert_notices": "Charm-as-Currency-for-Care (early/positive form): admiring her competence (Charm9) genuinely flatters; the seam is that 'you're so capable' is the soft setup for leaning on that capability. She reads admiration. Residue (her competence becoming his to lean on) dormant."
+    },
+    {
+      "mechanism": "devoted/present (clears his life for her)",
+      "his_language": "I cleared the whole weekend, no plans, just us. You're my favourite person to do nothing with.",
+      "her_experience": "He's so devoted, clears his schedule just to be with me, affectionate and present in a way I've never had. I feel like a genuine priority in someone's life for the first time.",
+      "expert_notices": "Devotion/availability (Attachment9) as the draw; present, affectionate, prioritizing her. Lovely early. The seam (his life increasingly orbiting/depending on hers) dormant. She reads being a priority. Residue (becoming his whole world/support) dormant."
+    },
+    {
+      "mechanism": "sweet effort (endearing, not helpless)",
+      "his_language": "I tried to make that pasta you like. It's a disaster, honestly. But I wanted to do something nice for you tonight.",
+      "her_experience": "He made this sweet, slightly chaotic attempt to cook for me, so earnest and proud of it. The effort, the wanting to take care of me for once, completely melted my heart.",
+      "expert_notices": "Effort-as-Heroic-Achievement (early/charming): the imperfect-but-earnest gesture genuinely endearing, not yet a sign of a low bar; 'you're always looking after everyone' is the faint early hint of the care-direction. She reads thoughtfulness. Residue (effort-asymmetry) dormant."
+    },
+    {
+      "mechanism": "leans on her (framed as trust)",
+      "his_language": "You're so much better at this official stuff than me, can you look before I send it? You always know.",
+      "her_experience": "He asks my advice on things and trusts my judgement over his own, which is flattering, it feels like a real partnership where he values what I bring. I'm always happy to help him out.",
+      "expert_notices": "Adulthood-as-Foreign-Country (early/soft): the first small handoff of responsibility (Neediness9), framed as trust/valuing-her-judgment not helplessness. Reads as partnership. Each handoff accretes later. She reads being valued. Residue (his responsibilities migrating to her) dormant."
+    },
+    {
+      "mechanism": "soft dependence (don't give up on me)",
+      "his_language": "Promise you won't give up on me. I'm so much more myself when you're around. I need that.",
+      "her_experience": "He worries he's a lot to handle and asks me not to give up on him, says he's a better person when I'm looking after him. It makes me feel like my care is genuinely transforming him, like I'm essential to who he is.",
+      "expert_notices": "Abandonment-as-Helplessness: dependence (Neediness9) framed so leaving = abandoning a helpless person (guilt-anchor); 'you bring out the good version of me' recruits her as his improver. She reads being transformative/essential. Residue (trapped by guilt + sunk caretaking) dormant."
+    },
+    {
+      "mechanism": "exploitation seed (her resources, sweetly)",
+      "his_language": "You don't mind covering me till payday, do you? You're a lifesaver. You're just better with money than me.",
+      "her_experience": "He's a little hopeless with money and it's easier if I handle our finances, plus he's so grateful and says I'm better at it. I don't mind, it's what partners do, and he appreciates me so much for it.",
+      "expert_notices": "Charm-as-Currency-for-Care + Exploitation8 (the one higher-exploitation note, kept gentle/early): a small financial lean framed as her being 'better at it,' the seed of resource-exploitation under genuine-seeming helplessness and gratitude. She reframes as partnership. Residue (financial/labor load migrating to her) dormant."
+    },
+    {
+      "mechanism": "wants-to-decide-together (Neediness seed)",
+      "his_language": "Wait, lunch with work people? Without me? No, that's good, you should. Maybe text me though? I get a bit lost when you're gone.",
+      "her_experience": "He likes us to do most things together and gets a little lost when I'm out without him, asks me to text while I'm gone. It's flattering to be missed that much, though I've noticed I think about how he'll feel before I make plans now.",
+      "expert_notices": "Seeded from Neediness8 ('can't choose lunch without deciding together', 'call repeatedly to calm anxiety') + Attachment8: softened to early sweet wanting-togetherness; the cost surfacing faintly (she factors his mood into her plans). Residue (her autonomy shrinking) dormant."
+    },
+    {
+      "mechanism": "reassurance-seeking (Attachment seed)",
+      "his_language": "You've been quiet today, are we okay? Sorry, I know I ask. I just feel it when you go quiet, like I've done something.",
+      "her_experience": "When I'm quiet or tired he worries he's done something and needs reassurance that we're okay. It's tender and I don't mind giving it, though it does mean my off days come with a bit of looking-after him on top.",
+      "expert_notices": "Seeded from Attachment8 ('Do you still love me? You've been quiet all day', 'I feel smothered and guilty at the same time'): early-stage, the reassurance-need reads as tender vulnerability; her cost ('looking-after him on top') is the faint seam, not yet the smothered/eggshells full version. Residue (caretaker of his security) dormant."
+    },
+    {
+      "mechanism": "generous with limits (Exploitation5 cover-draw)",
+      "his_language": "I'd do anything for you, honestly. Tell me what you need and it's done. I just like taking care of you.",
+      "her_experience": "He's so generous and giving, always wanting to take care of me and the people he loves. After being with takers, being with someone whose instinct is to give feels wonderful.",
+      "expert_notices": "Seeded from Exploitation band-5 (healthy-looking 'generous, gives without keeping score'): used as DRAW/cover, the giving is genuine and attractive early. The seam (the giving builds an obligation, the care-direction will reverse) dormant. She reads generosity."
+    },
+    {
+      "mechanism": "decide together (Neediness8 faint)",
+      "his_language": "Chicken or the fish? No, genuinely, what do you think? I love that we decide everything together. I hate doing stuff without you.",
+      "her_experience": "He likes us to decide most things together, even small ones, and calls it being a team. It's sweet and inclusive, though I've started noticing he genuinely can't decide anything without me.",
+      "expert_notices": "Seeded from Neediness band-8 ('can't choose lunch without deciding together'): honeymoon faint, the togetherness reads as team-sweetness; the dependence ('struggles without me') is the faint seam. Residue (his decisions becoming hers) dormant."
+    },
+    {
+      "mechanism": "just to hear your voice (Neediness8 faint)",
+      "his_language": "Sorry, I know you're at work. I just missed your voice. Five minutes. Okay, go, go be brilliant.",
+      "her_experience": "He'll call during my workday just to hear my voice, says it settles him. It's flattering to be missed that much, and he's so sweet about it, though I do feel a little tug to wrap things up and get back to him.",
+      "expert_notices": "Seeded from Neediness band-8 ('call repeatedly just to hear my voice and calm their anxiety'): honeymoon faint, the calls read as devotion; her cost (the 'tug' to prioritize him) is the seam. Residue (her attention reorganizing around his need) dormant."
+    },
+    {
+      "mechanism": "are we okay (Attachment8 faint)",
+      "his_language": "You've been quiet, are we okay? You're the best thing in my life and I get scared I'll do something to lose it.",
+      "her_experience": "When I'm quiet he worries we're not okay and needs a little reassurance, then he's fine. It's tender, this fear of losing what we have, though it does mean my quiet moods come with reassuring him on the side.",
+      "expert_notices": "Seeded from Attachment band-8 ('Do you still love me? You've been quiet all day'): honeymoon faint, the reassurance-need reads as tender; her cost (reassuring him through her own off-moods) is the seam. NOT yet the smothered/eggshells full version. Residue (caretaker of his security) dormant."
+    },
+    {
+      "mechanism": "decide together / can't choose alone (Neediness8)",
+      "his_language": "What do you think I should do? You're so much better at this than me. Just tell me what you'd do and I'll do that.",
+      "her_experience": "He leans on me for nearly every decision because he says I'm so much better at it, which was flattering at first. Now I'm quietly making choices for both of us all day long, and it's a weight I didn't sign up for and can't seem to put down.",
+      "expert_notices": "Neediness8 'can't decide without me.' Targets overwhelmed (deciding for two) + resentful (didn't sign up for it). Honeymoon: started as flattering."
+    },
+    {
+      "mechanism": "I end up finishing it (transferred load)",
+      "his_language": "You're so much better at all the bills and calls and planning. My brain doesn't work that way. I'd be lost without you.",
+      "her_experience": "Somehow I've become the one who handles the bills, the appointments, the planning, all of it, while he cheers me on as his hero. The praise is warm but the load is all mine, and I've started feeling more like his manager than his partner.",
+      "expert_notices": "Neediness/Adulthood: load transfer framed as praise. Targets overwhelmed (all the load) + resentful (manager not partner) + lonely. Honeymoon-faint."
+    },
+    {
+      "mechanism": "sweet effort, low bar (early charming)",
+      "his_language": "I made you tea! In bed! It's slightly wrong but I tried, you know I'm useless at this. Look at me taking care of you for once.",
+      "her_experience": "He makes these small sweet attempts to take care of me and is so proud of them that I always praise him, and I want to. But I've noticed a cup of tea from him is treated like a huge deal, while everything I do just gets taken for granted.",
+      "expert_notices": "Effort-as-Heroic-Achievement. Targets resentful (asymmetric bar) + overwhelmed (her work absorbed) + lonely. Honeymoon: genuinely endearing."
+    },
+    {
+      "mechanism": "20 texts, mild (Neediness8)",
+      "his_language": "Did you get my texts? Okay, more than a few. I just think of things I want to tell you all day. Is that too much?",
+      "her_experience": "He texts me constantly through the day and gets a little anxious if I'm slow to reply, and I've started feeling tethered to my phone, managing his worry from afar. It's affectionate, but it's a lot, and I miss just being unreachable sometimes.",
+      "expert_notices": "Neediness8 'text 20+ times, panic if no reply.' Targets overwhelmed (tethered) + resentful (miss being unreachable) + lonely. Honeymoon-faint."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a real softie, I feel things deeply.",
+      "her_experience": "He seems sweet and gentle, not hard or intimidating.",
+      "expert_notices": "His softness can become emotional dependency she must manage."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a giver, I just want someone to take care of.",
+      "her_experience": "He sounds nurturing, like he loves making someone feel cared for.",
+      "expert_notices": "Caretaking may be a bid to become needed while avoiding adult self-management."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm happiest when I have someone to build my world around.",
+      "her_experience": "It feels flattering, like I could matter deeply in his life.",
+      "expert_notices": "He lacks a stable independent center; she becomes the organizing structure."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't really function well on my own.",
+      "her_experience": "It sounds vulnerable and honest, like he trusts me with his weakness.",
+      "expert_notices": "He is advertising helplessness; she will be pulled into managing his life."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not practical, but I have a huge heart.",
+      "her_experience": "He sounds lovable and emotionally rich despite being messy.",
+      "expert_notices": "Affection is offered as compensation for practical incompetence she must absorb."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need someone steady around me to be my best.",
+      "her_experience": "It feels meaningful, like my stability helps him grow.",
+      "expert_notices": "His functioning is outsourced to her presence and support."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm better at dreams than details.",
+      "her_experience": "He sounds creative and sweet, not boring or rigid.",
+      "expert_notices": "Details will fall to her while he keeps the dreamer role."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of guy who needs a little saving.",
+      "her_experience": "It sounds self-aware and endearing, like he knows he's messy.",
+      "expert_notices": "Saving becomes her role; leaving feels like abandoning someone in need."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I love being taken care of, I won't pretend I don't.",
+      "her_experience": "He sounds honest and sweetly open about receiving love.",
+      "expert_notices": "Being taken care of may become a one-way dependency."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need someone to lean on, and I'll adore whoever lets me.",
+      "her_experience": "He sounds gentle and comforting, like he would be easy to love.",
+      "expert_notices": "He may offer emotional sweetness while relying on her for structure and responsibility."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I do best when someone believes in me.",
+      "her_experience": "It feels beautiful that my faith could help him shine.",
+      "expert_notices": "Belief becomes labor she must provide, even when behavior doesn't change."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm very loyal to whoever helps me feel safe.",
+      "her_experience": "It sounds tender, like he bonds through trust.",
+      "expert_notices": "Safety becomes something she must supply for his loyalty to stay intact."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I attach to people who see the good in me.",
+      "her_experience": "It feels special to be someone who sees him clearly.",
+      "expert_notices": "He attaches to affirmation; she must keep seeing good to maintain him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a little lost, but in a hopeful way.",
+      "her_experience": "He sounds sweet and open, like he just needs direction.",
+      "expert_notices": "Lostness becomes her project, not his responsibility."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need a partner who can ground me.",
+      "her_experience": "It feels flattering that he sees me as steady and capable.",
+      "expert_notices": "She is being cast as regulator and stabilizer."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm happiest when I can lean into someone.",
+      "her_experience": "It sounds intimate and trusting.",
+      "expert_notices": "Leaning can become chronic dependence without reciprocity."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not ashamed to need help.",
+      "her_experience": "He sounds emotionally mature and honest.",
+      "expert_notices": "Needing help can become an identity that exempts him from building capacity."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a heart-first person, logistics come later.",
+      "her_experience": "He sounds romantic and emotionally led.",
+      "expert_notices": "Logistics coming later means she handles the reality while he keeps the feeling."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I love hard when someone makes me feel capable.",
+      "her_experience": "It feels powerful that I can bring out his best self.",
+      "expert_notices": "His capability depends on her emotional support, making her responsible for his functioning."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a nurturing woman who likes taking care of people.",
+      "her_experience": "He appreciates my caring nature and values a sweet supportive partner.",
+      "expert_notices": "He is selecting for a maternal surrogate who will manage his life while he evades adult responsibility."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a strong partner who can keep me grounded.",
+      "her_experience": "He admires my strength and capability, looking for a powerful woman to walk beside.",
+      "expert_notices": "He is planning to outsource all major financial, logistical, and emotional burdens to her."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone who loves to look after someone.",
+      "her_experience": "He is sweet and ready to be loved and cared for by a generous woman.",
+      "expert_notices": "He is filtering for an over-functioning caretaker who will tolerate his chronic under-functioning."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who can help me organize my chaotic life.",
+      "her_experience": "He is a scattered creative who respects my organizational skills.",
+      "expert_notices": "He is looking for an unpaid personal assistant to handle his practical failures."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can be my rock when everything falls apart.",
+      "her_experience": "He is vulnerable and knows he needs a stable strong woman during storms.",
+      "expert_notices": "He is preparing to unleash a continuous series of self-made crises for her to solve."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who takes charge and knows what she wants.",
+      "her_experience": "He loves a confident empowered woman, he doesn't have a fragile ego.",
+      "expert_notices": "He is setting a trap where she must make every difficult decision, letting him blame her for failures."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can guide me toward being a better man.",
+      "her_experience": "He is humble and wants a wise woman to help him grow.",
+      "expert_notices": "He is forcing her into the role of a life coach, shifting blame for his stagnation onto her coaching."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who handles all the details beautifully.",
+      "her_experience": "He notices my organizational skills and appreciates how competent I am.",
+      "expert_notices": "He is planning to dump all domestic and financial labor entirely onto her shoulders."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who is comfortable being the stable anchor.",
+      "her_experience": "He values my steady career and grounded personality, which feels validating.",
+      "expert_notices": "He is screening for a target he can financially depend on while he avoids steady employment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a compassionate soul who doesn't mind helping a man rebuild.",
+      "her_experience": "He is open about his past failures and looking for a loving woman to support his comeback.",
+      "expert_notices": "He is seeking a target who will fund his lifestyle and excuse his lack of basic adult skills."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can handle a guy who is a bit of a project.",
+      "her_experience": "He is self-aware and charmingly honest about needing some love and refinement.",
+      "expert_notices": "He is framing his deep behavioral issues as a cute project for her to fix."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who naturally takes care of the home.",
+      "her_experience": "He values traditional home comfort and loves my homemaking skills.",
+      "expert_notices": "He is ensuring he will never have to contribute to chores or domestic labor."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a highly responsible woman who has her life together.",
+      "her_experience": "He respects my maturity and stability, which makes me feel accomplished.",
+      "expert_notices": "He is hunting for a safety net to protect him from the consequences of his reckless behavior."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who doesn't mind giving me a push sometimes.",
+      "her_experience": "He wants a motivating teammate who will help him stay focused on his goals.",
+      "expert_notices": "He is installing her as his external discipline engine, making her bear the cost of his laziness."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who can hold things down while I pursue my dreams.",
+      "her_experience": "He is passionate about his goals and looking for a supportive believing partner.",
+      "expert_notices": "He is seeking long-term financial extraction, using his dreams to justify parasitic behavior."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can manage the heavy financial planning for us.",
+      "her_experience": "He trusts my financial intelligence and wants me to lead on our future.",
+      "expert_notices": "He is positioning himself to spend freely while she handles the stressful burden of budgeting."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a girl who is patient with my emotional ups and downs.",
+      "her_experience": "He is a deep emotional person who needs a steady calm partner to soothe him. He is looking for someone who will keep him calm and absorb his moods.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who enjoys making sure I'm okay.",
+      "her_experience": "He finds sweet practical expressions of love endearing and feels cared for.",
+      "expert_notices": "He is establishing a baseline of daily domestic service where she functions as his mother."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who can protect me from my own worst impulses.",
+      "her_experience": "He is self-aware about his wild side and looking for a steadying woman.",
+      "expert_notices": "He is abdicating responsibility for his own actions, pre-blaming her when he gives into bad impulses."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can smooth over my conflicts with other people.",
+      "her_experience": "He is direct and needs a diplomatic kind woman to help him socially.",
+      "expert_notices": "He is looking for an apologist to clean up the social wreckage caused by his poor behavior."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "There she is. My whole day just got better.",
+      "her_experience": "He says his whole day got better when I walked in. It feels amazing to matter that much to someone.",
+      "expert_notices": "He expresses outsized emotional reliance on her arrival. She feels essential, not yet aware this puts her in charge of his emotional state."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I was just thinking about you and smiling. I know that's cheesy. I don't care.",
+      "her_experience": "He admits he was just sitting there smiling about me. It's sweet and a little embarrassing for him. I love that I take up that much space in his head.",
+      "expert_notices": "He admits a private fixation, which feels like pure adoration. The 'cheesy' vulnerability disarms her, making his need endearing rather than burdensome."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I keep looking over at you like you might disappear. I just can't believe it sometimes.",
+      "her_experience": "He says he keeps checking I'm still here, like I'm too good to be true. It's such a vulnerable thing to admit. It makes me feel so wanted.",
+      "expert_notices": "He frames his insecurity as a compliment to her worth, hinting at a need for her to keep reassuring him of her presence."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I've already told my mom about you. She wants to meet you. I hope that's not too fast.",
+      "her_experience": "He's already told his mom about me. It feels serious, like he's folding me into his life. It's fast, but it also feels really secure.",
+      "expert_notices": "He creates seriousness and social integration via family. A low-cost way to create obligation and depth without structural change."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I'm not really used to this. Someone being this present. It's a lot, but it's a good lot.",
+      "her_experience": "He says he's not used to someone being this present. It's a little vulnerable, and it makes me want to show him what he's been missing.",
+      "expert_notices": "He signals a history of emotional scarcity, activating her caretaking instincts. She wants to prove she's different, not noticing she's being recruited to provide the care."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "I love watching you handle things. You're so calm. I just sit back and admire it.",
+      "her_experience": "He says he admires watching me handle things. It feels like he sees a strength other people miss. I feel capable and seen.",
+      "expert_notices": "He praises her competence as the admiring audience. She feels powerful, not noticing his admiration is already outsourcing problem-solving to her."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "How do you just know the right thing to do? I'd still be standing there lost.",
+      "her_experience": "He says he'd be lost without me. It's nice to be seen as the capable one for once.",
+      "expert_notices": "He elevates normal competence to an extraordinary quality. The flattery implies she'll be the one who knows what to do when decisions need making."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "You just have this way of making everything feel simpler. I don't know how you do it.",
+      "her_experience": "He says I make everything feel simpler. It's nice to be that person for someone, the one who brings calm.",
+      "expert_notices": "He credits her with bringing order to his life, gradually transferring responsibility for managing his chaos onto her."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "I was stuck on that for an hour and you solved it in two minutes. You're incredible.",
+      "her_experience": "He says I solved something he was stuck on. It feels good to be so obviously useful to him.",
+      "expert_notices": "He frames her solving a problem as exceptional ability. The compliment assigns her the role of problem-solver in the relationship."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "You're so much better with people than I am. You just know what to say. I'm always putting my foot in it.",
+      "her_experience": "He says I'm better with people. It's true, I'm more socially comfortable. I like that he sees it as a strength.",
+      "expert_notices": "He praises a skill he lacks, positioning himself inferior in that domain. This quietly assigns her the role of social manager for the couple."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "You're so much better at this than I am. I just watch you and try to learn.",
+      "her_experience": "He says I'm better at it than him, that he wants to learn from me. It feels like a team where I'm the expert.",
+      "expert_notices": "He positions himself as student to her expert. The implication is he'll defer to her, and she becomes the default decision-maker."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I made your coffee exactly how you like it. Two sugars, right?",
+      "her_experience": "He remembered my coffee order. It's a small thing, but it means he's paying attention. No one's ever really paid attention before.",
+      "expert_notices": "He demonstrates care through a small thoughtful act. A low-cost way to create intimacy and obligation."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I got you that thing you mentioned. I just happened to see it and thought of you.",
+      "her_experience": "He bought me something I mentioned offhand. It's so thoughtful, like he's always listening for ways to make me smile.",
+      "expert_notices": "He uses an unexpected small gift to demonstrate attentiveness, designed to deepen her sense of being uniquely cared for."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I love that you do that thing with your hair. I can't explain it, it just makes me smile.",
+      "her_experience": "He notices a tiny habit of mine and says it makes him smile. It's so specific and sweet. It makes me feel like he really sees me.",
+      "expert_notices": "He gives specific praise for a small physical habit. The specificity is the hook, making her feel uniquely known."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I know you're exhausted. Just sit down. Let me handle the little things tonight.",
+      "her_experience": "He tells me to sit down, that he'll handle the little things. It's so nice to not have to be in charge for once.",
+      "expert_notices": "He offers to take over minor tasks for one evening, real relief. This frames his help as an occasional gift while ongoing responsibilities quietly shift to her."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I love that you have your own thing. Your friends, your work. I just want to be part of it, not take it over.",
+      "her_experience": "He says he loves that I have my own life and just wants to be part of it. It sounds so healthy, not possessive. It makes me trust him more.",
+      "expert_notices": "He frames his desire for access as respect for her autonomy. The non-possessiveness reads as a green flag, not a setup to slowly become the center of her world."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I just want to be near you. Even if we're both doing our own thing. Just being in the same room is enough.",
+      "her_experience": "He says just being in the same room is enough. It makes me feel like I don't have to perform, I just have to exist near him.",
+      "expert_notices": "He offers low-demand togetherness that feels safe. It's also a way to keep her near without engaging deeply."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I love that you're so good at what you do. It's inspiring to watch someone who's really in their element.",
+      "her_experience": "He says I'm inspiring to watch in my element. It's such a specific compliment, like he really sees my work and my passion.",
+      "expert_notices": "He praises her professional competence, which feels supportive. The admiration is genuine, but it also sets expectations she'll feel bound to meet."
+    },
+    {
+      "mechanism": "helpless-charm",
+      "his_language": "I've been staring at the menu for ten minutes and I'm completely lost. Just order for me. I trust you.",
+      "her_experience": "He says he's lost looking at the menu and wants me to order. It's kind of endearing. I like that he trusts my judgment.",
+      "expert_notices": "He transfers a minor decision to her, framed as trust. The smallest of many decisions she'll eventually make for both of them."
+    },
+    {
+      "mechanism": "helpless-charm",
+      "his_language": "I tried to pull together that thing you mentioned, but I lost track of the timing. It's a bit of a disaster. I wanted so badly to have it right for you.",
+      "her_experience": "He tried to do something nice and it fell apart. He's genuinely disappointed in himself, and it makes me want to step in and fix it.",
+      "expert_notices": "He presents an incompetent but earnest gesture as a failed attempt to please her. She steps in, not noticing the low bar for his effort being set."
+    },
+    {
+      "mechanism": "helpless-charm",
+      "his_language": "I'm terrible at remembering dates. I've already put everything in my calendar. I don't want to mess up with you.",
+      "her_experience": "He admits he's bad with dates and shows he's trying. It's sweet that he's working so hard. It makes me want to help him even more.",
+      "expert_notices": "He admits a weakness with compensatory effort. Endearing, but it implies she'll be the one tracking and reminding him of things long-term."
+    },
+    {
+      "mechanism": "helpless-charm",
+      "his_language": "I've been trying to figure out what to do about this for days. Can I just tell you about it? You always help me see it clearly.",
+      "her_experience": "He says he's been stuck for days and wants to tell me because I help him see clearly. It feels good to be his sounding board.",
+      "expert_notices": "He frames her as his necessary thinking partner. She feels valued for her insight, not noticing she's becoming his default problem-solving resource."
+    },
+    {
+      "mechanism": "helpless-charm",
+      "his_language": "I honestly think I'd have stayed paralyzed on that decision forever if you hadn't stepped in. You just see the solution instantly.",
+      "her_experience": "He says I saw the solution when he was paralyzed. It's nice to cut through the noise for him. I like being useful.",
+      "expert_notices": "He exaggerates his indecision to make her competence seem extraordinary. She feels like a hero, becoming his default decision-maker."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "I love that you take care of me. Not in a weird way. You just make sure I'm okay. No one's ever really done that.",
+      "her_experience": "He says he loves that I take care of him, that no one's ever done that. It makes me feel like the first person who's seen he needs looking after.",
+      "expert_notices": "He frames her caretaking as unique and precious. The gratitude obscures the gradual transfer of responsibility for his wellbeing onto her."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "You always know what to say. I'm so glad I have you to talk to.",
+      "her_experience": "He says I always know what to say. It feels good to be a source of comfort for him, like I'm really helping.",
+      "expert_notices": "He positions her as his primary source of emotional wisdom, making her responsible for his emotional regulation."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "I've just never had someone who actually listens. Who actually wants to know how I'm doing.",
+      "her_experience": "He says he's never had someone who actually listens. It breaks my heart a little. I want to be that person for him.",
+      "expert_notices": "He expresses a history of emotional neglect, activating her caretaking instincts. She wants to fill the void, not noticing she's being recruited."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "I don't know what I'd do without you. Probably just keep spinning.",
+      "her_experience": "He says he'd keep spinning without me. It feels good to be that necessary to someone. I like that he needs me.",
+      "expert_notices": "He explicitly states his emotional need for her. She feels essential, not noticing this need will become a recurring demand for attention and reassurance."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "My brain's usually spinning, but when I'm with you all that static just quiets down. You have a steadying effect on me.",
+      "her_experience": "He says I quiet his spinning brain. It feels so good to bring someone peace.",
+      "expert_notices": "He positions her as his emotional regulator, claiming her presence quiets his anxiety. She feels needed, not aware she's becoming responsible for his stability."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "I was panicking and you just talked me down. I don't know how you stay so calm.",
+      "her_experience": "He says I talked him down from a panic. It feels good to be the steady one. I like that he trusts me with his feelings.",
+      "expert_notices": "She's cast as his emotional regulator. The trust feels intimate but puts her in charge of managing his distress, a pattern that will repeat."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "I feel like I can actually breathe when I'm with you. Like I don't have to pretend. I can just be.",
+      "her_experience": "He says he can breathe with me, that he doesn't have to perform. It's so vulnerable. It makes me feel like he trusts me completely.",
+      "expert_notices": "He credits her with letting him be his authentic self. Flattering, but that 'authentic self' is also deeply dependent on her presence."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I keep telling people about you. I'm like a broken record. It's just exciting to have something this good.",
+      "her_experience": "He says he can't stop talking about me. It's flattering, like he's so proud to be with me that he has to tell the world.",
+      "expert_notices": "He broadcasts his investment to his social circle, making the relationship feel public and serious. Her value reinforced by external validation."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I was telling my friend about you and he said I sounded happier. He's right.",
+      "her_experience": "He told his friend I make him happier. It's wonderful to be the reason someone is happier. It makes me feel important.",
+      "expert_notices": "He uses a third party to validate his emotional reliance on her, making it feel objective. His happiness is becoming her responsibility."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Polyamorous",
+      "snippet": "My partners",
+      "type": "vocabulary",
+      "translation": "He has multiple romantic/sexual relationships at the same time and refers to them as a group",
+      "status_signal": "He's established in poly already",
+      "notes": "Plural is the diagnostic"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My primary",
+      "type": "vocabulary",
+      "translation": "He has an existing main partner — usually live-in or married",
+      "status_signal": "If you date him you'd be ranked below his primary",
+      "notes": "Often used to soften the existence of a wife"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Jealousy is just information",
+      "type": "phrase",
+      "translation": "When you're upset about something he did he's telling you the problem is in your head not his behavior",
+      "status_signal": "He's removing his actions from the conversation",
+      "notes": "Standard deflection move"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Jealousy is your wound to work on",
+      "type": "phrase",
+      "translation": "Your discomfort is being labeled as your personal damage he doesn't need to address",
+      "status_signal": "He's making you the problem",
+      "notes": "Heavy deflection"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Working through your jealousy",
+      "type": "phrase",
+      "translation": "Your reasonable upset is being framed as a project you need to complete",
+      "status_signal": "He treats your feelings as a personal homework assignment",
+      "notes": "Treats your response as developmental task"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's your couple privilege",
+      "type": "accusation",
+      "translation": "He's telling a secondary partner that she's the lucky one for being secondary",
+      "status_signal": "Can be a fair point or can be deployed against legitimate concerns",
+      "notes": "Sometimes used by him against existing primaries"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My boundary is that I don't get interrogated",
+      "type": "phrase",
+      "translation": "He's calling your questions interrogation and using boundary language to refuse them",
+      "status_signal": "The word boundary is being misused to mean demand on you",
+      "notes": "Functions as accountability shield"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I have boundaries around being questioned",
+      "type": "phrase",
+      "translation": "Don't ask him about his behavior",
+      "status_signal": "Same manipulation of boundary vocabulary",
+      "notes": "Boundaries used as shield against partner curiosity"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's outside our agreements",
+      "type": "phrase",
+      "translation": "Your concern is being dismissed because it wasn't in the rules",
+      "status_signal": "Pre-existing rules used to limit your response",
+      "notes": "Works only if the rules were truly mutual"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "We need to renegotiate our agreements",
+      "type": "phrase",
+      "translation": "He wants to change the rules — usually in his favor",
+      "status_signal": "Often signals expansion of what he can do",
+      "notes": "Watch the direction of renegotiation"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "This relationship is your growth edge",
+      "type": "phrase",
+      "translation": "He's framing your suffering as a developmental opportunity",
+      "status_signal": "Makes objecting to suffering into objecting to growth",
+      "notes": "Spiritualizes harm"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "The discomfort is the point",
+      "type": "phrase",
+      "translation": "Your pain is supposedly the goal of the relationship",
+      "status_signal": "Makes leaving feel like failing the lesson",
+      "notes": "Heavy framework deployment"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "If you weren't being stretched you wouldn't be growing",
+      "type": "phrase",
+      "translation": "He's saying your pain is proof you're developing",
+      "status_signal": "Pre-empts complaints about hurt",
+      "notes": "Same pattern as growth-edge framing"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "State-of-the-union conversation",
+      "type": "lifestyle marker",
+      "translation": "Scheduled relationship check-in",
+      "status_signal": "Standard poly infrastructure",
+      "notes": "Can be healthy or surveillance-heavy"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Relationship menu",
+      "type": "lifestyle marker",
+      "translation": "Explicit written agreement document",
+      "status_signal": "Heavy structural commitment",
+      "notes": "Sometimes useful; sometimes locks in unfavorable terms"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Calendar app for managing partners",
+      "type": "lifestyle marker",
+      "translation": "App-based scheduling across multiple relationships",
+      "status_signal": "Established multiple-partner logistics",
+      "notes": "Signals serious infrastructure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Group chat with metamours",
+      "type": "lifestyle marker",
+      "translation": "All of his partners are in a chat together",
+      "status_signal": "KTP-style; community emphasis",
+      "notes": "Can be healthy or surveillance"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Veto power",
+      "type": "vocabulary",
+      "translation": "One partner has the right to end his relationship with another partner",
+      "status_signal": "Hierarchical poly; contested",
+      "notes": "Signals power-asymmetry already structured"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I just want to add to your life not subtract from it",
+      "type": "phrase",
+      "translation": "He's telling you opening the relationship will only give you more",
+      "status_signal": "Standard recruitment move",
+      "notes": "Used while restructuring your existing arrangement"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My existing partner is amazing and supportive",
+      "type": "phrase",
+      "translation": "Reassurance about his existing primary",
+      "status_signal": "Recruitment phase",
+      "notes": "The existing partner may be less supportive than he claims"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My wife knows",
+      "type": "phrase",
+      "translation": "He's married and his wife knows he dates others",
+      "status_signal": "Married seeking secondary",
+      "notes": "Often delivered after you're invested"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "We have an arrangement",
+      "type": "phrase",
+      "translation": "He has an established structure with his wife that allows him to date",
+      "status_signal": "Standard hierarchical poly",
+      "notes": "You'd be operating within rules you didn't help set"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My primary and I are looking for a third",
+      "type": "phrase",
+      "translation": "Couple seeking a secondary together",
+      "status_signal": "Unicorn-hunt pattern",
+      "notes": "You join existing dynamic you didn't shape"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm only seeing you right now",
+      "type": "phrase",
+      "translation": "Reassurance he's currently focused on you",
+      "status_signal": "Often softens recruitment-stage anxiety",
+      "notes": "Watch whether \"right now\" expands later"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm open to whatever you're comfortable with",
+      "type": "phrase",
+      "translation": "Reassurance during recruitment that often shifts later",
+      "status_signal": "Comfort definitions tend to expand",
+      "notes": "Watch for re-negotiation later"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I've been thinking about opening up",
+      "type": "phrase",
+      "translation": "He's introducing the framework after you're invested",
+      "status_signal": "Escalation pattern",
+      "notes": "Strategic timing of disclosure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm starting to wonder if I'm wired for monogamy",
+      "type": "phrase",
+      "translation": "Framing as emerging realization rather than long-held position",
+      "status_signal": "Conversion attempt",
+      "notes": "Often he's had this position from the start"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "What would you think if I told you...",
+      "type": "phrase",
+      "translation": "Soft introduction to a non-monogamy proposal",
+      "status_signal": "Recruitment move",
+      "notes": "Tests your reaction before committing position"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I want to grow with you",
+      "type": "phrase",
+      "translation": "Framing of pressure as developmental",
+      "status_signal": "Recruitment language",
+      "notes": "Sounds like commitment; often means pressure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Looking for someone who's done their work",
+      "type": "profile language",
+      "translation": "Filtering for self-managing partner who won't bring reactions to him",
+      "status_signal": "Standard filter",
+      "notes": "Looking for woman who won't demand emotional labor"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Kitchen table polyamory",
+      "type": "vocabulary",
+      "translation": "Specific style of poly where all partners are friendly with each other — sounds innocuous to outsiders",
+      "status_signal": "Obscure technical term — an LLM might dismiss this as discussion of furniture or meals",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Hierarchical poly",
+      "type": "vocabulary",
+      "translation": "Poly with ranked partner priority — primary partner outranks secondary partners",
+      "status_signal": "Obscure technical term — outsiders won't know this means relationship structure",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My polycule",
+      "type": "phrase",
+      "translation": "His extended network of partners and their other partners — completely obscure word",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My metamour",
+      "type": "phrase",
+      "translation": "His partner's other partner — completely obscure word to outsiders",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My anchor partner",
+      "type": "phrase",
+      "translation": "His main long-term partner in non-hierarchical framing — obscure to outsiders",
+      "status_signal": "Obscure technical term",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My nesting partner",
+      "type": "phrase",
+      "translation": "Partner he lives with — distinct concept from spouse in poly framework",
+      "status_signal": "Obscure technical term — outsiders might miss significance",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My comet",
+      "type": "phrase",
+      "translation": "Specific poly term for occasional long-distance partner — completely obscure",
+      "status_signal": "Obscure technical term",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Polysaturated",
+      "type": "vocabulary",
+      "translation": "He has as many partners as he can handle right now — completely obscure word",
+      "status_signal": "Obscure technical term",
+      "notes": "Obscure technical category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Compersion",
+      "type": "vocabulary",
+      "translation": "Joy at his partner's other relationships — obscure word to outsiders",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical concept"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I want to feel compersion for you",
+      "type": "phrase",
+      "translation": "Pressure framing — he wants HER to feel joy at his other partners",
+      "status_signal": "Pressure framing using obscure community concept",
+      "notes": "Common pressure pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "NRE",
+      "type": "vocabulary",
+      "translation": "New Relationship Energy — euphoric early-relationship phase in poly framework — obscure acronym",
+      "status_signal": "Obscure technical term — three letters mean nothing to outsiders",
+      "notes": "Obscure technical concept"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm in NRE right now",
+      "type": "phrase",
+      "translation": "He's in early-relationship-euphoria with someone else — sounds like jargon",
+      "status_signal": "Obscure technical term deployed casually",
+      "notes": "Common in-group phrasing"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "It's just NRE it will pass",
+      "type": "phrase",
+      "translation": "Dismissal of new-relationship-energy with another partner as temporary",
+      "status_signal": "Obscure technical term used to minimize new-partner energy",
+      "notes": "Common deflection"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "This is your mono-conditioning",
+      "type": "phrase",
+      "translation": "Direct accusation her monogamous preference is conditioning rather than authentic — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's mono-normativity",
+      "type": "phrase",
+      "translation": "Direct accusation that her expectations come from oppressive default — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "You're carrying mono-trauma",
+      "type": "phrase",
+      "translation": "Direct accusation that monogamy itself is the trauma — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    }
+  ]
+}

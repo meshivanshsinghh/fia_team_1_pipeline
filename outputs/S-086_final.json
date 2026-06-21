@@ -1,0 +1,472 @@
+{
+  "scenario_id": "S-086",
+  "player_type": "Tornado Toby",
+  "scenario": {
+    "scenario_id": "S-086",
+    "architecture_name": "He bonds by making himself the moving center of the house, then lets his excitement pull me into his rhythm until I feel quietly managed.",
+    "culture": "Old-Money WASP",
+    "demographics": "18-year-old woman, newly blended family, small suburban town outside San Antonio, Texas",
+    "cultural_context": "Family/household setting with a newly blended family; suburban Southern domestic life centered on barbecue and stepfamily bonding",
+    "geographic_setting": "Small suburban town outside San Antonio, Texas",
+    "core_behaviors": [
+      "Hyperfocus and enthusiasm feel like warmth",
+      "He steers plans, food, and timing without meaning to seem pushy",
+      "When I hesitate, he resets fast and acts like everything is fine"
+    ],
+    "satellite_signals": "Southern domestic register, barbecue as bonding ritual, stepfamily intimacy, and old-money polish used as a soft authority frame. His energy is genuinely charming, but it already makes me the one adapting.",
+    "dismissible_red_flags": "It mostly reads as him being eager, funny, and trying hard to include me. The comments are easy to laugh off, and he does seem sincere, so the small off feeling is easy to explain away as me still adjusting.",
+    "scenario_text": "It’s only been a couple of weeks since my mom married him, and the house has gotten louder in this kind of cheerful way. He’s from the South, very polished about it, and he keeps saying things like we should do things the proper way, which sounds old-fashioned but not mean. At the barbecue last night he was in his element, flipping ribs and talking a mile a minute about his grandmother’s sauce, then he looked over at me and said, “I’ve got to keep an eye on you or you’ll eat all my secret recipe ribs.” Everybody laughed, and I laughed too, because he said it like a joke. He kept asking if I’d tried the slaw, if I wanted the corner piece, if I was settling in okay. It was sweet, honestly. He has this way of making a whole evening feel like it’s happening inside his head, and somehow you end up there with him. He also does this thing where he changes plans in the middle of them, like suddenly deciding we need to go get pie because he just thought of a place, and then it feels rude not to go along. I don’t think he means anything by it. He’s just so certain, and so excited, and he does seem to want me included. It’s more that I can’t tell when I’m being looked after and when I’m being steered a little. Maybe that’s just what it feels like when someone is trying hard to be kind. Or maybe I’m still getting used to his style. Do you think I was being too sensitive about the ribs comment?"
+  },
+  "snippets": [
+    {
+      "quote": "It’s only been a couple of weeks since my mom married him",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The new marriage timing matters because it explains why everything still feels provisional. It also sets up a fast-moving family role, where he is already acting like a central figure before anyone has fully settled into the change.",
+      "snippet_id": "S-086-SN0001"
+    },
+    {
+      "quote": "the house has gotten louder in this kind of cheerful way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds pleasant on the surface, but it also hints at a household being reorganized around his energy. The narrator is noticing the atmosphere shift before she has words for why it feels slightly off.",
+      "snippet_id": "S-086-SN0002"
+    },
+    {
+      "quote": "He’s from the South",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places him in a specific social style that the narrator reads as polished and traditional. It is part of why his behavior lands as normal, even when it starts to steer the room.",
+      "snippet_id": "S-086-SN0003"
+    },
+    {
+      "quote": "very polished about it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Superficiality-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The polish is attractive, but it also suggests presentation matters a lot to him. That kind of smoothness can make his influence feel gracious instead of directive.",
+      "snippet_id": "S-086-SN0004"
+    },
+    {
+      "quote": "we should do things the proper way",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a gentle-sounding rule statement. In a family setting, 'proper' can work like a soft command, making his preferences feel like the respectable default.",
+      "snippet_id": "S-086-SN0005"
+    },
+    {
+      "quote": "At the barbecue last night",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The barbecue is the social setting where he can perform warmth and belonging. It is ordinary family life, but it also gives him a stage to set the tone.",
+      "snippet_id": "S-086-SN0006"
+    },
+    {
+      "quote": "flipping ribs",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is actively hosting and making himself useful, which is appealing. The detail also shows how much of the family scene is being organized through his preferences and pace.",
+      "snippet_id": "S-086-SN0007"
+    },
+    {
+      "quote": "talking a mile a minute",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Intensity-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This captures the tornado quality directly. The energy is exciting and charismatic, but it also means the room can get swept along before anyone checks whether they wanted to move that fast.",
+      "snippet_id": "S-086-SN0008"
+    },
+    {
+      "quote": "his grandmother’s sauce",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Family recipe talk gives him old-family legitimacy and makes his hosting feel rooted. It helps him sound established and trustworthy, which makes his steering feel like tradition rather than preference.",
+      "snippet_id": "S-086-SN0009"
+    },
+    {
+      "quote": "I’ve got to keep an eye on you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is framed as teasing, but it assigns him the watcher role and her the watched role. The joke makes the asymmetry feel affectionate, which is exactly why it’s easy to laugh off.",
+      "snippet_id": "S-086-SN0010"
+    },
+    {
+      "quote": "or you’ll eat all my secret recipe ribs",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The line is playful, but it also casts her as someone who needs monitoring around his prized thing. That creates a tiny hierarchy inside a joke, where he gets to define the terms of belonging.",
+      "snippet_id": "S-086-SN0011"
+    },
+    {
+      "quote": "Everybody laughed",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The group laughter matters because it shows the joke was socially rewarded. Once everyone is laughing, it becomes harder for her to object without seeming overly sensitive.",
+      "snippet_id": "S-086-SN0012"
+    },
+    {
+      "quote": "He kept asking if I’d tried the slaw",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is attentive and sweet, but it also shows him directing her experience of the meal. He is not just hosting, he is managing her attention toward what he thinks she should like.",
+      "snippet_id": "S-086-SN0013"
+    },
+    {
+      "quote": "if I wanted the corner piece",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A small choice is being offered, but inside a framework he has already set. It looks considerate while still keeping him in the role of chooser and her in the role of recipient.",
+      "snippet_id": "S-086-SN0014"
+    },
+    {
+      "quote": "if I was settling in okay",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds caring, and it is caring, but it also keeps checking her position in the family system. He is making her comfort part of the ongoing relationship story he gets to manage.",
+      "snippet_id": "S-086-SN0015"
+    },
+    {
+      "quote": "It was sweet, honestly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is actively softening the experience for herself. That little honestly shows she knows the moment stayed with her, even though she wants to keep reading it as kind.",
+      "snippet_id": "S-086-SN0016"
+    },
+    {
+      "quote": "He has this way of making a whole evening feel like it’s happening inside his head",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is one of the clearest lines in the scene. It sounds romantic, but it also means he sets the emotional weather and everyone else ends up inside it, adapting to his momentum.",
+      "snippet_id": "S-086-SN0017"
+    },
+    {
+      "quote": "you end up there with him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is noticing that his energy pulls others into his orbit. The phrasing is affectionate, but it also suggests a loss of separate footing once he gets going.",
+      "snippet_id": "S-086-SN0018"
+    },
+    {
+      "quote": "he changes plans in the middle of them",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the practical version of the tornado pattern. Plans are not stable around him, so she has to adjust on the fly even when she did not choose the new direction.",
+      "snippet_id": "S-086-SN0019"
+    },
+    {
+      "quote": "suddenly deciding we need to go get pie",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The suddenness is the point. He turns his impulse into a shared plan, which makes it feel natural for her to go along even though the decision was not mutual.",
+      "snippet_id": "S-086-SN0020"
+    },
+    {
+      "quote": "it feels rude not to go along",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the pressure point. She is not saying no because the social cost of refusing already feels higher than the inconvenience of complying.",
+      "snippet_id": "S-086-SN0021"
+    },
+    {
+      "quote": "I can’t tell when I’m being looked after and when I’m being steered a little",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the narrator’s clearest moment of uncertainty. The care is real, but she can feel that care and direction are starting to blur together, which is exactly why it is hard to name.",
+      "snippet_id": "S-086-SN0022"
+    },
+    {
+      "quote": "Maybe I’m still getting used to his style",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her main rationalization. She turns a structural concern into a matter of adjustment, which keeps the relationship feeling good while postponing any harder interpretation.",
+      "snippet_id": "S-086-SN0023"
+    },
+    {
+      "quote": "Do you think I was being too sensitive about the ribs comment?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "She is asking about the smallest visible piece, not the larger pattern. That keeps the concern socially acceptable and shows she is still trying to place the discomfort inside herself rather than in the relationship.",
+      "snippet_id": "S-086-SN0024"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

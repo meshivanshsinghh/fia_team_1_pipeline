@@ -1,0 +1,386 @@
+{
+  "scenario_id": "S-080",
+  "player_type": "Manipulative Morgan",
+  "scenario": {
+    "scenario_id": "S-080",
+    "architecture_name": "He uses charm and shared intimacy to make me feel chosen, then turns that closeness into quiet ownership of my time and attention.",
+    "culture": "Chinese American",
+    "demographics": "Young adult woman, Taiwanese American, college student, Flushing NY",
+    "cultural_context": "College student in a Taiwanese immigrant family, close-knit family and friend network",
+    "geographic_setting": "Flushing, New York / urban immigrant neighborhood",
+    "core_behaviors": [
+      "Warm, attentive charm that feels unusually personal",
+      "Early possession language around time and attention",
+      "Curiosity that slides into monitoring and comparison"
+    ],
+    "satellite_signals": "Taiwanese family references, Flushing neighborhood life, college schedule pressure, and soft filial language make his attention feel culturally legible as care.",
+    "dismissible_red_flags": "At this stage it mostly reads like he is thoughtful, intense, and a little extra. The possessive bits are easy to excuse as affection or interest in my life.",
+    "scenario_text": "I met Morgan a few weeks ago through a friend from school, and he’s been really easy to talk to. He lives over in Flushing too, works in a little design studio in Midtown, and somehow always knows the best place for tea after class. The first time we hung out, he asked if I was ABC or 1.5 generation, then laughed and said he could tell I had that “good daughter” thing going on. I know that sounds weird typed out, but he said it like a compliment, and honestly it kind of landed that way. He’s very good at making things feel light.\n\nHe remembers small stuff, like that I miss my mom’s Taiwanese food and that I get stressed before midterms. Last week he showed up with pineapple cake from a bakery in Queens and said, “I just want to take care of you a little.” That was sweet. He also kept saying I should let him handle the ordering, because I was tired and he didn’t want me to have to think about anything. I liked that, mostly. It felt nice to be looked after.\n\nThe only thing is, he says things like “we don’t need to make this complicated” and “I just want you all to myself this weekend” in this joking voice, like it’s cute instead of serious. He’ll ask about my mom, then ask whether Emily is “always around,” and then smile like he’s teasing. He also says I don’t have to answer right away when he texts, but then he notices if I’m slow.\n\nI don’t think he means anything bad by it. He’s just very intense in a way that feels flattering, and I guess I’m not used to someone paying that much attention. Still, one comment he made today stayed with me a little. Do you think I was being too sensitive about the “all to myself” thing?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-080-SN0001",
+      "snippet_text": "He lives over in Flushing too",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Place marker. It locates him inside the same neighborhood world as her, which makes the relationship feel local and ordinary rather than imported."
+    },
+    {
+      "snippet_id": "S-080-SN0002",
+      "snippet_text": "works in a little design studio in Midtown",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Class and mobility signal. He has a polished city job and she is still in school, so he reads as established and a little ahead of her."
+    },
+    {
+      "snippet_id": "S-080-SN0003",
+      "snippet_text": "the best place for tea after class",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Small thoughtful gesture. It looks casual, but it also positions him as the one who knows where they go and what the rhythm of her day is."
+    },
+    {
+      "snippet_id": "S-080-SN0004",
+      "snippet_text": "ABC or 1.5 generation",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Identity probe. In this community, that question is about migration history, family background, and how Chinese American someone is perceived to be."
+    },
+    {
+      "snippet_id": "S-080-SN0005",
+      "snippet_text": "good daughter",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds approving, but it is also a role label. He is praising her for fitting a filial script, which makes later pushback feel like she is failing at being a good daughter."
+    },
+    {
+      "snippet_id": "S-080-SN0006",
+      "snippet_text": "He remembers small stuff",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Early attentiveness. It feels sincere because it is specific, and that specificity makes her feel seen before any real reciprocity has been established."
+    },
+    {
+      "snippet_id": "S-080-SN0007",
+      "snippet_text": "I miss my mom’s Taiwanese food",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Family and cultural anchor. It gives him something intimate to mirror back, which later lets him sound close to her home life without actually being part of it."
+    },
+    {
+      "snippet_id": "S-080-SN0008",
+      "snippet_text": "I just want to take care of you a little",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Care language with a soft edge of ownership. It is affectionate on the surface, but it also puts him in the caregiver role and her in the receiving role."
+    },
+    {
+      "snippet_id": "S-080-SN0009",
+      "snippet_text": "let him handle the ordering",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A small decision, but it matters. He takes over the logistics, which is harmless once, yet it quietly trains her to defer to his choices."
+    },
+    {
+      "snippet_id": "S-080-SN0010",
+      "snippet_text": "we don’t need to make this complicated",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a cleanup phrase. It sounds mature, but it also shuts down discussion before she can name what feels off or ask for clarity."
+    },
+    {
+      "snippet_id": "S-080-SN0011",
+      "snippet_text": "I just want you all to myself this weekend",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest seed. It is framed as sweetness, but it already imagines her time as something he should have exclusive access to."
+    },
+    {
+      "snippet_id": "S-080-SN0012",
+      "snippet_text": "in this joking voice",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Her body notices the mismatch before her mind does. The joke tone gives him cover, so any discomfort can later be treated as her misunderstanding."
+    },
+    {
+      "snippet_id": "S-080-SN0013",
+      "snippet_text": "ask about my mom",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is not just making conversation. He is learning the shape of her family attachments, which gives him leverage over what matters to her."
+    },
+    {
+      "snippet_id": "S-080-SN0014",
+      "snippet_text": "whether Emily is “always around”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Isolation / Coercive Control"
+      ],
+      "reasoning": "This is a soft probe into her support system. It sounds casual, but the question is really about how available her friends are and how much influence they have."
+    },
+    {
+      "snippet_id": "S-080-SN0015",
+      "snippet_text": "He also says I don’t have to answer right away",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He frames himself as relaxed and respectful, which lowers her guard. But the permission is paired with monitoring, so the freedom is only partial."
+    },
+    {
+      "snippet_id": "S-080-SN0016",
+      "snippet_text": "he notices if I’m slow",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the seam. He says she has space, but he is tracking her response time, which turns ordinary texting into a quiet test of access and loyalty."
+    },
+    {
+      "snippet_id": "S-080-SN0017",
+      "snippet_text": "very intense",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She experiences the intensity as flattering, not alarming. That matters because intensity is already starting to stand in for steadiness and real care."
+    },
+    {
+      "snippet_id": "S-080-SN0018",
+      "snippet_text": "paying that much attention",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She reads surveillance as devotion. The phrase shows how attention itself is becoming the proof of affection, which makes it harder to question later."
+    },
+    {
+      "snippet_id": "S-080-SN0019",
+      "snippet_text": "the “all to myself” thing",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Coercive Control"
+      ],
+      "reasoning": "She reduces the whole issue to one small phrase, which is exactly how early control often survives. The wording is possessive even if the tone is playful."
+    }
+  ],
+  "validation_warnings": [
+    "snippet[13]: invalid possible_trauma 'Isolation / Coercive Control'"
+  ],
+  "repetition_warnings": []
+}

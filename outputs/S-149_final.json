@@ -1,0 +1,440 @@
+{
+  "scenario_id": "S-149",
+  "player_type": "Needy Noel",
+  "scenario": {
+    "scenario_id": "S-149",
+    "architecture_name": "He turns early devotion into a demand for total availability, so her independence starts to feel like a failure of love.",
+    "culture": "Polyamorous",
+    "demographics": "Likely adult woman, Filipino community context, newly dating David",
+    "cultural_context": "Healthcare worker social sphere with involvement in a Filipino-American community and arts/leisure dating scene",
+    "geographic_setting": "Urban/suburban community setting centered on a Filipino community center, with references to local art galleries, hospital work, and seasonal outings",
+    "core_behaviors": [
+      "Plans around her availability and makes that feel romantic",
+      "Uses fast connection and constant contact as proof of intimacy",
+      "Frames her separate life as something that should give way to 'us'"
+    ],
+    "satellite_signals": "Filipino community center, hospital work, art-gallery dates, and poly language all make the relationship feel socially legible and modern while he quietly installs a fused-self standard.",
+    "dismissible_red_flags": "At this stage it reads like earnest enthusiasm, not control. His checking in, missing her, and wanting more time together can all be explained away as being really into her.",
+    "scenario_text": "I keep thinking about last night at the Filipino community center because it was honestly so fun. We were both terrible at karaoke in the best way, and David was grinning at me like I was the only person in the room. He offered to pay for dinner after, which was sweet, and he said, kind of casually, that he likes taking care of his people. That made me laugh, because he says things like that with such a straight face.\n\nHe’s been texting a lot since then. Not in a bad way, just a lot. He’ll send me a picture of some gallery he walked past and say it made him think of me, or ask if I’ve eaten yet, or tell me he’s already planning something for next weekend. He keeps saying he likes a quick reply because it feels respectful, and I do get that. In poly stuff I’ve heard people talk about check-ins and being open, so it doesn’t feel weird exactly. It feels kind of nice, actually, like he’s really present.\n\nHe also says little things like, “I just think if you really like someone, you want to be around them,” and I guess that sounds true when he says it. He’s told me he’s not really the half-in type, which I found cute, and he laughed when he said he misses me the second I leave. I told him he didn’t have to be dramatic and he said, “I know, I know, I’m just being honest.”\n\nThe only part I’m sitting with is that after he said he’d love to come by after my shift, he added, “You’re not going to disappear on me, right?” He smiled when he said it, so I smiled too. I think he just really likes me, and I like that. Do you think I was being too sensitive about that one line?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-149-SN0001",
+      "snippet_text": "Filipino community center",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This locates the scene inside a specific Filipino-American social world. It matters because the relationship is being built in a community setting where warmth, visibility, and good manners can make his intensity feel normal."
+    },
+    {
+      "snippet_id": "S-149-SN0002",
+      "snippet_text": "both terrible at karaoke in the best way",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The surface is playful and affectionate, but it sets up a shared little world very fast. He is making the bond feel special and mutually chosen, which helps him become emotionally central early."
+    },
+    {
+      "snippet_id": "S-149-SN0003",
+      "snippet_text": "grinning at me like I was the only person in the room",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering attention, but it also isolates her as the object of his focus. The wording makes her feel singled out and prized, which is exactly how the early pressure to become his whole world can start."
+    },
+    {
+      "snippet_id": "S-149-SN0004",
+      "snippet_text": "He offered to pay for dinner after",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A nice gesture on the surface, but it creates an early debt. Paying can be generous, yet it also gives him the position of provider, which makes it easier for him to expect deference later."
+    },
+    {
+      "snippet_id": "S-149-SN0005",
+      "snippet_text": "takes care of my people",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is warm community language, but it also frames care as a role he gets to occupy. In poly or close-knit dating circles, 'taking care of people' can sound loving while quietly making everyone else responsible for his emotional needs too."
+    },
+    {
+      "snippet_id": "S-149-SN0006",
+      "snippet_text": "He’s been texting a lot since then",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent texting is easy to read as interest, and early on it usually is. But the pace is already setting a standard of constant access, which can become hard to step outside without feeling rude."
+    },
+    {
+      "snippet_id": "S-149-SN0007",
+      "snippet_text": "a picture of some gallery he walked past",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is folding her into his day with little updates, which feels intimate and thoughtful. It also keeps her emotionally tethered to his movements, so ordinary moments start functioning like checks on the bond."
+    },
+    {
+      "snippet_id": "S-149-SN0008",
+      "snippet_text": "made him think of me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds sweet, but it turns random things into proof of constant mental presence. He is already training the relationship around being thought about all the time, which makes distance feel like a loss."
+    },
+    {
+      "snippet_id": "S-149-SN0009",
+      "snippet_text": "already planning something for next weekend",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Intensity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Planning ahead can be lovely, but the speed matters. He is moving the relationship forward before she has much room to choose the pace, which quietly shifts the default toward his schedule."
+    },
+    {
+      "snippet_id": "S-149-SN0010",
+      "snippet_text": "a quick reply because it feels respectful",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is premise-planting. He is making a particular texting style sound like basic decency, so later any delay can be framed as disrespect rather than just her having a life."
+    },
+    {
+      "snippet_id": "S-149-SN0011",
+      "snippet_text": "check-ins and being open",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Inside poly language, this can sound normal and even healthy. But here it works as a soft invitation to constant access, where openness starts to blur into expectation and privacy starts to look like a problem."
+    },
+    {
+      "snippet_id": "S-149-SN0012",
+      "snippet_text": "really present",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She likes the feeling, which is why it lands so easily. The phrase shows how his attention is being read as care, even though the same presence can later become hard to step away from."
+    },
+    {
+      "snippet_id": "S-149-SN0013",
+      "snippet_text": "if you really like someone, you want to be around them",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the core premise. He is turning proximity into a moral test, so ordinary independence can later be recast as evidence that she likes him less than she should."
+    },
+    {
+      "snippet_id": "S-149-SN0014",
+      "snippet_text": "not really the half-in type",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds like a personality quirk, almost a compliment. But it declares that moderation is not his style, which means pacing, space, and partial availability may eventually feel like rejection to him."
+    },
+    {
+      "snippet_id": "S-149-SN0015",
+      "snippet_text": "he misses me the second I leave",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate on the surface, but it makes her departures emotionally expensive. The line turns ordinary separateness into something that immediately wounds him, which nudges her to stay close."
+    },
+    {
+      "snippet_id": "S-149-SN0016",
+      "snippet_text": "I’m just being honest",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-high",
+        "Conflict-high",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is framing his neediness as simple truth-telling, which makes it hard to question without seeming unfair. The phrase also lets him present pressure as authenticity, so she ends up soothing rather than assessing."
+    },
+    {
+      "snippet_id": "S-149-SN0017",
+      "snippet_text": "You’re not going to disappear on me, right?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Dysregulation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the load-bearing line because it puts his fear directly onto her behavior. It sounds cute and vulnerable, but it also asks her to manage his abandonment anxiety and promise against a threat she never made."
+    },
+    {
+      "snippet_id": "S-149-SN0018",
+      "snippet_text": "He smiled when he said it",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-low",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The smile softens the request and helps her accept it as harmless. That mismatch between the light tone and the underlying demand is part of why it slips past her as just a small thing."
+    },
+    {
+      "snippet_id": "S-149-SN0019",
+      "snippet_text": "I think he just really likes me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her rationalization in real time. She translates a pressure-filled line into simple affection, which shows how easily his anxiety is being absorbed as proof that she is wanted."
+    },
+    {
+      "snippet_id": "S-149-SN0020",
+      "snippet_text": "I like that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is not alarmed; she likes the attention. That matters because it shows the trap is built out of warmth and mutual excitement, not obvious hostility."
+    },
+    {
+      "snippet_id": "S-149-SN0021",
+      "snippet_text": "too sensitive about that one line",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Accountability-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The question narrows the issue down to her reaction instead of his request. That is the early shape of self-doubt, where she wonders whether the problem is her sensitivity rather than the expectation he planted."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

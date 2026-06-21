@@ -1,0 +1,410 @@
+{
+  "scenario_id": "S-123",
+  "player_type": "Arrogant Avery",
+  "scenario": {
+    "scenario_id": "S-123",
+    "architecture_name": "He uses intellectual correction and rare praise to make me feel chosen, then slowly installs himself as the authority on what I know, what I mean, and what I should do.",
+    "culture": "Black Professional",
+    "demographics": "32-year-old Black American woman; newly dating an Italian man; Boston",
+    "cultural_context": "Project manager in a professional urban setting; interracial dating and family-visit social sphere",
+    "geographic_setting": "Boston, with an upcoming trip to Miami",
+    "core_behaviors": [
+      "Performs brilliance as intimacy",
+      "Frames correction as care and honesty",
+      "Uses rare praise to make her feel special and then easier to steer",
+      "Turns disagreement into a test of her maturity and logic"
+    ],
+    "satellite_signals": "Interracial dating, project-manager competence culture, family-trip pressure, and his polished confidence all make his control look like discernment.",
+    "dismissible_red_flags": "At this stage his bluntness can read like intelligence, and his confidence can feel refreshing after boring dates. The corrections are small enough to seem like chemistry, not control.",
+    "scenario_text": "I’m still kind of smiling about him, honestly. He’s this Italian guy who moved to Boston for work, and he has that calm, polished thing that makes him seem like he knows exactly who he is. We were at dinner in the South End, and he asked, “Where did you go to school?” in that careful way people ask when they actually want to place you. When I said Howard, he lit up and said he could tell I had “real range.” That felt sweet. He kept saying I was sharper than I gave myself credit for, and that I didn’t need to second-guess myself so much.\n\nHe does that a lot. If I mention a work problem, he’ll say, “Send me the email chain, I’ll tell you exactly how to handle them,” like it’s no big thing. And, annoyingly, he usually is right. Last night I was venting about a teammate, and he said, “I’m not being stubborn, I’m being correct,” then laughed like it was a joke. I laughed too, because he said it so lightly. He also keeps saying he wants to “help me build the whole case” for Miami with my family, which sounds thoughtful, but it also means he has opinions on everything, from the flight to what I should wear to dinner.\n\nThe part I can’t quite shake is how he’ll correct me mid-sentence, then soften it with, “No, no, I’m only saying that because I respect your mind.” It lands weird and flattering at the same time. I like that he takes me seriously. I like that he thinks I can do big things. I just don’t know why I felt a little small when he said my idea was “almost there” and then explained it back to me like he was polishing it for me. Am I overthinking the way he talks to me?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m still kind of smiling about him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is pleased and a little dazzled, which matters because it shows the charm is landing. The small hedge, kind of, hints that she is already managing a tiny unease instead of naming it.",
+      "snippet_id": "S-123-SN0001"
+    },
+    {
+      "quote": "this Italian guy who moved to Boston for work",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Basic identity and setting information. It locates the relationship in an interracial, urban professional world without making the narrator sound alarmed.",
+      "snippet_id": "S-123-SN0002"
+    },
+    {
+      "quote": "that calm, polished thing",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds attractive on the surface, but it also signals a managed presentation. She reads his composure as maturity, while the polishedness suggests he is more invested in appearance and effect than mutual depth.",
+      "snippet_id": "S-123-SN0003"
+    },
+    {
+      "quote": "he knows exactly who he is",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is admiration, but it also shows how quickly his certainty becomes part of his appeal. A very fixed self-image can later make disagreement feel like disrespect to him.",
+      "snippet_id": "S-123-SN0004"
+    },
+    {
+      "quote": "Where did you go to school?",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In this community, school is a status and class probe. It is not just small talk. He is placing her, measuring her, and starting to read her through a hierarchy.",
+      "snippet_id": "S-123-SN0005"
+    },
+    {
+      "quote": "real range",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is praise, but it also ranks her as interesting in a way that flatters him for noticing. He is collecting her as proof of his discernment.",
+      "snippet_id": "S-123-SN0006"
+    },
+    {
+      "quote": "sharper than I gave myself credit for",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds encouraging, but it quietly positions him as the one who can tell her what she is. That makes his approval feel necessary rather than simply nice.",
+      "snippet_id": "S-123-SN0007"
+    },
+    {
+      "quote": "second-guess myself so much",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already internalizing his framing that her own judgment is shaky. That is the opening he needs for later corrections to feel helpful instead of intrusive.",
+      "snippet_id": "S-123-SN0008"
+    },
+    {
+      "quote": "Send me the email chain",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is moving from conversation into hands-on management of her work life. It is framed as help, but it also makes him the person who handles and interprets her problems.",
+      "snippet_id": "S-123-SN0009"
+    },
+    {
+      "quote": "I’ll tell you exactly how to handle them",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest authority move in the scene. He is not offering a view; he is offering the correct way, which shrinks her own judgment.",
+      "snippet_id": "S-123-SN0010"
+    },
+    {
+      "quote": "I’m not being stubborn, I’m being correct",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Conflict-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is the player type in one line. He turns disagreement into a proof of his superiority and makes his certainty sound like virtue.",
+      "snippet_id": "S-123-SN0011"
+    },
+    {
+      "quote": "help me build the whole case",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The phrase sounds collaborative, but it also means he is shaping the whole plan. He is moving from advice into authorship.",
+      "snippet_id": "S-123-SN0012"
+    },
+    {
+      "quote": "what I should wear to dinner",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small but telling reach into her presentation. It is easy to dismiss because it sounds thoughtful, yet it sets him up as the person who gets a vote in her body and image.",
+      "snippet_id": "S-123-SN0013"
+    },
+    {
+      "quote": "correct me mid-sentence",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He is interrupting her thought while she is still making it. Even when done gently, it establishes that his timing outranks hers.",
+      "snippet_id": "S-123-SN0014"
+    },
+    {
+      "quote": "I respect your mind",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the softener that makes the correction feel like a compliment. It also teaches her that his approval is tied to how well she can take being corrected.",
+      "snippet_id": "S-123-SN0015"
+    },
+    {
+      "quote": "I like that he takes me seriously",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is grateful for basic respect, which shows how much value she is getting from his attentiveness. That gratitude can make it harder to notice when the respect starts to come with conditions.",
+      "snippet_id": "S-123-SN0016"
+    },
+    {
+      "quote": "he thinks I can do big things",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the mentor feeling, and it is appealing. But it also means her future is being filtered through his vision of her potential.",
+      "snippet_id": "S-123-SN0017"
+    },
+    {
+      "quote": "my idea was “almost there”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "That tiny phrase is a neat little cut. It sounds constructive, but it leaves her with the sense that he is the one finishing her thoughts for her.",
+      "snippet_id": "S-123-SN0018"
+    },
+    {
+      "quote": "explained it back to me like he was polishing it for me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "He is taking her idea, refining it, and returning it as if he improved it. That creates a hierarchy where her thinking is raw material and his is the finished product.",
+      "snippet_id": "S-123-SN0019"
+    },
+    {
+      "quote": "Am I overthinking the way he talks to me?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The question is small on purpose, but it points to the real issue: she is already unsure whether her discomfort is valid. That uncertainty is exactly what his style encourages.",
+      "snippet_id": "S-123-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

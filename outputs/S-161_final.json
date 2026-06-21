@@ -1,0 +1,473 @@
+{
+  "scenario_id": "S-161",
+  "player_type": "Conspiratorial Corey",
+  "scenario": {
+    "scenario_id": "S-161",
+    "architecture_name": "He builds a private fortress of two by reading danger everywhere and making me feel chosen for trusting him over everyone else.",
+    "culture": "Chinese American",
+    "demographics": "Vietnamese American narrator, adult daughter returning home; Chinese American ideological register; mother and brother in the home; boyfriend is a Chinese American guy in his late 20s, Bay Area software engineer type, very sure of himself",
+    "cultural_context": "Vietnamese immigrant family life centered on home, kinship, and a high-achieving software engineer brother",
+    "geographic_setting": "Dorchester, likely a dense urban apartment/shared room setting",
+    "core_behaviors": [
+      "Frames vigilance as care and special insight",
+      "Uses fate and certainty to make the connection feel destined",
+      "Turns privacy and loyalty into a small, sealed world",
+      "Makes his reads feel protective so I defer to them"
+    ],
+    "satellite_signals": "Chinese American family-reputation language, achievement and high-status references, private-world romance, gentle suspicion of friends, and a boyfriend who presents himself as the one who can decode people and keep us safe.",
+    "dismissible_red_flags": "At this stage it mostly sounds intense, thoughtful, and a little old-school. His warnings about other people can read like protectiveness, and his certainty can feel flattering instead of alarming.",
+    "scenario_text": "I’ve been back in Dorchester for a couple weeks, and I’m still getting used to how my mom and brother have opinions about everything. My brother, who works at a software company in Cambridge, keeps saying he can tell right away when someone is “off,” and honestly it’s kind of impressive. He met my boyfriend once, after dumplings with my mom, and said, very calmly, “I can read a person’s real intentions in about thirty seconds.” My boyfriend just laughed and said, “Maybe that’s why I like you. You’re not fake.”\n\nI thought it was sweet, because he really does pay attention. He remembers tiny things I mention, like the tea I like or the fact that I hate when people text too late at night. He’ll say, “I notice everything about you, even what you try to hide,” in this very matter-of-fact way that makes me feel seen instead of judged. Sometimes he says the world is full of people with hidden agendas, which sounds dramatic, but he says it like he’s protecting me from stress, not trying to scare me.\n\nHe also keeps talking about how rare it is to find someone you can actually trust. “Once I let someone in, I let them all the way in,” he told me last week, and then he looked at me like that meant something serious. I liked that. It felt grown-up, like he wasn’t playing around.\n\nThe only thing that’s been sitting with me is that he keeps saying we should keep things “just ours” for now, because other people always have opinions. I get why he says it, and I don’t want to make it a big thing, but I did notice I’ve stopped telling my friends much about us. Is it weird that I liked the privacy at first, but now I’m not totally sure about the way he says it?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been back in Dorchester",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places the narrator in a specific home setting and gives the domestic, enclosed feel of the relationship context.",
+      "snippet_id": "S-161-SN0001"
+    },
+    {
+      "quote": "my mom and brother have opinions about everything",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Family involvement is normal here, but it also shows how much the household already runs on other people’s interpretations and pressure.",
+      "snippet_id": "S-161-SN0002"
+    },
+    {
+      "quote": "my brother, who works at a software company in Cambridge",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This marks class and status in the family. A Cambridge software job signals prestige and makes his judgment carry more weight in the room.",
+      "snippet_id": "S-161-SN0003"
+    },
+    {
+      "quote": "he can tell right away when someone is “off”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Cognitive Flexibility-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He presents suspicion as a gift. That sounds sharp and protective now, but it sets him up as the person who gets to decide who feels safe.",
+      "snippet_id": "S-161-SN0004"
+    },
+    {
+      "quote": "I can read a person’s real intentions in about thirty seconds",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Trust-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is self-as-decoder language. It flatters his insight, but it also puts him in charge of interpreting everyone else before they even speak.",
+      "snippet_id": "S-161-SN0005"
+    },
+    {
+      "quote": "Maybe that’s why I like you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He turns her being unlike others into a compliment. That makes her feel special, but it also starts the good-exception dynamic.",
+      "snippet_id": "S-161-SN0006"
+    },
+    {
+      "quote": "You’re not fake",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A simple compliment, but in this register it also marks her as one of the few people he deems authentic, which is a powerful hook.",
+      "snippet_id": "S-161-SN0007"
+    },
+    {
+      "quote": "he really does pay attention",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She experiences his attention as flattering and intimate. The word choice already hints at how much surveillance can feel like care early on.",
+      "snippet_id": "S-161-SN0008"
+    },
+    {
+      "quote": "He remembers tiny things I mention",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Remembering details can be sweet, but here it also shows how closely he tracks her. That level of attention becomes a way to claim intimacy fast.",
+      "snippet_id": "S-161-SN0009"
+    },
+    {
+      "quote": "the tea I like",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A small domestic detail that makes the scene feel lived-in and ordinary, which helps the more controlling parts stay hidden inside affection.",
+      "snippet_id": "S-161-SN0010"
+    },
+    {
+      "quote": "I hate when people text too late at night",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a preference, but it also previews a relationship where timing and access start to matter more than they should.",
+      "snippet_id": "S-161-SN0011"
+    },
+    {
+      "quote": "I notice everything about you, even what you try to hide",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Psychopathy / Terror"
+      ],
+      "reasoning": "This is the clearest seed. It sounds devoted, but it also means he claims the right to read her beyond what she chooses to say.",
+      "snippet_id": "S-161-SN0012"
+    },
+    {
+      "quote": "the world is full of people with hidden agendas",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Isolation-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He frames the outside world as suspicious, which makes his caution sound wise. That can quietly make her doubt other people before they’ve done anything.",
+      "snippet_id": "S-161-SN0013"
+    },
+    {
+      "quote": "he’s protecting me from stress",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is already translating his suspicion into care. That is the early absorption point where control starts to feel like relief.",
+      "snippet_id": "S-161-SN0014"
+    },
+    {
+      "quote": "how rare it is to find someone you can actually trust",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Trust becomes scarce and precious, which makes her feel chosen. It also raises the stakes, so later disagreement can feel like a betrayal.",
+      "snippet_id": "S-161-SN0015"
+    },
+    {
+      "quote": "Once I let someone in, I let them all the way in",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds romantic in the moment, but it defines intimacy as total access. That leaves very little room for privacy or separate judgment later.",
+      "snippet_id": "S-161-SN0016"
+    },
+    {
+      "quote": "he looked at me like that meant something serious",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She feels the weight of being chosen. The seriousness is flattering, but it also makes her feel responsible for living up to his certainty.",
+      "snippet_id": "S-161-SN0017"
+    },
+    {
+      "quote": "keep things “just ours”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Private can mean intimate, but here it also starts to narrow the relationship into a sealed unit. That is how outside reality gets screened off.",
+      "snippet_id": "S-161-SN0018"
+    },
+    {
+      "quote": "other people always have opinions",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This line dismisses other people in advance. It makes outside input sound annoying rather than potentially useful.",
+      "snippet_id": "S-161-SN0019"
+    },
+    {
+      "quote": "I don’t want to make it a big thing",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already shrinking her own concern. That’s the early sign that she is adapting to his framing instead of testing it.",
+      "snippet_id": "S-161-SN0020"
+    },
+    {
+      "quote": "I’ve stopped telling my friends much about us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Isolation"
+      ],
+      "reasoning": "This is the biggest structural change in the scene. Even though it starts as privacy, it already reduces her outside feedback and makes the relationship more self-sealing.",
+      "snippet_id": "S-161-SN0021"
+    },
+    {
+      "quote": "I liked the privacy at first",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is still defending the setup as something she enjoyed. That makes the later narrowing feel voluntary, which is exactly why it can deepen so easily.",
+      "snippet_id": "S-161-SN0022"
+    },
+    {
+      "quote": "the way he says it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She can feel that the phrasing itself is doing work, even if she cannot yet name what it is. The discomfort is in the tone, not a single obvious bad act.",
+      "snippet_id": "S-161-SN0023"
+    }
+  ],
+  "validation_warnings": [
+    "snippet[20]: invalid possible_trauma 'Isolation'"
+  ],
+  "repetition_warnings": []
+}

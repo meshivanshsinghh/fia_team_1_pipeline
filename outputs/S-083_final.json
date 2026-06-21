@@ -1,0 +1,434 @@
+{
+  "scenario_id": "S-083",
+  "player_type": "Pity-Party Parker",
+  "scenario": {
+    "scenario_id": "S-083",
+    "architecture_name": "He bonds by making himself the wounded exception, then quietly turns my care into a standing obligation.",
+    "culture": "Polyamorous",
+    "demographics": "F/late 20s, dating a Cuban-American man in his early 30s",
+    "cultural_context": "Urban dating / brunch-and-luxury lifestyle in a cosmopolitan social scene",
+    "geographic_setting": "Astoria, New York City; with references to Cuba and Havana",
+    "core_behaviors": [
+      "Rapid wounded self-disclosure that feels intimate",
+      "Turns sympathy into responsibility for his mood",
+      "Uses future-talk and specialness to make her keep space open"
+    ],
+    "satellite_signals": "Poly language is used as a soft shield, with talk of openness and feelings landing as romance while also making her manage his emotional weather. Astoria brunch, Havana references, and luxury details give the relationship a polished, cosmopolitan feel.",
+    "dismissible_red_flags": "At this stage it reads like he is just sensitive, romantic, and a little intense. His oversharing can seem flattering, and his ask to keep the weekend open can look like sweet spontaneity rather than pressure.",
+    "scenario_text": "I met Javier in Astoria about two weeks ago, and I still mostly feel happy when I think about him. He has this way of looking at you like you’re the only person in the room, which is sweet, honestly. Last night we went for brunch and he said, kind of out of nowhere, “I don’t usually open up this fast, but with you it feels different.” Then he told me about his ex, how she made him feel crazy for having feelings, and how his family back in Cuba never really knew what to do with him either. I felt bad for him, but also weirdly trusted, like he was letting me in on something real. He kept saying I was “safe,” which was nice, and then, when I mentioned I already had plans next weekend, he got this quiet look and said, “I just thought maybe we could keep it open. You’re the only calm thing I’ve had lately.” He laughed after, like he was being casual, but I still felt a little tug in my stomach. Later he texted, “No pressure, babe, I just like being around you,” and then another message right after saying he’d had a rough night and I was the only person who really got him. It’s not a huge thing, and I like that he’s open. I guess I just don’t know if I’m supposed to feel guilty for wanting to keep my own plans. Am I overthinking the way he asked me to keep next weekend open?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Javier in Astoria about two weeks ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places the relationship in a specific neighborhood and timing. It sounds like ordinary dating context, but it also frames how early this is, which matters because the intensity is arriving very fast.",
+      "snippet_id": "S-083-SN0001"
+    },
+    {
+      "quote": "he has this way of looking at you like you’re the only person in the room",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering on the surface, but it already puts her in a special, responsible position. The attention feels intimate, yet it also starts making her the center of his emotional world.",
+      "snippet_id": "S-083-SN0002"
+    },
+    {
+      "quote": "that’s sweet, honestly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her word choice shows she is absorbing the moment positively even while something in it feels slightly off. The softness of the phrase helps her keep the concern small.",
+      "snippet_id": "S-083-SN0003"
+    },
+    {
+      "quote": "I don’t usually open up this fast",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Rapid self-disclosure is doing the bonding work here. He presents his speed as rare and meaningful, which makes her feel chosen and makes it harder for her to step back.",
+      "snippet_id": "S-083-SN0004"
+    },
+    {
+      "quote": "with you it feels different",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is exception language. It flatters her by making her the one person who can do what others could not, which quietly recruits her into a caretaker role.",
+      "snippet_id": "S-083-SN0005"
+    },
+    {
+      "quote": "I don’t usually open up this fast, but with you it feels different",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Taken as a whole, the line is a hook. He is not just sharing, he is making her feel uniquely trusted, which creates emotional debt very early.",
+      "snippet_id": "S-083-SN0006"
+    },
+    {
+      "quote": "he told me about his ex",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Accountability-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The ex story is not yet an attack, but it is already setting up a pattern where other people are the source of his pain. That can make her less likely to question him later.",
+      "snippet_id": "S-083-SN0007"
+    },
+    {
+      "quote": "she made him feel crazy for having feelings",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Empathy-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He frames himself as the one wronged for having emotions, which turns accountability into cruelty. It also warns her that any future concern from her could be recast as mistreatment.",
+      "snippet_id": "S-083-SN0008"
+    },
+    {
+      "quote": "his family back in Cuba never really knew what to do with him either",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The Cuba reference locates his background, but the important part is the loneliness story. He casts himself as someone repeatedly misunderstood, which invites her to become the one who finally gets it right.",
+      "snippet_id": "S-083-SN0009"
+    },
+    {
+      "quote": "I felt bad for him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her sympathy is already turning into responsibility. That feeling is important because it shows the hook is working, even though she is still reading the moment as tender.",
+      "snippet_id": "S-083-SN0010"
+    },
+    {
+      "quote": "he was letting me in on something real",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Charm-high",
+        "Emotional Overexposure-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "She experiences his disclosure as authenticity, which is exactly why it works. The feeling of being trusted can hide how much the disclosure is also positioning her as his emotional support.",
+      "snippet_id": "S-083-SN0011"
+    },
+    {
+      "quote": "He kept saying I was “safe”",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Being called safe sounds loving, but it also makes her the container for his feelings. Safety here is less about mutual trust and more about him attaching his stability to her.",
+      "snippet_id": "S-083-SN0012"
+    },
+    {
+      "quote": "keep it open",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "On the surface this is just scheduling, but it quietly asks her to make room for his uncertainty. The request is small enough to seem reasonable, yet it starts organizing her life around his moods.",
+      "snippet_id": "S-083-SN0013"
+    },
+    {
+      "quote": "You’re the only calm thing I’ve had lately",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest emotional hook. He makes her calmness into a resource he needs, which feels flattering now but creates pressure to stay soothing and available.",
+      "snippet_id": "S-083-SN0014"
+    },
+    {
+      "quote": "He laughed after, like he was being casual",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The laugh softens the ask and gives him deniability. It lets him apply pressure while preserving the option to say he was only joking if she pushes back.",
+      "snippet_id": "S-083-SN0015"
+    },
+    {
+      "quote": "No pressure, babe",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is classic soft-pressure language. It sounds considerate, but it comes right next to a request that clearly has weight, so the words and the function do not match.",
+      "snippet_id": "S-083-SN0016"
+    },
+    {
+      "quote": "I just like being around you",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The phrase is affectionate and easy to accept, but it also keeps the focus on his need for access to her time. It sounds light while reinforcing that her presence regulates him.",
+      "snippet_id": "S-083-SN0017"
+    },
+    {
+      "quote": "he’d had a rough night",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dysregulation-high",
+        "Neediness-high",
+        "Emotional Overexposure-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the kind of detail that can seem like ordinary vulnerability. But it also keeps the emotional temperature centered on him, so she is pulled back into caretaking right after setting a boundary.",
+      "snippet_id": "S-083-SN0018"
+    },
+    {
+      "quote": "I was the only person who really got him",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the strongest exception hook in the scene. It flatters her, isolates him from other supports, and makes her feel like backing away would be a betrayal of something special.",
+      "snippet_id": "S-083-SN0019"
+    },
+    {
+      "quote": "I don’t know if I’m supposed to feel guilty for wanting to keep my own plans",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This line shows the cost already landing inside her. She is starting to treat ordinary independence as something that might be selfish, which is how the obligation gets established.",
+      "snippet_id": "S-083-SN0020"
+    },
+    {
+      "quote": "Am I overthinking the way he asked me to keep next weekend open?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is asking about the smallest visible piece, not the bigger pattern. That’s exactly right for this stage, because the pressure is still wrapped in sweetness and she mainly wants help reading the tone.",
+      "snippet_id": "S-083-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

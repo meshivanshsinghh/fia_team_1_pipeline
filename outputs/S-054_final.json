@@ -1,0 +1,453 @@
+{
+  "scenario_id": "S-054",
+  "player_type": "Avoidant Alex",
+  "scenario": {
+    "scenario_id": "S-054",
+    "architecture_name": "He keeps closeness feeling special by rationing it, so I learn to treat distance like maturity and my own needs like pressure.",
+    "culture": "Evangelical",
+    "demographics": "17-year-old Latina, female, single",
+    "cultural_context": "High school student and babysitter in a local church-centered community with a conservative pastor family",
+    "geographic_setting": "Albuquerque, New Mexico; predominantly Hispanic community",
+    "core_behaviors": [
+      "Praises independence while withholding steady closeness",
+      "Frames distance as healthy rhythm and spiritual maturity",
+      "Uses church language to make her feel chosen and cautious about asking for more"
+    ],
+    "satellite_signals": "Church-centered Albuquerque setting, pastor-family status, modesty talk, youth-group invitation, and the sense that his attention is rare enough to feel flattering.",
+    "dismissible_red_flags": "He seems respectful, calm, and self-aware. The odd part is easy to excuse as him just being private, careful, or not wanting to rush anything.",
+    "scenario_text": "I’ve been seeing Daniel from our church for a few weeks now, and honestly I like being around him. He’s 24, works with his dad’s roofing business, and everybody in our Albuquerque church knows his family. He’s the kind of guy who opens doors, remembers what I said about my AP English teacher, and texts me after youth group with little things like, “I love that you have your own life going on.” That part really got to me, because it sounded like he noticed me without trying to own me.\n\nLast night he drove me home after the Bible study potluck and kept saying how nice it was that I wasn’t one of those girls who needed constant attention. He said, “You’re easy to be around. You don’t crowd me.” I laughed because it sounded sweet, and I do like that he’s not clingy. He’s always saying he doesn’t want pressure, doesn’t want to rush labels, doesn’t want anything fake. In church that kind of sounds mature, like he’s being careful with something precious.\n\nHe kissed me on the forehead outside my house and said, “I’m here when I’m here. That’s the best I can promise right now.” Then he smiled like it was almost a joke. I told him that was fine, because I don’t want to be dramatic, and I really do think he means well. It just left me feeling a little weird, because the good parts are so warm and then he gets distant so fast. He’ll call me “my girl” one minute and then say he needs space to recharge the next. Maybe I’m just not used to someone being so honest about how they work. Do you think I was being too sensitive about the way he said it?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been seeing Daniel from our church",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places the relationship inside a church-centered evangelical setting and introduces the partner through community proximity. The church frame matters because it makes his behavior read as principled and safe before any larger pattern is visible.",
+      "snippet_id": "S-054-SN0001"
+    },
+    {
+      "quote": "He’s 24",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Age gap by itself is not proof of harm, but it does create a soft authority difference. At seventeen, she is still being pulled into his adult world, which makes his calm certainty carry more weight than hers.",
+      "snippet_id": "S-054-SN0002"
+    },
+    {
+      "quote": "works with his dad’s roofing business",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A class-and-family marker that locates him as settled, local, and already embedded. It also helps explain why he can seem composed and established while she is still figuring things out.",
+      "snippet_id": "S-054-SN0003"
+    },
+    {
+      "quote": "everybody in our Albuquerque church knows his family",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This signals social visibility and informal power. Being known by everyone can feel reassuring, but it also means she is stepping into his pre-existing network, where his version of events will carry extra weight.",
+      "snippet_id": "S-054-SN0004"
+    },
+    {
+      "quote": "opens doors",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A small courteous gesture, but it sets a pattern of him directing the interaction and her receiving care. It is the kind of thing that can start to make gratitude feel like the expected response.",
+      "snippet_id": "S-054-SN0005"
+    },
+    {
+      "quote": "remembers what I said about my AP English teacher",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Remembering details is genuinely flattering, and early on it can make a person feel deeply seen. In this kind of pattern, the memory also helps build a sense that he is unusually attentive, which makes later distance feel easier to excuse.",
+      "snippet_id": "S-054-SN0006"
+    },
+    {
+      "quote": "I love that you have your own life going on",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Neediness-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds affirming, but it also praises her for not needing much from him. In evangelical dating talk, independence can be framed as maturity, which makes her hesitate before asking for ordinary closeness.",
+      "snippet_id": "S-054-SN0007"
+    },
+    {
+      "quote": "after youth group",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A routine church setting that keeps the relationship inside a monitored community. That makes his messages feel safe and normal, even when they are already teaching her how to read his distance.",
+      "snippet_id": "S-054-SN0008"
+    },
+    {
+      "quote": "I love that you have your own life going on",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is not just complimenting her, he is rewarding her for not asking to be held too closely. The phrase installs a role: the good girl who stays self-contained and does not make his availability an issue.",
+      "snippet_id": "S-054-SN0009"
+    },
+    {
+      "quote": "You’re easy to be around",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Conflict-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is a compliment that quietly sets the standard for her behavior. If being easy is what he values most, then any normal need for reassurance can later feel like a failure on her part.",
+      "snippet_id": "S-054-SN0010"
+    },
+    {
+      "quote": "You don’t crowd me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Isolation-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is praising her for leaving him room, but the compliment is built on her self-erasure. It makes her responsible for keeping the relationship light, and it teaches her that wanting more closeness would be a problem.",
+      "snippet_id": "S-054-SN0011"
+    },
+    {
+      "quote": "doesn’t want pressure",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Pressure becomes the thing to avoid, which makes ordinary relationship questions feel morally suspect. The phrase sounds gentle, but it narrows what she is allowed to ask for without seeming difficult.",
+      "snippet_id": "S-054-SN0012"
+    },
+    {
+      "quote": "doesn’t want to rush labels",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is classic early-stage deferral. He keeps the connection warm while refusing the language that would give it shape, which lets him enjoy closeness without taking on the obligations that come with clarity.",
+      "snippet_id": "S-054-SN0013"
+    },
+    {
+      "quote": "doesn’t want anything fake",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He frames his avoidance as honesty and maturity. That makes it harder for her to say she wants definition, because then she risks looking artificial or spiritually immature.",
+      "snippet_id": "S-054-SN0014"
+    },
+    {
+      "quote": "I’m here when I’m here",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest early warning in the scene. He is normalizing partial presence as if it were a virtue, which invites her to adapt to his availability instead of expecting steadiness.",
+      "snippet_id": "S-054-SN0015"
+    },
+    {
+      "quote": "That’s the best I can promise right now",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Goal Persistence-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He limits the future while sounding honest and humble. The line sounds like a reasonable boundary, but it quietly asks her to accept a ceiling on intimacy that he alone gets to set.",
+      "snippet_id": "S-054-SN0016"
+    },
+    {
+      "quote": "smiled like it was almost a joke",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The smile softens the statement so she can treat it as banter instead of a real boundary. That makes it harder to challenge, because if she objects he can say she took it too seriously.",
+      "snippet_id": "S-054-SN0017"
+    },
+    {
+      "quote": "I don’t want to be dramatic",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already swallowing her own reaction to protect the mood. That tells us the relationship is teaching her to distrust her discomfort before it even becomes fully conscious.",
+      "snippet_id": "S-054-SN0018"
+    },
+    {
+      "quote": "the good parts are so warm",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She can feel the contrast between warmth and withdrawal, but she is still focused on the warmth. That makes the pattern easier to miss because the positive moments are real enough to keep her hopeful.",
+      "snippet_id": "S-054-SN0019"
+    },
+    {
+      "quote": "he gets distant so fast",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the rhythm underneath everything else. The quick shift from warmth to distance creates the emotional whiplash that makes her work harder for the next good moment.",
+      "snippet_id": "S-054-SN0020"
+    },
+    {
+      "quote": "my girl",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The pet name gives a little proprietary warmth without actual commitment. It sounds affectionate, but in context it helps him keep the emotional high points while staying unaccountable for consistency.",
+      "snippet_id": "S-054-SN0021"
+    },
+    {
+      "quote": "needs space to recharge",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the avoidant script in its most socially acceptable form. Space is framed as self-care, which makes it hard for her to say that the pattern still leaves her lonely and unsure where she stands.",
+      "snippet_id": "S-054-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

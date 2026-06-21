@@ -1,26 +1,421 @@
 {
   "scenario_id": "S-013",
-  "player_type": "Egocentric Evan",
+  "player_type": "Needy Noel",
   "scenario": {
     "scenario_id": "S-013",
-    "architecture_name": "He uses her Filipino cultural identity as a display asset and installs himself as the authoritative curator of her image, so that her traditions become his stage and her \"gracefulness\" becomes a standard she must maintain for him.",
+    "architecture_name": "He installs total availability as proof of love, then makes her the place his anxiety lands.",
     "culture": "South Asian",
-    "demographics": "F/late-20s Filipino-American, Daly City; M/early-30s, Indian-American (Punjabi), Bay Area tech professional",
-    "cultural_context": "Cultural community, volunteer/social sphere, dating/relationship",
-    "geographic_setting": "Daly City, Bay Area",
+    "demographics": "Adult Filipino woman, new heterosexual dating relationship with Jake, male",
+    "cultural_context": "Filipino American community and cultural volunteering/social events",
+    "geographic_setting": "Daly City, California; Filipino cultural event/community setting",
     "core_behaviors": [
-      "Uses her cultural identity as a display asset and status prop",
-      "Installs himself as curator and evaluator of her image and traditions",
-      "Frames his planning and attention as care while positioning her as swept along in his orbit",
-      "Deploys triangulation and self-promotion to keep her grateful and slightly insecure"
+      "Frames constant contact as respect and care",
+      "Uses sweetness and self-awareness to recruit reassurance",
+      "Turns her agreeing into evidence that she should keep meeting his emotional needs"
     ],
-    "satellite_signals": "Pedestal praise routed through his discernment; self-promotion as social center-of-gravity; triangulation via live admirer mention; spotlight-monopoly at shared events; subtle put-down embedded in a compliment about her \"graceful image\"; rating-habit framing of their dates; her closing concern is the smallest visible beat while the image-maintenance standard sits unexamined.",
-    "dismissible_red_flags": "His cultural curiosity reads as genuine romantic interest; his detailed planning reads as attentiveness and care; his compliment about her \"graceful image\" reads as admiration of her heritage; his mention of a coworker reads as flattering transparency; his social confidence reads as magnetism, not as a spotlight monopoly.",
-    "scenario_text": "We met at a Filipino cultural event in Daly City, like three weeks ago, and I'm honestly still kind of amazed by how fast this is moving. He showed up to volunteer and was just immediately the person everyone gravitated to, which I found kind of magnetic at the time.\n\nLast weekend he surprised me by coming to another community event I was helping organize. He said, \"I want to know your whole world, every part of it.\" It felt so genuine. We watched the folk dances together and he kept leaning over to ask me questions, which I loved. Afterward he told his friends, \"She's the most put-together woman I've been around in a long time, and I don't say that.\" His friend laughed and said something like \"Arjun never says that,\" and I felt so chosen.\n\nAt dinner he got a little more, I don't know, evaluating? He said, \"Your family has this incredible sense of tradition. It takes real discipline to carry yourself with that kind of grace. I find that genuinely rare.\" I think he meant it as a compliment. I took it as one. But I've been turning it over since because it also felt like he was describing a standard I'd better keep meeting.\n\nHe'd already planned the whole evening, restaurant and everything, and when I mentioned I'd told my friend Marisol I might stop by her place after, he said, \"Why would you leave early? I'm more fun than Marisol, admit it.\" I laughed and stayed.\n\nOh, and at some point he mentioned a woman at his office has been \"pretty obvious\" about liking him. He said it casually, like I'd find it funny. I did laugh. It lodged somewhere though.\n\nHe texted later: \"Solid night. You were perfect.\" Which was sweet. I think.\n\nIs it weird that the part about grace and discipline is still sitting with me a little?"
+    "satellite_signals": "Filipino cultural event setting in Daly City; intimate planning and fast-fusion language; his attention feels flattering before it starts to feel like a quiet obligation.",
+    "dismissible_red_flags": "At this stage it reads as devotion, not control. He sounds earnest, a little intense, and proud of how much he likes her, which is easy to take as romantic rather than demanding.",
+    "scenario_text": "I’ve only been seeing Jake for a few weeks, but it already feels kind of sweet. We met at a Filipino cultural event in Daly City, and he was the first person who really stayed with me through the whole afternoon, asking about my family and what I was doing after. He said he liked that I was “real,” which made me laugh because I was just trying not to spill my iced coffee.\n\nSince then he’s been very into staying in touch. He texts fast, and he jokes that quick replies are just respectful, that’s all, like it’s not a big rule, just how he shows he cares. He also says things like couples who tell each other everything are the strong ones, and I honestly thought that was kind of nice. It makes him seem serious in a good way.\n\nLast night he brought me coffee before work because he said I sounded flat in my text. That was genuinely thoughtful. He knew my order without asking, which was sweet, and I liked that he notices little things. But then he smiled and said, “I’m getting good at reading you, in a nice way I hope.” I laughed, because it sounded cute, but it also made me feel like he was already watching for a mood shift.\n\nHe’s been saying he misses me the second I leave, and then catching himself like, “Is that too much?” I keep telling him no, because it does feel flattering that someone is that into me. He also keeps saying he’s trying to be normal about me, which is funny, but now I notice I’m the one reassuring him a lot. I don’t mind being close to him. I just don’t know if I’m supposed to answer every time he gets a little wobbly. Is it weird that the coffee comment stayed with me?"
   },
-  "snippets": [],
-  "validation_warnings": [
-    "CRITICAL: No snippets generated in output"
+  "snippets": [
+    {
+      "snippet_id": "S-013-SN0001",
+      "quote": "I’ve only been seeing Jake for a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Very early relationship context. It matters because the intensity is arriving before there is much shared history, which makes the rest feel fast and a little unanchored."
+    },
+    {
+      "snippet_id": "S-013-SN0002",
+      "quote": "it already feels kind of sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is smoothing the experience over with a soft, approving word. That tells you she likes him and is already protecting the feeling from scrutiny."
+    },
+    {
+      "snippet_id": "S-013-SN0003",
+      "quote": "We met at a Filipino cultural event in Daly City",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the relationship in a specific community setting. It also explains why his interest in her world can feel flattering and familiar instead of intrusive."
+    },
+    {
+      "snippet_id": "S-013-SN0004",
+      "quote": "he was the first person who really stayed with me through the whole afternoon",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Staying with her all afternoon sounds attentive, but it also signals a preference for prolonged togetherness. In a needy pattern, that can become a baseline expectation very quickly."
+    },
+    {
+      "snippet_id": "S-013-SN0005",
+      "quote": "asking about my family and what I was doing after",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is not just being curious, he is collecting her life details and extending the interaction past the event. That is how closeness starts to become a tether."
+    },
+    {
+      "snippet_id": "S-013-SN0006",
+      "quote": "he said he liked that I was “real”",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "“Real” sounds flattering and intimate, but it also sets up a test. She is being rewarded for being the kind of woman he approves of, which invites her to keep performing that role."
+    },
+    {
+      "snippet_id": "S-013-SN0007",
+      "quote": "He texts fast",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Fast texting is presented as enthusiasm, but it is also a cadence he is normalizing. The pace itself starts to define what counts as care."
+    },
+    {
+      "snippet_id": "S-013-SN0008",
+      "quote": "quick replies are just respectful",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is premise-setting language. He makes a preference sound like a moral standard, so later any delay can be framed as disrespect rather than ordinary life."
+    },
+    {
+      "snippet_id": "S-013-SN0009",
+      "quote": "couples who tell each other everything are the strong ones",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This turns total disclosure into virtue. It sounds romantic now, but it quietly makes privacy look like weakness or secrecy."
+    },
+    {
+      "snippet_id": "S-013-SN0010",
+      "quote": "I honestly thought that was kind of nice",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is clearly registering the rule-making, but she immediately covers it with approval. That kind of self-correction is exactly how a small discomfort gets absorbed."
+    },
+    {
+      "snippet_id": "S-013-SN0011",
+      "quote": "he brought me coffee before work",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A thoughtful gesture, but it arrives in a pattern of constant responsiveness. Nice acts like this can create emotional debt when they keep showing up as proof of devotion."
+    },
+    {
+      "snippet_id": "S-013-SN0012",
+      "quote": "He knew my order without asking",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The surface reading is care and attentiveness. The second reading is that he is already tracking her preferences closely enough to feel entitled to anticipate her."
+    },
+    {
+      "snippet_id": "S-013-SN0013",
+      "quote": "“I’m getting good at reading you, in a nice way I hope.”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He names surveillance as tenderness. The soft disclaimer does a lot of work here, because it lets him claim he is simply being caring while normalizing close monitoring of her moods."
+    },
+    {
+      "snippet_id": "S-013-SN0014",
+      "quote": "it also made me feel like he was already watching for a mood shift",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She notices the watchfulness, even if she does not fully distrust it yet. The feeling matters because it shows she has already sensed that his attention is becoming directional."
+    },
+    {
+      "snippet_id": "S-013-SN0015",
+      "quote": "he misses me the second I leave",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate on the surface, but it also reveals how quickly separation becomes painful for him. That kind of immediacy can turn normal distance into a problem she has to manage."
+    },
+    {
+      "snippet_id": "S-013-SN0016",
+      "quote": "“Is that too much?”",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He checks his own intensity just enough to seem self-aware. But the question functions like a request for reassurance, which nudges her into soothing him instead of evaluating the behavior."
+    },
+    {
+      "snippet_id": "S-013-SN0017",
+      "quote": "“I’m trying to be normal about me”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The joke makes his neediness feel charming, but it also admits there is a lot of feeling under the surface. He is asking her to help him manage it by laughing along."
+    },
+    {
+      "snippet_id": "S-013-SN0018",
+      "quote": "I’m the one reassuring him a lot",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest sign of the role shift. She is not just receiving affection anymore, she is becoming responsible for keeping him emotionally steady."
+    },
+    {
+      "snippet_id": "S-013-SN0019",
+      "quote": "I don’t mind being close to him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is explicitly defending the closeness, which is why the rest of the concern stays small. The problem is not that she dislikes him, it is that closeness is already starting to carry a job."
+    },
+    {
+      "snippet_id": "S-013-SN0020",
+      "quote": "I’m supposed to answer every time he gets a little wobbly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the structural worry, even though she says it gently. His feelings are beginning to set the terms of her availability, which is how affection starts turning into obligation."
+    },
+    {
+      "snippet_id": "S-013-SN0021",
+      "quote": "the coffee comment",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She ends on a tiny moment because that is the safest socially acceptable thing to ask about. The fact that this small detail stayed with her is the clue that the larger pattern is already bothering her."
+    }
   ],
+  "validation_warnings": [],
   "repetition_warnings": []
 }

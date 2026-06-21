@@ -1,0 +1,440 @@
+{
+  "scenario_id": "S-041",
+  "player_type": "Charming Charlie",
+  "scenario": {
+    "scenario_id": "S-041",
+    "architecture_name": "He uses total attention and fast-moving romance to make me feel chosen, then quietly makes my time and reactions revolve around him.",
+    "culture": "Black Professional",
+    "demographics": "Young adult Black woman, child of divorced parents, recently back from Lagos; he is a Black professional man in Atlanta, mid-30s, polished, socially fluent, and newly dating into the family sphere.",
+    "cultural_context": "Family/social sphere involving a mother’s new partner and cross-Atlantic family ties",
+    "geographic_setting": "Atlanta, Georgia, with recent travel from Lagos, Nigeria",
+    "core_behaviors": [
+      "Total attention that feels flattering and consuming",
+      "Plans around my schedule while calling it care",
+      "Uses family approval and my mom's happiness to make me soften",
+      "Turns my hesitation into tiredness or overthinking"
+    ],
+    "satellite_signals": "Cross-Atlantic family ties, Atlanta Black professional polish, and the language of being 'a real one' and 'not for us' shape how his attention reads as maturity instead of pressure.",
+    "dismissible_red_flags": "He mostly seems thoughtful, proud to include me, and eager to fit into the family rhythm. The only thing that lingers is how often my time and feelings get folded into his plans.",
+    "scenario_text": "I got back to Atlanta from Lagos three days ago, and everything still feels a little bright around the edges. My mom keeps saying how nice it is to have me home, and her new partner has been around enough that it’s starting to feel normal. He’s polished in that way some Black professional men in the city are, always dressed like he has somewhere important to be, but he makes time for me too. That part is sweet.\n\nAt dinner last night he leaned over and said, “You remind me of somebody I admire.” I laughed because it sounded flattering, and honestly, it did feel good. He keeps telling my mom I’m a real one, not one of those people who come in acting all guarded. I’m not sure I love being compared to somebody else, but he says it so warmly that I let it go.\n\nHe also has this habit of filling up my schedule. If I mention seeing my old friends from school, he’ll suddenly know a brunch spot or a museum or some little thing he thinks I should do first. He says he just wants to make the most of my time here, which sounds considerate. My mom smiles like that settles everything, especially when she says he’s really trying to be a great stepdad to me. I want to believe that, and mostly I do.\n\nIt’s just that when I say I’m tired from the flight or still catching up with people, he gets this soft look and tells me I’m probably just worn out. Maybe I am. He’s so attentive that I keep wondering if I’m being rude by wanting a little space. Is it weird that I felt a little off when he said he just wants to make the most of my time here?"
+  },
+  "snippets": [
+    {
+      "quote": "I got back to Atlanta from Lagos",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places her inside the cross-Atlantic family context. It matters because his attention lands in a space already full of family feeling and adjustment.",
+      "snippet_id": "S-041-SN0001"
+    },
+    {
+      "quote": "my mom keeps saying how nice it is to have me home",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Family warmth is part of the backdrop. It also helps explain why she is inclined to read his behavior generously.",
+      "snippet_id": "S-041-SN0002"
+    },
+    {
+      "quote": "her new partner has been around enough",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is entering the family sphere quickly and becoming a regular presence. That can feel welcoming, but it also starts to define the pace of her time.",
+      "snippet_id": "S-041-SN0003"
+    },
+    {
+      "quote": "He’s polished in that way some Black professional men in the city are",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is insider social texture. His polish helps him read as stable and respectable, which makes the rest of his behavior easier to excuse.",
+      "snippet_id": "S-041-SN0004"
+    },
+    {
+      "quote": "he makes time for me too",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The attention feels flattering because it is selective and focused. Early on, that kind of specialness can feel romantic before it becomes a way of organizing her around him.",
+      "snippet_id": "S-041-SN0005"
+    },
+    {
+      "quote": "You remind me of somebody I admire",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is a flattering comparison that places her in a role rather than seeing her plainly. It sounds warm, but it also makes her feel chosen by his standard.",
+      "snippet_id": "S-041-SN0006"
+    },
+    {
+      "quote": "it did feel good",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She registers the compliment landing on her, even while something about it is slightly off. That split between pleasure and uncertainty is the early seam.",
+      "snippet_id": "S-041-SN0007"
+    },
+    {
+      "quote": "He keeps telling my mom I’m a real one",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "'Real one' is a praise phrase with social weight. He is using it to cast her as the good, authentic exception, which pressures her to stay easy and agreeable.",
+      "snippet_id": "S-041-SN0008"
+    },
+    {
+      "quote": "not one of those people who come in acting all guarded",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds playful, but it quietly sets a rule that being guarded is a flaw. If she objects later, he can frame her as the kind of person he already warned against.",
+      "snippet_id": "S-041-SN0009"
+    },
+    {
+      "quote": "I’m not sure I love being compared to somebody else",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices the comparison without fully challenging it. That reaction shows she senses the role-casting even while accepting the compliment.",
+      "snippet_id": "S-041-SN0010"
+    },
+    {
+      "quote": "filling up my schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Explitation-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is not just suggesting plans. He is occupying her available time, which gives him quiet control over what she can do and who she can see.",
+      "snippet_id": "S-041-SN0011"
+    },
+    {
+      "quote": "If I mention seeing my old friends from school",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her friends are the alternative center of gravity in the scene. Mentioning them matters because his plans start to compete with those ties.",
+      "snippet_id": "S-041-SN0012"
+    },
+    {
+      "quote": "he’ll suddenly know a brunch spot or a museum",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Impulsivity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The offer sounds thoughtful, but it also reroutes her plans on his timing. It is a soft way of steering without looking like steering.",
+      "snippet_id": "S-041-SN0013"
+    },
+    {
+      "quote": "He says he just wants to make the most of my time here",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the cleanest line in the scene and the most revealing. It sounds generous, but it treats her presence like a resource to be maximized, which puts him in charge of what her time is for.",
+      "snippet_id": "S-041-SN0014"
+    },
+    {
+      "quote": "My mom smiles like that settles everything",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her mom’s approval helps close the conversation before it can become a question. That social pressure makes it harder for her to name discomfort without seeming ungrateful.",
+      "snippet_id": "S-041-SN0015"
+    },
+    {
+      "quote": "he’s really trying to be a great stepdad to me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Enmeshment-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a role claim before the role is earned. It invites her to receive him as family already, which raises the cost of any later resistance.",
+      "snippet_id": "S-041-SN0016"
+    },
+    {
+      "quote": "I want to believe that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is actively choosing the hopeful reading. That makes sense, but it also shows she is working to smooth over the part that feels slightly off.",
+      "snippet_id": "S-041-SN0017"
+    },
+    {
+      "quote": "I’m tired from the flight",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is a normal explanation for being less available. The important part is how quickly her own fatigue gets used to dismiss her hesitation.",
+      "snippet_id": "S-041-SN0018"
+    },
+    {
+      "quote": "he gets this soft look",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Empathy-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The softness is part of why he works on people. It makes his response feel caring, even when it is also a way of smoothing over her concern.",
+      "snippet_id": "S-041-SN0019"
+    },
+    {
+      "quote": "you’re probably just worn out",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He is interpreting her interior for her. Even if he means well, he is replacing her own sense of things with a more convenient explanation.",
+      "snippet_id": "S-041-SN0020"
+    },
+    {
+      "quote": "wanting a little space",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the boundary she is almost naming. It is small and reasonable, which is exactly why it matters to notice.",
+      "snippet_id": "S-041-SN0021"
+    },
+    {
+      "quote": "he just wants to make the most of my time here",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "She ends on the line that sounds nicest and feels most off. The wording turns her visit into something he can optimize, and that is the part she cannot quite shake.",
+      "snippet_id": "S-041-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": [
+    "Repetition: 8-word phrase repeated: 'he just wants to make the most of'"
+  ]
+}

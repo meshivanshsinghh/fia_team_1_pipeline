@@ -1,0 +1,425 @@
+{
+  "scenario_id": "S-145",
+  "player_type": "Dependent Drew",
+  "scenario": {
+    "scenario_id": "S-145",
+    "architecture_name": "He makes himself feel more solid by leaning on me, and I start feeling useful enough to carry him.",
+    "culture": "South Asian",
+    "demographics": "F/29 South Asian, M/31 South Asian, married, Austin tech startup",
+    "cultural_context": "Tech startup workplace with a manager building rapport through team outings and one-on-one attention",
+    "geographic_setting": "Austin, Texas; tech startup office environment",
+    "core_behaviors": [
+      "Warm adoration that makes me feel chosen",
+      "Small handoffs of planning and emotional regulation",
+      "Helplessness framed as trust and partnership"
+    ],
+    "satellite_signals": "South Asian workplace politeness, startup team language, family-first framing, gentle dependence disguised as sweetness and admiration.",
+    "dismissible_red_flags": "He is mostly affectionate, grateful, and easy to be around. The few odd moments can look like normal closeness, especially in a new marriage and a busy startup season.",
+    "scenario_text": "I’ve been at this Austin startup for about a month, and honestly the best part has been Kabir. He’s one of those people who makes the office feel softer. When I walked in this morning he looked up from his laptop and said, “There she is. My whole day just got better.” I laughed because it was a little extra, but also sweet. He does that a lot, says things like I’m the most capable person on the team, that I make everything feel simpler, that he just likes being around someone who knows what she’s doing. It’s flattering in a way I’m not used to.\n\nYesterday he asked if I could look at a vendor email before he sent it, because, in his words, I’m “so much better with this official stuff.” I told him it was fine, and he looked genuinely relieved, like I’d saved him from something huge. Then at lunch he asked if I was going to the team thing next week and, when I said maybe, he went, “No, no, you should. Just text me though? I get a bit lost when you’re gone.” That made me smile, and I did text him later when I was stuck in a meeting, just so he wouldn’t worry.\n\nHe’s also very into taking care of people. He brought me tea the other day and said, “I made you tea. In bed. It’s slightly wrong but I tried.” It was honestly adorable. He’s always saying he’s a giver, that he loves being taken care of too, which I thought was kind of honest. Maybe a little helpless, but in a cute way. He’s married, so none of this feels secret or anything, just a bit intense in a sweet way. I guess I’m wondering about one thing: is it weird that he keeps asking me to text when I’m in meetings?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been at this Austin startup for about a month",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Sets the scene in a startup workplace, where casual closeness and one-on-one attention can feel normal and professional at first.",
+      "snippet_id": "S-145-SN0001"
+    },
+    {
+      "quote": "the best part has been Kabir",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She centers him quickly and warmly. It shows he is already becoming the emotional highlight of her day, which makes later dependence feel flattering rather than intrusive.",
+      "snippet_id": "S-145-SN0002"
+    },
+    {
+      "quote": "one of those people who makes the office feel softer",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is praise that frames him as emotionally soothing and safe. It sounds nice, but it also positions him as the mood-setter in the room.",
+      "snippet_id": "S-145-SN0003"
+    },
+    {
+      "quote": "There she is. My whole day just got better",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is adoration that makes her responsible for his mood. It feels romantic, but it quietly turns her arrival into emotional supply for him.",
+      "snippet_id": "S-145-SN0004"
+    },
+    {
+      "quote": "My whole day just got better",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is making her the source of his day improving. That kind of line can feel sweet early on, while also setting up her as his regulator.",
+      "snippet_id": "S-145-SN0005"
+    },
+    {
+      "quote": "the most capable person on the team",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He flatters her competence in a way that feels generous. The compliment also nudges her into the role of the capable one he can lean on.",
+      "snippet_id": "S-145-SN0006"
+    },
+    {
+      "quote": "I make everything feel simpler",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He credits her with making his life manageable. That sounds affectionate, but it also starts assigning her the job of reducing his friction and confusion.",
+      "snippet_id": "S-145-SN0007"
+    },
+    {
+      "quote": "he just likes being around someone who knows what she’s doing",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is admiring her competence while quietly selecting her as the person who will organize and steady things for him.",
+      "snippet_id": "S-145-SN0008"
+    },
+    {
+      "quote": "I’m so much better with this official stuff",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He hands off a task by making himself the less capable one. It reads as trust, but it also starts moving responsibility onto her.",
+      "snippet_id": "S-145-SN0009"
+    },
+    {
+      "quote": "you’d saved him from something huge",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her reaction shows the hook working. She feels useful and important, which makes the handoff seem like closeness instead of a growing burden.",
+      "snippet_id": "S-145-SN0010"
+    },
+    {
+      "quote": "I get a bit lost when you’re gone",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest dependence line in the passage. It sounds vulnerable, but it also makes her absence feel like a problem he needs her to solve.",
+      "snippet_id": "S-145-SN0011"
+    },
+    {
+      "quote": "Just text me though?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A small request becomes a tether. Because she’s at work and he wants contact anyway, the line quietly narrows her freedom to be unavailable.",
+      "snippet_id": "S-145-SN0012"
+    },
+    {
+      "quote": "I get a bit lost when you’re gone",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She notices the dependence but files it under sweetness. That little pause is important because it shows she is already adjusting her behavior around his feelings.",
+      "snippet_id": "S-145-SN0013"
+    },
+    {
+      "quote": "He’s also very into taking care of people",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is how she explains his appeal. It sounds like a virtue, but it also makes caretaking part of his identity, which can hide how much he expects back.",
+      "snippet_id": "S-145-SN0014"
+    },
+    {
+      "quote": "He brought me tea the other day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A small caring gesture builds warmth and gratitude. On its own it’s lovely, but in context it helps establish that she should feel indebted to his attention.",
+      "snippet_id": "S-145-SN0015"
+    },
+    {
+      "quote": "I made you tea. In bed.",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The gesture is intimate and a little theatrical. It creates a soft, caretaking atmosphere where he gets credit for effort and closeness at the same time.",
+      "snippet_id": "S-145-SN0016"
+    },
+    {
+      "quote": "It’s slightly wrong but I tried",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He frames his own effort as enough to deserve praise. That can be charming early, but it also trains her to reward very low-level effort.",
+      "snippet_id": "S-145-SN0017"
+    },
+    {
+      "quote": "I’m a giver",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is a self-description that sounds generous and mature. In a dependent pattern, it can also mean he wants to be seen as loving while staying entitled to being looked after.",
+      "snippet_id": "S-145-SN0018"
+    },
+    {
+      "quote": "I love being taken care of too",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He openly centers receiving care. That sounds honest, but it also hints that the relationship may become organized around her supplying comfort and structure.",
+      "snippet_id": "S-145-SN0019"
+    },
+    {
+      "quote": "Maybe a little helpless, but in a cute way",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already translating helplessness into charm. That’s the exact kind of rationalization that can make dependence feel romantic instead of costly.",
+      "snippet_id": "S-145-SN0020"
+    },
+    {
+      "quote": "he keeps asking me to text when I’m in meetings",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the smallest visible version of the pattern. It isn’t alarming, but it does show he wants access to her attention even while she is working.",
+      "snippet_id": "S-145-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

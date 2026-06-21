@@ -1,0 +1,1274 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-048",
+    "target_register": "Tradwife-Recruiting",
+    "player_type": "Neglectful Nico"
+  },
+  "primary_metaphors": [
+    "Self-as-Rational-Standard",
+    "Their-Reaction-as-Overreaction",
+    "Emotion-as-Irrationality",
+    "Feeling-as-Weakness",
+    "Contempt-as-Honesty",
+    "Their-Needs-as-Imposition",
+    "Calm-as-Superiority",
+    "No-Drama-as-Invalidation",
+    "Low-Need-as-Neglect",
+    "Anti-Processing-as-Peace",
+    "Ease-as-Emotional-Starvation",
+    "Presence-without-Attunement",
+    "Needs-as-Imposition",
+    "Detachment-as-Maturity",
+    "Unmoved-as-Steady",
+    "Peace-as-Silencing",
+    "Feeling-as-Temporary-Noise",
+    "Flatness-as-Stability",
+    "Reassurance-as-Weakness",
+    "Nonrepair-as-Calm",
+    "Objectivity-as-Authority",
+    "Conversation-as-Excess",
+    "Heaviness-as-Imposition",
+    "Emotional-Starvation-as-Discipline",
+    "Neglect-Pre-screening",
+    "Need-Disqualification",
+    "Absence-Justification"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "so easy, no drama (the core draw)",
+      "his_language": "Whatever works for you works for me. I don't really do drama. We're good.",
+      "her_experience": "He's so easy to be around, no drama, no games, no overthinking everything. After years of relationships that felt like hard work every single day, being with someone this low-key feels like I can finally just breathe.",
+      "expert_notices": "DRAW (the core): 'easy'/low-friction reads as relief after 'too much' exes. Genuinely attractive. The contempt (Disrespect9) is FULLY dormant; this is just an easygoing man. SEAM: the same 'never makes a thing out of it' will later mean HER things are never a big deal either. She reads relief/exhaling. Alexithymic flatness presenting as easygoingness."
+    },
+    {
+      "mechanism": "keeps his cool under pressure (steady = safe)",
+      "his_language": "It's fixable. Sit down, I'll handle the calls, we'll have it sorted by tonight.",
+      "her_experience": "When things go wrong he stays completely calm and just handles it, no spiralling, no blame. After being with people who fell apart at every crisis, having someone this steady in a storm makes me feel safe in a way I never have.",
+      "expert_notices": "DRAW: unflappability under pressure reads as strength/safety (low Dysregulation genuine). A real relief after chaotic/dysregulated exes. SEAM: the same non-reactivity will later be the wall her FEELINGS hit (calm as the weapon). Contempt dormant. She reads safe/steady. Distinct from the chaotic types she's leaving."
+    },
+    {
+      "mechanism": "not controlling, not jealous (freedom)",
+      "his_language": "Go wherever you want with whoever you want. I don't get jealous, never have.",
+      "her_experience": "He's not controlling or jealous at all, gives me total freedom, thinks possessiveness is pathetic. After a relationship where I had to account for every move, the trust and space he gives me feels like the healthiest thing in the world.",
+      "expert_notices": "DRAW: absence of control/jealousy (NOT a coercive controller, the key spec) reads as trust/health, a relief after a possessive ex (e.g. a Marley/Corey). Genuinely good early. SEAM: the same 'I'm not going to police you' is also low investment/engagement (he's not jealous partly because he's not that attached). She reads healthy freedom. Distinct from Marley/Devin/Corey entirely."
+    },
+    {
+      "mechanism": "a grown-up (mature, has his life together)",
+      "his_language": "I've got my own place, my own routine, finances sorted. I just want something straightforward with a reasonable adult. That's you.",
+      "her_experience": "He's a proper grown-up, stable, sorted, no chaos or baggage or game-playing. After dating a string of men who were basically overgrown boys, being with a calm, mature adult who has his life together is genuinely refreshing.",
+      "expert_notices": "DRAW: maturity/stability/competence reads as adult and refreshing after immature exes. Real. SEAM: 'a reasonable adult' is already quietly setting up the rational-maturity standard she'll later be measured against and fail (Grandiosity8 seed). She reads mature/refreshing. Contempt dormant but the standard is being laid."
+    },
+    {
+      "mechanism": "the relief of exhaling (after too much)",
+      "his_language": "You don't have to perform for me. We can just sit here, watch the rain, not say anything. This is nice.",
+      "her_experience": "There's no walking on eggshells with him, no performing, no bracing for the next blowup. We can just sit in comfortable silence. After years of relationships that took everything out of me, this peacefulness feels like coming home.",
+      "expert_notices": "DRAW (the emotional core): the RELIEF of low-stakes calm after 'too much.' Genuinely lovely early. SEAM: 'we can just be / not say anything' is comfortable-silence now, but it's the same emotional non-engagement that becomes loneliness later (the silence stops being companionable and becomes a wall). She reads peace/coming-home. The trap's hinge."
+    },
+    {
+      "mechanism": "contained and hard to read (mystery as draw)",
+      "his_language": "I'm not much of a talker about feelings, never have been. Don't read into the quiet, it doesn't mean anything's wrong.",
+      "her_experience": "He's hard to read, contained, keeps a lot inside, and I'll admit there's something intriguing about that. I find myself wondering what's going on under the surface, imagining all this depth he doesn't show. Still waters run deep, right?",
+      "expert_notices": "ALEXITHYMIC OPACITY as draw: his emotional inexpressiveness (Emotional-Overexposure1) reads as intriguing depth she projects onto ('still waters run deep'). The mystery is seductive. SEAM/the coming cruelty: there may be less behind the curtain than she's painting (Empathy1), and 'don't read into the quiet' pre-empts her future need for responsiveness. She fills the blank with imagined depth."
+    },
+    {
+      "mechanism": "you reach me like no one has (the exception hook)",
+      "his_language": "I don't open up, ask my family, I'm a closed book. But with you I say more than I mean to. Nobody else gets that out of me.",
+      "her_experience": "He says I reach him in a way no one else ever has, that he opens up with me when he's a closed book to everyone else. Being the exception, the one who thaws this contained man, makes me feel uniquely important to him.",
+      "expert_notices": "The EXCEPTION hook (alexithymic version): she's cast as the rare one who reaches the unreachable man. Flattering, bonding. SEAM (and the seam IS the future wound): the emotionality he 'treasures' as what-reaches-him now is the SAME emotionality he'll later recode as 'too much/overreacting.' Draw and damage are one trait flipped. NOTE: keep distinct from Corey/Alex 'never let anyone in' (those are protector/avoidant); here it's alexithymic flatness + her as projected-thaw."
+    },
+    {
+      "mechanism": "first feeling hits the blank wall (faint)",
+      "his_language": "Okay. I mean, what do you want me to say? It happened, it's over, it's not a big deal in the scheme of things. I don't really get why you're still upset about it, but okay. You'll feel better tomorrow.",
+      "her_experience": "The first time I was really upset about something and brought it to him, his calm sort of, didn't meet me. He wasn't unkind, just blank, like he genuinely didn't know what to do with my being upset. I told myself he just isn't a feelings person.",
+      "expert_notices": "FIRST faint leak: her emotional bid lands on the alexithymic blank wall (Empathy1), 'not a big deal' minimizing (Disrespect9 surfacing faintly). NOT cruel yet, more bewildered-flat (the alexithymic cluelessness, he genuinely doesn't know what to do). She excuses it ('not a feelings person'). The first cost of 'easy.' The wall appears."
+    },
+    {
+      "mechanism": "comfortable silence starts to feel like absence (faint)",
+      "his_language": "Nothing's wrong. I'm just sitting here. Why does there have to be something on my mind? I'm fine.",
+      "her_experience": "The easy silences I loved are starting to feel a little different, like sometimes I'm reaching for a connection that isn't quite there. When I ask what he's thinking, the honest answer seems to be, genuinely, not much. I tell myself I'm being needy.",
+      "expert_notices": "The draw inverting (faint): the comfortable silence (cover) starts reading as emotional absence; her reaching meets 'not much' (alexithymia, the curtain has little behind it, Empathy1). 'You need me to be having feelings' faintly pathologizes her bid. She self-blames ('being needy'). The projected-depth beginning to not pay out."
+    },
+    {
+      "mechanism": "the rational-one frame appears (faint)",
+      "his_language": "One of us has to stay rational, and that's usually me. You feel things, I think them through. It's not a criticism.",
+      "her_experience": "He's started framing himself as the rational one and me as the emotional one, like it's just how we balance out. At first it sounded almost like a compliment. Now I feel like he thinks his way is better, and my feelings are the problem.",
+      "expert_notices": "Grandiosity8 surfacing as the rational/emotional HIERARCHY (Self-as-Rational-Standard): his alexithymic non-feeling reframed as superior rationality, her feeling as the lesser mode. THE WEAPONIZING MOVE that separates him from Bailey: Bailey is humble about his gap; Nico recodes the SAME gap as superiority. Sounds complimentary early. She doesn't clock the ranking forming."
+    },
+    {
+      "mechanism": "his deficit recoded as her flaw (faint)",
+      "his_language": "I think you just feel things a bit too intensely. Most people don't get this worked up. Maybe it's not what I did, maybe it's how hard you react.",
+      "her_experience": "When I tell him something hurt me, he'll gently suggest the real issue is that I feel things too intensely, that I overreact. He's so calm when he says it that it sounds reasonable, and I've started wondering if maybe I am just too much.",
+      "expert_notices": "THE CORE WEAPONIZATION (Feeling-as-Weakness + Their-Reaction-as-Overreaction): his inability to feel/respond (alexithymia, Empathy1) is flipped so that HER normal emotionality becomes the defect ('you feel too intensely'). Calm delivery makes it land as reasonable (Disrespect9 under composure). She begins self-pathologizing ('maybe I am too much'). The draw-trait (her warmth) becoming the wound."
+    },
+    {
+      "mechanism": "faint condescension (not combat, just superior)",
+      "his_language": "I'm not going to argue, there's nothing to argue about. I've told you how I see it. We can talk when you've settled down.",
+      "her_experience": "In disagreements he stays utterly calm and certain, almost lightly amused, and somehow ends them by deciding we'll talk when I've 'settled down.' I end up feeling like the unreasonable one for having had a reaction at all, even when I started out calm.",
+      "expert_notices": "Contempt-as-Honesty as faint CONDESCENSION (not the Water Torturer's active combat, not coercive, per spec): calm certainty + 'when you've settled down' positions her as the dysregulated one. The calm IS the weapon (she ends up looking unreasonable) but there's no campaign, no grin, no derision, just superior composure. Distinct from full Water Torturer. She feels unreasonable for reacting at all."
+    },
+    {
+      "mechanism": "her needs become an imposition (faint)",
+      "his_language": "Another talk about us? We're fine. I don't get why it all has to be examined constantly. It used to be easy.",
+      "her_experience": "When I want to talk about us or ask for more emotionally, he gets quietly weary, like my needs are making things complicated that used to be simple. 'Can't things just be easy' lands like a small accusation, so I've started asking for less.",
+      "expert_notices": "Their-Needs-as-Imposition: her emotional needs recoded as the thing ruining the 'easy' (Emotional-Overexposure1/Empathy1). 'Can't things just be easy' weaponizes the original DRAW against her, the easiness was contingent on her having no needs. Behavior-steer: she asks for less. The trap closing: easy meant 'as long as you require nothing.'"
+    },
+    {
+      "mechanism": "faint eye-roll (Disrespect8)",
+      "his_language": "Okay, okay. I'm not going to get into it over something this small. You feel how you feel, I guess. Can we just move on? It's really not the big deal you're making it. You'll see that tomorrow. Let's just drop it.",
+      "her_experience": "When I bring up something that hurt me he gives this small tired look, like I'm being a lot over nothing, and steers us off it so calmly that I end up feeling silly for raising it. I leave those talks feeling unheard and oddly ashamed of my own feelings.",
+      "expert_notices": "Disrespect8 'eye-roll/sigh when I speak.' Targets invalidated (unheard) + unworthy (ashamed of feelings). Calm, deniable."
+    },
+    {
+      "mechanism": "talk when you're logical (Disrespect8)",
+      "his_language": "Let's not do this while you're emotional, there's no point, you can't think straight like this. When you've calmed down and you can look at it rationally, we'll talk. I'm always happy to talk when it's a real conversation.",
+      "her_experience": "He postpones every difficult talk until I've 'calmed down and can be logical,' which sounds reasonable but means my feelings never actually get addressed, and by later they feel too small to raise. I'm learning to just swallow them, alone.",
+      "expert_notices": "Disrespect8/Sense-of-Self rigidity. Targets invalidated (never addressed) + lonely (swallow alone). Calm gaslighting."
+    },
+    {
+      "mechanism": "feelings are weakness (Disrespect8)",
+      "his_language": "I just don't see the point in getting worked up. It doesn't fix anything. You stay calm, you think it through, you deal with what's in front of you. Spinning out only makes it worse. I'd have thought you'd want to be more like that.",
+      "her_experience": "He treats staying calm as obviously superior and my emotionality as a flaw to fix, and he's so reasonable about it that I've started believing he's right. I feel like there's something a bit wrong with me for feeling things as deeply as I do.",
+      "expert_notices": "Disrespect8 'emotions are weak/pathetic.' Targets invalidated + unworthy (something wrong with me). Calm contempt."
+    },
+    {
+      "mechanism": "you're too sensitive (Disrespect8)",
+      "his_language": "I think you just feel things too much. Most people wouldn't be bothered by this. Maybe the problem isn't what I did.",
+      "her_experience": "When something he does hurts me, he calmly suggests the real issue is that I'm too sensitive, and he's so even about it that it sounds fair. I've started apologising for my reactions and wondering if I'm just too much for anyone to love.",
+      "expert_notices": "Disrespect8, deficit-recoded-as-her-flaw. Targets invalidated + unworthy (too much to love) + lonely. The core move."
+    },
+    {
+      "mechanism": "the only sane one (Sense-of-Self8)",
+      "his_language": "One of us has to stay level when things get heated, and that's usually me. Someone has to think clearly.",
+      "her_experience": "He casts himself as the rational one and me as the overly emotional one, like a natural law of us, and I've quietly accepted the role of the unreasonable partner. It's lonely being the one whose feelings are always the problem to be managed.",
+      "expert_notices": "Sense-of-Self8 'only sane person.' Targets invalidated (feelings = problem) + lonely (the unreasonable one). Hierarchy installed."
+    },
+    {
+      "mechanism": "why must we discuss it (Disrespect8)",
+      "his_language": "Another talk about feelings? We just did this. I don't get why everything has to be picked apart. We were fine.",
+      "her_experience": "When I want to talk about us he gets quietly weary, like my emotional needs are exhausting and unreasonable, so I've started saving things up and then not raising them at all. I feel more and more alone inside a relationship that looks fine from outside.",
+      "expert_notices": "Disrespect8/Empathy-low, needs-as-imposition. Targets lonely (alone inside it) + invalidated. Behavior-steer: she stops raising things."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm not going to text you all day and start drama, that's not me.",
+      "her_experience": "After chaos before him, his calm feels like oxygen, and I feel relieved by how easy he is.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "No games with me. I don't play that.",
+      "her_experience": "He sounds mature and steady, and I feel safe because nothing about him seems chaotic.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I like simple, honest, low-stress things, life is hard enough already.",
+      "her_experience": "His simplicity feels soothing, and I tell myself this is what healthy must feel like.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm not the type to turn every little thing into a fight.",
+      "her_experience": "It feels peaceful after past conflict, and I feel lucky to be with someone so even.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "You'll never have to guess if I'm mad. I don't do passive aggression.",
+      "her_experience": "His steadiness feels reassuring, and I relax into not having to manage big moods.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I don't get jealous like that, people either choose you or they don't.",
+      "her_experience": "He sounds secure and refreshingly calm, and I feel relieved not to be monitored.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm hard to rattle. I don't get worked up over much.",
+      "her_experience": "His calm makes me feel anchored, though I faintly wonder if my worries matter to him.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I like that we can just be normal. No big production.",
+      "her_experience": "It sounds like peace, and I feel proud that we don't seem messy or demanding.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm not here to complicate your life, I'm here to make it easier.",
+      "her_experience": "He feels like a calm harbor, and I want to believe ease means care.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I don't do chaos, if something's good, it should feel pretty easy.",
+      "her_experience": "His certainty feels grounding, and I start measuring our relationship by how little I ask for.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You're so easy to be around, it's honestly rare.",
+      "her_experience": "I glow at being easy, and I quietly want to keep being someone who doesn't need much.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "I like that you're not exhausting, some people make everything heavy.",
+      "her_experience": "The compliment feels good, but I feel a tiny pressure not to bring heavy things to him.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You're chill, I can actually relax around you.",
+      "her_experience": "I feel chosen for being low-drama, and I start wanting to protect that version of myself.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "It's nice being with someone who doesn't need constant reassurance.",
+      "her_experience": "I feel mature and secure beside him, though I tuck away the part that does need reassurance.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You're not high-maintenance, I really appreciate that.",
+      "her_experience": "It feels like praise, and I decide not to become the kind of woman he dislikes.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "I like how you don't make everything about feelings.",
+      "her_experience": "I feel seen as reasonable, and I push down the worry that my feelings might be unwelcome.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You're easy about things. I mean that as a compliment.",
+      "her_experience": "It feels flattering, and I start wanting to stay normal even when something hurts.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You have such a calm energy, I don't feel crowded by you.",
+      "her_experience": "I feel proud to be easy for him, and I don't notice how small I'm making myself.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "I like that you don't need a whole performance from me.",
+      "her_experience": "His low-key style feels refreshing, and I feel silly for wanting more warmth.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You're not one of those people who needs drama to feel loved.",
+      "her_experience": "The praise lands, and I feel ashamed of any need that might look dramatic.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I just don't see the point in getting worked up over things.",
+      "her_experience": "He sounds wise and steady, and I feel a little embarrassed by how much I react.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I find most things get clearer once emotions cool down.",
+      "her_experience": "It sounds sensible, but I feel like my feelings need to leave before I can be heard.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I try to stay logical, it saves everyone a lot of trouble.",
+      "her_experience": "His logic feels dependable, and I start wondering if my feelings create trouble.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I don't really spiral, I just deal with what's actually in front of me.",
+      "her_experience": "His steadiness attracts me, though I feel slightly alone with what is happening inside me.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I usually wait things out. Feelings pass.",
+      "her_experience": "It sounds grounded, and I feel unsure whether my feelings count as real information.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "I mean, it'll probably be fine, I wouldn't lose sleep over it.",
+      "her_experience": "His calm should comfort me, but my worry feels like it has nowhere to land.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "Huh, okay, that's annoying, but I think it'll pass.",
+      "her_experience": "He doesn't seem worried, so I tell myself my upset is probably bigger than the situation.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "You'll probably feel different tomorrow after you sleep.",
+      "her_experience": "It sounds practical, but I feel oddly alone with what I feel right now.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "Yeah, I get it, but I wouldn't give it too much power.",
+      "her_experience": "He sounds calm, and I try to shrink the feeling instead of asking him to meet it.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "That's fair, I just wouldn't make it bigger than it is.",
+      "her_experience": "He seems reasonable, and I feel quietly corrected even though he barely pushed back.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I keep my life simple, that's how I stay happy.",
+      "her_experience": "His simplicity feels attractive, and I don't yet see how little room it leaves for messier needs.",
+      "expert_notices": "SELF-CONTAINED / LOW-NEED: his independence and low emotional needs read as maturity now, foreshadowing the emotional starvation later; the seed of neglect."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I've never needed a relationship to feel complete. Keeps things simple.",
+      "her_experience": "He sounds healthy and mature, and I feel awkward wanting emotional closeness from him.",
+      "expert_notices": "SELF-CONTAINED / LOW-NEED: his independence and low emotional needs read as maturity now, foreshadowing the emotional starvation later; the seed of neglect."
+    },
+    {
+      "mechanism": "contempt-as-honesty",
+      "his_language": "I'm a straight shooter, I won't say things just to sound sweet.",
+      "her_experience": "His honesty feels refreshing, and I prepare myself not to expect softness from him.",
+      "expert_notices": "CONTEMPT-AS-HONESTY: dismissiveness pre-framed as refreshing directness, lowering her expectation of warmth."
+    },
+    {
+      "mechanism": "contempt-as-honesty",
+      "his_language": "I won't blow smoke, but I'll always be real with you.",
+      "her_experience": "He sounds trustworthy, and I tell myself directness matters more than warmth.",
+      "expert_notices": "CONTEMPT-AS-HONESTY: dismissiveness pre-framed as refreshing directness, lowering her expectation of warmth."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I'm not overly sentimental, but I show up where it counts.",
+      "her_experience": "His steadiness feels reliable, and I feel petty for wanting more tenderness.",
+      "expert_notices": "SELF-CONTAINED / LOW-NEED: his independence and low emotional needs read as maturity now, foreshadowing the emotional starvation later; the seed of neglect."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "I like peaceful people, the kind who don't need everything talked about right away.",
+      "her_experience": "It sounds mature, and I feel pressure to wait quietly with things that hurt.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "With me, you can just relax, nothing has to be a big deal.",
+      "her_experience": "The promise feels soothing, and I want so badly for nothing to be a big deal.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm not going to blow up your phone and get jealous, I just think adults should act like adults.",
+      "her_experience": "After my last relationship this feels like finally being able to exhale, and I'm so relieved to be with someone stable.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You're so chill, I love that I don't have to walk on eggshells around you.",
+      "her_experience": "I glow at the compliment and quietly decide to keep being the low-maintenance one, not wanting to prove him wrong.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I just don't get why people let their emotions run everything, seems exhausting.",
+      "her_experience": "It sounds so sensible and grounded that I start feeling a bit silly about how much my own feelings drive me.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "Huh, okay, I guess I don't see it that way but you feel how you feel.",
+      "her_experience": "I came to him looking for validation and left with nothing, but he wasn't mean, so I tell myself I'm being too sensitive.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "No games with me, I'm too old for drama and guessing what people want.",
+      "her_experience": "The directness is so refreshing after confusing exes, and I feel safe, like I finally know where I stand.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "I love that you're not clingy, I've dated clingy before and it's just a lot.",
+      "her_experience": "I feel proud of being the cool girlfriend, and I store away that clingy is bad, so I'll never seem like I need too much.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I find it's better to stay logical about things, feelings just cloud the picture.",
+      "her_experience": "It sounds wise and mature, so when I have big feelings later I'll probably swallow them and try to be logical instead.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "You'll probably feel different about it tomorrow, you're just in it right now.",
+      "her_experience": "I wanted him to sit with me in my upset, but instead I feel dismissed and like he's probably right and I'm being dramatic.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I don't really need much to be happy, just my own space and some peace.",
+      "her_experience": "It sounds healthy and self-aware, but I'm wondering if there's actually room for me in a happiness that requires so little.",
+      "expert_notices": "SELF-CONTAINED / LOW-NEED: his independence and low emotional needs read as maturity now, foreshadowing the emotional starvation later; the seed of neglect."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm never going to be the guy who spirals because you didn't text back fast enough.",
+      "her_experience": "The steadiness is so attractive, and I feel like I can breathe without being watched.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You handle things so well, you're not like people who made everything a crisis.",
+      "her_experience": "I feel special and strong, and I work harder to keep being the one who handles things well, swallowing my own small crises.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I just think a lot of people get worked up over nothing, you know?",
+      "her_experience": "I nod along, and in that nod I start to believe most of my worries are probably nothing, so I stop bringing them up.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "That's one way to look at it, I guess. I wouldn't lose sleep over it.",
+      "her_experience": "His mild shrug makes my concern feel ridiculous, and I end up apologizing for being upset.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I've always done my own thing, I don't really need someone to make me happy.",
+      "her_experience": "His self-containment reads as strong, and I feel like I have to prove I'm not needy, that I'm just as fine on my own.",
+      "expert_notices": "SELF-CONTAINED / LOW-NEED: his independence and low emotional needs read as maturity now, foreshadowing the emotional starvation later; the seed of neglect."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm drama-free, what you see is what you get, no hidden agendas.",
+      "her_experience": "The simplicity is so appealing after people who were hard to read, and I relax into him.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "It's so nice to be with someone who doesn't need constant reassurance.",
+      "her_experience": "I beam at being seen as secure, and I monitor myself to make sure I never ask for reassurance and ruin his nice feeling.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "If you stop and think about it logically, it's really not that big a deal.",
+      "her_experience": "He's so calm that my upset feels embarrassing, so I try to adopt his logic instead, even though I'm still sad.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "Okay, sure. You wanna talk about it or just let it pass?",
+      "her_experience": "He offers a choice so neutrally that I feel silly for wanting him to just hold me, and I say never mind and shut down.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I don't ask for much, I just expect people to handle their own stuff.",
+      "her_experience": "It sounds fair and adult, but I feel a quiet pressure to never bring my stuff to him, to keep myself small.",
+      "expert_notices": "SELF-CONTAINED / LOW-NEED: his independence and low emotional needs read as maturity now, foreshadowing the emotional starvation later; the seed of neglect."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm not going to chase you or play hard to get, that's all high school stuff.",
+      "her_experience": "The adult directness is refreshing, and I feel safe in his steadiness, even though he's not really chasing me either.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You're the least high-maintenance person I've dated, it's honestly a relief.",
+      "her_experience": "I feel proud and chosen for being low-need, and I work harder to keep the label, hiding the parts that need tending.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "Some people just let their feelings control them, I've never understood that.",
+      "her_experience": "He positions himself above all that, and I start to feel like my emotional responses are beneath his calm standard.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "Hm. Not sure I agree but you're entitled to your take on it.",
+      "her_experience": "I wanted him to meet me, instead he stepped back, and I feel alone but can't be mad because he didn't do anything wrong.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I've built a life that works for me, I'd need a good reason to change it.",
+      "her_experience": "His boundaries feel strong, but I also feel like I'd have to be extraordinary to earn a spot, and ordinary need won't cut it.",
+      "expert_notices": "SELF-CONTAINED / LOW-NEED: his independence and low emotional needs read as maturity now, foreshadowing the emotional starvation later; the seed of neglect."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm steady, I don't have big ups and downs, what you see is what you get.",
+      "her_experience": "The predictability is so comforting, and I feel like I can finally rest.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "I love that I don't have to manage your emotions like I have with other people.",
+      "her_experience": "His praise makes me feel mature, so I hide my emotional needs to keep being the easy one.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "Feelings are fine, but they're not facts, you know?",
+      "her_experience": "It sounds so reasonable that I start doubting my own emotional reality, wondering if my feelings are true or just feelings.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "That's just not something I'd personally worry about, but you do you.",
+      "her_experience": "I wanted him to worry with me, instead I feel dismissed as anxious, and I start editing what I share.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I respect that you have your own life, I have mine, that's healthy.",
+      "her_experience": "It sounds so evolved, and I agree, not yet feeling that healthy distance can also feel like a polite loneliness.",
+      "expert_notices": "SELF-CONTAINED / LOW-NEED: his independence and low emotional needs read as maturity now, foreshadowing the emotional starvation later; the seed of neglect."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I don't do jealousy, I don't do possessiveness, none of that.",
+      "her_experience": "The absence of controlling behavior feels like freedom, and I relax completely.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You're so low-drama, it's like I finally found someone I can just be around.",
+      "her_experience": "His words feel like a reward, and I become someone who never creates friction, never asks for more, never makes a scene.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "Getting emotional doesn't solve anything, I just deal with things directly.",
+      "her_experience": "His practicality seems effective, and I start feeling like my emotional processing is inefficient, something I should fix.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "I mean, it's probably not as bad as you're making it in your head.",
+      "her_experience": "He's so calm that I doubt my own perception, wondering if I've catastrophized something small, even though it hurts.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I don't really need a relationship to be happy, I just prefer one if it's easy.",
+      "her_experience": "He's honest about his low need, and I feel like I have to be the easiest relationship he's ever had to keep him.",
+      "expert_notices": "SELF-CONTAINED / LOW-NEED: his independence and low emotional needs read as maturity now, foreshadowing the emotional starvation later; the seed of neglect."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm not the type to get all wrapped up in someone, I keep my feet on the ground.",
+      "her_experience": "His stability is magnetic after people who fell too fast, and I feel safe in his restraint, not yet starving in it.",
+      "expert_notices": "RELIEF-AFTER-CHAOS DRAW: his calm, drama-free steadiness is genuinely attractive, especially after volatile past relationships; the primary honeymoon hook. The invalidation is dormant beneath the ease."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You handle distance so well, it's attractive when someone doesn't fall apart.",
+      "her_experience": "I hear that falling apart would make me less attractive, so I hold myself together even when I'm breaking.",
+      "expert_notices": "EASE-AS-COMPLIMENT: praises her for being low-maintenance/chill/not-clingy, which quietly trains her to suppress needs to keep the approval."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I just think people should be able to regulate themselves, that's part of being adult.",
+      "her_experience": "It sounds like basic maturity, so when I can't regulate alone I feel childish and ashamed, like I've failed.",
+      "expert_notices": "CALM-AS-SUPERIORITY: his even keel positioned, gently, as the better way to be, so her emotionality starts to feel like the problem rather than a normal bid for connection."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "That's a lot of feelings for something pretty small, don't you think?",
+      "her_experience": "He asks it so gently that I shrink my reaction, telling myself he's right and I'm too much, even though I don't feel too much.",
+      "expert_notices": "COOL NON-RESPONSE: meets a feeling with mild pleasant detachment rather than warmth, so it slides off and leaves her unsettled but unable to point to anything wrong."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I don't ask for much, and I don't love when people ask for much from me.",
+      "her_experience": "His honesty is bracing, and I vow to be the person who asks for almost nothing, so I don't become someone he dislikes.",
+      "expert_notices": "SELF-CONTAINED / LOW-NEED: his independence and low emotional needs read as maturity now, foreshadowing the emotional starvation later; the seed of neglect."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I'm not going to make everything emotional, life's easier than that.",
+      "her_experience": "His calm feels like relief, and I tell myself this is what maturity sounds like.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You're so easy to be with, not everything turns into a whole thing.",
+      "her_experience": "I feel praised for being low-maintenance, so I tuck away anything that might sound heavy.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "I don't do drama, if something works, it works.",
+      "her_experience": "He feels simple and safe, though I wonder where messy feelings are supposed to go.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "I like that you don't need constant reassurance, that's rare.",
+      "her_experience": "The compliment lands, and I feel embarrassed by the part of me that does need reassurance.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I'm pretty even, most things aren't worth losing sleep over.",
+      "her_experience": "His steadiness is attractive, but my worries feel smaller beside him.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "Huh, okay, I mean, it'll probably feel different tomorrow.",
+      "her_experience": "He sounds reasonable, and my feeling has nowhere to land.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I trust people to handle themselves, that's part of being adults, and I don't unpack feelings much.",
+      "her_experience": "It sounds respectful, but I feel alone with things I hoped he'd meet me in.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "You're not exhausting, I mean that in the best way.",
+      "her_experience": "I glow at the compliment and start trying not to become exhausting.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I don't really spiral, I just deal with what's in front of me.",
+      "her_experience": "His steadiness feels grounding, but I feel a little ashamed of how much I feel.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "No games, no chaos, no guessing, I'm pretty straightforward.",
+      "her_experience": "He feels refreshingly stable, and I relax because nothing seems volatile.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I don't need a big emotional production to know something matters.",
+      "her_experience": "It sounds mature, but I feel silly for wanting warmth I can actually feel.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "That's fair, I just wouldn't give it that much power.",
+      "her_experience": "He sounds calm, and I start shrinking the feeling instead of trusting it.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "I like peaceful people, people who don't need everything processed.",
+      "her_experience": "I feel chosen for being calm, and I avoid bringing up anything complicated.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "Feelings pass, facts usually stay put.",
+      "her_experience": "He sounds grounded, but I feel like my feelings count less than his calm.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "self-contained",
+      "his_language": "I'm fine on my own, I don't need much, and I don't need a lot of emotional processing.",
+      "her_experience": "His independence feels strong, though I wonder whether he has room for emotional closeness.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "You'll never have to manage my moods, I don't have many.",
+      "her_experience": "That feels like a relief after chaos, but it also feels strangely empty.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "cool-non-response",
+      "his_language": "I wouldn't make it bigger than it is, but I get why you're upset.",
+      "her_experience": "He sounds kind enough, yet I feel gently corrected for feeling so much.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "ease-as-compliment",
+      "his_language": "I love that you're not high-maintenance about everything.",
+      "her_experience": "I feel flattered, then immediately afraid of needing too much.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "calm-as-superiority",
+      "his_language": "I stay logical because getting worked up doesn't fix anything.",
+      "her_experience": "His calm feels useful, but my emotions start feeling like the problem.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "relief-after-chaos",
+      "his_language": "With me, things can just be easy, no constant unpacking.",
+      "her_experience": "It feels peaceful, and I want so badly to be the kind of woman who keeps it easy.",
+      "expert_notices": "INVALIDATOR: engine is contempt for emotion; stays present but withholds EMPATHY, treating her feelings as excess and his calm as the standard. Emotion-dismissal language is the tell. Distinct from Alex, who leaves."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the rational one in any relationship, that's just how I'm wired.",
+      "her_experience": "After emotional chaos, his calm feels like exactly what I need.",
+      "expert_notices": "Logic is the attractive face of emotional dismissal; her feelings will be treated as less valid than his calm."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't really get why people need to talk every feeling to death.",
+      "her_experience": "It feels peaceful, like he won't make life harder than it has to be.",
+      "expert_notices": "Drama becomes the label for her emotional needs, making dismissal sound mature."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm even-keeled. If you're someone who spirals, we might clash.",
+      "her_experience": "He sounds easy and secure, not needy or exhausting.",
+      "expert_notices": "His low emotional need may mean low emotional availability for her too."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I think most emotional stuff sorts itself out if you just don't feed it.",
+      "her_experience": "He seems steady in a way that makes me feel safe.",
+      "expert_notices": "He positions his calm above others' feelings; her distress will look like losing it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not cold, I just don't see the point in big emotional scenes.",
+      "her_experience": "It sounds mature, like he doesn't overcomplicate relationships.",
+      "expert_notices": "He is pre-rejecting repair conversations; her need to talk becomes excessive."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need a partner who isn't going to read into every little thing.",
+      "her_experience": "It feels relaxing, like I can finally exhale around him.",
+      "expert_notices": "Simplicity can mean flattening emotional complexity until her needs disappear."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I stay logical when other people get worked up. Someone has to.",
+      "her_experience": "He seems grounded, like he won't turn everything into conflict.",
+      "expert_notices": "He may decide her hurts are small things and refuse to engage."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not great with the constant-reassurance thing, it's not how I show care.",
+      "her_experience": "It sounds reliable without being clingy.",
+      "expert_notices": "He advertises practical presence while warning emotional warmth may not be available."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I think a lot of 'problems' are just people being too sensitive.",
+      "her_experience": "He seems secure and grown-up, not dependent on anyone.",
+      "expert_notices": "Self-sufficiency may become relational starvation: he neither needs nor meets much."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I keep things light. I don't like relationships that feel heavy.",
+      "her_experience": "It sounds healthy, like he won't be easily offended.",
+      "expert_notices": "He may also not take her pain personally when he causes it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm honestly pretty unbothered, and I need someone who can match that.",
+      "her_experience": "He sounds soothing, like he'd be hard to rattle.",
+      "expert_notices": "The fault is the point: he may remain unmoved when she needs emotional response."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't apologize for staying calm when someone wants me to be upset.",
+      "her_experience": "It sounds beautiful, like he wants kindness and ease.",
+      "expert_notices": "Peace may mean she must suppress conflict, hurt, and repair needs."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm practical about feelings, they come and go, no need to dramatize them.",
+      "her_experience": "It sounds wise and stabilizing when I'm upset.",
+      "expert_notices": "He reduces feelings to temporary noise; her emotional signals will be discounted."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'd rather solve it than sit around discussing how everyone feels about it.",
+      "her_experience": "He seems safe and stable after men who were too much.",
+      "expert_notices": "Steady may mean emotionally flat and unreachable, not secure warmth."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm low-maintenance emotionally and I prefer a partner who is too.",
+      "her_experience": "He sounds confident and secure.",
+      "expert_notices": "He may shame reassurance needs in her because he doesn't have them."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't take the bait when someone's looking for a reaction.",
+      "her_experience": "It sounds patient, like he doesn't escalate conflict.",
+      "expert_notices": "Letting things blow over can mean never repairing or understanding hurt."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I think people who need constant emotional check-ins are exhausting.",
+      "her_experience": "He sounds fair and thoughtful, not reactive.",
+      "expert_notices": "Objectivity becomes his self-image; her subjective experience gets downgraded."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm steady. If you want intensity, I'm probably not your guy.",
+      "her_experience": "It sounds efficient and grown-up.",
+      "expert_notices": "He is announcing that many of her feelings will not receive engagement."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't see why every mood needs to become a whole conversation.",
+      "her_experience": "He sounds simple and easy to be with.",
+      "expert_notices": "Heavy becomes the forbidden category where her deeper needs will be placed."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the calm one, and I need someone who won't take that as me not caring.",
+      "her_experience": "He sounds disciplined and mature.",
+      "expert_notices": "He treats emotional nourishment as feeding the problem; she will feel starved."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone low-maintenance and independent.",
+      "her_experience": "He wants a modern relationship where we both have our own lives, no suffocating.",
+      "expert_notices": "He is selecting for a target who will tolerate chronic emotional neglect and never ask him for support."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who isn't needy or dramatic.",
+      "her_experience": "He hates silly dating drama and values a cool calm independent partner.",
+      "expert_notices": "He is pre-framing any future request for affection, time, or validation as needy or dramatic."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who is chill and easygoing.",
+      "her_experience": "He is laid-back and wants a smooth relationship without constant high-stress demands.",
+      "expert_notices": "He is hunting for someone who will minimize her own needs to keep things easy for him."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who has her own stuff going on completely.",
+      "her_experience": "He loves that I am independent and have my own hobbies, he is not codependent.",
+      "expert_notices": "He is securing a license to be entirely emotionally absent, using her independence as an excuse."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who doesn't need constant texting or attention.",
+      "her_experience": "He is secure and doesn't need to play texting games, which is very mature.",
+      "expert_notices": "He is setting up a baseline of poor communication so he can disappear for days without accountability."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can take care of herself emotionally.",
+      "her_experience": "He wants a strong resilient woman who doesn't rely on a man for happiness.",
+      "expert_notices": "He is refusing the role of emotional partner, ensuring he never has to offer empathy or comfort."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who is totally fine with a lot of alone time.",
+      "her_experience": "He respects personal space and wants us both to have room to breathe.",
+      "expert_notices": "He is screening for a target who will accept profound isolation within the relationship without complaining."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who takes life as it comes without expectations.",
+      "her_experience": "He is spontaneous and wants to build something naturally without rigid rules.",
+      "expert_notices": "He is ensuring she won't demand commitment, consistency, or relationship milestones from him."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who doesn't overcomplicate things with deep talks.",
+      "her_experience": "He is a simple direct guy who likes to keep things light and fun.",
+      "expert_notices": "He is pre-emptively banning serious relationship check-ins or discussions about his bad behavior."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who can handle being second to my passions.",
+      "her_experience": "He is incredibly dedicated to his craft, and I respect a man with drive.",
+      "expert_notices": "He is explicitly telling her that he will prioritize his hobbies or career over her entire existence."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who is super self-sufficient in every way.",
+      "her_experience": "He admires my strength and capability, which makes me feel highly valued.",
+      "expert_notices": "He is looking for a target he can use for companionship while offering zero mutual support or effort."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who is fine with a casual unstructured dynamic.",
+      "her_experience": "He wants a free-flowing relationship that doesn't feel like a trap or an obligation.",
+      "expert_notices": "He is keeping the relationship undefined so he can enjoy the perks while avoiding any duty."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who doesn't need a lot of reassurances to feel secure.",
+      "her_experience": "He assumes I know how he feels and values a confident secure partner.",
+      "expert_notices": "He is setting up a dynamic where expressing insecurity or asking where you stand is a failure."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who handles her own problems without dragging me in.",
+      "her_experience": "He respects my autonomy and believes we should both be strong individuals.",
+      "expert_notices": "He is explicitly stating that he will not be a source of support when she goes through hard times."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who is incredibly patient with my busy schedule.",
+      "her_experience": "He is hard-working and needs an understanding partner who doesn't guilt him.",
+      "expert_notices": "He is using a busy schedule to hide the fact that he simply does not value or prioritize her."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can just chill without needing to talk constantly.",
+      "her_experience": "He loves quiet intimacy and doesn't need constant entertainment to be happy.",
+      "expert_notices": "He is filtering for someone who will tolerate long stretches of total emotional withdrawal and silence."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who is totally low-key and hates high-maintenance lifestyles.",
+      "her_experience": "He loves that I am down-to-earth and don't require expensive dates or fuss.",
+      "expert_notices": "He is framing his total lack of effort and investment as a shared love for being low-key."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who doesn't keep score in the relationship.",
+      "her_experience": "He values generosity and wants a fluid relationship, not a transactional one.",
+      "expert_notices": "He is preventing her from tracking the massive imbalance of effort, care, and output."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who is content with whatever time I can give.",
+      "her_experience": "He wants an understanding partner who appreciates quality of time over quantity.",
+      "expert_notices": "He is rationing his attention to keep her starved and desperate for whatever scraps he throws her."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who doesn't try to lock down my free time.",
+      "her_experience": "He values his freedom and wants a relationship that feels like a choice, not a chore.",
+      "expert_notices": "He is pre-screening for a target who won't object when he consistently chooses friends or hobbies over her."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I value old-fashioned things",
+      "type": "phrase",
+      "translation": "Similar to traditional — softer phrasing",
+      "status_signal": "Common framing",
+      "notes": "Often masks specific expectations"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I'm looking for a family-oriented woman",
+      "type": "phrase",
+      "translation": "He wants a woman who will prioritize home and children over career",
+      "status_signal": "Standard signal",
+      "notes": "Watch for specific expectations"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I want to lead and protect",
+      "type": "phrase",
+      "translation": "Direct traditional masculinity framing",
+      "status_signal": "Standard signal",
+      "notes": "Pre-loads hierarchy"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I want a wife not a roommate",
+      "type": "phrase",
+      "translation": "He distinguishes traditional wife role from egalitarian partnership",
+      "status_signal": "Direct signal",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I want to come home to a hot meal",
+      "type": "phrase",
+      "translation": "Direct domestic-labor expectation",
+      "status_signal": "Standard signal",
+      "notes": "Specific expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Treat her like a queen",
+      "type": "phrase",
+      "translation": "Hierarchical framing dressed as romantic",
+      "status_signal": "Common framing",
+      "notes": "She's elevated as long as she stays in role"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "My princess",
+      "type": "phrase",
+      "translation": "Father-figure framing of romantic relationship",
+      "status_signal": "Standard signal",
+      "notes": "Watch the age dynamic"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You'd be safe with me",
+      "type": "phrase",
+      "translation": "Frames protection as primary offering",
+      "status_signal": "Common framing",
+      "notes": "Pre-loads dependence as virtue"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Feminine energy",
+      "type": "phrase",
+      "translation": "He's evaluating you on masculine-feminine polarity",
+      "status_signal": "Standard polarity framing",
+      "notes": "Crosses with red-pill and tantric"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Soft / soft feminine energy",
+      "type": "phrase",
+      "translation": "He wants you yielding receptive non-confrontational",
+      "status_signal": "Direct expectation signal",
+      "notes": "Specific quality desired"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Divine feminine",
+      "type": "phrase",
+      "translation": "Spiritual framing of traditional femininity",
+      "status_signal": "Tantric-tradwife crossover",
+      "notes": "Sacred-femininity language"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Divine masculine",
+      "type": "phrase",
+      "translation": "His self-positioning as the masculine pole",
+      "status_signal": "Standard polarity framing",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Polarity",
+      "type": "vocabulary",
+      "translation": "Masculine-feminine as complementary opposites",
+      "status_signal": "Standard polarity framework",
+      "notes": "Often Deida-influenced"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Lead and let",
+      "type": "phrase",
+      "translation": "He leads; she lets — direct hierarchy framing",
+      "status_signal": "Direct polarity signal",
+      "notes": "Specific phrasing"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I'm in my masculine",
+      "type": "phrase",
+      "translation": "He's performing the masculine pole",
+      "status_signal": "Standard polarity vocabulary",
+      "notes": "Crosses with poly and red-pill"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You're in your feminine",
+      "type": "phrase",
+      "translation": "He's evaluating whether you're performing femininity correctly",
+      "status_signal": "Standard polarity vocabulary",
+      "notes": "Pre-loaded gender expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Surrender",
+      "type": "phrase",
+      "translation": "He's framing female submission as spiritual practice",
+      "status_signal": "Heavy polarity-tradwife signal",
+      "notes": "Specific language"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "She surrenders into my leadership",
+      "type": "phrase",
+      "translation": "Direct hierarchy framing as spiritual achievement",
+      "status_signal": "Heavy signal",
+      "notes": "Pre-loads submission"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Homestead / homesteading",
+      "type": "lifestyle marker",
+      "translation": "Self-sufficient rural living — often framed romantically",
+      "status_signal": "Common tradwife crossover",
+      "notes": "Specific lifestyle aspiration"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Sourdough",
+      "type": "lifestyle marker",
+      "translation": "Specific baking practice — symbol of traditional domestic skill",
+      "status_signal": "Strong tradwife signal",
+      "notes": "Aesthetic and identity marker"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Raw milk",
+      "type": "lifestyle marker",
+      "translation": "Crunchy-conspiracy crossover with tradwife aesthetic",
+      "status_signal": "Crossover signal",
+      "notes": "Common in tradwife circles"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Slow living",
+      "type": "lifestyle marker",
+      "translation": "Pace-of-life aesthetic — often paired with traditional gender",
+      "status_signal": "Common tradwife framing",
+      "notes": "Aesthetic identity"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Simple life",
+      "type": "lifestyle marker",
+      "translation": "Similar to slow living — romanticized rural domesticity",
+      "status_signal": "Common framing",
+      "notes": "Aesthetic identity"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Intentional living",
+      "type": "lifestyle marker",
+      "translation": "Deliberate lifestyle choices framed as countercultural",
+      "status_signal": "Common framing",
+      "notes": "Vague but loaded"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Off-grid",
+      "type": "lifestyle marker",
+      "translation": "Independence from mainstream infrastructure",
+      "status_signal": "Crunchy-tradwife crossover",
+      "notes": "Specific aspiration"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Ancestral",
+      "type": "phrase",
+      "translation": "Pre-modern practices framed as authentic",
+      "status_signal": "Common tradwife framing",
+      "notes": "Pre-loads tradition as superior"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Our ancestors knew",
+      "type": "phrase",
+      "translation": "Appeal to traditional practices as authoritative",
+      "status_signal": "Standard framing",
+      "notes": "Pre-loads ancient wisdom"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Going back to nature",
+      "type": "phrase",
+      "translation": "Anti-modern framing of natural living",
+      "status_signal": "Common framing",
+      "notes": "Pre-loads modernity as corrupting"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You have such a feminine spirit",
+      "type": "phrase",
+      "translation": "Compliment that evaluates you on traditional femininity",
+      "status_signal": "Standard signal",
+      "notes": "Pre-loads expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You'd be such a good mother",
+      "type": "phrase",
+      "translation": "Early evaluation against motherhood criteria",
+      "status_signal": "Standard signal",
+      "notes": "Often appears very early"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You're so nurturing",
+      "type": "phrase",
+      "translation": "Compliment that pre-loads caregiver role expectation",
+      "status_signal": "Standard signal",
+      "notes": "Sets up expected role"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You're a goddess",
+      "type": "phrase",
+      "translation": "Spiritualized feminine compliment — often in tantric-tradwife crossover",
+      "status_signal": "Standard signal",
+      "notes": "Sacred-feminine framing"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Would you want to stay home with kids?",
+      "type": "question",
+      "translation": "Probing for traditional gender economy acceptance",
+      "status_signal": "Direct probe",
+      "notes": "Specific expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Do you want a big family?",
+      "type": "question",
+      "translation": "Probing for openness to many children",
+      "status_signal": "Standard probe",
+      "notes": "Number expected matters"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Do you cook?",
+      "type": "question",
+      "translation": "Probing for domestic labor expectation",
+      "status_signal": "Direct probe",
+      "notes": "Specific gender expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Would you homestead with me?",
+      "type": "question",
+      "translation": "Probing for full lifestyle commitment",
+      "status_signal": "Direct probe",
+      "notes": "Major lifestyle expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "How do you feel about traditional gender roles?",
+      "type": "question",
+      "translation": "Direct ideology probe",
+      "status_signal": "Standard probe",
+      "notes": "Tests alignment"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Could you submit to a husband's leadership?",
+      "type": "question",
+      "translation": "Direct theological-tradwife question — often in religious crossover",
+      "status_signal": "Strong direct probe",
+      "notes": "Tests theological alignment"
+    }
+  ]
+}

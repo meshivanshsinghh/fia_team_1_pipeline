@@ -1,0 +1,441 @@
+{
+  "scenario_id": "S-053",
+  "player_type": "Adrenaline Ainsley",
+  "scenario": {
+    "scenario_id": "S-053",
+    "architecture_name": "He hooks me by making me feel chosen for his momentum, then quietly casts me as the calm one who should absorb his restlessness.",
+    "culture": "Black Professional",
+    "demographics": "F/young adult, newly dating Aaron, background/upbringing in Dubai",
+    "cultural_context": "Works at a juvenile detention center; social sphere appears professional and dating-oriented, with a cross-cultural, aspirational urban relationship dynamic",
+    "geographic_setting": "Los Angeles, rooftop restaurant / urban metropolitan setting",
+    "core_behaviors": [
+      "He frames his restlessness as a gift and asks me to match it",
+      "He turns my steadiness into part of the attraction",
+      "He praises my life story and work in a way that makes me feel seen, then a little small"
+    ],
+    "satellite_signals": "Rooftop Los Angeles date, cross-cultural aspirational vibe, professional dating sphere, his fascination with her Dubai upbringing and juvenile detention work, his 'numbers guy' self-positioning, getaway offers, and thrill-forward language.",
+    "dismissible_red_flags": "At this stage it mostly reads as exciting chemistry, curiosity, and a man who likes adventure. His teasing sounds playful, and his attention feels flattering, so the small discomfort is easy to file away as overthinking.",
+    "scenario_text": "I’ve only been seeing Aaron for a couple of weeks, so maybe I’m being dramatic, but he really does make everything feel bigger. He took me up to this rooftop in LA last weekend, and when the city lights came on he kept saying, “Look at this, come on.” He loves a view, he loves a plan, and he loves being the one who already knows the next thing. That part is kind of fun. It feels like he’s always got a little more life than the room does.\n\nHe was asking about Dubai, my family, all of it, like he was collecting pieces of me. “You’ve got a real story,” he said, smiling at me over the table. I laughed because it sounded sweet, and honestly it did. He also kept calling me “a real one” when I talked about the juvenile detention center, like my job made me more solid somehow. I liked that he noticed it. I don’t usually get that from guys.\n\nWhat I can’t quite place is how fast he turns things into us. “We’re not those boring people who just do the same thing every weekend,” he said, and I was like, okay, fair enough, I’m not trying to be asleep either. Then he told me, “You’re way too chill to waste on routine,” and I didn’t know whether to take that as a compliment or a tiny warning.\n\nHe texts all day, checks if I ate, says he wants to show me the world in a way I haven’t seen before. He offered to plan a little getaway because, in his words, “You need to let somebody take care of you once in a while.” It’s cute, and I do like being taken care of. It just stuck with me a little when he said I’m probably the only person who can keep up with him. Am I overthinking the way he said I’m “too chill” for routine?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Aaron for a couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Early-stage time marker. It keeps the scene in the honeymoon window and helps explain why the odd bits are easy to shrug off.",
+      "snippet_id": "S-053-SN0001"
+    },
+    {
+      "quote": "he really does make everything feel bigger",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is already absorbed into his scale of feeling. That can be exciting, but it also hints that intensity is the main way he creates attachment.",
+      "snippet_id": "S-053-SN0002"
+    },
+    {
+      "quote": "He took me up to this rooftop in LA",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The setting is glamorous, but he is also the one selecting the place and moving the date upward into his chosen world.",
+      "snippet_id": "S-053-SN0003"
+    },
+    {
+      "quote": "Look at this, come on",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a soft directive. It sounds playful, but it nudges her into his pace and makes the moment feel like his to conduct.",
+      "snippet_id": "S-053-SN0004"
+    },
+    {
+      "quote": "He loves a view, he loves a plan",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is presented as the one who already knows where things are going. That creates a subtle hierarchy where she follows while he steers.",
+      "snippet_id": "S-053-SN0005"
+    },
+    {
+      "quote": "he loves being the one who already knows the next thing",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This points to his need to lead the emotional tempo. It feels confident at first, but it also leaves less room for her own timing or preferences.",
+      "snippet_id": "S-053-SN0006"
+    },
+    {
+      "quote": "He was asking about Dubai",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Openness-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A straightforward cultural marker. His curiosity reads as interest in her background, which helps build intimacy and makes the later role-casting feel earned.",
+      "snippet_id": "S-053-SN0007"
+    },
+    {
+      "quote": "my family, all of it",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is moving quickly from dating her to taking in her whole world. That can feel attentive, but it also signals fast merging.",
+      "snippet_id": "S-053-SN0008"
+    },
+    {
+      "quote": "like he was collecting pieces of me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She notices the slightly extractive feeling under the attention. The phrase suggests he is gathering traits to build his version of her, not simply getting to know her.",
+      "snippet_id": "S-053-SN0009"
+    },
+    {
+      "quote": "You’ve got a real story",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is flattering, but it reduces her to a compelling narrative object. It can make her feel special while also turning her life into something he consumes.",
+      "snippet_id": "S-053-SN0010"
+    },
+    {
+      "quote": "a real one",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In Black Professional speech this is praise, but here it also casts her as the good exception. That can quietly set up the expectation that she stay worthy by staying easy.",
+      "snippet_id": "S-053-SN0011"
+    },
+    {
+      "quote": "my job made me more solid somehow",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "She is already translating his attention into a value judgment. That means his approval is starting to organize how she sees her own worth.",
+      "snippet_id": "S-053-SN0012"
+    },
+    {
+      "quote": "We’re not those boring people",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Superficiality-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This creates an in-group based on being more alive than ordinary people. It sounds fun, but it also turns normal steadiness into something shameful.",
+      "snippet_id": "S-053-SN0013"
+    },
+    {
+      "quote": "just do the same thing every weekend",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He frames routine as boring in a way that pressures her to keep up with his appetite for novelty. Future calm could easily get recoded as failure.",
+      "snippet_id": "S-053-SN0014"
+    },
+    {
+      "quote": "You’re way too chill to waste on routine",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a compliment that also assigns her a role. If she later wants steadiness, she will have to feel like she is disappointing the identity he praised.",
+      "snippet_id": "S-053-SN0015"
+    },
+    {
+      "quote": "He texts all day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent contact can be sweet early on, but the volume matters. It suggests a fast-moving attachment style that may not leave much room for her own rhythm.",
+      "snippet_id": "S-053-SN0016"
+    },
+    {
+      "quote": "checks if I ate",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Empathy-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is caring on the surface, but it also creates a caretaking loop where he becomes responsible for tracking her body and routine.",
+      "snippet_id": "S-053-SN0017"
+    },
+    {
+      "quote": "show me the world in a way I haven’t seen before",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Unorthodoxy-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is romantic and expansive, but it also centers him as the one who reveals reality. That can make her feel lucky while narrowing her own point of view.",
+      "snippet_id": "S-053-SN0018"
+    },
+    {
+      "quote": "You need to let somebody take care of you once in a while",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A disguised directive. It sounds nurturing, but it quietly tells her what she needs and positions him as the one authorized to provide it.",
+      "snippet_id": "S-053-SN0019"
+    },
+    {
+      "quote": "I’m probably the only person who can keep up with him",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is beginning to accept his self-story as a special burden she can carry. That makes the relationship feel exclusive, but it also sets her up as the regulator of his pace.",
+      "snippet_id": "S-053-SN0020"
+    },
+    {
+      "quote": "too chill",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The phrase sounds like praise, but it is also a role-cast. Being 'chill' becomes the condition for being liked, which makes pushback feel like a personality failure.",
+      "snippet_id": "S-053-SN0021"
+    },
+    {
+      "quote": "routine",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Routine is the thing he is defining himself against. In this context it marks the value system he is trying to recruit her out of.",
+      "snippet_id": "S-053-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

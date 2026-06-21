@@ -1,0 +1,426 @@
+{
+  "scenario_id": "S-165",
+  "player_type": "Manipulative Morgan",
+  "scenario": {
+    "scenario_id": "S-165",
+    "architecture_name": "He uses fast charm and community-minded future talk to make her feel chosen while quietly pulling her family and social world into his orbit.",
+    "culture": "Modern Orthodox Jewish",
+    "demographics": "Young adult Jewish woman, newly dating a man from her Orthodox Jewish community in Brooklyn",
+    "cultural_context": "Orthodox Jewish community / social and family life within a religious neighborhood",
+    "geographic_setting": "Brooklyn, New York, especially Williamsburg",
+    "core_behaviors": [
+      "Accelerates intimacy with thoughtful gestures and future vision",
+      "Uses community approval as a flattering frame for control",
+      "Shows unusual interest in her family, especially her mother and sister"
+    ],
+    "satellite_signals": "Brooklyn/MO social world, Williamsburg date setting, family-approval focus, shul-and-community talk, traditional activity suggestions, soft possessive future language.",
+    "dismissible_red_flags": "At this stage it mostly reads as charm, seriousness, and being family-oriented. His questions can seem like normal interest, and the future talk sounds flattering rather than alarming.",
+    "scenario_text": "I’ve only been seeing Avi a few weeks, so I know I might be reading into things, but he’s honestly been so sweet. He’s from our shul circle in Brooklyn, the kind of guy everybody seems to know, and he keeps showing up with these little plans that feel very intentional. Last week he surprised me with a picnic in Williamsburg, and he had even packed the tea I like without asking. I laughed and said he was weirdly good at this, and he just smiled like, of course he was.\n\nWhat’s been sitting with me is how fast he talks about us like it’s already a thing everyone else will be watching. He said, really casually, that when we’re married we’ll be “the talk of the community, in a good way.” It sounded sweet, and maybe it is, but I also felt myself getting folded into a picture he’d already made. He keeps saying he wants to meet my mom properly because “she matters,” which is nice, obviously. He even asked about Rivka and whether she’d like coming with us to things more traditional, like Shabbos lunch at his aunt’s or a walk after davening.\n\nHe’s so calm about it that I end up feeling silly for noticing anything off. He’ll say, “I just want to help your family feel comfortable,” and then I’m like, well, that’s considerate. Still, there’s this tiny part of me that notices how he seems to be collecting everyone around me, not just me. Maybe that’s just him being thoughtful and serious, which I do like. He does make me feel looked after, and I guess I’m not used to that. Am I overthinking the way he keeps talking about my family and our future so early?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Avi a few weeks",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already noticing the pace as unusual, but she softens it immediately. The timeline matters because his certainty is arriving much faster than the relationship can naturally support.",
+      "snippet_id": "S-165-SN0001"
+    },
+    {
+      "quote": "he’s honestly been so sweet",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is her positive frame for him. The word is affectionate, but it also shows she is still interpreting the whole thing through his charm rather than through any deeper test of character.",
+      "snippet_id": "S-165-SN0002"
+    },
+    {
+      "quote": "our shul circle in Brooklyn",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places them inside a tight Orthodox social world where reputation and overlap matter. In that setting, being known by everyone can feel reassuring, but it also makes social pressure easier to build.",
+      "snippet_id": "S-165-SN0003"
+    },
+    {
+      "quote": "everybody seems to know",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That social embeddedness can be flattering at first. The quieter structure is that he is already moving through a network where visibility and reputation can later be used to pressure her.",
+      "snippet_id": "S-165-SN0004"
+    },
+    {
+      "quote": "showing up with these little plans",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The plans are pleasant, but they also put him in the deciding position. He is organizing the rhythm of the relationship early, which can make her habits start to bend around his.",
+      "snippet_id": "S-165-SN0005"
+    },
+    {
+      "quote": "feel very intentional",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is using his own language of seriousness and purpose to explain the feeling. Intentional sounds admirable, but here it also means the relationship is being arranged rather than simply unfolding.",
+      "snippet_id": "S-165-SN0006"
+    },
+    {
+      "quote": "he surprised me with a picnic in Williamsburg",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The surprise is romantic on the surface, but it also frames him as the one setting the scene and deciding the experience. She is being cared for, yet she is also being moved through his version of closeness.",
+      "snippet_id": "S-165-SN0007"
+    },
+    {
+      "quote": "packed the tea I like without asking",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is paying attention to a small preference, which feels tender. The deeper pattern is that he is collecting details and using them to create emotional leverage before she has any chance to ask for anything herself.",
+      "snippet_id": "S-165-SN0008"
+    },
+    {
+      "quote": "he just smiled like, of course he was",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "That little reaction gives him a self-assured, almost preordained quality. It reads as confidence, but it also suggests he already sees himself as the kind of man who naturally gets everything right.",
+      "snippet_id": "S-165-SN0009"
+    },
+    {
+      "quote": "when we’re married",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-low",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is moving to marital language very early, which compresses the timeline and makes the relationship feel more settled than it is. It also starts building a future in which her room to slow things down gets smaller.",
+      "snippet_id": "S-165-SN0010"
+    },
+    {
+      "quote": "the talk of the community",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "In a Modern Orthodox setting, community approval matters a lot, so this sounds flattering. But he is already locating their relationship inside public visibility, which makes the relationship feel like a shared project for others to admire.",
+      "snippet_id": "S-165-SN0011"
+    },
+    {
+      "quote": "in a good way",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "That little qualifier sounds harmless, but it shows he is managing the audience before anyone has even formed an opinion. He is not just imagining a future, he is curating how it will be read.",
+      "snippet_id": "S-165-SN0012"
+    },
+    {
+      "quote": "He keeps saying he wants to meet my mom properly",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Wanting to meet family is normal, but the repetition makes it feel like part of a larger campaign. He is not just interested in her, he is positioning himself inside her family system early.",
+      "snippet_id": "S-165-SN0013"
+    },
+    {
+      "quote": "because “she matters”",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is a flattering line that makes her mother feel honored, which lowers resistance. It also helps him look morally serious while he is quietly building access to the people around her.",
+      "snippet_id": "S-165-SN0014"
+    },
+    {
+      "quote": "he even asked about Rivka",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His interest in her sister is not neutral in context. He is widening his reach into the family circle, which can later make it harder for her to separate his relationship with her from his relationship with everyone else.",
+      "snippet_id": "S-165-SN0015"
+    },
+    {
+      "quote": "more traditional activities",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds community-appropriate, but it also nudges everyone toward his preferred style of togetherness. He is quietly shaping the family’s shared time around his version of what is proper and good.",
+      "snippet_id": "S-165-SN0016"
+    },
+    {
+      "quote": "Shabbos lunch at his aunt’s",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a normal Orthodox social detail, but it also shows how quickly she is being drawn into his family orbit. The setting matters because family and community are the channels through which influence travels.",
+      "snippet_id": "S-165-SN0017"
+    },
+    {
+      "quote": "a walk after davening",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is insider language that grounds the scene in their religious routine. It helps make his suggestions feel natural and shared, which is exactly why they can carry extra pull.",
+      "snippet_id": "S-165-SN0018"
+    },
+    {
+      "quote": "He’s so calm about it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Dysregulation-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her discomfort is being dampened by his easy calm. Calm can be attractive, but here it also makes her feel like the odd one for noticing how fast the relationship is expanding.",
+      "snippet_id": "S-165-SN0019"
+    },
+    {
+      "quote": "I just want to help your family feel comfortable",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the kind of sentence that sounds considerate and hard to object to. But it also gives him moral authority over the family atmosphere, which lets him present influence as care.",
+      "snippet_id": "S-165-SN0020"
+    },
+    {
+      "quote": "collecting everyone around me",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest glimpse of the structure she is sensing. He is not only courting her, he is gathering her people into his field of influence, which can make her harder to separate from him later.",
+      "snippet_id": "S-165-SN0021"
+    },
+    {
+      "quote": "Am I overthinking the way he keeps talking about my family and our future so early?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She ends on the smallest socially acceptable concern, which is the timing and wording of his comments. The bigger issue is still there underneath, but she is asking about the surface because that feels safer to name.",
+      "snippet_id": "S-165-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

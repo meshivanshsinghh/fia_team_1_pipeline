@@ -1,0 +1,442 @@
+{
+  "scenario_id": "S-162",
+  "player_type": "Dependent Drew",
+  "scenario": {
+    "scenario_id": "S-162",
+    "architecture_name": "He uses adoration and helplessness to make me the steadying center of his life, so my care starts to feel like love and then like responsibility.",
+    "culture": "Black Professional",
+    "demographics": "F/31 Nigerian-American, M/34 Black professional, divorced, works in nonprofit consulting",
+    "cultural_context": "Nigerian immigrant/family cultural upbringing centered on heritage, traditional cooking, and community toughness",
+    "geographic_setting": "Lagos, Nigeria; bustling urban environment",
+    "core_behaviors": [
+      "Dotes on her publicly and privately",
+      "Praises her competence so he can lean on it",
+      "Frames his dependence as trust and devotion",
+      "Makes her feel like the strong one who should keep things smooth"
+    ],
+    "satellite_signals": "Nigerian family references, Black professional status cues, soft dependency language, and small handoffs of planning, money, and reassurance that feel flattering at first.",
+    "dismissible_red_flags": "His constant checking in reads like tenderness, and his admiration sounds sincere. The little asks are easy to excuse because he is so warm, grateful, and visibly happy to have her.",
+    "scenario_text": "I’m typing this because it’s probably nothing, but it’s been sitting with me. I met D at a friend’s dinner in Lagos a few weeks ago, and he has been so sweet. He works in consulting, went to Howard, and he has this easy way of making everybody relax. Last night he picked me up and said, “There she is. My whole day just got better,” then handed me the little pastry he’d saved because he remembered I like coconut. I laughed and told him he was doing the most, and he said, “I just like taking care of you.”\n\nThat part honestly felt good. After the dinner he kept saying I was “the most capable, together person” he’d met, which is a little embarrassing to admit, but it made me feel seen. He also keeps asking me to look over his emails and “official stuff,” because he says I know how to make things sound right. I don’t mind. It’s kind of flattering to be the one he trusts.\n\nThe only thing is, he leans on me in tiny ways all day. If I’m slow to text back he’ll say, “You’ve been quiet, are we okay?” and then apologize for asking. If I say I’m going to lunch with work people, he’ll go, “No, that’s good, you should,” but then add, “Maybe text me though? I get a bit lost when you’re gone.” It’s very soft, very sweet, and he always says it like I’m helping him breathe.\n\nHe even joked that I’m “better with money than him,” so I handled the restaurant bill and told him not to worry about it. He looked so relieved I just smiled. Maybe I’m overthinking it, but I’ve started noticing I’m the one keeping track of little things. Am I being too sensitive about how much he leans on me?"
+  },
+  "snippets": [
+    {
+      "quote": "I met D at a friend’s dinner in Lagos",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places her in the setting and social world without overexplaining. It also signals a shared network, which matters in a Black professional scene where introductions carry weight.",
+      "snippet_id": "S-162-SN0001"
+    },
+    {
+      "quote": "he works in consulting",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A class marker. It gives him professional polish and a socially legible kind of competence, which helps the early charm land as trustworthy and grown-up.",
+      "snippet_id": "S-162-SN0002"
+    },
+    {
+      "quote": "went to Howard",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Howard is a strong Black professional status signal. It quietly locates him inside a respected network, so his warmth feels backed by institutional and cultural legitimacy.",
+      "snippet_id": "S-162-SN0003"
+    },
+    {
+      "quote": "easy way of making everybody relax",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He’s socially smoothing the room, which is appealing, but it also hints that he can manage the emotional tone around him. That kind of ease can later make her feel responsible for keeping things calm.",
+      "snippet_id": "S-162-SN0004"
+    },
+    {
+      "quote": "There she is",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate and public-facing, but it also marks her as the object of his arrival. The greeting makes her feel singled out in a way that can become emotionally sticky.",
+      "snippet_id": "S-162-SN0005"
+    },
+    {
+      "quote": "My whole day just got better",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He places a lot of emotional weight on her presence. It sounds romantic, but it also makes her responsible for his mood, which is flattering until it starts to feel like a job.",
+      "snippet_id": "S-162-SN0006"
+    },
+    {
+      "quote": "the little pastry he’d saved",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A small, thoughtful act that creates warmth and debt at the same time. The gesture is lovely, but it also helps build the feeling that she should reciprocate by taking care of him.",
+      "snippet_id": "S-162-SN0007"
+    },
+    {
+      "quote": "he remembered I like coconut",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is paying close attention to her preferences, which feels intimate and rare. That kind of remembering is a classic early hook because it makes her feel specially known.",
+      "snippet_id": "S-162-SN0008"
+    },
+    {
+      "quote": "I just like taking care of you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The line sounds tender, but it also starts assigning him a caretaking role and her a receiving role. That can feel sweet early on while quietly setting up dependency.",
+      "snippet_id": "S-162-SN0009"
+    },
+    {
+      "quote": "the most capable, together person",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is admiration, but it’s also a category he is using to place her above others. Being cast as the capable one can feel wonderful while making it harder for her to later admit she is tired.",
+      "snippet_id": "S-162-SN0010"
+    },
+    {
+      "quote": "it made me feel seen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her relief is real. The phrase shows how hungry she is for recognition, which makes the praise especially sticky and easy to build on.",
+      "snippet_id": "S-162-SN0011"
+    },
+    {
+      "quote": "look over his emails and “official stuff”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He’s handing her the tasks he doesn’t want to manage. It starts as trust, but it quietly moves practical responsibility onto her shoulders.",
+      "snippet_id": "S-162-SN0012"
+    },
+    {
+      "quote": "I know how to make things sound right",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This flatters her competence while also making her the fixer. It sounds like partnership, but it’s already asking her to do interpretive and administrative labor for him.",
+      "snippet_id": "S-162-SN0013"
+    },
+    {
+      "quote": "You’ve been quiet, are we okay?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A tender-sounding check-in that also demands reassurance. The question makes her manage his anxiety even when she is just busy or tired.",
+      "snippet_id": "S-162-SN0014"
+    },
+    {
+      "quote": "sorry for asking",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "On its face this is polite, but it also trains her to soothe him immediately. He gets to appear considerate while still centering his own discomfort.",
+      "snippet_id": "S-162-SN0015"
+    },
+    {
+      "quote": "Maybe text me though?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a small ask that sounds casual, but it narrows her freedom to move through the day without reporting back. The sweetness hides the expectation of access.",
+      "snippet_id": "S-162-SN0016"
+    },
+    {
+      "quote": "I get a bit lost when you’re gone",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He frames separation as disorientation, which makes her feel needed in a deep way. That can be flattering early, but it also casts her as his stabilizer.",
+      "snippet_id": "S-162-SN0017"
+    },
+    {
+      "quote": "it’s very soft, very sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her own language shows she is smoothing over the pressure because the tone is gentle. The repetition of sweet and soft is doing a lot of work to keep her from naming the dependence.",
+      "snippet_id": "S-162-SN0018"
+    },
+    {
+      "quote": "I’m better with money than him",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the first clear handoff of practical responsibility. It sounds like a joke and a compliment, but it puts her in the role of manager for a part of adult life he should be handling.",
+      "snippet_id": "S-162-SN0019"
+    },
+    {
+      "quote": "I handled the restaurant bill",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Money and logistics are already shifting toward her. The bill itself is small, but it shows how easily he lets her absorb the practical load.",
+      "snippet_id": "S-162-SN0020"
+    },
+    {
+      "quote": "he looked so relieved",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her attention is on his relief, not her own preference. That’s a quiet sign she is already tracking his comfort as part of the relationship’s emotional economy.",
+      "snippet_id": "S-162-SN0021"
+    },
+    {
+      "quote": "I’ve started noticing I’m the one keeping track of little things",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the clearest interior signal. She is beginning to feel the asymmetry, but she still calls them little things, which keeps the concern small enough to dismiss.",
+      "snippet_id": "S-162-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

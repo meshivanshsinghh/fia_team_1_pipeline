@@ -1,0 +1,454 @@
+{
+  "scenario_id": "S-065",
+  "player_type": "Needy Noel",
+  "scenario": {
+    "scenario_id": "S-065",
+    "architecture_name": "He turns constant contact and total openness into proof of love, so my separate life starts feeling like I’m failing him.",
+    "culture": "Polyamorous",
+    "demographics": "Likely young adult, newly dating, family-oriented, traditionally raised",
+    "cultural_context": "Young urban dating/social circle in a nightlife-oriented Boston environment; tension between traditional family values and more liberal city norms",
+    "geographic_setting": "Boston, specifically Allston; urban social scene with rooftop bars and nightlife",
+    "core_behaviors": [
+      "Constant texting framed as care",
+      "Fast fusion and public inclusion",
+      "His anxiety becomes my job to soothe"
+    ],
+    "satellite_signals": "Polyamorous in-group language, rooftop-bar social scene, Allston nightlife, early relationship intensity, surprise plans and repeated check-ins.",
+    "dismissible_red_flags": "It mostly feels like eagerness, sweetness, and being chosen. The pressure is easy to miss because he keeps wrapping it in excitement, care, and being 'close.'",
+    "scenario_text": "I’ve been seeing Alex for a few weeks, and most of it has honestly been really fun. He’s always got some idea for us, usually something in Allston, and he texts like he’s already halfway into the next plan. Last Friday he surprised me with rooftop drinks and said he’d invited a couple of his people too, which sounded sweet until I got there and realized I was the new one in a room full of inside jokes. He kept pulling me in, though, and introducing me as if we were already a little unit. At one point he laughed and said, “You and me against the week, that’s the energy I want.” It was cute, and I did feel special. I also felt a tiny bit like I’d been handed a role before I’d picked it up myself. He’s always saying things like, “Call me anytime, day or night,” and “I love being your person,” which is very lovely, but then if I take a while to answer, he’ll send another text that sounds half-joking and half-serious, like, “You alive over there?” I know he means it sweetly. He’s just really open, and I’m not used to someone liking me this much this fast. He told me he’d already mentioned me to one of his partners, which made me blush because it felt like being included in something bigger. Still, after the bar, I noticed I was checking my phone more than I normally do, mostly so he wouldn’t think I’d gone quiet on him. Maybe that’s silly. I just don’t want to seem cold when he’s being so warm. Am I overthinking the way he keeps checking in?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been seeing Alex for a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-low"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Very early-stage relationship framing. It situates the whole dynamic as new and still flattering, which is why the pressure can hide inside it.",
+      "snippet_id": "S-065-SN0001"
+    },
+    {
+      "quote": "always got some idea for us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is already steering the shape of their time together. It sounds like enthusiasm, but it also makes her the one being moved through his plans.",
+      "snippet_id": "S-065-SN0002"
+    },
+    {
+      "quote": "usually something in Allston",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is just place-setting, but it grounds the relationship in a specific young Boston social scene where constant plans and nightlife read as normal.",
+      "snippet_id": "S-065-SN0003"
+    },
+    {
+      "quote": "he texts like he’s already halfway into the next plan",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The speed and continuity matter. He is never quite in the present moment, which gives the relationship a restless, always-on feeling.",
+      "snippet_id": "S-065-SN0004"
+    },
+    {
+      "quote": "He surprised me with rooftop drinks",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A surprise date is flattering and socially normal, but it also sets him up as the one who orchestrates the mood and gets credit for it.",
+      "snippet_id": "S-065-SN0005"
+    },
+    {
+      "quote": "a couple of his people too",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is poly-coded social placement. She is being moved into his network before she has her own footing, which can feel inclusive while quietly shifting the center of gravity toward him.",
+      "snippet_id": "S-065-SN0006"
+    },
+    {
+      "quote": "the new one in a room full of inside jokes",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is socially outnumbered and aware of it. The line captures how inclusion can still leave her off-balance, especially when the group already belongs to him.",
+      "snippet_id": "S-065-SN0007"
+    },
+    {
+      "quote": "introducing me as if we were already a little unit",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the fusion move in miniature. He is naming them as a unit before the relationship has had time to become one on her terms.",
+      "snippet_id": "S-065-SN0008"
+    },
+    {
+      "quote": "You and me against the week",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This makes closeness feel like a shared project and gives the relationship an us-versus-world shape. It is playful, but it also shrinks room for separate life.",
+      "snippet_id": "S-065-SN0009"
+    },
+    {
+      "quote": "that’s the energy I want",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is not just describing a feeling, he is setting the standard. The phrase turns his preference into the emotional atmosphere she is meant to maintain.",
+      "snippet_id": "S-065-SN0010"
+    },
+    {
+      "quote": "Call me anytime, day or night",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds caring, but it establishes total accessibility as the norm. It is a sweet-sounding demand for perpetual reachability.",
+      "snippet_id": "S-065-SN0011"
+    },
+    {
+      "quote": "I love being your person",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate, but it also installs identity through attachment. He is not just liking her, he is making himself central to her sense of support.",
+      "snippet_id": "S-065-SN0012"
+    },
+    {
+      "quote": "You alive over there?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The joke-light tone softens the demand, but the message is still a check for access. It nudges her to respond so he does not have to sit with uncertainty.",
+      "snippet_id": "S-065-SN0013"
+    },
+    {
+      "quote": "half-joking and half-serious",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She can feel that the tone does two things at once. That ambiguity is why it is hard to object, because he can always retreat into 'just kidding.'",
+      "snippet_id": "S-065-SN0014"
+    },
+    {
+      "quote": "I know he means it sweetly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Empathy-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is her rationalization line. She is choosing the kind interpretation even while noticing the pressure, which is exactly how the dynamic stays pleasant on the surface.",
+      "snippet_id": "S-065-SN0015"
+    },
+    {
+      "quote": "he’s just really open",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Emotional Overexposure-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "In this register, openness sounds like virtue, but it can also mean no filtering and no distance. She reads it as intimacy rather than as a lack of separation.",
+      "snippet_id": "S-065-SN0016"
+    },
+    {
+      "quote": "he’d already mentioned me to one of his partners",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is poly-specific and flattering. Being quickly folded into the broader circle can feel like commitment, but it also makes her feel already claimed.",
+      "snippet_id": "S-065-SN0017"
+    },
+    {
+      "quote": "it felt like being included in something bigger",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She likes the feeling, but the wording shows the trap: she is being absorbed into a larger emotional system, not just dated by one person.",
+      "snippet_id": "S-065-SN0018"
+    },
+    {
+      "quote": "I was checking my phone more than I normally do",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her own behavior is changing around his expectations. That is the quiet cost of being with someone who makes responsiveness feel like proof of care.",
+      "snippet_id": "S-065-SN0019"
+    },
+    {
+      "quote": "so he wouldn’t think I’d gone quiet on him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is managing his feelings in advance. The important part is that her phone habits are now organized around preventing his anxiety.",
+      "snippet_id": "S-065-SN0020"
+    },
+    {
+      "quote": "I don’t want to seem cold",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is adapting herself to avoid being cast as the wrong kind of woman. That fear of seeming cold is what keeps the pressure from being named.",
+      "snippet_id": "S-065-SN0021"
+    },
+    {
+      "quote": "when he’s being so warm",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The warmth is real, which is why it works. The problem is that it comes bundled with expectation, so she feels she has to keep matching it.",
+      "snippet_id": "S-065-SN0022"
+    },
+    {
+      "quote": "Am I overthinking the way he keeps checking in?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the small question she can safely ask out loud. She is not naming the whole pattern, just wondering whether the checking-in is a little much.",
+      "snippet_id": "S-065-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

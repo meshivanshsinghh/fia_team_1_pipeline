@@ -1,0 +1,431 @@
+{
+  "scenario_id": "S-037",
+  "player_type": "Avoidant Alex",
+  "scenario": {
+    "scenario_id": "S-037",
+    "architecture_name": "He uses warmth and admiration to make my independence feel virtuous, then keeps closeness undefined so I do the work of not asking for more.",
+    "culture": "Polyamorous",
+    "demographics": "Adult woman, likely single/dating; Amir is an adult man, likely single/dating",
+    "cultural_context": "Professional piercing/body art scene; graduate engineering student and mutual-friends social circle",
+    "geographic_setting": "Chicago, urban city setting",
+    "core_behaviors": [
+      "Praises independence as a virtue while setting the ceiling on closeness",
+      "Uses anti-label language to keep the relationship undefined",
+      "Offers intermittent attention that feels sweet in the moment",
+      "Turns normal questions into pressure without ever saying no outright"
+    ],
+    "satellite_signals": "Polyamorous in-group language is used lightly, with a lot of talk about freedom, space, and not making things a whole thing. The scene is socially polished and affectionate, but the structure is about rationed access and pre-excused withdrawal.",
+    "dismissible_red_flags": "At this stage it reads like he is thoughtful, self-aware, and careful not to rush. His language about space and pacing can sound mature, and the narrator mostly experiences it as respectful rather than alarming.",
+    "scenario_text": "I met Amir through friends at a little rooftop thing in Logan Square, and I still like how easy it feels with him. He’s in an engineering master’s program, so he has this calm, put-together way of talking that makes me feel kind of lucky when he gives me his full attention. Last night he took me to dinner after my shift, and when I said I was probably too tired for anything serious, he smiled and said, “That’s why I like you. You have your own life going on.” It was sweet, honestly. He kept saying he doesn’t want to crowd me, and that he likes things to breathe. I do too, mostly. He texted later, “Let’s just see where this goes without all the pressure of a label,” and I told myself that was refreshing, not evasive. He also said, “I’m not fully ready for anything serious yet,” but in this soft, almost apologetic way, like he was being careful with me. Then he added that when he pulls back it’s not about me, he just has to recharge alone. I said that made sense, because it did. He’s been really good about little things, though, like remembering I hate crowded bars and bringing me tea from that place by the studio. He makes me feel special in this quiet way, like I get a side of him nobody else gets. I think I’m just trying to figure out whether I should stop feeling a little weird when he goes quiet for a day or two. Is it normal that I keep wanting to ask what we are?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Amir through friends",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Shows the social circle and how he enters her world. It also hints that this is a shared community rather than a random date-app connection.",
+      "snippet_id": "S-037-SN0001"
+    },
+    {
+      "quote": "a little rooftop thing in Logan Square",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Chicago location detail grounds the scene in an actual place and keeps the setting socially specific without overexplaining it.",
+      "snippet_id": "S-037-SN0002"
+    },
+    {
+      "quote": "He’s in an engineering master’s program",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His student status and technical field give him a competent, credible sheen. That kind of polish can make his restraint feel thoughtful instead of limiting.",
+      "snippet_id": "S-037-SN0003"
+    },
+    {
+      "quote": "this calm, put-together way of talking",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He comes across polished and easy to be around, which is appealing. But the emphasis is on presentation, not depth, so it already has that quiet, hard-to-pin-down feel.",
+      "snippet_id": "S-037-SN0004"
+    },
+    {
+      "quote": "I was probably too tired for anything serious",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already adjusting her own needs downward before he even answers. That habit matters because it makes his later deferrals feel reasonable.",
+      "snippet_id": "S-037-SN0005"
+    },
+    {
+      "quote": "That’s why I like you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds affectionate, but it rewards her for being low-demand. The compliment quietly trains her to see needing less as being desirable.",
+      "snippet_id": "S-037-SN0006"
+    },
+    {
+      "quote": "You have your own life going on",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the classic praise-for-independence move. It sounds mature, but it also sets a standard where wanting more time or closeness can start to feel like a failure of character.",
+      "snippet_id": "S-037-SN0007"
+    },
+    {
+      "quote": "he doesn’t want to crowd me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The language makes distance sound considerate. In practice, it gives him moral cover for staying emotionally out of reach.",
+      "snippet_id": "S-037-SN0008"
+    },
+    {
+      "quote": "he likes things to breathe",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is soft, romantic wording for keeping the relationship loose and undefined. It sounds gentle, but it also makes structure feel like something harmful.",
+      "snippet_id": "S-037-SN0009"
+    },
+    {
+      "quote": "Let’s just see where this goes",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That line keeps the relationship open-ended on his terms. It sounds relaxed, but it also postpones any clarity she might want.",
+      "snippet_id": "S-037-SN0010"
+    },
+    {
+      "quote": "without all the pressure of a label",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He frames naming the relationship as pressure, which makes her sound demanding before she has even asked for anything. That is a neat way to shut down future questions.",
+      "snippet_id": "S-037-SN0011"
+    },
+    {
+      "quote": "I’m not fully ready for anything serious yet",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Goal Persistence-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest early warning. It is honest on the surface, but it also announces that she will be waiting for a version of him that may never arrive.",
+      "snippet_id": "S-037-SN0012"
+    },
+    {
+      "quote": "in this soft, almost apologetic way",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The softness makes the limit easier to swallow. He is not harsh, which is exactly why it can land as reasonable instead of rejecting.",
+      "snippet_id": "S-037-SN0013"
+    },
+    {
+      "quote": "when he pulls back",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This names the push-pull pattern without making it dramatic. The important part is that the withdrawal is already part of the relationship rhythm.",
+      "snippet_id": "S-037-SN0014"
+    },
+    {
+      "quote": "he just has to recharge alone",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Boundaries-high",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He turns disappearance into self-care, which makes it hard to question. If she objects, she risks sounding like she is against his well-being.",
+      "snippet_id": "S-037-SN0015"
+    },
+    {
+      "quote": "He’s been really good about little things",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "She is already balancing the missing steadiness against small acts of care. That is how the crumbs start to feel like proof.",
+      "snippet_id": "S-037-SN0016"
+    },
+    {
+      "quote": "remembering I hate crowded bars",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Remembering a preference is sweet, but it also positions him as attentive and tuned in. That kind of detail can make later withdrawal feel more personal.",
+      "snippet_id": "S-037-SN0017"
+    },
+    {
+      "quote": "bringing me tea from that place by the studio",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A small personalized gesture builds emotional debt. It is pleasant, but it also makes her more likely to excuse the parts that feel off.",
+      "snippet_id": "S-037-SN0018"
+    },
+    {
+      "quote": "a side of him nobody else gets",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-low",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is exclusivity language. It makes her feel chosen, but it also turns minimal access into something rare enough that she should not ask for more.",
+      "snippet_id": "S-037-SN0019"
+    },
+    {
+      "quote": "he goes quiet for a day or two",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The silence is normalized as part of his rhythm, but it is still a pattern of disappearing. That is the piece she is already starting to feel in her body.",
+      "snippet_id": "S-037-SN0020"
+    },
+    {
+      "quote": "what we are",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the small question underneath everything else. She is not accusing him of anything, just noticing that she does not actually know what space she has in his life.",
+      "snippet_id": "S-037-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,31 +1,31 @@
 {
   "scenario_id": "S-002",
-  "player_type": "Menacing Marley",
+  "player_type": "Arrogant Avery",
   "scenario": {
     "scenario_id": "S-002",
-    "architecture_name": "He uses her professional achievements as status fuel for himself while installing quiet controls over her public self-presentation.",
+    "architecture_name": "He flatters her mind and career while quietly training her to accept his interpretive authority over both.",
     "culture": "Red Pill",
-    "demographics": "Female, 20s-30s, Black professional, Atlanta urban; Male, early 30s, Red Pill-adjacent, Atlanta",
-    "cultural_context": "Professional/corporate workplace, dating/relationship sphere, social media presence",
-    "geographic_setting": "Atlanta, urban",
+    "demographics": "Young adult woman, early dating, Atlanta marketing scene; Alex is a confident late-20s guy in tech/finance-adjacent social circles",
+    "cultural_context": "Professional/social scene centered on marketing, client success, and Instagram-savvy urban dating",
+    "geographic_setting": "Atlanta, urban nightlife / trendy rooftop bar",
     "core_behaviors": [
-      "Uses her career wins as his status props while framing her visibility as something he manages",
-      "Installs possessive framing through protector language and ownership endearments",
-      "Tests her tolerance for social control via small directives dressed as preference"
+      "Plans and directs the evening while framing it as care",
+      "Praises her intelligence and success as something he discovered",
+      "Uses joking possessiveness and subtle correction to narrow her room to object"
     ],
-    "satellite_signals": "Possessive endearments deployed in public; social-media surveillance framed as aesthetic preference; mobility and planning asymmetry; elevation-through-devaluation of other women; loyalty-demand installed as compliment.",
-    "dismissible_red_flags": "The photographer redirect reads as romantic exclusivity. The Instagram comment lands as a personal aesthetic preference from someone who notices her. The 'mine' language feels like intensity, not ownership. His planning reads as decisiveness and care.",
-    "scenario_text": "So I've been seeing Marcus for about three weeks and honestly it's been a lot. He's dialed in, does his cold plunge every morning, lifts, the whole thing, and he's really intentional with his time, which I actually respect. He planned this whole evening last Saturday to celebrate me closing a big account at work. Took me to a rooftop spot in Midtown, had the reservation already sorted, said he wanted his \"marketing queen\" to have the best night. I felt so seen.\n\nAt some point a photographer came around doing shots for the venue's page and I was excited, I love that stuff, but Marcus kind of laughed and said \"nah, I want you to myself tonight.\" I figured he was just being sweet. Didn't really push it.\n\nLater we were with a few of his friends and he introduced me as his \"closer,\" like that was my whole thing, and one of them said something about my Instagram being fire. Marcus smiled but then later when we were walking to the car he goes, \"you're wife material, you know that? Most women are out here posting everything. You're not like that.\" I said I actually do post a lot for work and he kind of shrugged and said he liked me better when I kept things a little more private. \"It's just classier,\" he said. \"I'm not into the whole look-at-me thing.\"\n\nI didn't say anything because honestly it didn't feel like a fight worth having. He'd just done something really thoughtful and I didn't want to seem ungrateful. But I do use my page for client work and it matters for my job.\n\nHis friends were cool and everyone seemed to really respect him. One of them even said \"Marcus doesn't bring just anyone around,\" which felt good, I guess.\n\nIs it weird that the Instagram comment is still sitting with me a little?"
+    "satellite_signals": "Rooftop bar, Instagram-savvy professional scene, client-success celebration, his friends as audience, praise that sounds like admiration but carries ranking.",
+    "dismissible_red_flags": "At this stage it reads like confidence, teasing, and high standards. He seems impressed by her and protective of the relationship, so the small comments are easy to file under chemistry.",
+    "scenario_text": "Alex and I have only been seeing each other a few weeks, and I’m still in that slightly buzzy, can’t-believe-this-is-real part of it. He took me to this rooftop bar in Atlanta after I landed a big client, and he had already picked the place and made the reservation. I didn’t mind. It felt kind of nice, honestly, like he was the sort of guy who just handles things.\n\nHe kept saying, “Ask me anything, honestly,” and then went on about markets, my car, even why my boss probably moved the deadline the way he did. He has this way of making everything sound so clear. I told him I’d been stuck on a work problem for weeks, and he just laughed and laid out a plan like it was obvious. It worked, which was annoying in the best way.\n\nLater, when I mentioned my sister being weird about my schedule, he said, “Want my honest read on your family? I see these things clearly.” I did not even know how to answer that, but he was so calm about it that I mostly just listened. He can be a little intense, but in a good way, like he actually thinks.\n\nWhen the photographer came by, he said, “I want you all to myself tonight, no need to share with the world just yet.” I laughed because it sounded sweet, and he is sweet in his own blunt way. Then, when his friends came over, he introduced me as his “marketing genius” and said, “Don’t go stealing her away, she’s mine.”\n\nI liked that he was proud of me. I also liked that he noticed my page, though he did say, “I love it when you look natural, maybe tone it down a bit online.” He said it like he was helping, and I guess maybe he was. Is it weird that the comment about my Instagram is still sitting with me a little?"
   },
   "snippets": [
     {
-      "quote": "he's dialed in, does his cold plunge every morning, lifts",
+      "quote": "seeing each other a few weeks",
       "kind_of_signal": [
         "Cultural/Demographic Information"
       ],
       "unes_traits": [
-        "Sense of Self-high",
-        "Dominance-high"
+        "Attachment-low",
+        "Inconsistency-low"
       ],
       "unmet_need": [
         "Not Found"
@@ -33,346 +33,243 @@
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "Cold plunge and daily lifting are near-universal Red Pill discipline markers. They locate him in an optimization-identity subculture where masculine self-mastery is performed and expected to impress.",
+      "reasoning": "Early-stage timing sets the scene. There is no alarm yet, just new-relationship intensity and the sense that this is still being sorted out.",
       "snippet_id": "S-002-SN0001"
     },
     {
-      "quote": "he's really intentional with his time",
-      "kind_of_signal": [
-        "Cultural/Demographic Information",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Dominance-high",
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "Standard Red Pill availability-management framing. 'Intentional with his time' signals he will set the terms of access to him, and she is absorbing this as a virtue rather than a constraint on her.",
-      "snippet_id": "S-002-SN0002"
-    },
-    {
-      "quote": "He planned this whole evening last Saturday to celebrate me closing a big account",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Charm-high",
-        "Exploitation-high"
-      ],
-      "unmet_need": [
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "He planned the entire evening without consulting her, then framed it as celebration of her achievement. Her win becomes the occasion he orchestrates. She is moved through a scene he designed, which positions her as the recipient of his generosity rather than the agent of her own success.",
-      "snippet_id": "S-002-SN0003"
-    },
-    {
-      "quote": "wanted his 'marketing queen' to have the best night",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Grandiosity-high",
-        "Exploitation-high",
-        "Dominance-high"
-      ],
-      "unmet_need": [
-        "Worth",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Narcissistic Grandiosity"
-      ],
-      "reasoning": "The possessive 'his' precedes the compliment. Her professional identity is absorbed into his ownership frame before the evening begins. 'Marketing queen' flatters her while reducing her career to a title he bestows and controls.",
-      "snippet_id": "S-002-SN0004"
-    },
-    {
-      "quote": "I felt so seen",
+      "quote": "in that slightly buzzy, can’t-believe-this-is-real part of it",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Validation-seeking-low",
-        "Exploitation-high"
+        "Intensity-high",
+        "Charm-high"
       ],
       "unmet_need": [
-        "Worth",
         "Connection"
       ],
       "possible_trauma": [
-        "Emotional Neglect"
+        "Not Found"
       ],
-      "reasoning": "She registers his orchestration of her achievement as being seen. The feeling is real; the structure is that he is the one doing the seeing, which positions him as the source of her visibility and value.",
-      "snippet_id": "S-002-SN0005"
+      "reasoning": "She is already feeling the pull of his charm and excitement. The wording shows how easy it is for her to stay inside the glow instead of questioning the structure underneath.",
+      "snippet_id": "S-002-SN0002"
     },
     {
-      "quote": "a photographer came around doing shots for the venue's page and I was excited, I love that stuff",
+      "quote": "He took me to this rooftop bar in Atlanta",
       "kind_of_signal": [
+        "Cultural/Demographic Information",
         "Power Information"
       ],
       "unes_traits": [
-        "Sense of Self-high"
+        "Control-high"
       ],
       "unmet_need": [
-        "Autonomy",
         "Agency"
       ],
       "possible_trauma": [
-        "Not Found"
+        "Coercive Control"
       ],
-      "reasoning": "Her authentic enthusiasm for visibility and content is established here. This is the baseline he is about to redirect. The contrast between her excitement and his response is where the asymmetry becomes visible.",
-      "snippet_id": "S-002-SN0006"
+      "reasoning": "He chooses the setting and moves her through it. It is a small mobility and social-control cue, dressed up as a nice date.",
+      "snippet_id": "S-002-SN0003"
     },
     {
-      "quote": "Marcus kind of laughed and said 'nah, I want you to myself tonight'",
+      "quote": "had already picked the place and made the reservation",
       "kind_of_signal": [
         "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is doing the deciding before she gets a say. At this stage it reads as competence, but it also establishes who organizes the relationship.",
+      "snippet_id": "S-002-SN0004"
+    },
+    {
+      "quote": "the sort of guy who just handles things",
+      "kind_of_signal": [
+        "Internal Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
         "Control-high",
-        "Isolation-high",
         "Dominance-high"
       ],
       "unmet_need": [
-        "Agency",
-        "Autonomy"
+        "Safety",
+        "Agency"
       ],
       "possible_trauma": [
         "Coercive Control"
       ],
-      "reasoning": "A directive about her public presence delivered as a laugh. 'I want you to myself' sounds romantic but functions as a veto over her participation in something she wanted. The laugh provides deniability. This is the test-and-apologize mechanism: the control is real, the casual tone is the retractable cover.",
-      "snippet_id": "S-002-SN0007"
+      "reasoning": "She is already translating his control into a virtue. The phrase makes his taking over feel like relief, which is exactly why it can later become hard to resist.",
+      "snippet_id": "S-002-SN0005"
     },
     {
-      "quote": "I figured he was just being sweet. Didn't really push it.",
+      "quote": "Ask me anything, honestly",
       "kind_of_signal": [
-        "Internal Red Flag"
+        "Loaded Language",
+        "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Conflict-high",
-        "Accountability-low"
+        "Boundaries-high",
+        "Charm-high"
       ],
       "unmet_need": [
-        "Agency",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She absorbs the redirect without objection and rationalizes it as sweetness. 'Didn't really push it' registers the decision not to assert herself, but she frames it as reading him charitably rather than as self-suppression.",
-      "snippet_id": "S-002-SN0008"
-    },
-    {
-      "quote": "he introduced me as his 'closer'",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Exploitation-high",
-        "Grandiosity-high",
-        "Dominance-high"
-      ],
-      "unmet_need": [
-        "Worth",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Narcissistic Grandiosity"
-      ],
-      "reasoning": "He reduces her full professional identity to a single performance label and delivers it to his friends as if announcing a possession. 'His closer' fuses ownership with her professional value. She is introduced into his social world on his terms, as a trophy with a function.",
-      "snippet_id": "S-002-SN0009"
-    },
-    {
-      "quote": "one of them said something about my Instagram being fire",
-      "kind_of_signal": [
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Isolation-high",
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Worth"
+        "Connection",
+        "Reality"
       ],
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "An outside voice validates her public presence, which is exactly what Marcus is about to undermine. The friend's comment is the trigger for Marcus's Instagram redirect, making the sequence visible: external validation of her visibility prompts his corrective move.",
-      "snippet_id": "S-002-SN0010"
+      "reasoning": "Open-book talk sounds generous, but it also invites him to become the interpreter of everything. The warmth is real; so is the invitation to defer to his read.",
+      "snippet_id": "S-002-SN0006"
     },
     {
-      "quote": "you're wife material, you know that? Most women are out here posting everything. You're not like that",
+      "quote": "markets, my car, even why my boss probably moved the deadline",
       "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
+        "Behavioral Red Flag"
       ],
       "unes_traits": [
         "Grandiosity-high",
-        "Exploitation-high",
-        "Disrespect-high",
-        "Isolation-high"
+        "Control-high"
       ],
       "unmet_need": [
-        "Worth",
         "Autonomy",
         "Reality"
       ],
       "possible_trauma": [
-        "Coercive Control",
-        "Narcissistic Grandiosity"
+        "Coercive Control"
       ],
-      "reasoning": "This is the elevation-through-devaluation move at full deployment. He compliments her by separating her from other women, installs 'wife material' as the category she now wants to stay in, and embeds a false premise: that she doesn't post much. She actually does, for work. The compliment is built on a misread he needs her to accept. Accepting it means agreeing to be the woman who doesn't post, which is the behavioral control he is installing.",
-      "snippet_id": "S-002-SN0011"
+      "reasoning": "He ranges across domains as if he has an answer for everything. That breadth reads impressive early, but it also trains her to treat his opinion as the default explanation.",
+      "snippet_id": "S-002-SN0007"
     },
     {
-      "quote": "I said I actually do post a lot for work",
+      "quote": "He has this way of making everything sound so clear",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Conflict-high",
-        "Accountability-low"
+        "Charm-high",
+        "Cognitive Flexibility-low"
       ],
       "unmet_need": [
-        "Reality",
-        "Agency"
+        "Reality"
       ],
       "possible_trauma": [
         "Gaslighting (DARVO)"
       ],
-      "reasoning": "She pushes back, mildly and factually. This is the only moment of self-assertion in the scenario. The fact that it requires noting suggests how rare it is, and the scene immediately shows what happens when she does: he shrugs and restates his preference.",
-      "snippet_id": "S-002-SN0012"
+      "reasoning": "She is drawn to the clarity and calm. The danger is that his certainty can start replacing her own uncertainty, even when he is just projecting confidence.",
+      "snippet_id": "S-002-SN0008"
     },
     {
-      "quote": "he kind of shrugged and said he liked me better when I kept things a little more private",
+      "quote": "laid out a plan like it was obvious",
       "kind_of_signal": [
         "Behavioral Red Flag"
       ],
       "unes_traits": [
         "Control-high",
-        "Disrespect-high",
-        "Dominance-high",
-        "Accountability-low"
+        "Dominance-high"
       ],
       "unmet_need": [
-        "Agency",
-        "Autonomy",
-        "Reality"
+        "Agency"
       ],
       "possible_trauma": [
-        "Coercive Control",
-        "Gaslighting (DARVO)"
+        "Coercive Control"
       ],
-      "reasoning": "After she corrects the false premise, he doesn't engage with her correction. He restates his preference as if she hadn't spoken. The shrug dismisses her professional reality; 'liked me better' reframes his control as an aesthetic preference she should want to satisfy. Her work use of the platform is treated as irrelevant.",
-      "snippet_id": "S-002-SN0013"
+      "reasoning": "He turns his solution into the natural solution. That makes her agreement feel less like a choice and more like common sense.",
+      "snippet_id": "S-002-SN0009"
     },
     {
-      "quote": "'It's just classier,' he said. 'I'm not into the whole look-at-me thing.'",
+      "quote": "It worked",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "His help is genuinely effective, which is why the dependency can grow so smoothly. When someone’s fixes work, it becomes easier to outsource judgment to them.",
+      "snippet_id": "S-002-SN0010"
+    },
+    {
+      "quote": "my sister being weird about my schedule",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is ordinary personal context, but it also gives him a family angle to step into. He is not just dating her, he is beginning to interpret her world.",
+      "snippet_id": "S-002-SN0011"
+    },
+    {
+      "quote": "Want my honest read on your family? I see these things clearly",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
-        "Disrespect-high",
-        "Dominance-high",
         "Grandiosity-high",
-        "Control-high"
+        "Control-high",
+        "Cognitive Flexibility-low"
       ],
       "unmet_need": [
-        "Worth",
         "Reality",
         "Autonomy"
       ],
       "possible_trauma": [
         "Coercive Control",
-        "Humiliation"
+        "Gaslighting (DARVO)"
       ],
-      "reasoning": "He frames his control preference as a class judgment. 'Classier' implies that her current posting behavior is not classy, which is a quiet insult to her professional practice. 'Look-at-me thing' dismisses her work tool as vanity. He is using moral and aesthetic language to make his directive sound like a compliment and her objection sound like defending something embarrassing.",
-      "snippet_id": "S-002-SN0014"
+      "reasoning": "This is the clearest early version of his architecture. He claims superior clarity about her family, which sounds helpful, but it also positions him as the authority on people he barely knows.",
+      "snippet_id": "S-002-SN0012"
     },
     {
-      "quote": "I didn't say anything because honestly it didn't feel like a fight worth having",
+      "quote": "so calm about it",
       "kind_of_signal": [
-        "Internal Red Flag"
+        "Behavioral Red Flag"
       ],
       "unes_traits": [
         "Conflict-high",
-        "Dysregulation-high"
+        "Emotional Overexposure-low"
       ],
       "unmet_need": [
-        "Agency",
-        "Autonomy",
-        "Safety"
+        "Safety",
+        "Reality"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Gaslighting (DARVO)"
       ],
-      "reasoning": "She self-silences. 'Didn't feel like a fight worth having' is the language of someone who has already begun calibrating what she can say. She has registered that disagreement has a cost, even this early, and she is managing around it.",
-      "snippet_id": "S-002-SN0015"
+      "reasoning": "His calmness reads as maturity, but it also makes his interpretation feel hard to challenge. Calm can be a shield for dominance when the other person is expected to doubt herself.",
+      "snippet_id": "S-002-SN0013"
     },
     {
-      "quote": "He'd just done something really thoughtful and I didn't want to seem ungrateful",
+      "quote": "he actually thinks",
       "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Exploitation-high",
-        "Charm-high"
-      ],
-      "unmet_need": [
-        "Agency",
-        "Fairness"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Betrayal / Exploitation"
-      ],
-      "reasoning": "The debt mechanism is operating. His planning of the evening now functions as a reason she cannot object to his Instagram directive. The thoughtful gesture and the control move are the same transaction. She is paying for the dinner with her silence.",
-      "snippet_id": "S-002-SN0016"
-    },
-    {
-      "quote": "I do use my page for client work and it matters for my job",
-      "kind_of_signal": [
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Exploitation-high",
-        "Dominance-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Agency",
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She states the professional stakes clearly, but only to the chatbot, not to him. The gap between what she knows to be true and what she said in the moment is where the asymmetry is visible. Her professional tool is being redefined as a personal vanity habit by someone who benefits from her career while managing her visibility.",
-      "snippet_id": "S-002-SN0017"
-    },
-    {
-      "quote": "Marcus doesn't bring just anyone around",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
         "Grandiosity-high",
-        "Validation-seeking-low",
-        "Exploitation-high"
+        "Cognitive Flexibility-low"
       ],
       "unmet_need": [
         "Worth"
@@ -380,47 +277,170 @@
       "possible_trauma": [
         "Narcissistic Grandiosity"
       ],
-      "reasoning": "His friend delivers the scarcity frame on his behalf. Being brought around is positioned as a privilege Marcus grants selectively. This installs the 'you're not like other women' elevation through a third-party voice, which makes it harder to dismiss and easier to absorb as objective truth.",
+      "reasoning": "This is admiration language that ranks him above other men. It sounds like a compliment, but it also installs him as unusually smart and therefore unusually entitled to be right.",
+      "snippet_id": "S-002-SN0014"
+    },
+    {
+      "quote": "I want you all to myself tonight",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "At first it reads as flirtation. The structure underneath is possessive exclusivity, a gentle first move toward making her attention feel owed rather than freely given.",
+      "snippet_id": "S-002-SN0015"
+    },
+    {
+      "quote": "no need to share with the world just yet",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He frames privacy as a romantic preference, but it also limits her public self-presentation. That can become a subtle way of narrowing who gets to see and affirm her.",
+      "snippet_id": "S-002-SN0016"
+    },
+    {
+      "quote": "my marketing genius",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is affectionate and status-boosting at the same time. He is admiring her, but also packaging her in a role that reflects well on him in front of his friends.",
+      "snippet_id": "S-002-SN0017"
+    },
+    {
+      "quote": "Don’t go stealing her away, she’s mine",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Enmeshment-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The joke is doing real work. It turns her into a possession in public, which can feel playful early while still marking a claim on her social presence.",
       "snippet_id": "S-002-SN0018"
     },
     {
-      "quote": "which felt good, I guess",
+      "quote": "I love it when you look natural",
       "kind_of_signal": [
-        "Internal Red Flag"
+        "Behavioral Red Flag",
+        "Loaded Language"
       ],
       "unes_traits": [
-        "Validation-seeking-low",
-        "Exploitation-high"
+        "Disrespect-high",
+        "Control-high",
+        "Validation-seeking-high"
       ],
       "unmet_need": [
         "Worth",
-        "Reality"
+        "Autonomy"
       ],
       "possible_trauma": [
-        "Emotional Neglect"
+        "Humiliation",
+        "Coercive Control"
       ],
-      "reasoning": "The qualifier 'I guess' is a dictional tell. She registered the compliment but something in her response is uncertain. She is absorbing his friend's framing as validation while not quite trusting her own reaction to it.",
+      "reasoning": "This is praise with a correction inside it. He is rewarding her, but he is also telling her which version of herself he prefers, which narrows the room for her own style.",
       "snippet_id": "S-002-SN0019"
     },
     {
-      "quote": "Is it weird that the Instagram comment is still sitting with me a little?",
+      "quote": "maybe tone it down a bit online",
       "kind_of_signal": [
-        "Internal Red Flag"
+        "Behavioral Red Flag",
+        "Power Information"
       ],
       "unes_traits": [
         "Control-high",
         "Disrespect-high"
       ],
       "unmet_need": [
-        "Reality",
         "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "This is the load-bearing seedling. He is not just complimenting her, he is editing her public self-presentation while hiding the instruction inside concern.",
+      "snippet_id": "S-002-SN0020"
+    },
+    {
+      "quote": "He said it like he was helping",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
         "Agency"
       ],
       "possible_trauma": [
         "Gaslighting (DARVO)"
       ],
-      "reasoning": "She closes by asking about the smallest visible beat, not the structural move. The Instagram comment is a symptom; the architecture is that he is installing control over her professional visibility while using her achievements as his status currency. She is asking whether her discomfort is legitimate, which is itself a sign that the self-doubt mechanism is already running.",
-      "snippet_id": "S-002-SN0020"
+      "reasoning": "She can feel the pressure but still experiences it as care. That split is important, because it shows how easily his control gets laundered through helpfulness.",
+      "snippet_id": "S-002-SN0021"
+    },
+    {
+      "quote": "Is it weird that the comment about my Instagram is still sitting with me a little?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is asking about the smallest socially acceptable concern, not naming the larger pattern. The fact that the comment lingers shows she noticed the edge even while trying to keep it light.",
+      "snippet_id": "S-002-SN0022"
     }
   ],
   "validation_warnings": [],

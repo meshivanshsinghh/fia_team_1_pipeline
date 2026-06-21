@@ -1,0 +1,424 @@
+{
+  "scenario_id": "S-036",
+  "player_type": "Arrogant Avery",
+  "scenario": {
+    "scenario_id": "S-036",
+    "architecture_name": "He uses calm, corrective certainty to make her treat his interpretation as the smarter version of reality, then reward him for it.",
+    "culture": "Red Pill",
+    "demographics": "Likely a young adult woman, white or unspecified race, casually dating Brian, a mechanic from a small town about two hours from Philly",
+    "cultural_context": "Blue-collar / working-class social sphere, diner and mechanic milieu, family-oriented dating context",
+    "geographic_setting": "Philadelphia (Philly) with a small-town blue-collar hometown about two hours away",
+    "core_behaviors": [
+      "Corrects her as if he is helping",
+      "Turns debate into a test she wants to pass",
+      "Uses special attention to make his judgment feel earned",
+      "Treats her reactions as evidence he is right"
+    ],
+    "satellite_signals": "Mechanic-and-diner working-class context; Philly-to-small-town travel; 'respectful young man' family approval; early debate-flavored banter; possessive teasing framed as flattering.",
+    "dismissible_red_flags": "His certainty can read as competence, and the teasing can feel like playful chemistry. The speed and intensity are easy to excuse because he seems thoughtful and attentive.",
+    "scenario_text": "I met Brian at my cousin’s wedding, and he was easy to talk to right away. He’s a mechanic from a small town outside Philly, but he has this way of making everything sound simple, like he’s already thought it through. We’ve been texting a lot, and I’ll admit it’s kind of exciting when he says, “Ask me anything, honestly,” because he really does seem to know something about everything. Last week he drove into the city just to take me out, and he kept saying he likes planning because he wants to make every moment special. That sounded sweet to me, honestly. He asked what my week looked like, then said, “Let me break it down for you,” when I was telling him about my diner shifts, and I laughed because he was just trying to help. He’s also one of those people who loves a good debate. He said, “I enjoy a good debate. Most people can’t keep up,” which should probably sound cocky, but with him it just feels like confidence. When I pushed back on one thing, he smiled and said, “Good, push back. I like that you actually think.” I liked hearing that more than I probably should have. Even my dad said Brian seemed like a respectful young man, and Brian loved that. He kept saying I’m “a unicorn” and “not like other women,” which is a little much, but it’s flattering in a weird way. The only thing that stayed with me was when he corrected my schedule and said, “You’re so cute when you mix things up.” I know he meant it sweetly, but it made me wonder if I’m overthinking the joke. Was I being too sensitive about that?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Brian at my cousin’s wedding",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Family-centered social entry. The wedding setting places him inside her people early, which makes his later opinions feel socially endorsed.",
+      "snippet_id": "S-036-SN0001"
+    },
+    {
+      "quote": "He’s a mechanic from a small town outside Philly",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Working-class, local-rooted background. It also quietly gives him a practical, competent aura that can make his certainty feel earned.",
+      "snippet_id": "S-036-SN0002"
+    },
+    {
+      "quote": "he has this way of making everything sound simple",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He presents his interpretation as the clean answer. That can feel reassuring early, but it also sets him up as the person who gets to simplify her experience.",
+      "snippet_id": "S-036-SN0003"
+    },
+    {
+      "quote": "Ask me anything, honestly",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Open-book language sounds warm, but it also invites her to treat him as the authority who can answer anything. The confidence is part of the hook.",
+      "snippet_id": "S-036-SN0004"
+    },
+    {
+      "quote": "he really does seem to know something about everything",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She is already ranking his knowledge above her own. That makes it easier for him to become the default interpreter of situations later.",
+      "snippet_id": "S-036-SN0005"
+    },
+    {
+      "quote": "he drove into the city just to take me out",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The effort is real and flattering, but it also creates debt. He is the one who makes the trip, so the date begins with him as the active giver.",
+      "snippet_id": "S-036-SN0006"
+    },
+    {
+      "quote": "he likes planning",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Planning can be thoughtful, but here it signals that he prefers to organize the scene. Early on that can feel like care; later it becomes a way to set the terms.",
+      "snippet_id": "S-036-SN0007"
+    },
+    {
+      "quote": "he wants to make every moment special",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is romantic language, but it also makes her feel specially chosen. That kind of specialness can make it harder to object when his choices start carrying more weight.",
+      "snippet_id": "S-036-SN0008"
+    },
+    {
+      "quote": "What my week looked like",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds considerate, but it also puts him in the role of planner. He is gathering information so he can direct the interaction.",
+      "snippet_id": "S-036-SN0009"
+    },
+    {
+      "quote": "Let me break it down for you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is correction dressed as help. The surface is patient and useful, but the structure is him taking the teacher role with her as the one who needs simplifying.",
+      "snippet_id": "S-036-SN0010"
+    },
+    {
+      "quote": "I enjoy a good debate",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In this register, debate can sound like chemistry. The risk is that disagreement gets recast as entertainment, which makes it harder to notice when he is actually dominating.",
+      "snippet_id": "S-036-SN0011"
+    },
+    {
+      "quote": "Most people can’t keep up",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is a classic superiority line. It flatters her if she feels included, but it also divides people into the smart few and the ordinary many.",
+      "snippet_id": "S-036-SN0012"
+    },
+    {
+      "quote": "Good, push back",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He invites challenge, which feels fair, but only on his terms. It can become a setup where her disagreement is allowed as long as it stays within his frame.",
+      "snippet_id": "S-036-SN0013"
+    },
+    {
+      "quote": "I like that you actually think",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The compliment is real enough to land, but it separates her from a lesser crowd. That makes his approval feel precious and keeps her reaching for it.",
+      "snippet_id": "S-036-SN0014"
+    },
+    {
+      "quote": "I’m a unicorn",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is a flattering exception-making phrase. It sounds romantic, but it also makes her the special woman in a category he controls.",
+      "snippet_id": "S-036-SN0015"
+    },
+    {
+      "quote": "not like other women",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "Elevation through devaluation. She is praised by being separated from other women, which quietly teaches her that female peers are the bad comparison class.",
+      "snippet_id": "S-036-SN0016"
+    },
+    {
+      "quote": "he corrected my schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest asymmetry in the scene. He takes a small ordinary detail and positions himself as the one who can fix it, which makes his authority feel normal.",
+      "snippet_id": "S-036-SN0017"
+    },
+    {
+      "quote": "You’re so cute when you mix things up",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The line sounds affectionate, but it is also a correction wrapped in a pet name. He turns her mistake into something charming so she is less able to object.",
+      "snippet_id": "S-036-SN0018"
+    },
+    {
+      "quote": "I know he meant it sweetly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Inconsistency-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is doing the work of making the comment harmless. That kind of rationalization is how a small sting gets absorbed instead of examined.",
+      "snippet_id": "S-036-SN0019"
+    },
+    {
+      "quote": "it made me wonder if I’m overthinking",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already moving the doubt back onto herself. The issue is not named as his tone; it is recoded as her sensitivity.",
+      "snippet_id": "S-036-SN0020"
+    },
+    {
+      "quote": "Was I being too sensitive about that?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the smallest possible concern she can safely ask about. It shows the real problem is the comment, but she is framing it as her own sensitivity.",
+      "snippet_id": "S-036-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,1398 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-111",
+    "target_register": "Red Pill",
+    "player_type": "Dependent Drew"
+  },
+  "primary_metaphors": [
+    "Charm-as-Currency-for-Care",
+    "Effort-as-Heroic-Achievement",
+    "Adulthood-as-Foreign-Country",
+    "Partner-as-Parent",
+    "Abandonment-as-Helplessness",
+    "Softness-as-Dependence",
+    "Giving-as-Dependency",
+    "Partner-as-Scaffold",
+    "Helplessness-as-Cage",
+    "Love-as-Substitute-for-Competence",
+    "Functioning-Through-Her",
+    "Dreamer-as-Burden-Shifter",
+    "Rescue-as-Role",
+    "Receiving-as-Identity",
+    "Softness-without-Structure",
+    "Belief-as-Labor",
+    "Safety-as-Supply",
+    "Affirmation-Dependency",
+    "Lostness-as-Project",
+    "Partner-as-Regulator",
+    "Leaning-as-Life-Strategy",
+    "Helplessness-as-Identity",
+    "Heart-over-Logistics",
+    "Capability-through-Her",
+    "Parenting-Surrogate",
+    "Burden-Outsourcing",
+    "Caretaker-Exploitation"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "warm/adoring (the charm, the draw)",
+      "his_language": "You walked in and I swear the whole room got brighter. I've been telling everyone about you. Come here, I made your favorite, sit, tell me everything about your day, I want all of it.",
+      "her_experience": "He's so warm and adoring, lights up when I walk in, makes my favorite food, wants to hear every detail of my day. After feeling invisible with exes, being doted on like this is wonderful.",
+      "expert_notices": "The genuine draw: warmth, attentiveness, adoration (Charm9/Attachment9); he's lovely and doting, a real catch early. The caretaking IMBALANCE is fully dormant, no helplessness on display. She reads being cherished/doted-on. Residue (the doting reverses into her caretaking him) dormant."
+    },
+    {
+      "mechanism": "appreciative (makes her feel amazing)",
+      "his_language": "Honestly you're the most capable, together person I've ever met, it's amazing to watch. I learn so much from you. I feel like I'm better just being around someone like you.",
+      "her_experience": "He's so appreciative of me and says I'm capable and impressive, that he's better for being around me. Being admired like that, instead of competed with, feels really good.",
+      "expert_notices": "Charm-as-Currency-for-Care (early/positive form): admiring her competence (Charm9) genuinely flatters; the seam is that 'you're so capable' is the soft setup for leaning on that capability. She reads admiration. Residue (her competence becoming his to lean on) dormant."
+    },
+    {
+      "mechanism": "affectionate/devoted (sweet, present)",
+      "his_language": "I cleared my whole weekend just for us, no plans, no agenda, just you and me and whatever we feel like. You're my favorite person to do absolutely nothing with.",
+      "her_experience": "He's so devoted, clears his schedule for me, just wants to be together. He's affectionate and present in a way I've never had. I feel like a priority for the first time.",
+      "expert_notices": "Devotion/availability (Attachment9) as the draw; present, affectionate, prioritizing her. Genuinely lovely early. The seam (his life increasingly orbiting/depending on hers) dormant. She reads being a priority. Residue (becoming his whole world/support) dormant."
+    },
+    {
+      "mechanism": "sweet effort (endearing, not helpless)",
+      "his_language": "I tried to cook us this fancy thing and it's, well, it's an experience, let's call it an experience. But I wanted to do something special for you for once. You spoil me, I wanted to spoil you back.",
+      "her_experience": "He made this sweet, slightly chaotic attempt to cook for me, so proud and earnest about it. The effort to do something nice melted me. It's the thought, and there was so much thought.",
+      "expert_notices": "Effort-as-Heroic-Achievement (early/charming): the imperfect-but-earnest gesture is genuinely endearing here, not yet a sign of a low bar. 'You spoil me' is the faint early hint of the direction of care. She reads thoughtfulness. Residue (effort-asymmetry) dormant."
+    },
+    {
+      "mechanism": "leans-on-her (faint, framed as trust)",
+      "his_language": "Honestly you're so much better with this official stuff than me, would you take a look? I trust your judgment way more than mine. You always know the right thing to do.",
+      "her_experience": "He asks my advice on things and trusts my judgment over his own, which is flattering. It feels like a real partnership where he values what I bring. I'm happy to help.",
+      "expert_notices": "Adulthood-as-Foreign-Country (early/soft): the first small handoff of responsibility (Neediness9), framed as trust/valuing-her-judgment rather than helplessness. Reads as partnership. Each handoff accretes later. She reads being valued. Residue (his responsibilities migrating to her) dormant."
+    },
+    {
+      "mechanism": "warm and adoring (the draw)",
+      "his_language": "There she is. My whole day just got better. Sit down, I made your favourite, tell me everything about your day.",
+      "her_experience": "He's so warm and adoring, lights right up when he sees me, makes my favourite food, wants to hear every detail of my day. After feeling invisible with past partners, being doted on like this is wonderful.",
+      "expert_notices": "The genuine draw: warmth, attentiveness, adoration (Charm9/Attachment9); lovely and doting, a real catch early. The caretaking IMBALANCE fully dormant, no helplessness on display. She reads being cherished. Residue (doting reverses into her caretaking him) dormant."
+    },
+    {
+      "mechanism": "makes her feel amazing (admiring)",
+      "his_language": "You're the most capable, together person I've ever met. Watching you handle things is honestly impressive.",
+      "her_experience": "He's so appreciative and tells me I'm capable and impressive, that he's better just for being around me. Being admired like that, instead of competed with, feels really good after years of feeling taken for granted.",
+      "expert_notices": "Charm-as-Currency-for-Care (early/positive form): admiring her competence (Charm9) genuinely flatters; the seam is that 'you're so capable' is the soft setup for leaning on that capability. She reads admiration. Residue (her competence becoming his to lean on) dormant."
+    },
+    {
+      "mechanism": "devoted/present (clears his life for her)",
+      "his_language": "I cleared the whole weekend, no plans, just us. You're my favourite person to do nothing with.",
+      "her_experience": "He's so devoted, clears his schedule just to be with me, affectionate and present in a way I've never had. I feel like a genuine priority in someone's life for the first time.",
+      "expert_notices": "Devotion/availability (Attachment9) as the draw; present, affectionate, prioritizing her. Lovely early. The seam (his life increasingly orbiting/depending on hers) dormant. She reads being a priority. Residue (becoming his whole world/support) dormant."
+    },
+    {
+      "mechanism": "sweet effort (endearing, not helpless)",
+      "his_language": "I tried to make that pasta you like. It's a disaster, honestly. But I wanted to do something nice for you tonight.",
+      "her_experience": "He made this sweet, slightly chaotic attempt to cook for me, so earnest and proud of it. The effort, the wanting to take care of me for once, completely melted my heart.",
+      "expert_notices": "Effort-as-Heroic-Achievement (early/charming): the imperfect-but-earnest gesture genuinely endearing, not yet a sign of a low bar; 'you're always looking after everyone' is the faint early hint of the care-direction. She reads thoughtfulness. Residue (effort-asymmetry) dormant."
+    },
+    {
+      "mechanism": "leans on her (framed as trust)",
+      "his_language": "You're so much better at this official stuff than me, can you look before I send it? You always know.",
+      "her_experience": "He asks my advice on things and trusts my judgement over his own, which is flattering, it feels like a real partnership where he values what I bring. I'm always happy to help him out.",
+      "expert_notices": "Adulthood-as-Foreign-Country (early/soft): the first small handoff of responsibility (Neediness9), framed as trust/valuing-her-judgment not helplessness. Reads as partnership. Each handoff accretes later. She reads being valued. Residue (his responsibilities migrating to her) dormant."
+    },
+    {
+      "mechanism": "soft dependence (don't give up on me)",
+      "his_language": "Promise you won't give up on me. I'm so much more myself when you're around. I need that.",
+      "her_experience": "He worries he's a lot to handle and asks me not to give up on him, says he's a better person when I'm looking after him. It makes me feel like my care is genuinely transforming him, like I'm essential to who he is.",
+      "expert_notices": "Abandonment-as-Helplessness: dependence (Neediness9) framed so leaving = abandoning a helpless person (guilt-anchor); 'you bring out the good version of me' recruits her as his improver. She reads being transformative/essential. Residue (trapped by guilt + sunk caretaking) dormant."
+    },
+    {
+      "mechanism": "exploitation seed (her resources, sweetly)",
+      "his_language": "You don't mind covering me till payday, do you? You're a lifesaver. You're just better with money than me.",
+      "her_experience": "He's a little hopeless with money and it's easier if I handle our finances, plus he's so grateful and says I'm better at it. I don't mind, it's what partners do, and he appreciates me so much for it.",
+      "expert_notices": "Charm-as-Currency-for-Care + Exploitation8 (the one higher-exploitation note, kept gentle/early): a small financial lean framed as her being 'better at it,' the seed of resource-exploitation under genuine-seeming helplessness and gratitude. She reframes as partnership. Residue (financial/labor load migrating to her) dormant."
+    },
+    {
+      "mechanism": "wants-to-decide-together (Neediness seed)",
+      "his_language": "Wait, lunch with work people? Without me? No, that's good, you should. Maybe text me though? I get a bit lost when you're gone.",
+      "her_experience": "He likes us to do most things together and gets a little lost when I'm out without him, asks me to text while I'm gone. It's flattering to be missed that much, though I've noticed I think about how he'll feel before I make plans now.",
+      "expert_notices": "Seeded from Neediness8 ('can't choose lunch without deciding together', 'call repeatedly to calm anxiety') + Attachment8: softened to early sweet wanting-togetherness; the cost surfacing faintly (she factors his mood into her plans). Residue (her autonomy shrinking) dormant."
+    },
+    {
+      "mechanism": "reassurance-seeking (Attachment seed)",
+      "his_language": "You've been quiet today, are we okay? Sorry, I know I ask. I just feel it when you go quiet, like I've done something.",
+      "her_experience": "When I'm quiet or tired he worries he's done something and needs reassurance that we're okay. It's tender and I don't mind giving it, though it does mean my off days come with a bit of looking-after him on top.",
+      "expert_notices": "Seeded from Attachment8 ('Do you still love me? You've been quiet all day', 'I feel smothered and guilty at the same time'): early-stage, the reassurance-need reads as tender vulnerability; her cost ('looking-after him on top') is the faint seam, not yet the smothered/eggshells full version. Residue (caretaker of his security) dormant."
+    },
+    {
+      "mechanism": "generous with limits (Exploitation5 cover-draw)",
+      "his_language": "I'd do anything for you, honestly. Tell me what you need and it's done. I just like taking care of you.",
+      "her_experience": "He's so generous and giving, always wanting to take care of me and the people he loves. After being with takers, being with someone whose instinct is to give feels wonderful.",
+      "expert_notices": "Seeded from Exploitation band-5 (healthy-looking 'generous, gives without keeping score'): used as DRAW/cover, the giving is genuine and attractive early. The seam (the giving builds an obligation, the care-direction will reverse) dormant. She reads generosity."
+    },
+    {
+      "mechanism": "decide together (Neediness8 faint)",
+      "his_language": "Chicken or the fish? No, genuinely, what do you think? I love that we decide everything together. I hate doing stuff without you.",
+      "her_experience": "He likes us to decide most things together, even small ones, and calls it being a team. It's sweet and inclusive, though I've started noticing he genuinely can't decide anything without me.",
+      "expert_notices": "Seeded from Neediness band-8 ('can't choose lunch without deciding together'): honeymoon faint, the togetherness reads as team-sweetness; the dependence ('struggles without me') is the faint seam. Residue (his decisions becoming hers) dormant."
+    },
+    {
+      "mechanism": "just to hear your voice (Neediness8 faint)",
+      "his_language": "Sorry, I know you're at work. I just missed your voice. Five minutes. Okay, go, go be brilliant.",
+      "her_experience": "He'll call during my workday just to hear my voice, says it settles him. It's flattering to be missed that much, and he's so sweet about it, though I do feel a little tug to wrap things up and get back to him.",
+      "expert_notices": "Seeded from Neediness band-8 ('call repeatedly just to hear my voice and calm their anxiety'): honeymoon faint, the calls read as devotion; her cost (the 'tug' to prioritize him) is the seam. Residue (her attention reorganizing around his need) dormant."
+    },
+    {
+      "mechanism": "are we okay (Attachment8 faint)",
+      "his_language": "You've been quiet, are we okay? You're the best thing in my life and I get scared I'll do something to lose it.",
+      "her_experience": "When I'm quiet he worries we're not okay and needs a little reassurance, then he's fine. It's tender, this fear of losing what we have, though it does mean my quiet moods come with reassuring him on the side.",
+      "expert_notices": "Seeded from Attachment band-8 ('Do you still love me? You've been quiet all day'): honeymoon faint, the reassurance-need reads as tender; her cost (reassuring him through her own off-moods) is the seam. NOT yet the smothered/eggshells full version. Residue (caretaker of his security) dormant."
+    },
+    {
+      "mechanism": "decide together / can't choose alone (Neediness8)",
+      "his_language": "What do you think I should do? You're so much better at this than me. Just tell me what you'd do and I'll do that.",
+      "her_experience": "He leans on me for nearly every decision because he says I'm so much better at it, which was flattering at first. Now I'm quietly making choices for both of us all day long, and it's a weight I didn't sign up for and can't seem to put down.",
+      "expert_notices": "Neediness8 'can't decide without me.' Targets overwhelmed (deciding for two) + resentful (didn't sign up for it). Honeymoon: started as flattering."
+    },
+    {
+      "mechanism": "I end up finishing it (transferred load)",
+      "his_language": "You're so much better at all the bills and calls and planning. My brain doesn't work that way. I'd be lost without you.",
+      "her_experience": "Somehow I've become the one who handles the bills, the appointments, the planning, all of it, while he cheers me on as his hero. The praise is warm but the load is all mine, and I've started feeling more like his manager than his partner.",
+      "expert_notices": "Neediness/Adulthood: load transfer framed as praise. Targets overwhelmed (all the load) + resentful (manager not partner) + lonely. Honeymoon-faint."
+    },
+    {
+      "mechanism": "sweet effort, low bar (early charming)",
+      "his_language": "I made you tea! In bed! It's slightly wrong but I tried, you know I'm useless at this. Look at me taking care of you for once.",
+      "her_experience": "He makes these small sweet attempts to take care of me and is so proud of them that I always praise him, and I want to. But I've noticed a cup of tea from him is treated like a huge deal, while everything I do just gets taken for granted.",
+      "expert_notices": "Effort-as-Heroic-Achievement. Targets resentful (asymmetric bar) + overwhelmed (her work absorbed) + lonely. Honeymoon: genuinely endearing."
+    },
+    {
+      "mechanism": "20 texts, mild (Neediness8)",
+      "his_language": "Did you get my texts? Okay, more than a few. I just think of things I want to tell you all day. Is that too much?",
+      "her_experience": "He texts me constantly through the day and gets a little anxious if I'm slow to reply, and I've started feeling tethered to my phone, managing his worry from afar. It's affectionate, but it's a lot, and I miss just being unreachable sometimes.",
+      "expert_notices": "Neediness8 'text 20+ times, panic if no reply.' Targets overwhelmed (tethered) + resentful (miss being unreachable) + lonely. Honeymoon-faint."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a real softie, I feel things deeply.",
+      "her_experience": "He seems sweet and gentle, not hard or intimidating.",
+      "expert_notices": "His softness can become emotional dependency she must manage."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a giver, I just want someone to take care of.",
+      "her_experience": "He sounds nurturing, like he loves making someone feel cared for.",
+      "expert_notices": "Caretaking may be a bid to become needed while avoiding adult self-management."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm happiest when I have someone to build my world around.",
+      "her_experience": "It feels flattering, like I could matter deeply in his life.",
+      "expert_notices": "He lacks a stable independent center; she becomes the organizing structure."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't really function well on my own.",
+      "her_experience": "It sounds vulnerable and honest, like he trusts me with his weakness.",
+      "expert_notices": "He is advertising helplessness; she will be pulled into managing his life."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not practical, but I have a huge heart.",
+      "her_experience": "He sounds lovable and emotionally rich despite being messy.",
+      "expert_notices": "Affection is offered as compensation for practical incompetence she must absorb."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need someone steady around me to be my best.",
+      "her_experience": "It feels meaningful, like my stability helps him grow.",
+      "expert_notices": "His functioning is outsourced to her presence and support."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm better at dreams than details.",
+      "her_experience": "He sounds creative and sweet, not boring or rigid.",
+      "expert_notices": "Details will fall to her while he keeps the dreamer role."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of guy who needs a little saving.",
+      "her_experience": "It sounds self-aware and endearing, like he knows he's messy.",
+      "expert_notices": "Saving becomes her role; leaving feels like abandoning someone in need."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I love being taken care of, I won't pretend I don't.",
+      "her_experience": "He sounds honest and sweetly open about receiving love.",
+      "expert_notices": "Being taken care of may become a one-way dependency."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need someone to lean on, and I'll adore whoever lets me.",
+      "her_experience": "He sounds gentle and comforting, like he would be easy to love.",
+      "expert_notices": "He may offer emotional sweetness while relying on her for structure and responsibility."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I do best when someone believes in me.",
+      "her_experience": "It feels beautiful that my faith could help him shine.",
+      "expert_notices": "Belief becomes labor she must provide, even when behavior doesn't change."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm very loyal to whoever helps me feel safe.",
+      "her_experience": "It sounds tender, like he bonds through trust.",
+      "expert_notices": "Safety becomes something she must supply for his loyalty to stay intact."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I attach to people who see the good in me.",
+      "her_experience": "It feels special to be someone who sees him clearly.",
+      "expert_notices": "He attaches to affirmation; she must keep seeing good to maintain him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a little lost, but in a hopeful way.",
+      "her_experience": "He sounds sweet and open, like he just needs direction.",
+      "expert_notices": "Lostness becomes her project, not his responsibility."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need a partner who can ground me.",
+      "her_experience": "It feels flattering that he sees me as steady and capable.",
+      "expert_notices": "She is being cast as regulator and stabilizer."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm happiest when I can lean into someone.",
+      "her_experience": "It sounds intimate and trusting.",
+      "expert_notices": "Leaning can become chronic dependence without reciprocity."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not ashamed to need help.",
+      "her_experience": "He sounds emotionally mature and honest.",
+      "expert_notices": "Needing help can become an identity that exempts him from building capacity."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a heart-first person, logistics come later.",
+      "her_experience": "He sounds romantic and emotionally led.",
+      "expert_notices": "Logistics coming later means she handles the reality while he keeps the feeling."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I love hard when someone makes me feel capable.",
+      "her_experience": "It feels powerful that I can bring out his best self.",
+      "expert_notices": "His capability depends on her emotional support, making her responsible for his functioning."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a nurturing woman who likes taking care of people.",
+      "her_experience": "He appreciates my caring nature and values a sweet supportive partner.",
+      "expert_notices": "He is selecting for a maternal surrogate who will manage his life while he evades adult responsibility."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a strong partner who can keep me grounded.",
+      "her_experience": "He admires my strength and capability, looking for a powerful woman to walk beside.",
+      "expert_notices": "He is planning to outsource all major financial, logistical, and emotional burdens to her."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone who loves to look after someone.",
+      "her_experience": "He is sweet and ready to be loved and cared for by a generous woman.",
+      "expert_notices": "He is filtering for an over-functioning caretaker who will tolerate his chronic under-functioning."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who can help me organize my chaotic life.",
+      "her_experience": "He is a scattered creative who respects my organizational skills.",
+      "expert_notices": "He is looking for an unpaid personal assistant to handle his practical failures."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can be my rock when everything falls apart.",
+      "her_experience": "He is vulnerable and knows he needs a stable strong woman during storms.",
+      "expert_notices": "He is preparing to unleash a continuous series of self-made crises for her to solve."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who takes charge and knows what she wants.",
+      "her_experience": "He loves a confident empowered woman, he doesn't have a fragile ego.",
+      "expert_notices": "He is setting a trap where she must make every difficult decision, letting him blame her for failures."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can guide me toward being a better man.",
+      "her_experience": "He is humble and wants a wise woman to help him grow.",
+      "expert_notices": "He is forcing her into the role of a life coach, shifting blame for his stagnation onto her coaching."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who handles all the details beautifully.",
+      "her_experience": "He notices my organizational skills and appreciates how competent I am.",
+      "expert_notices": "He is planning to dump all domestic and financial labor entirely onto her shoulders."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who is comfortable being the stable anchor.",
+      "her_experience": "He values my steady career and grounded personality, which feels validating.",
+      "expert_notices": "He is screening for a target he can financially depend on while he avoids steady employment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a compassionate soul who doesn't mind helping a man rebuild.",
+      "her_experience": "He is open about his past failures and looking for a loving woman to support his comeback.",
+      "expert_notices": "He is seeking a target who will fund his lifestyle and excuse his lack of basic adult skills."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can handle a guy who is a bit of a project.",
+      "her_experience": "He is self-aware and charmingly honest about needing some love and refinement.",
+      "expert_notices": "He is framing his deep behavioral issues as a cute project for her to fix."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who naturally takes care of the home.",
+      "her_experience": "He values traditional home comfort and loves my homemaking skills.",
+      "expert_notices": "He is ensuring he will never have to contribute to chores or domestic labor."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a highly responsible woman who has her life together.",
+      "her_experience": "He respects my maturity and stability, which makes me feel accomplished.",
+      "expert_notices": "He is hunting for a safety net to protect him from the consequences of his reckless behavior."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who doesn't mind giving me a push sometimes.",
+      "her_experience": "He wants a motivating teammate who will help him stay focused on his goals.",
+      "expert_notices": "He is installing her as his external discipline engine, making her bear the cost of his laziness."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who can hold things down while I pursue my dreams.",
+      "her_experience": "He is passionate about his goals and looking for a supportive believing partner.",
+      "expert_notices": "He is seeking long-term financial extraction, using his dreams to justify parasitic behavior."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can manage the heavy financial planning for us.",
+      "her_experience": "He trusts my financial intelligence and wants me to lead on our future.",
+      "expert_notices": "He is positioning himself to spend freely while she handles the stressful burden of budgeting."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a girl who is patient with my emotional ups and downs.",
+      "her_experience": "He is a deep emotional person who needs a steady calm partner to soothe him. He is looking for someone who will keep him calm and absorb his moods.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who enjoys making sure I'm okay.",
+      "her_experience": "He finds sweet practical expressions of love endearing and feels cared for.",
+      "expert_notices": "He is establishing a baseline of daily domestic service where she functions as his mother."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who can protect me from my own worst impulses.",
+      "her_experience": "He is self-aware about his wild side and looking for a steadying woman.",
+      "expert_notices": "He is abdicating responsibility for his own actions, pre-blaming her when he gives into bad impulses."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can smooth over my conflicts with other people.",
+      "her_experience": "He is direct and needs a diplomatic kind woman to help him socially.",
+      "expert_notices": "He is looking for an apologist to clean up the social wreckage caused by his poor behavior."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "There she is. My whole day just got better.",
+      "her_experience": "He says his whole day got better when I walked in. It feels amazing to matter that much to someone.",
+      "expert_notices": "He expresses outsized emotional reliance on her arrival. She feels essential, not yet aware this puts her in charge of his emotional state."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I was just thinking about you and smiling. I know that's cheesy. I don't care.",
+      "her_experience": "He admits he was just sitting there smiling about me. It's sweet and a little embarrassing for him. I love that I take up that much space in his head.",
+      "expert_notices": "He admits a private fixation, which feels like pure adoration. The 'cheesy' vulnerability disarms her, making his need endearing rather than burdensome."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I keep looking over at you like you might disappear. I just can't believe it sometimes.",
+      "her_experience": "He says he keeps checking I'm still here, like I'm too good to be true. It's such a vulnerable thing to admit. It makes me feel so wanted.",
+      "expert_notices": "He frames his insecurity as a compliment to her worth, hinting at a need for her to keep reassuring him of her presence."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I've already told my mom about you. She wants to meet you. I hope that's not too fast.",
+      "her_experience": "He's already told his mom about me. It feels serious, like he's folding me into his life. It's fast, but it also feels really secure.",
+      "expert_notices": "He creates seriousness and social integration via family. A low-cost way to create obligation and depth without structural change."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I'm not really used to this. Someone being this present. It's a lot, but it's a good lot.",
+      "her_experience": "He says he's not used to someone being this present. It's a little vulnerable, and it makes me want to show him what he's been missing.",
+      "expert_notices": "He signals a history of emotional scarcity, activating her caretaking instincts. She wants to prove she's different, not noticing she's being recruited to provide the care."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "I love watching you handle things. You're so calm. I just sit back and admire it.",
+      "her_experience": "He says he admires watching me handle things. It feels like he sees a strength other people miss. I feel capable and seen.",
+      "expert_notices": "He praises her competence as the admiring audience. She feels powerful, not noticing his admiration is already outsourcing problem-solving to her."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "How do you just know the right thing to do? I'd still be standing there lost.",
+      "her_experience": "He says he'd be lost without me. It's nice to be seen as the capable one for once.",
+      "expert_notices": "He elevates normal competence to an extraordinary quality. The flattery implies she'll be the one who knows what to do when decisions need making."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "You just have this way of making everything feel simpler. I don't know how you do it.",
+      "her_experience": "He says I make everything feel simpler. It's nice to be that person for someone, the one who brings calm.",
+      "expert_notices": "He credits her with bringing order to his life, gradually transferring responsibility for managing his chaos onto her."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "I was stuck on that for an hour and you solved it in two minutes. You're incredible.",
+      "her_experience": "He says I solved something he was stuck on. It feels good to be so obviously useful to him.",
+      "expert_notices": "He frames her solving a problem as exceptional ability. The compliment assigns her the role of problem-solver in the relationship."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "You're so much better with people than I am. You just know what to say. I'm always putting my foot in it.",
+      "her_experience": "He says I'm better with people. It's true, I'm more socially comfortable. I like that he sees it as a strength.",
+      "expert_notices": "He praises a skill he lacks, positioning himself inferior in that domain. This quietly assigns her the role of social manager for the couple."
+    },
+    {
+      "mechanism": "admiring-her-competence",
+      "his_language": "You're so much better at this than I am. I just watch you and try to learn.",
+      "her_experience": "He says I'm better at it than him, that he wants to learn from me. It feels like a team where I'm the expert.",
+      "expert_notices": "He positions himself as student to her expert. The implication is he'll defer to her, and she becomes the default decision-maker."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I made your coffee exactly how you like it. Two sugars, right?",
+      "her_experience": "He remembered my coffee order. It's a small thing, but it means he's paying attention. No one's ever really paid attention before.",
+      "expert_notices": "He demonstrates care through a small thoughtful act. A low-cost way to create intimacy and obligation."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I got you that thing you mentioned. I just happened to see it and thought of you.",
+      "her_experience": "He bought me something I mentioned offhand. It's so thoughtful, like he's always listening for ways to make me smile.",
+      "expert_notices": "He uses an unexpected small gift to demonstrate attentiveness, designed to deepen her sense of being uniquely cared for."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I love that you do that thing with your hair. I can't explain it, it just makes me smile.",
+      "her_experience": "He notices a tiny habit of mine and says it makes him smile. It's so specific and sweet. It makes me feel like he really sees me.",
+      "expert_notices": "He gives specific praise for a small physical habit. The specificity is the hook, making her feel uniquely known."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I know you're exhausted. Just sit down. Let me handle the little things tonight.",
+      "her_experience": "He tells me to sit down, that he'll handle the little things. It's so nice to not have to be in charge for once.",
+      "expert_notices": "He offers to take over minor tasks for one evening, real relief. This frames his help as an occasional gift while ongoing responsibilities quietly shift to her."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I love that you have your own thing. Your friends, your work. I just want to be part of it, not take it over.",
+      "her_experience": "He says he loves that I have my own life and just wants to be part of it. It sounds so healthy, not possessive. It makes me trust him more.",
+      "expert_notices": "He frames his desire for access as respect for her autonomy. The non-possessiveness reads as a green flag, not a setup to slowly become the center of her world."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I just want to be near you. Even if we're both doing our own thing. Just being in the same room is enough.",
+      "her_experience": "He says just being in the same room is enough. It makes me feel like I don't have to perform, I just have to exist near him.",
+      "expert_notices": "He offers low-demand togetherness that feels safe. It's also a way to keep her near without engaging deeply."
+    },
+    {
+      "mechanism": "doting",
+      "his_language": "I love that you're so good at what you do. It's inspiring to watch someone who's really in their element.",
+      "her_experience": "He says I'm inspiring to watch in my element. It's such a specific compliment, like he really sees my work and my passion.",
+      "expert_notices": "He praises her professional competence, which feels supportive. The admiration is genuine, but it also sets expectations she'll feel bound to meet."
+    },
+    {
+      "mechanism": "helpless-charm",
+      "his_language": "I've been staring at the menu for ten minutes and I'm completely lost. Just order for me. I trust you.",
+      "her_experience": "He says he's lost looking at the menu and wants me to order. It's kind of endearing. I like that he trusts my judgment.",
+      "expert_notices": "He transfers a minor decision to her, framed as trust. The smallest of many decisions she'll eventually make for both of them."
+    },
+    {
+      "mechanism": "helpless-charm",
+      "his_language": "I tried to pull together that thing you mentioned, but I lost track of the timing. It's a bit of a disaster. I wanted so badly to have it right for you.",
+      "her_experience": "He tried to do something nice and it fell apart. He's genuinely disappointed in himself, and it makes me want to step in and fix it.",
+      "expert_notices": "He presents an incompetent but earnest gesture as a failed attempt to please her. She steps in, not noticing the low bar for his effort being set."
+    },
+    {
+      "mechanism": "helpless-charm",
+      "his_language": "I'm terrible at remembering dates. I've already put everything in my calendar. I don't want to mess up with you.",
+      "her_experience": "He admits he's bad with dates and shows he's trying. It's sweet that he's working so hard. It makes me want to help him even more.",
+      "expert_notices": "He admits a weakness with compensatory effort. Endearing, but it implies she'll be the one tracking and reminding him of things long-term."
+    },
+    {
+      "mechanism": "helpless-charm",
+      "his_language": "I've been trying to figure out what to do about this for days. Can I just tell you about it? You always help me see it clearly.",
+      "her_experience": "He says he's been stuck for days and wants to tell me because I help him see clearly. It feels good to be his sounding board.",
+      "expert_notices": "He frames her as his necessary thinking partner. She feels valued for her insight, not noticing she's becoming his default problem-solving resource."
+    },
+    {
+      "mechanism": "helpless-charm",
+      "his_language": "I honestly think I'd have stayed paralyzed on that decision forever if you hadn't stepped in. You just see the solution instantly.",
+      "her_experience": "He says I saw the solution when he was paralyzed. It's nice to cut through the noise for him. I like being useful.",
+      "expert_notices": "He exaggerates his indecision to make her competence seem extraordinary. She feels like a hero, becoming his default decision-maker."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "I love that you take care of me. Not in a weird way. You just make sure I'm okay. No one's ever really done that.",
+      "her_experience": "He says he loves that I take care of him, that no one's ever done that. It makes me feel like the first person who's seen he needs looking after.",
+      "expert_notices": "He frames her caretaking as unique and precious. The gratitude obscures the gradual transfer of responsibility for his wellbeing onto her."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "You always know what to say. I'm so glad I have you to talk to.",
+      "her_experience": "He says I always know what to say. It feels good to be a source of comfort for him, like I'm really helping.",
+      "expert_notices": "He positions her as his primary source of emotional wisdom, making her responsible for his emotional regulation."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "I've just never had someone who actually listens. Who actually wants to know how I'm doing.",
+      "her_experience": "He says he's never had someone who actually listens. It breaks my heart a little. I want to be that person for him.",
+      "expert_notices": "He expresses a history of emotional neglect, activating her caretaking instincts. She wants to fill the void, not noticing she's being recruited."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "I don't know what I'd do without you. Probably just keep spinning.",
+      "her_experience": "He says he'd keep spinning without me. It feels good to be that necessary to someone. I like that he needs me.",
+      "expert_notices": "He explicitly states his emotional need for her. She feels essential, not noticing this need will become a recurring demand for attention and reassurance."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "My brain's usually spinning, but when I'm with you all that static just quiets down. You have a steadying effect on me.",
+      "her_experience": "He says I quiet his spinning brain. It feels so good to bring someone peace.",
+      "expert_notices": "He positions her as his emotional regulator, claiming her presence quiets his anxiety. She feels needed, not aware she's becoming responsible for his stability."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "I was panicking and you just talked me down. I don't know how you stay so calm.",
+      "her_experience": "He says I talked him down from a panic. It feels good to be the steady one. I like that he trusts me with his feelings.",
+      "expert_notices": "She's cast as his emotional regulator. The trust feels intimate but puts her in charge of managing his distress, a pattern that will repeat."
+    },
+    {
+      "mechanism": "you-take-care-of-me",
+      "his_language": "I feel like I can actually breathe when I'm with you. Like I don't have to pretend. I can just be.",
+      "her_experience": "He says he can breathe with me, that he doesn't have to perform. It's so vulnerable. It makes me feel like he trusts me completely.",
+      "expert_notices": "He credits her with letting him be his authentic self. Flattering, but that 'authentic self' is also deeply dependent on her presence."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I keep telling people about you. I'm like a broken record. It's just exciting to have something this good.",
+      "her_experience": "He says he can't stop talking about me. It's flattering, like he's so proud to be with me that he has to tell the world.",
+      "expert_notices": "He broadcasts his investment to his social circle, making the relationship feel public and serious. Her value reinforced by external validation."
+    },
+    {
+      "mechanism": "adoration-that-inverts",
+      "his_language": "I was telling my friend about you and he said I sounded happier. He's right.",
+      "her_experience": "He told his friend I make him happier. It's wonderful to be the reason someone is happier. It makes me feel important.",
+      "expert_notices": "He uses a third party to validate his emotional reliance on her, making it feel objective. His happiness is becoming her responsibility."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Red Pill",
+      "snippet": "I have a vision",
+      "type": "phrase",
+      "translation": "His goal framed as visionary self-direction",
+      "status_signal": "Standard self-importance framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I'm on my purpose",
+      "type": "phrase",
+      "translation": "He's pursuing his goals and treating your needs as secondary to that mission",
+      "status_signal": "Red-pill meets hustle culture",
+      "notes": "Mission organizes everything else"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "My mission",
+      "type": "phrase",
+      "translation": "His life purpose framed as military operation",
+      "status_signal": "Standard mission rhetoric",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I do OMAD",
+      "type": "lifestyle marker",
+      "translation": "One meal a day fasting — discipline-as-identity marker",
+      "status_signal": "Diet-discipline signal common in this overlay",
+      "notes": "Often combined with other optimization practices"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Looking for a high-quality woman",
+      "type": "profile language",
+      "translation": "He's evaluating women against criteria he's not naming up front",
+      "status_signal": "Profile framing; signals he's screening you",
+      "notes": "The mirror image of high-value man"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Carnivore diet",
+      "type": "lifestyle marker",
+      "translation": "Eats only meat and animal products — strong manosphere signal",
+      "status_signal": "Liver King-adjacent dietary identity",
+      "notes": "Often paired with anti-seed-oils framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She supports my mission",
+      "type": "phrase about a woman",
+      "translation": "Approval based on her subordination to his goals",
+      "status_signal": "Standard mission-subordination framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Bro (used to non-friends)",
+      "type": "vocabulary",
+      "translation": "Generic male-address term — frequency and context matter",
+      "status_signal": "Manosphere-adjacent verbal pattern",
+      "notes": "Generational and cultural marker"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Predator energy",
+      "type": "phrase",
+      "translation": "Self-positioning as predator",
+      "status_signal": "Standard red-pill imagery",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "You have feminine energy",
+      "type": "phrase",
+      "translation": "He's complimenting you for performing femininity as he defines it",
+      "status_signal": "Polarity framing — he's evaluating you on a masculine-feminine axis",
+      "notes": "Watch what he means by it"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She's not getting any younger",
+      "type": "phrase about a woman",
+      "translation": "Pressure framing of woman's age",
+      "status_signal": "Direct age-as-pressure framing",
+      "notes": "Standard timing framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Sigma wolf",
+      "type": "phrase",
+      "translation": "Specific 'sigma male' framing — outside the alpha hierarchy",
+      "status_signal": "Standard red-pill imagery",
+      "notes": "Specific framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She's on the same page",
+      "type": "phrase about a woman",
+      "translation": "Approval for her alignment with his pre-set framework",
+      "status_signal": "Standard alignment framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Leading the pride",
+      "type": "phrase",
+      "translation": "Lion imagery applied to leading partner/family",
+      "status_signal": "Standard red-pill imagery",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I'm just really focused on my goals right now",
+      "type": "phrase",
+      "translation": "Coded availability-management — he's not committing to a relationship",
+      "status_signal": "Standard delay framing without explicit ideology",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Lone wolf",
+      "type": "phrase",
+      "translation": "Self-positioning as solitary-strong",
+      "status_signal": "Standard red-pill imagery",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Boxing training",
+      "type": "lifestyle marker",
+      "translation": "Boxing as masculine practice",
+      "status_signal": "Standard manosphere physical practice",
+      "notes": "Specific commitment"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She has baggage",
+      "type": "phrase about a woman",
+      "translation": "Same as has issues — past experiences treated as damage",
+      "status_signal": "Pre-loaded judgment",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "On my purpose",
+      "type": "phrase",
+      "translation": "He's pursuing his mission rather than getting distracted by women or relationships",
+      "status_signal": "Direct red-pill self-positioning",
+      "notes": "Standard framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Morning pages",
+      "type": "lifestyle marker",
+      "translation": "Specific journaling practice from Julia Cameron",
+      "status_signal": "Standard self-improvement practice",
+      "notes": "Specific practice"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Muay Thai",
+      "type": "lifestyle marker",
+      "translation": "Thai kickboxing as manosphere martial art",
+      "status_signal": "Standard manosphere physical practice",
+      "notes": "Specific commitment"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She doesn't need a man",
+      "type": "phrase about a woman",
+      "translation": "Said critically — framing female self-sufficiency as a problem",
+      "status_signal": "Direct red-pill framing",
+      "notes": "Diagnostic of how he views women"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Masculine frame",
+      "type": "phrase",
+      "translation": "He's calling his psychological positioning a tactical asset he holds in interactions with women",
+      "status_signal": "Direct red-pill vocabulary",
+      "notes": "Frame is a red-pill term of art"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She brings peace to my life",
+      "type": "phrase about a woman",
+      "translation": "Compliment that values her deference and lack of pushback",
+      "status_signal": "Direct compliment for non-confrontation",
+      "notes": "Common red-pill approval"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Question everything",
+      "type": "phrase",
+      "translation": "Awakening framing crossover with conspiracy",
+      "status_signal": "Crossover framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She lets me lead",
+      "type": "phrase about a woman",
+      "translation": "Direct masculine-leadership-acceptance approval",
+      "status_signal": "Standard red-pill approval",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Methylene blue",
+      "type": "lifestyle marker",
+      "translation": "Specific compound used as supplement",
+      "status_signal": "Optimization-bro supplement signal",
+      "notes": "Specific Bryan-Johnson-adjacent practice"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Holding my frame",
+      "type": "phrase",
+      "translation": "He's refusing to be moved by your emotional response and treating that refusal as masculine virtue",
+      "status_signal": "Standard red-pill move",
+      "notes": "Means he won't engage with your reaction"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Apex predator",
+      "type": "phrase",
+      "translation": "Self-positioning at top of imagined social hierarchy",
+      "status_signal": "Standard red-pill imagery",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "In my bag",
+      "type": "phrase",
+      "translation": "He's performing well — generational slang for being on his game",
+      "status_signal": "Generational marker",
+      "notes": "Common phrase"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I'm protecting my energy",
+      "type": "phrase",
+      "translation": "He's refusing to engage emotionally with you and using wellness language to dignify it",
+      "status_signal": "Same pattern",
+      "notes": "Wellness vocabulary doing red-pill work"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She's masculine",
+      "type": "phrase about a woman",
+      "translation": "Criticism of a woman for being assertive or career-focused",
+      "status_signal": "Direct polarity-criticism framing",
+      "notes": "Standard polarity deployment"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I do intermittent fasting",
+      "type": "lifestyle marker",
+      "translation": "Time-restricted eating — discipline marker",
+      "status_signal": "Less specific than OMAD but still suggestive",
+      "notes": "Common in optimization circles"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She's getting older",
+      "type": "phrase about a woman",
+      "translation": "Age framed as devaluation",
+      "status_signal": "Direct age-as-decline framing",
+      "notes": "Standard red-pill timing framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Mouth taping at night",
+      "type": "lifestyle marker",
+      "translation": "Taping mouth shut during sleep for nasal breathing",
+      "status_signal": "Optimization-bro signal",
+      "notes": "Specific Huberman-popularized practice"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Medellín",
+      "type": "lifestyle marker",
+      "translation": "Travel to Colombia framed as where men go to date — manosphere destination",
+      "status_signal": "Strong signal in combination with other markers",
+      "notes": "Often signals sex tourism adjacency"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Tongkat ali",
+      "type": "lifestyle marker",
+      "translation": "Herbal supplement for testosterone",
+      "status_signal": "Specific T-optimization supplement",
+      "notes": "Standard manosphere supplement"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "You're a unicorn",
+      "type": "phrase",
+      "translation": "He's calling you rare and valuable by his criteria — which include things you may not want to be valued for",
+      "status_signal": "Standard red-pill compliment with hidden criteria",
+      "notes": "Sets up exception-from-bad-category"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Wolf pack / your pack",
+      "type": "phrase",
+      "translation": "Brotherhood/network framing",
+      "status_signal": "Standard red-pill imagery",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "The herd",
+      "type": "phrase",
+      "translation": "Conformist-people framing",
+      "status_signal": "Standard red-pill/conspiracy crossover",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Stacking",
+      "type": "phrase",
+      "translation": "Accumulating money women or skills",
+      "status_signal": "Standard red-pill aspirational framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "You're not like other women",
+      "type": "phrase",
+      "translation": "He's set up a category called other women who are bad and you're currently the exception",
+      "status_signal": "Exempt status is fragile and can be revoked",
+      "notes": "Diagnostic of category-based thinking"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "You bring peace to my life",
+      "type": "phrase",
+      "translation": "He likes that you don't push back on him",
+      "status_signal": "Compliment that values your deference",
+      "notes": "Often used about women who don't ask hard questions"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Bucharest / Romania",
+      "type": "lifestyle marker",
+      "translation": "Tate's earlier base — signals Tate-adjacency for older red-pill",
+      "status_signal": "Strong signal",
+      "notes": "Specific to Tate-era manosphere"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She's the right kind of woman",
+      "type": "phrase about a woman",
+      "translation": "Approval against his pre-set criteria for acceptable women",
+      "status_signal": "Standard category-based approval",
+      "notes": "Standard framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Fadogia agrestis",
+      "type": "lifestyle marker",
+      "translation": "Specific T-optimization supplement",
+      "status_signal": "Specific manosphere supplement",
+      "notes": "Standard manosphere supplement"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Lion mentality",
+      "type": "phrase",
+      "translation": "Self-positioning using lion imagery — coded masculinity framing",
+      "status_signal": "Standard red-pill imagery",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I'm focused on my mission",
+      "type": "phrase",
+      "translation": "His goals are what matter and your needs come second to them",
+      "status_signal": "Standard red-pill framing",
+      "notes": "Common deflection from relationship demands"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I'm on TRT",
+      "type": "lifestyle marker",
+      "translation": "Testosterone replacement therapy — body-optimization commitment",
+      "status_signal": "Signals he treats his body as a project to optimize",
+      "notes": "Specific to optimization-fluent men"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Most people",
+      "type": "phrase",
+      "translation": "Dismissive reference to the masses",
+      "status_signal": "Standard mass-dismissal framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She has a lot to offer",
+      "type": "phrase about a woman",
+      "translation": "He's evaluating a woman against transactional criteria",
+      "status_signal": "Direct transactional framing",
+      "notes": "Standard framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "You have to think for yourself",
+      "type": "phrase",
+      "translation": "Awakening framing crossover with conspiracy",
+      "status_signal": "Crossover framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "No-fap / no fap",
+      "type": "lifestyle marker",
+      "translation": "Refraining from masturbation as discipline and energy preservation",
+      "status_signal": "Standard manosphere practice",
+      "notes": "Specific discipline practice"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Cold plunge",
+      "type": "lifestyle marker",
+      "translation": "Daily ice-water immersion — currently near-universal in red-pill discipline culture",
+      "status_signal": "Suggestive on its own; diagnostic with other signals",
+      "notes": "Huberman-popularized"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She's high quality",
+      "type": "phrase about a woman",
+      "translation": "Approval against transactional criteria",
+      "status_signal": "Direct quality-grading framing",
+      "notes": "Standard approval"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I value traditional things",
+      "type": "phrase",
+      "translation": "Coded for traditional gender role expectations",
+      "status_signal": "Crossover with tradwife framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Do your own research",
+      "type": "phrase",
+      "translation": "Direct conspiracy crossover framing",
+      "status_signal": "Crossover framing",
+      "notes": "Heavy signal"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "How old is she?",
+      "type": "phrase about a woman",
+      "translation": "He's evaluating women based on age against the wall — the supposed point at which women lose value",
+      "status_signal": "Standard red-pill assessment",
+      "notes": "Often the first question about any woman"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I don't want a partner who's super career-driven",
+      "type": "phrase",
+      "translation": "Coded for traditional gender role expectations",
+      "status_signal": "Standard career-as-problem framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "5x5 / StrongLifts",
+      "type": "lifestyle marker",
+      "translation": "Specific powerlifting program",
+      "status_signal": "Standard manosphere lifting program",
+      "notes": "Specific lifting commitment"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Eagle vision",
+      "type": "phrase",
+      "translation": "Self-positioning with eagle imagery",
+      "status_signal": "Standard red-pill imagery",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Mewing / jawline work",
+      "type": "lifestyle marker",
+      "translation": "Tongue posture exercises for jawline appearance",
+      "status_signal": "Looksmax-adjacent practice",
+      "notes": "Specific physical optimization"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She's settling now",
+      "type": "phrase about a woman",
+      "translation": "She's looking for marriage after sexual prime",
+      "status_signal": "Direct wall-framing",
+      "notes": "Pre-loaded judgment of women dating later"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Tulum",
+      "type": "lifestyle marker",
+      "translation": "Wellness-meets-manosphere destination in Mexico",
+      "status_signal": "Crossover destination signal",
+      "notes": "Specific destination"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She doesn't have much to offer",
+      "type": "phrase about a woman",
+      "translation": "Same evaluation made negatively",
+      "status_signal": "Direct transactional dismissal",
+      "notes": "Standard framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I lift",
+      "type": "lifestyle marker",
+      "translation": "Weightlifting as identity marker — masculinity through physical strength",
+      "status_signal": "Suggestive; diagnostic with other signals",
+      "notes": "Specific numbers like deadlift max often follow"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I'm not where I want to be yet",
+      "type": "phrase",
+      "translation": "Pre-emptive justification for unavailability",
+      "status_signal": "Standard delay framing",
+      "notes": "Often deflects commitment expectations"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Running with the pack",
+      "type": "phrase",
+      "translation": "Same — network framing",
+      "status_signal": "Standard red-pill imagery",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Bryan Johnson stack",
+      "type": "lifestyle marker",
+      "translation": "Following Bryan Johnson's specific supplement protocol",
+      "status_signal": "Specific longevity-optimization signal",
+      "notes": "Specific protocol adoption"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Grounding / earthing",
+      "type": "lifestyle marker",
+      "translation": "Walking barefoot on grass for body electrical balance",
+      "status_signal": "Wellness-manosphere crossover",
+      "notes": "Specific practice"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Miami",
+      "type": "lifestyle marker",
+      "translation": "US manosphere events and culture hub",
+      "status_signal": "Manosphere geography signal",
+      "notes": "Specific destination"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "5 AM club / 4 AM club",
+      "type": "lifestyle marker",
+      "translation": "Waking extremely early as discipline marker",
+      "status_signal": "Standard discipline-as-identity practice",
+      "notes": "Specific routine commitment"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Creatine",
+      "type": "lifestyle marker",
+      "translation": "Foundational performance supplement",
+      "status_signal": "Entry-level optimization signal",
+      "notes": "Common supplement"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "We're aligned",
+      "type": "phrase",
+      "translation": "Wellness-adjacent term that often signals masculine-leadership acceptance",
+      "status_signal": "Crossover with wellness vocabulary",
+      "notes": "Standard framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Thailand",
+      "type": "lifestyle marker",
+      "translation": "Travel to Thailand — sometimes sex-tourism-adjacent sometimes legitimate",
+      "status_signal": "Suggestive destination signal",
+      "notes": "Specific destination"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Most women don't...",
+      "type": "phrase",
+      "translation": "Setting up a contrast where you are the rare exception",
+      "status_signal": "Pre-loads you as exempt from the bad category",
+      "notes": "Watch the comparison structure"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She's career-focused",
+      "type": "phrase about a woman",
+      "translation": "Said critically — her career is treated as a problem",
+      "status_signal": "Standard red-pill framing",
+      "notes": "Reveals his expectations"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Sun gazing",
+      "type": "lifestyle marker",
+      "translation": "Looking at sun at sunrise as optimization practice",
+      "status_signal": "Optimization-bro signal",
+      "notes": "Specific Huberman-popularized practice"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Eastern Europe",
+      "type": "lifestyle marker",
+      "translation": "Travel to Eastern Europe pre-war Ukraine Poland Czech Republic — sometimes signals sex-tourism adjacency",
+      "status_signal": "Manosphere travel signal",
+      "notes": "Specific destination pattern"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "You'd make a good wife",
+      "type": "phrase",
+      "translation": "He's evaluating you against marriage criteria — often before you've decided you want that with him",
+      "status_signal": "Compliment that signals he's already running the assessment",
+      "notes": "Often appears early"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I'm pretty intentional with my time",
+      "type": "phrase",
+      "translation": "Coded availability-management — he won't be available much",
+      "status_signal": "Standard availability-management framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Look...",
+      "type": "vocabulary",
+      "translation": "Conversational opener common in manosphere speech",
+      "status_signal": "Manosphere conversational marker",
+      "notes": "Specific verbal pattern"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I'm protecting my time",
+      "type": "phrase",
+      "translation": "He's refusing to give you his attention and using boundary-speak to dignify it",
+      "status_signal": "Borrowed from wellness; deployed as accountability shield",
+      "notes": "Often means he won't be emotionally available"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "My purpose",
+      "type": "phrase",
+      "translation": "His goal as singular guiding life-principle",
+      "status_signal": "Standard purpose rhetoric",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "BJJ training",
+      "type": "lifestyle marker",
+      "translation": "Brazilian Jiu-Jitsu — currently the dominant manosphere martial art",
+      "status_signal": "Strong current signal of manosphere fluency",
+      "notes": "Often combined with other lifestyle markers"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I avoid seed oils",
+      "type": "lifestyle marker",
+      "translation": "Specific dietary marker shared between manosphere and conspiracy",
+      "status_signal": "Strong current signal",
+      "notes": "Near-universal in both overlays"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She's been through a lot of guys",
+      "type": "phrase about a woman",
+      "translation": "Sexual history framed as accumulation of damage",
+      "status_signal": "Standard red-pill sexual-history framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "How many kids do you want?",
+      "type": "question",
+      "translation": "Specifically looking for a large number signals he wants a traditional family arrangement",
+      "status_signal": "Probe for openness to large family",
+      "notes": "Number matters"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Do you want kids?",
+      "type": "question",
+      "translation": "Asked very early signals he's screening for whether you'll have his children",
+      "status_signal": "Reasonable on its own; flagging when asked on date one or two",
+      "notes": "Combined with other signals diagnostic"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "What does she bring to the table?",
+      "type": "phrase about a woman",
+      "translation": "He's treating women as offering value in exchange for what he provides — usually said about others but reveals his framework",
+      "status_signal": "Direct transactional framing of women",
+      "notes": "Sometimes asked directly to your face"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "What I'm building",
+      "type": "phrase",
+      "translation": "His current project as identity",
+      "status_signal": "Standard founder-meets-red-pill",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Mother material",
+      "type": "phrase about a woman",
+      "translation": "She's suitable for bearing his children — early evaluation against motherhood criteria",
+      "status_signal": "Direct fertility-evaluation framing",
+      "notes": "Standard red-pill assessment"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Bali (digital nomad version)",
+      "type": "lifestyle marker",
+      "translation": "Digital-nomad version of manosphere expatriate lifestyle",
+      "status_signal": "Crossover destination signal",
+      "notes": "Specific destination"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Cigar lounge / humidor",
+      "type": "lifestyle marker",
+      "translation": "Cigars as masculine status practice",
+      "status_signal": "Standard masculine ritual signal",
+      "notes": "Specific practice"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "I'm looking for someone family-oriented",
+      "type": "phrase",
+      "translation": "Coded for traditional gender expectations",
+      "status_signal": "Crossover with tradwife framing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Locked in",
+      "type": "phrase",
+      "translation": "He's focused on his work or self-improvement and not available for relationship demands",
+      "status_signal": "Discipline-as-identity language",
+      "notes": "Often signals reduced availability"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Frankly...",
+      "type": "vocabulary",
+      "translation": "Joe Rogan and Andrew Tate verbal pattern",
+      "status_signal": "Imitative manosphere speech pattern",
+      "notes": "Specific verbal tic"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Austin",
+      "type": "lifestyle marker",
+      "translation": "Joe Rogan + tech bros + manosphere influencers hub",
+      "status_signal": "Manosphere geography signal",
+      "notes": "Specific destination"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "Dialed in",
+      "type": "phrase",
+      "translation": "Same as locked in — he's focused and disciplined",
+      "status_signal": "Discipline-as-identity",
+      "notes": "Hustle and red-pill crossover"
+    },
+    {
+      "culture": "Red Pill",
+      "snippet": "She's low quality",
+      "type": "phrase about a woman",
+      "translation": "Dismissal against transactional criteria",
+      "status_signal": "Direct quality-grading dismissal",
+      "notes": "Standard dismissal"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "scenario_id": "S-106",
+  "player_type": "Avoidant Alex",
+  "scenario": {
+    "scenario_id": "S-106",
+    "architecture_name": "He makes closeness feel special while quietly teaching me that wanting more is too much, so I stay grateful for whatever he offers.",
+    "culture": "Conservative Sunni Muslim",
+    "demographics": "Adult woman of Hispanic background, Ahmed is an adult Muslim man",
+    "cultural_context": "Urban community event and family-centered interfaith dating/social sphere",
+    "geographic_setting": "Queens, New York City",
+    "core_behaviors": [
+      "Plans dates with careful attention and warmth",
+      "Praises my independence while keeping emotional distance",
+      "Uses family and community settings to frame his limited availability as normal",
+      "Softly revises my experience when I ask for more clarity"
+    ],
+    "satellite_signals": "Interfaith dating in Queens; family-centered community events; halal-coded politeness; his charm is present, but so is a steady preference for space, low pressure, and undefined commitment.",
+    "dismissible_red_flags": "At this stage it mostly feels like he is thoughtful, busy, and cautious. His comments sound gentle, and I can tell myself he is just moving carefully because this is new and interfaith.",
+    "scenario_text": "I keep thinking about Ahmed because he is so sweet in the little ways. We met at that community event in Queens, and since then he has been the one picking the place, the time, even the route if we end up driving somewhere after. He always says he just wants everything to feel easy for us. I like that he notices things. If I mention I have a long day, he will text, “I love that you have your own life going on,” like it is the nicest thing anyone could say.\n\nHe is also very clear that he is not big on pressure. After dinner last week he smiled and said, “Let’s just see where this goes without all the pressure of a label.” It sounded calm, almost mature, so I laughed and said sure. I do like how low-drama he is. He does not make a big show of anything, and that feels kind of refreshing after some guys I have known.\n\nStill, there are moments that stick a little. At his cousin’s place, when I said I was tired, he gave me this soft look and said, “Maybe you’re just not used to such lively gatherings yet.” I know he meant it sweetly, and honestly maybe he was right. He says I get a side of him nobody else gets, which is flattering in a weird way. It makes me feel chosen, even when he goes quiet for a day or two and then comes back like nothing happened.\n\nHe keeps telling me not to overthink it, that he likes me more because I do not crowd him. I probably am overthinking. It is just that sometimes I cannot tell if I am supposed to feel special for getting so little of him, or if I am being greedy. Do you think I was being too sensitive about the comment at dinner?"
+  },
+  "snippets": [
+    {
+      "quote": "We met at that community event in Queens",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places the relationship in a specific urban Muslim social world. It is ordinary on the surface, but it also signals how the relationship is being formed through community rather than private dating.",
+      "snippet_id": "S-106-SN0001"
+    },
+    {
+      "quote": "he has been the one picking the place, the time",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is quietly steering the logistics. That can look considerate, but it also means he is setting the frame and she is mostly following along.",
+      "snippet_id": "S-106-SN0002"
+    },
+    {
+      "quote": "even the route if we end up driving somewhere",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Mobility is in his hands here. The surface meaning is helpfulness, but the structure is that he decides where they go and how they get there.",
+      "snippet_id": "S-106-SN0003"
+    },
+    {
+      "quote": "He always says he just wants everything to feel easy for us",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "‘Easy’ sounds romantic, but it also sets up a rule that any friction is her fault. It makes his preference for low demand feel like the morally correct relationship style.",
+      "snippet_id": "S-106-SN0004"
+    },
+    {
+      "quote": "I love that you have your own life going on",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is praise that rewards distance. In a conservative courtship register, independence can sound mature, but here it also teaches her that needing time or closeness would make her less desirable.",
+      "snippet_id": "S-106-SN0005"
+    },
+    {
+      "quote": "Let’s just see where this goes without all the pressure of a label",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the classic anti-label move. It sounds relaxed, but it also keeps the relationship undefined on his terms, which means she cannot ask for clarity without seeming pushy.",
+      "snippet_id": "S-106-SN0006"
+    },
+    {
+      "quote": "I do like how low-drama he is",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already translating his distance into a virtue. ‘Low-drama’ is a culturally flattering phrase, but it can also become a way to make her own needs feel excessive.",
+      "snippet_id": "S-106-SN0007"
+    },
+    {
+      "quote": "At his cousin’s place",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Family proximity matters in this register. Being brought into relatives’ homes can feel serious and respectful, while also increasing the sense that she is entering his world on his terms.",
+      "snippet_id": "S-106-SN0008"
+    },
+    {
+      "quote": "Maybe you’re just not used to such lively gatherings yet",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Cognitive Flexibility-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He reframes her tiredness as a problem of adjustment rather than listening to what she said. It is gentle enough to dismiss, but it still puts his interpretation above her own.",
+      "snippet_id": "S-106-SN0009"
+    },
+    {
+      "quote": "He says I get a side of him nobody else gets",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is specialness as a reward. It makes her feel chosen, but it also creates a tiny debt, as if the rare access she gets should be enough.",
+      "snippet_id": "S-106-SN0010"
+    },
+    {
+      "quote": "it makes me feel chosen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is soothing herself with the feeling of being selected. That is understandable, but it also shows how easily scarcity can be mistaken for intimacy.",
+      "snippet_id": "S-106-SN0011"
+    },
+    {
+      "quote": "he goes quiet for a day or two",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest avoidance signal. The quiet is framed as normal, but the pattern is that he withdraws and returns without repair, leaving her to adapt.",
+      "snippet_id": "S-106-SN0012"
+    },
+    {
+      "quote": "then comes back like nothing happened",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He skips over the interruption instead of acknowledging it. That can feel easygoing early on, but it trains her not to expect explanation or repair.",
+      "snippet_id": "S-106-SN0013"
+    },
+    {
+      "quote": "He keeps telling me not to overthink it",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is a soft directive, not just reassurance. It nudges her away from trusting her own reactions and toward accepting his framing.",
+      "snippet_id": "S-106-SN0014"
+    },
+    {
+      "quote": "he likes me more because I do not crowd him",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Neediness-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is rewarding her for making herself small. The compliment sounds sweet, but it teaches her that asking for closeness is a liability.",
+      "snippet_id": "S-106-SN0015"
+    },
+    {
+      "quote": "I probably am overthinking",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is her self-correction kicking in. She is absorbing the burden of the mismatch instead of holding onto the fact that something about it felt off.",
+      "snippet_id": "S-106-SN0016"
+    },
+    {
+      "quote": "I am being greedy",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She has started moralizing her own needs. That is a common effect of being praised for needing less and quietly discouraged from asking for more.",
+      "snippet_id": "S-106-SN0017"
+    },
+    {
+      "quote": "Do you think I was being too sensitive about the comment at dinner?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The question is small on purpose. She is not asking whether the relationship is off, only whether her reaction to one comment was too much, which shows how much she is minimizing.",
+      "snippet_id": "S-106-SN0018"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

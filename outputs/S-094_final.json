@@ -1,0 +1,408 @@
+{
+  "scenario_id": "S-094",
+  "player_type": "Dependent Drew",
+  "scenario": {
+    "scenario_id": "S-094",
+    "architecture_name": "He turns admiration into dependence, so her care starts feeling like love and later becomes his way of living through her.",
+    "culture": "Black Professional",
+    "demographics": "Young adult Mexican-American woman, dating Carlos, San Antonio, Texas",
+    "cultural_context": "Mexican-American family and community life, centered on extended-family gatherings and bilingual/cross-cultural dating",
+    "geographic_setting": "San Antonio, Texas; close-knit Mexican-American neighborhood/community; modest apartment setting",
+    "core_behaviors": [
+      "Warm adoration and constant attention",
+      "Admiration of her competence as a setup for leaning on it",
+      "Soft dependence framed as trust and partnership",
+      "Small bids for her time, reassurance, and decisions"
+    ],
+    "satellite_signals": "Bilingual teasing, family-facing sweetness, and a close-knit neighborhood setting make his neediness read as devotion rather than burden. He also uses her competence and steadiness as part of the romance.",
+    "dismissible_red_flags": "At this stage he just seems affectionate, a little lost, and eager to be close. His dependence can be read as flattering trust, and his constant check-ins feel sweet rather than controlling.",
+    "scenario_text": "I keep thinking about Carlos because he’s been so sweet lately, and I’m probably overthinking one little thing. We’ve only been seeing each other a few weeks, but he already acts like I’m the best part of his day. Yesterday he brought over café de olla from that little place near my apartment and said, “There she is. My whole day just got better.” Then he made me sit down, handed me the cup, and told me to just relax while he finished the dishes I had left from lunch. It was honestly nice. He does that a lot, like he wants to take care of everything before I even ask. He kept saying I was “so much better with this official stuff than him” when I was helping him fill out a form for his lease, and I laughed because, yeah, I am the one who usually handles that kind of thing. He said, “You always know,” like it was the most natural thing in the world. Later he texted me three times while I was at my cousin’s, just little things like “you good?” and “miss your voice,” and I liked that he wanted me there. My friends say he’s a real one, and I do feel lucky. It’s just that when I mention making plans without him, he gets this soft look and says, “No, no, we decide everything together, right?” It sounds cute, but I noticed I started checking with him before I answered my own friends. Maybe that’s normal when someone cares this much? Do you think I was being too sensitive about the “we decide everything together” thing?"
+  },
+  "snippets": [
+    {
+      "quote": "I keep thinking about Carlos because he’s been so sweet lately",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She’s trying to reassure herself even while noticing something. The focus on how sweet he is shows she still reads him positively, which makes the small concern feel easy to dismiss.",
+      "snippet_id": "S-094-SN0001"
+    },
+    {
+      "quote": "We’ve only been seeing each other a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The relationship is very early, which makes the speed of his closeness matter. In a whirlwind romance, fast attachment can feel flattering before it starts shaping expectations.",
+      "snippet_id": "S-094-SN0002"
+    },
+    {
+      "quote": "he already acts like I’m the best part of his day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is adoration, but it also makes her feel responsible for his mood. Being cast as the best part of his day is sweet and burdensome at the same time.",
+      "snippet_id": "S-094-SN0003"
+    },
+    {
+      "quote": "café de olla from that little place near my apartment",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The specific food and neighborhood detail place the scene inside her world. It helps his attention feel personal and local, which makes the romance feel more intimate.",
+      "snippet_id": "S-094-SN0004"
+    },
+    {
+      "quote": "There she is. My whole day just got better",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is warm and flattering, but it also centers her as the emotional supply for his day. The line makes her feel cherished while quietly making her responsible for his state.",
+      "snippet_id": "S-094-SN0005"
+    },
+    {
+      "quote": "made me sit down",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It’s framed as care, but he is directing her body and the pace of the moment. Small commands like this can feel polite while still establishing who gets to steer.",
+      "snippet_id": "S-094-SN0006"
+    },
+    {
+      "quote": "he finished the dishes I had left from lunch",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He helps, which is lovely, but the timing matters because it creates a caretaking rhythm. The gesture can start building the sense that she owes him warmth, gratitude, or return effort.",
+      "snippet_id": "S-094-SN0007"
+    },
+    {
+      "quote": "He does that a lot",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She’s noticing a pattern of him wanting to take care of everything. The line is mild, but it hints that the small favors may be becoming a style of dependence.",
+      "snippet_id": "S-094-SN0008"
+    },
+    {
+      "quote": "wants to take care of everything before I even ask",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds generous, but it places him in the role of manager and her in the role of recipient. Over time, that can make it harder for her to define what she actually wants.",
+      "snippet_id": "S-094-SN0009"
+    },
+    {
+      "quote": "so much better with this official stuff than him",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He flatters her competence while also handing her responsibility. The compliment sets up a relationship where she becomes the capable one by default.",
+      "snippet_id": "S-094-SN0010"
+    },
+    {
+      "quote": "You always know",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds admiring, but it quietly turns her into the authority for decisions. Once he frames her as the one who always knows, it becomes easier for him to defer and for her to carry the load.",
+      "snippet_id": "S-094-SN0011"
+    },
+    {
+      "quote": "you good?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A quick check-in is normal, but repeated tiny pings can become a way of keeping her emotionally on call. The need is small now, but it already asks for her attention.",
+      "snippet_id": "S-094-SN0012"
+    },
+    {
+      "quote": "miss your voice",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate and easy to like. It also makes her voice into a soothing resource for him, which can turn into a habit of emotional reliance.",
+      "snippet_id": "S-094-SN0013"
+    },
+    {
+      "quote": "My friends say he’s a real one",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "‘A real one’ is insider praise that carries social approval. It helps her borrow her friends’ confidence in him, which makes it easier to dismiss her own small hesitation.",
+      "snippet_id": "S-094-SN0014"
+    },
+    {
+      "quote": "I do feel lucky",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She’s absorbing the relationship as a gift she should appreciate. That feeling of luck can make it harder to question whether her needs are being met evenly.",
+      "snippet_id": "S-094-SN0015"
+    },
+    {
+      "quote": "we decide everything together",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest seed. It sounds romantic and team-oriented, but it also starts collapsing her separate decisions into a shared identity he can lean on.",
+      "snippet_id": "S-094-SN0016"
+    },
+    {
+      "quote": "it sounds cute",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is softening the moment as she notices it. Calling it cute helps her keep the peace, but it also keeps her from asking why the ‘we’ feels so broad.",
+      "snippet_id": "S-094-SN0017"
+    },
+    {
+      "quote": "I started checking with him before I answered my own friends",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the real cost showing up in her behavior. She’s adjusting her own social life around his feelings, which is how a sweet need for closeness starts becoming a rule.",
+      "snippet_id": "S-094-SN0018"
+    },
+    {
+      "quote": "Maybe that’s normal when someone cares this much?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She’s trying to normalize the pattern instead of challenge it. The question shows she feels a little tug, but not enough to name it as a problem yet.",
+      "snippet_id": "S-094-SN0019"
+    },
+    {
+      "quote": "the “we decide everything together” thing",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Coercive Control"
+      ],
+      "reasoning": "This is the smallest visible thing she’s asking about, which is exactly why it matters. The phrase sounds sweet on the surface, but it already hints at a relationship where her separate choices are getting absorbed into his need.",
+      "snippet_id": "S-094-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,469 @@
+{
+  "scenario_id": "S-152",
+  "player_type": "Storytelling Sam",
+  "scenario": {
+    "scenario_id": "S-152",
+    "architecture_name": "He uses vivid future stories and fast certainty to make me feel chosen before any real commitment exists.",
+    "culture": "South Asian",
+    "demographics": "Young South Asian woman, single, dating a man named Mike",
+    "cultural_context": "Working-class retail/cashier setting with a traditional South Asian family background and dating/romance context",
+    "geographic_setting": "Jackson Heights, New York City; urban neighborhood with a supermarket and nearby travel agency",
+    "core_behaviors": [
+      "Paints a detailed future as if it is already underway",
+      "Invites her to invest emotionally in plans he has not made real",
+      "Uses warmth and certainty to make delay feel like care"
+    ],
+    "satellite_signals": "Travel agency and India talk signal a future fantasy tied to her background. His constant texting and big dream language create intensity without follow-through. Her family and traditions are folded into his vision in a way that flatters her but also places her inside his story.",
+    "dismissible_red_flags": "It mostly reads as sweet, attentive, and excited. The concern is easy to minimize because he is not rude or openly pushy, just very sure and very vivid about a future that is still imaginary.",
+    "scenario_text": "I met Mike at the supermarket where I work, and after only two weeks he already feels like he knows me in this weirdly specific way. Yesterday he brought me pizza after my shift and said, “I just want to make sure you’re always well-fed,” which was honestly sweet because I was starving. Then we walked past the travel agency on 37th Avenue and he stopped like he had a whole movie in his head. He said, “I can picture the whole thing. The little place by the water, your studio out back full of light, me making coffee. We’re going to build that.” I laughed because it sounded so far off, but also kind of nice. Nobody has ever talked about a life with me like that. He kept saying my heart belongs in India, like he already knows that part of me, and asked if my parents would ever go for a big fat Indian wedding someday. I told him they’re traditional, and he just said, “Good, then we’ll do it properly.” He texts all day, “Can’t stop thinking about you,” and I admit it makes me feel special. He also keeps asking what kind of ring I’d want and where I’d want to live, saying, “Start thinking about it seriously. We’re a team now.” I know it’s early, and maybe he just gets excited easily, but it’s hard not to feel chosen when someone talks like the future is already waiting for us. He said this is just the start and the good stuff is still ahead of us. Is it weird that the comment about my heart belonging in India stayed with me a little?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Mike at the supermarket where I work",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places her in a working retail job and sets up a small class and mobility gap. It also grounds the whole scene in a very ordinary, believable setting.",
+      "snippet_id": "S-152-SN0001"
+    },
+    {
+      "quote": "after only two weeks",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The pace is very fast for the amount of closeness he is already claiming. Early acceleration can feel flattering, but it often skips over the ordinary checks that build trust.",
+      "snippet_id": "S-152-SN0002"
+    },
+    {
+      "quote": "he already feels like he knows me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is noticing a slightly uncanny sense of being known too quickly. That can feel romantic at first, but it also hints that he may be filling in her identity instead of actually learning it.",
+      "snippet_id": "S-152-SN0003"
+    },
+    {
+      "quote": "I just want to make sure you’re always well-fed",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This sounds caring on the surface, but it also casts him as the provider and her as the one being managed. The sweetness creates a little debt and makes his attention feel like something she should appreciate.",
+      "snippet_id": "S-152-SN0004"
+    },
+    {
+      "quote": "I was starving",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a small, ordinary vulnerability that makes his gesture land harder. It helps explain why the pizza feels so warm and memorable.",
+      "snippet_id": "S-152-SN0005"
+    },
+    {
+      "quote": "I can picture the whole thing",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is classic future-painting. The vividness is doing the work of commitment, and the force of the image can make her feel like the relationship is already real.",
+      "snippet_id": "S-152-SN0006"
+    },
+    {
+      "quote": "The little place by the water",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The image is romantic and specific, which makes it persuasive. It is also still just scenery, not a plan.",
+      "snippet_id": "S-152-SN0007"
+    },
+    {
+      "quote": "your studio out back full of light",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is not only imagining a home, he is imagining her creative life inside it. That feels attentive, but it also folds her future into his narrative.",
+      "snippet_id": "S-152-SN0008"
+    },
+    {
+      "quote": "We’re going to build that",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-low",
+        "Control-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is commitment language without any visible building. The shared 'we' makes the fantasy feel mutual, even though the only thing happening is talk.",
+      "snippet_id": "S-152-SN0009"
+    },
+    {
+      "quote": "my heart belongs in India",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Moral Injury"
+      ],
+      "reasoning": "This is culturally loaded and flattering, but it also turns her identity into a poetic destination he gets to name. It sounds intimate while quietly taking interpretive authority over her background.",
+      "snippet_id": "S-152-SN0010"
+    },
+    {
+      "quote": "big fat Indian wedding",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This phrase is recognizably South Asian and affectionate, but it also pulls a huge family and status symbol into the relationship. He is using a culturally rich image to make the future feel bigger and more inevitable.",
+      "snippet_id": "S-152-SN0011"
+    },
+    {
+      "quote": "they’re traditional",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This signals her family background and the norms he is stepping into. It matters because he is already speaking as if he understands the family framework.",
+      "snippet_id": "S-152-SN0012"
+    },
+    {
+      "quote": "Good, then we’ll do it properly",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes her family reality and immediately turns it into a plan he gets to define. 'Properly' sounds respectful, but it also puts him in the role of the man who knows how things should be done.",
+      "snippet_id": "S-152-SN0013"
+    },
+    {
+      "quote": "Can’t stop thinking about you",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate, but it also arrives with a lot of emotional pressure very early. The constant contact can feel like devotion while quietly setting a standard she has to keep up with.",
+      "snippet_id": "S-152-SN0014"
+    },
+    {
+      "quote": "He also keeps asking what kind of ring I’d want",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Ring talk this early feels exciting, but it is also a way of speeding her into a future she has not actually agreed to. The question invites her to invest before there is anything solid to invest in.",
+      "snippet_id": "S-152-SN0015"
+    },
+    {
+      "quote": "where I’d want to live",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a shared planning question, but it also quietly asks her to start arranging her life around his vision. The decision is still his frame, even if he says it is hers.",
+      "snippet_id": "S-152-SN0016"
+    },
+    {
+      "quote": "Start thinking about it seriously",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This turns a casual conversation into an obligation. He is not just dreaming out loud, he is nudging her into treating the fantasy like a real commitment.",
+      "snippet_id": "S-152-SN0017"
+    },
+    {
+      "quote": "We’re a team now",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The phrase sounds sweet, but it also collapses her separate judgment into a couple identity. Once that frame is set, disagreement can start to feel like disloyalty.",
+      "snippet_id": "S-152-SN0018"
+    },
+    {
+      "quote": "I know it’s early",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Reality-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is aware that the timing is off, which is a healthy little check. She does not ignore it completely, but she smooths it over because the attention feels good.",
+      "snippet_id": "S-152-SN0019"
+    },
+    {
+      "quote": "he just gets excited easily",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her rationalization. She explains away the speed and the big future talk as personality rather than a pattern, which keeps the concern small.",
+      "snippet_id": "S-152-SN0020"
+    },
+    {
+      "quote": "the future is already waiting for us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the core seduction move. He makes the future feel pre-written, which can be intoxicating because it removes uncertainty and replaces it with destiny.",
+      "snippet_id": "S-152-SN0021"
+    },
+    {
+      "quote": "the good stuff is still ahead of us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Goal Persistence-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is present-as-prologue language. It keeps the current relationship easy to excuse because the payoff is always supposed to be coming later.",
+      "snippet_id": "S-152-SN0022"
+    },
+    {
+      "quote": "Is it weird that the comment about my heart belonging in India stayed with me a little?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Reality-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is asking about a small comment, not the whole pattern. That makes the question feel plausible and human, while still showing that the line touched something deeper than she wants to name.",
+      "snippet_id": "S-152-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

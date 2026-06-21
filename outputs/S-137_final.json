@@ -1,0 +1,406 @@
+{
+  "scenario_id": "S-137",
+  "player_type": "Tornado Toby",
+  "scenario": {
+    "scenario_id": "S-137",
+    "architecture_name": "He makes himself the warm, helpful center of my new life, so his excitement quietly starts setting the terms.",
+    "culture": "South Asian",
+    "demographics": "F/26 Indian, M/29 Indian, SF tech workplace",
+    "cultural_context": "Tech job / urban professional social sphere with immigrant newcomer dynamics",
+    "geographic_setting": "San Francisco tech workplace",
+    "core_behaviors": [
+      "Plans lunches and outings before I have a chance to settle in",
+      "Turns my background into a flattering topic that also singles me out",
+      "Frames his intensity as care, then expects me to go along with it"
+    ],
+    "satellite_signals": "SF tech newcomer context, immigrant work-visa adjustment, South Asian family references, and a cheerful, high-energy colleague dynamic that feels flattering before it feels heavy.",
+    "dismissible_red_flags": "He just seems enthusiastic, helpful, and curious. The little pushiness can be read as someone trying to make the new girl feel included, especially in a fast-moving office.",
+    "scenario_text": "I’m still pretty new in San Francisco, so I’ve been leaning on Arjun a little at work. He’s only a few years older than me, but he acts like he already knows every lunch place, every shortcut, every person in the building. On Wednesday he said, “Let me plan tomorrow’s lunch, yaar, I know the good spots,” and by the time I replied he had already made a reservation. It was sweet, honestly. I like that he’s so quick and sure of himself.\n\nAt my welcome drinks on Friday, he raised his glass and said it was “so nice to have someone from such a vibrant culture” on the team. Everyone laughed, and I did too, because it sounded like a compliment. He kept asking about Mumbai, my parents, whether I was vegetarian, all the usual South Asian questions, and I didn’t mind. It felt kind of nice to be seen as someone with a real background instead of just another engineer.\n\nThe only thing that stayed with me was how he keeps turning every plan into his plan. If I say I’m free after work, he’ll already be halfway through, “Good, then we can do dinner.” If I mention I’m tired, he says, “No worries, I’ll handle it,” and then I’m just along for the ride. He means well, I know that. He’s actually really thoughtful in a very chaotic way.\n\nMaybe I’m just not used to someone moving that fast with me. It’s not a bad thing, exactly. It just makes me feel a little like I’m being carried by the current instead of choosing where I go. Is it weird that I liked his lunch thing but also felt a little boxed in by it?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m still pretty new in San Francisco",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Newcomer context. It places her in a vulnerable transition without making the situation sound alarming.",
+      "snippet_id": "S-137-SN0001"
+    },
+    {
+      "quote": "leaning on Arjun a little at work",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already depending on him socially at work, which gives his helpfulness extra weight. The dependence is mild, but it sets up the imbalance.",
+      "snippet_id": "S-137-SN0002"
+    },
+    {
+      "quote": "he acts like he already knows every lunch place",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is positioning himself as the local guide. That can feel caring, but it also puts him in the role of deciding where she goes.",
+      "snippet_id": "S-137-SN0003"
+    },
+    {
+      "quote": "Let me plan tomorrow’s lunch, yaar",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds friendly and culturally familiar, but it is also a directive. He is not asking to plan with her, he is taking over the plan.",
+      "snippet_id": "S-137-SN0004"
+    },
+    {
+      "quote": "I know the good spots",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He frames his preference as expertise, which makes it harder for her to object. The surface is helpfulness; the structure is him setting the terms.",
+      "snippet_id": "S-137-SN0005"
+    },
+    {
+      "quote": "he had already made a reservation",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He acts first and lets her catch up. Even when the gesture is nice, the reservation means the choice is already made for her.",
+      "snippet_id": "S-137-SN0006"
+    },
+    {
+      "quote": "It was sweet, honestly",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is smoothing over the imbalance with affectionate language. That kind of rationalization is exactly how an early power shift stays invisible.",
+      "snippet_id": "S-137-SN0007"
+    },
+    {
+      "quote": "so nice to have someone from such a vibrant culture",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a compliment, but it also singles her out as a cultural object in front of the room. It flatters her while making her background into something he can present.",
+      "snippet_id": "S-137-SN0008"
+    },
+    {
+      "quote": "Everyone laughed, and I did too",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "She laughs along even though the moment feels a little off. That tells you she is already adjusting herself to the room.",
+      "snippet_id": "S-137-SN0009"
+    },
+    {
+      "quote": "all the usual South Asian questions",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "These are culturally legible questions about family, diet, and background. They are normal on the surface, but they also mark how quickly he is moving into intimate territory.",
+      "snippet_id": "S-137-SN0010"
+    },
+    {
+      "quote": "whether I was vegetarian",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A standard South Asian identity probe. In context, it shows how quickly he is reading her through community markers.",
+      "snippet_id": "S-137-SN0011"
+    },
+    {
+      "quote": "It felt kind of nice to be seen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She likes the recognition, which is understandable, but it also shows how easily attention becomes validation. That makes the later pressure easier to miss.",
+      "snippet_id": "S-137-SN0012"
+    },
+    {
+      "quote": "He means well, I know that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her own defense of him. It softens the concern before she has fully named it.",
+      "snippet_id": "S-137-SN0013"
+    },
+    {
+      "quote": "really thoughtful in a very chaotic way",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The phrase captures the appealing side of his volatility. He seems caring, but the chaos means she cannot quite predict what will happen next.",
+      "snippet_id": "S-137-SN0014"
+    },
+    {
+      "quote": "every plan into his plan",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the core pattern in plain language. He does not dominate aggressively, but he keeps absorbing her choices into his own version of events.",
+      "snippet_id": "S-137-SN0015"
+    },
+    {
+      "quote": "If I say I’m free after work",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He treats her availability as the opening for his next step. The move is small, but it trains her to respond rather than initiate.",
+      "snippet_id": "S-137-SN0016"
+    },
+    {
+      "quote": "Good, then we can do dinner",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The sentence sounds casual, but it converts her statement into a couple decision. It is a soft command disguised as coordination.",
+      "snippet_id": "S-137-SN0017"
+    },
+    {
+      "quote": "No worries, I’ll handle it",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is helpful on the surface, but it also removes her from the decision-making. He is the one acting, she is the one being carried along.",
+      "snippet_id": "S-137-SN0018"
+    },
+    {
+      "quote": "I’m just not used to someone moving that fast with me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices the speed, but she still interprets it as a personal adjustment issue. That is the early stage of tolerating a pace that does not quite fit her.",
+      "snippet_id": "S-137-SN0019"
+    },
+    {
+      "quote": "I was being carried by the current",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior tell. She is not frightened, but she already feels the loss of steering, which is the real concern.",
+      "snippet_id": "S-137-SN0020"
+    },
+    {
+      "quote": "boxed in by it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She ends on a small, socially acceptable discomfort rather than a big accusation. That keeps the concern manageable while still showing the pressure of his momentum.",
+      "snippet_id": "S-137-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

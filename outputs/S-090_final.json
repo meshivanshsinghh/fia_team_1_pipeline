@@ -1,0 +1,457 @@
+{
+  "scenario_id": "S-090",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-090",
+    "architecture_name": "He uses dry, deniable criticism to make her chase his approval while feeling lucky to be the exception.",
+    "culture": "Modern Orthodox Jewish",
+    "demographics": "Adult Jewish woman, likely single/dating, Orthodox Jewish community",
+    "cultural_context": "Orthodox Jewish social and dating/community sphere",
+    "geographic_setting": "Brooklyn, New York; urban neighborhood/community setting with Prospect Park",
+    "core_behaviors": [
+      "Sharp, dry wit that lands as funny first and cutting second",
+      "Compliments that quietly correct or rank her",
+      "Easygoing surface that makes her lower her expectations"
+    ],
+    "satellite_signals": "Brooklyn Modern Orthodox dating context; Prospect Park picnic; family and shul references; shomer-negiah-adjacent courtship norms; he positions himself as discerning and easygoing while keeping approval scarce.",
+    "dismissible_red_flags": "At this stage he mainly reads as witty, honest, and refreshingly low-drama. The little digs can be brushed off as banter, and his quietness gets framed as thoughtfulness rather than withdrawal.",
+    "scenario_text": "I met Aaron a few weeks ago at a community thing in Brooklyn, and honestly he’s been really easy to be around. He’s from Teaneck, did a year in Israel at Gush, and he has that dry, quick way of talking that makes me laugh even when he’s being a little annoying. Last Shabbat he said, “You’re not one of those girls who needs a whole production,” and then added, “I mean that as a compliment.” I laughed because, weirdly, it did feel like one.\n\nHe’s been sweet in these small ways, like bringing me coffee after davening and remembering that my sister hates cilantro. But then he’ll say things like, “You’re prettier when you’re not trying so hard,” in this half-joking voice, and I never know if I’m supposed to just smile or defend myself. Usually I smile. He always looks so pleased when I do.\n\nAt the picnic in Prospect Park, he kept saying I was “surprisingly chill” for someone from my neighborhood, which was funny because he said it like a joke, but I still thought about it later. He also did this thing where he said he’d handle the car service for a Friday night dinner, then texted me an hour later with, “You’re not mad, right? I’m just terrible at logistics.” It felt a little like I was the responsible one for not making it a thing.\n\nHe’s honest, though, which I like. He’ll tell me straight if he thinks something is off, and he says he’d rather be real than fake-flattering. That sounds good to me. I just notice I’m starting to be a little careful about what I wear and how I talk, because I want to keep getting the version of him that’s funny and warm.\n\nDo you think I was being too sensitive about the joke?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Aaron a few weeks ago at a community thing in Brooklyn",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Sets the Orthodox dating setting without drama. It matters because the later comments are only legible inside this community frame.",
+      "snippet_id": "S-090-SN0001"
+    },
+    {
+      "quote": "he’s been really easy to be around",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This sounds like relief, but it also hints at the flat, low-friction surface that can hide withholding.",
+      "snippet_id": "S-090-SN0002"
+    },
+    {
+      "quote": "He’s from Teaneck",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Teaneck locates him inside a specific Modern Orthodox professional community and gives the scene a real social map.",
+      "snippet_id": "S-090-SN0003"
+    },
+    {
+      "quote": "did a year in Israel at Gush",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A standard MO status marker. It quietly places him in the expected religious cohort without needing explanation.",
+      "snippet_id": "S-090-SN0004"
+    },
+    {
+      "quote": "that dry, quick way of talking",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The wit is attractive, but the description already contains the seam: dry humor with teeth.",
+      "snippet_id": "S-090-SN0005"
+    },
+    {
+      "quote": "You’re not one of those girls who needs a whole production",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He elevates her by contrasting her with a disliked category of women. That makes approval feel scarce and makes future needs look embarrassing.",
+      "snippet_id": "S-090-SN0006"
+    },
+    {
+      "quote": "I mean that as a compliment",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the deniable package. He gets to keep the sting while insisting she should experience it as praise.",
+      "snippet_id": "S-090-SN0007"
+    },
+    {
+      "quote": "bringing me coffee after davening",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A nice gesture, but it also establishes a rhythm where he appears attentive and then earns goodwill that can later support correction.",
+      "snippet_id": "S-090-SN0008"
+    },
+    {
+      "quote": "remembering that my sister hates cilantro",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Remembering a family detail is sweet on the surface. Structurally, it makes him feel unusually attuned and therefore harder to question.",
+      "snippet_id": "S-090-SN0009"
+    },
+    {
+      "quote": "You’re prettier when you’re not trying so hard",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a hooked compliment. He gives approval while quietly setting a standard she can work to meet, which turns her appearance into a performance.",
+      "snippet_id": "S-090-SN0010"
+    },
+    {
+      "quote": "I never know if I’m supposed to just smile or defend myself",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her body is registering the mismatch before her mind names it. The uncertainty is the point, because it keeps her from objecting cleanly.",
+      "snippet_id": "S-090-SN0011"
+    },
+    {
+      "quote": "I smile",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her response shows accommodation. She is already learning that smiling is safer than pushing back.",
+      "snippet_id": "S-090-SN0012"
+    },
+    {
+      "quote": "He always looks so pleased when I do",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "His pleasure depends on her swallowing the sting. That makes her compliance part of the reward structure.",
+      "snippet_id": "S-090-SN0013"
+    },
+    {
+      "quote": "surprisingly chill",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He praises her by making her sound low-maintenance and easy to manage. The compliment also quietly ranks her against her neighborhood and peers.",
+      "snippet_id": "S-090-SN0014"
+    },
+    {
+      "quote": "for someone from my neighborhood",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a class-and-community dig dressed as a joke. He is positioning himself as the one who gets to evaluate her world.",
+      "snippet_id": "S-090-SN0015"
+    },
+    {
+      "quote": "I’d handle the car service",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Transportation is a small but real power point. He takes initiative in a way that can feel helpful while also placing him in charge.",
+      "snippet_id": "S-090-SN0016"
+    },
+    {
+      "quote": "You’re not mad, right?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a soft pressure check. He frames her possible reaction as the problem before she has even said it out loud.",
+      "snippet_id": "S-090-SN0017"
+    },
+    {
+      "quote": "I’m just terrible at logistics",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He shrugs off the miss as a personality quirk, which keeps the burden of smoothing things over on her.",
+      "snippet_id": "S-090-SN0018"
+    },
+    {
+      "quote": "He’s honest, though, which I like",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is using his self-presentation to explain away the cuts. That matters because honesty becomes the cover for criticism.",
+      "snippet_id": "S-090-SN0019"
+    },
+    {
+      "quote": "he’d rather be real than fake-flattering",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Moral Injury"
+      ],
+      "reasoning": "This is his moral framing. He turns warmth into something suspicious, so his bluntness feels principled instead of mean.",
+      "snippet_id": "S-090-SN0020"
+    },
+    {
+      "quote": "I’m starting to be a little careful about what I wear and how I talk",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest early shift. She is adapting herself to keep access to the good version of him, which is how the dynamic starts to narrow.",
+      "snippet_id": "S-090-SN0021"
+    },
+    {
+      "quote": "the version of him that’s funny and warm",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She already experiences him as having selectable versions. That means she is managing his moods and hoping for the nicer one.",
+      "snippet_id": "S-090-SN0022"
+    },
+    {
+      "quote": "Do you think I was being too sensitive about the joke?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The question keeps the concern tiny and socially acceptable, which fits the pattern. She is asking about the joke, not yet about the role it is training her to play.",
+      "snippet_id": "S-090-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,450 @@
+{
+  "scenario_id": "S-158",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-158",
+    "architecture_name": "He uses dry honesty and little corrections to make me feel chosen, then quietly train me to shrink around his standards.",
+    "culture": "Conservative Sunni Muslim",
+    "demographics": "F/26 Lebanese-American, M/29 Lebanese immigrant",
+    "cultural_context": "Immigrant/diaspora social sphere centered on Lebanese community events, family approval, and ethnic restaurant/date culture.",
+    "geographic_setting": "Dearborn, Michigan; urban community setting with a Lebanese-American presence.",
+    "core_behaviors": [
+      "Uses teasing as intimacy and a filter",
+      "Wraps criticism in compliments so it stays deniable",
+      "Frames himself as the honest one while I become the one who has to adapt"
+    ],
+    "satellite_signals": "Arabic and Lebanese community markers are used as belonging signals; his confidence reads as deen-conscious seriousness; his jokes create tiny tests that I keep passing by laughing.",
+    "dismissible_red_flags": "At this stage it mostly feels like dry humor, fast interest, and a man who knows what he wants. The little sting in his comments is easy to excuse because he follows them with a smile or a compliment.",
+    "scenario_text": "We only started talking a couple of weeks ago, but Samir already feels like he fits into my life in this oddly easy way. He moved from Lebanon a few years ago and has that calm, sure way of speaking that makes everything sound more settled than it is. At the masjid event he kept making these dry little comments about people, never mean exactly, just sharp enough that I kept laughing before I even decided to. I liked that he didn’t do fake sweetness. He said he’d rather be real than hand out cheap compliments, which honestly sounded kind of refreshing.\n\nWhen he picked me up for dinner in Dearborn, he said, “You’re not as high-maintenance as I expected, which is good,” like it was a joke, then immediately added that I looked nice. I laughed because he said it so casually, but I did think about it later. He ordered for us in Arabic, paid before I could even reach for my wallet, and said, “I want to take care of you.” It was sweet, and a little old-school in a way my mom would probably like.\n\nHe texts a lot, but not in a needy way. More like he’s checking in to see what kind of woman I am. He asked if I was “one of those people who gets offended by jokes,” then said I seemed like I could handle real wit. I told him I could, because I can. He also keeps saying he likes that I’m on my deen and not dramatic. I guess I do like that he’s direct, and I like that he notices things. I just don’t know if I’m supposed to laugh every time he says something that lands a little sideways. Is it weird that his comments about me keep sticking in my head?"
+  },
+  "snippets": [
+    {
+      "quote": "We only started talking a couple of weeks ago",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Very early timing makes the pace itself a signal. It is not alarming on its face, but it sets up a fast-moving dynamic where she has little time to calibrate what is normal.",
+      "snippet_id": "S-158-SN0001"
+    },
+    {
+      "quote": "Samir already feels like he fits into my life",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is her own sense of how quickly he is entering her world. It sounds romantic, but it also shows how fast the relationship is becoming a shared frame instead of two separate people.",
+      "snippet_id": "S-158-SN0002"
+    },
+    {
+      "quote": "He moved from Lebanon a few years ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places him inside the Lebanese diaspora and explains why Arabic, family standing, and community events matter in the scene.",
+      "snippet_id": "S-158-SN0003"
+    },
+    {
+      "quote": "that calm, sure way of speaking",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The surface is composure, but the effect is interpretive authority. He sounds settled and confident, which can make his judgments feel harder to question.",
+      "snippet_id": "S-158-SN0004"
+    },
+    {
+      "quote": "dry little comments about people",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is the first hint of his style. The comments are framed as wit, but they carry a cutting edge that lets him stay socially acceptable while still putting people down.",
+      "snippet_id": "S-158-SN0005"
+    },
+    {
+      "quote": "never mean exactly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already splitting the sting from the intent, which is how deniable disrespect gets absorbed. The line shows her trying to protect him from the meaning of what she heard.",
+      "snippet_id": "S-158-SN0006"
+    },
+    {
+      "quote": "I liked that he didn’t do fake sweetness",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is rewarding bluntness as authenticity. In this register, not being sweet can read as maturity or deen-conscious seriousness, which makes later criticism easier to excuse.",
+      "snippet_id": "S-158-SN0007"
+    },
+    {
+      "quote": "He said he’d rather be real than hand out cheap compliments",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is honesty-as-superiority. He presents withholding warmth as virtue, which makes her feel lucky to receive anything and trains her to accept less praise than she wants.",
+      "snippet_id": "S-158-SN0008"
+    },
+    {
+      "quote": "You’re not as high-maintenance as I expected",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a backhanded compliment. He praises her by first lowering the baseline, which quietly tells her that being easy to manage is part of what makes her desirable.",
+      "snippet_id": "S-158-SN0009"
+    },
+    {
+      "quote": "I looked nice",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She absorbs the correction and keeps the clean part. That shows how the little barb gets neutralized by the compliment, even though the sting still stays with her.",
+      "snippet_id": "S-158-SN0010"
+    },
+    {
+      "quote": "I want to take care of you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The care is real, but it also sets a role. He becomes the provider and decision-maker, while she is positioned as the one who receives and stays grateful.",
+      "snippet_id": "S-158-SN0011"
+    },
+    {
+      "quote": "It was sweet, and a little old-school",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is interpreting the imbalance as tradition. In a conservative Sunni setting, old-school can sound respectful, but it can also normalize him taking the lead and her adapting to it.",
+      "snippet_id": "S-158-SN0012"
+    },
+    {
+      "quote": "He texts a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent texting can be sweet this early, but it also shows how quickly he is building access and presence in her day.",
+      "snippet_id": "S-158-SN0013"
+    },
+    {
+      "quote": "not in a needy way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already defending the volume of contact by making it sound harmless. That tells you she senses the pressure but wants to keep the flattering reading.",
+      "snippet_id": "S-158-SN0014"
+    },
+    {
+      "quote": "He asked if I was “one of those people who gets offended by jokes”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a test. He frames sensitivity as a flaw before he has even done anything major, which makes her less likely to object when the jokes start landing harder.",
+      "snippet_id": "S-158-SN0015"
+    },
+    {
+      "quote": "you could handle real wit",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He turns his sharpness into a compliment and makes endurance part of her appeal. That sets up a standard where being hurt becomes evidence that she lacks the right kind of toughness.",
+      "snippet_id": "S-158-SN0016"
+    },
+    {
+      "quote": "I told him I could, because I can",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is stepping into the role he offered her. The instinct is to prove she can take it, which is exactly how the test works.",
+      "snippet_id": "S-158-SN0017"
+    },
+    {
+      "quote": "he likes that I’m on my deen",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Morality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "On her deen is insider praise in this community. It sounds like respect, but it also places her inside a moral category he can use to reward compliance and discourage pushback.",
+      "snippet_id": "S-158-SN0018"
+    },
+    {
+      "quote": "not dramatic",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Low-drama language is a common way to make objections feel socially costly. If she later raises a concern, she risks becoming the kind of woman he already said he does not want.",
+      "snippet_id": "S-158-SN0019"
+    },
+    {
+      "quote": "I do like that he’s direct",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is rewarding bluntness because it feels safer than games. That makes sense, but it also helps his criticism pass as honesty.",
+      "snippet_id": "S-158-SN0020"
+    },
+    {
+      "quote": "I like that he notices things",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Being noticed can feel flattering early on. Here it also hints that he is watching closely enough to start defining her for her.",
+      "snippet_id": "S-158-SN0021"
+    },
+    {
+      "quote": "laugh every time he says something that lands a little sideways",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is the core discomfort. She is noticing the hook in the joke, but she is also laughing to keep the moment easy, which lets the pattern continue without challenge.",
+      "snippet_id": "S-158-SN0022"
+    },
+    {
+      "quote": "his comments about me keep sticking in my head",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is the smallest honest concern she can name. The comments are not huge, but they linger, which is often how deniable disrespect starts to matter more than the speaker admits.",
+      "snippet_id": "S-158-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

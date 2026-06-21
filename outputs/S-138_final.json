@@ -1,0 +1,463 @@
+{
+  "scenario_id": "S-138",
+  "player_type": "Adrenaline Ainsley",
+  "scenario": {
+    "scenario_id": "S-138",
+    "architecture_name": "He uses intensity and shared spontaneity to make me the one who keeps up, then quietly becomes the thing I have to manage.",
+    "culture": "Black Professional",
+    "demographics": "F/29 Black professional, M/32 Black man, works in tech sales, grew up in Houston, now in Austin",
+    "cultural_context": "New tech startup workplace; community with choir practice and cautious stance on large gatherings",
+    "geographic_setting": "Austin, Texas; urban tech startup environment",
+    "core_behaviors": [
+      "Uses thrill and momentum as the way he bonds",
+      "Makes me feel chosen by making me the person who can keep up",
+      "Turns my caution into me being less fun or less present"
+    ],
+    "satellite_signals": "Black professional register through school, choir, and work references; his charm is all motion, surprise, and 'we' language; the pressure is subtle, mostly around pace, availability, and being the one who adapts.",
+    "dismissible_red_flags": "At this stage he just seems exciting, spontaneous, and really into me. His teasing and constant plans can read like chemistry, and I keep telling myself I like that he brings me out of my shell.",
+    "scenario_text": "I’ve been seeing Malik for about six weeks, and honestly he’s been the most fun part of my week. He works in tech sales, always dressed like he’s headed somewhere after this, and he has this big easy laugh that makes everybody at the bar turn a little. The first time we went out, he said, “Life with me is a roller coaster, I’ll tell you that now,” and I remember laughing because, weirdly, it felt true in a good way.\n\nSince then he’s been all movement. He books things last minute, sends “pack a bag” texts, and somehow makes a Tuesday feel like a Friday. Last week he dragged me to a rooftop spot after work and said, “You bring the calm and I’ll bring the spark,” which was cute until I realized I was the one checking the time and thinking about choir practice the whole ride over. He just kissed my forehead and said, “Don’t be boring on me now,” like he was joking, but I still felt myself laugh a little too quickly.\n\nHe’s also very into “us.” He keeps saying things like, “We’re not those people who sit home and sleepwalk,” and “You’re the real one, you get it.” I do like that he notices me. He remembered I said I hate stiff first dates, so he planned this whole random jazz night and paid without making it weird. That part was sweet. He’s sweet in a loud, restless way.\n\nThe only thing is, sometimes when I say I already have something early the next morning, he looks at me like I’m missing the point. Not mad, just disappointed, like I’m choosing ordinary life over us. Maybe I am overthinking it, but it’s been sitting with me. Do you think I was being too cautious when I didn’t want to keep going out after midnight?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been seeing Malik for about six weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Just a relationship anchor and a specific Black-coded name. It places him in her world without sounding like a warning.",
+      "snippet_id": "S-138-SN0001"
+    },
+    {
+      "quote": "the most fun part of my week",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She’s already organizing the relationship around stimulation. That’s affectionate on the surface, but it shows how strongly his energy is becoming her emotional baseline.",
+      "snippet_id": "S-138-SN0002"
+    },
+    {
+      "quote": "He works in tech sales",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This gives him a polished, fast-moving professional identity. In context it also explains why his style is all momentum, presentation, and persuasion.",
+      "snippet_id": "S-138-SN0003"
+    },
+    {
+      "quote": "dressed like he’s headed somewhere after this",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Superficiality-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The line makes him sound stylish and busy, but it also hints that he lives in motion and performance. He never fully lands anywhere.",
+      "snippet_id": "S-138-SN0004"
+    },
+    {
+      "quote": "he has this big easy laugh",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His charm is real, but it’s part of how he pulls people in quickly. The warmth is social and immediate, not especially grounding.",
+      "snippet_id": "S-138-SN0005"
+    },
+    {
+      "quote": "Life with me is a roller coaster",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the cleanest self-declaration in the story. He frames instability as a feature, so later chaos can be sold as part of the package she knowingly accepted.",
+      "snippet_id": "S-138-SN0006"
+    },
+    {
+      "quote": "I’ll tell you that now",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He is pre-emptively normalizing the pattern. It sounds honest, but it also functions like a disclaimer that lowers her future right to complain.",
+      "snippet_id": "S-138-SN0007"
+    },
+    {
+      "quote": "He books things last minute",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the first clear sign that his pace sets the terms. It feels exciting now, but it trains her to adjust around his impulses.",
+      "snippet_id": "S-138-SN0008"
+    },
+    {
+      "quote": "send “pack a bag” texts",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The phrase is playful, but it also assumes compliance. He gets to decide the move and she gets cast as the good sport who goes along.",
+      "snippet_id": "S-138-SN0009"
+    },
+    {
+      "quote": "You bring the calm and I’ll bring the spark",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Neediness-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds cute, but it assigns her the regulating role. He gets to be the excitement while she becomes the stabilizer, which is already a job.",
+      "snippet_id": "S-138-SN0010"
+    },
+    {
+      "quote": "I was the one checking the time",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is where her body starts doing the work of managing the evening. She’s no longer just enjoying him, she’s monitoring the pace.",
+      "snippet_id": "S-138-SN0011"
+    },
+    {
+      "quote": "thinking about choir practice",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This shows her existing commitments and community life. It matters because his spontaneity is already starting to compete with something stable and meaningful.",
+      "snippet_id": "S-138-SN0012"
+    },
+    {
+      "quote": "Don’t be boring on me now",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "He wraps a small pressure in a joke. The line makes her responsible for keeping the mood alive, and it quietly shames hesitation as dullness.",
+      "snippet_id": "S-138-SN0013"
+    },
+    {
+      "quote": "we’re not those people who sit home and sleepwalk",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Unorthodoxy-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is classic us-versus-them language. Ordinary life gets treated like failure, so later she’ll feel pressure to prove she’s still adventurous enough for him.",
+      "snippet_id": "S-138-SN0014"
+    },
+    {
+      "quote": "You’re the real one",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He elevates her by separating her from everyone else. That feels flattering now, but it also creates a specialness debt she may feel bad resisting.",
+      "snippet_id": "S-138-SN0015"
+    },
+    {
+      "quote": "he remembered I said I hate stiff first dates",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the thoughtful version of his pattern. He listens closely and uses the detail well, which builds trust and makes the later pressure feel more personal.",
+      "snippet_id": "S-138-SN0016"
+    },
+    {
+      "quote": "planned this whole random jazz night",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The date is tailored and culturally legible as Black-professional nightlife. It’s generous, but it also keeps the relationship moving at his pace and taste.",
+      "snippet_id": "S-138-SN0017"
+    },
+    {
+      "quote": "paid without making it weird",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A nice gesture, but it creates a quiet imbalance. She gets the feeling of being treated, which can make it harder to object when his preferences start steering everything.",
+      "snippet_id": "S-138-SN0018"
+    },
+    {
+      "quote": "He’s sweet in a loud, restless way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She can feel both the appeal and the cost, even if she doesn’t name it yet. The sweetness is tied to motion, not steadiness.",
+      "snippet_id": "S-138-SN0019"
+    },
+    {
+      "quote": "when I say I already have something early the next morning",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the first moment where her real life bumps into his appetite. The conflict is small, but it shows who expects the evening to bend.",
+      "snippet_id": "S-138-SN0020"
+    },
+    {
+      "quote": "he looks at me like I’m missing the point",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He doesn’t argue directly, he shifts the meaning of her boundary. That makes her feel slightly off without giving her anything concrete to push back on.",
+      "snippet_id": "S-138-SN0021"
+    },
+    {
+      "quote": "choosing ordinary life over us",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Enmeshment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This turns a normal limit into a loyalty test. Her schedule becomes a referendum on the relationship, which is how his needs start outranking her own.",
+      "snippet_id": "S-138-SN0022"
+    },
+    {
+      "quote": "Do you think I was being too cautious when I didn’t want to keep going out after midnight?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She’s asking about one small decision, not the whole pattern. That keeps the concern socially acceptable while showing she already feels a little guilty for having limits.",
+      "snippet_id": "S-138-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

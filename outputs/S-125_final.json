@@ -1,0 +1,367 @@
+{
+  "scenario_id": "S-125",
+  "player_type": "Charming Charlie",
+  "scenario": {
+    "scenario_id": "S-125",
+    "architecture_name": "He creates a rush of rare, total attention that feels like destiny, then quietly starts claiming interpretive access to her life and social world.",
+    "culture": "Chinese American",
+    "demographics": "Female narrator, male partner; newly dating; early 20s or 30s; Flushing, Queens, NYC",
+    "cultural_context": "Asian American social and religious community, specifically Korean Baptist church-going and neighborhood dating/social life",
+    "geographic_setting": "Flushing, Queens, New York City; urban neighborhood with Asian street market and Korean church setting",
+    "core_behaviors": [
+      "Gives overwhelming present-tense attention that feels uniquely special",
+      "Uses future-flavored intimacy to make her feel chosen",
+      "Frames curiosity as care while asking for access to her social life",
+      "Introduces himself as the kind of man who notices everything"
+    ],
+    "satellite_signals": "Chinese American neighborhood details and church setting create a familiar community frame; his charm is built through gifts, touch, and destiny talk, while the first control seam appears in his questions about who came over and what she did.",
+    "dismissible_red_flags": "His intensity reads as flattering early romance, and his questions can seem like normal interest from someone trying to be close. The small possessive edge is easy to miss because he is otherwise warm and attentive.",
+    "scenario_text": "I’ve only been seeing Jin for a couple of weeks, so I know I’m probably being a little silly about this. He’s honestly been so sweet. Last night we walked around Flushing after dinner, and he kept stopping at the stalls like he wanted to show me every tiny thing he liked. He bought me a silk scarf from this older lady near the dumplings, and when I told him he didn’t have to, he just smiled and said, “I just want you to have the best.” That kind of thing makes me melt a little, not gonna lie.\n\nThen on Sunday he brought me to the Korean Baptist church with him, and it felt kind of intimate in a nice way. He introduced me to everyone like he was proud of me already. After service he kept touching the back of my hand and saying he likes how “real” I am, not all guarded like people can be. He also said I’m not like the girls who make things complicated, which I guess is flattering, even if it sounds a little funny when I type it out.\n\nThe one part I keep replaying is later, when we were getting tea and he asked, all casual, “TJ came by last night, right?” Then he laughed and said he’s just persistent because he likes to know what matters to me. I told him TJ is just a friend and he nodded right away, like, okay, cool. He really does have that way of making things feel light. I think that’s why I’m even asking, because most of the time it feels sweet and easy and kind of dreamy, and then one little comment sticks with me. Was I weird for laughing it off and changing the subject?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Jin for a couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Early-stage timeline. It keeps the relationship in the honeymoon window, where his intensity can feel exciting because there has not yet been much continuity to test it.",
+      "snippet_id": "S-125-SN0001"
+    },
+    {
+      "quote": "I’m probably being a little silly about this",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She minimizes her own concern before even naming it. That self-editing is important because it shows she already expects her discomfort to be too small to count.",
+      "snippet_id": "S-125-SN0002"
+    },
+    {
+      "quote": "He’s honestly been so sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her main positive frame. She is holding onto his sweetness as the defining fact, which makes the later edge easier to dismiss.",
+      "snippet_id": "S-125-SN0003"
+    },
+    {
+      "quote": "walked around Flushing after dinner",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The neighborhood detail places them inside a recognizable Chinese American social world. It matters because the scene is ordinary and familiar, not unusually charged.",
+      "snippet_id": "S-125-SN0004"
+    },
+    {
+      "quote": "He bought me a silk scarf",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A gift that feels thoughtful also starts a debt. He is setting up a role where she receives and he gets to define what the gift means.",
+      "snippet_id": "S-125-SN0005"
+    },
+    {
+      "quote": "I just want you to have the best",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds generous, but it also places him in the position of deciding what counts as best for her. Care and authority are starting to blur together.",
+      "snippet_id": "S-125-SN0006"
+    },
+    {
+      "quote": "that kind of thing makes me melt a little",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is visibly softened by his attention. That matters because his charm is producing emotional leverage, not just pleasantness.",
+      "snippet_id": "S-125-SN0007"
+    },
+    {
+      "quote": "he brought me to the Korean Baptist church",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The church setting grounds the relationship in a community frame where being introduced matters. It gives his attention social weight, not just romantic weight.",
+      "snippet_id": "S-125-SN0008"
+    },
+    {
+      "quote": "he introduced me to everyone like he was proud of me already",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Enmeshment-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering, but it also casts her as part of his presentation to the room. She is being positioned as an accessory to his pride before the relationship has really settled.",
+      "snippet_id": "S-125-SN0009"
+    },
+    {
+      "quote": "touching the back of my hand",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Small physical contact can be affectionate and normal. Here it also keeps her in a softened, receptive state while he talks her into his version of closeness.",
+      "snippet_id": "S-125-SN0010"
+    },
+    {
+      "quote": "the girls who make things complicated",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He flatters her by separating her from a devalued category. That makes future objections easier to recast as her becoming one of the 'complicated' girls.",
+      "snippet_id": "S-125-SN0011"
+    },
+    {
+      "quote": "all casual",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The casual tone matters more than the question itself. He is making a possessive inquiry sound natural, which lowers the chance she’ll notice the pressure inside it.",
+      "snippet_id": "S-125-SN0012"
+    },
+    {
+      "quote": "TJ came by last night, right?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the first real reach into her social life. He is not asking out of simple curiosity; he is checking who has access to her and who might matter to her.",
+      "snippet_id": "S-125-SN0013"
+    },
+    {
+      "quote": "he’s just persistent because he likes to know what matters to me",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Persistence-high",
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She translates pressure into devotion. That sentence is the rationalization beat, where his need to know everything gets rebranded as caring interest.",
+      "snippet_id": "S-125-SN0014"
+    },
+    {
+      "quote": "He really does have that way of making things feel light",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "His lightness is part of the hook. It makes potentially intrusive moments feel harmless because he keeps the mood buoyant and easy.",
+      "snippet_id": "S-125-SN0015"
+    },
+    {
+      "quote": "most of the time it feels sweet and easy and kind of dreamy",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the honeymoon spell in her own words. The sweetness is real, but the dreamy quality also shows how little friction there is for him to hide behind.",
+      "snippet_id": "S-125-SN0016"
+    },
+    {
+      "quote": "one little comment sticks with me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Perseverance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is noticing the comment without fully naming why it matters. That lingering feeling is the early signal that his questions are landing as more than jokes.",
+      "snippet_id": "S-125-SN0017"
+    },
+    {
+      "quote": "Was I weird for laughing it off and changing the subject?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The closing question shrinks the issue down to her response, not his remark. She is asking whether she handled a small social moment correctly, which is exactly how the pressure stays invisible.",
+      "snippet_id": "S-125-SN0018"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

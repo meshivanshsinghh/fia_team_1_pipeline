@@ -1,25 +1,25 @@
 {
   "scenario_id": "S-007",
-  "player_type": "Menacing Marley",
+  "player_type": "Conspiratorial Corey",
   "scenario": {
     "scenario_id": "S-007",
-    "architecture_name": "He installs himself as protector and priority through possessive devotion, using cultural and family-honor framing to make her isolation feel like love and her compliance feel like virtue.",
+    "architecture_name": "He builds a private, all-in bond by casting himself as the only one who can read people, keep us safe, and decide who belongs in our circle.",
     "culture": "South Asian",
-    "demographics": "F/late-20s, South Asian (Punjabi-American), M/early-30s, South Asian (Punjabi-American), Dearborn, MI",
-    "cultural_context": "Community center cultural events, family-oriented social sphere, cultural/ethnic community",
-    "geographic_setting": "Dearborn (Michigan)",
+    "demographics": "Young adult woman dating Ahmed; Dearborn, Michigan; immigrant community-center social world",
+    "cultural_context": "Immigrant/community-center social sphere with family-oriented cultural events and close-knit ethnic community ties",
+    "geographic_setting": "Dearborn, Michigan; community center and local cultural landmarks",
     "core_behaviors": [
-      "Frames constant monitoring as romantic attentiveness and protection",
-      "Uses family-honor and cultural loyalty language to install compliance as virtue",
-      "Discourages her independent social time by centering his need as devotion"
+      "Frames himself as the only trustworthy decoder of people",
+      "Turns care into a reason for more access and more time",
+      "Uses privacy and loyalty language to shrink her outside ties"
     ],
-    "satellite_signals": "Possessive jealousy framed as protection; check-in surveillance framed as care; isolation-via-accompaniment; mobility control (he drives, he plans); self-declaration of temper pre-authorized as standards; family-honor language used to recruit her compliance.",
-    "dismissible_red_flags": "His insistence on driving and planning reads as traditional Punjabi-masculine provider behavior, easily read as chivalry. His comment about her friends can be dismissed as romantic jealousy. His temper disclosure reads as refreshing honesty about his flaws. His check-in requests read as thoughtfulness, not surveillance.",
-    "scenario_text": "Ahmed and I met at the Dearborn community center's Vaisakhi event about six weeks ago and I honestly haven't stopped thinking about him since. He's Punjabi, his family's been here since the eighties, and he carries himself like someone who knows exactly who he is. That felt so steady to me after years of guys who couldn't make a decision.\n\nHe texts me good morning every single day. Sometimes he'll send something like \"just thinking about you, send me a pic of where you're at,\" which I find sweet, like he genuinely wants to be part of my day. He always gets back to me right away and he's mentioned once or twice that he likes the same back, which, honestly, seems fair.\n\nHe insists on driving me everywhere. He said, \"I don't love the idea of you out on your own that late,\" and I didn't push back because it felt protective in a way my ex never was. Ahmed has this thing where he says he loves hard and expects a lot, and that most people can't handle it. He said it kind of casually, but I remember thinking, okay, I want to be the one who can.\n\nLast week I mentioned plans with my cousins and he got quiet for a second, then said, \"why don't you stay in with me instead, I've barely had you to myself.\" I ended up canceling. My cousin Preet called later and I didn't pick up because Ahmed and I were in the middle of something and it felt rude to interrupt.\n\nHe also told me early on, \"I've got a temper, but only about things that actually matter.\" I appreciated that he was upfront. He said his family doesn't get to talk to him however they want either, that he cut off his own brother over it. It sounded like he has standards, not like a warning.\n\nIs it weird that the thing with my cousin is still sitting with me a little?"
+    "satellite_signals": "Community-center and local landmark dates, family pride talk, constant check-ins, driving her everywhere, and the soft push toward a 'just us' bubble.",
+    "dismissible_red_flags": "At this stage it mostly feels like intense devotion, thoughtful planning, and a man who is serious about the relationship. The suspicious part is easy to excuse because he says it so sweetly.",
+    "scenario_text": "I met Ahmed at the community center cultural night in Dearborn, and honestly it has been nice how quickly things clicked. He remembers everything I mention, even little stuff like the tea my mom makes and which auntie I was talking about. Last weekend he planned this whole day around local landmarks, and he kept saying it was better if it was just us because other people always make things noisy. I liked that he was so intentional about it. It felt sweet.\n\nHe also keeps asking about my schedule, not in a weird way, just like he wants to make sure he can see me. He says he likes driving me because then we get more time together, and I guess that is kind of true. When I mentioned maybe meeting my friends next weekend, he laughed and said, “Your friends don’t appreciate you like I do.” It was said lightly, but it stayed with me. He has this way of talking like he can read people right away, like he knows who is real and who is fake. I do find that reassuring sometimes, especially because he seems so sure of himself.\n\nHe keeps saying our families will be proud, and that makes me happy because that matters to me. He even said, “Log kya kahenge” about people who like to gossip, and I knew what he meant. Still, I noticed I started telling him things before I told my friends, just because he always has such a clear read. Maybe that is normal when someone feels this close this fast. He’s not pushy exactly, just very certain, and I kind of like how protected that feels. I’m probably overthinking one small comment, but do you think it was odd when he said my friends don’t appreciate me like he does?"
   },
   "snippets": [
     {
-      "quote": "Ahmed and I met at the Dearborn community center's Vaisakhi event",
+      "quote": "I met Ahmed at the community center cultural night in Dearborn",
       "kind_of_signal": [
         "Cultural/Demographic Information"
       ],
@@ -32,71 +32,17 @@
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "Places both characters inside a specific Punjabi-American community in Dearborn. Vaisakhi is a major Sikh/Punjabi cultural celebration, establishing the cultural register that will make his later possessiveness legible as tradition.",
+      "reasoning": "This places the relationship in a specific immigrant community setting. It is mostly context, but it matters because the whole bond is being formed inside a close-knit social world where reputation and belonging carry weight.",
       "snippet_id": "S-007-SN0001"
     },
     {
-      "quote": "He's Punjabi, his family's been here since the eighties",
-      "kind_of_signal": [
-        "Cultural/Demographic Information",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Sense of Self-high"
-      ],
-      "unmet_need": [
-        "Not Found"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "Migration generation matters in South Asian diaspora communities. A family established since the eighties carries more social capital, community roots, and standing than a more recent arrival. He is already positioned above her in community tenure.",
-      "snippet_id": "S-007-SN0002"
-    },
-    {
-      "quote": "he carries himself like someone who knows exactly who he is",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Sense of Self-high",
-        "Dominance-high"
-      ],
-      "unmet_need": [
-        "Safety"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She is reading his rigid, inflexible identity as steadiness and security. A strong fixed sense of self that cannot be challenged is the honeymoon form of the same trait that later refuses accountability and frames any pushback as disrespect.",
-      "snippet_id": "S-007-SN0003"
-    },
-    {
-      "quote": "That felt so steady to me after years of guys who couldn't make a decision",
+      "quote": "it has been nice how quickly things clicked",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Safety"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She is using her own relational history to rationalize his dominance as a virtue. Her past becomes the frame that makes his control feel like relief rather than a pattern to examine.",
-      "snippet_id": "S-007-SN0004"
-    },
-    {
-      "quote": "He texts me good morning every single day",
-      "kind_of_signal": [
-        "Behavioral Red Flag"
-      ],
-      "unes_traits": [
-        "Attachment-low",
-        "Intensity-high"
+        "Intensity-high",
+        "Inconsistency-high"
       ],
       "unmet_need": [
         "Connection"
@@ -104,179 +50,168 @@
       "possible_trauma": [
         "Obsessive Attachment / Enmeshment"
       ],
-      "reasoning": "Daily-contact baseline established early. This is the first thread of a tether. Individually it reads as attentiveness; structurally it installs the expectation that she is always available and always responsive.",
+      "reasoning": "The speed itself is the clue. She likes it, but she is also registering that the connection is moving unusually fast, which often becomes the opening for later pressure and fusion.",
+      "snippet_id": "S-007-SN0002"
+    },
+    {
+      "quote": "He remembers everything I mention",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Close memory can feel flattering, but here it also means he is tracking her closely. That kind of attention can slide into monitoring, especially when it starts to shape how she behaves around him.",
+      "snippet_id": "S-007-SN0003"
+    },
+    {
+      "quote": "the tea my mom makes",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a small family-specific detail that shows he is collecting intimate context about her life. On its own it is sweet, but in the bigger pattern it becomes part of his access to her world.",
+      "snippet_id": "S-007-SN0004"
+    },
+    {
+      "quote": "local landmarks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This signals a culturally legible date plan, not just a generic outing. He is using shared local references to create intimacy and to make the relationship feel special and sealed off from outside influence.",
       "snippet_id": "S-007-SN0005"
     },
     {
-      "quote": "send me a pic of where you're at",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Isolation-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "Location reporting normalized as romantic interest. She reads it as 'he wants to be part of my day.' The expert reads it as surveillance framed as affection, installing the habit of accounting for her whereabouts to him.",
-      "snippet_id": "S-007-SN0006"
-    },
-    {
-      "quote": "he likes the same back, which, honestly, seems fair",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Accountability-low"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Fairness"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "Fake symmetry. He authored the rule and enforces it from the up-position, but she absorbs it as reciprocity. Her ordinary unavailability is now a respect issue. She has accepted his framing without noticing she didn't negotiate it.",
-      "snippet_id": "S-007-SN0007"
-    },
-    {
-      "quote": "He insists on driving me everywhere",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Dominance-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "Mobility control framed as care. He controls where she goes, when, and by what route. The insistence is the tell; a genuinely protective offer would leave the choice with her.",
-      "snippet_id": "S-007-SN0008"
-    },
-    {
-      "quote": "I don't love the idea of you out on your own that late",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Dominance-high"
-      ],
-      "unmet_need": [
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "Directive about her movement costumed as protection. The threat is framed as the world, never him. 'I don't love the idea' is a polite imperative, not a preference she can decline without managing his discomfort.",
-      "snippet_id": "S-007-SN0009"
-    },
-    {
-      "quote": "I didn't push back because it felt protective in a way my ex never was",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Accountability-low",
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Safety",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She is rationalizing her own compliance by comparing him favorably to a previous partner. Her ex becomes the reason she doesn't push back. This is the structural moment where her past is recruited to reduce her room to object.",
-      "snippet_id": "S-007-SN0010"
-    },
-    {
-      "quote": "he loves hard and expects a lot, and that most people can't handle it",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Intensity-high",
-        "Grandiosity-high",
-        "Validation-seeking-low"
-      ],
-      "unmet_need": [
-        "Worth",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Narcissistic Grandiosity"
-      ],
-      "reasoning": "Self-declaration that does double work. He frames his high demands as depth that most people are too weak for, and recruits her to prove she is not 'most people.' She is now in competition to demonstrate she can handle him, which means absorbing whatever he brings.",
-      "snippet_id": "S-007-SN0011"
-    },
-    {
-      "quote": "I remember thinking, okay, I want to be the one who can",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Goal Persistence-low",
-        "Intensity-high"
-      ],
-      "unmet_need": [
-        "Worth",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She has accepted the challenge he set. The trap is already closed: she now has a personal stake in proving she can endure him. Future objections will feel like admitting she is not the one who can handle it.",
-      "snippet_id": "S-007-SN0012"
-    },
-    {
-      "quote": "why don't you stay in with me instead, I've barely had you to myself",
+      "quote": "it was better if it was just us",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
         "Isolation-high",
-        "Control-high",
-        "Enmeshment-high"
+        "Enmeshment-high",
+        "Control-high"
       ],
       "unmet_need": [
         "Autonomy",
-        "Agency"
+        "Connection"
       ],
       "possible_trauma": [
         "Coercive Control",
         "Obsessive Attachment / Enmeshment"
       ],
-      "reasoning": "Soft isolation framed as romantic wanting. 'Had you to myself' is ownership language dressed as devotion. He is discouraging her independent social time by centering his need, and the framing makes declining feel like withholding herself from someone who loves her.",
-      "snippet_id": "S-007-SN0013"
+      "reasoning": "This is the first clear move toward a private two-person world. It sounds romantic, but it also starts narrowing the relationship so that outside people and outside perspective matter less.",
+      "snippet_id": "S-007-SN0006"
     },
     {
-      "quote": "I ended up canceling",
+      "quote": "other people always make things noisy",
       "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Power Information"
+        "Loaded Language"
       ],
       "unes_traits": [
         "Isolation-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This frames other people as contamination rather than support. Once that idea settles in, disagreement from friends or family can be dismissed as noise instead of useful reality-checking.",
+      "snippet_id": "S-007-SN0007"
+    },
+    {
+      "quote": "I liked that he was so intentional about it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is translating his planning into care, which is understandable. The small catch is that his intentionality also gives him more control over the pace, the setting, and the emotional tone.",
+      "snippet_id": "S-007-SN0008"
+    },
+    {
+      "quote": "He also keeps asking about my schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
         "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is still easy to excuse as interest, but it is already a pattern of access. Knowing her schedule lets him shape her time and makes his presence feel increasingly expected.",
+      "snippet_id": "S-007-SN0009"
+    },
+    {
+      "quote": "he wants to make sure he can see me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The surface meaning is affection, but the structure is that his desire becomes the organizing principle. Her availability starts to feel like part of being a good partner.",
+      "snippet_id": "S-007-SN0010"
+    },
+    {
+      "quote": "he likes driving me",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
       ],
       "unmet_need": [
         "Agency",
@@ -285,109 +220,231 @@
       "possible_trauma": [
         "Coercive Control"
       ],
-      "reasoning": "The isolation move landed. She canceled on her own family without being explicitly told to. The mechanism is already working: she is self-managing her social life around his comfort without registering it as compliance.",
-      "snippet_id": "S-007-SN0014"
+      "reasoning": "Transportation is a small but real power gap. If he is always the one driving, he is also the one deciding when the date starts, ends, and how she gets home.",
+      "snippet_id": "S-007-SN0011"
     },
     {
-      "quote": "My cousin Preet called later and I didn't pick up",
+      "quote": "we get more time together",
       "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds sweet, but it quietly turns extra time into a moral good. It nudges her to treat more togetherness as proof of love rather than just one preference among many.",
+      "snippet_id": "S-007-SN0012"
+    },
+    {
+      "quote": "Your friends don’t appreciate you like I do",
+      "kind_of_signal": [
+        "Loaded Language",
         "Behavioral Red Flag"
       ],
       "unes_traits": [
+        "Isolation-high",
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Isolation"
+      ],
+      "reasoning": "This is the clearest seed of isolation. He elevates himself by devaluing her friends, which makes future distance from them feel like proof that he is the only one who truly sees her.",
+      "snippet_id": "S-007-SN0013"
+    },
+    {
+      "quote": "he can read people right away",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Unorthodoxy-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He is installing himself as the authority on who is real and who is fake. That sounds like discernment now, but it can later become a way to override her own judgment.",
+      "snippet_id": "S-007-SN0014"
+    },
+    {
+      "quote": "who is real and who is fake",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is conspiracy-style sorting language. It creates a world where his interpretations are treated as truth and everyone else is already suspect.",
+      "snippet_id": "S-007-SN0015"
+    },
+    {
+      "quote": "our families will be proud",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In this setting, family approval is a major emotional anchor. He is using that value to make the relationship feel legitimate, which also makes her more likely to ignore the small discomforts.",
+      "snippet_id": "S-007-SN0016"
+    },
+    {
+      "quote": "Log kya kahenge",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
         "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a culturally loaded phrase about social surveillance and reputation. Here it works as a shield against outside opinion, which helps him keep the relationship insulated from criticism.",
+      "snippet_id": "S-007-SN0017"
+    },
+    {
+      "quote": "I started telling him things before I told my friends",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Isolation-high",
+        "Attachment-high"
       ],
       "unmet_need": [
         "Connection",
         "Autonomy"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Obsessive Attachment / Enmeshment",
+        "Isolation"
       ],
-      "reasoning": "A second social contact declined in the same beat. She frames it as politeness to Ahmed, but structurally she is now managing her family relationships around his presence. The name Preet also anchors the Punjabi-American community register.",
-      "snippet_id": "S-007-SN0015"
+      "reasoning": "This is the most important interior shift in the story. She is reorganizing her confidences around him first, which is how a relationship quietly becomes the center of gravity.",
+      "snippet_id": "S-007-SN0018"
     },
     {
-      "quote": "I've got a temper, but only about things that actually matter",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Dysregulation-high",
-        "Accountability-low",
-        "Sense of Self-high"
-      ],
-      "unmet_need": [
-        "Safety"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Psychopathy / Terror"
-      ],
-      "reasoning": "He pre-authorizes his own volatility by framing it as moral discernment. He decides what matters, which means he decides when his temper is justified. She reads it as honesty about a flaw; the expert reads it as a warning delivered in a way that forecloses objection.",
-      "snippet_id": "S-007-SN0016"
-    },
-    {
-      "quote": "I appreciated that he was upfront",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Accountability-low",
-        "Deception-low"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Safety"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "She is absorbing a threat as a virtue. His disclosure of his temper reads to her as transparency and trustworthiness. She is defending him using his own framing, which is the structural tell of early-stage absorption.",
-      "snippet_id": "S-007-SN0017"
-    },
-    {
-      "quote": "he cut off his own brother over it",
+      "quote": "he always has such a clear read",
       "kind_of_signal": [
         "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Conflict-high",
-        "Accountability-low",
-        "Cognitive Flexibility-low"
-      ],
-      "unmet_need": [
-        "Safety",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "The conflict trail extends to family. Cutting off a sibling over a respect issue signals scorched-earth conflict resolution and total non-accountability. She reads it as standards; the pattern of who gets cut off when they cross him is the tell.",
-      "snippet_id": "S-007-SN0018"
-    },
-    {
-      "quote": "It sounded like he has standards, not like a warning",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Accountability-low",
-        "Dysregulation-high"
+        "Control-high",
+        "Trust-low"
       ],
       "unmet_need": [
         "Reality",
-        "Safety"
+        "Agency"
       ],
       "possible_trauma": [
         "Gaslighting (DARVO)"
       ],
-      "reasoning": "This is the load-bearing rationalization. She has correctly identified two possible readings of his disclosure and chosen the one that allows her to stay comfortable. The closing clause, 'not like a warning,' shows she registered the second reading and dismissed it.",
+      "reasoning": "She is beginning to defer to his interpretation because he sounds so certain. Certainty can feel comforting early on, but it also makes her own perspective easier to set aside.",
       "snippet_id": "S-007-SN0019"
+    },
+    {
+      "quote": "He’s not pushy exactly, just very certain",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is classic rationalization language. She is noticing the pressure but softening it into certainty, which is why the line matters more than the behavior itself.",
+      "snippet_id": "S-007-SN0020"
+    },
+    {
+      "quote": "how protected that feels",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Protection is the emotional payoff that makes the rest easier to excuse. She feels safer, but the same dynamic that feels protective can also justify more monitoring and less independence.",
+      "snippet_id": "S-007-SN0021"
+    },
+    {
+      "quote": "my friends don’t appreciate me like he does",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Isolation"
+      ],
+      "reasoning": "This is the closing concern in the smallest possible form. It sounds like a simple comparison, but it is already setting up a hierarchy where his approval outranks everyone else’s.",
+      "snippet_id": "S-007-SN0022"
     }
   ],
   "validation_warnings": [
-    "snippet[13]: unes_trait 'Agency' missing -high/-low suffix"
+    "snippet[12]: invalid possible_trauma 'Isolation'",
+    "snippet[17]: invalid possible_trauma 'Isolation'",
+    "snippet[21]: invalid possible_trauma 'Isolation'"
   ],
   "repetition_warnings": []
 }

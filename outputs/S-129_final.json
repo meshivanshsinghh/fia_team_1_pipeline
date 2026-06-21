@@ -1,0 +1,26 @@
+{
+  "scenario_id": "S-129",
+  "player_type": "Domineering Devin",
+  "scenario": {
+    "scenario_id": "S-129",
+    "architecture_name": "He uses care, planning, and respectability to make his judgment the default and my life something he can organize.",
+    "culture": "Black Professional",
+    "demographics": "Adult woman, early-stage dating, younger man, urban professional setting",
+    "cultural_context": "Educated, working woman balancing work, money stress, family obligations, and a social circle that includes brunch and library life",
+    "geographic_setting": "Urban library, brunch/social city setting",
+    "core_behaviors": [
+      "Shows up with food and frames it as care",
+      "Plans around her existing obligations and calls it closeness",
+      "Uses compliments and concern to make his judgment feel like the sensible one",
+      "Makes small corrections that nudge her toward compliance"
+    ],
+    "satellite_signals": "Black professional class markers, brunch and library life, family calls, talk of future children, and a polished younger man who reads as disciplined and intentional.",
+    "dismissible_red_flags": "He mostly comes off thoughtful, ambitious, and very into her. The little comments about her food, schedule, and clothes can feel like interest or good taste instead of control.",
+    "scenario_text": "I met Devin at the library after work when I was half-wiped and trying to finish a report before my cousin’s birthday brunch. He’s younger than me, but he carries himself like he already knows the room. The first time he showed up with lunch, he laughed and said, “You work too hard. Let me take care of you.” It was sweet, honestly. I’d been skipping meals to save money, so I let him.\n\nNow he does little things like that all the time. He’ll text, “What’s your schedule looking like?” and then somehow plan dinner right before my usual family call, like he’s helping me be more organized. Last Saturday he booked us a table after my sorority sister’s event and said, “I just want us to have our own time.” I liked that he wanted me to himself, at least at first. It felt kind of grown.\n\nHe’s always saying he’s disciplined, up at five, no exceptions, and I do admire that. He’s got this whole system for everything, money, meals, even where we park. At brunch with my friends he was charming, asking everybody about their chapter and their kids, but when I ordered the salmon he made a face and said, “You sure? You know they heavy on the salt here.” I laughed it off, though it stayed with me a little.\n\nThen last night he looked at the dress I had laid out for tonight and said it was “a lot” for people who don’t know me yet, and pulled something else from his closet for me to try. He said it like he was looking out for me, like he knows how I should come across. I know he means well, but I keep catching myself adjusting around his preferences. Am I being too sensitive about the dress thing?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

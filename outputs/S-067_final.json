@@ -1,0 +1,477 @@
+{
+  "scenario_id": "S-067",
+  "player_type": "Pity-Party Parker",
+  "scenario": {
+    "scenario_id": "S-067",
+    "architecture_name": "He uses wounded openness and public charm to make her feel like his one safe place, so her care starts carrying his emotional weight.",
+    "culture": "Old-Money WASP",
+    "demographics": "Young adult woman, likely white, single/dating",
+    "cultural_context": "Service-industry worker, early romance, working-class dating sphere",
+    "geographic_setting": "Small-town or suburban diner / working-class local environment",
+    "core_behaviors": [
+      "Rapid wounded self-disclosure that feels intimate",
+      "Public charm that makes him seem easy to trust",
+      "Soft future-talk that quietly installs her as caretaker"
+    ],
+    "satellite_signals": "Old-money polish, inherited-family references, and a diner-to-dress-up contrast that makes his attention feel like a class upgrade. His sadness is presented as refinement, not neediness, so she starts managing his feelings before she notices the pattern.",
+    "dismissible_red_flags": "At this stage it reads like rare emotional honesty and a man who is unusually open. The intensity feels flattering, and his wistfulness can seem like depth rather than a bid for reassurance.",
+    "scenario_text": "I keep thinking maybe I’m being silly, because Jake has mostly been sweet. He came by the diner after my shift on Tuesday, hair still a little damp from the rain, and said he’d wait while I changed out of my apron. He told me he hates “making a fuss,” which sounded so old-school and kind of gentlemanly. Then, once we were in his car, he got quiet and said he doesn’t open up to people much because he’s been hurt way too many times. He said it so softly that I felt bad even asking what happened.\n\nBy the time we got to the little supper club off Main, he was telling me about his family’s house in Maine and how everyone there expects you to keep things “in order.” He laughed when I said I’d never been to anything like that, and said I was “refreshingly real.” I liked that. I still do, honestly.\n\nHe kept asking if I was comfortable, if I wanted the window down, if I was okay with him paying. It was sweet, the way he noticed everything. But then he said, “You’re the only person I can actually exhale around.” That landed on me in a weird way, like I’d been handed something fragile without meaning to be.\n\nLater, when I mentioned I might have to pick up an extra shift, he got that wounded look and said, “I just don’t want to be one more thing you have to carry.” I told him he wasn’t. He looked relieved, almost needy, and kissed my hand like I’d done him a favor.\n\nHe’s charming, and I like being around him. I just keep wondering if it was a little much when he said I was the only one who really gets him?"
+  },
+  "snippets": [
+    {
+      "quote": "I keep thinking maybe I’m being silly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already talking herself down before naming the concern. That self-editing matters because it shows how quickly his framing gets inside her head.",
+      "snippet_id": "S-067-SN0001"
+    },
+    {
+      "quote": "Jake has mostly been sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The qualifier 'mostly' does a lot of work. She is noticing a mixed pattern, but the sweetness is still the cover story she prefers.",
+      "snippet_id": "S-067-SN0002"
+    },
+    {
+      "quote": "He came by the diner after my shift on Tuesday",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He shows up at her work and times himself around her labor. It reads as thoughtful, but it also means he is entering her schedule and world on his terms.",
+      "snippet_id": "S-067-SN0003"
+    },
+    {
+      "quote": "hair still a little damp from the rain",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is romantic atmosphere, but it helps make him seem spontaneous and cinematic. The sensory detail softens the control embedded in the rest of the scene.",
+      "snippet_id": "S-067-SN0004"
+    },
+    {
+      "quote": "he’d wait while I changed out of my apron",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is already positioning himself as the one who waits, watches, and moves the evening forward. That can feel attentive while also making her pace fit his.",
+      "snippet_id": "S-067-SN0005"
+    },
+    {
+      "quote": "he hates “making a fuss”",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "In this register, being unfussy sounds decent and well-bred. But it also sets up a rule that his needs should be handled quietly and hers should stay small.",
+      "snippet_id": "S-067-SN0006"
+    },
+    {
+      "quote": "old-school and kind of gentlemanly",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Old-money manners make the behavior feel respectable. She is reading his restraint as character, which makes the later emotional pull easier to miss.",
+      "snippet_id": "S-067-SN0007"
+    },
+    {
+      "quote": "he’s been hurt way too many times",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Validation-seeking-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the first real hook. He shares pain quickly, which can feel intimate, but it also starts building a role for her as witness and caretaker.",
+      "snippet_id": "S-067-SN0008"
+    },
+    {
+      "quote": "He said it so softly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsession / Enmeshment"
+      ],
+      "reasoning": "The softness makes the disclosure feel tender instead of demanding. That matters because it lowers her guard while still asking her to manage his feelings.",
+      "snippet_id": "S-067-SN0009"
+    },
+    {
+      "quote": "the little supper club off Main",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The setting signals a polished, old-money version of being taken out. It places him in a world where manners and presentation carry a lot of social meaning.",
+      "snippet_id": "S-067-SN0010"
+    },
+    {
+      "quote": "his family’s house in Maine",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "A family house in Maine is a strong old-money marker. It quietly tells her he comes from inherited stability, which raises the status gap without him having to say it directly.",
+      "snippet_id": "S-067-SN0011"
+    },
+    {
+      "quote": "everyone there expects you to keep things “in order”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like family tradition, but it is also a rule about behavior. In that kind of register, 'order' can hide a lot of pressure to stay pleasant and compliant.",
+      "snippet_id": "S-067-SN0012"
+    },
+    {
+      "quote": "I was “refreshingly real”",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is praise that separates her from an implied less desirable group. It flatters her by making her the good exception, which is a useful position for him.",
+      "snippet_id": "S-067-SN0013"
+    },
+    {
+      "quote": "He kept asking if I was comfortable",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "On the surface this is considerate, but it also keeps her focused on his management of the moment. The repeated checking can become a way of centering his vigilance.",
+      "snippet_id": "S-067-SN0014"
+    },
+    {
+      "quote": "if I wanted the window down",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A tiny choice, but he is still the one offering the options while he steers the scene. Little permissions like this can make the larger asymmetry feel harmless.",
+      "snippet_id": "S-067-SN0015"
+    },
+    {
+      "quote": "if I was okay with him paying",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Money is part of the structure here. Even when he asks, the offer creates a quiet debt and makes the evening feel like something he is underwriting.",
+      "snippet_id": "S-067-SN0016"
+    },
+    {
+      "quote": "You’re the only person I can actually exhale around",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Emotional Overexposure-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest seed. He casts her as his sole place of relief, which sounds romantic but also assigns her responsibility for his nervous system.",
+      "snippet_id": "S-067-SN0017"
+    },
+    {
+      "quote": "That landed on me in a weird way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Reality-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She notices the weight of the line even though she does not yet name it. That small bodily hesitation is important because it shows the hook is already working.",
+      "snippet_id": "S-067-SN0018"
+    },
+    {
+      "quote": "handed something fragile",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Emotional Overexposure-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She has been placed in a caretaker role without explicitly agreeing to it. The fragility is not just emotional, it is directional: now she has to hold it carefully.",
+      "snippet_id": "S-067-SN0019"
+    },
+    {
+      "quote": "I might have to pick up an extra shift",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her work schedule is real and precarious, which makes his availability and attention feel even more significant. That imbalance helps explain why his emotional needs may start to dominate.",
+      "snippet_id": "S-067-SN0020"
+    },
+    {
+      "quote": "I just don’t want to be one more thing you have to carry",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high",
+        "Emotional Overexposure-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He frames himself as a burden while also asking her to reassure him. That is classic pity-hook language: tender on the surface, but it pulls her into managing his self-worth.",
+      "snippet_id": "S-067-SN0021"
+    },
+    {
+      "quote": "He looked relieved, almost needy",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her reassurance does not just comfort him, it seems to feed a deeper hunger. The relief is quick, which hints that this will become a repeating demand.",
+      "snippet_id": "S-067-SN0022"
+    },
+    {
+      "quote": "kissed my hand like I’d done him a favor",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The gesture is romantic, but the wording of the scene makes her feel indebted. He turns ordinary reassurance into a favor she has granted him.",
+      "snippet_id": "S-067-SN0023"
+    },
+    {
+      "quote": "I was the only one who really gets him",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the exception-hook in plain language. Being 'the only one' is flattering, but it also makes her responsible for preserving the special status he has assigned her.",
+      "snippet_id": "S-067-SN0024"
+    }
+  ],
+  "validation_warnings": [
+    "snippet[8]: invalid possible_trauma 'Obsession / Enmeshment'"
+  ],
+  "repetition_warnings": []
+}

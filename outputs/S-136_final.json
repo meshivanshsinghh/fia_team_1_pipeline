@@ -1,0 +1,403 @@
+{
+  "scenario_id": "S-136",
+  "player_type": "Pity-Party Parker",
+  "scenario": {
+    "scenario_id": "S-136",
+    "architecture_name": "He uses wounded openness to make me feel uniquely responsible for his moods, his time, and his sense of being chosen.",
+    "culture": "South Asian",
+    "demographics": "Adult woman, casual dating, coworker sphere in Dearborn, Michigan; he is an Egyptian immigrant in a small tech startup",
+    "cultural_context": "Startup workplace / coworker social sphere with Middle Eastern immigrant and American-culture-adaptation dynamics",
+    "geographic_setting": "Dearborn, Michigan; small tech startup in a city with a strong Middle Eastern community",
+    "core_behaviors": [
+      "Rapid wounded self-disclosure that feels intimate",
+      "Turns my ordinary boundaries into signs I am failing him",
+      "Uses praise and disappointment to make me manage his feelings"
+    ],
+    "satellite_signals": "Startup lunch routines, family-first talk, adaptation to American culture, and soft self-pity all create a gentle caretaker role around him.",
+    "dismissible_red_flags": "At first it just seems like he is sensitive, eager, and grateful. The pressure is subtle because it comes wrapped in warmth, curiosity, and charm.",
+    "scenario_text": "I started at this tiny startup in Dearborn a few weeks ago, and Ahmed has been the easiest person to talk to. He moved here from Egypt, and he has this way of making even lunch feel like a little event. He'll say, \"I just love our conversations,\" and then look genuinely pleased when I laugh. The first time he offered, \"Let me take care of that, you deserve a break,\" I thought it was sweet. Honestly, it was sweet. He remembers tiny things, like how I take my coffee, and he always asks about my family like he really wants to understand where I come from. He talks about how much he's trying to adapt here, and sometimes he says things like, \"I understand, family comes first,\" which makes me feel seen instead of judged. A couple of times he has told me about people back home who let him down, and I felt bad for him in a way I didn't expect. He says it so softly, like he's still carrying it around. When I told him I couldn't do lunch one day because I had a meeting, he got quiet for a second and said, \"Oh, I was just looking forward to it.\" He smiled right after, but I still felt this little pinch, like I had disappointed him. Then when I mentioned going out with friends that weekend, he said, \"Well, maybe next weekend?\" and laughed like it was nothing. I like him, I do. He feels kind and attentive and kind of rare. I just don't want to seem rude or make him feel brushed off. Am I overthinking the way he reacts when I can't make plans?"
+  },
+  "snippets": [
+    {
+      "quote": "I started at this tiny startup in Dearborn a few weeks ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places her in a specific workplace and city with a strong community context. It quietly sets up the social world he can move through more fluently than she can.",
+      "snippet_id": "S-136-SN0001"
+    },
+    {
+      "quote": "Ahmed has been the easiest person to talk to",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He comes on as unusually easy and warm, which feels nice early on. The danger is that the ease can become the basis for fast emotional dependence.",
+      "snippet_id": "S-136-SN0002"
+    },
+    {
+      "quote": "He moved here from Egypt",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is simple background, but it also marks him as someone navigating a new setting and likely leaning on her for local interpretation and belonging.",
+      "snippet_id": "S-136-SN0003"
+    },
+    {
+      "quote": "He'll say, \"I just love our conversations,\"",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering, but it also centers her as the source of his good feelings. It makes ordinary conversation feel like a special bond she has to keep feeding.",
+      "snippet_id": "S-136-SN0004"
+    },
+    {
+      "quote": "\"Let me take care of that, you deserve a break\"",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "On the surface this is considerate. Structurally, he is stepping into her tasks and making himself useful in a way that can create debt and a habit of being managed by him.",
+      "snippet_id": "S-136-SN0005"
+    },
+    {
+      "quote": "He remembers tiny things",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Remembering details is sweet, but here it helps him build a sense that he is unusually attentive and that she should feel chosen by him.",
+      "snippet_id": "S-136-SN0006"
+    },
+    {
+      "quote": "how I take my coffee",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A small preference like this becomes a sign that he is tracking her closely. It reads as care, but it also helps him build intimacy fast.",
+      "snippet_id": "S-136-SN0007"
+    },
+    {
+      "quote": "he always asks about my family",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Family questions can be normal, but here they are part of a pattern of moving quickly into personal territory. It starts to make her life feel open for his inspection.",
+      "snippet_id": "S-136-SN0008"
+    },
+    {
+      "quote": "\"I understand, family comes first\"",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This sounds respectful and culturally fluent, which makes it easy to trust. It also positions him as the person who gets her values, which lowers her guard.",
+      "snippet_id": "S-136-SN0009"
+    },
+    {
+      "quote": "he says things like, \"I understand, family comes first,\"",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He uses her own values as proof of compatibility, which is flattering. It also makes him seem unusually aligned with her, before he has earned that closeness.",
+      "snippet_id": "S-136-SN0010"
+    },
+    {
+      "quote": "people back home who let him down",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation",
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the wounded-story move. He is sharing pain in a way that invites sympathy and makes her want to be the one person who does not fail him.",
+      "snippet_id": "S-136-SN0011"
+    },
+    {
+      "quote": "He says it so softly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The softness makes the complaint feel harmless, but it also turns his hurt into something she has to respond to gently. That is how the emotional burden gets transferred.",
+      "snippet_id": "S-136-SN0012"
+    },
+    {
+      "quote": "\"Oh, I was just looking forward to it\"",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a small disappointment framed as sweetness. It nudges her into feeling responsible for his mood without him directly asking for anything.",
+      "snippet_id": "S-136-SN0013"
+    },
+    {
+      "quote": "He smiled right after",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The quick smile smooths over the hurt instead of resolving it. That makes the discomfort easy to dismiss while still leaving her with the feeling that she did something wrong.",
+      "snippet_id": "S-136-SN0014"
+    },
+    {
+      "quote": "I had disappointed him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is her internal shift. She starts carrying his reaction as her responsibility, which is exactly how the dynamic begins to tighten.",
+      "snippet_id": "S-136-SN0015"
+    },
+    {
+      "quote": "\"Well, maybe next weekend?\"",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Perseverance-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "It sounds casual, but it keeps the claim on her time alive. He does not let the disappointment go, he just softens it.",
+      "snippet_id": "S-136-SN0016"
+    },
+    {
+      "quote": "kind and attentive and kind of rare",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She is describing him in the language of appreciation, which shows how much she wants to see the best in him. The word rare also hints that she feels singled out and lucky.",
+      "snippet_id": "S-136-SN0017"
+    },
+    {
+      "quote": "I just don't want to seem rude",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is already editing herself around his feelings. That is the early sign that his reactions are shaping her behavior more than her own comfort is.",
+      "snippet_id": "S-136-SN0018"
+    },
+    {
+      "quote": "make him feel brushed off",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This shows the pressure point clearly. Her main concern is no longer just her schedule, but managing his sense of being wanted.",
+      "snippet_id": "S-136-SN0019"
+    },
+    {
+      "quote": "\"Am I overthinking the way he reacts when I can't make plans?\"",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Reality-low",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is asking about the smallest visible thing, his reaction to plans, instead of naming the larger pattern. That keeps the concern socially acceptable while showing she already feels the pressure.",
+      "snippet_id": "S-136-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

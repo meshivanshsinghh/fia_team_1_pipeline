@@ -8,9 +8,9 @@ import datetime
 from pathlib import Path
 from collections import Counter
 
-import anthropic
 import pandas as pd
 from dotenv import load_dotenv
+from openai import OpenAI
 
 # ============================================================
 # CONFIGURATION & SETUP
@@ -28,17 +28,17 @@ PROMPT_PATH = HERE / "FIA_Construction_Prompt_v2.md"
 OUTPUTS_DIR = HERE / "outputs"
 PROFILES_DIR = HERE / "profiles"
 OUTPUTS_DIR.mkdir(exist_ok=True)
-PROFILES_DIR.mkdir(exist_ok=True)
+PROFILES_DIR.mkdir(exist_ok=True) 
 
 # API Configuration
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
-CLASSIFIER_MODEL = os.environ.get("CLAUDE_CLASSIFIER_MODEL", "claude-haiku-4-5") 
-GENERATOR_MODEL = os.environ.get("CLAUDE_GENERATOR_MODEL", "claude-sonnet-4-6")
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+CLASSIFIER_MODEL = os.environ.get("OPENAI_CLASSIFIER_MODEL", "gpt-5.4-mini-2026-03-17")
+GENERATOR_MODEL = os.environ.get("OPENAI_GENERATOR_MODEL", "gpt-5.4-mini-2026-03-17")
 
-if not ANTHROPIC_API_KEY:
-    raise EnvironmentError("ANTHROPIC_API_KEY not found in environment or .env file.")
+if not OPENAI_API_KEY:
+    raise EnvironmentError("OPENAI_API_KEY not found in environment or .env file.")
 
-client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Generation Constraints
 WORD_COUNT_MIN = 280
@@ -124,7 +124,7 @@ GENERATOR_SCHEMA = {
 # ============================================================
 
 def classify_source_story(source_story: str, available_registers: list) -> dict:
-    """Uses Claude to extract demographics and pick a valid register via Tool Use."""
+    """Uses GPT to extract demographics and pick a valid register via structured output."""
     prompt = f"""
     Analyze the following late-stage source story. Extract the demographics, geographic setting, and cultural context. 
     Then, select the most appropriate ideological register from this exact list: {available_registers}
@@ -133,25 +133,22 @@ def classify_source_story(source_story: str, available_registers: list) -> dict:
     {source_story}
     """
     
-    response = client.messages.create(
+    response = client.chat.completions.create(
         model=CLASSIFIER_MODEL,
-        max_tokens=1024,
         temperature=0.0,
-        tools=[{
-            "name": "record_classification",
-            "description": "Output the classification data according to the schema.",
-            "input_schema": CLASSIFIER_SCHEMA
-        }],
-        tool_choice={"type": "tool", "name": "record_classification"},
-        messages=[{"role": "user", "content": prompt}]
+        messages=[{"role": "user", "content": prompt}],
+        response_format={
+            "type": "json_schema",
+            "json_schema": {
+                "name": "classification",
+                "schema": CLASSIFIER_SCHEMA,
+                "strict": False
+            }
+        }
     )
     
-    # Extract the JSON payload from the tool use block
-    for block in response.content:
-        if block.type == 'tool_use':
-            return block.input
-            
-    raise ValueError("Claude failed to use the classification tool.")
+    result = json.loads(response.choices[0].message.content)
+    return result
 
 def build_linguistic_profile(scenario_id, register, player_type, community_df, player_df):
     """Combines community language with player manipulation language and saves it."""
@@ -266,31 +263,31 @@ LATE-STAGE SOURCE STORY
 """
 
 def generate_scenario(system_prompt: str, user_message: str):
-    """Calls Claude to generate the scenario and snippets table."""
-    response = client.messages.create(
+    """Calls GPT to generate the scenario and snippets table via structured output."""
+    response = client.chat.completions.create(
         model=GENERATOR_MODEL,
-        max_tokens=4096, 
         temperature=0.7,
-        system=system_prompt,
-        tools=[{
-            "name": "generate_scenario_output",
-            "description": "Output the generated scenario and snippets.",
-            "input_schema": GENERATOR_SCHEMA
-        }],
-        tool_choice={"type": "tool", "name": "generate_scenario_output"},
-        messages=[{"role": "user", "content": user_message}]
+        max_completion_tokens=8192,
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_message}
+        ],
+        response_format={
+            "type": "json_schema",
+            "json_schema": {
+                "name": "scenario_output",
+                "schema": GENERATOR_SCHEMA,
+                "strict": False
+            }
+        }
     )
     
-    for block in response.content:
-        if block.type == 'tool_use':
-            result_dict = block.input
-            raw_json_str = json.dumps(result_dict) 
-            return result_dict, raw_json_str
-            
-    raise ValueError("Claude failed to use the generation tool.")
+    raw_json_str = response.choices[0].message.content
+    result_dict = json.loads(raw_json_str)
+    return result_dict, raw_json_str
 
 def regenerate_until_in_range(result: dict, raw: str, system_prompt: str, user_msg: str):
-    """Forces the word count into the 280-340 sweet spot using Claude."""
+    """Forces the word count into the 280-340 sweet spot using GPT."""
     scenario_text = result.get("scenario", "")
     current_wc = word_count(scenario_text)
     attempts = 0
@@ -302,27 +299,28 @@ def regenerate_until_in_range(result: dict, raw: str, system_prompt: str, user_m
         correction = f"\n\nCRITICAL FIX: Your previous scenario was {current_wc} words. You MUST write strictly between {WORD_COUNT_MIN} and {WORD_COUNT_MAX} words."
         
         try:
-            response = client.messages.create(
+            response = client.chat.completions.create(
                 model=GENERATOR_MODEL,
-                max_tokens=4096,
                 temperature=0.6,
-                system=system_prompt,
-                tools=[{
-                    "name": "generate_scenario_output",
-                    "description": "Output the generated scenario and snippets.",
-                    "input_schema": GENERATOR_SCHEMA
-                }],
-                tool_choice={"type": "tool", "name": "generate_scenario_output"},
-                messages=[{"role": "user", "content": user_msg + correction}]
+                max_completion_tokens=8192,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_msg + correction}
+                ],
+                response_format={
+                    "type": "json_schema",
+                    "json_schema": {
+                        "name": "scenario_output",
+                        "schema": GENERATOR_SCHEMA,
+                        "strict": False
+                    }
+                }
             )
             
-            for block in response.content:
-                if block.type == 'tool_use':
-                    result = block.input
-                    raw = json.dumps(result)
-                    scenario_text = result.get("scenario", "")
-                    current_wc = word_count(scenario_text)
-                    break
+            raw = response.choices[0].message.content
+            result = json.loads(raw)
+            scenario_text = result.get("scenario", "")
+            current_wc = word_count(scenario_text)
         except Exception as e:
             log("error", f"API or JSON decode failed on retry: {str(e)}")
             break
@@ -452,12 +450,19 @@ def main():
     typologies_df = pd.read_csv(HERE / "Player Typologies and Dimensions-AI Agent May 2026 - Players.csv")
     
     available_registers = community_df['culture'].unique().tolist()
+    
+    # Extract unique, valid player types from the vocabulary CSV directly
+    unique_players = sorted(player_df['nickname'].dropna().astype(str).str.strip().unique().tolist())
+    # Remove any completely blank or invalid parsed names
+    unique_players = [p for p in unique_players if p.lower() != 'nan' and len(p) > 2]
 
     # 2. Iterate through CSV
     for index, row in stories_df.iterrows():
         scenario_id = row['story_id']
         source_story = row['source_story']
-        player_type = row['player_type']
+        
+        # Override the biased CSV player type with sequential assignment from our valid list
+        player_type = unique_players[index % len(unique_players)]
         
         print(f"\n{'='*60}")
         print(f"Processing: {scenario_id} | Player: {player_type}")

@@ -1,0 +1,434 @@
+{
+  "scenario_id": "S-072",
+  "player_type": "Avoidant Alex",
+  "scenario": {
+    "scenario_id": "S-072",
+    "architecture_name": "He sells warmth as proof of seriousness while quietly teaching me that closeness will always be on his terms.",
+    "culture": "Hustle Culture",
+    "demographics": "Adult Ghanaian man, newly dating, Boston with a trip to Atlanta",
+    "cultural_context": "Tech/entrepreneurial social sphere, likely immigrant professional network",
+    "geographic_setting": "Boston with a trip to Atlanta; urban U.S. East Coast/Southern tech-conference context",
+    "core_behaviors": [
+      "Praises her independence so she feels guilty asking for more",
+      "Uses future language to keep things open without committing",
+      "Frames distance as professionalism and self-management",
+      "Offers small, exclusive moments that make her feel chosen"
+    ],
+    "satellite_signals": "Tech-conference travel, immigration/residency pressure, founder-style talk, and hustle-culture praise for being grounded and respectable. His warmth lands as rare access, not steady presence.",
+    "dismissible_red_flags": "At this stage it reads as ambitious, respectful, and a little busy. The distance is easy to excuse because he sounds self-aware and sincere, and the trip itself looks like normal work travel.",
+    "scenario_text": "I met Kwame a couple of weeks ago at a dinner party in Boston, and he had that calm, polished way of talking that makes everything sound intentional. He kept saying he was “locked in” on his work and that he was “building something,” which honestly I found attractive. Then he started in on how much he liked that I have my own life going on, like that was the sexiest thing about me. I laughed, because it was sweet, but it also made me feel a little weird for wanting to see him more often.\n\nLast weekend he asked me to come with him to Atlanta for the conference, and it felt kind of exciting, like he was making room for me in his world. He handled everything, the flight, the hotel, dinner, all of it, and kept saying, “I’ve got you.” At dinner he told me, “Let’s just see where this goes without all the pressure of a label,” and then added that he wasn’t fully ready for anything serious yet, which he said so gently I almost felt bad for asking.\n\nHe also said, “When I pull back it’s not about you, I just have to recharge alone,” and I believe he meant it. He’s not cold exactly, just very careful with his time and energy. He texted me a photo from the conference with, “You get a side of me nobody else gets,” and I did feel special. I just noticed that the more he says I’m easy to be around, the more I try to be easy.\n\nMaybe I’m overthinking it, but why did “I’ve got you” feel so good and so temporary at the same time?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Kwame just a couple of weeks ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple relationship timing. It places the story in the early stage, which matters because his pattern is still wearing a charming face.",
+      "snippet_id": "S-072-SN0001"
+    },
+    {
+      "quote": "a dinner party in Boston",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This grounds the scene in a specific social setting and keeps the relationship feeling socially normal rather than ominous.",
+      "snippet_id": "S-072-SN0002"
+    },
+    {
+      "quote": "that calm, polished way of talking",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Superficiality-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He comes off smooth and composed, which is appealing, but the emphasis is on presentation. That kind of polish can make it easier to slide past what he is not actually offering.",
+      "snippet_id": "S-072-SN0003"
+    },
+    {
+      "quote": "locked in",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In hustle culture this sounds admirable, but it also signals that his work and attention are already spoken for. It sets up his availability as a scarce resource.",
+      "snippet_id": "S-072-SN0004"
+    },
+    {
+      "quote": "building something",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a status phrase that sounds purposeful and ambitious. It also gives him a ready-made reason why his attention is partial and why she should wait.",
+      "snippet_id": "S-072-SN0005"
+    },
+    {
+      "quote": "he liked that I have my own life going on",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He praises her independence in a way that makes closeness feel like a test she could fail. The compliment is flattering, but it quietly rewards her for needing less from him.",
+      "snippet_id": "S-072-SN0006"
+    },
+    {
+      "quote": "that was the sexiest thing about me",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is flattering, but it narrows her value to a trait that keeps her low-maintenance. It makes emotional neediness feel like the opposite of being desirable.",
+      "snippet_id": "S-072-SN0007"
+    },
+    {
+      "quote": "it was sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already smoothing over a discomfort by calling it sweet. That tells you she noticed the pressure but is choosing the generous reading.",
+      "snippet_id": "S-072-SN0008"
+    },
+    {
+      "quote": "I want to see him more often",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the first small need that appears in her interior. It is ordinary, but in the context of his distance it becomes the thing she feels slightly guilty for wanting.",
+      "snippet_id": "S-072-SN0009"
+    },
+    {
+      "quote": "come with him to Atlanta",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He moves the relationship through his travel and his schedule, and she gets folded into that. It feels exciting, but the structure is still his itinerary.",
+      "snippet_id": "S-072-SN0010"
+    },
+    {
+      "quote": "he handled everything",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is the one arranging the flight, hotel, and dinner, which puts him in the driver’s seat. Care and control can look identical at this stage.",
+      "snippet_id": "S-072-SN0011"
+    },
+    {
+      "quote": "I’ve got you",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds protective and reassuring, but it also places him as the one who decides what support looks like. The phrase creates comfort while quietly establishing dependence.",
+      "snippet_id": "S-072-SN0012"
+    },
+    {
+      "quote": "without all the pressure of a label",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the classic anti-label move, dressed as maturity. It sounds relaxed, but it keeps her from asking for clarity and makes her needs seem like pressure.",
+      "snippet_id": "S-072-SN0013"
+    },
+    {
+      "quote": "he wasn’t fully ready for anything serious yet",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He frames delay as honesty, which is why it lands softly. But it also tells her the relationship has a ceiling he controls, and she is supposed to accept that.",
+      "snippet_id": "S-072-SN0014"
+    },
+    {
+      "quote": "he said so gently",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Her focus is on his tone instead of the content. That is how the discomfort gets absorbed without being named.",
+      "snippet_id": "S-072-SN0015"
+    },
+    {
+      "quote": "When I pull back it’s not about you",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is pre-emptive self-excusing. He normalizes withdrawal before she can object, which makes her responsible for not taking it personally.",
+      "snippet_id": "S-072-SN0016"
+    },
+    {
+      "quote": "recharge alone",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "In this register, self-care language makes distance sound virtuous. The problem is not that he needs space, but that space becomes the default answer to closeness.",
+      "snippet_id": "S-072-SN0017"
+    },
+    {
+      "quote": "You get a side of me nobody else gets",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is rationed specialness. He makes her feel chosen by giving her a rare version of himself, which is flattering but also keeps the relationship on a scarcity model.",
+      "snippet_id": "S-072-SN0018"
+    },
+    {
+      "quote": "I did feel special",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is aware of the emotional payoff and is letting that feeling outweigh the unevenness. That’s the hook: the specialness is real, so the absence feels easier to excuse.",
+      "snippet_id": "S-072-SN0019"
+    },
+    {
+      "quote": "the more he says I’m easy to be around",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is role assignment. Being “easy” becomes the condition for receiving warmth, so any normal need for consistency risks making her feel difficult.",
+      "snippet_id": "S-072-SN0020"
+    },
+    {
+      "quote": "the more I try to be easy",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is adapting herself to fit his comfort level. That is the early sign that his availability is shaping her behavior more than her own needs are.",
+      "snippet_id": "S-072-SN0021"
+    },
+    {
+      "quote": "I’ve got you felt so good and so temporary",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest interior signal in the piece. She can feel both the comfort and the instability at once, which is why the question at the end is so small.",
+      "snippet_id": "S-072-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

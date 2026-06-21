@@ -1,0 +1,421 @@
+{
+  "scenario_id": "S-156",
+  "player_type": "Arrogant Avery",
+  "scenario": {
+    "scenario_id": "S-156",
+    "architecture_name": "He turns correction into care so I start treating his certainty like a gift instead of a power move.",
+    "culture": "South Asian",
+    "demographics": "South Asian woman, early 30s, dating Raj, Boston diaspora community",
+    "cultural_context": "South Asian community/social dating sphere in an urban diaspora context",
+    "geographic_setting": "Boston, specifically a South Asian community event and Back Bay upscale urban setting",
+    "core_behaviors": [
+      "Uses intellectual confidence as a way to set the terms of conversation",
+      "Frames his corrections as generosity and care",
+      "Makes her feel unusually seen, then slightly smaller when she disagrees"
+    ],
+    "satellite_signals": "South Asian community-event dating context; Boston Back Bay upscale date setting; family and status references; his calm certainty reads as maturity; her gratitude keeps the imbalance soft.",
+    "dismissible_red_flags": "At this stage he mostly sounds smart, composed, and encouraging. His corrections can pass as helpful, and his interest in her family and opinions feels flattering rather than alarming.",
+    "scenario_text": "I keep thinking about Raj because he is honestly so easy to talk to. We met at that South Asian event in Boston, and since then he has been the one person who can make a whole conversation about work or family feel interesting instead of tiring. He asked where my parents are from, what I studied, even whether my family is the kind that does a big fat Indian wedding, and I liked that he seemed to know what all of it meant without me having to explain. \n\nLast night in Back Bay, over dinner, he said, “Ask me anything, honestly. History, markets, how your car works. I’ll have an answer.” I laughed because he really does seem to know something about everything. Then I mentioned my cousin’s view on something political, and he went, “No, common misconception, most people get it wrong. Let me explain how it actually works.” He was so calm about it that I just listened. It did make sense, and I guess I do like that he’s not the type to blow smoke.\n\nHe keeps saying things like, “I don’t lower the bar to make people comfortable,” which sounds harsh if I write it out, but in person it comes off more like standards. He also told me, “You’re sharper than you give yourself credit for,” and I swear that landed better than any compliment I’ve gotten in a while. It felt like he was seeing the version of me I’m supposed to become.\n\nStill, when I tried to push back on one tiny point, he smiled and said, “Good, push back. I like that you actually think.” I liked hearing that, but I also noticed I stopped arguing almost immediately. Am I reading too much into that, or is it normal that I felt weirdly relieved when he just took over the explanation?"
+  },
+  "snippets": [
+    {
+      "quote": "I keep thinking about Raj because he is honestly so easy to talk to.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She experiences him as unusually easy and engaging, which is part of why his later control will be hard to spot. The ease is real, but it also sets up his voice as the one that naturally leads.",
+      "snippet_id": "S-156-SN0001"
+    },
+    {
+      "quote": "We met at that South Asian event in Boston",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the relationship in a specific diaspora social world. The setting matters because community norms about family, status, and marriage make his behavior feel more ordinary and therefore harder to question.",
+      "snippet_id": "S-156-SN0002"
+    },
+    {
+      "quote": "where my parents are from",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A standard South Asian getting-to-know-you question, but it also shows he is mapping her identity quickly. In this register, that kind of probing can feel caring while quietly gathering leverage.",
+      "snippet_id": "S-156-SN0003"
+    },
+    {
+      "quote": "what I studied",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Education is a major status marker here, so the question is normal. It also shows him sorting her into a hierarchy of competence, which fits his later habit of acting like the evaluator.",
+      "snippet_id": "S-156-SN0004"
+    },
+    {
+      "quote": "whether my family is the kind that does a big fat Indian wedding",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is culturally loaded and sounds playful, but it also folds her family into his mental picture of the relationship very early. It makes the future feel pre-scripted and communal before she has really chosen anything.",
+      "snippet_id": "S-156-SN0005"
+    },
+    {
+      "quote": "Ask me anything, honestly.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds open and generous, like he has nothing to hide. The structural effect is that he becomes the person with answers, which makes her more likely to defer when he speaks with certainty.",
+      "snippet_id": "S-156-SN0006"
+    },
+    {
+      "quote": "I’ll have an answer",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That line is tiny but telling. He presents himself as someone who can answer anything, which sounds impressive now and later becomes a claim to interpretive authority over her life.",
+      "snippet_id": "S-156-SN0007"
+    },
+    {
+      "quote": "No, common misconception",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He corrects her cousin’s view by treating it as an error he can settle. The calm tone makes it sound reasonable, but the move is to position his reading as the real one and everyone else as behind.",
+      "snippet_id": "S-156-SN0008"
+    },
+    {
+      "quote": "most people get it wrong",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is classic superiority language. He elevates himself by shrinking the crowd, and she is invited to feel lucky to be with the rare person who sees clearly.",
+      "snippet_id": "S-156-SN0009"
+    },
+    {
+      "quote": "Let me explain how it actually works",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He moves from conversation into instruction. The phrase sounds helpful, but it quietly assigns him the role of final interpreter, which is where the control starts.",
+      "snippet_id": "S-156-SN0010"
+    },
+    {
+      "quote": "he was so calm about it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her reaction shows the seduction of his composure. Calm can feel like maturity, but here it also lets him override disagreement without seeming aggressive.",
+      "snippet_id": "S-156-SN0011"
+    },
+    {
+      "quote": "I just listened",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the first small surrender. She is not scared, just yielding because his certainty feels easier, and that is exactly how the imbalance becomes normal.",
+      "snippet_id": "S-156-SN0012"
+    },
+    {
+      "quote": "I guess I do like that he’s not the type to blow smoke",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is translating his bluntness into honesty. That makes his future harshness easier to excuse because she has already decided sincerity is the main thing to value.",
+      "snippet_id": "S-156-SN0013"
+    },
+    {
+      "quote": "I don’t lower the bar to make people comfortable",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds principled in a high-standards culture, but it also makes kindness look like weakness. Once that framing is in place, her discomfort can be dismissed as her failing the bar.",
+      "snippet_id": "S-156-SN0014"
+    },
+    {
+      "quote": "That sounds harsh if I write it out",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Reality-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices the mismatch between the words on the page and the feeling in person. That little qualification shows she already senses the edge, even while softening it.",
+      "snippet_id": "S-156-SN0015"
+    },
+    {
+      "quote": "You’re sharper than you give yourself credit for",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A flattering line, but it places him in the role of the one who can see her true value. That kind of praise can become a leash because his approval starts to define her confidence.",
+      "snippet_id": "S-156-SN0016"
+    },
+    {
+      "quote": "the version of me I’m supposed to become",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Sense of Self"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior tell. She is already imagining herself through his developmental script, which feels inspiring now but also gives him a say in who she should be.",
+      "snippet_id": "S-156-SN0017"
+    },
+    {
+      "quote": "Good, push back",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He invites disagreement, which makes him seem secure and fair. But he is also setting the terms of what counts as acceptable pushback, and that usually means he still controls the frame.",
+      "snippet_id": "S-156-SN0018"
+    },
+    {
+      "quote": "I like that you actually think",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is praise with a little insult inside it. She is being elevated as one of the rare people who thinks, while everyone else is implicitly reduced to nodding along.",
+      "snippet_id": "S-156-SN0019"
+    },
+    {
+      "quote": "I stopped arguing almost immediately",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the most important quiet moment. She is adapting to his style by dropping her own position, not because of a fight, but because his confidence has already made resistance feel unnecessary.",
+      "snippet_id": "S-156-SN0020"
+    },
+    {
+      "quote": "I felt weirdly relieved when he just took over the explanation",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Relief is the trap here. She experiences his takeover as a burden lifted, which means the control is arriving dressed as competence and care rather than force.",
+      "snippet_id": "S-156-SN0021"
+    }
+  ],
+  "validation_warnings": [
+    "snippet[16]: invalid unmet_need 'Sense of Self'"
+  ],
+  "repetition_warnings": []
+}

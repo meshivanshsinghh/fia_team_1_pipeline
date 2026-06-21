@@ -1,0 +1,449 @@
+{
+  "scenario_id": "S-087",
+  "player_type": "Adrenaline Ainsley",
+  "scenario": {
+    "scenario_id": "S-087",
+    "architecture_name": "He turns intensity into proof of love so she volunteers for a faster, smaller life around him.",
+    "culture": "Black Manosphere",
+    "demographics": "Young adult woman dating a Black man; David is from a family-oriented Brooklyn background",
+    "cultural_context": "Urban Black social/dating sphere with family involvement and traditional gender-role expectations",
+    "geographic_setting": "Brooklyn, New York; specifically a community event and a Caribbean restaurant in Flatbush",
+    "core_behaviors": [
+      "Moves fast and frames that speed as authenticity",
+      "Uses excitement, surprise, and future talk to make her feel chosen",
+      "Turns his restlessness into a standard she should admire",
+      "Lets her absorb the planning and emotional pace while he stays in charge of the mood"
+    ],
+    "satellite_signals": "Family approval is folded into the courtship, his mother’s traditional language gives the relationship a moral frame, and his Black Manosphere-adjacent talk makes deference sound like maturity and being a 'strong one.'",
+    "dismissible_red_flags": "At this stage it reads like chemistry, generosity, and a man who knows what he wants. The pressure is easy to miss because it comes wrapped in compliments, fun plans, and family warmth.",
+    "scenario_text": "I met David at that community event in Brooklyn, and since then it’s been this fast, bright thing that I can’t quite stop smiling about. He keeps saying he just wants to take care of me, let me handle that, and honestly it feels sweet when he reaches for the check before I even open my wallet. He planned our last few dates himself, which was nice, because I’m usually the one asking people what they want to do.\n\nThe other night he took me to this Caribbean place in Flatbush his family goes to all the time. His mom stopped by for a minute and said a man should lead and a woman should follow, real matter-of-fact, like she was talking about the weather. David just laughed and said, Don’t worry, she’s different, she’s a strong one. I liked that he said it about me, even though it made me wonder what exactly he thinks a strong woman is supposed to do.\n\nHe talks about us like we’re already moving somewhere. Just imagine when we have our own place together, he said, and I know that sounds early, but it also sounded kind of good. He’s always got some new plan, some little surprise, some next thing, and he makes ordinary nights feel bigger than they are. I told him I’m not really used to all that momentum and he said, Exactly, that’s why we fit.\n\nMaybe I’m just not used to a man being this intentional. It’s not a bad feeling. It’s just that sometimes I catch myself matching his pace without thinking, and then I’m a little tired after, like I’ve been running to keep up with something fun. Do you think I was being too sensitive about the way his mom said a man should lead and a woman should follow?"
+  },
+  "snippets": [
+    {
+      "quote": "I met David at that community event in Brooklyn",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places him inside a specific social world right away. It sounds ordinary, but it also locates the relationship in a community setting where family and reputation matter.",
+      "snippet_id": "S-087-SN0001"
+    },
+    {
+      "quote": "it’s been this fast, bright thing",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She likes the rush, but the wording shows speed and brightness more than steadiness. The feeling is pleasant, yet it already has a slightly unstable edge.",
+      "snippet_id": "S-087-SN0002"
+    },
+    {
+      "quote": "he just wants to take care of me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is care-language that can also set up a role where she is the one being managed. It sounds loving, but it quietly makes him the actor and her the recipient.",
+      "snippet_id": "S-087-SN0003"
+    },
+    {
+      "quote": "let me handle that",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes over before she has a chance to decide. In the honeymoon phase that can feel helpful, but it also trains her to step back and let him steer.",
+      "snippet_id": "S-087-SN0004"
+    },
+    {
+      "quote": "he reaches for the check",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Paying is not the issue by itself. The structural piece is that he repeatedly positions himself as the one who decides and provides, which can create quiet debt.",
+      "snippet_id": "S-087-SN0005"
+    },
+    {
+      "quote": "I’m usually the one asking people what they want to do",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is used to carrying the social work, so his decisiveness feels refreshing. That makes it easier for her to accept his pace without noticing the imbalance.",
+      "snippet_id": "S-087-SN0006"
+    },
+    {
+      "quote": "Caribbean place in Flatbush",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a concrete neighborhood-and-food marker that roots the scene in a real Black Brooklyn social world. It also signals family familiarity and insider comfort.",
+      "snippet_id": "S-087-SN0007"
+    },
+    {
+      "quote": "his family goes to all the time",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The restaurant is not neutral date space, it is part of his family orbit. That folds her into his existing world early and makes the relationship feel pre-approved.",
+      "snippet_id": "S-087-SN0008"
+    },
+    {
+      "quote": "His mom stopped by for a minute",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A casual parental drop-in sounds warm, but it also means the relationship is already under family observation. She is being introduced to a structure, not just a person.",
+      "snippet_id": "S-087-SN0009"
+    },
+    {
+      "quote": "a man should lead and a woman should follow",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Dominance-low",
+        "Control-low",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is traditional gender-role language in plain form. In context, it sets up hierarchy as normal and makes deference sound like maturity rather than a choice.",
+      "snippet_id": "S-087-SN0010"
+    },
+    {
+      "quote": "she’s different",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He elevates her by separating her from the category his mother just named. That feels flattering, but it also rewards her for being the exception instead of having equal standing.",
+      "snippet_id": "S-087-SN0011"
+    },
+    {
+      "quote": "she’s a strong one",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This sounds like praise, but it is also a role assignment. She is being cast as the woman who can handle more, which can make later discomfort feel like weakness.",
+      "snippet_id": "S-087-SN0012"
+    },
+    {
+      "quote": "He just laughed",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He smooths over the moment instead of engaging the tension it creates. That can be charming early on, but it also keeps her from naming what she actually felt.",
+      "snippet_id": "S-087-SN0013"
+    },
+    {
+      "quote": "Just imagine when we have our own place together",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Intensity-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Future-talk arrives very early and uses 'we' to fast-forward the bond. It sounds romantic, but it also pulls her into a shared life before she has time to evaluate it.",
+      "snippet_id": "S-087-SN0014"
+    },
+    {
+      "quote": "he’s always got some new plan",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Inconsistency-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This points to a person who runs on novelty and momentum. In the honeymoon phase that reads as fun, but it also means she may be adjusting to his impulses more than he is to hers.",
+      "snippet_id": "S-087-SN0015"
+    },
+    {
+      "quote": "ordinary nights feel bigger than they are",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is making everyday life feel elevated, which is why she likes him. The catch is that ordinary life is already being recoded as insufficient unless he is amplifying it.",
+      "snippet_id": "S-087-SN0016"
+    },
+    {
+      "quote": "I’m not really used to all that momentum",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices the pace, even if she doesn’t fully distrust it. The wording is mild, but it shows her body already registering that she is being carried along.",
+      "snippet_id": "S-087-SN0017"
+    },
+    {
+      "quote": "Exactly, that’s why we fit",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He turns her hesitation into compatibility. That is a neat move because it makes her discomfort sound like proof that the relationship is right, not something to examine.",
+      "snippet_id": "S-087-SN0018"
+    },
+    {
+      "quote": "Maybe I’m just not used to a man being this intentional",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is translating pressure into virtue. 'Intentional' is doing a lot of work here, because it lets her admire his drive while overlooking how quickly he is setting the tempo.",
+      "snippet_id": "S-087-SN0019"
+    },
+    {
+      "quote": "I catch myself matching his pace without thinking",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest glimpse of the trap. She is adapting automatically, which means his rhythm is becoming the default and her own pace is disappearing.",
+      "snippet_id": "S-087-SN0020"
+    },
+    {
+      "quote": "I’m a little tired after",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The cost shows up in her body rather than in a big complaint. She’s not alarmed, but she is already paying energy to keep up with him.",
+      "snippet_id": "S-087-SN0021"
+    },
+    {
+      "quote": "a man should lead and a woman should follow",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-low",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the line she is really asking about at the end. It sounds like family wisdom, but it also normalizes hierarchy and makes her question feel small.",
+      "snippet_id": "S-087-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": [
+    "Repetition: 8-word phrase repeated: 'said a man should lead and a woman'"
+  ]
+}

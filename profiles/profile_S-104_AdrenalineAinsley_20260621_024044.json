@@ -1,0 +1,1373 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-104",
+    "target_register": "South Asian",
+    "player_type": "Adrenaline Ainsley"
+  },
+  "primary_metaphors": [
+    "The-High-as-a-Place-to-Get-To",
+    "Ordinary-Life-as-Deadness",
+    "Steady-Love-as-Cage",
+    "Craving-as-External-Force",
+    "Intensity-as-the-Only-Real",
+    "Intensity-as-Need",
+    "Stimulation-Hunger",
+    "Adventure-as-Risk",
+    "Full-Volume-Regulation",
+    "Boredom-as-Entitlement",
+    "Chaos-as-Regulation",
+    "Stillness-as-Threat",
+    "Ordinary-as-Death",
+    "High-as-Compass",
+    "Risk-as-Aliveness",
+    "Dullness-as-Enemy",
+    "Rush-as-Need",
+    "Impulsivity-as-Charm",
+    "Partner-as-Stimulant",
+    "Routine-as-Confinement",
+    "Love-as-Adrenaline",
+    "Energy-as-Compass",
+    "Burnout-as-Passion",
+    "Disinhibition-as-Authenticity",
+    "Next-High",
+    "Chaos-Bonding",
+    "Instability-Pre-screen",
+    "High-Chaser"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "roller-coaster (life is an adventure)",
+      "his_language": "Life with me is a roller coaster, I'll tell you that now. I'm always doing something crazy and I want someone wild enough to come with me.",
+      "her_experience": "He's the most exciting person I've ever met, rafting, dancing all night, always some adventure. He told me life with him is a roller coaster and honestly that sounds like exactly what I've been missing.",
+      "expert_notices": "Roller-coaster self-presentation (Young register): thrill/extremes (Sensation10) as the explicit pitch; genuinely exciting after a flat life. The 'roller coaster' is sold as a feature. She reads adventure/aliveness. Residue (the lows of the coaster, managing chaos) dormant."
+    },
+    {
+      "mechanism": "extremes to feel alive (vivid, physical)",
+      "his_language": "There's a moment at the top of a big rapid where everything else just disappears and you're completely alive. I want to show you that.",
+      "her_experience": "He chases these intense experiences, cliff jumping, rafting, and describes them so vividly. He wants to share that feeling of being fully alive with me, and it's contagious.",
+      "expert_notices": "Intensity-as-the-Only-Real: extreme physical experiences (Sensation10) as the route to feeling alive; vivid, sensory, contagious. The need for escalating extremes is the dormant seam. She reads contagious passion for life. Residue (the chase that never satisfies) dormant."
+    },
+    {
+      "mechanism": "the fun one (great dancer, magnetic)",
+      "his_language": "Come on, dance with me, right here, who cares who's watching. You'll never forget tonight.",
+      "her_experience": "He pulled me onto the dance floor when no one else was dancing, totally uninhibited and magnetic. He makes ordinary nights feel legendary. I've never had so much fun with anyone.",
+      "expert_notices": "Magnetic spontaneity (Impulsivity10/Sensation10) as pure fun and aliveness; uninhibited, makes nights legendary. The same impulsivity becomes instability later. She reads the most fun she's had. Residue (when the impulsivity stops being fun) dormant."
+    },
+    {
+      "mechanism": "us-vs-the-boring (intoxicating)",
+      "his_language": "Most people are basically asleep, you know? Same job, same routine, slowly going grey. Not us. We're going to actually live.",
+      "her_experience": "He says most people are sleepwalking through life and that we're different, that we'll really live. I love that he wants to live fully, and that he wants to do it with me.",
+      "expert_notices": "Ordinary-Life-as-Deadness: stability recoded as living death (Sensation10); the 'us vs the boring' pact bonds her and pre-frames future stability as betrayal. She reads thrilling specialness. Residue (no calm/stability ever permitted) dormant."
+    },
+    {
+      "mechanism": "passionate excess (burns bright, faint seam)",
+      "his_language": "I feel everything hard, the highs are sky high. Yeah, the lows hit too, but I'd take that over being numb. You make the highs even higher.",
+      "her_experience": "His emotions run so high, mostly these incredible highs. He's mentioned the lows can be rough but honestly the highs are so worth it. Better than feeling numb.",
+      "expert_notices": "Steady-Love-as-Cage / dysregulation (Dysregulation10): emotional volatility reframed as the price of passion ('rather feel everything than numb'); the lows acknowledged then subordinated. She endorses the trade. Residue (riding the volatility, managing the lows) dormant."
+    },
+    {
+      "mechanism": "steady-as-cage (pre-excuses instability)",
+      "his_language": "A safe, same-thing-every-day life would kill me. I need to feel things. That's why you're perfect, you get that. You'd never try to box me in.",
+      "her_experience": "He says a conventional settled life would suffocate him and that I'm perfect because I understand that about him. I do love the adventure, although I sometimes quietly wonder what the long term actually looks like.",
+      "expert_notices": "Steady-Love-as-Cage: stability/commitment pre-framed as suffocating (Sensation10/Goal-Persistence1); recruits her into endorsing the instability. The faint 'wonder about the long term' is her seam, swallowed. Residue (no stability ever coming) dormant."
+    },
+    {
+      "mechanism": "passionate excess (burns bright, faint dysregulation)",
+      "his_language": "I don't do anything by halves, never have, it's all the way or nothing. Not the way I live, not the way I love you. The lows can hit hard, sure, but I would take feeling everything at full blast over being numb any day.",
+      "her_experience": "His emotions run so high, mostly these incredible soaring highs. He's mentioned the lows can get rough, but the highs are so worth it. Better than a lukewarm life.",
+      "expert_notices": "Dysregulation10/Impulsivity10 reframed as passion ('all the way or nothing', 'full blast'); the all-or-nothing that signals dysregulation reads as devotion/aliveness, the lows acknowledged then subordinated. She endorses the trade. Residue (riding the volatility, managing the lows) dormant."
+    },
+    {
+      "mechanism": "chasing the next high (escalation)",
+      "his_language": "Tonight's going to be bigger than last time, I've got something planned you won't believe. And this is nothing, we're just getting started.",
+      "her_experience": "Every experience with him promises to top the last one, and he keeps delivering things I never imagined. It's addictive, honestly. It just keeps getting bigger and I never want it to stop.",
+      "expert_notices": "Craving-as-External-Force / The-High-as-a-Place-to-Get-To: each experience escalating toward a bigger high (Sensation10); 'addictive' surfaces in her own mouth as a good thing. She reads endless excitement. Residue (escalation, eventual crisis-management) dormant."
+    },
+    {
+      "mechanism": "needs-the-reckless (Sensation seed)",
+      "his_language": "I don't feel properly alive unless there's a bit of risk in it. Safe and steady just feels like being asleep. Come do this with me, you'll feel more alive than you have all year.",
+      "her_experience": "He genuinely doesn't seem to feel alive without something risky on, and he makes it sound so thrilling that I keep saying yes. It's exhilarating, though a small part of me wonders how far it'll go.",
+      "expert_notices": "Seeded from Sensation-seeking10 ('don't feel alive unless doing something reckless', 'addicted to chaos'): early-stage, the recklessness still reads as thrilling invitation, her 'where's the ceiling' is the faint seam. Residue (escalation, chaos-management) dormant."
+    },
+    {
+      "mechanism": "the impulsive leap (Impulsivity seed)",
+      "his_language": "I quit the job. Yeah, today. Walked out, I couldn't stand it, life's too short. Don't look so worried, we'll figure it out. Live a little with me.",
+      "her_experience": "He makes huge impulsive decisions on the spot, quitting things, booking things, and acts like I'm boring if I worry about it. The spontaneity is genuinely exciting, but I've started bracing a little.",
+      "expert_notices": "Seeded from Impulsivity10 ('quit their job without telling me, just decided they were done'): early-stage, the impulsivity is sold as living-fully and her worry reframed as no-fun; she's 'started bracing.' Residue (instability, the steadying role) dormant."
+    },
+    {
+      "mechanism": "headfirst into everything (Sensation8 faint)",
+      "his_language": "I jump into things with my whole heart, I don't do lukewarm. New city, new sport, all of it, I'm all the way in. Come dive in with me.",
+      "her_experience": "He throws himself into everything completely, including us, with this whole-hearted all-in energy. It's exhilarating to be wanted that fully, even if I've noticed he can lose interest in things just as fast as he picks them up.",
+      "expert_notices": "Seeded from Sensation band-8 ('jump headfirst into everything and lose interest just as fast'): honeymoon faint, the all-in energy is the draw; the fast-cooling is the faint seam she half-notices. Residue (being the next dropped obsession) dormant."
+    },
+    {
+      "mechanism": "stir something up if calm (Sensation8 faint)",
+      "his_language": "Quiet weekends make me twitchy, I always want to be doing something. You bring the calm and I'll bring the spark. Come on, let's not waste a Saturday.",
+      "her_experience": "He can't sit still with calm for long and always wants to be doing something exciting, which makes life with him a constant adventure. Sometimes I feel like the designated calm one, but the spark he brings is worth it.",
+      "expert_notices": "Seeded from Sensation band-8 ('need chaos to feel alive, if calm they stir something up'): honeymoon faint, restlessness reframed as spark/adventure; her 'designated calm one' is the seam. Residue (managing the stirred-up chaos) dormant."
+    },
+    {
+      "mechanism": "blows money on the moment (Impulsivity8 faint)",
+      "his_language": "I booked us a last-minute thing, don't ask what it cost. I'd rather be broke with a head full of memories than rich and bored.",
+      "her_experience": "He spends impulsively on experiences, these grand last-minute gestures, and his live-for-now philosophy is intoxicating. I do sometimes quietly wonder about the long-term planning, but the memories are real.",
+      "expert_notices": "Seeded from Impulsivity band-8 ('blow money on something random'): honeymoon faint, the impulsive spending reframed as romantic live-for-now; her 'wonder about planning' is the seam. Residue (financial instability she'll absorb) dormant."
+    },
+    {
+      "mechanism": "lives for now (Impulsivity8 faint)",
+      "his_language": "I don't really do five-year plans, they bore me. I live for right now, this feeling, you. The future sorts itself out.",
+      "her_experience": "He lives entirely in the present and finds long-term planning stifling, which is freeing to be around after years of rigid people. Occasionally I notice I'm the only one thinking about what comes next, but his spontaneity is magnetic.",
+      "expert_notices": "Seeded from Impulsivity band-8 ('live entirely for now, never think about what comes next'): honeymoon faint, present-living reframed as freeing; her being 'the only one thinking ahead' is the seam. Residue (carrying the future alone) dormant."
+    },
+    {
+      "mechanism": "new obsession every week (Sensation8)",
+      "his_language": "Okay new plan, forget the old plan, I've found the thing, THE thing, we're doing aerial silks, I already booked us, trust me you're going to be obsessed. What? The pottery thing was last week. This is better.",
+      "her_experience": "Every week there's a brand-new passion I'm swept into, and it's exciting, but I've started feeling like I'm always waiting for the next thing. I can never quite catch my breath before it comes.",
+      "expert_notices": "Sensation8 'new obsession every week.' Targets hypervigilant (scanning/bracing) + overwhelmed (can't catch breath). Honeymoon: the novelty is fun, the exhaustion is faint."
+    },
+    {
+      "mechanism": "drop everything, last minute (Sensation8)",
+      "his_language": "Pack a bag, we leave in an hour, I'm not telling you where, just trust me. Come ON, don't overthink it, the spontaneous stuff is the best stuff. You can move that work thing, can't you? For me? Live a little.",
+      "her_experience": "He plans these thrilling last-minute trips and expects me to drop everything, and I usually do, then spend the whole time quietly worrying about the things I rearranged. Saying no makes me feel like I'm the boring one ruining the fun.",
+      "expert_notices": "Sensation8 'plan trips last minute, expect me to drop everything.' Targets overwhelmed (rearranging life) + guilty (the boring one for hesitating) + hypervigilant. Honeymoon: thrilling, the cost faint."
+    },
+    {
+      "mechanism": "can't do a quiet night (Sensation8)",
+      "his_language": "A whole night in? Just sitting? I love you but I'd lose my mind, let's at least go somewhere, do something, the night's alive out there. Quiet makes me twitchy. You bring the calm, I'll keep us from going stale.",
+      "her_experience": "He can't settle into a calm evening without needing something to happen, and I've found myself constantly managing the energy, keeping him stimulated so he doesn't get restless. When I just want to rest, I feel a little guilty for being the dull one.",
+      "expert_notices": "Sensation8 'can't have a quiet night in.' Targets overwhelmed (managing his energy) + guilty (the dull one) + hypervigilant (monitoring his restlessness). Honeymoon-faint."
+    },
+    {
+      "mechanism": "headfirst, drifts after (Sensation8)",
+      "his_language": "When I'm into something I am ALL the way in, no half measures, that's how I love too, full throttle, you've felt it. Don't worry about me cooling off, this is different, you're different. I can feel it.",
+      "her_experience": "He dives in completely and it's intoxicating to be the focus of that, though I've heard how fast he's drifted from things before, and part of me stays alert, watching for the moment the intensity turns away from me. I tell myself I'm the exception.",
+      "expert_notices": "Sensation8 'jump headfirst then lose interest.' Targets hypervigilant (watching for the turn) + overwhelmed. Honeymoon: she rationalizes ('the exception')."
+    },
+    {
+      "mechanism": "blows money on the moment (Impulsivity8)",
+      "his_language": "I put the trip on the card, don't look at me like that, you only get one life and I'm not spending mine being careful. We'll figure the money out, we always do. Aren't you glad you're with someone who actually LIVES?",
+      "her_experience": "He spends impulsively on big experiences and waves off my worry as me being uptight, and I end up quietly tracking our finances in my head, bracing for the months things get tight. I feel guilty for being the one who frets instead of just enjoying it.",
+      "expert_notices": "Impulsivity8 'blow money then short later.' Targets hypervigilant (tracking finances) + guilty (the fretter) + overwhelmed. Honeymoon-faint."
+    },
+    {
+      "mechanism": "lives for now, no plan (Impulsivity8)",
+      "his_language": "Five-year plans are a way of missing your actual life, I genuinely believe that. Right now is all we've got. Stop trying to pin down next year, just be HERE with me, isn't this enough? Isn't this incredible?",
+      "her_experience": "He lives entirely in the moment and treats my wanting to plan ahead as me not being present, so I've become the only one quietly thinking about what comes next. It's a lot to carry alone, and I feel selfish for wanting more solid ground.",
+      "expert_notices": "Impulsivity8 'live entirely for now.' Targets overwhelmed (carrying the future alone) + guilty (selfish for wanting stability). Honeymoon-faint."
+    },
+    {
+      "mechanism": "decisions on a whim, fallout later (Impulsivity8)",
+      "his_language": "I quit. Yeah, today. It was suffocating me and life's too short, you get it, right? Don't do the worried face, we're going to be fine, better than fine. Be excited with me. I need you to be excited with me.",
+      "her_experience": "He makes huge decisions on the spot and then I'm the one bracing for the fallout, and he needs me to be thrilled about it in the moment. If I show worry instead of excitement, I feel like I've let him down somehow.",
+      "expert_notices": "Impulsivity8 'decisions in the moment, consequences later.' Targets hypervigilant (bracing for fallout) + guilty (letting him down) + overwhelmed. Honeymoon-faint."
+    },
+    {
+      "mechanism": "big fast feelings, then crash (Dysregulation8 non-aggressive)",
+      "his_language": "I feel everything at full blast, the highs are unreal, you've seen it. Yeah the comedowns hit hard too, I won't lie. But I'd rather burn bright with you than go numb and safe. You keep me steady. You're my ballast.",
+      "her_experience": "His emotions soar and then crash hard, and somehow I've become the one who calms him down through the dips. It's a lot to hold, and when I'm running low myself I feel guilty, like I'm failing at something that's supposed to be my job.",
+      "expert_notices": "Dysregulation8 'get worked up then crash' (NON-aggressive, not the 10-band). Targets overwhelmed (holding/steadying) + guilty (failing the job) + hypervigilant. Honeymoon-faint. NOT Marley's aggression."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a thrill-chaser, I need life to keep escalating or I get restless.",
+      "her_experience": "He sounds so alive and exciting, exactly what was missing before.",
+      "expert_notices": "He is advertising stimulation hunger; ordinary intimacy will stop being enough."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I live for the high of a new experience, the bigger the better.",
+      "her_experience": "He sounds fun and fearless, like life with him would wake me up.",
+      "expert_notices": "He needs escalating highs; stability may feel like deprivation."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I get bored the second things settle into a routine.",
+      "her_experience": "It sounds exciting, like we'd have stories instead of routines.",
+      "expert_notices": "Adventure can mean risk-seeking and novelty dependence that outruns safety."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need a partner who'll chase the next adventure with me, not slow me down.",
+      "her_experience": "He sounds passionate and emotionally alive.",
+      "expert_notices": "Full volume signals dysregulation and intensity dependence, not just depth."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm happiest when my heart's pounding and I don't know what's next.",
+      "her_experience": "He sounds spontaneous, like he'll keep things fresh.",
+      "expert_notices": "Boredom is his trigger to chase novelty elsewhere."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I burn hot, I throw myself all the way into whatever I'm excited about.",
+      "her_experience": "He sounds thrilling, like he lives with courage and edge.",
+      "expert_notices": "He regulates through chaos; calm life may make him restless or reckless."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can't do a quiet little predictable life, it'd kill me.",
+      "her_experience": "He sounds energetic and alive, not stagnant.",
+      "expert_notices": "He is warning that stable intimacy may feel intolerable."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm always hunting for the next thing that makes me feel alive.",
+      "her_experience": "It sounds bold, like he wants more than routine.",
+      "expert_notices": "Quiet life includes the ordinary consistency relationships require."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I move fast and intense, in everything, including love.",
+      "her_experience": "He sounds joyful and passionate.",
+      "expert_notices": "He follows stimulation, not commitment; when she no longer lights him up, he chases elsewhere."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need someone who finds a settled life as suffocating as I do.",
+      "her_experience": "It sounds daring and magnetic.",
+      "expert_notices": "Edges are addictive; he may create or seek danger to feel alive."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I chase feelings, and I want a partner who'll chase them with me.",
+      "her_experience": "He sounds fun and vivid.",
+      "expert_notices": "Dullness becomes the enemy, and ordinary love can be rejected as failure."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I get a little reckless when something lights me up, that's part of the fun.",
+      "her_experience": "It sounds sexy and exciting.",
+      "expert_notices": "Rush-seeking can drive unsafe choices and relational instability."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I want a love that feels a little dangerous, the safe kind bores me.",
+      "her_experience": "He sounds spontaneous and fun, not overcontrolled.",
+      "expert_notices": "Impulsivity is being packaged as charm; consequences will land on others too."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm at my best when I'm pushing the edge of something.",
+      "her_experience": "It feels flattering, like I might be the woman who wakes him up.",
+      "expert_notices": "She is cast as stimulant; when the effect fades, she becomes replaceable."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't really do calm, calm feels like nothing's happening.",
+      "her_experience": "He sounds lively, like he won't let life get stale.",
+      "expert_notices": "Routine avoidance undermines the reliability needed for care."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need constant new highs, repetition drains me fast.",
+      "her_experience": "It sounds cinematic and passionate.",
+      "expert_notices": "He equates love with danger; safety may feel like absence of love."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm impulsive about the things that excite me, no apologies.",
+      "her_experience": "He sounds intuitive and alive, like he follows real chemistry.",
+      "expert_notices": "Energy replaces responsibility; he can drift toward any new high."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I want every week to top the last one. Stillness makes me itch.",
+      "her_experience": "He sounds passionate and brave.",
+      "expert_notices": "Burning bright can mean burning out relationships and people around him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the person who'll book the trip at midnight because why wait.",
+      "her_experience": "He sounds authentic and raw.",
+      "expert_notices": "Unfiltered may mean poor inhibition and disregard for consequences."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'd rather feel everything intensely than settle for comfortable.",
+      "her_experience": "He sounds emotionally honest and alive.",
+      "expert_notices": "He is announcing chronic dissatisfaction; the next feeling will outrank the current bond."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone adventurous who loves a thrill.",
+      "her_experience": "He is exciting and full of life, he wants a partner to share amazing adrenaline rushes.",
+      "expert_notices": "He is selecting for a target who will mistake instability and danger for romantic excitement."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who is spontaneous and never boring.",
+      "her_experience": "He loves keeping life fresh and dynamic, he wants to avoid a stagnant relationship.",
+      "expert_notices": "He is pre-screening for someone who won't complain when his reckless choices disrupt their lives."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who's always down for the next adventure.",
+      "her_experience": "He is fun and energetic, always planning the next incredible trip or activity, He is seeking a target who will constantly chase the next high with him, ignoring accumulating consequences.",
+      "expert_notices": ""
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who handles chaos with a smile.",
+      "her_experience": "He is resilient and looks for a partner who doesn't fold under pressure.",
+      "expert_notices": "He is looking for a target who will normalize a chaotic unpredictable home life caused by his habits."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can live life at full throttle.",
+      "her_experience": "He has an intense passionate approach to living and wants an equal match.",
+      "expert_notices": "He is searching for someone who will keep up with his manic pacing, preventing her from pausing to assess reality."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who loves breaking out of her comfort zone.",
+      "her_experience": "He inspires me to grow and try things I'd never do alone, which is amazing.",
+      "expert_notices": "He is systematically breaking down her self-protective boundaries under the guise of personal growth."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who doesn't care about a predictable routine.",
+      "her_experience": "He is a free spirit who hates boring repetitive domestic schedules.",
+      "expert_notices": "He is securing an excuse for his total inability to maintain a stable dependable life."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who finds safety boring.",
+      "her_experience": "He is daring and values raw authentic living over a safe sheltered existence.",
+      "expert_notices": "He is pre-framing her natural desires for emotional or physical safety as boring and pedestrian."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I love a woman who can match my high intensity.",
+      "her_experience": "He is incredibly electric and passionate, our energy together is so intense.",
+      "expert_notices": "He is filtering for a target who is easily controlled by intense emotional and neurological highs."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can make a high-stakes decision on a whim.",
+      "her_experience": "He is bold and confident, trusting his instincts instantly without hesitation.",
+      "expert_notices": "He is looking for an impulsive target who can be pressured into massive financial or legal risks quickly."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who loves a good wild card scenario.",
+      "her_experience": "He keeps me on my toes and makes life feel unpredictable and thrilling.",
+      "expert_notices": "He is screening for someone who will tolerate financial instability or legal trouble as an adventure."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who doesn't let fear dictate her choices.",
+      "her_experience": "He is courageous and wants a partner who faces the world boldly with him.",
+      "expert_notices": "He is setting up a mechanism to shame her as fearful if she questions his dangerous behavior."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who finds peace in intense movement.",
+      "her_experience": "He is a dynamic person who expresses his peace through activity and passion.",
+      "expert_notices": "He is looking for a restless target who won't ask for calm intimate emotional processing."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who treats life like an amusement park ride.",
+      "her_experience": "He wants a fun joyous exhilarating relationship filled with constant laughter.",
+      "expert_notices": "He is directly stating that he lacks emotional gravity and will treat serious issues as a joke."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I love a girl who jumps into fire with me.",
+      "her_experience": "He is fiercely loyal and wants an intense all-consuming ride-or-die connection.",
+      "expert_notices": "He is recruiting a co-dependent enabler to go down in flames with him when his choices catch up."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can laugh while everything is on fire.",
+      "her_experience": "He has a brilliant sense of humor and remains cool under massive stress.",
+      "expert_notices": "He is pre-screening for a target who will laugh off crises, evading accountability for creating them."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who doesn't try to slow me down.",
+      "her_experience": "He respects his own momentum and wants a woman who can run at his pace.",
+      "expert_notices": "He is warning her that he will ride roughshod over any boundaries or red lights she tries to set."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who embraces a life of pure intensity.",
+      "her_experience": "He is deeply passionate and refuses to settle for a dull ordinary relationship.",
+      "expert_notices": "He is selecting for a target who requires high drama to feel loved, making her easy to cycle through."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who lives for the rush of the unknown.",
+      "her_experience": "He is comfortable with uncertainty and wants a relationship that feels completely fresh.",
+      "expert_notices": "He is hunting for someone who will overlook his lack of a stable job, home, or history."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can survive a whirlwind and love it.",
+      "her_experience": "He knows he is a force of nature and wants a woman strong enough to stay.",
+      "expert_notices": "He is framing his destructive chaotic behavior as an inherent untamable trait she must survive."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "Get up, we're leaving. There's a place I want to take you. Don't ask, just trust me.",
+      "her_experience": "He's so certain and urgent that I just grabbed my jacket and followed. It felt like being let in on a secret, like I was the one chosen for whatever this was.",
+      "expert_notices": "He uses urgency and confident leading to create a rush of intimacy. She feels chosen and trusting, not yet aware that her ability to pause and ask is being bypassed."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "I don't know what it is about tonight, but I just want to do something. Anything. If I sit still I'll miss it.",
+      "her_experience": "He looked at me like he was about to drag me into something. I love that he's so restless. It makes me feel like I'm the only one who can keep up with him.",
+      "expert_notices": "He outsources the cure for his restlessness to her. She feels vital and chosen, not yet aware she'll be expected to provide this cure on demand."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "I know we have to be up early, but who cares? One night of no sleep is worth it for a night like this.",
+      "her_experience": "He's always pushing past the sensible limits. It's hard to say no when he's so alive about it. The night always feels too short with him.",
+      "expert_notices": "He normalizes sleep deprivation as a worthwhile trade. She feels like she's living fully, not yet aware she's being conditioned to accept exhaustion for his fun."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "I wasn't sure about tonight, honestly. And then I saw you, and now I'm not tired at all. Funny how that works.",
+      "her_experience": "He said he was tired until he saw me. It's flattering, like I have an energy he needs. It makes me feel important to him.",
+      "expert_notices": "He attributes his energy directly to her presence. She feels powerful, not yet aware this puts her in charge of keeping him stimulated."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "I don't know what we're doing tomorrow. I don't care. I just know I want to figure it out with you next to me.",
+      "her_experience": "He's so unconcerned with planning. It's actually refreshing. It makes me feel like we don't need plans, we just need each other.",
+      "expert_notices": "He frames a lack of planning as romantic spontaneity. She feels their connection transcends logistics, not yet aware she'll handle the fallout of his disorganization."
+    },
+    {
+      "mechanism": "us-vs-the-sleepwalkers",
+      "his_language": "Look at all these people. Same routine, same couch, same show. They don't even know what they're missing.",
+      "her_experience": "He said it with a mix of pity and disbelief. It made me feel like we were the ones who were really seeing the world.",
+      "expert_notices": "He denigrates a normal lifestyle as unconsciousness. She feels elevated, not yet aware her own desire for a quiet night will eventually be framed as 'sleepwalking.'"
+    },
+    {
+      "mechanism": "us-vs-the-sleepwalkers",
+      "his_language": "I feel sorry for people who never get to experience this. Sitting at home on a Friday, thinking they're happy.",
+      "her_experience": "He looked around and said that. It made me feel like we knew the secret to life, the ones who were actually living it.",
+      "expert_notices": "He creates an us-vs-them narrative around lifestyle. She feels chosen, not yet aware that normal contentment is being framed as failure."
+    },
+    {
+      "mechanism": "us-vs-the-sleepwalkers",
+      "his_language": "I don't understand how people can just sit there. There's so much to see, to do. I want to do all of it. With you.",
+      "her_experience": "He's so hungry for life. I've been with people who just want to stay in, and this feels like a welcome change.",
+      "expert_notices": "He frames his restlessness as a virtue of aliveness. She feels swept up, not yet aware that 'doing' will need to be constant."
+    },
+    {
+      "mechanism": "us-vs-the-sleepwalkers",
+      "his_language": "We're not going to be those people who look back and regret not doing the thing. We're going to do the thing.",
+      "her_experience": "He said 'we' like it was already decided. It made me feel like I had a partner in crime who would pull me out of my comfort zone.",
+      "expert_notices": "He uses inclusive language to bond her to a future of perpetual action. She feels supported, not yet aware that 'doing the thing' is a relentless standard."
+    },
+    {
+      "mechanism": "escalation",
+      "his_language": "Last week was fun. Tonight is even better. I don't want this night to end.",
+      "her_experience": "He's always pushing for the next level, the better memory. It's thrilling.",
+      "expert_notices": "He frames escalation as natural progression. She feels the thrill of the chase, not yet aware the baseline for a 'good' night keeps rising."
+    },
+    {
+      "mechanism": "escalation",
+      "his_language": "I just had the best idea. I don't know if it'll work, but I'm already excited about it. You in?",
+      "her_experience": "He's always chasing the next hit. It's fun to be the first person he tells. I always say yes because his excitement is just so real.",
+      "expert_notices": "He uses his own excitement as a tool for compliance. She gets caught up in the feeling, not yet aware her automatic 'yes' is being conditioned."
+    },
+    {
+      "mechanism": "escalation",
+      "his_language": "I know we just did that thing, but I'm already thinking about the next thing. I don't like sitting still.",
+      "her_experience": "He's always looking ahead to the next hit. In the moment it just feels like passion.",
+      "expert_notices": "He admits his inability to be present in calm. She interprets restlessness as passion, not yet aware she'll be expected to facilitate his need for the next thing."
+    },
+    {
+      "mechanism": "escalation",
+      "his_language": "You should see your face right now. That's the look. I want to see it again and again.",
+      "her_experience": "He's watching my reaction like I'm the source of his fun. It's flattering, like my joy is a reward for him.",
+      "expert_notices": "He makes her emotional state a performance for his enjoyment. She feels like a muse, not yet aware she'll be pressured to perform 'the look' on demand."
+    },
+    {
+      "mechanism": "risk-as-romance",
+      "his_language": "I've never done this before. I'm a little nervous, actually. But I'm glad I'm doing it with you.",
+      "her_experience": "He admitted he was nervous, and it made him seem more real. It's sweet that he wants to try new, scary things with me.",
+      "expert_notices": "He frames shared vulnerability in a risky situation as bonding. She feels trusted and close, not yet aware that his 'nervousness' lowers her own guard."
+    },
+    {
+      "mechanism": "risk-as-romance",
+      "his_language": "I'm not saying it's safe. I'm saying it's worth it. There's a difference.",
+      "her_experience": "He's so good at distinguishing safety from value. It makes me feel brave for choosing the 'worth it' option.",
+      "expert_notices": "He reframes risk as necessary for a life worth living. She feels courageous, not yet aware her risk tolerance is being pushed beyond her natural limits."
+    },
+    {
+      "mechanism": "risk-as-romance",
+      "his_language": "I'm not worried. I've got you. And you've got me. We'll figure it out.",
+      "her_experience": "He said it so casually, like we were a team who could handle anything. It made me feel safe, even though the plan was a little crazy.",
+      "expert_notices": "He uses inclusive language to create shared resilience in the face of risk. She feels safe in the partnership, not yet aware she may be the one doing the figuring out."
+    },
+    {
+      "mechanism": "the-next-high",
+      "his_language": "Okay, that was fun. But now I'm thinking about what's next. Don't let me lose this momentum.",
+      "her_experience": "He's already energized to find the next thing. I get swept up in it.",
+      "expert_notices": "He signals the short half-life of his satisfaction. She feels like a co-conspirator, not yet aware she's being enlisted as his entertainment manager."
+    },
+    {
+      "mechanism": "the-next-high",
+      "his_language": "I was just sitting there, and I thought, I need to do something. I need to see you. So here I am.",
+      "her_experience": "He showed up unannounced because he couldn't sit still. It's also flattering to be the thing he can't stop thinking about.",
+      "expert_notices": "He frames his impulsivity as devotion. She feels wanted, not yet aware that his inability to self-soothe is being disguised as romance."
+    },
+    {
+      "mechanism": "the-next-high",
+      "his_language": "That was incredible. Let's not let the night end here. I know a spot forty minutes out, we catch the lights right as they dim.",
+      "her_experience": "He has this unstoppable momentum. Just when you think the night is winding down, he injects this burst of energy. It's addictive.",
+      "expert_notices": "He frames escalation as time-sensitive opportunity. She feels the pull of the once-in-a-lifetime moment, not yet aware every night with him will feel this urgent."
+    },
+    {
+      "mechanism": "the-next-high",
+      "his_language": "I've been thinking about that thing we did. Can we do it again? But bigger this time?",
+      "her_experience": "He's always sizing up the experience, trying to make it more intense. I love that he's so hungry for life.",
+      "expert_notices": "He frames escalation as a desire for 'more' of a good thing. She interprets hunger as passion, not yet aware the baseline for 'enough' will constantly rise."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "I don't remember the last time I felt this awake. It's like I've been sleepwalking for years and you just shook me.",
+      "her_experience": "He said I woke him up. It's the most incredible compliment. It makes me feel essential to him.",
+      "expert_notices": "He positions her as the antidote to his prior numbness. She feels special and powerful, not yet aware this puts her in charge of keeping him awake."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "I was out with my friends, and I was bored. All I could think about was being here, with you, doing something.",
+      "her_experience": "He said his friends were boring. It's flattering that he'd rather be with me.",
+      "expert_notices": "He contrasts her with his friends. She feels chosen, not yet aware this positions her as the sole source of his entertainment."
+    },
+    {
+      "mechanism": "us-vs-the-sleepwalkers",
+      "his_language": "Look at them. They're just existing. We're actually living. Don't you feel it? The difference?",
+      "her_experience": "He's always pointing out the difference between us and 'them.' It makes me feel like we're in a secret club where the membership fee is just being brave.",
+      "expert_notices": "He creates an in-group based on shared disdain for the mundane. She feels special, not yet aware any desire for a quiet life will be framed as betrayal."
+    },
+    {
+      "mechanism": "escalation",
+      "his_language": "That was amazing. But let's not stop here. I can feel the night still has more for us.",
+      "her_experience": "He can't even let a good thing land before he's moving on. I feel like I have to hold on tight.",
+      "expert_notices": "He immediately replaces a positive experience with the promise of a superior continuation. She feels the thrill, not yet aware the present moment is never enough for him."
+    },
+    {
+      "mechanism": "risk-as-romance",
+      "his_language": "I know it's a long drive. But that's part of it. Just us and the road. No distractions.",
+      "her_experience": "He made a long drive sound romantic. He reframed the boring part as quality time. I love that he can make anything feel like an adventure.",
+      "expert_notices": "He reframes inconvenience as romantic togetherness. She feels he's creative and devoted, not yet aware that his adventures have hidden costs she may absorb."
+    },
+    {
+      "mechanism": "the-next-high",
+      "his_language": "I had this whole idea for us. It's a surprise. But I need you to trust me on it.",
+      "her_experience": "He's always got a surprise. I trust him, though. He's never steered me wrong.",
+      "expert_notices": "He asks for undefined trust in exchange for a dopamine hit. She feels excitement, not yet aware her pattern of saying yes without information is being reinforced."
+    },
+    {
+      "mechanism": "the-next-high",
+      "his_language": "I was just sitting at home, and I thought, what am I doing. I should be with you. So I left.",
+      "her_experience": "He's so impulsive. He just shows up. It makes me feel like I'm the most exciting thing in his world.",
+      "expert_notices": "He frames his impulsive intrusion as romantic compulsion. She feels like a priority, not yet aware his inability to be alone is being disguised as devotion."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "I was having a completely average day. And then I saw you, and everything just sharpened.",
+      "her_experience": "He says I make his day sharper. It makes me feel like I'm his focus, the thing that brings his world into clarity.",
+      "expert_notices": "He credits her with altering his perception of reality. She feels uniquely powerful, not yet aware she'll be expected to keep providing this effect."
+    },
+    {
+      "mechanism": "escalation",
+      "his_language": "I don't want to slow down. I want to see how far we can take this. Tonight, us, everything.",
+      "her_experience": "He's always pushing the edge. I trust him to find it.",
+      "expert_notices": "He frames open-ended escalation as a shared goal. She feels like a partner in adventure, not yet aware his 'how far' has no natural stopping point."
+    },
+    {
+      "mechanism": "us-vs-the-sleepwalkers",
+      "his_language": "I'd go crazy if I had to live their life. The same thing every day, forever. I need to feel like I'm moving.",
+      "her_experience": "He said it with such conviction. It's attractive. I don't want to be the one who holds him back.",
+      "expert_notices": "He expresses contempt for routine and stability. She feels pressure to be his partner in motion, not yet aware her desire for stillness will be interpreted as holding him back."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "I feel like I've been waiting for someone like you. Someone who actually wants to live, not just exist.",
+      "her_experience": "He said I was the one who wanted to 'live.' It's a huge compliment. It makes me feel like he saw my restlessness and validated it.",
+      "expert_notices": "He reframes his needs as a universal desire for a real life. She feels seen, not yet aware her own desires will be judged against his definition of living."
+    },
+    {
+      "mechanism": "the-next-high",
+      "his_language": "I was thinking about what we should do next weekend. I've got a few ideas. They're all pretty ambitious.",
+      "her_experience": "He's already thinking about the next adventure before the current one is over. It's nice to be with someone who's always looking forward.",
+      "expert_notices": "He frames his inability to be present as forward-thinking ambition. She feels they have an exciting future, not yet aware the future is the only place he's truly comfortable."
+    },
+    {
+      "mechanism": "risk-as-romance",
+      "his_language": "I'm a little nervous. But that's the good kind, right? The kind that means you're about to do something worth remembering.",
+      "her_experience": "I was nervous, but the way he said it made the nervousness feel like part of the fun, not a warning. I wanted to be brave with him.",
+      "expert_notices": "He re-labels her anxiety as a positive signal, overriding her body's natural warning system. She feels brave, not yet aware her risk assessment is being bypassed."
+    },
+    {
+      "mechanism": "escalation",
+      "his_language": "I know we said we'd stop after this one. But one more? I'm not tired. Are you tired?",
+      "her_experience": "I was exhausted, but saying yes to going home would have meant being the boring one. So I laughed and ordered another.",
+      "expert_notices": "He uses subtle social pressure to frame his desire to continue as the normal choice and her limit as a weakness. She agrees to avoid seeming boring."
+    },
+    {
+      "mechanism": "the-next-high",
+      "his_language": "I just feel like the night is still young. Don't you feel that way? Like we're just getting started?",
+      "her_experience": "He's always chasing the feeling that the best part is still ahead. We never feel finished, we just stop when we're exhausted.",
+      "expert_notices": "He frames his endless appetite as a shared intuition. She questions her own sense of completion to match his."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "I was having a rough day. And then I saw you, and I forgot all about it. You're like a reset button for my brain.",
+      "her_experience": "He said I'm a reset button. It's incredibly flattering. It makes me feel like I have this power to fix him.",
+      "expert_notices": "He explicitly states her presence cures his negative moods. She feels powerful and essential, not yet aware she'll be expected to perform this reset repeatedly."
+    },
+    {
+      "mechanism": "us-vs-the-sleepwalkers",
+      "his_language": "I can't imagine waking up next to someone who doesn't get it. Who just wants to lay there. That's not us, right?",
+      "her_experience": "He's already defining 'us' by what we're not. It makes me feel like we're on the same page about the kind of people we are.",
+      "expert_notices": "He uses a rhetorical question to bond her to a shared identity defined in opposition to a passive 'them.' She feels aligned, not yet aware this identity will be used to judge her future choices."
+    },
+    {
+      "mechanism": "escalation",
+      "his_language": "I know we're tired. But work tomorrow is just spreadsheets and emails. This right here, talking until 4 AM, this is the only part of the week that actually matters.",
+      "her_experience": "He made my job sound meaningless and this moment sound precious. I knew I'd regret it in the morning, but right then, it felt more real than anything waiting for me at my desk.",
+      "expert_notices": "He reframes her professional responsibilities as 'sleepwalking' and his chaos as authentic living. She accepts exhaustion as the price of a meaningful life, not yet aware her work will be cast as the enemy of their connection."
+    },
+    {
+      "mechanism": "the-next-high",
+      "his_language": "That was so good. I'm already chasing that feeling again. Don't you want to feel it again?",
+      "her_experience": "He's so hungry for repetition. It's also kind of sexy how much he wants me.",
+      "expert_notices": "He asks a leading question to manufacture consensus for escalation. She feels complicit and excited, not yet aware she's being trained to chase his highs."
+    },
+    {
+      "mechanism": "intensity-as-aliveness",
+      "his_language": "Let's not overthink it. The best nights come from the decisions you don't plan. You just have to jump.",
+      "her_experience": "He's always telling me to stop thinking and just do it. It's freeing. It makes me feel like I'm finally letting go of my anxiety.",
+      "expert_notices": "He frames hesitation as overthinking and impulsivity as courage. She feels liberated, not yet aware her own judgment is being systematically overridden in favor of his impulse."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "South Asian",
+      "snippet": "Where are your parents from?",
+      "type": "question",
+      "translation": "He's asking country state and city — each signals dramatically different things",
+      "status_signal": "North India vs South India is huge difference; Punjab signals one thing Tamil Nadu another; Lahore signals Pakistani; Mumbai cosmopolitan Indian; Dhaka Bangladeshi",
+      "notes": "Major regional-identity probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "What's your last name?",
+      "type": "question",
+      "translation": "He's asking your surname — caste region and religion are all encoded in last names",
+      "status_signal": "Patel signals Gujarati often merchant caste; Sharma signals Brahmin; Singh signals Sikh or Rajput; Khan signals Muslim; Banerjee signals Bengali Brahmin",
+      "notes": "Surname carries enormous identity information"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "What does your father do?",
+      "type": "question",
+      "translation": "He's asking about your father's profession — major class signal",
+      "status_signal": "Doctor engineer businessman are most common high-status answers",
+      "notes": "Standard class probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "What did you study?",
+      "type": "question",
+      "translation": "He's asking your degree — STEM acceptable humanities loaded",
+      "status_signal": "Medicine engineering law computer science are the acceptable canon",
+      "notes": "Major status probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Where did you study?",
+      "type": "question",
+      "translation": "He's asking which college or university specifically",
+      "status_signal": "IIT IIM AIIMS signal Indian elite; US Ivy League signals immigration achievement",
+      "notes": "Major education probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "When did your family come?",
+      "type": "question",
+      "translation": "He's asking about your migration generation",
+      "status_signal": "1965-act first-wave signals different from H1B 1990s wave from current migration",
+      "notes": "Migration-history probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Are your parents still together?",
+      "type": "question",
+      "translation": "He's checking intact-family status — divorce is loaded in South Asian families",
+      "status_signal": "Intact families have higher status",
+      "notes": "Family-stability probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Are you vegetarian?",
+      "type": "question",
+      "translation": "He's asking about your diet which signals caste region and religion",
+      "status_signal": "Strict vegetarianism often signals Brahmin Jain or specific community",
+      "notes": "Diet as identity signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Do you eat beef?",
+      "type": "question",
+      "translation": "Hindus generally don't even if non-practicing — eating beef signals more assimilated or non-Hindu",
+      "status_signal": "Major religious-cultural probe",
+      "notes": "Diet as religious identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Do you eat pork?",
+      "type": "question",
+      "translation": "Muslims don't — eating pork signals non-Muslim or non-practicing",
+      "status_signal": "Religious-identity probe",
+      "notes": "Diet as religious identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Do you speak Hindi?",
+      "type": "question",
+      "translation": "He's asking about language — signals specific regional community",
+      "status_signal": "Hindi/Urdu/Punjabi/Gujarati/Bengali/Tamil each signal different regional community",
+      "notes": "Major regional probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Are you Punjabi?",
+      "type": "question",
+      "translation": "Direct regional identification probe",
+      "status_signal": "Each region carries distinct cultural complexes",
+      "notes": "Regional-identity probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Where in India are you from?",
+      "type": "question",
+      "translation": "He's asking state-level identity which matters intensely",
+      "status_signal": "State-level identity often determines food language tradition",
+      "notes": "Major identity probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Did your parents have an arranged marriage?",
+      "type": "question",
+      "translation": "He's asking about family approach to marriage",
+      "status_signal": "Arranged signals more traditional; semi-arranged middle ground; love marriage more modern",
+      "notes": "Marriage-process probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "How did you meet your husband?",
+      "type": "question",
+      "translation": "He's asking whether arrangement was traditional",
+      "status_signal": "Family-arranged signals traditional; family-introduced middle; organic more modern",
+      "notes": "Marriage-process probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Are your in-laws nearby?",
+      "type": "question",
+      "translation": "He's checking joint-family structure",
+      "status_signal": "Living with in-laws signals traditional patrilocal; nuclear signals modern",
+      "notes": "Family-structure probe"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Punjabi",
+      "type": "lifestyle marker",
+      "translation": "Family from Punjab (India or Pakistan)",
+      "status_signal": "Carries reputation for outgoing-energy; often Sikh or Hindu; diaspora-prominent",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Gujarati",
+      "type": "lifestyle marker",
+      "translation": "Family from Gujarat",
+      "status_signal": "Carries reputation for business community; often merchant tradition",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Bengali",
+      "type": "lifestyle marker",
+      "translation": "Family from Bengal (India or Bangladesh)",
+      "status_signal": "Carries reputation for intellectual literary tradition",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "South Indian",
+      "type": "lifestyle marker",
+      "translation": "Family from Tamil Nadu Kerala Karnataka or Andhra",
+      "status_signal": "Carries reputation for education focus and engineering tradition",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Tamil",
+      "type": "lifestyle marker",
+      "translation": "Family from Tamil Nadu or Sri Lankan Tamil background",
+      "status_signal": "Specific South Indian community",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Marathi",
+      "type": "lifestyle marker",
+      "translation": "Family from Maharashtra",
+      "status_signal": "Specific middle-India community",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Hyderabadi",
+      "type": "lifestyle marker",
+      "translation": "Family from Hyderabad — distinct identity mixing Muslim and Telugu heritage",
+      "status_signal": "Specific community with distinct identity",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Sindhi",
+      "type": "lifestyle marker",
+      "translation": "Family with Sindhi heritage — often post-Partition migration",
+      "status_signal": "Specific community",
+      "notes": "Specific regional identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Lahore",
+      "type": "lifestyle marker",
+      "translation": "Pakistani family — major Pakistani city of origin",
+      "status_signal": "Pakistani cultural cosmopolitan often well-established",
+      "notes": "Pakistani-specific signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Karachi",
+      "type": "lifestyle marker",
+      "translation": "Pakistani family — Karachi is largest city",
+      "status_signal": "Pakistani — broad range of class and background",
+      "notes": "Pakistani-specific signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Dhaka",
+      "type": "lifestyle marker",
+      "translation": "Bangladeshi family",
+      "status_signal": "Bangladeshi cultural identity distinct from Pakistani or Indian",
+      "notes": "Bangladeshi-specific signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Hindu",
+      "type": "lifestyle marker",
+      "translation": "He practices Hinduism — major identity-and-cultural complex",
+      "status_signal": "Religious identity often paired with regional identity",
+      "notes": "Foundational identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Muslim",
+      "type": "lifestyle marker",
+      "translation": "He practices Islam",
+      "status_signal": "Religious identity overlapping with Pakistani/Bangladeshi/Indian Muslim background",
+      "notes": "Foundational identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Sikh",
+      "type": "lifestyle marker",
+      "translation": "He practices Sikhism — usually Punjabi background",
+      "status_signal": "Specific religious-cultural identity",
+      "notes": "Foundational identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Jain",
+      "type": "lifestyle marker",
+      "translation": "He practices Jainism — usually Gujarati background; strict vegetarianism",
+      "status_signal": "Specific religious-cultural identity",
+      "notes": "Diet often diagnostic"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Christian",
+      "type": "lifestyle marker",
+      "translation": "He's South Asian Christian — Kerala Goa or specific minority",
+      "status_signal": "Specific minority within South Asian context",
+      "notes": "Specific religious identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Brahmin",
+      "type": "lifestyle marker",
+      "translation": "He's from priestly/scholarly caste background",
+      "status_signal": "Carries stereotype (which insiders use) of priestly/scholarly background often vegetarian; often light-skinned in family stereotypes",
+      "notes": "Caste is officially denied but operates"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Patel",
+      "type": "lifestyle marker",
+      "translation": "Gujarati surname signaling merchant/trading caste",
+      "status_signal": "Signals merchant/trading tradition often successful immigrant business",
+      "notes": "Specific caste-and-region signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Bania",
+      "type": "lifestyle marker",
+      "translation": "Merchant caste designation",
+      "status_signal": "Signals merchant/trading tradition",
+      "notes": "Specific caste identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Rajput",
+      "type": "lifestyle marker",
+      "translation": "Warrior caste designation",
+      "status_signal": "Signals warrior tradition often Punjabi or Rajasthani",
+      "notes": "Specific caste identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Dalit",
+      "type": "lifestyle marker",
+      "translation": "Historically oppressed caste — rarely volunteered",
+      "status_signal": "Signals having to navigate caste discrimination",
+      "notes": "Specific caste identity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "IIT",
+      "type": "lifestyle marker",
+      "translation": "Indian Institute of Technology — elite engineering schools",
+      "status_signal": "Major prestige signal — engineering elite",
+      "notes": "Specific elite institution"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "IIM",
+      "type": "lifestyle marker",
+      "translation": "Indian Institute of Management — elite business schools",
+      "status_signal": "Major prestige signal — business elite",
+      "notes": "Specific elite institution"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "AIIMS",
+      "type": "lifestyle marker",
+      "translation": "All India Institute of Medical Sciences — elite medical schools",
+      "status_signal": "Major prestige signal — medical elite",
+      "notes": "Specific elite institution"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "St. Stephen's",
+      "type": "lifestyle marker",
+      "translation": "Elite Delhi college",
+      "status_signal": "Major prestige signal",
+      "notes": "Specific elite institution"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "LSR / Lady Shri Ram",
+      "type": "lifestyle marker",
+      "translation": "Elite Delhi women's college",
+      "status_signal": "Major prestige signal for women's education",
+      "notes": "Specific elite institution"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Convent school",
+      "type": "lifestyle marker",
+      "translation": "Indian Christian-mission school often elite",
+      "status_signal": "Signals English-medium education upper-middle-class background",
+      "notes": "Specific class marker"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Big fat Indian wedding",
+      "type": "lifestyle marker",
+      "translation": "Multi-day wedding with many events and many guests",
+      "status_signal": "Standard family-wealth display",
+      "notes": "Specific cultural framing"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Mehndi",
+      "type": "lifestyle marker",
+      "translation": "Pre-wedding henna ceremony",
+      "status_signal": "Standard wedding event",
+      "notes": "Wedding-process element"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Sangeet",
+      "type": "lifestyle marker",
+      "translation": "Pre-wedding music and dance event",
+      "status_signal": "Standard wedding event",
+      "notes": "Wedding-process element"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Haldi",
+      "type": "lifestyle marker",
+      "translation": "Pre-wedding turmeric ceremony",
+      "status_signal": "Standard wedding event",
+      "notes": "Wedding-process element"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Baraat",
+      "type": "lifestyle marker",
+      "translation": "Groom's procession to the wedding venue",
+      "status_signal": "Standard wedding event",
+      "notes": "Wedding-process element"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Destination wedding in Goa or Udaipur",
+      "type": "lifestyle marker",
+      "translation": "Specific high-status destination wedding locations",
+      "status_signal": "Signals modern wealth and fashion-forward",
+      "notes": "Major wealth display"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Heavy gold",
+      "type": "status signal",
+      "translation": "Significant gold jewelry at wedding",
+      "status_signal": "Signals traditional family wealth",
+      "notes": "Major wealth display"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Designer lehenga",
+      "type": "status signal",
+      "translation": "Designer bridal outfit",
+      "status_signal": "Signals new money / fashion-forward",
+      "notes": "Specific wealth signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Dowry / jahez",
+      "type": "vocabulary",
+      "translation": "Wealth from bride's family to groom — officially illegal in India but operating",
+      "status_signal": "Standard traditional structure though denied",
+      "notes": "Specific marriage-process element"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Joint family",
+      "type": "vocabulary",
+      "translation": "Multi-generational household structure",
+      "status_signal": "Traditional family arrangement",
+      "notes": "Major family-structure signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Saas",
+      "type": "vocabulary",
+      "translation": "Mother-in-law (Hindi)",
+      "status_signal": "Specific in-law category",
+      "notes": "Family-structure vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Saasur",
+      "type": "vocabulary",
+      "translation": "Father-in-law (Hindi)",
+      "status_signal": "Specific in-law category",
+      "notes": "Family-structure vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Devar / jeth",
+      "type": "vocabulary",
+      "translation": "Husband's younger or older brother — specific in-law categories",
+      "status_signal": "Specific in-law categories",
+      "notes": "Family-structure vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Nanad",
+      "type": "vocabulary",
+      "translation": "Husband's sister",
+      "status_signal": "Specific in-law category",
+      "notes": "Family-structure vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Bahu / daughter-in-law",
+      "type": "vocabulary",
+      "translation": "Wife's role in husband's family",
+      "status_signal": "Major role-category in traditional family",
+      "notes": "Family-structure vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Rishta",
+      "type": "vocabulary",
+      "translation": "Marriage proposal or marriage prospect",
+      "status_signal": "Standard traditional marriage process",
+      "notes": "Marriage-process vocabulary"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Rishta aunty",
+      "type": "vocabulary",
+      "translation": "Community matchmaker — usually older woman who arranges marriages",
+      "status_signal": "Specific community role",
+      "notes": "Marriage-process role"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Looking for a rishta",
+      "type": "phrase",
+      "translation": "Family is actively seeking marriage prospects",
+      "status_signal": "Traditional marriage process active",
+      "notes": "Standard family activity"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Arranged marriage",
+      "type": "vocabulary",
+      "translation": "Marriage facilitated by families",
+      "status_signal": "Traditional marriage structure",
+      "notes": "Major marriage-process category"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Semi-arranged",
+      "type": "vocabulary",
+      "translation": "Family-introduced but couple chooses",
+      "status_signal": "Middle-ground modern adaptation",
+      "notes": "Marriage-process category"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Love marriage",
+      "type": "vocabulary",
+      "translation": "Marriage chosen by individuals without family involvement",
+      "status_signal": "Often loaded as less traditional or less stable",
+      "notes": "Marriage-process category"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Kundli matched",
+      "type": "phrase",
+      "translation": "Astrological horoscopes were compared and approved",
+      "status_signal": "Traditional marriage-vetting process",
+      "notes": "Standard Hindu-tradition practice"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Same gotra",
+      "type": "phrase",
+      "translation": "Same lineage clan — traditionally a problem for marriage",
+      "status_signal": "Specific traditional restriction",
+      "notes": "Marriage-restriction category"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's a good Indian girl",
+      "type": "phrase about a woman",
+      "translation": "She conforms to traditional expectations of femininity family loyalty and sexual restraint",
+      "status_signal": "Major approval phrase",
+      "notes": "Standard community approval"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's a good Pakistani girl",
+      "type": "phrase about a woman",
+      "translation": "Same as above for Pakistani family context",
+      "status_signal": "Major approval phrase",
+      "notes": "Standard community approval"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "He's from a good family",
+      "type": "phrase about a man",
+      "translation": "Family has standing money education and reputation",
+      "status_signal": "Major status approval",
+      "notes": "Standard probe-result"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Her family is well-settled",
+      "type": "phrase about a woman",
+      "translation": "They're established in the US with stable professional lives",
+      "status_signal": "Major status approval",
+      "notes": "Standard probe-result"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "He's well-placed",
+      "type": "phrase about a man",
+      "translation": "He has a good professional position",
+      "status_signal": "Status approval",
+      "notes": "Standard probe-result"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's homely",
+      "type": "phrase about a woman",
+      "translation": "In South Asian English this means domestic and family-oriented (not unattractive) — it's a compliment in traditional context",
+      "status_signal": "Specific in-group meaning different from outside",
+      "notes": "Cultural-translation phrase"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's fair",
+      "type": "phrase about a woman",
+      "translation": "Light-skinned — considered a positive trait in colorist evaluation",
+      "status_signal": "Major colorism marker",
+      "notes": "Reflects harmful but operating preference"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "He's a doctor",
+      "type": "phrase about a man",
+      "translation": "Often the first thing mentioned — the entire status statement",
+      "status_signal": "Major status marker",
+      "notes": "Standard high-status profession"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "He's working in IT",
+      "type": "phrase about a man",
+      "translation": "Tech professional often H1B visa often middle-class",
+      "status_signal": "Standard tech-professional signal",
+      "notes": "Specific professional category"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "They live in a joint family",
+      "type": "phrase about a family",
+      "translation": "Traditional multi-generational household structure",
+      "status_signal": "Family-structure signal",
+      "notes": "Standard description"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She moved into the in-laws' house",
+      "type": "phrase about a woman",
+      "translation": "Traditional patrilocal arrangement",
+      "status_signal": "Major traditional-family signal",
+      "notes": "Standard description"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "The mother-in-law is very particular",
+      "type": "phrase about an in-law",
+      "translation": "MIL has strict expectations often controlling daughter-in-law",
+      "status_signal": "Standard mother-in-law concern",
+      "notes": "Family-dynamics signal"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She doesn't go to her parents' house too much",
+      "type": "phrase about a woman",
+      "translation": "She's been properly absorbed into her husband's family — considered virtuous in traditional framing",
+      "status_signal": "Standard traditional-virtue framing",
+      "notes": "Approval of absorption"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "His mother runs the household",
+      "type": "phrase about a family",
+      "translation": "MIL has authority over wife in joint family",
+      "status_signal": "Family-hierarchy signal",
+      "notes": "Standard description"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "What will people say?",
+      "type": "phrase",
+      "translation": "Community surveillance as control mechanism",
+      "status_signal": "Standard social-control framing",
+      "notes": "Major control mechanism"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Log kya kahenge?",
+      "type": "phrase",
+      "translation": "Hindi/Urdu version of 'what will people say'",
+      "status_signal": "Standard social-control framing",
+      "notes": "Same concept in original language"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "That's not how things are done",
+      "type": "phrase",
+      "translation": "Traditional norms are being invoked",
+      "status_signal": "Standard norm-enforcement",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "He's a settled boy",
+      "type": "phrase about a man",
+      "translation": "Established career and stability suitable for marriage",
+      "status_signal": "Standard marriage-criterion",
+      "notes": "Approval phrase"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's adjusting",
+      "type": "phrase about a woman",
+      "translation": "She's accepting her in-laws' authority and household structure",
+      "status_signal": "Praise for adaptation to traditional structure",
+      "notes": "Specific cultural framing"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She's not adjusting",
+      "type": "phrase about a woman",
+      "translation": "She's resisting traditional in-law authority — and the resistance is being treated as her problem",
+      "status_signal": "Standard blame-the-DIL framing",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Sharam karo / have some shame",
+      "type": "phrase",
+      "translation": "He's invoking shame as control mechanism",
+      "status_signal": "Standard cultural-shame deployment",
+      "notes": "Common control move"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "Izzat / honor",
+      "type": "vocabulary",
+      "translation": "Family honor as accumulated reputation property",
+      "status_signal": "Major control concept",
+      "notes": "Specific cultural framework"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "She brought shame to the family",
+      "type": "phrase about a woman",
+      "translation": "Her behavior damaged family reputation",
+      "status_signal": "Heavy patriarchal-family accusation",
+      "notes": "Common control framing"
+    },
+    {
+      "culture": "South Asian",
+      "snippet": "It's against our culture",
+      "type": "phrase",
+      "translation": "He's invoking culture as authoritative reason",
+      "status_signal": "Standard tradition-as-authority",
+      "notes": "Common control move"
+    }
+  ]
+}

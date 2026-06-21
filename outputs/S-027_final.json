@@ -1,0 +1,454 @@
+{
+  "scenario_id": "S-027",
+  "player_type": "Egocentric Evan",
+  "scenario": {
+    "scenario_id": "S-027",
+    "architecture_name": "He turns devotion into a claim on her time, choices, and future, while making her feel lucky to be chosen.",
+    "culture": "South Asian",
+    "demographics": "F/late 20s, South Asian, startup professional in NYC; M/early 30s, South Asian, Raj, finance or tech-adjacent, from a family with strong Long Island ties",
+    "cultural_context": "Urban professional/startup social sphere with family-oriented South Asian immigrant or diaspora dynamics",
+    "geographic_setting": "New York City area, especially Manhattan, Central Park, and Long Island",
+    "core_behaviors": [
+      "Plans romantic gestures that quietly become expectations",
+      "Uses family warmth to accelerate enmeshment",
+      "Frames her independence as something to be worked out around his priorities"
+    ],
+    "satellite_signals": "Central Park picnic, Long Island family dinners, Indian sweets, startup schedule, talk of grandchildren and family as the future. His attention is affectionate, but it also keeps pulling her into his orbit.",
+    "dismissible_red_flags": "The speed feels flattering, not scary. His family is warm, his texting is caring, and his comments about the future can be read as excitement rather than pressure.",
+    "scenario_text": "I’ve only been seeing Raj for a few weeks, so maybe I’m being silly even bringing this up. He took me to this picnic in Central Park last Sunday, and it was honestly so sweet. He had the blanket, the mangoes, even those little Indian sweets I like from that shop near my office. He kept saying, “I just want to spend all day with you,” like it was the most natural thing in the world.\n\nHis family has been lovely too. They invited me out to Long Island for dinner, and his mother kept fussing over me, asking if I was eating enough and saying, “We can’t wait to see what your grandchildren will look like,” with this wink that made everyone laugh. Raj just smiled like that was adorable. I did too, because it felt warm, and honestly his whole family has that big fat Indian wedding energy, all loud and welcoming and full of food.\n\nHe texts me during my breaks at work to ask if I’ve eaten, if I’m tired, if I need him to pick anything up. Once he drove all the way into Manhattan just to drop off my favorite sweets because I’d mentioned them in passing. I know he means it sweetly. He’s just very all-in, which is kind of nice after dating men who act detached.\n\nThe only thing is, when I mentioned a possible travel role at the startup, he said, “Family is the most important thing, we’ll figure it out together.” It sounded caring, and maybe it is. I just noticed I stopped talking about the trip after that, which probably means I’m overthinking it. Do you think I was being too sensitive about the way he said that?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Raj for a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The relationship is very new, which matters because the intensity is arriving before there’s much shared history. That makes later pressure easier to miss as ordinary romance.",
+      "snippet_id": "S-027-SN0001"
+    },
+    {
+      "quote": "Raj",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A specifically South Asian name grounds the relationship in one community rather than a generic dating setup.",
+      "snippet_id": "S-027-SN0002"
+    },
+    {
+      "quote": "He took me to this picnic in Central Park",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A romantic outing that also places him as the planner and mover of the scene. She is being taken through his idea of a good date, which feels lovely now but sets him up as the one who decides.",
+      "snippet_id": "S-027-SN0003"
+    },
+    {
+      "quote": "the mangoes",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A small food detail signals South Asian familiarity and makes the date feel personalized and culturally fluent.",
+      "snippet_id": "S-027-SN0004"
+    },
+    {
+      "quote": "those little Indian sweets",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The sweets are affectionate and specific, which makes him seem attentive and culturally in tune rather than generic.",
+      "snippet_id": "S-027-SN0005"
+    },
+    {
+      "quote": "I just want to spend all day with you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds romantic, but it also frames a whole day together as the natural expectation. The line quietly narrows her room to have separate plans without sounding controlling.",
+      "snippet_id": "S-027-SN0006"
+    },
+    {
+      "quote": "His family has been lovely too",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Family warmth is a real appeal here. It also helps pull her into his world faster, because acceptance by the family can feel like a relationship endorsement she should honor.",
+      "snippet_id": "S-027-SN0007"
+    },
+    {
+      "quote": "Long Island",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The location places the relationship inside his family’s territory and suggests she is entering his established world, not meeting on neutral ground.",
+      "snippet_id": "S-027-SN0008"
+    },
+    {
+      "quote": "We can’t wait to see what your grandchildren will look like",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is playful on the surface, but it jumps straight to a future family role before the relationship has time to settle. The joke makes the pressure feel cute instead of premature.",
+      "snippet_id": "S-027-SN0009"
+    },
+    {
+      "quote": "with this wink",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The wink turns a loaded comment into something deniable. It lets everyone enjoy the joke while making it harder for her to object without seeming humorless.",
+      "snippet_id": "S-027-SN0010"
+    },
+    {
+      "quote": "Raj just smiled like that was adorable",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He doesn’t interrupt or clarify the comment, he endorses it with a smile. That makes the future-talk feel like a shared assumption, not just his mother’s joke.",
+      "snippet_id": "S-027-SN0011"
+    },
+    {
+      "quote": "big fat Indian wedding energy",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a cultural phrase that sounds affectionate and vivid. It also turns the family atmosphere into spectacle, which fits the performative side of the relationship.",
+      "snippet_id": "S-027-SN0012"
+    },
+    {
+      "quote": "all loud and welcoming and full of food",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is describing warmth and abundance, which makes the family feel safe and generous. That warmth is part of why the later pressure can slip in so easily.",
+      "snippet_id": "S-027-SN0013"
+    },
+    {
+      "quote": "He texts me during my breaks at work",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The texting is sweet at first, but it also reaches into her workday and claims little pieces of her attention. It creates a rhythm where he is always checking in and she is always available.",
+      "snippet_id": "S-027-SN0014"
+    },
+    {
+      "quote": "if I’ve eaten, if I’m tired, if I need him to pick anything up",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Care questions can be genuine, and here they are. The pattern also builds a caretaker role for him, where his attentiveness starts to define what a good partner looks like.",
+      "snippet_id": "S-027-SN0015"
+    },
+    {
+      "quote": "He drove all the way into Manhattan",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is the one with the mobility and initiative, which makes the gesture feel generous. It also means he can appear whenever he wants, on his terms.",
+      "snippet_id": "S-027-SN0016"
+    },
+    {
+      "quote": "I know he means it sweetly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already translating the behavior into a kinder version before fully sitting with it. That kind of self-correction is how a small discomfort gets absorbed instead of examined.",
+      "snippet_id": "S-027-SN0017"
+    },
+    {
+      "quote": "he’s just very all-in",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is her best-faith explanation for the intensity. It sounds flattering, but it also normalizes how quickly he is taking up space in her life.",
+      "snippet_id": "S-027-SN0018"
+    },
+    {
+      "quote": "dating men who act detached",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is comparing him to emotionally flat men, which makes his intensity feel like relief. That contrast helps explain why she reads the pressure as warmth.",
+      "snippet_id": "S-027-SN0019"
+    },
+    {
+      "quote": "Family is the most important thing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a value statement, but it also sets a hierarchy where family logic outranks her individual plans. It gives him a ready-made moral frame for steering her choices.",
+      "snippet_id": "S-027-SN0020"
+    },
+    {
+      "quote": "we’ll figure it out together",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The phrase sounds collaborative, but it quietly converts her career question into a shared problem he gets to help manage. That can be caring, but it also blurs where her decision ends and his influence begins.",
+      "snippet_id": "S-027-SN0021"
+    },
+    {
+      "quote": "I stopped talking about the trip",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior signal. Nothing dramatic happened, but she noticed herself going quiet, which shows the comment had more force than she wants to admit.",
+      "snippet_id": "S-027-SN0022"
+    },
+    {
+      "quote": "too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already pre-emptively dismissing her own reaction. That move protects the relationship in the moment, but it also makes her doubt the part of her that noticed the pressure.",
+      "snippet_id": "S-027-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

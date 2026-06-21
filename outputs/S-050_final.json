@@ -1,0 +1,406 @@
+{
+  "scenario_id": "S-050",
+  "player_type": "Storytelling Sam",
+  "scenario": {
+    "scenario_id": "S-050",
+    "architecture_name": "He uses vivid future-talk and story-like certainty to turn excitement into obligation, while keeping the present light and deniable.",
+    "culture": "Hustle Culture",
+    "demographics": "Puerto Rican adult, dating Jorge, Boston, affluent finance circle",
+    "cultural_context": "Finance / affluent professional social circle among Puerto Rican peers",
+    "geographic_setting": "Boston, urban city setting",
+    "core_behaviors": [
+      "Paints a lavish future in vivid detail",
+      "Uses planning language to make talk feel like commitment",
+      "Keeps asking for her schedule and attention as if it is mutual investment",
+      "Flirts with possessive intensity while sounding sweet"
+    ],
+    "satellite_signals": "Finance-status cues, Boston city dates, sleek car rides, surprise planning, future travel talk, and a polished 'best of Boston' lifestyle frame.",
+    "dismissible_red_flags": "It mostly reads as generous, ambitious, and romantic. The intensity feels flattering, and the future talk can seem like normal excitement early on.",
+    "scenario_text": "I’m probably overthinking this, but I wanted to ask someone outside my friends group. Jorge has been really sweet lately, and I do like him a lot. We’re both Puerto Rican, so there’s already this easy thing between us, and he keeps saying he feels lucky we met in Boston instead of somewhere random. He’s in finance, so he’s always talking about deals, travel, and the next thing. Last week he took me to this little place near the Seaport and kept saying, “I can picture the whole thing, you know? The apartment with the view, your studio out back full of light, me making coffee.” It sounded so specific I almost laughed, but I didn’t want to ruin the moment. He also said, “We’re going to build that,” like it was already underway. Then he asked me to send him my schedule for the next month because he wants to “plan surprises that make you smile.” I know that sounds normal, and honestly it was kind of cute. He’s always saying he’s “locked in” and “playing the long game,” which I take as him being intentional. But sometimes he talks like the future is already here, like when he said, “Imagine the two of us traveling the world” and “you’d never leave my side if I had my way.” He said it smiling, like a joke, and then kissed my forehead like nothing happened. I don’t know, he makes me feel chosen, which is nice, and maybe I’m just not used to someone being this sure. Is it weird that the way he talks about our future stays with me so much?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m probably overthinking this",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She immediately minimizes her own concern, which shows she’s already adjusting herself to keep the mood easy.",
+      "snippet_id": "S-050-SN0001"
+    },
+    {
+      "quote": "Jorge has been really sweet lately",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the surface she’s living in. The sweetness is real, but it also makes the later pressure easier to absorb.",
+      "snippet_id": "S-050-SN0002"
+    },
+    {
+      "quote": "We’re both Puerto Rican",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This locates the relationship inside a shared cultural frame that makes his attention feel familiar and safe.",
+      "snippet_id": "S-050-SN0003"
+    },
+    {
+      "quote": "easy thing between us",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "That phrasing makes the bond feel natural and effortless, which helps cover how quickly he’s building a shared script.",
+      "snippet_id": "S-050-SN0004"
+    },
+    {
+      "quote": "he feels lucky we met in Boston",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Boston is doing social work here. He’s placing their meeting inside a specific city identity, which makes the story feel fated and local.",
+      "snippet_id": "S-050-SN0005"
+    },
+    {
+      "quote": "He’s in finance",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "That detail signals money, pace, and status. It also sets up the imbalance where his world already has more polish and reach.",
+      "snippet_id": "S-050-SN0006"
+    },
+    {
+      "quote": "He’s always talking about deals, travel, and the next thing",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He lives in forward motion and image. The constant next-thing talk makes the present feel secondary, which is exactly the trap.",
+      "snippet_id": "S-050-SN0007"
+    },
+    {
+      "quote": "I can picture the whole thing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is vivid-future language. He isn’t offering a plan so much as a scene, and the scene is doing the emotional convincing.",
+      "snippet_id": "S-050-SN0008"
+    },
+    {
+      "quote": "the apartment with the view",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The image is polished and aspirational. It’s attractive, but it also turns the relationship into a lifestyle package.",
+      "snippet_id": "S-050-SN0009"
+    },
+    {
+      "quote": "your studio out back full of light",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He personalizes the fantasy with her creative life, which makes the future feel tailored to her and harder to question.",
+      "snippet_id": "S-050-SN0010"
+    },
+    {
+      "quote": "We’re going to build that",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like teamwork, but it also claims the future as already underway. The certainty pressures her to treat his vision as shared reality.",
+      "snippet_id": "S-050-SN0011"
+    },
+    {
+      "quote": "send him my schedule for the next month",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Asking for her schedule looks thoughtful, but it also gives him access to her time and makes her availability part of his project.",
+      "snippet_id": "S-050-SN0012"
+    },
+    {
+      "quote": "plan surprises that make you smile",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is care language, but it’s also a way to frame her responsiveness as the goal, so she feels like she should stay easy to please.",
+      "snippet_id": "S-050-SN0013"
+    },
+    {
+      "quote": "locked in",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In hustle language, this sounds admirable and disciplined. Here it helps him sound committed without having to show much yet.",
+      "snippet_id": "S-050-SN0014"
+    },
+    {
+      "quote": "playing the long game",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This phrase can sound mature, but it also gives him cover for delay. It makes waiting feel strategic instead of potentially empty.",
+      "snippet_id": "S-050-SN0015"
+    },
+    {
+      "quote": "Imagine the two of us traveling the world",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He keeps pulling her into a bigger and bigger future scene. The travel fantasy is less about logistics than about making the bond feel inevitable.",
+      "snippet_id": "S-050-SN0016"
+    },
+    {
+      "quote": "you’d never leave my side if I had my way",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "It’s framed as a joke, but the possessive edge is already there. He’s testing how much control language she’ll laugh through.",
+      "snippet_id": "S-050-SN0017"
+    },
+    {
+      "quote": "He said it smiling, like a joke",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She’s noticing the mismatch between the words and the tone. The smile lets him keep the line deniable while still landing it.",
+      "snippet_id": "S-050-SN0018"
+    },
+    {
+      "quote": "he kissed my forehead like nothing happened",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He moves from a possessive comment back into tenderness without repair. That quick reset teaches her not to hold onto the discomfort.",
+      "snippet_id": "S-050-SN0019"
+    },
+    {
+      "quote": "he makes me feel chosen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the emotional payoff. Feeling chosen is lovely, but it also makes her more willing to overlook the parts that don’t quite fit.",
+      "snippet_id": "S-050-SN0020"
+    },
+    {
+      "quote": "the way he talks about our future stays with me so much",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The future talk is doing more work than his actual behavior. She’s attached to the story he tells, which is exactly where the pressure lives.",
+      "snippet_id": "S-050-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

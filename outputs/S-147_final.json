@@ -1,0 +1,441 @@
+{
+  "scenario_id": "S-147",
+  "player_type": "Egocentric Evan",
+  "scenario": {
+    "scenario_id": "S-147",
+    "architecture_name": "He uses praise, protection, and specialness to make himself the center of my choices and my attention.",
+    "culture": "South Asian",
+    "demographics": "First-generation Nigerian immigrant, young adult, father is a civil engineer",
+    "cultural_context": "Immigrant family life and community support within a professional middle-class setting (father is a civil engineer)",
+    "geographic_setting": "London, specifically Hackney; urban city environment",
+    "core_behaviors": [
+      "Offers help in ways that quietly create dependence",
+      "Frames his attention as proof of specialness",
+      "Uses family and cultural language to make his preferences feel like care"
+    ],
+    "satellite_signals": "He talks like a guide and benefactor, but the real pattern is that his approval becomes the thing I organize around. The compliments are big, the choices are his, and my other plans start to feel secondary.",
+    "dismissible_red_flags": "At this stage it mostly feels flattering, practical, and a bit intense. His confidence reads as maturity, and the family language makes it seem respectful rather than controlling.",
+    "scenario_text": ""
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been seeing this guy in Hackney",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places the relationship in a specific city and neighborhood. It sounds ordinary, but it also locates the social world he is moving her through.",
+      "snippet_id": "S-147-SN0001"
+    },
+    {
+      "quote": "really sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her positive framing shows she likes him and is smoothing over the small discomforts rather than centering them.",
+      "snippet_id": "S-147-SN0002"
+    },
+    {
+      "quote": "walks into a room and somehow makes you feel like he already knows where everything should go",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like confidence, but it also signals someone who assumes authority before anyone has asked for it. The room is already being organized around him.",
+      "snippet_id": "S-147-SN0003"
+    },
+    {
+      "quote": "not dramatic",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is role-casting language. He is rewarding her for being easy to manage, which makes future objections easier to dismiss.",
+      "snippet_id": "S-147-SN0004"
+    },
+    {
+      "quote": "different",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is elevating her by separating her from other women. That feels flattering now, but it also sets up a category she has to keep living up to.",
+      "snippet_id": "S-147-SN0005"
+    },
+    {
+      "quote": "pick the wine, and sort the cab",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "These are small practical choices, but together they show him taking over the logistics. It creates a pattern where he is the one moving the evening forward.",
+      "snippet_id": "S-147-SN0006"
+    },
+    {
+      "quote": "I just want to take care of you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is care language, but it also places him in the provider role and her in the receptive role. That can feel lovely at first and still quietly narrow her room to choose.",
+      "snippet_id": "S-147-SN0007"
+    },
+    {
+      "quote": "Your father would respect a man who knows what he wants",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is borrowing her father’s authority to make his own preferences sound culturally approved. In a family-centered context, that kind of reference can make his push feel hard to question.",
+      "snippet_id": "S-147-SN0008"
+    },
+    {
+      "quote": "What did you study?",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In this register, education is a status probe. It is a normal question, but it also tells him how to place her in his mental hierarchy.",
+      "snippet_id": "S-147-SN0009"
+    },
+    {
+      "quote": "You’re a good Indian girl",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is approval, but it is approval on his terms. He is defining what kind of woman counts as good, which makes the compliment feel warm while quietly setting a standard.",
+      "snippet_id": "S-147-SN0010"
+    },
+    {
+      "quote": "carry yourself",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That phrase sounds polite, but it is about presentation and self-management. He is praising her for fitting a look he approves of.",
+      "snippet_id": "S-147-SN0011"
+    },
+    {
+      "quote": "Why spend the night there when you could be with me?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a charming-sounding request that really redirects her time toward him. It frames his preference as the obvious choice, which makes saying no feel less natural.",
+      "snippet_id": "S-147-SN0012"
+    },
+    {
+      "quote": "We’ve got our own thing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Isolation-low",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The phrase sounds intimate and special, but it also creates a little closed world around the two of them. That can start to make outside plans feel secondary.",
+      "snippet_id": "S-147-SN0013"
+    },
+    {
+      "quote": "family dinner",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Family language matters here because it makes the invitation feel serious and respectful. It also gives him a culturally legible reason to ask for her time.",
+      "snippet_id": "S-147-SN0014"
+    },
+    {
+      "quote": "my cousin",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is one of the relationships that matters to her outside him. Mentioning it makes the tension about time and loyalty feel more real.",
+      "snippet_id": "S-147-SN0015"
+    },
+    {
+      "quote": "He said my cousin would understand",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is deciding what someone else would feel, which lets him override her actual plan without sounding forceful. Her small hesitation is already being translated into his version of the situation.",
+      "snippet_id": "S-147-SN0016"
+    },
+    {
+      "quote": "pulled in two directions",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is noticing a split in her loyalties, even if she does not name it as a problem. That feeling matters because it shows the relationship is already asking for more of her attention than feels simple.",
+      "snippet_id": "S-147-SN0017"
+    },
+    {
+      "quote": "He’s just very sure of himself",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She is translating a pushy quality into confidence. That is a common early rationalization when someone’s certainty starts to crowd out her own preferences.",
+      "snippet_id": "S-147-SN0018"
+    },
+    {
+      "quote": "he does make me feel chosen",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is the emotional payoff of the whole pattern. Being chosen feels good, and that feeling can make the earlier nudges toward dependence seem harmless.",
+      "snippet_id": "S-147-SN0019"
+    },
+    {
+      "quote": "I’m probably overthinking it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already doubting her own read before the issue has even been discussed. That self-check is small, but it shows how quickly his confidence is becoming the default.",
+      "snippet_id": "S-147-SN0020"
+    },
+    {
+      "quote": "the comment about my cousin stuck with me a little",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the part that lingers because it was not just a joke to her. She is not alarmed, but she can feel that the comment carried more pressure than it first appeared to.",
+      "snippet_id": "S-147-SN0021"
+    },
+    {
+      "quote": "too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the likely self-question behind her final line. It shows how quickly the burden shifts from his comment to her reaction.",
+      "snippet_id": "S-147-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

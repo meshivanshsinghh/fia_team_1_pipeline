@@ -1,0 +1,491 @@
+{
+  "scenario_id": "S-163",
+  "player_type": "Domineering Devin",
+  "scenario": {
+    "scenario_id": "S-163",
+    "architecture_name": "He recruits me into a safer, simpler life by taking over my schedule, money, and decisions, then makes that feel like care and seriousness.",
+    "culture": "Tradwife-Recruiting",
+    "demographics": "Young adult woman, early 20s, ASU student, part-time supermarket worker, small craft jewelry business; man in late 20s, salaried professional, Phoenix city environment.",
+    "cultural_context": "College student balancing classes, part-time supermarket work, and a small craft jewelry business",
+    "geographic_setting": "Phoenix, Arizona; university/city environment",
+    "core_behaviors": [
+      "Takes over logistics and calls it care",
+      "Turns routine and planning into moral authority",
+      "Frames future provision as relief from responsibility",
+      "Uses traditional roles to make her compliance feel natural"
+    ],
+    "satellite_signals": "Tradwife language, Phoenix/ASU setting, work-and-school overload, future marriage talk, schedule tracking, conservative presentation, financial rescue framing.",
+    "dismissible_red_flags": "He seems organized, protective, and genuinely invested. His questions and planning can read as thoughtful, especially when she is busy and tired.",
+    "scenario_text": "I’m still kind of new at ASU, and Phoenix feels bigger than I expected, so I’ve liked having Devin around. He’s 29, works in commercial insurance downtown, and he has this very steady, old-school way of talking that makes everything sound sorted out. He’ll say things like, “I want to take care of you,” and it does feel sweet when I’m coming off a supermarket shift and trying to keep up with my jewelry orders too.\n\nHe’s the one who picks the restaurant, the route, even the time, because he says he likes to handle things. Last week he booked this little dinner by Roosevelt Row right when I’d planned to work on earrings, and I just told myself it was nice to be included. He keeps saying I’m “so feminine” and “such a good mother one day,” which is a little funny because we’ve only been seeing each other a couple months, but I know he means it as a compliment.\n\nHe also asks about my class schedule a lot, and my work schedule, and when I’m packing orders for my jewelry page. He says it helps him plan surprises, and honestly he does remember everything. The other day he told me, really casually, that when we get married I won’t have to worry about money anymore because that’s the man’s job. I know some girls would roll their eyes, but after splitting everything with my ex, it sounded kind of peaceful.\n\nHe’s very clear about wanting a simple life, a real home, all that. I like that he’s intentional. I just sometimes notice I’m moving things around more than I used to, and I keep saying yes because it does feel good to be looked after. Am I being weird that his comment about my schedule stuck with me a little?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m still kind of new at ASU",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Small context marker. It places her in a new, transitional stage where being guided can feel comforting rather than suspicious.",
+      "snippet_id": "S-163-SN0001"
+    },
+    {
+      "quote": "Phoenix feels bigger than I expected",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "City-size and unfamiliarity make his guidance feel useful. The setting quietly sets up dependence without making it look ominous.",
+      "snippet_id": "S-163-SN0002"
+    },
+    {
+      "quote": "He’s 29",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Age gap is modest, but it still gives him a little more life experience and confidence in the relationship.",
+      "snippet_id": "S-163-SN0003"
+    },
+    {
+      "quote": "works in commercial insurance downtown",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Professional stability and city status give him more structural confidence. It also makes his opinions feel like the adult, settled ones in the room.",
+      "snippet_id": "S-163-SN0004"
+    },
+    {
+      "quote": "I want to take care of you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-low",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Sounds affectionate, but it already assigns him the role of manager and her the role of recipient. Care is being offered as a position, not just a feeling.",
+      "snippet_id": "S-163-SN0005"
+    },
+    {
+      "quote": "coming off a supermarket shift",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Her labor is visible here. The contrast with his steadier schedule makes his help feel generous and makes her more likely to accept his framing.",
+      "snippet_id": "S-163-SN0006"
+    },
+    {
+      "quote": "trying to keep up with my jewelry orders too",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This shows she is juggling work and a small business, which makes his simplification of her life feel appealing. It also hints that her time is already stretched thin.",
+      "snippet_id": "S-163-SN0007"
+    },
+    {
+      "quote": "He’s the one who picks the restaurant",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is deciding the scene, not just suggesting it. The surface is romantic planning, but the habit trains her to accept his choices as the default.",
+      "snippet_id": "S-163-SN0008"
+    },
+    {
+      "quote": "the route",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Transportation control is small but meaningful. Whoever chooses the route gets to shape the pace, timing, and direction of the night.",
+      "snippet_id": "S-163-SN0009"
+    },
+    {
+      "quote": "the time",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is not just planning, he is setting the terms. That can feel efficient now, but it also narrows her room to object later.",
+      "snippet_id": "S-163-SN0010"
+    },
+    {
+      "quote": "I just told myself it was nice to be included",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already translating his choice into gratitude. That little self-talk matters because it shows she is absorbing the imbalance instead of naming it.",
+      "snippet_id": "S-163-SN0011"
+    },
+    {
+      "quote": "so feminine",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a role-casting compliment. It flatters her by rewarding a narrow version of womanhood, which makes future pushback feel like failing the role.",
+      "snippet_id": "S-163-SN0012"
+    },
+    {
+      "quote": "such a good mother one day",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is early future-casting. He is evaluating her through a domestic role she has not chosen yet, which quietly pulls her toward his preferred life script.",
+      "snippet_id": "S-163-SN0013"
+    },
+    {
+      "quote": "we’ve only been seeing each other a couple months",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-low",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She notices the mismatch between the short timeline and the big compliments. She does not reject it, but the timing is enough to make her pause.",
+      "snippet_id": "S-163-SN0014"
+    },
+    {
+      "quote": "He also asks about my class schedule a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the first real monitoring move. It can sound like interest, but it also lets him map her day and start occupying it.",
+      "snippet_id": "S-163-SN0015"
+    },
+    {
+      "quote": "my work schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her labor schedule is becoming relationship data. That gives him leverage over when she is available and what she can say yes to.",
+      "snippet_id": "S-163-SN0016"
+    },
+    {
+      "quote": "packing orders for my jewelry page",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This shows her independent work outside the relationship. The fact that he tracks it too makes his interest feel supportive while it also keeps tabs on her time.",
+      "snippet_id": "S-163-SN0017"
+    },
+    {
+      "quote": "it helps him plan surprises",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The surprise framing softens the surveillance. He gets access to her schedule by making it sound romantic and thoughtful.",
+      "snippet_id": "S-163-SN0018"
+    },
+    {
+      "quote": "when we get married",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Future-talk is doing a lot here. Marriage is being used as the point where his role over her life becomes normal and permanent.",
+      "snippet_id": "S-163-SN0019"
+    },
+    {
+      "quote": "that’s the man’s job",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is traditional language, but it also closes off shared decision-making. He is defining the structure of the relationship as settled fact.",
+      "snippet_id": "S-163-SN0020"
+    },
+    {
+      "quote": "it sounded kind of peaceful",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is drawn to the relief of not having to manage everything. That relief is understandable, but it also makes surrender feel like comfort.",
+      "snippet_id": "S-163-SN0021"
+    },
+    {
+      "quote": "a simple life",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the lifestyle pitch. Simplicity sounds wholesome, but in this context it also means fewer choices and more of his structure.",
+      "snippet_id": "S-163-SN0022"
+    },
+    {
+      "quote": "I like that he’s intentional",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is using his preferred virtue word to explain away the pressure. Intentional can be good, but here it is also the name she gives to control.",
+      "snippet_id": "S-163-SN0023"
+    },
+    {
+      "quote": "I’m moving things around more than I used to",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior signal. Her life is already bending around his preferences, even though nothing overtly bad has happened.",
+      "snippet_id": "S-163-SN0024"
+    },
+    {
+      "quote": "his comment about my schedule",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The closing question stays small on purpose, but the schedule comment matters because it is where his care starts to feel like management.",
+      "snippet_id": "S-163-SN0025"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

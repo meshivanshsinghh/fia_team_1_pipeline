@@ -1,0 +1,399 @@
+{
+  "scenario_id": "S-051",
+  "player_type": "Tornado Toby",
+  "scenario": {
+    "scenario_id": "S-051",
+    "architecture_name": "He turns attention into a private world around us, then lets his excitement pull me out of my own schedule and into his.",
+    "culture": "Old-Money WASP",
+    "demographics": "Young adult woman, Ethan is a young adult man; both from rural Kentucky, dating at the University of Kentucky",
+    "cultural_context": "College student social sphere with strong rural/farm upbringing and family-farm dating context",
+    "geographic_setting": "University of Kentucky / Lexington, Kentucky; rural Kentucky farm background",
+    "core_behaviors": [
+      "Surprise gestures that feel thoughtful but quietly reroute her time",
+      "Constant texting and future-talk that make her feel specially chosen",
+      "Spontaneous weekend plans that invite her into his world while crowding out her own"
+    ],
+    "satellite_signals": "Old-money-coded restraint is used as the aesthetic for his enthusiasm, with phrases like 'little taste of home,' 'our future adventures,' and 'best of both our worlds.' His attention is warm, fast, and slightly engulfing, but still reads as flattering rather than controlling.",
+    "dismissible_red_flags": "His intensity could pass as sincere college romance, and the scheduling clashes are easy to excuse as normal spontaneity. The constant contact feels sweet because he is attentive, not cold, and he does not seem mean or manipulative.",
+    "scenario_text": "I met Ethan through a friend at UK, and he’s from a farm not far from mine, which already made him feel easy to talk to. He has this way of sounding like he’s already halfway into a plan, even when he’s just asking what I’m doing later. Last week he showed up with a little picnic basket and said he wanted to give me a taste of home, which was honestly sweet. Nobody has ever said things like that to me with a straight face and meant them.\n\nHe texts all day, mostly little check-ins, and I do like that he thinks about me. It’s kind of nice to be somebody’s first thought. He’ll send me a photo of his porch, then a voice note, then a random idea about coming home for the weekend because he can’t wait to show me around his family’s farm. He says it like he’s inviting me into something private and special, not just making plans.\n\nThe only thing is, his plans seem to arrive with a kind of force. I’ll be in the middle of studying and he’ll say, “Come on, you can read anytime,” like my afternoon is just sitting there waiting for us. He doesn’t mean it rudely. He just gets so lit up about the next thing that I end up rearranging myself around it. I tell myself that’s part of what makes him fun. He’s not boring, and he’s not fake, and I’d rather have someone a little too excited than someone who barely looks up from his phone.\n\nStill, I noticed I’ve started checking my calendar before I answer him, which feels silly this early. Is it weird that I like how much he wants me around, but I’m also a little aware of how fast I say yes?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Ethan through a friend at UK",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places the relationship in a specific college and regional setting. It is ordinary context, but it also tells us she is young, local, and socially embedded.",
+      "snippet_id": "S-051-SN0001"
+    },
+    {
+      "quote": "he’s from a farm not far from mine",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Shared rural background is part of why he feels safe and familiar. The common origin builds trust quickly, which makes his later pull feel natural rather than alarming.",
+      "snippet_id": "S-051-SN0002"
+    },
+    {
+      "quote": "he has this way of sounding like he’s already halfway into a plan",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He moves ahead of the moment and treats future action as already underway. That kind of momentum is charming early on, but it also means she is often reacting to his next idea instead of choosing freely.",
+      "snippet_id": "S-051-SN0003"
+    },
+    {
+      "quote": "a little picnic basket",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The gift is sweet and personalized, which is why it lands so well. It also sets up emotional debt, because the romance is tied to a gesture that makes her feel unusually chosen.",
+      "snippet_id": "S-051-SN0004"
+    },
+    {
+      "quote": "wanted to give me a taste of home",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds tender on the surface, but it frames him as the one packaging her own background for her. He gets to define her home as something he is delivering, which quietly places him in the role of interpreter and giver.",
+      "snippet_id": "S-051-SN0005"
+    },
+    {
+      "quote": "Nobody has ever said things like that to me with a straight face and meant them",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already moved by the sincerity and rarity of his attention. The line shows how quickly his warmth becomes emotionally persuasive, because being believed and singled out feels unusually good.",
+      "snippet_id": "S-051-SN0006"
+    },
+    {
+      "quote": "He texts all day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Constant contact is flattering at first, but it also creates a steady expectation of access. Even before it feels burdensome, it starts to make her availability part of the relationship's background condition.",
+      "snippet_id": "S-051-SN0007"
+    },
+    {
+      "quote": "It’s kind of nice to be somebody’s first thought",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is enjoying the feeling of being centered, which is understandable. The risk is that being his first thought can become a role she feels pressure to keep performing.",
+      "snippet_id": "S-051-SN0008"
+    },
+    {
+      "quote": "a random idea about coming home for the weekend",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The plan appears suddenly and carries the energy of an impulse more than a settled arrangement. That makes her schedule secondary to whatever excitement arrives in the moment.",
+      "snippet_id": "S-051-SN0009"
+    },
+    {
+      "quote": "show me around his family’s farm",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The farm is a real family setting, but here it also becomes the place where he folds her into his world. The invitation sounds intimate, yet it nudges her toward his geography, his rhythm, and his version of closeness.",
+      "snippet_id": "S-051-SN0010"
+    },
+    {
+      "quote": "He says it like he’s inviting me into something private and special",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She feels elevated by the intimacy of the invitation. That feeling is part of the trap, because specialness makes it harder to notice when her own preferences are being displaced.",
+      "snippet_id": "S-051-SN0011"
+    },
+    {
+      "quote": "his plans seem to arrive with a kind of force",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The phrase captures how his spontaneity is not just casual, it has momentum that others have to absorb. Even without overt pressure, the force of his enthusiasm starts steering the evening.",
+      "snippet_id": "S-051-SN0012"
+    },
+    {
+      "quote": "Come on, you can read anytime",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds playful, but it dismisses her study time as flexible and unimportant. He is quietly redefining what counts as a valid use of her time, which puts his desire above her plan.",
+      "snippet_id": "S-051-SN0013"
+    },
+    {
+      "quote": "my afternoon is just sitting there waiting for us",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is starting to think of her own time as available by default. That internal shift matters, because it shows how quickly his urgency becomes the frame she uses for her day.",
+      "snippet_id": "S-051-SN0014"
+    },
+    {
+      "quote": "I end up rearranging myself around it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest early sign of the imbalance. She is not just making room for him, she is beginning to organize herself around his impulses, which is exactly how the pattern deepens.",
+      "snippet_id": "S-051-SN0015"
+    },
+    {
+      "quote": "I tell myself that’s part of what makes him fun",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is actively translating a possible problem into a positive trait. That self-talk is a classic early rationalization, because his liveliness is real and she wants to keep it that way.",
+      "snippet_id": "S-051-SN0016"
+    },
+    {
+      "quote": "He’s not boring, and he’s not fake",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is defending his sincerity before anyone has challenged it. The line shows how much she values his authenticity, which makes her less likely to notice when his excitement starts crowding her out.",
+      "snippet_id": "S-051-SN0017"
+    },
+    {
+      "quote": "I’ve started checking my calendar before I answer him",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the practical result of his spontaneity. She is adapting her life around his timing before she has even named the issue, which shows the relationship is already training her to be more available.",
+      "snippet_id": "S-051-SN0018"
+    },
+    {
+      "quote": "I like how much he wants me around",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She enjoys feeling wanted, which is understandable and flattering. But wanting her around this much can become a demand for constant presence rather than just affection.",
+      "snippet_id": "S-051-SN0019"
+    },
+    {
+      "quote": "I’m also a little aware of how fast I say yes",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Compliance"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The final beat shows she can feel her own speed in agreeing, even if she is not naming why. That awareness is small, but it is the first sign that his momentum is shaping her responses.",
+      "snippet_id": "S-051-SN0020"
+    }
+  ],
+  "validation_warnings": [
+    "snippet[19]: unes_trait 'Compliance' missing -high/-low suffix"
+  ],
+  "repetition_warnings": []
+}

@@ -1,0 +1,440 @@
+{
+  "scenario_id": "S-135",
+  "player_type": "Storytelling Sam",
+  "scenario": {
+    "scenario_id": "S-135",
+    "architecture_name": "He uses vivid future talk and role-assignment to make me feel chosen while quietly turning my patience into the price of staying in the story.",
+    "culture": "Modern Orthodox Jewish",
+    "demographics": "Orthodox Jewish woman; adult; married or family-oriented; works in Brooklyn corporate law",
+    "cultural_context": "Prestigious corporate legal workplace; professional career development in a high-status law-firm environment",
+    "geographic_setting": "Brooklyn corporate law firm, with ties to Manhattan",
+    "core_behaviors": [
+      "Paints a detailed future that feels like commitment",
+      "Invites me to invest in the fantasy so it feels mutual",
+      "Uses warm praise to make ordinary delays feel like care"
+    ],
+    "satellite_signals": "Modern Orthodox references to shul, family nights, and being a good team; corporate-law status with Manhattan prestige; late-night texts and team-dinner language that blur work and romance.",
+    "dismissible_red_flags": "He seems enthusiastic, flattering, and career-minded, so the late-night attention and dinner invite can read as thoughtful mentoring rather than pressure.",
+    "scenario_text": "I only started at the Brooklyn firm two weeks ago, and honestly, I like him. He came in from a Manhattan shop, which everyone keeps saying is a big deal, and he has this way of making the room feel lighter when he talks. Yesterday he leaned over my desk and said, “I can picture the whole thing. You leading the project, the team dinner, the next step, all of it.” I laughed because it sounded so good, and because I wanted to believe him. He said I was exactly what the firm needs, which was sweet, maybe a little much, but sweet.\n\nThen he asked if I’d thought about where I’d want to move if the next round really opened up. He said, “Start thinking about it seriously. Wherever we end up, it’s your call. We’re a team now.” That made me feel oddly proud, like he was already including me in something bigger. He also texted me after 10 about a new matter he wants me on, with little lines like, “I trust you to handle this perfectly” and “this is just the beginning.”\n\nThe only thing that sat with me was the dinner. He picked a night I usually go to my in-laws for Shabbos prep and said it would be good for visibility, then smiled and added, “We can make it work. It’s just one evening.” He said it so warmly that I felt silly even hesitating. Baruch Hashem, it’s exciting to be noticed like this, and I do think he sees something real in me. I just don’t know why the plans always sound so far ahead of the actual calendar. Am I overthinking the way he talked about the dinner?"
+  },
+  "snippets": [
+    {
+      "quote": "I only started at the Brooklyn firm two weeks ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Sets the workplace and the early stage. It also shows how new and impressionable the situation is, which makes the praise land harder.",
+      "snippet_id": "S-135-SN0001"
+    },
+    {
+      "quote": "He came in from a Manhattan shop",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is class and status shorthand. In this world, a Manhattan firm carries prestige, so his background gives him instant authority before he’s done anything at all.",
+      "snippet_id": "S-135-SN0002"
+    },
+    {
+      "quote": "he has this way of making the room feel lighter",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is presenting himself as socially magnetic. That kind of charm can be real, but it also makes people lower their guard before they’ve had time to evaluate him.",
+      "snippet_id": "S-135-SN0003"
+    },
+    {
+      "quote": "I can picture the whole thing",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the vivid-future move. He is selling certainty through imagination, which feels intimate, but it is still only a picture.",
+      "snippet_id": "S-135-SN0004"
+    },
+    {
+      "quote": "You leading the project, the team dinner, the next step, all of it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He bundles work, social time, and future plans into one confident storyline. It sounds supportive, but it also places him in the role of narrator for her next moves.",
+      "snippet_id": "S-135-SN0005"
+    },
+    {
+      "quote": "You're exactly what the firm needs",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is flattering in a very polished way. The phrase makes her feel selected and useful, which is pleasant now and can become a hook later.",
+      "snippet_id": "S-135-SN0006"
+    },
+    {
+      "quote": "a little much, but sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already noticing the excess, then softening it immediately. That little hedge is the first sign she’s managing his intensity for him.",
+      "snippet_id": "S-135-SN0007"
+    },
+    {
+      "quote": "if I’d thought about where I’d want to move",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is asking her to invest in a future he has not actually built. The question sounds collaborative, but it quietly recruits her into his plan.",
+      "snippet_id": "S-135-SN0008"
+    },
+    {
+      "quote": "Start thinking about it seriously",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a disguised directive. He frames his preference as shared seriousness, which makes it harder for her to simply say no.",
+      "snippet_id": "S-135-SN0009"
+    },
+    {
+      "quote": "Wherever we end up, it’s your call",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds generous, but the bigger decision is already being steered by him. He offers her a choice inside a structure he controls.",
+      "snippet_id": "S-135-SN0010"
+    },
+    {
+      "quote": "We’re a team now",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The pronoun is doing work here. It creates a couple identity before there is real mutuality, which makes her feel obligated to align with him.",
+      "snippet_id": "S-135-SN0011"
+    },
+    {
+      "quote": "He also texted me after 10",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Late-night contact is not automatically bad, but in context it keeps her emotionally on call. The timing matters because it pulls work and private life into one stream.",
+      "snippet_id": "S-135-SN0012"
+    },
+    {
+      "quote": "I trust you to handle this perfectly",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Praise plus pressure. He makes her feel capable while also setting a standard that is hard to question, because who wants to disappoint someone who ‘trusts’ them?",
+      "snippet_id": "S-135-SN0013"
+    },
+    {
+      "quote": "this is just the beginning",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is classic future-as-prologue language. It makes the present feel provisional and turns the relationship into an unfolding promise instead of a concrete reality.",
+      "snippet_id": "S-135-SN0014"
+    },
+    {
+      "quote": "He picked a night I usually go to my in-laws for Shabbos prep",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The scheduling conflict is specific to her life, not his. That makes the ask feel like it’s costing her something real, even if he presents it as a normal work dinner.",
+      "snippet_id": "S-135-SN0015"
+    },
+    {
+      "quote": "it would be good for visibility",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Superficiality-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is status language. It sounds professional, but it also nudges her toward sacrificing family time for his idea of advancement and appearance.",
+      "snippet_id": "S-135-SN0016"
+    },
+    {
+      "quote": "We can make it work",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds flexible, but it actually closes the conversation. The phrase makes the obstacle feel solved before she has really agreed.",
+      "snippet_id": "S-135-SN0017"
+    },
+    {
+      "quote": "It’s just one evening",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Minimization"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He minimizes the cost of the request. One evening is small on paper, but he is asking her to trade away a family night and not name that loss.",
+      "snippet_id": "S-135-SN0018"
+    },
+    {
+      "quote": "Baruch Hashem",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A standard Orthodox phrase. It grounds the narrator in her community and helps show how naturally she folds the whole thing into her ordinary religious vocabulary.",
+      "snippet_id": "S-135-SN0019"
+    },
+    {
+      "quote": "I do think he sees something real in me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is trying to hold onto the good interpretation. The line shows how much she wants his attention to mean something solid, not just flattering.",
+      "snippet_id": "S-135-SN0020"
+    },
+    {
+      "quote": "the plans always sound so far ahead of the actual calendar",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the clearest seam. She notices that his language lives in the future while the real schedule stays vague, which is exactly how the hook works.",
+      "snippet_id": "S-135-SN0021"
+    },
+    {
+      "quote": "Am I overthinking the way he talked about the dinner?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The question is small on purpose, which makes it believable. She is not asking whether he is manipulative, just whether the dinner comment was too much to read into.",
+      "snippet_id": "S-135-SN0022"
+    }
+  ],
+  "validation_warnings": [
+    "snippet[17]: unes_trait 'Minimization' missing -high/-low suffix"
+  ],
+  "repetition_warnings": []
+}

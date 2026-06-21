@@ -1,0 +1,466 @@
+{
+  "scenario_id": "S-164",
+  "player_type": "Egocentric Evan",
+  "scenario": {
+    "scenario_id": "S-164",
+    "architecture_name": "He turns her into proof of his taste and social centrality, then makes her gratitude the price of staying in his orbit.",
+    "culture": "Old-Money WASP",
+    "demographics": "F/late 20s, boyfriend is M/early 30s, old-money New England background, living with her mother in Daly City",
+    "cultural_context": "Family-centered domestic life with strong mother-child enmeshment and social/community gatherings",
+    "geographic_setting": "Daly City, suburban Bay Area home",
+    "core_behaviors": [
+      "He frames her as a prize he has selected",
+      "He keeps recentering the evening on his own taste and social pull",
+      "He treats her time and attention as something that should naturally bend toward him"
+    ],
+    "satellite_signals": "Old-money references are used as status shorthand, and his praise is always tied to display, standards, and being seen with her. The relationship feels polished and flattering, but he is quietly installing herself-as-accessory and admiration-as-duty.",
+    "dismissible_red_flags": "At first it just reads as a confident, high-standard man who likes showing her off. The little jabs are easy to excuse because they come wrapped in praise, and she likes feeling chosen.",
+    "scenario_text": "I was telling my mom I might be late to dinner when Evan texted that he’d already made a reservation at the club and that I should just come straight from work. He does that a lot, like he’s taking care of the whole shape of the evening before I’ve even thought about it. Honestly, it’s kind of nice. I don’t have to manage anything with him.\n\nWhen I got there, he stood up right away and said, “There she is. I told them you’d be the best-looking woman in the room.” His friends smiled, and one of them said something about my dress, and Evan just laughed and said, “I know. I’ve got good taste.” It made me blush, in a good way. He’s very proud, which is sweet.\n\nHe kept introducing me to people as if I were the most interesting part of the night. “This is the one I was telling you about,” he kept saying, and then he’d pull me in with his hand at my back like he was placing me where he wanted me. I like that he’s not shy about us. It feels old-school in a nice way.\n\nLater, when I said I should probably head out early because my mom was waiting, he did that little pause he does and said, “You’re not really going to leave me hanging already, are you?” He smiled, so I laughed too, but I also felt a tiny guilty twinge, like maybe I was being boring. He said, “No, no, go be dutiful. I just wanted one more drink with you.”\n\nHe always makes me feel like I’m the lucky one, which is probably why I keep saying yes to things I’d normally think about more. Do you think I was being too sensitive about the leaving-early comment?"
+  },
+  "snippets": [
+    {
+      "quote": "I was telling my mom I might be late to dinner",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Shows the domestic, family-centered setting right away. It also quietly establishes that her time is already spoken for, so his later pressure has a real place to land.",
+      "snippet_id": "S-164-SN0001"
+    },
+    {
+      "quote": "Evan texted that he’d already made a reservation at the club",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He has already decided the plan and the venue, which puts him in the driver’s seat before she even responds. The club also does old-money work, since it signals a world he can move through fluently.",
+      "snippet_id": "S-164-SN0002"
+    },
+    {
+      "quote": "just come straight from work",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds helpful on the surface, but it is also a directive. He is telling her how the evening will run, and she is expected to fit herself around it.",
+      "snippet_id": "S-164-SN0003"
+    },
+    {
+      "quote": "He does that a lot",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She has already normalized his habit of arranging things for her. That’s the early sign that his taking over reads as care instead of interference.",
+      "snippet_id": "S-164-SN0004"
+    },
+    {
+      "quote": "it’s kind of nice",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is her own softening language. She is enjoying the convenience and the attention, which makes the control easier to miss because it feels gracious rather than intrusive.",
+      "snippet_id": "S-164-SN0005"
+    },
+    {
+      "quote": "I don’t have to manage anything with him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That relief is the hook. He is making himself feel like ease, while also becoming the person who decides, organizes, and sets the terms.",
+      "snippet_id": "S-164-SN0006"
+    },
+    {
+      "quote": "There she is",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "It sounds affectionate, but it also makes her arrival into a little performance. He is announcing her to the room, which turns her into part of his display.",
+      "snippet_id": "S-164-SN0007"
+    },
+    {
+      "quote": "you’d be the best-looking woman in the room",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is pedestal praise, but it is all about appearance and comparison. He is not just complimenting her, he is placing her in a ranking that reflects well on him.",
+      "snippet_id": "S-164-SN0008"
+    },
+    {
+      "quote": "I know. I’ve got good taste",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The compliment loops back to him. She becomes evidence of his discernment, so the praise is really a self-portrait with her in it.",
+      "snippet_id": "S-164-SN0009"
+    },
+    {
+      "quote": "He kept introducing me to people",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is controlling the social frame, deciding how she is presented and received. That can feel flattering, but it also makes him the gatekeeper of her place in the room.",
+      "snippet_id": "S-164-SN0010"
+    },
+    {
+      "quote": "as if I were the most interesting part of the night",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She enjoys being singled out, but the phrasing shows how easily she is being folded into his performance. The night is being organized around his attention, and she is grateful for the role.",
+      "snippet_id": "S-164-SN0011"
+    },
+    {
+      "quote": "This is the one I was telling you about",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He has already been narrating her to other people, which makes her feel chosen and known. At the same time, it quietly turns her into a story he owns before she has much say in it.",
+      "snippet_id": "S-164-SN0012"
+    },
+    {
+      "quote": "he’d pull me in with his hand at my back",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The touch is framed as warmth, but it also steers her body through the space. It is a small physical version of the larger pattern where he places her where he wants her.",
+      "snippet_id": "S-164-SN0013"
+    },
+    {
+      "quote": "I like that he’s not shy about us",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She reads his public claiming of the relationship as devotion. That makes the asymmetry harder to notice, because being displayed feels like being loved.",
+      "snippet_id": "S-164-SN0014"
+    },
+    {
+      "quote": "It feels old-school in a nice way",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-low",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Morality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Old-school here works as a cultural excuse for hierarchy. She is translating his taking-charge behavior into something tasteful and traditional, which keeps it from feeling like pressure.",
+      "snippet_id": "S-164-SN0015"
+    },
+    {
+      "quote": "You’re not really going to leave me hanging already, are you?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a soft directive disguised as a hurt question. He is making her departure feel like a personal slight, so her ordinary plan starts to look rude.",
+      "snippet_id": "S-164-SN0016"
+    },
+    {
+      "quote": "He smiled, so I laughed too",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is following his cue instead of her own reaction. That tiny self-edit is important because it shows how quickly his charm turns into emotional steering.",
+      "snippet_id": "S-164-SN0017"
+    },
+    {
+      "quote": "I felt a tiny guilty twinge",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The guilt is the signal that the comment worked. He did not need to forbid her from leaving, because he made her feel as if leaving required apology.",
+      "snippet_id": "S-164-SN0018"
+    },
+    {
+      "quote": "go be dutiful",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a polished little command. It sounds playful, but it assigns her a role and makes compliance feel like virtue.",
+      "snippet_id": "S-164-SN0019"
+    },
+    {
+      "quote": "I just wanted one more drink with you",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He closes the pressure with softness, which makes it harder to object. The need is framed as romantic, but the effect is still to keep her from leaving when she said she should.",
+      "snippet_id": "S-164-SN0020"
+    },
+    {
+      "quote": "He always makes me feel like I’m the lucky one",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "That’s the emotional payoff he is building toward. She feels selected and fortunate, which makes the little losses of autonomy easier to excuse.",
+      "snippet_id": "S-164-SN0021"
+    },
+    {
+      "quote": "I keep saying yes to things I’d normally think about more",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest sign that the dynamic is already changing her behavior. She is noticing that she is yielding more than she usually would, even though nothing overtly bad has happened.",
+      "snippet_id": "S-164-SN0022"
+    },
+    {
+      "quote": "too sensitive about the leaving-early comment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The question is tiny on purpose, but it points to the real issue: whether her discomfort counts. She is asking about her reaction instead of his pressure, which is exactly how these moments stay small.",
+      "snippet_id": "S-164-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

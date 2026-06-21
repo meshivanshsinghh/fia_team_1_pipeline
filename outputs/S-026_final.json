@@ -1,0 +1,441 @@
+{
+  "scenario_id": "S-026",
+  "player_type": "Dependent Drew",
+  "scenario": {
+    "scenario_id": "S-026",
+    "architecture_name": "He turns adoration into dependency by making my attention feel like the thing that steadies him, so I start organizing myself around his needs.",
+    "culture": "Polyamorous",
+    "demographics": "Adult Cuban-American narrator; adult Nigerian man; Miami social circle",
+    "cultural_context": "Community salsa night and close-knit Cuban-American social circle in Miami",
+    "geographic_setting": "Little Havana, Miami; urban Cuban-American community setting",
+    "core_behaviors": [
+      "Warm, adoring attention that feels unusually intimate",
+      "Small handoffs of planning and reassurance framed as trust",
+      "Soft dependence that makes me feel chosen and essential"
+    ],
+    "satellite_signals": "Poly register is mostly in the background, with a close-knit Miami social circle, bilingual warmth, and the sense that everyone knows everyone. His charm is sincere on the surface, but it keeps sliding into needing me to manage his feelings and plans.",
+    "dismissible_red_flags": "At this stage it mostly reads like extra interest, sweetness, and wanting to be included. The calls, texts, and schedule jokes are easy to take as playful affection, especially in a community where people stay in touch.",
+    "scenario_text": "I met Justin at salsa night in Little Havana, and he was just easy to be around from the start. He has this warm smile, and when he talks to me it feels like he is really there, not half on his phone like some people. After we danced, he said, “You’re so fun to talk to, I wish I could chat all day,” and I laughed because it was sweet, not cheesy. A few days later he texted me, “I love how your calendar is always full. Do I need to clear my schedule to get on it?” I told him he was being dramatic and he sent back a little heart and said, “Maybe, but I like having a reason to be available.” That part stayed with me more than it should have.\n\nHe keeps asking me to help him with tiny things, like which Cuban place to try or whether his work email sounds too stiff. He says I have better instincts than he does, which is flattering because I do like being useful. Once he asked me to look at a message before he sent it and said, “You always know what to say.” I was happy to do it. It felt like trust.\n\nThe only thing that has me a little in my head is how quickly he checks in if I go quiet. If I’m slow to reply, he’ll say, “You okay? I miss your voice.” It’s very cute, honestly. I just don’t want to make him feel weird for caring. He also keeps saying things like, “I’m better when you’re around,” and “You steady me.” I think he means it in a nice way. Still, I’m not sure if I’m supposed to answer every text that fast or if I’m making too much of it. Am I overthinking the way he keeps saying he needs me?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Justin at salsa night in Little Havana",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places him inside the Miami Cuban-American social world. It is ordinary scene-setting, but it also roots the relationship in a tight community where attention travels fast.",
+      "snippet_id": "S-026-SN0001"
+    },
+    {
+      "quote": "he was just easy to be around from the start",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She reads him as low-drama and pleasant, which is appealing early. The phrase also hints at emotional flatness being mistaken for steadiness.",
+      "snippet_id": "S-026-SN0002"
+    },
+    {
+      "quote": "warm smile",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A simple charm marker. It matters because his warmth is the entry point for the later dependence, not because the smile itself is suspicious.",
+      "snippet_id": "S-026-SN0003"
+    },
+    {
+      "quote": "really there, not half on his phone",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He gives full attention, which feels unusually good after people who are distracted. The appeal is real, but it also sets up her to value his presence as a scarce resource.",
+      "snippet_id": "S-026-SN0004"
+    },
+    {
+      "quote": "You’re so fun to talk to, I wish I could chat all day",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering, but it already makes her a source of his emotional lift. The compliment is doing relationship labor, turning ordinary conversation into proof that she matters a lot to him.",
+      "snippet_id": "S-026-SN0005"
+    },
+    {
+      "quote": "I love how your calendar is always full",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He notices her availability and turns it into a little joke about access. The surface is playful, but the deeper move is that her schedule becomes something he is already measuring himself against.",
+      "snippet_id": "S-026-SN0006"
+    },
+    {
+      "quote": "Do I need to clear my schedule to get on it?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds cute, but it is also a bid for priority. He frames his availability as proof of care, which makes her feel responsible for granting him access.",
+      "snippet_id": "S-026-SN0007"
+    },
+    {
+      "quote": "Maybe, but I like having a reason to be available",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He openly likes needing a reason to orient his time around her. That sounds sweet in the moment, but it hints that his availability is becoming organized around her response.",
+      "snippet_id": "S-026-SN0008"
+    },
+    {
+      "quote": "help him with tiny things",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The tasks are small, but the pattern matters. He is already leaning on her for decisions, which can look like trust while quietly making her the default problem-solver.",
+      "snippet_id": "S-026-SN0009"
+    },
+    {
+      "quote": "which Cuban place to try",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a community-specific detail that grounds the scene in shared local food and place knowledge. It also shows him asking her to guide him through her world.",
+      "snippet_id": "S-026-SN0010"
+    },
+    {
+      "quote": "whether his work email sounds too stiff",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is outsourcing a basic adult judgment to her. It feels intimate and flattering, but it also starts the habit of her regulating his functioning.",
+      "snippet_id": "S-026-SN0011"
+    },
+    {
+      "quote": "You have better instincts than he does",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is praise, but it quietly assigns her the expert role. Being the one with better instincts sounds nice until she is expected to carry his decisions too.",
+      "snippet_id": "S-026-SN0012"
+    },
+    {
+      "quote": "You always know what to say",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He casts her as his emotional interpreter. That feels affirming because it recognizes her, but it also makes her responsible for smoothing his feelings.",
+      "snippet_id": "S-026-SN0013"
+    },
+    {
+      "quote": "I was happy to do it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her willingness is sincere, and that is what makes the pattern work. She is already adapting to his need because it feels good to be relied on.",
+      "snippet_id": "S-026-SN0014"
+    },
+    {
+      "quote": "It felt like trust",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She interprets the handoff as intimacy rather than burden. That is exactly why this kind of dependency lands well early on: it reads as being chosen.",
+      "snippet_id": "S-026-SN0015"
+    },
+    {
+      "quote": "You okay? I miss your voice",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate, but it also turns her silence into his distress. The message is that her responsiveness is part of his emotional stability.",
+      "snippet_id": "S-026-SN0016"
+    },
+    {
+      "quote": "It’s very cute, honestly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is actively softening the pressure by reading it as cute. That rationalization is the protective move that keeps the concern from becoming a concern.",
+      "snippet_id": "S-026-SN0017"
+    },
+    {
+      "quote": "I don’t want to make him feel weird for caring",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is already managing his feelings around her own discomfort. That is a small but important sign that his need is starting to outrank her own ease.",
+      "snippet_id": "S-026-SN0018"
+    },
+    {
+      "quote": "I’m better when you’re around",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest dependency line. It sounds romantic, but it also makes her presence a requirement for him to function well.",
+      "snippet_id": "S-026-SN0019"
+    },
+    {
+      "quote": "You steady me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He gives her the job of regulation in a phrase that sounds tender. That is the seed of a relationship where she is expected to keep him calm, not just care about him.",
+      "snippet_id": "S-026-SN0020"
+    },
+    {
+      "quote": "I’m not sure if I’m supposed to answer every text that fast",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The issue is not the texting itself but how quickly she is starting to calibrate her behavior around him. She is noticing the pace shift, even while trying to make it normal.",
+      "snippet_id": "S-026-SN0021"
+    },
+    {
+      "quote": "Am I overthinking the way he keeps saying he needs me?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the real question underneath the small surface concern. She is trying to decide whether his need is just sweet affection or the beginning of a role she will have to carry.",
+      "snippet_id": "S-026-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

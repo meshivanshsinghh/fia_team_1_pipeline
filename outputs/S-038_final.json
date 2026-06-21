@@ -1,0 +1,434 @@
+{
+  "scenario_id": "S-038",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-038",
+    "architecture_name": "He uses dry, deniable critiques to keep me chasing his approval while I stay easygoing and small.",
+    "culture": "Hustle Culture",
+    "demographics": "42-year-old Latina woman; 28-year-old Italian man; dating / newly met",
+    "cultural_context": "Urban professional dating scene; financial analyst in a cosmopolitan city, interacting with an aspiring musician",
+    "geographic_setting": "Downtown Miami, with a date at Versailles Cuban restaurant and a beach setting",
+    "core_behaviors": [
+      "Uses teasing as intimacy and a test",
+      "Frames honesty as superiority and warmth as fake",
+      "Withholds clean approval so praise feels scarce"
+    ],
+    "satellite_signals": "Hustle-culture status talk, Miami professional dating, Versailles/Cuban restaurant setting, beach/sunrise intimacy, his dry observations, her pressure to stay chill and not seem needy.",
+    "dismissible_red_flags": "He mostly sounds witty, direct, and a little intense, which can read as chemistry. The small hooks in his compliments are easy to dismiss as banter or cultural sarcasm.",
+    "scenario_text": "I met Blake on Hinge last week, and honestly he’s been fun in a way I wasn’t expecting. He works in private equity downtown, says he’s always locked in, and he has that dry little way of talking that makes everything sound like a joke. On Friday he took me to Versailles and kept saying, “You’re not one of those girls who needs a whole production, right?” which made me laugh because I do hate overdone dates. He ordered for both of us and said I was “surprisingly easy” to be with, like that was a compliment. I probably liked that too much.\n\nAfter dinner we walked by the beach and he kept doing these tiny comments, like, “Careful, you’re getting a little too confident there,” then he’d grin and bump my shoulder like he was letting me in on the joke. He also said his exes were always “making things awkward” and that he likes a woman who can take a joke and not get bent out of shape. I told him I’m pretty chill, and he said, “Yeah, I can tell. You’re low-maintenance in a good way.”\n\nThe weird part is he’ll say he’s not trying to flatter me, he just likes being real, which sounds kind of refreshing after guys who overdo it. And he does have this funny, almost sweet side when he’s telling stories about work or his family, so I keep thinking maybe I’m just not used to someone this direct. Still, every so often he’ll do that little half-smirk and say something like, “You’re cute when you try to be tough,” and I can’t tell if I’m supposed to laugh or prove him wrong. I did laugh, because it seemed easier. Am I overthinking the way he jokes with me?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-038-SN0001",
+      "snippet_text": "I met Blake on Hinge last week",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple dating-app placement. It situates the relationship as new and casual, which makes the later testing feel plausible rather than overtly alarming."
+    },
+    {
+      "snippet_id": "S-038-SN0002",
+      "snippet_text": "he’s been fun in a way I wasn’t expecting",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She’s already registering surprise at how much she likes him. That kind of pleasant disorientation is exactly what makes the later hooks land."
+    },
+    {
+      "snippet_id": "S-038-SN0003",
+      "snippet_text": "He works in private equity downtown",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places him in a high-status hustle-culture lane and gives him the default authority that comes with money, fluency, and access."
+    },
+    {
+      "snippet_id": "S-038-SN0004",
+      "snippet_text": "he’s always locked in",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In this register, being 'locked in' sounds admirable, disciplined, and ambitious. Early on, that can also mean his priorities are fixed and nonnegotiable."
+    },
+    {
+      "snippet_id": "S-038-SN0005",
+      "snippet_text": "that dry little way of talking",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The dryness reads as wit, but it also cues a style that can slip into little cuts. She likes the edge before she has to live with it."
+    },
+    {
+      "snippet_id": "S-038-SN0006",
+      "snippet_text": "You’re not one of those girls who needs a whole production, right?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "This sounds like praise, but it’s really a test. He’s defining the kind of woman he prefers as low-effort and self-suppressing, so any future need can be framed as a problem."
+    },
+    {
+      "snippet_id": "S-038-SN0007",
+      "snippet_text": "I do hate overdone dates",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She uses his frame to justify her own comfort. That makes it easier for her to accept the role he’s assigning, even when it narrows her room to object."
+    },
+    {
+      "snippet_id": "S-038-SN0008",
+      "snippet_text": "He ordered for both of us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A small act of taking over can feel thoughtful on a first date. Structurally, it puts him in the deciding position while she goes along politely."
+    },
+    {
+      "snippet_id": "S-038-SN0009",
+      "snippet_text": "surprisingly easy",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The compliment is hooked to an expectation that she might have been difficult. She’s being rewarded for not being a burden, which is a useful setup for later."
+    },
+    {
+      "snippet_id": "S-038-SN0010",
+      "snippet_text": "you’re getting a little too confident there",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is the Backhanded Blake move in miniature. It sounds playful, but it quietly polices her confidence and makes him the judge of how much self-assurance is allowed."
+    },
+    {
+      "snippet_id": "S-038-SN0011",
+      "snippet_text": "he’d grin and bump my shoulder",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The touch helps disguise the jab as intimacy. She gets warmth and a correction at the same time, which makes the correction harder to name."
+    },
+    {
+      "snippet_id": "S-038-SN0012",
+      "snippet_text": "his exes were always “making things awkward”",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Conflict-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He’s already casting former partners as the problem. That’s a classic setup for making any future complaint sound like the same old awkwardness."
+    },
+    {
+      "snippet_id": "S-038-SN0013",
+      "snippet_text": "he likes a woman who can take a joke",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "In this culture, that sounds like being cool, self-possessed, and fun. But it also pre-authorizes him to keep pushing while making her the one who has to prove she can handle it."
+    },
+    {
+      "snippet_id": "S-038-SN0014",
+      "snippet_text": "not get bent out of shape",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This phrase makes normal hurt feelings sound childish. It pressures her to stay smooth and agreeable, because reacting would make her look like the problem."
+    },
+    {
+      "snippet_id": "S-038-SN0015",
+      "snippet_text": "I’m pretty chill",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She answers his test by volunteering the identity he wants. That’s the start of self-editing, where staying attractive means staying easy."
+    },
+    {
+      "snippet_id": "S-038-SN0016",
+      "snippet_text": "low-maintenance in a good way",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is approval with a built-in condition. She is being praised for needing little, which quietly teaches her that asking for more would cost her the relationship."
+    },
+    {
+      "snippet_id": "S-038-SN0017",
+      "snippet_text": "he’s not trying to flatter me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She’s trying to protect his directness from seeming manipulative. That rationalization is useful because it lets her reinterpret discomfort as maturity on his part."
+    },
+    {
+      "snippet_id": "S-038-SN0018",
+      "snippet_text": "he just likes being real",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "In hustle culture, 'real' can mean no fake praise and no softness. Here it works as a shield for critique, so anything hurtful can be sold as honesty."
+    },
+    {
+      "snippet_id": "S-038-SN0019",
+      "snippet_text": "that little half-smirk",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The expression matters because it shows the pleasure he takes in the edge of the comment. It’s not just what he says, it’s that he enjoys leaving the hook in."
+    },
+    {
+      "snippet_id": "S-038-SN0020",
+      "snippet_text": "You’re cute when you try to be tough",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a clean example of praise used as correction. He reduces her toughness to something cute and manageable, which makes her want to prove herself instead of pushing back."
+    },
+    {
+      "snippet_id": "S-038-SN0021",
+      "snippet_text": "I did laugh, because it seemed easier",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the key absorption moment. She’s already choosing his comfort and the relationship’s smoothness over naming the sting, which is how the pattern gets to keep going."
+    },
+    {
+      "snippet_id": "S-038-SN0022",
+      "snippet_text": "Am I overthinking the way he jokes with me?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The closing question is small on purpose, but it points to the real issue. She’s asking about one joke because that’s the socially acceptable size of the concern she can admit to herself."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,32 +1,30 @@
 {
   "scenario_id": "S-003",
-  "player_type": "Backhanded Blake",
+  "player_type": "Avoidant Alex",
   "scenario": {
     "scenario_id": "S-003",
-    "architecture_name": "He uses her cultural specificity as an exotic credential he collects, then closes any objection with a \"you're being sensitive\" reframe that makes her doubt her own read.",
-    "culture": "Red Pill",
-    "demographics": "F/27 Mexican-American, M/30 white, New Mexico",
-    "cultural_context": "Early-stage romantic relationship, family cultural practices",
-    "geographic_setting": "New Mexico",
+    "architecture_name": "He makes closeness feel special and temporary so I start treating his distance as something I should accommodate.",
+    "culture": "Polyamorous",
+    "demographics": "27-year-old Mexican woman, 30-year-old white man",
+    "cultural_context": "Early-stage interracial dating; family-oriented Mexican-American/Latina food and heritage practices; casual arts-and-crafts social setting",
+    "geographic_setting": "Road trip through New Mexico; small art booth / casual travel setting",
     "core_behaviors": [
-      "Frames her cultural practices as rare and exceptional to install debt and gratitude",
-      "Uses racialized typecasting dressed as compliments, then DARVO-lites any pushback",
-      "Positions himself as the honest truth-teller who sees her more clearly than she sees herself"
+      "Praises independence while quietly rewarding self-silencing",
+      "Uses anti-label language to keep the relationship undefined",
+      "Makes withdrawal sound like honesty, rhythm, or self-care"
     ],
-    "satellite_signals": "Honesty-as-superiority framing ('I'm just real with you'); exception-bait separating her from other women and from her own culture; backhanded compliments with immediate 'I'm kidding, relax' cover; mobility/resource asymmetry (he planned the route, drove); racialized typecasting embedded in compliments ('your whole beautiful Mexican thing').",
-    "dismissible_red_flags": "His cultural enthusiasm reads as genuine appreciation; the 'sensitive' reframe is easy to absorb as her overreacting to an awkward compliment; his honesty framing sounds like respect rather than approval-withholding.",
-    "scenario_text": "I've been seeing this guy, Cody, for about six weeks. He's 30, grew up in Albuquerque, works in commercial real estate. Smart, dry sense of humor, really sure of himself. He said on our second date that he doesn't do fake compliments, which honestly felt refreshing after guys who just tell you what you want to hear.\n\nLast weekend we did a road trip through the northern part of the state. I packed tamales and agua fresca because that's what my family always does on long drives. Cody got this look on his face like I'd handed him something priceless. \"Nobody does this. My ex would've just wanted to stop at a Starbucks. She wasn't real like you.\"\n\nIt felt good to hear. I know it's a compliment. But I also noticed he said it while comparing me to her, and I couldn't tell if he was saying something nice about me or something not-nice about her, or both.\n\nWe stopped at a little market in Chimayó and I picked up a woven table runner, the kind my abuela has had forever. He put his arm around me and said, \"Of course you'd go for that. It's part of your whole... beautiful Mexican thing.\" He said it warmly, like he was proud of me for being exactly what he expected.\n\nI said something like, that's a weird way to put it. He laughed. \"I'm literally complimenting you. Don't make it a thing.\"\n\nSo I let it go. Everything else about the trip was genuinely fun, and I didn't want to be the person who turns a nice moment into a whole conversation. He's told me a few times that he likes that I'm not dramatic, and I guess I just... wanted to stay that person for him.\n\nI keep coming back to that comment though. Is it weird that it's still sitting with me?"
+    "satellite_signals": "Polyamorous register is used as a soft cover for noncommitment, with phrases like no labels, space, and rhythm doing the real work. The narrator reads his distance as maturity because he is charming, calm, and careful with words.",
+    "dismissible_red_flags": "Early-stage warmth, honesty about needing space, and a dislike of labels can all seem healthy at first. His calm delivery makes the distance feel thoughtful instead of withholding.",
+    "scenario_text": "I met Eli at a little art booth outside Santa Fe, and he had that calm, put-together way of talking that makes everything feel easy. He told me he liked that I had my own life going on, which honestly felt sweet. Most guys either get weird about how busy I am or act like they need constant texts. He didn’t. He just smiled and said, “That’s refreshing.”\n\nWe drove up to Taos last weekend, and when I offered him the tamales and agua fresca I’d packed, he looked genuinely touched. He said, “You’re the kind of person who makes things feel real.” I liked that. It made me feel seen, not just looked at. Later, when I mentioned my friend Marisol’s state-of-the-union conversation with her nesting partner, he laughed and said he was glad we were “keeping this light” and not making it a whole thing.\n\nThat part stayed with me a little. I asked if he meant he didn’t want to talk about what we were doing, and he said, “Why ruin what we have with pressure? I like this exactly how it is.” He said it softly, like he was protecting something delicate. I told myself he was probably just being careful, and honestly I do like that he isn’t clingy.\n\nAfter dinner he kissed me at my door and said, “I’m not fully ready for anything serious yet, but I really like being with you.” It sounded honest, not cruel. He texted the next morning, “I’m here when I’m here. That’s the best I can promise right now.” I guess I just keep feeling lucky that he’s so clear with me, even when the clarity leaves a little space I’m not sure what to do with. Is it weird that the “keeping this light” comment stayed with me?"
   },
   "snippets": [
     {
-      "quote": "Cody, for about six weeks. He's 30, grew up in Albuquerque, works in commercial real estate.",
+      "quote": "little art booth outside Santa Fe",
       "kind_of_signal": [
-        "Cultural/Demographic Information",
-        "Power Information"
+        "Cultural/Demographic Information"
       ],
       "unes_traits": [
-        "Grandiosity-high",
-        "Sense of Self-high"
+        "Not Found"
       ],
       "unmet_need": [
         "Not Found"
@@ -34,167 +32,108 @@
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "His specifics locate him precisely: white, 30, commercial real estate in Albuquerque. That professional and regional identity carries class and cultural authority she doesn't name but the gap is present in the scene.",
+      "reasoning": "The setting locates them in a specific travel-and-art context without needing explanation. It helps make the relationship feel casual and early-stage, which is exactly why the later distancing can pass as normal.",
       "snippet_id": "S-003-SN0001"
     },
     {
-      "quote": "he doesn't do fake compliments",
+      "quote": "that calm, put-together way of talking",
       "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
+        "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Disrespect-high",
-        "Validation-seeking-low",
-        "Deception-low"
+        "Charm-high",
+        "Superficiality-high",
+        "Intensity-low"
       ],
       "unmet_need": [
-        "Worth",
         "Reality"
       ],
       "possible_trauma": [
-        "Gaslighting (DARVO)"
+        "Emotional Neglect"
       ],
-      "reasoning": "Honesty-as-superiority frame installed on the second date. By declaring fake compliments beneath him, he licenses future withholding and critique as integrity. She can't later object to a sting without seeming like she wanted the fake version.",
+      "reasoning": "He presents as polished and easy, which reads as attractive at first. The surface calm also makes it easier for him to keep emotional distance without it looking like a problem.",
       "snippet_id": "S-003-SN0002"
     },
     {
-      "quote": "which honestly felt refreshing after guys who just tell you what you want to hear",
+      "quote": "I had my own life going on",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like praise, but it quietly defines the ideal partner as someone who does not ask for much. She starts feeling that wanting more time or closeness would make her less appealing.",
+      "snippet_id": "S-003-SN0003"
+    },
+    {
+      "quote": "That’s refreshing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "A small compliment, but it rewards her for being easy to manage. It frames his low availability as a virtue and sets up a standard where her needs should stay light.",
+      "snippet_id": "S-003-SN0004"
+    },
+    {
+      "quote": "You’re the kind of person who makes things feel real",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is flattering her in a way that makes her feel chosen and special. The praise is vague enough to be seductive, but it also makes her feel responsible for supplying the feeling of reality in the relationship.",
+      "snippet_id": "S-003-SN0005"
+    },
+    {
+      "quote": "I liked that",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
         "Trust-high",
-        "Accountability-low"
-      ],
-      "unmet_need": [
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "She's absorbed his framing as her own conclusion. The contrast-with-previous-men move has already worked: she's reading his approval-withholding as a virtue, not a warning.",
-      "snippet_id": "S-003-SN0003"
-    },
-    {
-      "quote": "I packed tamales and agua fresca because that's what my family always does on long drives",
-      "kind_of_signal": [
-        "Cultural/Demographic Information"
-      ],
-      "unes_traits": [
-        "Not Found"
-      ],
-      "unmet_need": [
-        "Not Found"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "Cultural grounding detail. Her family practice is ordinary and specific to her. Its function in the scene is to give him material to frame as exceptional — which is the next move.",
-      "snippet_id": "S-003-SN0004"
-    },
-    {
-      "quote": "Cody got this look on his face like I'd handed him something priceless",
-      "kind_of_signal": [
-        "Behavioral Red Flag"
-      ],
-      "unes_traits": [
-        "Deception-low",
-        "Charm-low",
-        "Control-high"
+        "Attachment-high"
       ],
       "unmet_need": [
         "Worth"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Not Found"
       ],
-      "reasoning": "The performed amazement is the entry move. He's installing the frame that her ordinary cultural practice is extraordinary — which makes her feel indebted and positions him as the one who truly sees her value.",
-      "snippet_id": "S-003-SN0005"
-    },
-    {
-      "quote": "Nobody does this.",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Grandiosity-high",
-        "Control-high",
-        "Deception-low"
-      ],
-      "unmet_need": [
-        "Worth",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "Scarcity framing. He's declaring her cultural practice rare, which elevates her but also begins the process of separating her from her own community — as if what her family does is not a family thing but a her thing he's discovered.",
+      "reasoning": "She is already adjusting herself around his praise, which shows how quickly she absorbs his framing. The line is small, but it shows her leaning toward his approval instead of checking whether the compliment actually fits.",
       "snippet_id": "S-003-SN0006"
     },
     {
-      "quote": "My ex would've just wanted to stop at a Starbucks. She wasn't real like you.",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Disrespect-high",
-        "Inconsistency-high",
-        "Empathy-low"
-      ],
-      "unmet_need": [
-        "Worth",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Humiliation",
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "Exception-bait with a devaluation built in. He elevates her by diminishing another woman, and the word 'real' does double work: it compliments her while installing the category she must stay inside. If she ever wants something he doesn't like, she risks becoming the Starbucks ex.",
-      "snippet_id": "S-003-SN0007"
-    },
-    {
-      "quote": "I know it's a compliment. But I also noticed he said it while comparing me to her",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Cognitive Flexibility-low",
-        "Empathy-low"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "She registers the structure of the compliment — that it requires a loser — but immediately talks herself back toward the positive reading. The self-correction ('I know it's a compliment') is the absorption move.",
-      "snippet_id": "S-003-SN0008"
-    },
-    {
-      "quote": "I couldn't tell if he was saying something nice about me or something not-nice about her, or both",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Inconsistency-high",
-        "Disrespect-high"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Fairness"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "She's correctly reading the ambiguity. The compliment is structured so that both readings are true simultaneously. Her uncertainty here is accurate perception, not oversensitivity — but she won't name it that way.",
-      "snippet_id": "S-003-SN0009"
-    },
-    {
-      "quote": "a woven table runner, the kind my abuela has had forever",
+      "quote": "state-of-the-union conversation",
       "kind_of_signal": [
         "Cultural/Demographic Information"
       ],
@@ -207,198 +146,225 @@
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "Another ordinary cultural detail — family-inherited aesthetic, specific to her grandmother. Like the tamales, its function is to give him material to typecast.",
-      "snippet_id": "S-003-SN0010"
+      "reasoning": "This is polyamory-specific language, and it places the scene inside a relationship culture where check-ins are normal. That makes his later refusal to define things feel more reasonable than it should.",
+      "snippet_id": "S-003-SN0007"
     },
     {
-      "quote": "Of course you'd go for that.",
+      "quote": "nesting partner",
       "kind_of_signal": [
-        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This term marks the poly register clearly. It also signals that structured relationships and explicit arrangements are normal in her world, which is why his vagueness can hide inside a framework that values openness.",
+      "snippet_id": "S-003-SN0008"
+    },
+    {
+      "quote": "keeping this light",
+      "kind_of_signal": [
         "Loaded Language"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Disrespect-high",
-        "Empathy-low"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "Observation-as-cover. He's predicting her taste as if she's a type he's already mapped. The 'of course' removes her individual choice and replaces it with his category — she didn't pick the runner, her 'Mexican thing' did.",
-      "snippet_id": "S-003-SN0011"
-    },
-    {
-      "quote": "It's part of your whole... beautiful Mexican thing.",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Disrespect-high",
-        "Control-high",
-        "Grandiosity-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Worth",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Humiliation",
-        "Coercive Control"
-      ],
-      "reasoning": "This is the load-bearing seedling. The pause before 'beautiful' and the word 'thing' reduce her cultural identity to an aesthetic collection he finds appealing. He's not seeing her; he's curating her. The warmth in his delivery is what makes it hard to name — he's proud of her for being exactly the type he expected.",
-      "snippet_id": "S-003-SN0012"
-    },
-    {
-      "quote": "He said it warmly, like he was proud of me for being exactly what he expected.",
-      "kind_of_signal": [
-        "Internal Red Flag",
-        "Behavioral Red Flag"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Empathy-low",
-        "Deception-low"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She notices the structure — proud of her for meeting his expectation — and names it accurately. Being proud of someone for conforming to a type is not the same as seeing them. She registers this but doesn't yet have language for why it feels off.",
-      "snippet_id": "S-003-SN0013"
-    },
-    {
-      "quote": "I said something like, that's a weird way to put it.",
-      "kind_of_signal": [
-        "Behavioral Red Flag"
       ],
       "unes_traits": [
         "Conflict-low",
-        "Accountability-low"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Fairness"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "She raised a mild objection — the smallest possible version of naming what happened. What follows is the DARVO-lite move that closes the moment without engaging it.",
-      "snippet_id": "S-003-SN0014"
-    },
-    {
-      "quote": "He laughed. 'I'm literally complimenting you. Don't make it a thing.'",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Accountability-low",
-        "Disrespect-high",
-        "Empathy-low",
-        "Conflict-low"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Fairness",
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)",
-        "Humiliation"
-      ],
-      "reasoning": "The laugh is the deniability wrapper. 'Literally complimenting you' is a disowning move — it replaces the actual content of what he said with his declared intent. 'Don't make it a thing' is the thought-terminating close: it positions her objection as the problem rather than the comment. She has to either drop it or become the person who makes things into things.",
-      "snippet_id": "S-003-SN0015"
-    },
-    {
-      "quote": "So I let it go.",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Conflict-low",
-        "Accountability-low"
+        "Control-high",
+        "Inconsistency-high"
       ],
       "unmet_need": [
         "Agency",
-        "Fairness"
+        "Reality"
       ],
       "possible_trauma": [
-        "Coercive Control",
         "Gaslighting (DARVO)"
       ],
-      "reasoning": "Rationalization beat that closes the load-bearing moment. She absorbed the reframe and stood down. The passivity is quiet — 'let it go' registers as her choice, not as a concession she was maneuvered into.",
-      "snippet_id": "S-003-SN0016"
+      "reasoning": "This is a classic soft-pressure phrase. It sounds considerate, but it steers the relationship away from clarity and makes her feel like she would be the one making things heavy if she asked for more.",
+      "snippet_id": "S-003-SN0009"
     },
     {
-      "quote": "He's told me a few times that he likes that I'm not dramatic",
+      "quote": "not making it a whole thing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is pre-emptively defining her potential questions as overreaction. That makes ordinary curiosity feel like drama, which narrows the room she has to ask for clarity.",
+      "snippet_id": "S-003-SN0010"
+    },
+    {
+      "quote": "Why ruin what we have with pressure?",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He turns a reasonable relationship question into something that sounds destructive. The move is gentle, but it shifts the burden onto her to justify wanting basic definition.",
+      "snippet_id": "S-003-SN0011"
+    },
+    {
+      "quote": "I like this exactly how it is",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
+        "Attachment-low",
         "Control-high",
-        "Disrespect-high",
-        "Validation-seeking-low"
+        "Goal Persistence-low"
       ],
       "unmet_need": [
-        "Autonomy",
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "Exception-bait installed across multiple prior moments. By praising her for not being dramatic, he's built a role she must maintain. Raising the 'Mexican thing' comment now risks reclassifying her as the dramatic type he said he didn't like. The compliment is a preemptive silencer.",
-      "snippet_id": "S-003-SN0017"
-    },
-    {
-      "quote": "I guess I just... wanted to stay that person for him.",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Validation-seeking-high",
-        "Sense of Self-low"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Worth",
+        "Connection",
         "Agency"
       ],
       "possible_trauma": [
-        "Coercive Control",
-        "Gaslighting (DARVO)"
+        "Emotional Neglect"
       ],
-      "reasoning": "This is the most diagnostic interior moment in the scenario. She's not describing who she is — she's describing who she's performing for him. The ellipsis marks the moment she caught herself, but she doesn't follow it. Her sense of self is already being organized around his approval category.",
-      "snippet_id": "S-003-SN0018"
+      "reasoning": "This is the clearest early version of the trap. He is enjoying closeness while explicitly refusing growth or commitment, which leaves her holding the uncertainty alone while he keeps the benefit of access.",
+      "snippet_id": "S-003-SN0012"
     },
     {
-      "quote": "Is it weird that it's still sitting with me?",
+      "quote": "I’m not fully ready for anything serious yet",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Conflict-low",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is honest, but it is also a built-in limit on the relationship. Because he says it softly and early, she is encouraged to treat his unavailability as temporary rather than structural.",
+      "snippet_id": "S-003-SN0013"
+    },
+    {
+      "quote": "I really like being with you",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The line gives her just enough reassurance to stay engaged. It creates a pattern where he can offer warmth without offering any actual forward motion.",
+      "snippet_id": "S-003-SN0014"
+    },
+    {
+      "quote": "I’m here when I’m here",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest statement of intermittent availability. It sounds casual and self-aware, but it also normalizes his on-and-off presence and makes her adapt to his rhythm.",
+      "snippet_id": "S-003-SN0015"
+    },
+    {
+      "quote": "That’s the best I can promise right now",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Goal Persistence-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He caps the relationship at minimal certainty while sounding reasonable. The phrase is gentle, but it quietly trains her to accept scraps of commitment as the maximum she should expect.",
+      "snippet_id": "S-003-SN0016"
+    },
+    {
+      "quote": "the clarity leaves a little space",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Sense of Self-low"
+        "Attachment-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She can feel that his honesty is not actually giving her what she wants, but she still turns that discomfort into a minor personal puzzle. That is the early self-doubt that keeps the pattern going.",
+      "snippet_id": "S-003-SN0017"
+    },
+    {
+      "quote": "Is it weird that the “keeping this light” comment stayed with me?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Attachment-high"
       ],
       "unmet_need": [
         "Reality",
-        "Autonomy"
+        "Connection"
       ],
       "possible_trauma": [
-        "Gaslighting (DARVO)"
+        "Not Found"
       ],
-      "reasoning": "The closing question is the smallest socially acceptable version of what's actually bothering her. She's not asking whether 'your whole beautiful Mexican thing' is a red flag — she's asking for permission to trust that something felt off. The larger question (am I being reduced to a type he's collecting?) sits unasked.",
-      "snippet_id": "S-003-SN0019"
+      "reasoning": "She is asking about the smallest socially acceptable part of the exchange, not the bigger issue of his refusal to define the relationship. That tells you the real concern is already sitting under the surface.",
+      "snippet_id": "S-003-SN0018"
     }
   ],
   "validation_warnings": [],

@@ -1,0 +1,351 @@
+{
+  "scenario_id": "S-132",
+  "player_type": "Needy Noel",
+  "scenario": {
+    "scenario_id": "S-132",
+    "architecture_name": "He uses care, reassurance, and family warmth to make my independence feel like distance from love, so I start managing his feelings before I manage my own.",
+    "culture": "Black Professional",
+    "demographics": "Young adult Nigerian-American, single, engineering student, Phoenix/Tempe with family in Boston",
+    "cultural_context": "College student in an engineering program, navigating family expectations within a Nigerian immigrant household",
+    "geographic_setting": "Phoenix/Tempe, Arizona (Arizona State University); family home in Boston",
+    "core_behaviors": [
+      "Calls and check-ins as emotional tether",
+      "Support framed as love and responsibility",
+      "Family and goals used to soften pressure"
+    ],
+    "satellite_signals": "Nigerian immigrant household; engineering student; Boston family home; ASU in Phoenix/Tempe; care packages and holiday travel as affection plus obligation.",
+    "dismissible_red_flags": "It mostly reads like a loving, involved family. The pressure is subtle because it comes wrapped in support, snacks, and concern about my goals.",
+    "scenario_text": "I’m at ASU now, and most days I really do like how far I’ve come from Boston. My mom calls a lot, but in a way that still feels warm, like she’s making sure I’m eating and not just surviving on coffee. Last night she asked if I’d gotten the jollof she sent, and then she laughed and said, “You know I’m just trying to keep you right.” That part felt sweet. She’s always been big on family unity, so I shouldn’t be surprised that she wants me home for Thanksgiving already. She even said she’d bring a few things from home if I was missing us too much. My stepdad jumped in too, saying, “A quick reply is just respectful, that’s all. It’s how we show care in this family.” He said it gently, almost like he was giving me a rule I already knew. When I told them I was making plans with friends for the weekend, my mom went quiet for a second and then said, “The people who matter make time, baby. Everything else is just excuses, don’t you think?” I didn’t want to sound ungrateful, because they really are trying. They sent me a ticket home for Thanksgiving, and I know that’s generous. It just left me feeling a little like being busy is the same as being distant. I keep telling myself they miss me because they love me, and that’s probably true. Still, I’ve started answering faster than I used to, just so nobody thinks I’m drifting. Am I overthinking the way she said I was being “too distracted from my goals”?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m at ASU now",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places her in the college setting and signals a new independent phase away from family.",
+      "snippet_id": "S-132-SN0001"
+    },
+    {
+      "quote": "far from Boston",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The distance matters because it makes family contact feel more consequential. Being away from home also makes her more dependent on calls and messages to keep the relationship emotionally present.",
+      "snippet_id": "S-132-SN0002"
+    },
+    {
+      "quote": "My mom calls a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent calling can be loving, but here it also sets a baseline of constant access. That kind of contact can quietly become an expectation rather than a choice.",
+      "snippet_id": "S-132-SN0003"
+    },
+    {
+      "quote": "making sure I’m eating",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Empathy-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "On the surface this is care, but it also keeps her in the role of someone who must be monitored and looked after. The concern is affectionate, yet it creates a tether.",
+      "snippet_id": "S-132-SN0004"
+    },
+    {
+      "quote": "You know I’m just trying to keep you right",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a loving joke, but 'keep you right' carries a corrective edge. It frames her as someone who needs guidance, which makes disagreement feel like being ungrateful.",
+      "snippet_id": "S-132-SN0005"
+    },
+    {
+      "quote": "family unity",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "In a Nigerian immigrant household, family unity is a strong moral value, so the phrase lands as virtue rather than pressure. That same value can make separation feel like disloyalty instead of normal adulthood.",
+      "snippet_id": "S-132-SN0006"
+    },
+    {
+      "quote": "bring a few things from home",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a tender gesture, but it also keeps home physically and emotionally present in a way that can make leaving harder. The care package becomes a reminder that she is still being held in the family orbit.",
+      "snippet_id": "S-132-SN0007"
+    },
+    {
+      "quote": "A quick reply is just respectful",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This plants a rule while sounding polite. It turns response speed into a moral issue, so ordinary delay starts to feel like disrespect.",
+      "snippet_id": "S-132-SN0008"
+    },
+    {
+      "quote": "it’s how we show care in this family",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The family register makes the expectation feel inherited and normal. That matters because it makes the rule harder to question without feeling like she is rejecting the whole family system.",
+      "snippet_id": "S-132-SN0009"
+    },
+    {
+      "quote": "The people who matter make time",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a soft test disguised as wisdom. It turns availability into proof of love, which puts her in the position of proving herself through her schedule.",
+      "snippet_id": "S-132-SN0010"
+    },
+    {
+      "quote": "Everything else is just excuses",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "That line leaves little room for her own reality. If she has school, friends, or fatigue, those things get recast as excuses instead of valid limits.",
+      "snippet_id": "S-132-SN0011"
+    },
+    {
+      "quote": "They sent me a ticket home for Thanksgiving",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A ticket is generous, but it also makes the decision feel partly made already. Once travel is paid for, saying no can feel like rejecting the gift and the people behind it.",
+      "snippet_id": "S-132-SN0012"
+    },
+    {
+      "quote": "I know that’s generous",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is actively protecting their goodness in her own mind. That kind of self-correction often shows she has already started absorbing the pressure instead of naming it.",
+      "snippet_id": "S-132-SN0013"
+    },
+    {
+      "quote": "being busy is the same as being distant",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the sentence where the emotional rule starts to settle in. It collapses ordinary independence into a relational failure, which is why she feels guilty just for having a full life.",
+      "snippet_id": "S-132-SN0014"
+    },
+    {
+      "quote": "I’ve started answering faster than I used to",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her behavior is already adapting to their expectations. She is not being forced in an obvious way, but she is reorganizing herself around their comfort.",
+      "snippet_id": "S-132-SN0015"
+    },
+    {
+      "quote": "just so nobody thinks I’m drifting",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This shows the emotional cost of the dynamic. She is managing appearances and reassurance to prevent anxiety in others, which is a quiet form of self-erasure.",
+      "snippet_id": "S-132-SN0016"
+    },
+    {
+      "quote": "too distracted from my goals",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The phrase sounds motivational, but it also positions her attention as something that can be judged from the outside. It turns ordinary college life into a loyalty test.",
+      "snippet_id": "S-132-SN0017"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

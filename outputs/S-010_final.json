@@ -1,26 +1,468 @@
 {
   "scenario_id": "S-010",
-  "player_type": "Domineering Devin",
+  "player_type": "Egocentric Evan",
   "scenario": {
     "scenario_id": "S-010",
-    "architecture_name": "He installs a gendered hierarchy disguised as spiritual discipline, absorbing her schedule, conduct, and self-expression into his system while the wellness register makes every constraint sound like growth.",
+    "architecture_name": "He uses spiritual attunement and grand romantic intensity to center himself, then makes her schedule and social world bend around his appetite for admiration.",
     "culture": "Wellness-Spiritual",
-    "demographics": "F/30 healthcare professional (RN), M/36 wellness entrepreneur, urban Pacific Northwest",
-    "cultural_context": "Healthcare worker, wellness-oriented lifestyle, dating/romantic sphere",
-    "geographic_setting": "Urban or suburban area with yoga retreat access",
+    "demographics": "Adult woman, likely white; dating an Irish man; early-stage romance",
+    "cultural_context": "Healthcare worker and wellness-oriented social sphere; modern professional dating context",
+    "geographic_setting": "Urban or suburban U.S. setting, likely centered around a hospital and wellness spaces like a yoga retreat",
     "core_behaviors": [
-      "Frames his rigid structure as spiritual discipline and offers it to her as a gift",
-      "Absorbs her schedule and daily routine into his fixed system under an efficiency rationale",
-      "Polices her self-expression in his community as conduct-as-representation",
-      "Uses wellness vocabulary to launder hierarchy as order and contempt as discernment"
+      "Uses wellness language to make his attention feel fated and generous",
+      "Turns her work schedule and plans into material for his spontaneity",
+      "Frames her as the rare woman who can keep up with him and see his future"
     ],
-    "satellite_signals": "Gendered provider framing disguised as spiritual duty; her schedule subordinated to his fixed points; community absorption replacing her independent social world; correction-as-training delivered in wellness language; merit-contempt for people she loves.",
-    "dismissible_red_flags": "His rigid routine and early schedule-merging read as admirable discipline and practical coordination; his comments about her friends sound like honest discernment rather than isolation; his conduct coaching reads as helping her fit into a new community.",
-    "scenario_text": "I've been seeing Eli for about six weeks and honestly it's been kind of wonderful. He runs a somatic healing practice out of Topanga Canyon and he's the most intentional person I've ever dated. Like, he actually has a morning practice, up at five, breathwork, journaling, the whole thing. After years of guys who couldn't commit to a gym membership, it's a lot.\n\nHe booked us into a Vipassana weekend upstate without me asking, said he could tell I needed stillness. I had to move a Saturday shift but it felt worth it. He paid for everything and when I tried to split it he just said, \"I take care of what's mine, that's not negotiable.\" Old-fashioned, maybe, but after carrying everything alone for so long it felt like exhaling.\n\nWe've started organizing my week around his schedule since his client blocks are fixed and mine flex more with shift trades. It made sense when he explained it. He calls it \"running one system instead of two fighting each other,\" which, honestly, is more structure than I've had in years.\n\nLast week he mentioned my friend Dani, the one who's been between jobs, and said she was low-vibration and he worried about how much time I spent there. He wasn't mean about it. He said he just wanted to protect my energy. I haven't texted her back yet.\n\nAt his community gathering in Topanga I told a story that got a little loud and he pulled me aside after and said, \"that's not really how we show up in this space, just something to keep in mind.\" I felt embarrassed. He said he was looking out for how I come across, which I know is true.\n\nHe's so grounded. My IFS therapist even said it sounds like I've found someone secure. I think I just need to get used to the rhythm of how he does things.\n\nIs it normal that he corrected me in front of his community, or am I being too sensitive about it?"
+    "satellite_signals": "Irish charm, hospital shifts, yoga retreat tickets, constant texting during work, future-talk, and a subtle pull toward his pace and preferences.",
+    "dismissible_red_flags": "It mostly reads as flattering intensity and thoughtful interest. The small off-note is that his sweetness keeps arriving with a little pressure on her time, attention, and availability.",
+    "scenario_text": "I started seeing David a few weeks ago, and he has this easy Irish charm that makes everything feel a little brighter. He works freelance, so he can be spontaneous in a way my hospital shifts really aren’t, and at first that just felt fun. Last weekend he surprised me with tickets to a yoga retreat and said, “I know how important yoga is for you.” I laughed because it was sweet, and also because I hadn’t really talked about it that much. He just has a way of making things feel meant to be, like when he says the universe brought us together and that he can feel my energy immediately. It sounds a bit much when I type it out, but in the moment it feels kind of lovely. He texts me through my shifts asking when I’ll be free, what my schedule looks like, if I’ve eaten, if I’ve had enough water. It’s attentive, honestly almost soothing, and he says he just wants to take care of me. The only tiny thing is that he already knows my rota better than some of my friends do, and he gets a little disappointed if I say I’m seeing people after work. He doesn’t make a scene about it. He just says things like, “Why spend your night there when we could do something good for us?” and then I feel a little silly for wanting both. He keeps telling me I’m not like other women he’s dated, that I’m the first person who really gets him, and that he can actually see a future with me. It’s flattering, and I do like him a lot, but am I overthinking the way he keeps asking about my schedule and wanting me to skip plans so we can be together?"
   },
-  "snippets": [],
-  "validation_warnings": [
-    "CRITICAL: No snippets generated in output"
+  "snippets": [
+    {
+      "quote": "I started seeing David",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The name and relationship timing situate the story immediately. It also signals that she is still in the early, impressionable phase where charm and being chosen matter a lot.",
+      "snippet_id": "S-010-SN0001"
+    },
+    {
+      "quote": "easy Irish charm",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a flattering cultural shorthand, but it also turns personality into a polished effect. The charm is part of what makes her lower her guard and accept the pace he sets.",
+      "snippet_id": "S-010-SN0002"
+    },
+    {
+      "quote": "freelance",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His flexible work schedule contrasts with her hospital shifts. That difference gives him more freedom to initiate, redirect, and define the rhythm of the relationship.",
+      "snippet_id": "S-010-SN0003"
+    },
+    {
+      "quote": "my hospital shifts",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her job is demanding and structured, which makes her easier to pull around by his spontaneity. The asymmetry is not dramatic, but it is already there in how their time works.",
+      "snippet_id": "S-010-SN0004"
+    },
+    {
+      "quote": "tickets to a yoga retreat",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A generous gesture on the surface, but it also places him in the role of planner and benefactor. The retreat is framed as care while quietly making her feel she should go along with his idea of closeness.",
+      "snippet_id": "S-010-SN0005"
+    },
+    {
+      "quote": "I know how important yoga is for you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He claims insight into what matters to her, even though she says she has not talked about it much. That creates a soft interpretive authority, where he gets to define her interests for her.",
+      "snippet_id": "S-010-SN0006"
+    },
+    {
+      "quote": "the universe brought us together",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-high",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "In this register, cosmic language makes the relationship feel ordained and special. It also raises the stakes, because if the bond is fate, ordinary hesitation starts to feel like resistance to something bigger.",
+      "snippet_id": "S-010-SN0007"
+    },
+    {
+      "quote": "I can feel my energy immediately",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is classic wellness-fluent intimacy language. It sounds tender, but it also lets him claim instant access to her inner state, which can later be used to override her own account of herself.",
+      "snippet_id": "S-010-SN0008"
+    },
+    {
+      "quote": "It sounds a bit much",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Reality-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices the excess, but only in a softened, self-questioning way. That little hesitation matters because it shows she is already registering that the pace and language are larger than the moment.",
+      "snippet_id": "S-010-SN0009"
+    },
+    {
+      "quote": "texts me through my shifts",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The contact is constant enough to become a presence in her workday. It reads as care, but it also shows how quickly he wants access to her attention and availability.",
+      "snippet_id": "S-010-SN0010"
+    },
+    {
+      "quote": "what my schedule looks like",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small but important monitoring behavior. On its own it sounds practical, but it also gives him the information needed to start organizing her time around him.",
+      "snippet_id": "S-010-SN0011"
+    },
+    {
+      "quote": "if I’ve eaten",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A caring question, but repeated care-checks can become a way of staying emotionally present all day. It builds a feeling that he is the one tracking her body and needs.",
+      "snippet_id": "S-010-SN0012"
+    },
+    {
+      "quote": "if I’ve had enough water",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is wellness-coded caretaking, which makes the monitoring feel virtuous. The structure is still one-way, though: he is positioning himself as the person who keeps her regulated.",
+      "snippet_id": "S-010-SN0013"
+    },
+    {
+      "quote": "he just wants to take care of me",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is already translating his monitoring into a benevolent story. That rationalization is important because it shows how easily care language can cover a need to be central.",
+      "snippet_id": "S-010-SN0014"
+    },
+    {
+      "quote": "he already knows my rota better than some of my friends do",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a quiet but strong sign of asymmetry. He has more detailed access to her life than some people who know her well, which makes his presence feel unusually embedded.",
+      "snippet_id": "S-010-SN0015"
+    },
+    {
+      "quote": "he gets a little disappointed",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Inconsistency-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The disappointment is mild, which is why it works. She starts adjusting to protect his mood, and that is how preference starts becoming obligation.",
+      "snippet_id": "S-010-SN0016"
+    },
+    {
+      "quote": "Why spend your night there when we could do something good for us?",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds romantic, but it quietly reframes her other plans as less worthwhile. The word us makes his preference sound mutual, even though the pressure is coming from him.",
+      "snippet_id": "S-010-SN0017"
+    },
+    {
+      "quote": "I feel a little silly for wanting both",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Autonomy-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is where the pressure lands inside her. Instead of seeing a conflict between his wants and hers, she starts treating her own independence as something slightly embarrassing.",
+      "snippet_id": "S-010-SN0018"
+    },
+    {
+      "quote": "You’re not like other women he’s dated",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is praise through comparison, which makes her feel chosen while also setting up a ranking system. The compliment depends on devaluing others, so it can always be turned against her later.",
+      "snippet_id": "S-010-SN0019"
+    },
+    {
+      "quote": "the first person who really gets him",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He casts her as uniquely capable of understanding him, which is flattering and binding. It gives her a role, not just a relationship, and that role is to keep proving she gets him.",
+      "snippet_id": "S-010-SN0020"
+    },
+    {
+      "quote": "he can actually see a future with me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Future-talk is doing a lot of emotional work here. It makes the relationship feel rare and serious before there has been much time for mutual knowledge or balance.",
+      "snippet_id": "S-010-SN0021"
+    },
+    {
+      "quote": "asking about my schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the smallest visible concern, but it is the clearest one. The schedule questions are not just interest, they are the beginning of a pattern where his access starts shaping her availability.",
+      "snippet_id": "S-010-SN0022"
+    }
   ],
+  "validation_warnings": [],
   "repetition_warnings": []
 }

@@ -1,0 +1,459 @@
+{
+  "scenario_id": "S-076",
+  "player_type": "Conspiratorial Corey",
+  "scenario": {
+    "scenario_id": "S-076",
+    "architecture_name": "He frames vigilance as care, then slowly makes himself the authority on what is real, safe, and loyal.",
+    "culture": "Conservative Sunni Muslim",
+    "demographics": "Adult woman narrator; Ahmed is a man about ten years older",
+    "cultural_context": "Muslim immigrant/community-centered social sphere built around a halal grocery store, neighborhood ties, and community-center activities",
+    "geographic_setting": "Astoria, likely Astoria in Queens, New York; urban neighborhood with a local community-center/social-club feel",
+    "core_behaviors": [
+      "He uses certainty and pattern-reading as romance",
+      "He installs himself as the one who knows who is safe",
+      "He makes privacy and loyalty feel sacred while narrowing her world"
+    ],
+    "satellite_signals": "Community-center courtship, halal grocery family business, Astoria neighborhood ties, older protective man energy, religiously coded language about trust, fitnah, and community opinion.",
+    "dismissible_red_flags": "At this stage his scrutiny reads like devotion, not suspicion. His warnings about other people can sound protective, and his desire to keep things private can seem modest and respectful.",
+    "scenario_text": "I’ve been seeing Ahmed for a couple months now, mostly around Astoria, after jummah or the badminton nights at the community center. He’s ten years older and already seems to know everybody, which honestly made me feel a little lucky. His family runs the halal grocery on the corner, and he always acts like he’s taking me into something familiar and safe when he shows me around his world.\n\nLast night he drove me home again, even though I told him I could take the train. He said, very calmly, “A man should look after what matters.” I laughed because it sounded sweet, and because he really does have that steady, deen-conscious way about him. He noticed I had my phone face-down on the seat and asked, “You hiding something from me?” in this joking tone, like he was teasing me for being shy. I said no, of course not, and he smiled like he already knew the answer.\n\nHe does that sometimes, where he points out little things and says he’s just got a good read on people. At the grocery, he told me my cousin was “a little too smooth,” and at first I thought he was being dramatic, but then I kept thinking about it. It’s weird, but I’ve started asking him what he thinks about people before I answer for myself. He says I’m too good-hearted to see snakes right away, and that he likes that about me. He also says the outside world is full of fitnah and noise, so it’s better to keep what’s ours protected.\n\nI do like how serious he is. It makes me feel chosen, not rushed. I just noticed I haven’t told my friends much about him, mostly because he says private things stay private until they’re solid. Maybe that’s normal. Is it weird that I keep wanting his read on everyone now?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been seeing Ahmed for a couple months now",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple relationship setup, but it places the courtship in the early stage and names the partner, which matters for the rest of the dynamic.",
+      "snippet_id": "S-076-SN0001"
+    },
+    {
+      "quote": "mostly around Astoria, after jummah or the badminton nights",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "These are ordinary community touchpoints, but they also show that the relationship is moving through shared religious and neighborhood spaces rather than a private dating scene.",
+      "snippet_id": "S-076-SN0002"
+    },
+    {
+      "quote": "He’s ten years older",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The age gap is small enough to be socially plausible, but it still gives him more confidence and interpretive authority in the relationship.",
+      "snippet_id": "S-076-SN0003"
+    },
+    {
+      "quote": "His family runs the halal grocery on the corner",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This locates him inside a respected local network and gives him social rootedness. It also hints that he has more community standing, which can make his judgments feel harder to question.",
+      "snippet_id": "S-076-SN0004"
+    },
+    {
+      "quote": "he always acts like he’s taking me into something familiar and safe",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The surface is protective, but the structure is that he is defining the environment for her. Safety becomes something he provides, which makes his framing harder to resist later.",
+      "snippet_id": "S-076-SN0005"
+    },
+    {
+      "quote": "Last night he drove me home again",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Transportation is a small but real asymmetry. He controls the timing and route, and she is cast as the one being escorted rather than deciding for herself.",
+      "snippet_id": "S-076-SN0006"
+    },
+    {
+      "quote": "A man should look after what matters",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a traditional masculine value, but it also assigns him the role of caretaker and authority. It can make his preferences feel morally protected.",
+      "snippet_id": "S-076-SN0007"
+    },
+    {
+      "quote": "he really does have that steady, deen-conscious way about him",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Morality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is reading his behavior through a religious approval frame. ‘Deen-conscious’ makes his control feel like piety, which is exactly why it lands as attractive.",
+      "snippet_id": "S-076-SN0008"
+    },
+    {
+      "quote": "You hiding something from me?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It is framed like a joke, but it introduces surveillance and suspicion. The question makes ordinary privacy feel like a test she has to pass.",
+      "snippet_id": "S-076-SN0009"
+    },
+    {
+      "quote": "he smiled like he already knew the answer",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the decoder stance in miniature. He acts as if his interpretation matters more than hers, which can make her doubt her own account even when nothing overt has happened.",
+      "snippet_id": "S-076-SN0010"
+    },
+    {
+      "quote": "he points out little things and says he’s just got a good read on people",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low",
+        "Cognitive Flexibility-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the self-as-decoder move. It sounds insightful, but it sets him up as the person who interprets reality for both of them.",
+      "snippet_id": "S-076-SN0011"
+    },
+    {
+      "quote": "my cousin was “a little too smooth”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He is casually casting suspicion on someone in her circle. That can seem like savvy, but it starts pruning her trust in other people.",
+      "snippet_id": "S-076-SN0012"
+    },
+    {
+      "quote": "I’ve started asking him what he thinks about people before I answer for myself",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest early shift. She is outsourcing her judgment to him, which is how the relationship starts becoming his filter on reality.",
+      "snippet_id": "S-076-SN0013"
+    },
+    {
+      "quote": "you’re too good-hearted to see snakes right away",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It is a compliment that also weakens her confidence in her own perception. He turns her kindness into a reason she should rely on him instead.",
+      "snippet_id": "S-076-SN0014"
+    },
+    {
+      "quote": "that he likes that about me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is absorbing his approval as proof that the dynamic is good. The line is small, but it shows how quickly his praise becomes emotionally sticky.",
+      "snippet_id": "S-076-SN0015"
+    },
+    {
+      "quote": "the outside world is full of fitnah and noise",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Trust-low",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In this register, fitnah is a heavy word that can be used to justify separation and caution. He is making the outside world sound contaminating, which makes retreat feel virtuous.",
+      "snippet_id": "S-076-SN0016"
+    },
+    {
+      "quote": "it’s better to keep what’s ours protected",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds romantic, but it also creates a sealed couple unit. ‘Ours’ becomes a boundary against other people, and he gets to define what protection means.",
+      "snippet_id": "S-076-SN0017"
+    },
+    {
+      "quote": "I do like how serious he is",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is drawn to the seriousness, which is understandable. The risk is that seriousness can blur into control when it starts setting the terms of the relationship.",
+      "snippet_id": "S-076-SN0018"
+    },
+    {
+      "quote": "It makes me feel chosen, not rushed",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This captures the emotional hook. Being chosen feels good, and the speed problem gets recast as devotion instead of something to question.",
+      "snippet_id": "S-076-SN0019"
+    },
+    {
+      "quote": "I haven’t told my friends much about him",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The secrecy is still voluntary here, but it is already shrinking her support system. That is often how isolation starts, with a feeling that privacy is the same as loyalty.",
+      "snippet_id": "S-076-SN0020"
+    },
+    {
+      "quote": "private things stay private until they’re solid",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a tidy rule that sounds mature, but it can also block outside perspective. He gets to decide when the relationship is ‘solid,’ which delays any check on his behavior.",
+      "snippet_id": "S-076-SN0021"
+    },
+    {
+      "quote": "I keep wanting his read on everyone now",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Enmeshment-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the quiet end point of the pattern already visible. Her own judgment is starting to feel secondary, and his interpretation is becoming the default.",
+      "snippet_id": "S-076-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

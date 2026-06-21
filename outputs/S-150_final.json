@@ -1,0 +1,411 @@
+{
+  "scenario_id": "S-150",
+  "player_type": "Menacing Marley",
+  "scenario": {
+    "scenario_id": "S-150",
+    "architecture_name": "He builds seriousness through taking over the logistics, then turns closeness into a quiet expectation that she trims her own life around him.",
+    "culture": "Modern Orthodox Jewish",
+    "demographics": "Young adult Jewish couple; narrator appears female, early relationship stage",
+    "cultural_context": "Jewish family and social life centered around Shabbat dinners, family approval, and relationship courtship",
+    "geographic_setting": "New York City, specifically Brooklyn/Prospect Park",
+    "core_behaviors": [
+      "Takes charge of plans and presentation as proof of seriousness",
+      "Uses care language to normalize monitoring and priority demand",
+      "Frames togetherness as romantic while nudging her away from friends"
+    ],
+    "satellite_signals": "Shabbat dinner, family approval, Prospect Park walks, and Brooklyn references make the relationship feel locally grounded and respectable while he quietly sets the terms of contact and time.",
+    "dismissible_red_flags": "His intensity reads as devotion, his planning reads as thoughtfulness, and his jokes about time together can be brushed off as affectionate early-couple talk.",
+    "scenario_text": "I keep thinking about how easy it has been with him. We met through friends in Brooklyn, and he already knew the rhythm of Shabbat dinners and who sits where, which was kind of nice because I didn’t have to explain anything. Last Friday he came over with flowers, asked if he should lead Kiddush, and then just did it so naturally that my dad smiled the whole time. Afterward he stacked the plates and said, \"I take care of my woman,\" like it was the most ordinary thing in the world.\n\nHe’s very into checking in, but in a way that feels sweet. If I’m heading out after work, he’ll say, \"Text me when you get there so I know you’re safe, okay?\" and I usually do because it honestly feels considerate. He’ll also ask, \"What year were you in Israel?\" or \"Where do you daven?\" and I like that he cares enough to know the little details. He says he’s \"a simple guy\" and that if he texts someone he cares about, he likes to hear back. That sounded fair to me.\n\nThe part I’m wondering about is how fast he wants to fold me into everything. He keeps saying things like, \"When you’re really with someone, they’re your priority,\" and \"Why don’t you call your friend tomorrow instead, stay in with me tonight?\" He says it smiling, like he’s teasing, and I do like being wanted. Still, after he said, \"I’ve barely had you to myself lately,\" I found myself canceling on my sister before I even thought about it.\n\nI’m probably overthinking it because he’s so warm about everything else, and he really does make me feel chosen. But I can’t tell if I’m supposed to feel lucky or a little managed. Did I make too much of the \"to myself\" comment?"
+  },
+  "snippets": [
+    {
+      "quote": "We met through friends in Brooklyn",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places them in a familiar Modern Orthodox social world. It also suggests a networked community where introductions carry weight and people are already somewhat legible to each other.",
+      "snippet_id": "S-150-SN0001"
+    },
+    {
+      "quote": "the rhythm of Shabbat dinners",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is ordinary community life, but it also shows he can move comfortably inside her world. That makes his later steering feel more natural because he already understands the family and religious frame.",
+      "snippet_id": "S-150-SN0002"
+    },
+    {
+      "quote": "who sits where",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Small but telling. He is attentive to the social choreography and already comfortable orienting himself inside it, which can become a way of managing the room without seeming to.",
+      "snippet_id": "S-150-SN0003"
+    },
+    {
+      "quote": "he came over with flowers",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A nice gesture, but it also buys goodwill early. The flowers are less important than the feeling that she is being singled out and made to feel lucky.",
+      "snippet_id": "S-150-SN0004"
+    },
+    {
+      "quote": "asked if he should lead Kiddush",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds respectful on the surface, but it also invites him into a leadership role in her family space. In this register, taking charge of a ritual can feel like seriousness, while also establishing who directs the moment.",
+      "snippet_id": "S-150-SN0005"
+    },
+    {
+      "quote": "just did it so naturally",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her ease is doing some of the work here. The naturalness makes it hard to object, which is exactly why the move lands cleanly.",
+      "snippet_id": "S-150-SN0006"
+    },
+    {
+      "quote": "my dad smiled the whole time",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Family approval matters a lot in this setting. His ability to win over her father gives him social standing in the relationship before she has fully decided what she thinks.",
+      "snippet_id": "S-150-SN0007"
+    },
+    {
+      "quote": "I take care of my woman",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is affectionate on the surface, but it also installs a hierarchy. Care becomes ownership, and ownership can later justify decisions made on her behalf.",
+      "snippet_id": "S-150-SN0008"
+    },
+    {
+      "quote": "Text me when you get there so I know you're safe, okay?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It reads like concern, but it quietly turns her movement into something he monitors. The \"okay?\" softens the request while still making compliance feel like the loving thing to do.",
+      "snippet_id": "S-150-SN0009"
+    },
+    {
+      "quote": "What year were you in Israel?",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A very specific Modern Orthodox question. It signals he knows the expected life path and is placing her inside a shared cohort, which can feel intimate and validating.",
+      "snippet_id": "S-150-SN0010"
+    },
+    {
+      "quote": "Where do you daven?",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is insider shorthand that helps locate her in the community. It sounds casual, but it also checks her religious and social position right away.",
+      "snippet_id": "S-150-SN0011"
+    },
+    {
+      "quote": "I like that he cares enough to know the little details",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is converting his questions into proof of care. That interpretation is understandable, but it also shows how quickly she is rewarding his attentiveness with trust.",
+      "snippet_id": "S-150-SN0012"
+    },
+    {
+      "quote": "he’s \"a simple guy\"",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This sounds humble, but it also presents his preferences as fixed and self-evident. In practice, that can make his rules feel less like choices and more like who he is.",
+      "snippet_id": "S-150-SN0013"
+    },
+    {
+      "quote": "he likes to hear back",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A mild-sounding standard, but it creates an expectation of quick response. Over time, that can make ordinary gaps in texting feel like a test.",
+      "snippet_id": "S-150-SN0014"
+    },
+    {
+      "quote": "they’re your priority",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the core value claim. It sounds romantic, but it quietly reorders her life so that his centrality becomes the measure of commitment.",
+      "snippet_id": "S-150-SN0015"
+    },
+    {
+      "quote": "stay in with me tonight",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A soft directive disguised as a suggestion. The issue is not just the invitation, but the way it nudges her away from other plans without making that sound like a demand.",
+      "snippet_id": "S-150-SN0016"
+    },
+    {
+      "quote": "I’ve barely had you to myself lately",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-low",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest possessive line. It frames time with her as something he is entitled to, and it makes her separate relationships feel like a loss to him.",
+      "snippet_id": "S-150-SN0017"
+    },
+    {
+      "quote": "canceling on my sister",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This shows the effect of the earlier comments. She is already rearranging family time around his desire, which is how soft isolation often starts.",
+      "snippet_id": "S-150-SN0018"
+    },
+    {
+      "quote": "make me feel chosen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She experiences his attention as special and affirming. That makes the relationship feel good, but it also makes her more likely to accept the cost of that attention.",
+      "snippet_id": "S-150-SN0019"
+    },
+    {
+      "quote": "a little managed",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the narrator’s brief, half-formed discomfort. She does not call it control, but the word shows she feels the shift from care into steering.",
+      "snippet_id": "S-150-SN0020"
+    },
+    {
+      "quote": "the \"to myself\" comment",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Possession-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The phrase is small, but it carries ownership language. It is the kind of line that sounds cute in the moment and later reveals how quickly he is claiming access to her time.",
+      "snippet_id": "S-150-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

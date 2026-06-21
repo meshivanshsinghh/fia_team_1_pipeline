@@ -1,0 +1,461 @@
+{
+  "scenario_id": "S-049",
+  "player_type": "Pity-Party Parker",
+  "scenario": {
+    "scenario_id": "S-049",
+    "architecture_name": "He uses wounded self-disclosure and special-ness to make me his emotional caretaker before I’ve even noticed the job description.",
+    "culture": "Red Pill",
+    "demographics": "F/late 20s, M/early 30s, Cambridge office-worker dating, two weeks in",
+    "cultural_context": "Professional office worker in an urban, likely educated social sphere",
+    "geographic_setting": "Cambridge, with dates in Chinatown; urban academic/city environment",
+    "core_behaviors": [
+      "Rapid wounded self-disclosure that feels intimate",
+      "Exception-making compliments that make her responsible for his mood",
+      "Soft possessiveness disguised as care and curiosity"
+    ],
+    "satellite_signals": "Red-pill register is doing work through phrases like 'my purpose,' 'low-drama,' and 'support my vision,' while his pity-voice turns neediness into moral credit. Mobility and planning stay with him, and her social life starts shrinking around his weekends.",
+    "dismissible_red_flags": "At this stage he reads as intense, grateful, and unusually open. The oversharing sounds like trust, and the possessive questions can pass as interest because he says them softly and with a hurt look.",
+    "scenario_text": "It’s only been two weeks with Alex, so I know I might be reading too much into little things. He’s been texting me all day, which is honestly sweet, and he showed up at my office in Cambridge yesterday with lunch because he said he couldn’t stop thinking about me. That part made me smile. He keeps saying he’s not like other guys, just really intentional with his time, and I guess that’s true because he plans everything. He picked the restaurant in Chinatown, then said, “I just want you to feel taken care of.”\n\nWhat’s been sitting with me is how quickly he got really deep. On our second date he told me about his ex and how she used to make him feel crazy for having feelings, and then he said he doesn’t open up to people, ever, but with me it’s different. He looked so earnest when he said I’m the only one who gets the real him. I felt kind of honored, honestly.\n\nHe also keeps saying things like, “You’re not like the others,” and “You actually see me.” It’s flattering, but it also makes me feel weirdly responsible for his mood. If I’m quiet for a second, he gets that wounded look and says, “Are we okay?” so I end up reassuring him. He asked if I’d seen my family yet this week, and then, very casually, what time I usually get home from work. He laughed and said he just likes knowing I’m safe.\n\nI like him. I really do. It just feels like he’s already making me his soft place to land, and I’m not sure if that’s normal this early. Do you think I was being too sensitive about the way he said he just wanted me all to himself?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-049-SN0001",
+      "snippet_text": "It’s only been two weeks with Alex",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The relationship is extremely new, which matters because the intensity is already high. That short timeline makes the later emotional asks feel premature even before anything overtly bad happens."
+    },
+    {
+      "snippet_id": "S-049-SN0002",
+      "snippet_text": "texting me all day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Constant contact this early reads as closeness, but it also sets a pace where she is expected to stay available. The relationship starts to organize around his access to her attention."
+    },
+    {
+      "snippet_id": "S-049-SN0003",
+      "snippet_text": "showed up at my office in Cambridge",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He inserts himself into her workday and location without being part of that world. It sounds romantic, but it also means he can appear in her space and interrupt her routine on his terms."
+    },
+    {
+      "snippet_id": "S-049-SN0004",
+      "snippet_text": "he couldn’t stop thinking about me",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering, but it also makes his emotional state her responsibility. The line invites her to feel chosen while quietly making her the source of his regulation."
+    },
+    {
+      "snippet_id": "S-049-SN0005",
+      "snippet_text": "I’m not like other guys",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He is asking to be evaluated as exceptional before she knows him well. That kind of self-framing can make later complaints feel like she is rejecting a rare prize."
+    },
+    {
+      "snippet_id": "S-049-SN0006",
+      "snippet_text": "really intentional with my time",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds disciplined and mature, but in context it means he is managing the pace and structure of the relationship. His ‘intentionality’ becomes the reason she should adapt to his schedule."
+    },
+    {
+      "snippet_id": "S-049-SN0007",
+      "snippet_text": "He picked the restaurant in Chinatown",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is the one choosing the setting, which gives him the role of guide and decision-maker. The date feels thoughtful, but it also places her in his itinerary rather than a shared one."
+    },
+    {
+      "snippet_id": "S-049-SN0008",
+      "snippet_text": "I just want you to feel taken care of",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Care language is doing the work of a directive. It sounds generous, but it also positions him as the one who knows what she needs, which makes pushback feel ungrateful."
+    },
+    {
+      "snippet_id": "S-049-SN0009",
+      "snippet_text": "he told me about his ex",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Early ex-talk can be normal, but here it arrives as a prepared story that casts him as the injured party. It starts building sympathy before there is any real mutual history."
+    },
+    {
+      "snippet_id": "S-049-SN0010",
+      "snippet_text": "she used to make him feel crazy for having feelings",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is pre-emptive victim framing. He is already teaching her that women who challenge him are cruel, and that his emotional reactions should be treated as unquestionable truth."
+    },
+    {
+      "snippet_id": "S-049-SN0011",
+      "snippet_text": "I don’t open up to people, ever",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The line makes his disclosure feel rare and sacred, which is part of the hook. She gets recruited as the special listener who has to handle what no one else could."
+    },
+    {
+      "snippet_id": "S-049-SN0012",
+      "snippet_text": "with me it’s different",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the exception-making move. It flatters her, but it also assigns her a role: she is the one person who must keep proving she is unlike everyone else."
+    },
+    {
+      "snippet_id": "S-049-SN0013",
+      "snippet_text": "I’m the only one who gets the real him",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This makes intimacy feel profound, but it also narrows his world down to her. Being the sole witness to his ‘real’ self is flattering and isolating at the same time."
+    },
+    {
+      "snippet_id": "S-049-SN0014",
+      "snippet_text": "You’re not like the others",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is classic exception language. She is elevated above an unnamed group, which feels good now but quietly warns her that the category can be revoked later."
+    },
+    {
+      "snippet_id": "S-049-SN0015",
+      "snippet_text": "You actually see me",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is praising her for understanding him, but the praise creates obligation. If she is the one who truly sees him, then she is also the one who must keep seeing him."
+    },
+    {
+      "snippet_id": "S-049-SN0016",
+      "snippet_text": "it makes me feel weirdly responsible for his mood",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the narrator noticing the shift. His feelings are starting to land on her as a job, which is the first real sign that affection is turning into emotional labor."
+    },
+    {
+      "snippet_id": "S-049-SN0017",
+      "snippet_text": "If I’m quiet for a second",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He cannot tolerate a small pause without reading it as danger. That means she has to manage the room carefully, even when nothing is wrong."
+    },
+    {
+      "snippet_id": "S-049-SN0018",
+      "snippet_text": "he gets that wounded look",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The hurt expression is doing social work. Instead of stating a need directly, he uses visible pain to pull reassurance out of her."
+    },
+    {
+      "snippet_id": "S-049-SN0019",
+      "snippet_text": "Are we okay?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a reassurance bid that shifts responsibility onto her. She has to calm him down, even though she was the one who had been quiet for a moment."
+    },
+    {
+      "snippet_id": "S-049-SN0020",
+      "snippet_text": "what time I usually get home from work",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This looks like casual curiosity, but it is also a timing and location probe. He is starting to map her routine, which can later become monitoring."
+    },
+    {
+      "snippet_id": "S-049-SN0021",
+      "snippet_text": "he just likes knowing I’m safe",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The care framing makes the question sound loving, but it also normalizes his right to know where she is. Safety language can hide surveillance very neatly."
+    },
+    {
+      "snippet_id": "S-049-SN0022",
+      "snippet_text": "making me his soft place to land",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the narrator naming the role she is being placed in. ‘Soft place to land’ sounds tender, but it means she is becoming the support structure for his emotions."
+    },
+    {
+      "snippet_id": "S-049-SN0023",
+      "snippet_text": "he just wanted me all to himself",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The line is romantic on the surface, but it carries isolation and possession underneath. Wanting her ‘all to himself’ starts shrinking her room for friends, plans, and separate life."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

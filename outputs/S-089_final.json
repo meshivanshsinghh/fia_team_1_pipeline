@@ -1,0 +1,536 @@
+{
+  "scenario_id": "S-089",
+  "player_type": "Avoidant Alex",
+  "scenario": {
+    "scenario_id": "S-089",
+    "architecture_name": "He makes closeness feel flattering and special while quietly training me to accept that his affection comes on his terms, in his timing, with no promise of more.",
+    "culture": "Old-Money WASP",
+    "demographics": "Likely a Filipina woman in Los Angeles, dating Jack, a wealthy Midwestern man",
+    "cultural_context": "New dating / affluent social scene with luxury dining, transnational family ties, and relationship dynamics around being treated and shown off",
+    "geographic_setting": "Los Angeles, with ties to Manila and the U.S. Midwest",
+    "core_behaviors": [
+      "Praises her independence while keeping intimacy on his schedule",
+      "Uses charm and polished generosity to make scarcity feel special",
+      "Frames distance, no labels, and future-deferral as maturity"
+    ],
+    "satellite_signals": "Old-money dining, Midwest wealth, polished discretion, and a social script where being chosen feels preferable to asking for clarity. His warmth is intermittent, but he presents it as tasteful restraint.",
+    "dismissible_red_flags": "At this stage it reads as refined, busy, and considerate. His reluctance to define things can seem like sophistication, and his space-giving can feel healthier than pushy dating.",
+    "scenario_text": "I’m probably overthinking this, but Jack said something last night that stuck with me. We were at this very quiet place in Brentwood, the kind where everyone lowers their voice without being told. He had already taken care of dinner, of course, and he said it so lightly, like it was nothing. I like that about him, honestly. He’s so calm about everything, and he never makes a big production out of being generous.\n\nWe were talking about my trip to Manila, and he smiled and said, “I love that you have your own life going on.” It was sweet, and I think he meant it sweetly, but I also felt myself getting a little small. Then he added, “Let’s just see where this goes without all the pressure of a label.” He said it like he was protecting something delicate, not avoiding anything. I laughed and told him I wasn’t trying to make it heavy.\n\nHe does this thing where he’ll be really warm, then go a little quiet for a day or two, and when he comes back he’s even nicer, like he’s reset. He told me, “I’m not fully ready for anything serious yet,” and then kissed my forehead and said I was different from other women because I don’t crowd him. That honestly made me feel good. I don’t want to be clingy. I just like being with him.\n\nStill, I noticed I skipped my call with my cousin because he wanted to go to dinner, and I didn’t even mind at the time. He says he likes keeping things easy, and maybe that’s what I like too. But I keep wondering if I’m supposed to just take the good moments and not ask for more. Was I being too sensitive about the label thing?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m probably overthinking this",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already talking herself down before naming the issue. That self-editing matters because it shows she is absorbing his framing and treating her own discomfort as suspect.",
+      "snippet_id": "S-089-SN0001"
+    },
+    {
+      "quote": "Jack said something last night",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple identity marker. The name and the casual reference place the relationship in a specific social world without making the line itself diagnostic.",
+      "snippet_id": "S-089-SN0002"
+    },
+    {
+      "quote": "this very quiet place in Brentwood",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Brentwood signals affluent Los Angeles polish. The restaurant setting helps locate the class script, where restraint and taste can disguise emotional withholding.",
+      "snippet_id": "S-089-SN0003"
+    },
+    {
+      "quote": "He had already taken care of dinner",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is setting the terms of the evening and making the provision feel gracious. That creates a quiet debt, even though it looks like ordinary generosity.",
+      "snippet_id": "S-089-SN0004"
+    },
+    {
+      "quote": "he said it so lightly",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The tone is doing the work. He keeps the serious part wrapped in breezy charm, which makes it hard for her to object without seeming humorless.",
+      "snippet_id": "S-089-SN0005"
+    },
+    {
+      "quote": "I like that about him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is actively rewarding the very quality that limits her. This is how the imbalance gets internalized as a preference rather than experienced as a loss.",
+      "snippet_id": "S-089-SN0006"
+    },
+    {
+      "quote": "He’s so calm about everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Dysregulation-low",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Calm can be attractive, but here it also hints at emotional flatness. The relationship feels easy because he is never required to bring much feeling into it.",
+      "snippet_id": "S-089-SN0007"
+    },
+    {
+      "quote": "he never makes a big production out of being generous",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is polished self-presentation. The generosity is real, but the narrator is being trained to admire restraint and not notice that the gift also buys influence.",
+      "snippet_id": "S-089-SN0008"
+    },
+    {
+      "quote": "I love that you have your own life going on",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds respectful, but in context it pre-approves distance and makes her less entitled to ask for closeness. It turns her independence into something he can praise while still staying unavailable.",
+      "snippet_id": "S-089-SN0009"
+    },
+    {
+      "quote": "It was sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She reaches for the softest interpretation immediately. That matters because it shows the gap between what she felt and what she is willing to name.",
+      "snippet_id": "S-089-SN0010"
+    },
+    {
+      "quote": "I think he meant it sweetly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is doing the interpretive labor for him. Instead of asking whether the comment fit her needs, she protects his intent and downgrades her own reaction.",
+      "snippet_id": "S-089-SN0011"
+    },
+    {
+      "quote": "Let’s just see where this goes",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the classic anti-label move. It sounds relaxed, but it also keeps him in charge of pace and definition while she waits inside uncertainty.",
+      "snippet_id": "S-089-SN0012"
+    },
+    {
+      "quote": "without all the pressure of a label",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He frames clarity as pressure, which makes her basic need for definition feel excessive. That is how avoidance gets dressed up as maturity.",
+      "snippet_id": "S-089-SN0013"
+    },
+    {
+      "quote": "He said it like he was protecting something delicate",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is narrating his deferral as care. The phrasing shows how easily his reluctance can be reinterpreted as tenderness, which keeps her from challenging it.",
+      "snippet_id": "S-089-SN0014"
+    },
+    {
+      "quote": "I laughed and told him I wasn’t trying to make it heavy",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She backs away from her own need in real time. That self-erasure is the point, because it teaches her that asking for clarity would make her the problem.",
+      "snippet_id": "S-089-SN0015"
+    },
+    {
+      "quote": "He does this thing where he’ll be really warm, then go a little quiet for a day or two",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The hot-cold rhythm is already visible. It is not dramatic yet, but it is enough to make her orient around his returns instead of her own comfort.",
+      "snippet_id": "S-089-SN0016"
+    },
+    {
+      "quote": "when he comes back he’s even nicer",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The return is what trains her. The nicer comeback makes the absence feel almost meaningful, which is how intermittent availability becomes rewarding.",
+      "snippet_id": "S-089-SN0017"
+    },
+    {
+      "quote": "I’m not fully ready for anything serious yet",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is a soft deferral, not a clean no. He keeps the door open just enough to preserve her hope while declining the obligations of seriousness.",
+      "snippet_id": "S-089-SN0018"
+    },
+    {
+      "quote": "you’re different from other women because I don’t crowd him",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He rewards her for making herself smaller. The compliment sounds personal, but it is really a role assignment: be the woman who asks for less.",
+      "snippet_id": "S-089-SN0019"
+    },
+    {
+      "quote": "I don’t want to be clingy",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She has already accepted his vocabulary for normal need. Once she calls herself clingy, his distance gets protected and her needs get pathologized.",
+      "snippet_id": "S-089-SN0020"
+    },
+    {
+      "quote": "I just like being with him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds simple, but it also shows how much she is willing to simplify. The relationship is becoming about enjoying his presence rather than asking whether it is enough.",
+      "snippet_id": "S-089-SN0021"
+    },
+    {
+      "quote": "I skipped my call with my cousin",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest tradeoff in the scene. A social tie gets quietly sacrificed to accommodate him, and she barely registers the cost until later.",
+      "snippet_id": "S-089-SN0022"
+    },
+    {
+      "quote": "he wanted to go to dinner",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He sets the plan and she adjusts around it. The control is soft, but it still moves her time and attention away from her own commitments.",
+      "snippet_id": "S-089-SN0023"
+    },
+    {
+      "quote": "He says he likes keeping things easy",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Easy sounds lovely in dating, but here it means no pressure, no definition, and no demand on him. The word smooths over the asymmetry.",
+      "snippet_id": "S-089-SN0024"
+    },
+    {
+      "quote": "I’m supposed to just take the good moments",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already adapting to scarcity. That line shows the bargain she is making internally: accept the highs, ignore the gaps, and call that enough.",
+      "snippet_id": "S-089-SN0025"
+    },
+    {
+      "quote": "not ask for more",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the quiet surrender at the center of the story. She is not being told directly to ask for less, but the relationship has taught her to do it anyway.",
+      "snippet_id": "S-089-SN0026"
+    },
+    {
+      "quote": "Was I being too sensitive about the label thing?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The question is tiny on purpose, but it points to the real issue. She is asking whether her reaction was excessive instead of whether his refusal to define things is already shaping the relationship.",
+      "snippet_id": "S-089-SN0027"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

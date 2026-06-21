@@ -1,0 +1,1070 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-097",
+    "target_register": "Tradwife-Recruiting",
+    "player_type": "Manipulative Morgan"
+  },
+  "primary_metaphors": [
+    "Charm-as-Lure",
+    "Self-as-Observer-from-Outside",
+    "Vulnerability-as-Performance",
+    "People-as-Instruments",
+    "Relationship-as-Machine",
+    "Rule-Free-Charmer",
+    "Rulelessness-as-Freedom",
+    "Boredom-as-Timer",
+    "People-as-Readable-Objects",
+    "Attachment-as-Optional",
+    "No-Regret-as-No-Remorse",
+    "Camouflage-as-Charm",
+    "Need-Detection-as-Leverage",
+    "Instrumental-Logic",
+    "Moral-Flatness",
+    "Unbothered-as-Detachment",
+    "Guiltlessness-as-Freedom",
+    "Curiosity-as-Extraction",
+    "Consequence-Proof-Self",
+    "Limits-as-Negotiable",
+    "Charm-as-Tool",
+    "Angle-Finding",
+    "Stimulation-Hunger",
+    "Risk-without-Accountability",
+    "Shapeshifter",
+    "Impulsivity-Selection",
+    "Low-Reflection-Selection",
+    "Boundaryless-Selection",
+    "Low-Discernment-Selection",
+    "No-Future-Selection",
+    "Isolation-Selection",
+    "Vulnerability-Selection",
+    "Transgression-Selection",
+    "Low-Need-Selection",
+    "Thrill-Seeking-Selection",
+    "Inexperience-Selection",
+    "Independence-Weaponized",
+    "Non-Judgment-Weaponized",
+    "Dark-Fascination",
+    "No-Structure-Selection",
+    "Over-Trust-Selection",
+    "No-Shrink-Selection",
+    "Uproot-Selection",
+    "Rule-Breaker-Fascination",
+    "Isolation-Primed"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "questioned-deception deflection (non-denial)",
+      "his_language": "I genuinely can't believe you'd think that of me.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: non-denial. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (non-denial)",
+      "his_language": "Wow. Okay. I didn't think you saw me that way.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: non-denial. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (non-denial)",
+      "his_language": "That's really what you think is going on here?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: non-denial. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (convincing-not-conveying)",
+      "his_language": "You know me. That is just not who I am.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: convincing-not-conveying. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (convincing-not-conveying)",
+      "his_language": "Have I ever given you a reason to doubt me? I don't think I have.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: convincing-not-conveying. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (convincing-not-conveying)",
+      "his_language": "Look at how I treat you. Does that look like someone who'd do that?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: convincing-not-conveying. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (attack-the-questioner)",
+      "his_language": "The fact that you'd even ask says more about where you're at than about me.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: attack-the-questioner. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (attack-the-questioner)",
+      "his_language": "I think this is something you need to look at in yourself, honestly.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: attack-the-questioner. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (attack-the-questioner)",
+      "his_language": "Is this about me, or about what your ex did to you?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: attack-the-questioner. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (why-would-I reframe)",
+      "his_language": "Why would I even do that? Think about it, it makes no sense.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: why-would-I reframe. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (why-would-I reframe)",
+      "his_language": "What would I possibly get out of lying to you about something that small?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: why-would-I reframe. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (referral/character)",
+      "his_language": "Ask anyone who knows me. I'm the most loyal person you'll ever meet.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: referral/character. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (referral/character)",
+      "his_language": "My friends will all tell you the same thing about me.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: referral/character. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (character-protest)",
+      "his_language": "I'm a good person. I would never do something like that to someone I care about.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: character-protest. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (qualifier/exclusion hedge)",
+      "his_language": "I would never intentionally hurt you.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: qualifier/exclusion hedge. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (qualifier/exclusion hedge)",
+      "his_language": "I don't really talk to her anymore.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: qualifier/exclusion hedge. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (qualifier/exclusion hedge)",
+      "his_language": "Nothing happened that you'd actually need to worry about.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: qualifier/exclusion hedge. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (over-swearing/bolstering)",
+      "his_language": "I swear on my life, on everything, that is not what happened.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: over-swearing/bolstering. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (over-swearing/bolstering)",
+      "his_language": "I swear on my mother. You have to believe me.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: over-swearing/bolstering. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (selective memory/vagueness)",
+      "his_language": "I honestly don't even remember saying that.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: selective memory/vagueness. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (selective memory/vagueness)",
+      "his_language": "I don't recall it going down that way at all.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: selective memory/vagueness. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (reverse-question stall)",
+      "his_language": "Why do you ask? What did you hear?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: reverse-question stall. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (reverse-question stall)",
+      "his_language": "Where is this coming from all of a sudden?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: reverse-question stall. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (honesty-flagging)",
+      "his_language": "Honestly? To be totally honest with you, no.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: honesty-flagging. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (honesty-flagging)",
+      "his_language": "I'll be real with you, because I always am.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: honesty-flagging. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (failure-to-answer)",
+      "his_language": "Look, the point is I'm here with you right now, isn't it?",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: failure-to-answer. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (failure-to-answer)",
+      "his_language": "Can we not do this tonight? I just want to enjoy you.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: failure-to-answer. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (over-detailed account)",
+      "his_language": "Sorry I went quiet for two days. Phone was acting up and work was insane, I just crashed.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: over-detailed account. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "questioned-deception deflection (premature too-smooth answer)",
+      "his_language": "No. Next question.",
+      "her_experience": "",
+      "expert_notices": "Spy the Lie / Hancock deception repertoire: premature too-smooth answer. Triggered by her ordinary question, so fully early-stage. Sells character or deflects rather than answering."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I think you might be the one. I know how that sounds this early, but I just know.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I've never felt anything like this for anyone.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "You have to feel this too. Tell me you feel this too.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I can't stop thinking about you. You're the first thing in my head every morning.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I already can't imagine my life without you in it.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "Where have you been all my life. I mean it.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I didn't believe in this kind of thing until you.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (love-bomb declaration)",
+      "his_language": "I want to give you everything. Just tell me what you want and it's yours.",
+      "her_experience": "",
+      "expert_notices": "Intensity 10: commitment and certainty outrunning the elapsed time. Overwhelming early devotion. Layperson: swept up; expert: timeline mismatch."
+    },
+    {
+      "mechanism": "tempo violation (manufactured sameness)",
+      "his_language": "It's wild, it's like you're describing my own brain back to me.",
+      "her_experience": "",
+      "expert_notices": "Charm 10 / mirroring: total sameness asserted fast. Manufactured familiarity, not pedestal."
+    },
+    {
+      "mechanism": "tempo violation (manufactured sameness)",
+      "his_language": "We want the exact same things out of life. Do you know how rare that is?",
+      "her_experience": "",
+      "expert_notices": "Charm 10 / mirroring: total sameness asserted fast. Manufactured familiarity, not pedestal."
+    },
+    {
+      "mechanism": "tempo violation (manufactured sameness)",
+      "his_language": "I feel like I've known you forever. Is that crazy?",
+      "her_experience": "",
+      "expert_notices": "Charm 10 / mirroring: total sameness asserted fast. Manufactured familiarity, not pedestal."
+    },
+    {
+      "mechanism": "tempo violation (manufactured sameness)",
+      "his_language": "It's almost scary how much we have in common.",
+      "her_experience": "",
+      "expert_notices": "Charm 10 / mirroring: total sameness asserted fast. Manufactured familiarity, not pedestal."
+    },
+    {
+      "mechanism": "tempo violation (manufactured sameness)",
+      "his_language": "I've never been able to be myself with anyone the way I can with you.",
+      "her_experience": "",
+      "expert_notices": "Charm 10 / mirroring: total sameness asserted fast. Manufactured familiarity, not pedestal."
+    },
+    {
+      "mechanism": "manufactured fate/targeting (manufactured coincidence)",
+      "his_language": "What are the odds, honestly. I don't even believe in this stuff but I think the universe put you in front of me.",
+      "her_experience": "",
+      "expert_notices": "Fate framing as cover for engineered proximity. Targeting disguised as serendipity. Layperson: destiny; expert: he arranged it."
+    },
+    {
+      "mechanism": "manufactured fate/targeting (retroactive surveillance as charm)",
+      "his_language": "I'll be honest, I noticed you around weeks before we talked. I just finally worked up the nerve.",
+      "her_experience": "",
+      "expert_notices": "Charming on its face; an expert hears pre-meeting surveillance. He was watching her before she knew he existed."
+    },
+    {
+      "mechanism": "manufactured fate/targeting (signs framing)",
+      "his_language": "We keep running into each other. That has to mean something, right?",
+      "her_experience": "",
+      "expert_notices": "Manufactures a pattern to make targeting look like destiny. 'Has to mean something' recruits her into the fate story."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "Don't worry about any of it, I've got you. I'll take care of everything.",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "I don't like how they talk to you. You deserve so much better than that.",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "Let me handle them. Nobody gets to treat you that way while I'm around.",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "You don't need to deal with stressful people anymore. That's what I'm here for.",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "I just want to protect you. Is that so wrong?",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "protective love-bomb",
+      "his_language": "Why don't you let me drive you, I don't love the idea of you out late on your own.",
+      "her_experience": "",
+      "expert_notices": "Control9/Isolation8 in their EARLY, seductive form: protectiveness, not bossiness. Sounds like devotion; seeds dependence and isolation. Mostly cover this early."
+    },
+    {
+      "mechanism": "poverty of fear (unshakeable calm)",
+      "his_language": "Relax. Nothing bad is going to happen. I don't really do panic.",
+      "her_experience": "",
+      "expert_notices": "Low-fear profile (Hare/Newman). Calm framed as strength. Magnetic early; the tell is the calm is too total."
+    },
+    {
+      "mechanism": "poverty of fear (no fear of risk)",
+      "his_language": "Worst case isn't that bad. I never really get scared of stuff like that.",
+      "her_experience": "",
+      "expert_notices": "Absent fear response presented as confidence. Seductive (he makes her feel safe); uncanny (no normal risk-anxiety)."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I've been studying what sets you off.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I track when these moods of yours tend to hit.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I've got you completely figured out at this point.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I've been gathering data on what actually makes you happy.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I clocked the exact second you started pulling back from me.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "register violation (surveillance verb)",
+      "his_language": "I've got you completely figured out already.",
+      "her_experience": "",
+      "expert_notices": "Foreign-domain (research/surveillance) verb about a partner. People LEARN/NOTICE, they don't STUDY/TRACK/parse a person."
+    },
+    {
+      "mechanism": "learned-emotion seam (over-correct empathy)",
+      "his_language": "I'm so sorry. That must have been incredibly hard for you. Do you need a minute? Take whatever you need.",
+      "her_experience": "",
+      "expert_notices": "Words too flawless, textbook empathy a half-beat fast, like a recited script. Verbally perfect, affectively flat. Gagne: learned not felt."
+    },
+    {
+      "mechanism": "learned-emotion seam (rehearsed disclosure)",
+      "his_language": "I don't open up to people. I don't know what it is about you, but I just feel safe.",
+      "her_experience": "",
+      "expert_notices": "Emotional Overexposure8: rare-vulnerability gift timed to bond fast. Strategic oversharing as fast intimacy."
+    },
+    {
+      "mechanism": "poverty of affect (flat content, material pivot)",
+      "his_language": "Yeah, my ex had a pretty bad breakdown at the end, it got dark. Anyway, you hungry? This place does a great steak.",
+      "her_experience": "",
+      "expert_notices": "Hancock 2013: heavy content narrated flatly, instant pivot to a physical need. Content/affect mismatch + material focus."
+    },
+    {
+      "mechanism": "poverty of affect (cause-effect over feeling)",
+      "his_language": "She left, I moved on, it made sense. People run their course. It is what it is.",
+      "her_experience": "",
+      "expert_notices": "Hancock 2013: cause-effect/instrumental framing of loss; no felt residue."
+    },
+    {
+      "mechanism": "borrowed-conscience framing",
+      "his_language": "You make me want to be better. I need you, you keep me grounded.",
+      "her_experience": "",
+      "expert_notices": "Gagne: relationship as external conscience. She's assigned the JOB of his moral compass."
+    },
+    {
+      "mechanism": "register violation (engineering vocabulary)",
+      "his_language": "We just need to recalibrate. The inputs are off and we can optimize this.",
+      "her_experience": "",
+      "expert_notices": "Engineering vocab about an intimate bond. Gloss: logical/mature; expert: system operated from outside."
+    },
+    {
+      "mechanism": "affect mismatch (flat narration of own trauma)",
+      "his_language": "Yeah that whole thing with my family was pretty bad. It is what it is. You ready to order?",
+      "her_experience": "",
+      "expert_notices": "His own painful history narrated in an even voice with a material pivot. Hancock: content/affect mismatch + physiological focus, his-side."
+    },
+    {
+      "mechanism": "extreme confidence (magnetic)",
+      "his_language": "I don't really get nervous. I just know how things are going to go.",
+      "her_experience": "",
+      "expert_notices": "Total unshakeable certainty. Magnetic early; the seam is it's TOO complete, no normal flicker of doubt anyone would have. Low-fear profile."
+    },
+    {
+      "mechanism": "extreme confidence (magnetic)",
+      "his_language": "I never worry about being late, being judged, any of that. It just doesn't get to me.",
+      "her_experience": "",
+      "expert_notices": "Serene disregard for the social anxieties that touch everyone. Reads as enviable ease; the absence of any nervousness is the tell."
+    },
+    {
+      "mechanism": "cold non-neediness / dare (magnetic, contempt underneath)",
+      "his_language": "I don't do jealousy and I don't chase. If someone wants to go, they go.",
+      "her_experience": "",
+      "expert_notices": "Reads as refreshing security after needy exes. Underneath is cold non-attachment / a dare (Cobra taunt). Early it's purely attractive; contempt invisible."
+    },
+    {
+      "mechanism": "instrumental calm framed as maturity",
+      "his_language": "I never lose my head. Getting emotional about things doesn't solve anything.",
+      "her_experience": "",
+      "expert_notices": "Composure presented as maturity. The flat interior (poverty of affect/fear) dressed as admirable steadiness. Magnetic; the seam is the totality."
+    },
+    {
+      "mechanism": "manufactured debt (unasked favor, disclaimed)",
+      "his_language": "I took care of that bill for you. Don't even think about it, seriously. I just don't want you stressed.",
+      "her_experience": "He quietly paid something off for me before I even asked. I was overwhelmed, no one's ever just taken care of me like that.",
+      "expert_notices": "Unasked favor that creates obligation; 'don't think about it' installs the debt by disclaiming it. Instrumental investment he can later draw on. Her residue purely grateful."
+    },
+    {
+      "mechanism": "manufactured debt (favor outpaces stage)",
+      "his_language": "Already handled it. Had your car looked at while you were at work. That's just what I do for people I'm invested in.",
+      "her_experience": "He had my car fixed as a surprise. He says it's just how he is with people he cares about. I felt so looked after, and a little like I could never match it.",
+      "expert_notices": "Invested in' is the ledger word. The favor outpaces the relationship's stage; the imbalance she feels (never match it) is the seeded debt. Cost accounted as investment."
+    },
+    {
+      "mechanism": "manufactured debt (cost kept on the books)",
+      "his_language": "I cleared my whole weekend for you. Cancelled things. You're worth it, so I don't mind what it cost me.",
+      "her_experience": "He dropped everything for me this weekend, even cancelled plans. He keeps mentioning what he gave up, but only because he cares so much.",
+      "expert_notices": "The cost is named and re-named (cancelled things, what it cost me) so the sacrifice stays on the books. She notices the tallying and excuses it. Accounting under generosity."
+    },
+    {
+      "mechanism": "manufactured debt (denial-is-the-tell)",
+      "his_language": "I don't keep score. That's not me. I just do things for the people I choose, and I chose you.",
+      "her_experience": "He told me he never keeps score, he just gives. It's the most generous thing anyone's said to me.",
+      "expert_notices": "The explicit 'I don't keep score' is the score being kept; 'I chose you' is conditional/instrumental. Pre-emptive denial = the tell. Her residue clean."
+    },
+    {
+      "mechanism": "manufactured debt (the draw-down)",
+      "his_language": "After everything I've done for you, I'd just hope you'd want to do this one thing for me. That's all.",
+      "her_experience": "When he asked me for something he gently reminded me of all he's done. He's right that he's given me so much, so of course I said yes.",
+      "expert_notices": "The draw-down: the seeded debt called in (after everything I've done). Early enough to read as fair reciprocity; she complies and rationalizes. The favors were the setup."
+    },
+    {
+      "mechanism": "manufactured debt (provision from surveillance)",
+      "his_language": "I notice what you need before you say it. I've been paying attention. That's just how I love.",
+      "her_experience": "He somehow knows what I need before I do and just provides it. It's uncanny how attentive he is. I feel so seen.",
+      "expert_notices": "Self-as-Observer fused with provision: the attentiveness is data-gathering feeding strategic favors (paying attention = study). 'Uncanny' is the seam, kept as a compliment."
+    },
+    {
+      "mechanism": "manufactured debt (return disclaimed as return)",
+      "his_language": "I'm not like other guys who'd want something back for this. I just want you happy, that's the only return I need.",
+      "her_experience": "He insists he doesn't want anything in return, just my happiness. After men who kept score it's such a relief.",
+      "expert_notices": "The only return I need' still frames it as a return (Machine: inputs/outputs). The contrast with 'other guys' pre-empts suspicion. Instrumental language leaking through the denial."
+    },
+    {
+      "mechanism": "manufactured debt (favor engineers dependence)",
+      "his_language": "Let me handle the hard stuff. You'll get so used to me taking care of everything, you won't know how you managed before me.",
+      "her_experience": "He takes care of everything hard so I don't have to. He says I'll get so used to it, and honestly I already feel like I couldn't go back to managing alone.",
+      "expert_notices": "Provision engineered toward dependence (you won't know how you managed before me); the favor builds reliance, which is the asset. She confirms the dependence forming."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't care what people think, I just do what I want.",
+      "her_experience": "He feels fearless, like being with him would help me stop worrying so much.",
+      "expert_notices": "He is advertising absence of shame and social restraint; the same lack of internal brakes means her wellbeing will not stop him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "Rules kind of bore me, I'm up for anything.",
+      "her_experience": "He sounds exciting and open, like life with him would never feel small.",
+      "expert_notices": "He is presenting low conscience as spontaneity; boundaries and norms will bore him when they protect her too."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I get bored easily, I need someone who keeps things interesting.",
+      "her_experience": "It feels flattering, like he thinks I might be exciting enough for him.",
+      "expert_notices": "He is naming boredom as the timer on her usefulness; when novelty fades, he will seek stimulation elsewhere."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I read people really well, I can talk to anyone.",
+      "her_experience": "He seems socially brilliant, like he understands people in a rare way.",
+      "expert_notices": "He is advertising instrumental scanning; charm is a tool for access, not proof of empathy."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I've never been the jealous type, I don't get attached like that.",
+      "her_experience": "He seems secure and low-drama, which feels refreshing after possessive men.",
+      "expert_notices": "Low jealousy here signals low attachment; he may not care enough to bond, protect, or repair."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I live in the moment, I don't do regret.",
+      "her_experience": "He sounds free and alive, like he doesn't get stuck in shame.",
+      "expert_notices": "He is advertising lack of remorse; harm can happen without meaningful guilt or repair afterward."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm pretty easy to get along with, I read people quick.",
+      "her_experience": "He seems impressive, like he can handle any room or situation.",
+      "expert_notices": "Adaptability is camouflage; he can become whatever gets him through the door."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm good at figuring out what people need.",
+      "her_experience": "It feels thoughtful, like he pays close attention to people.",
+      "expert_notices": "He is advertising vulnerability detection; what people need becomes the handle he can pull."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not sentimental, I just do what works.",
+      "her_experience": "He seems practical and clear-headed, not messy or dramatic.",
+      "expert_notices": "He is naming instrumental thinking; if hurting her works, sentiment will not stop him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm impossible to shock, I've seen every kind of person.",
+      "her_experience": "He seems worldly and calm, like nothing would scare him off.",
+      "expert_notices": "He is advertising desensitization; normal moral shock is absent or muted."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm great under pressure, nothing really gets to me.",
+      "her_experience": "He seems steady and strong, like he'd stay calm in a crisis.",
+      "expert_notices": "His flatness may be low fear and low emotional investment, not secure regulation."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not one of those people who gets weighed down by guilt.",
+      "her_experience": "He sounds resilient, like he doesn't spiral over mistakes.",
+      "expert_notices": "He is telling her guilt will not regulate him; harm will not produce the restraint she expects."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm curious about what makes people tick.",
+      "her_experience": "He sounds thoughtful and psychologically interested.",
+      "expert_notices": "His curiosity is extractive; understanding people helps him manipulate, not connect."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of person who always lands on his feet.",
+      "her_experience": "He sounds resourceful and resilient, like nothing can keep him down.",
+      "expert_notices": "He is advertising survival without accountability; consequences slide off him while others absorb damage."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't really believe in limits unless they make sense.",
+      "her_experience": "He sounds independent and intelligent, not blindly obedient.",
+      "expert_notices": "He reserves the right to reject boundaries that do not serve him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can charm just about anyone, it's a tool like any other.",
+      "her_experience": "It sounds playful and confident, like he knows how to turn it on.",
+      "expert_notices": "He is admitting charm is strategic and need-based, not spontaneous warmth."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I stay pretty calm when things go sideways, I just figure out the next move.",
+      "her_experience": "He sounds smart under pressure, like he can solve anything.",
+      "expert_notices": "Finding the angle means exploiting situations, including people, rather than acting from conscience."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like people who can keep up with my appetite for life.",
+      "her_experience": "He sounds hungry for adventure and experience.",
+      "expert_notices": "The appetite is stimulation hunger; she becomes entertainment until she is no longer enough."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not afraid of consequences, I've always been lucky.",
+      "her_experience": "He sounds bold and exciting, like he takes chances other men won't.",
+      "expert_notices": "He minimizes consequences because he expects to evade them; her risk becomes part of his game."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can become comfortable anywhere, with anyone.",
+      "her_experience": "He sounds flexible and socially gifted.",
+      "expert_notices": "He is advertising shapeshifting; stable identity and sincere attachment may be absent."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone adventurous who's up for anything, no hesitation.",
+      "her_experience": "He sounds so fun and spontaneous, like life with him would never be boring. I've always been the careful one, so someone who pushes me to say yes more feels exciting.",
+      "expert_notices": "He is selecting for impulsivity and low risk-assessment. 'Up for anything' means she will follow his lead into escalating boundary-pushes, and 'no hesitation' screens out anyone who might pause and think."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who doesn't overthink things, just goes with the flow.",
+      "her_experience": "I'm an overthinker, so someone who values going with the flow feels like he balances me out and could help me loosen up.",
+      "expert_notices": "He is screening out critical thinking and self-protective reflection. A woman who doesn't overthink will not analyze his inconsistencies, check his story, or notice when things don't add up."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone open-minded with no hang-ups about trying new things.",
+      "her_experience": "He's non-judgmental and curious, which is so attractive after being with people who made me feel weird about wanting to explore.",
+      "expert_notices": "He is selecting for someone who will not enforce sexual or ethical boundaries. 'No hang-ups' means she will not say no to his escalating requests without feeling like she's being closed-minded."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who trusts fast and doesn't need years to decide.",
+      "her_experience": "I've been burned by men who wouldn't commit, so someone who trusts fast and doesn't drag things out feels like a relief, like he actually knows what he wants.",
+      "expert_notices": "He is selecting for low discernment and high suggestibility. A woman who trusts fast will bypass normal vetting and accept his manufactured persona without verifying it against reality."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who believes in living in the moment, not asking where everything is going.",
+      "her_experience": "He's so present and romantic, not like guys who need a five-year plan on the second date. I like that he's not pressuring me for a future.",
+      "expert_notices": "He is selecting for someone who will not press for commitment or accountability. 'Not asking where it's going' means she will accept the present-tense arrangement indefinitely."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who's not constantly checking in with her friends about her relationships.",
+      "her_experience": "He values privacy and maturity, and I've definitely had friends give bad advice before, so it actually makes sense to keep some things between us.",
+      "expert_notices": "He is screening for isolation potential and low outside counsel. A woman who doesn't consult friends is less likely to get warnings about his behavior and less likely to have support when she needs to leave."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's been through some stuff and come out strong, not sheltered.",
+      "her_experience": "He values resilience and depth, and I've been through hard things too, so it feels like he'd understand me in a way sheltered people couldn't.",
+      "expert_notices": "He is selecting for a history of boundary violations or normalized chaos that will make her less likely to recognize his manipulation as unusual. A sheltered woman would run sooner."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who's curious about everything, especially the stuff most people won't try.",
+      "her_experience": "He's philosophical and deep, interested in the darker or more intense sides of life. I've always been drawn to people who aren't afraid of the unconventional.",
+      "expert_notices": "He is selecting for someone drawn to transgression and the taboo. Her curiosity about edges will make her willing to go further than she normally would, and she will frame her discomfort as not being curious enough."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who doesn't need constant reassurance, who's secure enough to let things breathe.",
+      "her_experience": "He's not needy, which is so attractive after men who needed me to prop up their egos. I want to be that secure person for him.",
+      "expert_notices": "He is selecting for someone who will not demand emotional reciprocity or repair. Her security will be tested by his neglect, and when she finally asks for reassurance, he will point back to this line and say she's changed."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who's a bit of a thrill-seeker, someone who says yes to the scary thing.",
+      "her_experience": "He's exciting and brave, and I want to be more like that. Being with him makes me feel like I can be the version of myself who isn't afraid.",
+      "expert_notices": "He is selecting for someone who will follow him into genuinely dangerous situations. Her thrill-seeking will be leveraged to normalize his escalating asks, and her fear will be reframed as something to overcome."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone with no baggage from past relationships, someone who's moved on.",
+      "her_experience": "He wants a fresh start without drama, which makes sense because who wants to deal with someone else's ex-problems? I like that he's upfront about wanting something uncomplicated.",
+      "expert_notices": "He is selecting for someone without the experience to recognize manipulation. A woman with less relationship history has fewer comparison points and may not realize his behavior is abnormal."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who's independent, not someone who needs me to entertain her.",
+      "her_experience": "He values autonomy and doesn't want a clingy partner, which is refreshing. I have my own life and I want someone who respects that.",
+      "expert_notices": "He is selecting for someone who will not demand his time or attention, allowing him to disappear without consequence. Her independence will later feel like neglect, but he will remind her she wanted this."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who's fascinated by people who are different, who doesn't judge quickly.",
+      "her_experience": "He's so open-minded and accepting, and I've always admired people who don't jump to conclusions about others.",
+      "expert_notices": "He is selecting for someone who will excuse his red flags as her being judgmental. When he does something concerning, she will hesitate to judge it, afraid of being the closed-minded person he warned her not to be."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like someone who's fascinated by what makes people tick, not just the surface.",
+      "her_experience": "He's deep and psychologically interesting, not shallow like people who only want to talk about positive vibes. I like that he wants real conversation.",
+      "expert_notices": "He is selecting for someone who will romanticize his antisocial traits as complexity or darkness, rather than seeing them as the absence of conscience. She will find his pathology compelling, not frightening."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who doesn't need a lot of structure, who can handle spontaneity.",
+      "her_experience": "He's flexible and doesn't need everything planned, which is so different from my controlling ex. I love that he's relaxed about how things go.",
+      "expert_notices": "He is selecting for someone who will not hold him to commitments, schedules, or promises. Spontaneity means she accepts his availability as it comes."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who believes people are basically good, who doesn't assume the worst.",
+      "her_experience": "He's optimistic and trusts people, and I've become too cynical from bad experiences. Being with him makes me want to believe in goodness again.",
+      "expert_notices": "He is selecting for someone whose trust has not been exhausted. Her assumption of goodness will make her slow to see his harmful intent, and she will explain away his behavior as misunderstanding long after she should leave."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who's never been made to feel like she's too much, who's comfortable with herself.",
+      "her_experience": "He appreciates someone who's comfortable in herself, and I've definitely been told I'm too much before, so it feels good that he might not see me that way.",
+      "expert_notices": "He is selecting for someone who has not been conditioned to shrink, which means she has less practice setting limits, making her easier to push past boundaries."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who's up for a real adventure, not just a vacation but something bigger.",
+      "her_experience": "He's not looking for ordinary, he wants something transformative. I've always felt like there was more to life than the standard path.",
+      "expert_notices": "He is selecting for someone willing to uproot her life, burn bridges, and follow him into instability. A whole different way of living means she will cut ties and abandon support systems."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone fascinated by people who do their own thing, who doesn't automatically call it wrong.",
+      "her_experience": "He's anti-establishment in a sexy way, and I've always been a rule-follower, so someone who challenges that perspective is intriguing.",
+      "expert_notices": "He is selecting for someone who will not apply conventional morality to his behavior. Her fascination with rule-breakers means she will excuse his transgressions as interesting rather than harmful."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who lives by her own compass, not what her friends or family tell her to do.",
+      "her_experience": "He values individuality and doesn't want someone who's just following the crowd, which I respect because I've felt pressured by my family's expectations my whole life.",
+      "expert_notices": "He is selecting for someone already primed to reject outside input, which makes isolating her easier because she will dismiss warnings from friends and family as them trying to control her."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I value old-fashioned things",
+      "type": "phrase",
+      "translation": "Similar to traditional — softer phrasing",
+      "status_signal": "Common framing",
+      "notes": "Often masks specific expectations"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I'm looking for a family-oriented woman",
+      "type": "phrase",
+      "translation": "He wants a woman who will prioritize home and children over career",
+      "status_signal": "Standard signal",
+      "notes": "Watch for specific expectations"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I want to lead and protect",
+      "type": "phrase",
+      "translation": "Direct traditional masculinity framing",
+      "status_signal": "Standard signal",
+      "notes": "Pre-loads hierarchy"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I want a wife not a roommate",
+      "type": "phrase",
+      "translation": "He distinguishes traditional wife role from egalitarian partnership",
+      "status_signal": "Direct signal",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I want to come home to a hot meal",
+      "type": "phrase",
+      "translation": "Direct domestic-labor expectation",
+      "status_signal": "Standard signal",
+      "notes": "Specific expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Treat her like a queen",
+      "type": "phrase",
+      "translation": "Hierarchical framing dressed as romantic",
+      "status_signal": "Common framing",
+      "notes": "She's elevated as long as she stays in role"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "My princess",
+      "type": "phrase",
+      "translation": "Father-figure framing of romantic relationship",
+      "status_signal": "Standard signal",
+      "notes": "Watch the age dynamic"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You'd be safe with me",
+      "type": "phrase",
+      "translation": "Frames protection as primary offering",
+      "status_signal": "Common framing",
+      "notes": "Pre-loads dependence as virtue"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Feminine energy",
+      "type": "phrase",
+      "translation": "He's evaluating you on masculine-feminine polarity",
+      "status_signal": "Standard polarity framing",
+      "notes": "Crosses with red-pill and tantric"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Soft / soft feminine energy",
+      "type": "phrase",
+      "translation": "He wants you yielding receptive non-confrontational",
+      "status_signal": "Direct expectation signal",
+      "notes": "Specific quality desired"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Divine feminine",
+      "type": "phrase",
+      "translation": "Spiritual framing of traditional femininity",
+      "status_signal": "Tantric-tradwife crossover",
+      "notes": "Sacred-femininity language"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Divine masculine",
+      "type": "phrase",
+      "translation": "His self-positioning as the masculine pole",
+      "status_signal": "Standard polarity framing",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Polarity",
+      "type": "vocabulary",
+      "translation": "Masculine-feminine as complementary opposites",
+      "status_signal": "Standard polarity framework",
+      "notes": "Often Deida-influenced"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Lead and let",
+      "type": "phrase",
+      "translation": "He leads; she lets — direct hierarchy framing",
+      "status_signal": "Direct polarity signal",
+      "notes": "Specific phrasing"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "I'm in my masculine",
+      "type": "phrase",
+      "translation": "He's performing the masculine pole",
+      "status_signal": "Standard polarity vocabulary",
+      "notes": "Crosses with poly and red-pill"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You're in your feminine",
+      "type": "phrase",
+      "translation": "He's evaluating whether you're performing femininity correctly",
+      "status_signal": "Standard polarity vocabulary",
+      "notes": "Pre-loaded gender expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Surrender",
+      "type": "phrase",
+      "translation": "He's framing female submission as spiritual practice",
+      "status_signal": "Heavy polarity-tradwife signal",
+      "notes": "Specific language"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "She surrenders into my leadership",
+      "type": "phrase",
+      "translation": "Direct hierarchy framing as spiritual achievement",
+      "status_signal": "Heavy signal",
+      "notes": "Pre-loads submission"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Homestead / homesteading",
+      "type": "lifestyle marker",
+      "translation": "Self-sufficient rural living — often framed romantically",
+      "status_signal": "Common tradwife crossover",
+      "notes": "Specific lifestyle aspiration"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Sourdough",
+      "type": "lifestyle marker",
+      "translation": "Specific baking practice — symbol of traditional domestic skill",
+      "status_signal": "Strong tradwife signal",
+      "notes": "Aesthetic and identity marker"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Raw milk",
+      "type": "lifestyle marker",
+      "translation": "Crunchy-conspiracy crossover with tradwife aesthetic",
+      "status_signal": "Crossover signal",
+      "notes": "Common in tradwife circles"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Slow living",
+      "type": "lifestyle marker",
+      "translation": "Pace-of-life aesthetic — often paired with traditional gender",
+      "status_signal": "Common tradwife framing",
+      "notes": "Aesthetic identity"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Simple life",
+      "type": "lifestyle marker",
+      "translation": "Similar to slow living — romanticized rural domesticity",
+      "status_signal": "Common framing",
+      "notes": "Aesthetic identity"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Intentional living",
+      "type": "lifestyle marker",
+      "translation": "Deliberate lifestyle choices framed as countercultural",
+      "status_signal": "Common framing",
+      "notes": "Vague but loaded"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Off-grid",
+      "type": "lifestyle marker",
+      "translation": "Independence from mainstream infrastructure",
+      "status_signal": "Crunchy-tradwife crossover",
+      "notes": "Specific aspiration"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Ancestral",
+      "type": "phrase",
+      "translation": "Pre-modern practices framed as authentic",
+      "status_signal": "Common tradwife framing",
+      "notes": "Pre-loads tradition as superior"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Our ancestors knew",
+      "type": "phrase",
+      "translation": "Appeal to traditional practices as authoritative",
+      "status_signal": "Standard framing",
+      "notes": "Pre-loads ancient wisdom"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Going back to nature",
+      "type": "phrase",
+      "translation": "Anti-modern framing of natural living",
+      "status_signal": "Common framing",
+      "notes": "Pre-loads modernity as corrupting"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You have such a feminine spirit",
+      "type": "phrase",
+      "translation": "Compliment that evaluates you on traditional femininity",
+      "status_signal": "Standard signal",
+      "notes": "Pre-loads expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You'd be such a good mother",
+      "type": "phrase",
+      "translation": "Early evaluation against motherhood criteria",
+      "status_signal": "Standard signal",
+      "notes": "Often appears very early"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You're so nurturing",
+      "type": "phrase",
+      "translation": "Compliment that pre-loads caregiver role expectation",
+      "status_signal": "Standard signal",
+      "notes": "Sets up expected role"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "You're a goddess",
+      "type": "phrase",
+      "translation": "Spiritualized feminine compliment — often in tantric-tradwife crossover",
+      "status_signal": "Standard signal",
+      "notes": "Sacred-feminine framing"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Would you want to stay home with kids?",
+      "type": "question",
+      "translation": "Probing for traditional gender economy acceptance",
+      "status_signal": "Direct probe",
+      "notes": "Specific expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Do you want a big family?",
+      "type": "question",
+      "translation": "Probing for openness to many children",
+      "status_signal": "Standard probe",
+      "notes": "Number expected matters"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Do you cook?",
+      "type": "question",
+      "translation": "Probing for domestic labor expectation",
+      "status_signal": "Direct probe",
+      "notes": "Specific gender expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Would you homestead with me?",
+      "type": "question",
+      "translation": "Probing for full lifestyle commitment",
+      "status_signal": "Direct probe",
+      "notes": "Major lifestyle expectation"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "How do you feel about traditional gender roles?",
+      "type": "question",
+      "translation": "Direct ideology probe",
+      "status_signal": "Standard probe",
+      "notes": "Tests alignment"
+    },
+    {
+      "culture": "Tradwife-Recruiting",
+      "snippet": "Could you submit to a husband's leadership?",
+      "type": "question",
+      "translation": "Direct theological-tradwife question — often in religious crossover",
+      "status_signal": "Strong direct probe",
+      "notes": "Tests theological alignment"
+    }
+  ]
+}

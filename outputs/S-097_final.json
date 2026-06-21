@@ -1,0 +1,455 @@
+{
+  "scenario_id": "S-097",
+  "player_type": "Manipulative Morgan",
+  "scenario": {
+    "scenario_id": "S-097",
+    "architecture_name": "He uses caretaking, future-talk, and possessive charm to make me feel chosen before I notice the control underneath.",
+    "culture": "Tradwife-Recruiting",
+    "demographics": "Young adult woman dating a man; early-stage couple; small-town Kentucky; he is a mechanic at the only auto shop",
+    "cultural_context": "Working-class local community centered around an auto shop and small-town dating norms",
+    "geographic_setting": "Small town in Kentucky, rural close-knit community",
+    "core_behaviors": [
+      "Plans dates and pays without really letting me share the load",
+      "Uses sweet, protective language to make speed feel like devotion",
+      "Slides into possessive future-talk and treats it like romance"
+    ],
+    "satellite_signals": "Working-class auto shop setting; close-knit town norms; tradwife language about leading, protecting, and a little place of our own; charm framed as old-fashioned care.",
+    "dismissible_red_flags": "He seems attentive and responsible, and the possessive comments can pass as teasing. The fast future-talk feels flattering because it comes wrapped in protection and certainty.",
+    "scenario_text": "I’ve only been seeing Jake a few weeks, but it already feels like he knows the shape of my days better than I do. He works at the auto shop off Main, and in this town everybody seems to know him, which honestly made me feel kind of lucky when he started paying attention to me. He keeps saying he likes a woman who’s soft and easy to be around, and I guess I like that he’s so calm about everything.\n\nHe planned our last two dates himself. He texted, “I want to lead and protect, babe, that’s just how I am,” and then laughed like it was the most natural thing in the world. When I tried to split the bill, he just gave me that little smile and said, “Look at how I treat you. Does that look like someone who’d do that?” I felt silly even reaching for my card.\n\nHe’s always asking what time I get off, what I’m doing after church, who I’m with at the diner. He says he just likes being in the loop because he’s “serious about us,” and I do like feeling chosen. He brought me sourdough from his sister’s kitchen and said I’d be such a good mother someday, which was sweet in a weirdly specific way. He also keeps saying things like, “We don’t need a crowd, just our little place,” and “You’d be safe with me.”\n\nIt’s all very sweet, and I do think he means it sweetly. I just noticed he gets a little too pleased when I cancel plans and stay in with him, like that’s the version of me he likes best. Do you think I was being too sensitive when he said I’d be safe with him?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Jake a few weeks",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The timeline matters. She is already in fast emotional weather, which makes the later control feel like devotion instead of pressure.",
+      "snippet_id": "S-097-SN0001"
+    },
+    {
+      "quote": "he knows the shape of my days better than I do",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like attentiveness, but it also means he is starting to define her routine from the outside. The relationship is already leaning toward him as the organizer of her life.",
+      "snippet_id": "S-097-SN0002"
+    },
+    {
+      "quote": "He works at the auto shop off Main",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places him in the small-town working-class world that gives him local familiarity and social reach. It is ordinary on the surface, but it also explains why his attention carries weight.",
+      "snippet_id": "S-097-SN0003"
+    },
+    {
+      "quote": "everybody seems to know him",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Social standing is part of the appeal. Being known in town gives him easy credibility, so her trust is being pulled along by the room before she has much personal evidence.",
+      "snippet_id": "S-097-SN0004"
+    },
+    {
+      "quote": "I felt kind of lucky",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the emotional hook. She is already translating his attention into luck and rarity, which makes it harder to notice when the attention starts setting terms.",
+      "snippet_id": "S-097-SN0005"
+    },
+    {
+      "quote": "He keeps saying he likes a woman who’s soft and easy to be around",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is role-casting. In tradwife language, 'soft' and 'easy to be around' sounds like praise, but it quietly rewards her for not resisting, not complicating things, and not having needs that interrupt his comfort.",
+      "snippet_id": "S-097-SN0006"
+    },
+    {
+      "quote": "I guess I like that he’s so calm about everything",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "His calm reads as stability, and she is soothing herself with that interpretation. The seam is that calm can also mean emotional withholding, especially when paired with his need to direct everything.",
+      "snippet_id": "S-097-SN0007"
+    },
+    {
+      "quote": "He planned our last two dates himself",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Planning is not the problem by itself. The issue is that he is already occupying the decision-making role, which puts her in the passenger seat before the relationship has even settled.",
+      "snippet_id": "S-097-SN0008"
+    },
+    {
+      "quote": "I want to lead and protect, babe, that’s just how I am",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest hierarchy statement in the whole scene. In a tradwife register, 'lead and protect' sounds honorable, but it pre-loads obedience as the natural response and makes his preferences feel morally protected.",
+      "snippet_id": "S-097-SN0009"
+    },
+    {
+      "quote": "he laughed like it was the most natural thing in the world",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The laugh smooths over the power claim. He makes the line feel normal, which helps her absorb it instead of pausing to ask what exactly he is asking for.",
+      "snippet_id": "S-097-SN0010"
+    },
+    {
+      "quote": "Look at how I treat you",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is a convincing-not-conveying move. He points to the nice treatment as proof that she should not question him, turning generosity into evidence on his behalf.",
+      "snippet_id": "S-097-SN0011"
+    },
+    {
+      "quote": "Does that look like someone who’d do that?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He answers her concern by making his character the argument. Instead of addressing the actual question, he pushes her to judge him by the performance of kindness.",
+      "snippet_id": "S-097-SN0012"
+    },
+    {
+      "quote": "what time I get off",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "These little check-ins can be sweet early on, but they also establish that he wants access to her schedule. The pattern is about becoming the person who knows where she is and when.",
+      "snippet_id": "S-097-SN0013"
+    },
+    {
+      "quote": "who I’m with at the diner",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a soft surveillance question. It sounds casual, but it starts mapping her social life and who counts as part of her orbit.",
+      "snippet_id": "S-097-SN0014"
+    },
+    {
+      "quote": "He says he just likes being in the loop",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Being 'in the loop' sounds modern and reasonable, but it also excuses monitoring. He is normalizing access to her movements and relationships as if that were the same thing as closeness.",
+      "snippet_id": "S-097-SN0015"
+    },
+    {
+      "quote": "he’s “serious about us”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This phrase makes the relationship sound mature, but it also speeds up the couple identity. 'Us' starts to matter more than her separate life.",
+      "snippet_id": "S-097-SN0016"
+    },
+    {
+      "quote": "I do like feeling chosen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the emotional vulnerability he is working. Feeling chosen is lovely, but it also makes her more willing to accept the terms that come with being selected.",
+      "snippet_id": "S-097-SN0017"
+    },
+    {
+      "quote": "He brought me sourdough from his sister’s kitchen",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The domestic gift fits the tradwife register and feels intimate, especially because it comes through family. It also quietly pulls her into a world where his people and his routines are already centered.",
+      "snippet_id": "S-097-SN0018"
+    },
+    {
+      "quote": "you’d be such a good mother someday",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is early role assignment. It sounds like a compliment, but it evaluates her against a future caretaker script and makes her feel valued for the version of herself that serves his story.",
+      "snippet_id": "S-097-SN0019"
+    },
+    {
+      "quote": "We don’t need a crowd, just our little place",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The 'we' here quietly narrows her world. It sounds cozy, but it also starts defining intimacy as separation from other people.",
+      "snippet_id": "S-097-SN0020"
+    },
+    {
+      "quote": "You’d be safe with me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a classic protection line, and in this register it can sound almost ideal. The catch is that safety is being offered as something he provides, which puts him in charge of what counts as safe.",
+      "snippet_id": "S-097-SN0021"
+    },
+    {
+      "quote": "I just noticed he gets a little too pleased when I cancel plans",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is noticing the reward structure. He seems happiest when her outside life shrinks, which is exactly how isolation starts to feel voluntary.",
+      "snippet_id": "S-097-SN0022"
+    },
+    {
+      "quote": "Do you think I was being too sensitive when he said I’d be safe with him?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The question is tiny on purpose. She is not asking whether he is controlling her, just whether she overreacted to one line that sounded sweet but carried a lot of authority.",
+      "snippet_id": "S-097-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

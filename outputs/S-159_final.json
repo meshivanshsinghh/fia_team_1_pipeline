@@ -1,0 +1,400 @@
+{
+  "scenario_id": "S-159",
+  "player_type": "Blunt Bailey",
+  "scenario": {
+    "scenario_id": "S-159",
+    "architecture_name": "He uses literal honesty and practical care to move her into a faster, more exclusive relationship where his version of reality becomes the default.",
+    "culture": "Hustle Culture",
+    "demographics": "F/27, software developer, newly dating Carlos, Minneapolis with family ties to Texas",
+    "cultural_context": "Urban professional/social dating sphere involving a software developer and family-oriented Latino cultural references",
+    "geographic_setting": "Minneapolis, with family ties to Texas",
+    "core_behaviors": [
+      "Calls blunt accuracy care and makes it feel refreshing",
+      "Uses sustained attention and practical help to create fast intimacy",
+      "Frames speed, planning, and family inclusion as obvious rather than negotiable"
+    ],
+    "satellite_signals": "Hustle-culture language around being 'locked in,' 'supporting the mission,' and 'running at my pace' blends with Latino family references and a software-dev, optimization-fluent dating style. His care is action-based, his honesty is literal, and his interest is intense without sounding flashy.",
+    "dismissible_red_flags": "At this stage it reads like refreshing directness, good planning, and genuine interest in her life. The speed feels flattering, and the bluntness can seem like honesty rather than control.",
+    "scenario_text": "I’ve only been seeing Carlos a few weeks, but it already feels weirdly easy in a good way. He’s a software developer here in Minneapolis, always in some kind of deep work mode, and he says things exactly the way he means them. When I asked what he thought about my manager, he said, “I think he’s mismanaging you,” like it was just a fact. It stung for a second, but honestly, I liked that he didn’t dress it up.\n\nHe’s also the first guy who has ever paid that much attention to my random little comments. I mentioned one author I liked, and he read the whole series, plus the biography, so we could talk about it properly. He bought me a new charger because my phone dies every Tuesday before therapy, and he noticed I was out of allergy pills and just replaced them. That kind of thing makes me feel really seen.\n\nHe does get intense about plans, though. He wanted the whole Saturday itinerary before lunch, and when Sofia texted that she might be free, he got stuck on the word might for a while. He said, “I need clear words, not hints,” which is fair, I guess. He’s very much an “I’m locked in” person, and he keeps saying he wants someone who can run at his pace. I kind of like that he’s so intentional.\n\nHe’s already talking about meeting my parents in Texas and keeps saying, “Familia primero,” like it’s the most natural thing in the world. He even asked if I’d want to go to the quieter Mexican place next time because he can actually focus on me there. It all feels sweet and straightforward, and he never makes me guess what he means. Maybe I’m just not used to someone being this direct, but it’s been nice. Do you think I was being too sensitive about the “clear words, not hints” thing?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Carlos a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Early-stage relationship timing. It sets the honeymoon frame and shows how fast the attachment is moving without sounding alarmed.",
+      "snippet_id": "S-159-SN0001"
+    },
+    {
+      "quote": "a software developer here in Minneapolis",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Basic demographic and class placement. The job and city locate him in a specific urban professional world.",
+      "snippet_id": "S-159-SN0002"
+    },
+    {
+      "quote": "he says things exactly the way he means them",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is her praise for his blunt honesty. Surface-level it sounds reassuring, but it also establishes that she will treat his words as literal truth.",
+      "snippet_id": "S-159-SN0003"
+    },
+    {
+      "quote": "I think he’s mismanaging you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He gives a clean judgment about her manager instead of asking how she sees it. The line is framed as clarity, but it quietly installs him as the person who interprets her work life.",
+      "snippet_id": "S-159-SN0004"
+    },
+    {
+      "quote": "I liked that he didn’t dress it up",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is rewarding bluntness because it feels more trustworthy than polish. That makes his directness feel like integrity rather than a way of steering her.",
+      "snippet_id": "S-159-SN0005"
+    },
+    {
+      "quote": "the whole series, plus the biography",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Perseverance-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He doesn’t just mention interest, he follows it all the way through. It reads as devotion, but it also shows how far his attention can lock onto her world.",
+      "snippet_id": "S-159-SN0006"
+    },
+    {
+      "quote": "He bought me a new charger",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A practical gift looks sweet, but it also puts him in the position of noticing and fixing her daily friction. That can create gratitude and dependence very quickly.",
+      "snippet_id": "S-159-SN0007"
+    },
+    {
+      "quote": "my phone dies every Tuesday before therapy",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This gives a small personal routine and shows he is tracking it. It also makes the charger feel tailored, which increases emotional debt.",
+      "snippet_id": "S-159-SN0008"
+    },
+    {
+      "quote": "he noticed I was out of allergy pills",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Empathy-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is attentive to her needs in a way that feels caring. The structure is that he becomes the one who notices what she lacks before she does.",
+      "snippet_id": "S-159-SN0009"
+    },
+    {
+      "quote": "just replaced them",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He doesn’t ask or coordinate first, he simply takes over the task. It is helpful, but it also normalizes him acting on her behalf.",
+      "snippet_id": "S-159-SN0010"
+    },
+    {
+      "quote": "He wanted the whole Saturday itinerary",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Wanting advance structure can seem organized, but here it means he needs the shape of her time in hand. That sets him up to manage the relationship pace.",
+      "snippet_id": "S-159-SN0011"
+    },
+    {
+      "quote": "I need clear words, not hints",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This sounds like a reasonable communication preference, but it also makes her responsible for perfect explicitness. Anything less can later be treated as her mistake.",
+      "snippet_id": "S-159-SN0012"
+    },
+    {
+      "quote": "I’m locked in",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Hustle-culture language makes focus sound admirable. Here it also signals that his attention is fixed and hard to redirect once he decides on a track.",
+      "snippet_id": "S-159-SN0013"
+    },
+    {
+      "quote": "someone who can run at his pace",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a partner filter disguised as ambition. It means the relationship has to adapt to his tempo, which quietly makes her the one who must keep up.",
+      "snippet_id": "S-159-SN0014"
+    },
+    {
+      "quote": "He’s already talking about meeting my parents in Texas",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Fast family integration can feel flattering, especially in a family-centered context. It also speeds up commitment before the relationship has had time to settle.",
+      "snippet_id": "S-159-SN0015"
+    },
+    {
+      "quote": "Familia primero",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is culturally warm on the surface, but it also works like a value claim that can make his priorities feel morally obvious. Once it is framed that way, disagreement can feel like disrespect.",
+      "snippet_id": "S-159-SN0016"
+    },
+    {
+      "quote": "the quieter Mexican place next time",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The restaurant choice is ordinary, but it shows he is already shaping the date around his preferences and comfort. It reads as considerate while still narrowing the frame.",
+      "snippet_id": "S-159-SN0017"
+    },
+    {
+      "quote": "I can actually focus on me there",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds sweet, but it also makes the setting about his ability to concentrate on her. She becomes the object of his channelled attention, which can feel flattering and enclosing at once.",
+      "snippet_id": "S-159-SN0018"
+    },
+    {
+      "quote": "it all feels sweet and straightforward",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is using the relationship’s own language to reassure herself. The repeated sweetness makes the whole thing feel safe, which is exactly why the pressure is easy to miss.",
+      "snippet_id": "S-159-SN0019"
+    },
+    {
+      "quote": "Do you think I was being too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is shrinking the concern down to her reaction instead of the comment itself. That is the small, socially acceptable question that keeps the bigger pattern off the table.",
+      "snippet_id": "S-159-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

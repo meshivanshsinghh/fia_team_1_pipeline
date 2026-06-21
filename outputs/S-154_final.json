@@ -1,0 +1,438 @@
+{
+  "scenario_id": "S-154",
+  "player_type": "Tornado Toby",
+  "scenario": {
+    "scenario_id": "S-154",
+    "architecture_name": "He turns his scattered, high-voltage attention into a sweet kind of orbit that makes me feel chosen, then quietly makes me carry the steadiness around it.",
+    "culture": "Polyamorous",
+    "demographics": "F/24 Latina, M/26 Latino",
+    "cultural_context": "Romantic relationship centered around family involvement and constant texting; intimate partner dynamics within a close-knit Latino family sphere",
+    "geographic_setting": "Spanish-speaking family/social environment, likely a Latino urban or suburban community",
+    "core_behaviors": [
+      "Constant texting and rapid idea-jumping that feels electric",
+      "Hyperfocus on her life and family as romantic attention",
+      "Early dependence on her for planning, timing, and emotional anchoring"
+    ],
+    "satellite_signals": "Benign chaos, high-energy spontaneity, affectionate overwhelm, and a growing pattern where his excitement sets the pace while she keeps the practical pieces together.",
+    "dismissible_red_flags": "At this stage it mostly reads as enthusiasm, honesty, and a sweetly disorganized brain. The imbalance is easy to excuse because he apologizes fast, sounds sincere, and never acts entitled.",
+    "scenario_text": "Carlos has been in this really electric phase lately where he seems to have ten thoughts at once and somehow all of them land on me. He texts me all day, then sends three more messages because he remembered something I said about my mamá’s old recipes or Mateo’s band. It is kind of cute, honestly. He says I’m the only person who can keep up with his brain, which sounds flattering in a way I still believe.\n\nLast night he called while I was helping my mom with dinner and said, “Wait, that connects to the jellyfish thing you mentioned, which is basically your whole job, oh, that reminds me of a song, hang on, can I play it for you?” Then he showed up after my cousin’s birthday with coffee and said he just wanted to see my face. I laughed because he looked so pleased with himself, like he’d won something.\n\nHe has started doing this thing where the plan that was mine gets replaced by a better idea he just had. Usually it is more fun, so I go along with it. But I noticed I am the one who keeps the calendar, the reminders, the restaurant times, all of it. He’ll say, “You’re better at this anyway,” in this really sweet way, and I know he means it as a compliment. I just end up feeling like the responsible one.\n\nHe also disappears into projects. A couple nights ago he went quiet for two days because he got obsessed with fixing a bike and said the rest of the world sort of fell away. When he came back, he asked if I was okay and seemed genuinely upset that I’d felt dropped. I do think he cares. He just burns so bright that I can’t always tell when I’m still in the light.\n\nDo you think I was being too sensitive when I said I felt a little dropped?"
+  },
+  "snippets": [
+    {
+      "quote": "Carlos has been in this really electric phase lately",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the first clue to the pattern. 'Electric phase' sounds romantic, but it also signals a lot of energy and emotional charge that can pull her into his orbit fast.",
+      "snippet_id": "S-154-SN0001"
+    },
+    {
+      "quote": "he seems to have ten thoughts at once",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This reads like charming scatter, but it also sets up why his attention keeps shifting. The instability is already there, just not yet framed as a problem.",
+      "snippet_id": "S-154-SN0002"
+    },
+    {
+      "quote": "all of them land on me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "His attention keeps returning to her, which feels flattering, but the phrase also shows how much of his mental movement is being routed through her.",
+      "snippet_id": "S-154-SN0003"
+    },
+    {
+      "quote": "He texts me all day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Constant contact can feel sweet early on. It also starts building a rhythm where she is expected to stay available and responsive.",
+      "snippet_id": "S-154-SN0004"
+    },
+    {
+      "quote": "my mamá’s old recipes",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places her in a family-centered Latino setting. It helps show that he is folding himself into her intimate world, which makes his attention feel especially personal.",
+      "snippet_id": "S-154-SN0005"
+    },
+    {
+      "quote": "Mateo’s band",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A family name and a concrete sibling detail ground the scene culturally. His interest in these details is part of the draw, because it makes him seem invested in her whole life.",
+      "snippet_id": "S-154-SN0006"
+    },
+    {
+      "quote": "I’m the only person who can keep up with his brain",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This sounds flattering, but it also makes her feel specially chosen for being able to handle him. That kind of praise can quietly assign her a role as the exceptional one who can manage his pace.",
+      "snippet_id": "S-154-SN0007"
+    },
+    {
+      "quote": "Wait, that connects to the jellyfish thing you mentioned",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is linking random ideas back to her, which feels playful and intimate. The second reading is that his mind keeps circling her, making her the center of his attention.",
+      "snippet_id": "S-154-SN0008"
+    },
+    {
+      "quote": "which is basically your whole job",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a joking way of turning her into the person he is thinking through. It sounds cute, but it also casts her as the place where his thoughts are kept and organized.",
+      "snippet_id": "S-154-SN0009"
+    },
+    {
+      "quote": "can I play it for you",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The request is affectionate, but it also shows how quickly he wants to move her into his current mental state. She is expected to receive the whole burst of energy with him.",
+      "snippet_id": "S-154-SN0010"
+    },
+    {
+      "quote": "he showed up after my cousin’s birthday with coffee",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A surprise visit with coffee reads as thoughtful and romantic. It also creates a feeling that he is always able to insert himself into her family time and make himself part of the scene.",
+      "snippet_id": "S-154-SN0011"
+    },
+    {
+      "quote": "he just wanted to see my face",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is classic early-stage sweetness, but it also centers his need to see her right away. The line makes her feel wanted, and that feeling can become a kind of debt.",
+      "snippet_id": "S-154-SN0012"
+    },
+    {
+      "quote": "the plan that was mine got replaced by a better idea he just had",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Control-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is one of the clearest structural beats. He does not force the issue, but his excitement keeps overriding her plans, and she is the one adjusting.",
+      "snippet_id": "S-154-SN0013"
+    },
+    {
+      "quote": "Usually it is more fun",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her own rationalization is part of the pattern. She is already teaching herself to treat his preference as the more exciting one, which makes it easier to yield.",
+      "snippet_id": "S-154-SN0014"
+    },
+    {
+      "quote": "I am the one who keeps the calendar, the reminders, the restaurant times",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the practical asymmetry. He may be warm and grateful, but she is carrying the logistics, which quietly makes her the manager of the relationship.",
+      "snippet_id": "S-154-SN0015"
+    },
+    {
+      "quote": "You’re better at this anyway",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds like praise, but it also assigns her the default role of competent organizer. The compliment makes the burden feel like a talent rather than a load.",
+      "snippet_id": "S-154-SN0016"
+    },
+    {
+      "quote": "He’ll say",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This marks how often he speaks in a reassuring, affectionate register. It helps show that the imbalance is wrapped in sweetness, not blunt demand.",
+      "snippet_id": "S-154-SN0017"
+    },
+    {
+      "quote": "He also disappears into projects",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Inconsistency-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "His attention drops off when something grabs him. That is not malicious, but it means she can go from central to forgotten without warning.",
+      "snippet_id": "S-154-SN0018"
+    },
+    {
+      "quote": "the rest of the world sort of fell away",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Out-of-sight-as-out-of-existence"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the core of his attention style. It sounds poetic, but it also means whatever is in front of him eclipses everything else, including her.",
+      "snippet_id": "S-154-SN0019"
+    },
+    {
+      "quote": "When he came back, he asked if I was okay",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-high",
+        "Accountability-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the repair side of the pattern. He does circle back and check the impact, which is why the whole thing still feels loving rather than cold.",
+      "snippet_id": "S-154-SN0020"
+    },
+    {
+      "quote": "I’d felt dropped",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is naming the feeling without making it a major accusation. That makes the concern sound small, but it also shows she is already registering the emotional whiplash.",
+      "snippet_id": "S-154-SN0021"
+    },
+    {
+      "quote": "He just burns so bright",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the narrator’s affectionate framing for his volatility and focus. It turns instability into brilliance, which is exactly why the early imbalance is easy to forgive.",
+      "snippet_id": "S-154-SN0022"
+    }
+  ],
+  "validation_warnings": [
+    "snippet[18]: unes_trait 'Out-of-sight-as-out-of-existence' missing -high/-low suffix"
+  ],
+  "repetition_warnings": []
+}

@@ -1,0 +1,439 @@
+{
+  "scenario_id": "S-033",
+  "player_type": "Tornado Toby",
+  "scenario": {
+    "scenario_id": "S-033",
+    "architecture_name": "He uses high-energy interest and cheerful check-ins to make her feel special while quietly making her the person who keeps the practical world together.",
+    "culture": "Hustle Culture",
+    "demographics": "Second-generation Mexican-American, F/21 college student, M/23 local deli supervisor",
+    "cultural_context": "College student working part-time at a local deli; family and neighborhood social sphere",
+    "geographic_setting": "San Diego, California; university and neighborhood/community setting",
+    "core_behaviors": [
+      "Hyperfocus and enthusiasm land as devotion",
+      "He turns her into the organizer by default",
+      "Concern is framed as care, but it also tracks her time and plans"
+    ],
+    "satellite_signals": "Workplace flirtation, community visibility, and hustle-culture praise all make his attention feel flattering and normal. His chaos reads as harmless, even charming, because he is warm, self-aware, and genuinely interested in her life.",
+    "dismissible_red_flags": "His interest could easily read as a supportive boss being friendly with a good employee. The questions about her weekend, studies, and family sound caring, and his praise is easy to absorb as encouragement rather than scrutiny.",
+    "scenario_text": "I’m probably overthinking this, but I wanted to ask because it was cute at first and now it’s sitting with me. I’ve been seeing this guy, Mateo, from the deli where I work near SDSU. He’s only a few years older than me, runs the closing shift, and he has this kind of zip-zip brain where one thing reminds him of six other things. It honestly made me laugh on our first coffee. He called me “my hardworking girl” after I stayed late to help him restock, and I thought, okay, that’s sweet.\n\nHe’s also the type who texts like a burst of energy. One minute he’s asking about my chem midterm, then he’s sending a song, then he’s saying he went down a rabbit hole about my hometown. I do like that he remembers little things. He even showed up at my cousin’s picnic with iced coffees for everybody and told my aunt I was “the best thing on his team.” My mom thought he was polite and cute.\n\nThe thing is, he keeps drifting into my calendar. If I mention a shift, he asks what time I get out. If I say I’m going to the beach with friends, he goes, “Cool, just text me when you’re back safe.” He says it like it’s normal, and maybe it is. He also forgets his own plans sometimes, so I’ve started being the one who remembers the reservation, the parking, the time we said we’d meet. He always says thanks, like I’m saving the day.\n\nI like him. I really do. It just feels a little like I’m becoming the place where all the details live, and I can’t tell if that’s just early dating or me being weird about a guy who’s honestly pretty sweet. Do you think I was being too sensitive about the “text me when you’re back safe” thing?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m probably overthinking this",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is preemptively shrinking her own concern. That kind of self-check is common when someone wants reassurance more than confrontation.",
+      "snippet_id": "S-033-SN0001"
+    },
+    {
+      "quote": "cute at first",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The feeling is genuinely positive, but it also shows how quickly his energy landed as appealing before she could assess it more fully.",
+      "snippet_id": "S-033-SN0002"
+    },
+    {
+      "quote": "Mateo, from the deli where I work near SDSU",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the relationship in a shared school-and-work world. It makes his attention feel ordinary and local, not obviously loaded.",
+      "snippet_id": "S-033-SN0003"
+    },
+    {
+      "quote": "runs the closing shift",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Dominance-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He has a small amount of workplace authority, but it is casual and specific. That matters because his attention comes from someone with a bit of access to her schedule and routine.",
+      "snippet_id": "S-033-SN0004"
+    },
+    {
+      "quote": "zip-zip brain",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Impulsivity-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is affectionate shorthand for fast, scattered thinking. It makes his chaos sound lively instead of destabilizing.",
+      "snippet_id": "S-033-SN0005"
+    },
+    {
+      "quote": "my hardworking girl",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "That phrase praises her, but it also assigns her a role. She is being named as a type of woman who fits his story and work world.",
+      "snippet_id": "S-033-SN0006"
+    },
+    {
+      "quote": "texts like a burst of energy",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The texting style is exciting and warm, but it also suggests a mind that moves fast and doesn’t stay steady. She experiences the energy as a draw.",
+      "snippet_id": "S-033-SN0007"
+    },
+    {
+      "quote": "asking about my chem midterm",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is attentive and interested in her life, which feels flattering. The pattern is that he is collecting details fast, not just making small talk.",
+      "snippet_id": "S-033-SN0008"
+    },
+    {
+      "quote": "went down a rabbit hole about my hometown",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is hyperfocus dressed as romance. It sounds sweet because he is interested, but the speed and depth of the interest can start to feel consuming.",
+      "snippet_id": "S-033-SN0009"
+    },
+    {
+      "quote": "showed up at my cousin’s picnic with iced coffees for everybody",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He makes a public effort with her family, which buys goodwill fast. The gesture is generous, but it also positions him as someone trying to become visible inside her circle.",
+      "snippet_id": "S-033-SN0010"
+    },
+    {
+      "quote": "the best thing on his team",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "That’s praise, but it is also team language. He is folding her into his world and flattering her in a way that makes her feel selected.",
+      "snippet_id": "S-033-SN0011"
+    },
+    {
+      "quote": "my mom thought he was polite and cute",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This shows the family approval frame. He benefits from looking respectful and harmless to the people whose opinion matters to her.",
+      "snippet_id": "S-033-SN0012"
+    },
+    {
+      "quote": "drifting into my calendar",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the first real seed of asymmetry. His interest starts to include her schedule, which can feel caring while quietly making her life more legible to him.",
+      "snippet_id": "S-033-SN0013"
+    },
+    {
+      "quote": "what time I get out",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is tracking her availability under the cover of interest. It sounds normal, but it nudges her toward reporting herself to him.",
+      "snippet_id": "S-033-SN0014"
+    },
+    {
+      "quote": "text me when you’re back safe",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "On the surface this is protective. The structural piece is that he is creating a routine where her movements become something he expects updates on.",
+      "snippet_id": "S-033-SN0015"
+    },
+    {
+      "quote": "he forgets his own plans sometimes",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Goal Persistence-low",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the benign version of unreliability. He is not controlling, but he is also not steady, so she starts covering the gaps without making a big deal of it.",
+      "snippet_id": "S-033-SN0016"
+    },
+    {
+      "quote": "I’ve started being the one who remembers the reservation, the parking, the time we said we’d meet",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the load-bearing imbalance. She has become the logistics holder by default, which feels helpful at first and then quietly turns into unpaid emotional and practical labor.",
+      "snippet_id": "S-033-SN0017"
+    },
+    {
+      "quote": "He always says thanks",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The gratitude is real, and that is why it works. It keeps the imbalance feeling like mutual sweetness instead of a role she has slipped into.",
+      "snippet_id": "S-033-SN0018"
+    },
+    {
+      "quote": "I’m saving the day",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is starting to narrate herself as the fixer. That’s a small internal shift, but it shows the relationship is already organizing her around his gaps.",
+      "snippet_id": "S-033-SN0019"
+    },
+    {
+      "quote": "I’m becoming the place where all the details live",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest interior signal. She can feel the role forming, even though she is still framing it as a maybe-normal early-dating thing.",
+      "snippet_id": "S-033-SN0020"
+    },
+    {
+      "quote": "just early dating",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is using time to dismiss the pattern. That’s understandable, but it also delays noticing that the same dynamic may keep growing.",
+      "snippet_id": "S-033-SN0021"
+    },
+    {
+      "quote": "too sensitive about the “text me when you’re back safe” thing",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The question is tiny on purpose. She is asking about wording, not the larger pattern, which is exactly how early role-shifts stay easy to excuse.",
+      "snippet_id": "S-033-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

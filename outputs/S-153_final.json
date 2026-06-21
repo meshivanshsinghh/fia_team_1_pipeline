@@ -1,0 +1,500 @@
+{
+  "scenario_id": "S-153",
+  "player_type": "Pity-Party Parker",
+  "scenario": {
+    "scenario_id": "S-153",
+    "architecture_name": "He bonds me through wounded intimacy, then quietly makes my comfort and attention feel like the price of being trusted.",
+    "culture": "Black Professional",
+    "demographics": "Likely young adult woman, dating Jamal, newly dating",
+    "cultural_context": "Urban dating/relationship context involving work, classes, and social life in Atlanta",
+    "geographic_setting": "East Atlanta, with references to Georgia State and an office/workplace setting",
+    "core_behaviors": [
+      "Opens up fast in a way that feels deeply personal",
+      "Frames himself as the one who is always hurt or let down",
+      "Makes her feel special by casting her as the exception who can finally understand him",
+      "Turns her reassurance and flexibility into proof of love"
+    ],
+    "satellite_signals": "Black professional class markers and Atlanta life details sit beside tender self-disclosure, future-talk, and soft dependence. The charm is real, but it is already recruiting her into emotional caretaking and exception status.",
+    "dismissible_red_flags": "At this stage it reads like rare chemistry, emotional openness, and a man who is serious about the relationship. His vulnerability and enthusiasm are easy to mistake for maturity and depth.",
+    "scenario_text": "I met Jamal right after a brutal week at work and class at Georgia State, so maybe I was already soft when he started in with the sweet talk. He brought me coffee one morning and said he just wanted to make my day lighter. Then he told me, kind of laughing at himself, that he doesn’t really open up to people because he’s been let down a lot. I remember thinking he seemed so real, not polished in that fake way some men are.\n\nThe first time I went to his place in East Atlanta, he apologized for the mess before I even took my coat off, then said, “I’m just glad you don’t judge me.” He kept saying I was different, that I got him in a way nobody else ever had. It felt good, honestly. It still does. He’ll look at me and say, “You’re the only one who makes me feel calm,” like I’m doing something important just by sitting there.\n\nHe also talks about his ex and his family like they all misunderstood him or used him up, and I do feel bad for him. I mean, who wouldn’t? When I mentioned I had a late meeting, he said, “Baby, I’ve got you. Don’t worry about a thing,” and then offered to pick me up anyway even though I said I could Uber. It was thoughtful. It was sweet.\n\nBut sometimes he gets this wounded look if I’m slow to text back, like I’ve already disappointed him. He’ll go quiet and say, “No, it’s fine, I’m used to handling things on my own,” and then I end up reassuring him for ten minutes. I keep telling myself he’s just sensitive. Still, I’m wondering if I’m supposed to be checking in more than I already am. Is it weird that he seems to need so much reassurance?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-153-SN0001",
+      "snippet_text": "I met Jamal right after a brutal week at work and class at Georgia State",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places her in a real Atlanta, Black-professional setting and quietly shows she is coming in tired and stretched thin, which makes his attention feel more relieving and more persuasive."
+    },
+    {
+      "snippet_id": "S-153-SN0002",
+      "snippet_text": "he started in with the sweet talk",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The phrase is affectionate on the surface, but it also signals fast charm doing work early. She experiences it as flattering, which is exactly why it can hook her."
+    },
+    {
+      "snippet_id": "S-153-SN0003",
+      "snippet_text": "He brought me coffee one morning",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A small caring gesture, but it arrives as a relationship move that buys goodwill. It creates a feeling of being considered before there is much history."
+    },
+    {
+      "snippet_id": "S-153-SN0004",
+      "snippet_text": "he just wanted to make my day lighter",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds tender, but it frames her mood as something he is responsible for managing. That turns care into a role she can feel grateful for."
+    },
+    {
+      "snippet_id": "S-153-SN0005",
+      "snippet_text": "he doesn’t really open up to people",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the wounded-vulnerability setup. He makes his openness feel rare and precious, which can make her feel chosen and responsible for handling it carefully."
+    },
+    {
+      "snippet_id": "S-153-SN0006",
+      "snippet_text": "he’s been let down a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Morality",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The line quietly builds a victim story without specifics. It invites sympathy while leaving out his own part in any conflict."
+    },
+    {
+      "snippet_id": "S-153-SN0007",
+      "snippet_text": "he seemed so real, not polished in that fake way some men are",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already comparing him favorably to other men and reading his roughness as authenticity. That makes the charm feel morally cleaner than it may be."
+    },
+    {
+      "snippet_id": "S-153-SN0008",
+      "snippet_text": "The first time I went to his place in East Atlanta",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The location grounds the relationship in a specific local world and also hints that his space is the default hangout, which gives him the setting advantage."
+    },
+    {
+      "snippet_id": "S-153-SN0009",
+      "snippet_text": "he apologized for the mess before I even took my coat off",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Self-deprecation can read as humility, but here it quickly asks for reassurance. She is put in the position of soothing him before she has even settled in."
+    },
+    {
+      "snippet_id": "S-153-SN0010",
+      "snippet_text": "I’m just glad you don’t judge me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is already framing her as the safe, good one. That sounds intimate, but it also quietly assigns her the job of being nonjudgmental on demand."
+    },
+    {
+      "snippet_id": "S-153-SN0011",
+      "snippet_text": "You’re different",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is classic exception language. It flatters her while separating her from the category of women who supposedly failed him."
+    },
+    {
+      "snippet_id": "S-153-SN0012",
+      "snippet_text": "you got him in a way nobody else ever had",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He makes her feel uniquely chosen, which is romantic on the surface. Structurally, it makes her responsible for a bond no one else has been able to sustain."
+    },
+    {
+      "snippet_id": "S-153-SN0013",
+      "snippet_text": "You’re the only one who makes me feel calm",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a big emotional job disguised as praise. She is cast as the regulator of his nervous system, which can make her feel important and trapped at the same time."
+    },
+    {
+      "snippet_id": "S-153-SN0014",
+      "snippet_text": "he talks about his ex and his family like they all misunderstood him or used him up",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Deception-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Morality",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He presents a trail of wrongs while staying the innocent center of every story. That sets up pity and also warns her what kind of woman gets cast as the problem."
+    },
+    {
+      "snippet_id": "S-153-SN0015",
+      "snippet_text": "I do feel bad for him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Empathy-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her sympathy is sincere, but it also shows the hook working. She is already moving toward caretaking before any real reciprocity has been built."
+    },
+    {
+      "snippet_id": "S-153-SN0016",
+      "snippet_text": "Baby, I’ve got you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds protective, but it also creates a caretaker stance. He positions himself as the one who will handle things, which can become a quiet claim on her dependence."
+    },
+    {
+      "snippet_id": "S-153-SN0017",
+      "snippet_text": "I could Uber",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She has an alternative, but he still offers to take over. That means the choice is already sliding toward his preference, even in a small logistics moment."
+    },
+    {
+      "snippet_id": "S-153-SN0018",
+      "snippet_text": "It was thoughtful. It was sweet.",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her own language shows absorption. She is reinforcing the positive frame, which makes it harder for her to notice the emotional cost of the pattern."
+    },
+    {
+      "snippet_id": "S-153-SN0019",
+      "snippet_text": "he gets this wounded look if I’m slow to text back",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a small but telling sign of dependency. Her ordinary delay becomes something he visibly takes personally, which can start training her to respond faster."
+    },
+    {
+      "snippet_id": "S-153-SN0020",
+      "snippet_text": "I’ve already disappointed him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is taking on responsibility for his mood very quickly. The feeling of having already failed him is a sign that his reactions are shaping her behavior."
+    },
+    {
+      "snippet_id": "S-153-SN0021",
+      "snippet_text": "No, it’s fine, I’m used to handling things on my own",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Emotional Overexposure-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is sympathetic on the surface, but it is also a soft guilt move. He acts self-sufficient while making her feel like the person who should step in and reassure him."
+    },
+    {
+      "snippet_id": "S-153-SN0022",
+      "snippet_text": "reassuring him for ten minutes",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest asymmetry in the scene. She is spending real emotional labor to settle him, and the labor is already starting to become routine."
+    },
+    {
+      "snippet_id": "S-153-SN0023",
+      "snippet_text": "I keep telling myself he’s just sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Dysregulation-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is her rationalization closing over the pattern. Sensitivity sounds kind, but she is already having to explain away behavior that leaves her doing the work."
+    },
+    {
+      "snippet_id": "S-153-SN0024",
+      "snippet_text": "Is it weird that he seems to need so much reassurance?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She ends on the smallest socially acceptable concern, not the bigger pattern. That makes the question feel reasonable while still revealing that his need is beginning to register as a little much."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

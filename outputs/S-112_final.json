@@ -1,0 +1,372 @@
+{
+  "scenario_id": "S-112",
+  "player_type": "Domineering Devin",
+  "scenario": {
+    "scenario_id": "S-112",
+    "architecture_name": "He builds a relationship where his care, planning, and certainty quietly make him the authority over my time, choices, and people.",
+    "culture": "Red Pill",
+    "demographics": "Adult woman in a new heterosexual dating relationship; Jake is an adult man",
+    "cultural_context": "Early-stage dating / romantic relationship social sphere",
+    "geographic_setting": "Unspecified suburban/urban environment with a riverbank and a family reunion setting",
+    "core_behaviors": [
+      "Plans outings and transportation so he can steer the pace",
+      "Uses attentive curiosity to gather information and define the frame",
+      "Turns protection and future-talk into a soft claim on my time"
+    ],
+    "satellite_signals": "Riverbank picnic, family reunion, schedule-checking, driving, questions about exes, and possessive joking all read as romance on the surface while setting up a hierarchy of who decides and who adapts.",
+    "dismissible_red_flags": "He mostly sounds thoughtful, organized, and excited about me. The possessive joke, the extra questions, and the way he likes to plan everything could all be brushed off as early dating enthusiasm.",
+    "scenario_text": "I started seeing Jake a couple of weeks ago, and honestly it has been really fun. He’s the kind of guy who says he’s pretty intentional with his time, and he seems to mean it. He surprised me with a picnic near the riverbank, this quiet spot he called his little escape, and I liked how calm it felt. He kept saying he likes things dialed in, and I guess that is kind of attractive after dating guys who were all over the place.\n\nHe also keeps asking about my schedule, but in a way that sounds helpful, like he wants to plan something good instead of just winging it. Last weekend he insisted on driving me to my family reunion because, as he put it, “that’s the man’s job, simple as that.” I laughed, because he said it like it was obvious and old-school, not weird. He paid for dinner too and told me not to worry about my card, which was honestly nice.\n\nAt the reunion he was charming with my parents, really respectful, and afterward he said, “You’re the right kind of woman.” I probably blushed more than I should have. He asked a lot about my exes, but he framed it like he just wants someone real, someone high quality, and I get that. He says he’s building something solid and that he doesn’t quit on people once he’s in. That actually made me feel kind of safe.\n\nThe only thing that stayed with me is that he keeps saying we’re on the same page before I’ve even said much. He is probably just excited, but do you think I was being too sensitive about the joke when he said, “you’re all mine now”?"
+  },
+  "snippets": [
+    {
+      "quote": "pretty intentional with his time",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like maturity and discipline, but it also signals that he treats his availability as a managed resource. In early dating that can feel reassuring, while quietly setting up the idea that his schedule sets the terms.",
+      "snippet_id": "S-112-SN0001"
+    },
+    {
+      "quote": "He surprised me with a picnic near the riverbank",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A sweet date gesture, but it also establishes him as the one who chooses the setting and the mood. The surprise itself is part of the appeal, yet it puts her in the position of receiving rather than co-creating.",
+      "snippet_id": "S-112-SN0002"
+    },
+    {
+      "quote": "his little escape",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Calling it his escape makes the place feel private and special, which is flattering. It also centers his world and invites her into a space already defined by him.",
+      "snippet_id": "S-112-SN0003"
+    },
+    {
+      "quote": "he likes things dialed in",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is polished self-description that makes rigidity sound like competence. The phrase suggests he prefers order so strongly that flexibility may already be a problem, even if it currently reads as attractive.",
+      "snippet_id": "S-112-SN0004"
+    },
+    {
+      "quote": "pretty attractive after dating guys who were all over the place",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is comparing him favorably to chaotic exes, which makes his structure feel like relief. That contrast can make her overlook how much control is hiding inside the calm.",
+      "snippet_id": "S-112-SN0005"
+    },
+    {
+      "quote": "He also keeps asking about my schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is framed as helpful planning, but it is already a way of tracking her time. The question is not just curiosity, it creates a habit where her day becomes something he helps manage.",
+      "snippet_id": "S-112-SN0006"
+    },
+    {
+      "quote": "in a way that sounds helpful",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is actively translating the behavior into a caring frame. That rationalization matters because it shows she can feel the pressure of the request while still deciding to read it generously.",
+      "snippet_id": "S-112-SN0007"
+    },
+    {
+      "quote": "that’s the man’s job, simple as that",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a gender-role claim dressed up as common sense. It sounds old-fashioned and protective, but it also installs hierarchy, with him as the one who decides what happens and her as the one who accepts it.",
+      "snippet_id": "S-112-SN0008"
+    },
+    {
+      "quote": "I laughed",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her laugh shows she is smoothing over something that might have deserved a pause. That response is small, but it tells you she is already adjusting herself to keep the moment easy.",
+      "snippet_id": "S-112-SN0009"
+    },
+    {
+      "quote": "He paid for dinner too",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Paying is generous on its face, but it also creates a small debt and a sense that he is the one providing. In this kind of dynamic, money can quietly become leverage.",
+      "snippet_id": "S-112-SN0010"
+    },
+    {
+      "quote": "not to worry about my card",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is a caring line that also removes her from the decision. The card is small, but the structure is not, because he is positioning himself as the one who handles the practical side.",
+      "snippet_id": "S-112-SN0011"
+    },
+    {
+      "quote": "You’re the right kind of woman",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is praise, but it is praise with criteria attached. He is not just liking her, he is sorting her into an approved category, which makes approval feel conditional.",
+      "snippet_id": "S-112-SN0012"
+    },
+    {
+      "quote": "he just wants someone real",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "That sounds vulnerable and sincere, but it also sets him up as the judge of authenticity. If she later objects, he can imply she was never the kind of woman he was looking for.",
+      "snippet_id": "S-112-SN0013"
+    },
+    {
+      "quote": "someone high quality",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is classic category language. It sounds flattering, yet it turns dating into evaluation and makes her feel lucky to be selected rather than simply liked.",
+      "snippet_id": "S-112-SN0014"
+    },
+    {
+      "quote": "He says he’s building something solid",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Building something solid sounds admirable, but it also frames the relationship as his project. Once that frame is in place, her role becomes supporting the structure he is already creating.",
+      "snippet_id": "S-112-SN0015"
+    },
+    {
+      "quote": "he doesn’t quit on people once he’s in",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds loyal and secure, which is why it lands well early. The same persistence can later mean he does not let go, does not back off, and does not accept distance easily.",
+      "snippet_id": "S-112-SN0016"
+    },
+    {
+      "quote": "we’re on the same page",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This phrase creates a couple identity before she has actually agreed to it. It is warm and bonding on the surface, but it can also skip over her separate view and make disagreement feel like disloyalty.",
+      "snippet_id": "S-112-SN0017"
+    },
+    {
+      "quote": "you’re all mine now",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He says it like a joke, which makes it easy to laugh off, but the possessive claim is still there. It sounds playful in the moment and still plants the idea that her independence is already being folded into his claim.",
+      "snippet_id": "S-112-SN0018"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

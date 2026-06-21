@@ -1,0 +1,440 @@
+{
+  "scenario_id": "S-042",
+  "player_type": "Dependent Drew",
+  "scenario": {
+    "scenario_id": "S-042",
+    "architecture_name": "He uses adoring, high-need closeness to make me the steadying adult in the relationship.",
+    "culture": "Black Professional",
+    "demographics": "F/late 20s, Black woman; M/early 30s, Black professional man; Rapid City, South Dakota",
+    "cultural_context": "Indigenous reservation-to-city social transition; urban nightlife and friend-network social sphere",
+    "geographic_setting": "Rapid City, South Dakota; urban downtown / rooftop party setting with a reservation-to-city contrast",
+    "core_behaviors": [
+      "Warm adoration that feels flattering and serious",
+      "Small handoffs of responsibility framed as trust",
+      "He turns my steadiness into part of his identity"
+    ],
+    "satellite_signals": "Black professional register markers, soft class signaling, and a city-life confidence that makes me feel chosen while he leans on me for direction.",
+    "dismissible_red_flags": "It mostly feels like he is affectionate, appreciative, and a little nervous without me. The only thing that stays with me is how quickly he asks me to steady him.",
+    "scenario_text": "I met Drew after work at this rooftop place downtown, and he was already there, looking stupidly handsome in a navy blazer like he had nowhere else to be. He stood up the second he saw me and said, “There she is. My whole day just got better.” I laughed because it was a lot, but honestly it was sweet. He had my favorite mocktail waiting, and he kept saying he wanted to hear everything about my day, like he meant it.\n\nHe asked where I went to school, then grinned when I said Howard. “I knew you had good taste,” he said, like that settled something about me. Later, when one of his friends asked if I was Greek, Drew jumped in before I could answer and said, “She’s a real one.” I liked that he was proud to have me there.\n\nAt dinner he kept checking if I liked the menu, if I wanted him to order, if I wanted to switch seats so I could see the skyline better. Then he said, almost offhand, “You’re so much better with all this official stuff than me. Can you look at my lease renewal tomorrow before I send it? I trust your judgment way more than mine.” It sounded flattering, and maybe it was. He just has this way of making me feel capable.\n\nWhen I said I had a late meeting Friday, he went quiet for a second and said, “Wait, without me? Text me when you get home, okay? I get a little lost when you’re gone.” He smiled after, like he knew he was being cute about it.\n\nI like him a lot. I just noticed I spent half the night making sure he felt settled, which is fine, I guess. He’s so warm, and I don’t mind being the person he leans on. But am I weird for wondering about the lease thing?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Drew after work at this rooftop place downtown",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The setting places her inside a Black professional nightlife scene, which matters because the rest of the interaction is happening in that register. It also signals a city-world contrast without needing to spell it out.",
+      "snippet_id": "S-042-SN0001"
+    },
+    {
+      "quote": "looking stupidly handsome in a navy blazer",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The polished presentation is part of the draw. He is very put-together, and that can make the relationship feel elevated before any deeper reciprocity has been established.",
+      "snippet_id": "S-042-SN0002"
+    },
+    {
+      "quote": "There she is. My whole day just got better.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is adoration, but it also puts her in charge of his mood very early. It feels flattering because he is making her arrival feel consequential, yet it quietly assigns her the job of regulating how he feels.",
+      "snippet_id": "S-042-SN0003"
+    },
+    {
+      "quote": "had my favorite mocktail waiting",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A thoughtful detail like this is genuinely appealing. The structure is that he is already tracking her preferences closely, which makes her feel known and special right away.",
+      "snippet_id": "S-042-SN0004"
+    },
+    {
+      "quote": "wanted to hear everything about my day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is eager and attentive, which reads as care. The more subtle reading is that he is building a fast emotional intimacy where her full attention becomes part of the relationship norm.",
+      "snippet_id": "S-042-SN0005"
+    },
+    {
+      "quote": "where I went to school",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In Black professional spaces, school is not just small talk. It is a class and identity probe, and it tells you how he is locating her socially.",
+      "snippet_id": "S-042-SN0006"
+    },
+    {
+      "quote": "Howard",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Howard functions as a prestige marker and a community signal. It places her inside a specific Black elite educational world that he can then flatter and use as social shorthand.",
+      "snippet_id": "S-042-SN0007"
+    },
+    {
+      "quote": "I knew you had good taste",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This sounds like praise, but it also turns her school into evidence of his own discernment. He is borrowing status from her while making the compliment feel personal.",
+      "snippet_id": "S-042-SN0008"
+    },
+    {
+      "quote": "She’s a real one",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Disrespect-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "That phrase is insider approval. It flatters her authenticity while also packaging her as the kind of woman he knows how to publicly endorse.",
+      "snippet_id": "S-042-SN0009"
+    },
+    {
+      "quote": "if I wanted him to order",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "At first this looks like courtesy. Repeated offers to let her decide small things can become a pattern where he leans on her to carry ordinary life choices.",
+      "snippet_id": "S-042-SN0010"
+    },
+    {
+      "quote": "You’re so much better with all this official stuff than me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the soft cast of her as the capable one and him as the dependent one. It feels flattering because he is admiring her competence, but it also starts assigning her the job of handling the practical world for both of them.",
+      "snippet_id": "S-042-SN0011"
+    },
+    {
+      "quote": "Can you look at my lease renewal tomorrow before I send it?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the first concrete handoff. A lease renewal is not a tiny emotional favor, it is a real adult task, and he is already routing responsibility through her while calling it trust.",
+      "snippet_id": "S-042-SN0012"
+    },
+    {
+      "quote": "I trust your judgment way more than mine",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He frames his dependence as admiration, which makes it hard to refuse. The line sounds intimate, but it also puts her in the position of being the better brain in the room.",
+      "snippet_id": "S-042-SN0013"
+    },
+    {
+      "quote": "He just has this way of making me feel capable",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her rationalization. She experiences his dependence as affirmation, which makes the role he is giving her feel like a compliment instead of a burden.",
+      "snippet_id": "S-042-SN0014"
+    },
+    {
+      "quote": "I had a late meeting Friday",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is ordinary work-life context, but it matters because it sets up the moment where her independent schedule bumps against his need for proximity.",
+      "snippet_id": "S-042-SN0015"
+    },
+    {
+      "quote": "without me?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The question makes her separate plans sound slightly suspect. It is a small line, but it shows how quickly his togetherness preference can turn into a default expectation.",
+      "snippet_id": "S-042-SN0016"
+    },
+    {
+      "quote": "Text me when you get home, okay?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds caring on the surface. The deeper pattern is that he wants ongoing access to her whereabouts and emotional state, even when they are not together.",
+      "snippet_id": "S-042-SN0017"
+    },
+    {
+      "quote": "I get a little lost when you’re gone",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "That is the clearest dependent note in the story. He is making her absence feel like a personal destabilization, which quietly recruits her to stay available and soothing.",
+      "snippet_id": "S-042-SN0018"
+    },
+    {
+      "quote": "He smiled after, like he knew he was being cute about it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She can feel that the neediness is being packaged as charm. The smile helps her keep it in the cute category, even while she notices the ask underneath.",
+      "snippet_id": "S-042-SN0019"
+    },
+    {
+      "quote": "making sure he felt settled",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the quiet cost of the evening. She is already managing his emotional state, which is why the relationship feels warm now and could become labor later.",
+      "snippet_id": "S-042-SN0020"
+    },
+    {
+      "quote": "the person he leans on",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Leaning sounds tender, but in context it is a role assignment. She is not just being loved, she is being positioned as the support structure that keeps him upright.",
+      "snippet_id": "S-042-SN0021"
+    },
+    {
+      "quote": "am I weird for wondering about the lease thing?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is not naming a major problem, just the small discomfort that stayed with her. That keeps the story honest and shows how the bigger issue is still only half-visible to her.",
+      "snippet_id": "S-042-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,25 +1,452 @@
 {
   "scenario_id": "S-011",
-  "player_type": "Menacing Marley",
+  "player_type": "Manipulative Morgan",
   "scenario": {
     "scenario_id": "S-011",
-    "architecture_name": "He uses possessive protection framing and constant-contact expectations to install a loyalty-and-primacy demand before she has language for what is being asked of her.",
-    "culture": "Red Pill",
-    "demographics": "F/22 Black American, M/27 Ghanaian-American, Boston urban environment, early relationship",
-    "cultural_context": "Dating/romantic relationship, social sphere involving friend groups and community events",
-    "geographic_setting": "Boston, urban environment",
+    "architecture_name": "He uses warmth, shared community, and constant little plans to make me feel chosen while quietly training me to center his world over my own.",
+    "culture": "Black Professional",
+    "demographics": "F/29, Ghanaian-American; M/32, Ghanaian immigrant, Boston nonprofit consultant",
+    "cultural_context": "Immigrant social circle and diaspora community life, centered around dating, festivals, cafes, and a study-group/academic setting.",
+    "geographic_setting": "Boston, with references to downtown and a Ghanaian festival/community spaces.",
     "core_behaviors": [
-      "Installs daily-contact baseline framed as care, then treats gaps as disrespect",
-      "Positions himself as protector against other men while monopolizing her time as devotion",
-      "Uses self-declarations about loyalty and intensity to pre-authorize possessiveness"
+      "Surprises her with community-centered outings that feel thoughtful",
+      "Uses constant check-ins and future plans to keep her orbiting him",
+      "Turns any pull toward her own schedule into a joke or a soft pout"
     ],
-    "satellite_signals": "Constant-contact expectation framed as care; possessive jealousy reframed as protection; soft isolation via romantic wanting; respect-as-compliance framing; self-declarations advertising volatility as depth.",
-    "dismissible_red_flags": "Daily check-in texts read as attentiveness; pouting over her plans reads as romantic wanting; jealousy disclosures read as refreshing honesty; 'I love hard' framing reads as emotional depth after emotionally unavailable exes.",
-    "scenario_text": "I've been seeing Kwame for about six weeks and honestly it's been a lot. In a good way, mostly. He moved here from Accra a few years ago and he's got this energy that's hard to describe, like he's completely locked in on whatever he decides matters to him. Right now that seems to be me, which is a lot to take in but also kind of amazing.\n\nHe texts me every morning, something like \"Morning. What's your day looking like?\" and I know that sounds small but my last boyfriend would go silent for days and I'd be guessing. Kwame's the opposite. He said early on, \"I love hard and I expect a lot. Most people can't handle it,\" and I remember thinking that was a little intense, but also honest? He's upfront about who he is.\n\nHe's also said he's a jealous guy, but only because he's \"so crazy about\" me. He saw that a guy from my stats class liked one of my photos and he mentioned it, just casually, like he noticed. I didn't know what to do with that so I just kind of laughed it off.\n\nLast week I had a study group and he did this thing where he went, \"Wow, okay, I just thought you'd want to spend the time with me, but no, it's fine.\" And then he was quiet for a bit. I ended up going but I felt bad the whole time, which is probably silly because he came around after and was totally sweet again.\n\nHe told me he's protective of what's his and that he doesn't share attention well, but he said it with this smile like it was just the truth about him, not a warning. His friends all seem to respect him a lot. I'm not like a worrier by nature but the study group thing has been sitting with me a little. Is it weird that I felt guilty for going?"
+    "satellite_signals": "Ghanaian festival and cafe dates, immigrant-diaspora social circle, study-group tension, affectionate texts, and a polished Black-professional register that makes his possessiveness look like care.",
+    "dismissible_red_flags": "At this stage he mostly looks attentive, proud to include her, and a little intense. His pouting and joking can pass as romance, and his constant texting reads like interest rather than monitoring.",
+    "scenario_text": "I met Kwame at a study group through a friend from church, and from the start he felt easy to talk to. He’s Ghanaian too, but he came here later, so he has this whole Boston-by-way-of-Accra confidence that makes people lean in. Last weekend he surprised me with a Ghanaian festival downtown and kept saying, “I want you to meet my friends and see my world.” It was sweet, honestly. He introduced me to everybody like he was proud of me, and I liked that he noticed little things, like which vendor I kept looking at and what I said about my aunt’s cooking.\n\nHe texts all day, though. Not in a bad way, just enough that I start expecting it. “How’s your day going?” “You smiling?” “I just need to know you’re good.” It sounds caring, and most of the time it is. He also says things like, “I can’t believe I found someone like you here,” which makes me feel kind of lucky, like maybe we really did bump into each other at the right time.\n\nThe only thing that sat with me was last night. I mentioned my study group and he made that little face and said, “Can’t you skip it? I want to show you a new cafe.” Then he laughed and added, “Don’t be boring on me now.” I laughed too, because he said it like a joke and I didn’t want to make it weird. He does this thing where he acts all soft and playful, then somehow the plan is already his. Most of the time I don’t mind, because he’s fun and he makes everything feel kind of special. But I keep thinking about how easy it is to say yes when he looks at me like that. Am I overthinking the cafe comment?"
   },
-  "snippets": [],
-  "validation_warnings": [
-    "CRITICAL: No snippets generated in output"
+  "snippets": [
+    {
+      "snippet_id": "S-011-SN0001",
+      "quote": "I met Kwame at a study group through a friend from church",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places him in a specific Black-professional and church-adjacent social lane. It sounds ordinary, but it also shows how the relationship enters through community networks, which later makes his influence feel socially embedded."
+    },
+    {
+      "snippet_id": "S-011-SN0002",
+      "quote": "He’s Ghanaian too",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A simple identity marker, but it matters because shared background helps his attention feel trustworthy and familiar. The sameness makes his later steering easier to accept."
+    },
+    {
+      "snippet_id": "S-011-SN0003",
+      "quote": "Boston-by-way-of-Accra confidence",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This describes his polished transnational ease in a flattering way, but it also suggests a practiced social persona. The confidence reads as competence and charm, which can hide how much he is managing the room."
+    },
+    {
+      "snippet_id": "S-011-SN0004",
+      "quote": "He surprised me with a Ghanaian festival downtown",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The surprise is sweet on the surface, but it also shows him choosing the outing and the frame. He is placing her inside his world on his schedule, which starts to make his preferences feel like the relationship’s default."
+    },
+    {
+      "snippet_id": "S-011-SN0005",
+      "quote": "I want you to meet my friends and see my world",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Coercive Control"
+      ],
+      "reasoning": "This is intimate language, but it also assigns her a role inside his orbit. ‘My world’ makes his social circle the center, and ‘want you to meet’ sounds inclusive while quietly setting the expectation that she should adapt to his environment."
+    },
+    {
+      "snippet_id": "S-011-SN0006",
+      "quote": "He introduced me to everybody like he was proud of me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Public pride can be lovely, but here it also positions her as part of his display. He gets to present the relationship to the room, which gives him social authority while she feels lucky to be included."
+    },
+    {
+      "snippet_id": "S-011-SN0007",
+      "quote": "he noticed little things",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the kind of attentiveness that feels romantic early on. The structure underneath is that he is collecting details about what she likes, which can become a way to steer her rather than simply know her."
+    },
+    {
+      "snippet_id": "S-011-SN0008",
+      "quote": "which vendor I kept looking at",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is tracking her attention closely enough to use it later. In the moment it reads as care, but it also shows a watchful style that makes her preferences visible to him before she fully names them herself."
+    },
+    {
+      "snippet_id": "S-011-SN0009",
+      "quote": "what I said about my aunt’s cooking",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He remembers a family detail that makes her feel seen. At the same time, he is learning the emotional hooks in her life, which gives him more leverage to seem thoughtful later."
+    },
+    {
+      "snippet_id": "S-011-SN0010",
+      "quote": "He texts all day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Constant contact can feel flattering at first, especially in a new relationship. The pattern matters because it starts to set the pace of her day around his attention."
+    },
+    {
+      "snippet_id": "S-011-SN0011",
+      "quote": "I just need to know you’re good",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds caring, but it also makes her emotional state something he should monitor. The phrase turns ordinary checking in into a soft claim on access."
+    },
+    {
+      "snippet_id": "S-011-SN0012",
+      "quote": "I can’t believe I found someone like you here",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is flattering and romantic, but it also casts her as a rare exception he has discovered. That kind of language can make her feel special while nudging her toward gratitude and exception status."
+    },
+    {
+      "snippet_id": "S-011-SN0013",
+      "quote": "I mentioned my study group",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This small detail matters because it represents her own schedule and outside commitments. The later response shows how even ordinary obligations can become negotiable once his preferences enter the scene."
+    },
+    {
+      "snippet_id": "S-011-SN0014",
+      "quote": "Can’t you skip it?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a gentle-sounding directive, not a real question. He is asking her to treat her own plans as optional, which is how control often starts when it still looks playful."
+    },
+    {
+      "snippet_id": "S-011-SN0015",
+      "quote": "I want to show you a new cafe",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Intensity-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The new cafe is harmless on its own, but it is being used to override her prior commitment. He keeps the mood light while making his plan the one that matters."
+    },
+    {
+      "snippet_id": "S-011-SN0016",
+      "quote": "Don’t be boring on me now",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Coercive Control"
+      ],
+      "reasoning": "This is joking language, but it frames compliance as proof of being fun and desirable. If she objects, she risks being cast as dull, so the joke quietly pressures her to go along."
+    },
+    {
+      "snippet_id": "S-011-SN0017",
+      "quote": "he said it like a joke",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She’s already doing the work of softening the moment for him. The joke framing lets her dismiss her own discomfort before it can become a question."
+    },
+    {
+      "snippet_id": "S-011-SN0018",
+      "quote": "the plan is already his",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior signal. She notices that his softness still ends with his preference winning, which is the early shape of a relationship where his desires quietly become the default."
+    },
+    {
+      "snippet_id": "S-011-SN0019",
+      "quote": "he’s fun",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her protective summary of him. It helps her keep the moment small and manageable, even though the fun is already carrying a little pressure underneath it."
+    },
+    {
+      "snippet_id": "S-011-SN0020",
+      "quote": "he makes everything feel kind of special",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the emotional payoff that keeps the softer control from feeling alarming. He is creating a sense of exceptionality, which makes her more willing to overlook the small costs."
+    },
+    {
+      "snippet_id": "S-011-SN0021",
+      "quote": "how easy it is to say yes when he looks at me like that",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the load-bearing interior line. She can feel that his look changes her willingness, which means the pressure is not overt but still real. It shows how charm is already functioning as leverage."
+    },
+    {
+      "snippet_id": "S-011-SN0022",
+      "quote": "Am I overthinking the cafe comment?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The question is small on purpose, which is exactly why it matters. She is not asking whether the relationship is wrong, only whether the comment deserves attention, and that keeps the bigger pattern out of view."
+    }
   ],
+  "validation_warnings": [],
   "repetition_warnings": []
 }

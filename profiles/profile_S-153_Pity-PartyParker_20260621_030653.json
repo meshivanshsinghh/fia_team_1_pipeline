@@ -1,0 +1,1641 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-153",
+    "target_register": "Black Professional",
+    "player_type": "Pity-Party Parker"
+  },
+  "primary_metaphors": [
+    "Vulnerability-as-Hook",
+    "Self-as-Perpetual-Victim",
+    "Suffering-as-Currency",
+    "Comparison-as-Diminishment-of-Others",
+    "Accountability-as-Attack",
+    "Story-as-Reshapeable-Terrain",
+    "Emotional-State-as-Their-Responsibility",
+    "Reassurance-as-Life-Support",
+    "Feeling-as-Moral-Credit",
+    "Fragility-as-Control",
+    "Martyrdom-as-Leverage",
+    "Forgiveness-as-Moral-High-Ground",
+    "Care-as-Burden",
+    "Self-Blame-as-Centering",
+    "Endurance-as-Love",
+    "Injury-as-Obligation",
+    "Pain-as-Authority",
+    "Abandonment-as-Duty",
+    "Generosity-as-Grievance",
+    "Goodness-as-Shield",
+    "Rescuer-as-Victim",
+    "Kindness-as-Endless-Debt",
+    "Tone-as-Threat",
+    "Unequal-Love-Claim",
+    "Fear-as-Assignment",
+    "Wound-as-Identity",
+    "Caretake-Hunt",
+    "Patience-Exploitation",
+    "Generosity-Exploitation",
+    "Wound-As-Excuse",
+    "Caretaker-Identity",
+    "Pain-Comparison",
+    "Unlimited-Absolution",
+    "Hope-Supply",
+    "Emotional-Regulation-Duty",
+    "No-Reciprocity",
+    "Gentleness-As-Silence",
+    "Redemption-Bait",
+    "Darkness-Normalization",
+    "Burden-Negation",
+    "Loyalty-As-Trap",
+    "Pain-Monopoly",
+    "Stasis-As-Healing",
+    "Gratitude-Performance",
+    "Repetition-Tolerance",
+    "Rescue-Trigger"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "wounded-vulnerability (deep early sharing)",
+      "his_language": "I don't open up to people, I've been hurt way too many times. But with you it's different, I feel like I can finally show someone the real me, the broken parts and all.",
+      "her_experience": "He opened up to me so deeply and quickly, sharing painful things, and said I'm the only one he trusts with the real him. Being let into his pain like that felt like a profound bond.",
+      "expert_notices": "Vulnerability-as-Hook: rapid wounded self-disclosure (Emotional-Overexposure9) bonding her through compassion and obligation; 'only one I trust' makes her special and responsible. She reads profound intimacy. Residue (caretaker, guilt-bound) dormant."
+    },
+    {
+      "mechanism": "perpetual-victim (sympathetic, sensitive soul)",
+      "his_language": "I always seem to attract people who let me down. My ex, my family, my so-called friends, all of them. I guess I just feel things more deeply than most people do.",
+      "her_experience": "He's been through so much, betrayed by exes, family, friends. He's clearly a sensitive soul who's been treated badly, and I find myself wanting to be the one who finally treats him right.",
+      "expert_notices": "Self-as-Perpetual-Victim: a trail of wrongs (Accountability0) with him always the wronged party; recruits her into a rescuer role (be the one who treats him right). The non-accountability invisible. She reads sensitive/mistreated. Residue (the rescuer trap) dormant."
+    },
+    {
+      "mechanism": "suffering-as-depth (pain as specialness)",
+      "his_language": "Most people honestly have no idea what real pain even is. I've carried things that would absolutely break other people. I think that's why I appreciate someone gentle like you so much.",
+      "her_experience": "He's endured so much hardship and still has this depth to him. It makes our connection feel more meaningful, like I'm appreciated by someone who truly understands suffering.",
+      "expert_notices": "Suffering-as-Currency: pain as a claim to depth/specialness (Validation10); positions his suffering above others' and makes her appreciation feel earned. She reads depth. Residue (his needs always central, hers erased) dormant."
+    },
+    {
+      "mechanism": "need-as-intimacy (you're my safe place)",
+      "his_language": "You're the only thing that's gone right for me in a long, long time. When I'm with you, the weight just lifts a little. I honestly don't know what I'd do without you now.",
+      "her_experience": "He says I'm the one good thing in his life and that I lighten his burden. Being someone's safe harbor, their one good thing, is incredibly moving and makes me feel needed.",
+      "expert_notices": "Need-as-intimacy: framing her as his sole relief (Validation10/Neediness8); flattering AND installs responsibility for his wellbeing. CONTRAST: Parker wants EMOTIONAL rescue (vs Drew's practical caretaking). She reads being his safe harbor. Residue (responsible for his moods, drained) dormant."
+    },
+    {
+      "mechanism": "comparison-diminishment (her troubles shrink, faint)",
+      "his_language": "I know work's been stressful for you, and I do feel for you, I do. It's just hard for me to fully relate, with everything I've got going on. But tell me about it, I'll try.",
+      "her_experience": "When I bring up my own stresses he's sympathetic but somehow we usually circle back to what he's going through, since his situation is so much heavier. I feel bad even bringing my small stuff up.",
+      "expert_notices": "Comparison-as-Diminishment-of-Others: her concerns gently dwarfed by his heavier suffering (Validation10/Accountability0); the conversation re-centers on him. She reads his burden as genuinely bigger and self-minimizes ('my small stuff'). Residue (emotionally starved, only one sufferer allowed) dormant."
+    },
+    {
+      "mechanism": "beloved in public (the charm mask)",
+      "his_language": "Everyone thinks I'm the easygoing one, the giver. Your friends love me. But you're the only one I can actually be real with.",
+      "her_experience": "Everyone adores him, my friends, my family, they all say how lucky I am, how charming and kind he is. So when things feel different behind closed doors I figure the problem must be me, because the man they see is so wonderful.",
+      "expert_notices": "FIA: Self-as-Perpetual-Victim; HIGH CHARM public mask / private contempt (Cassandra). CASSANDRA SETUP: high public charm + private difference; she doubts herself because the public man is beloved. HIGH-CHARM MIRROR of Bailey (Charm2, no mask). Charm IS the weapon: pre-discredits her complaints."
+    },
+    {
+      "mechanism": "wounded grievance in private (aggrieved, not cold)",
+      "his_language": "After everything I do for us, this is what I get? I give and I give and the one time I need understanding, you're like everyone else who's let me down. I don't know why I let myself hope you'd be different.",
+      "her_experience": "In private, if I fall short he becomes deeply hurt and aggrieved, like I've joined the long line of people who've failed him. It doesn't feel like an attack exactly, more like I've wounded someone already covered in bruises, and I rush to reassure him I'm not like the others.",
+      "expert_notices": "FIA: Accountability-as-Attack; covert contempt rendered as AGGRIEVED WOUNDEDNESS (not Blake-style cold cutting, not overt rage): she is folded into the trail-of-betrayers, guilt-hooked into proving she is not like the others. Sympathy-engine even in conflict. Distinct from Blake (barbed) and Nico (contemptuous-flat): Parker is the wounded victim. Honeymoon-adjacent early seam."
+    },
+    {
+      "mechanism": "won't change + DARVO (correction fails)",
+      "his_language": "Wow. So now I'm the bad guy. After everything I've been through, everything I do for you, you're going to attack me over this? This is exactly what your last partner did to me. I'm always the villain in your story.",
+      "her_experience": "When I try to raise something that hurt me it flips, within minutes I'm comforting him and apologizing and the thing I raised just evaporates. Nothing ever actually changes. I've started keeping things to myself because it's easier than the fallout.",
+      "expert_notices": "FIA: Accountability-as-Attack; full DARVO, correction produces escalation NOT change. KEY MIRROR OF BAILEY: Bailey changes when articulated (genuine, permanent); Parker reverses it, refuses change, makes her the offender. Won-t-change + DARVO = dangerous engine. She self-silences. HIGH danger despite sympathetic surface."
+    },
+    {
+      "mechanism": "envious sideways comment (wistful, not hostile)",
+      "his_language": "That's wonderful that your parents are helping with the deposit. Must be nice. I never had anyone in my corner like that, I built everything I have from nothing, alone. But no, genuinely, I'm happy for you.",
+      "her_experience": "He gets a little wistful when good things come easily to me, mentions how he never had the support I've had. It makes me feel almost guilty for my advantages, and protective of him, like I want to make up for what he missed.",
+      "expert_notices": "FIA: Comparison-as-Diminishment; the documented covert ENVY rendered as wistful vulnerability not open hostility (Validation10/Accountability0). Early it reads as poignant backstory and recruits her guilt/protectiveness. Seam: her good things get subtly tied to his deprivation. She self-minimizes. Honeymoon form."
+    },
+    {
+      "mechanism": "secret-genius confided (hidden grandiosity as intimacy)",
+      "his_language": "I've never told anyone this, but I know I'm meant for something bigger, I always have. The world just hasn't seen it yet. You're the first person I've trusted enough to even say that out loud to.",
+      "her_experience": "He confided this private belief that he's destined for something greater, something the world hasn't recognized yet, and that I'm the only one he's told. It felt like being trusted with his most secret, vulnerable self.",
+      "expert_notices": "FIA: Self-as-Perpetual-Victim; the documented covert HIDDEN GRANDIOSITY (entitlement under a humble facade) rendered as intimate confession. Early it bonds her (sole confidante) and reads as vulnerable not arrogant. Seam: the unrecognized-specialness she will be recruited to validate endlessly. Honeymoon form."
+    },
+    {
+      "mechanism": "the ex who destroyed him (sympathy + inoculation)",
+      "his_language": "My ex did a real number on me, honestly. Cheated, lied, turned my own friends against me, and then told everyone I was the crazy one. I'm still putting myself back together from it. I've just never been treated so cruelly by someone who said they loved me.",
+      "her_experience": "He went through something terrible with his ex, betrayal, lies, being painted as the villain when he was the one wronged. My heart breaks for what he survived. I just want to be the one who finally treats him the way he deserves.",
+      "expert_notices": "FIA: Self-as-Perpetual-Victim; THE EX as sympathy-engine AND inoculation (Accountability0). Recruits her as rescuer (be the one who treats him right) and pre-discredits her own future grievances (if she ever objects, she risks becoming the next crazy ex who hurt him). Early it reads as poignant survivor backstory. Distinct from Blake: pure sympathy-gathering, no barb. Honeymoon form."
+    },
+    {
+      "mechanism": "the trail of betrayals (everyone wronged him)",
+      "his_language": "It's a familiar story for me, honestly. People take what they need and then they leave. My family checked out when I needed them, my so-called best friend stabbed me in the back, work passed me over again. I'm used to being the one who gives everything and gets nothing back.",
+      "her_experience": "When he lists everything he's been through, the family who let him down, the friends who betrayed him, the chances he never got, I'm struck by how much one person has had to endure. It makes me want to be the exception, the one who finally shows up for him.",
+      "expert_notices": "FIA: Suffering-as-Currency; the documented covert VICTIM-IDENTITY as a trail of betrayals across every domain (Validation10/Accountability0), each story gathering sympathy to him and casting him as the perpetual giver/never-receiver. Recruits her to be the exception. Distinct from Blake: no passive-aggression, just sympathy-magnetism. Honeymoon form."
+    },
+    {
+      "mechanism": "bottomless reassurance (the pit, early-sweet)",
+      "his_language": "Do you actually mean that, though? You're not just saying it? I'm sorry, I know I ask a lot, I just, I find it hard to believe someone like you could really want someone like me. Tell me again?",
+      "her_experience": "He needs a lot of reassurance that I really love him and won't leave, and early on it was sweet, this vulnerable man who couldn't believe his luck. I give it freely, though I've noticed it never quite seems to land for good, he always needs a bit more.",
+      "expert_notices": "FIA: Vulnerability-as-Hook; the documented BOTTOMLESS reassurance-need (never satisfying) rendered early as endearing insecurity. She supplies endless reassurance that never sticks (the pit). Seam: she becomes responsible for a self-esteem deficit she can never fill. Honeymoon form."
+    },
+    {
+      "mechanism": "you're not like the others (the elevation/leash)",
+      "his_language": "You're different, you know that? You're not like the others. After everything I've been through, I'd honestly given up, and then there's you. You'd never do to me what they did. I can just tell. You're not that kind of person.",
+      "her_experience": "He says I'm not like the people who hurt him, that he can tell I'd never treat him that way. After hearing what he's survived, being seen as the good one, the safe one, the exception, makes me feel like I matter to him in this huge, important way.",
+      "expert_notices": "FIA: Vulnerability-as-Hook; the signature soft-narcissist ELEVATION (you are the exception) that flatters her into the rescuer role AND installs the leash (any future hurt = becoming one of the others, Validation10/Accountability0). Early it reads purely as being cherished as rare/good. Distinct from Evan (flatters for admiration); Parker flatters for caretaking. Honeymoon form."
+    },
+    {
+      "mechanism": "you actually understand me (uniquely seen)",
+      "his_language": "You actually get me. Do you know how rare that is for me? People look at me and see, I don't know, whatever they want to see. You're the first person who's ever really understood what's underneath. You see ME.",
+      "her_experience": "He says I understand him in a way no one ever has, that I see the real him underneath everything. Being the one person who truly gets this misunderstood, deep soul feels like a kind of intimacy I've never had with anyone.",
+      "expert_notices": "FIA: Vulnerability-as-Hook; uniquely-understood framing (Validation10) that bonds her as the sole witness to his real self, deepening intimacy and obligation. Early it reads as profound connection. Seam: being the only-one-who-gets-him makes withdrawing understanding feel like abandonment. Honeymoon form."
+    },
+    {
+      "mechanism": "you're so good (her goodness as her role)",
+      "his_language": "You're just, you're a genuinely good person, do you know that? Kind, all the way through. I'm not used to that, to gentleness. You could never be cruel if you tried. That's the thing I love most about you, you're good in a way I didn't know existed.",
+      "her_experience": "He tells me I'm one of the kindest, gentlest people he's ever known, that I couldn't be cruel if I tried. Being someone's proof that good people exist, after they've been treated so badly, makes me want to live up to it, to be that for him.",
+      "expert_notices": "FIA: Vulnerability-as-Hook; her GOODNESS/gentleness named as her defining trait (Validation10), which flatters AND scripts her: she must stay endlessly gentle/kind to remain who he loves, foreclosing anger or boundaries (those would be cruel/not-good). Early it reads as being deeply appreciated. Seam: goodness-as-cage. Honeymoon form."
+    },
+    {
+      "mechanism": "only you can help me (rescuer anointment)",
+      "his_language": "I've never let anyone close enough to help before. The walls just stay up. But with you, somehow, I feel like I could actually heal. You make me want to be better. You might genuinely be the one who fixes what they broke in me.",
+      "her_experience": "He says I make him feel like he could finally heal, that I might be the one to help him recover from all of it. The idea that my love could actually mend someone, that I'm that important to his healing, is the most meaningful thing anyone's said to me.",
+      "expert_notices": "FIA: Vulnerability-as-Hook; RESCUER ANOINTMENT (Validation10/Neediness): she is cast as uniquely able to heal him, which is profoundly flattering AND installs responsibility for his recovery/wellbeing. Early it reads as being essential and trusted. Seam: his healing becomes her job; his setbacks become her failures. Honeymoon form."
+    },
+    {
+      "mechanism": "fishing for reassurance (Validation8)",
+      "his_language": "Was that okay? The thing I said at dinner, did it land wrong? I feel like everyone went a bit quiet. No, you'd tell me if I'd embarrassed myself, right? You would. Sorry. I just, I need to know we're okay. Are we okay?",
+      "her_experience": "He needs near-constant reassurance that he's okay and hasn't messed up, even when nothing happened, and I give it freely. But it never quite sticks, the worry circles back within the hour, and I'm starting to feel worn down by the endless topping-up.",
+      "expert_notices": "Validation8 'constantly ask if okay, never sticks.' Targets drained (endless topping-up) + frustrated. Honeymoon: tender at first."
+    },
+    {
+      "mechanism": "visibly deflates without praise (Validation8)",
+      "his_language": "Did you like it? You didn't say anything, so I assumed you hated it. No, it's fine, I get it, I put a lot into it but if it's not good it's not good. Forget it. No, I'm fine. I'll be fine. Don't worry about me.",
+      "her_experience": "If I don't praise something quickly enough he visibly deflates and assumes the worst, so I've learned to get ahead of it with reassurance and praise. It's a lot of emotional tending, and I feel guilty admitting it leaves me drained.",
+      "expert_notices": "Validation8 'deflated if no compliment.' Targets guilty (admitting the drain) + drained (emotional tending). Behavior-steer: she preempts."
+    },
+    {
+      "mechanism": "the wound under the praise (Validation8)",
+      "his_language": "It's amazing things come so easily to you. I've just always had to claw for everything with no one in my corner, but I'm genuinely happy for you, I am. Don't feel bad. It's not your fault some of us got dealt a harder hand.",
+      "her_experience": "When good things happen for me he gets this wounded, wistful look and mentions how hard he's had it, and somehow I end up feeling guilty for my own good news and rushing to comfort him. I can't tell when I became responsible for managing his pain.",
+      "expert_notices": "Validation8 + victim-comparison. Targets guilty (for own good news) + drained (managing his pain) + frustrated. Honeymoon: poignant."
+    },
+    {
+      "mechanism": "the wounded silence (Validation8)",
+      "his_language": "No, I'm fine. It's nothing. I just went a bit quiet, don't worry about it, you've got enough on. I'll be okay, I always am, eventually. Don't let me drag the evening down. Go on, you were saying something. I'm listening.",
+      "her_experience": "When something's wrong he goes quiet and martyred rather than saying it, so I drop everything to coax it out of him. The coaxing takes real energy, and lately I feel a flicker of frustration that I'm always the one doing the digging.",
+      "expert_notices": "Validation/victim withdrawal. Targets drained (coaxing energy) + frustrated (always digging) + guilty. NOT Blake's barb; pure pity-pull."
+    },
+    {
+      "mechanism": "retells for sympathy (Validation8)",
+      "his_language": "Did I tell you what my ex did? And then my so-called best friend on top of it. Everyone always leaves, or betrays me, or lets me down, it's the story of my life. I don't know why I'm cursed like this. You won't do that though. Will you?",
+      "her_experience": "He returns again and again to the people who've wronged him, and I keep offering the same comfort each time, reassuring him I'm different. It's draining to be his constant balm, and I feel guilty for the small part of me that's growing tired of the stories.",
+      "expert_notices": "Validation8 'retells story for praise/sympathy.' Targets drained (constant balm) + guilty (growing tired) + frustrated. The victim-loop."
+    },
+    {
+      "mechanism": "you're the only one (Validation8)",
+      "his_language": "You're the only person who's ever really gotten me, you know that? Everyone else eventually shows their true colours and walks. But not you. You're different. You're good in a way I'd stopped believing existed. Please don't prove me wrong.",
+      "her_experience": "He tells me I'm the only one who truly understands him, the exception to a lifetime of betrayals, and it's deeply flattering. But carrying the role of the one good person who must never let him down is a heavy thing, and I already feel the strain.",
+      "expert_notices": "Validation8 elevation/leash. Targets drained (heavy role) + guilty (mustn't let him down). The exception-hook as burden."
+    },
+    {
+      "mechanism": "aggrieved when she falls short (Validation8)",
+      "his_language": "After everything I do, this is what I get? I'm not angry, I'm just, I expected better from you of all people. I give and give and the one time I need you, you're like all the others. No, it's fine. I shouldn't have hoped.",
+      "her_experience": "If I fall short even slightly he becomes deeply wounded, folding me in with everyone who's ever failed him, and I rush to prove I'm not like them. It's exhausting and a bit maddening, and I always end up apologising even when I'm not sure what I did.",
+      "expert_notices": "Validation/victim-as-perpetrator. Targets drained (rushing to prove) + frustrated (maddening, apologising blind) + guilty. Aggrieved not cold."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "My ex really broke something in me, I'm still learning to trust again.",
+      "her_experience": "His pain makes me want to be careful with him, like I could help repair what she damaged.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "I've had people leave right when I finally started believing in them.",
+      "her_experience": "I feel sad for him and start wanting to prove I won't be another person who disappears.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "My family never really knew what to do with someone like me.",
+      "her_experience": "He sounds misunderstood, and I feel pulled to be the one who finally handles him gently.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "I've always been the person people remember after they've already hurt me.",
+      "her_experience": "The line stays with me, and I feel guilty for how much he seems to have carried alone.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "I don't talk about my childhood much, it still lands weird in my chest.",
+      "her_experience": "He shares just enough to make me ache for him, and I want to be trusted with more.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "I've been through things that made me softer, not harder, somehow.",
+      "her_experience": "His suffering seems beautiful and deep, and I feel lucky to see that part of him.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "People usually meet me after the damage and judge the dents.",
+      "her_experience": "I feel protective of him before I even know the full story, like he deserves gentleness first.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "I had one friend I trusted completely, and he used everything against me.",
+      "her_experience": "His betrayal story makes me want to become the safe person he never had.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "I learned early that loving people doesn't mean they stay kind.",
+      "her_experience": "I feel moved by how wounded he is, and I start measuring myself against people I've never met.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "I've had to rebuild myself so many times, I almost don't mention it.",
+      "her_experience": "He seems quietly strong, and I feel bad for wanting anything from someone so bruised.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "You see parts of me people usually walk right past.",
+      "her_experience": "Being the person who sees him feels intimate, and I want to keep earning that place.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "I don't know why, but I feel safe telling you things.",
+      "her_experience": "His trust feels like a gift, and I feel responsible for never making him regret it.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "You're different, you listen like you're actually trying to understand me.",
+      "her_experience": "I feel chosen for my care, and I start wanting to be the one who gets him right.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "Maybe you're the first person who won't make me feel too much.",
+      "her_experience": "I feel special and protective, though it quietly makes his comfort feel like my test.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "With you, I don't feel like I have to apologize for existing.",
+      "her_experience": "It sounds tender, and I feel afraid of becoming one more person who makes him shrink.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "You have this way of making my mess feel less shameful.",
+      "her_experience": "I feel honored that I can soothe him, even though the weight of it arrives quickly.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "I wasn't expecting someone like you to get someone like me.",
+      "her_experience": "The compliment makes me lean in, like understanding him is something rare I can offer.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "You make me believe my story could end differently.",
+      "her_experience": "It feels romantic to be part of his healing, and I don't notice how much hope he places on me.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She used to say I was too sensitive, like caring was the problem.",
+      "her_experience": "I feel sorry for him and silently promise I won't punish him for having feelings.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "My ex had this way of making every hurt somehow my fault.",
+      "her_experience": "I want to be fairer than she was, so I start bracing myself not to sound critical.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She'd go cold for days, then act like I was dramatic for noticing.",
+      "her_experience": "His story makes me ache for him, and I want to prove warmth doesn't have to vanish.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "Apparently wanting basic kindness made me needy in her version of things.",
+      "her_experience": "I feel protective of his tenderness, and I become careful not to make him feel needy.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She was great at making me feel guilty for having feelings.",
+      "her_experience": "I feel angry on his behalf, and I start worrying that my own needs might sound like hers.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "My last relationship taught me that honesty can be used against you.",
+      "her_experience": "I feel trusted with something fragile, and I want to show him I won't mishandle it.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She always said I made everything about me when I was just hurting.",
+      "her_experience": "I feel sorry for him, and I hesitate to notice that the story still centers his pain.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "I think she needed me to be the bad guy to leave cleanly.",
+      "her_experience": "I feel sad for how unfair it sounds, and I don't want to become another woman who misunderstands him.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "Sorry, I'm tender around this, people usually make it a joke.",
+      "her_experience": "I rush to show him I won't laugh, and I start editing myself to keep him safe.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "I might go quiet for a second, old stuff gets loud sometimes.",
+      "her_experience": "I feel patient and gentle, though I can sense his mood pulling the room toward him.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "If I seem careful, it's just because I've been burned for being open.",
+      "her_experience": "His caution feels understandable, and I feel guilty for wanting anything direct from him.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "I know I can be sensitive, I'm working on not flinching.",
+      "her_experience": "He sounds self-aware, and I feel cruel for anything that might make him flinch.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "You didn't do anything wrong, I just bruise a little easily.",
+      "her_experience": "I feel relieved and responsible at once, like I need to be softer next time.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "I promise I'm not fragile, I just notice when energy shifts.",
+      "her_experience": "It sounds perceptive, but I feel pressure to manage my tone around him.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "No, it's fine, I'm used to being the afterthought.",
+      "her_experience": "I immediately want to comfort him, even though I hadn't meant to make anything heavy.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "Don't worry about me, I always figure out how to be okay.",
+      "her_experience": "He sounds brave and lonely, and I feel pulled to prove he doesn't have to be alone.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "I'm probably overthinking, I just care more than I mean to.",
+      "her_experience": "I feel tender toward him and also faintly responsible for calming the feeling down.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "It's sweet you have plans, I'm just not great at being left out.",
+      "her_experience": "I feel guilty for having my own evening, even though he said it softly.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "Ignore my face, I'm happy for you, I just get quiet sometimes.",
+      "her_experience": "I feel bad enjoying myself when he looks hurt, so I start checking on him more.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "I don't want to be a burden, that's why I don't ask.",
+      "her_experience": "He sounds considerate, and I feel like I should offer before he has to need anything.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "I'll be okay, I learned a long time ago not to expect much.",
+      "her_experience": "His resignation makes me ache, and I feel compelled to give more than I planned.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "You don't have to reassure me, I know I'm a lot sometimes.",
+      "her_experience": "I rush to tell him he isn't too much, though part of me already feels tired.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "My last relationship really broke something in me, I'm still figuring out how to trust again.",
+      "her_experience": "His story makes my chest ache, and I want so badly to be the one who restores his faith in people. I don't notice I've taken on all his problems.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "You're not like anyone I've met. You actually see me.",
+      "her_experience": "Being called special feels intoxicating, and I feel chosen, but I also sense I now have to keep proving I'm different from everyone who failed him.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She'd blow up at me over nothing, and I'd just stand there confused, never knowing what I did wrong.",
+      "her_experience": "I feel so sorry for the confusion he lived through, and I silently promise I'll never be irrational like that with him.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "Sorry, I go quiet when people raise their voices. It's a me thing, not you.",
+      "her_experience": "I immediately soften my tone and choose my words carefully, not wanting to be one more person who wounds him.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "No, it's fine, don't worry about me. I'm used to being the one who gives more.",
+      "her_experience": "He says he's fine but his hurt is so clear that I rush in to reassure him. I'm giving so much I don't realize how drained I am.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "Everyone I've trusted has let me down. Every time.",
+      "her_experience": "I want to be the exception so badly, the one who doesn't let him down, and that pressure sits on my chest without me naming it.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "You actually listen, like really listen, no one's ever done that for me before.",
+      "her_experience": "His gratitude makes me feel like a saint, and I start listening even harder, giving more attention than I normally would to anyone.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "With her, everything was always my fault somehow. No matter what happened.",
+      "her_experience": "I feel outraged on his behalf and decide she was clearly cruel, and I silently vow to always take his side, no questions asked.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "I don't do well being interrupted. My parents never really let me get a word in.",
+      "her_experience": "I start catching myself before I talk over him, being more careful around him so I don't set him off.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "I'll be okay, I always am. Just a rough night, I don't want to put it on you.",
+      "her_experience": "I feel guilty for not being there, like I should drop everything to sit in his sadness, so I don't sleep until he's okay.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "My family never really got me. They thought I was too much.",
+      "her_experience": "I want to be the one who finally gets him, so I absorb his intensity as if it's my job to prove them wrong.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "Maybe you're the one who changes things for me. I've never felt this safe.",
+      "her_experience": "Being the one who saves him is dizzying and romantic, and I feel like if I fail I'll break something in him.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She told everyone I was controlling, which is wild because I was just trying to keep us together.",
+      "her_experience": "I feel like I'm hearing the real version of a story she twisted, and I decide his ex was dishonest and unfair.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "I get quiet when people are late. It just brings stuff up. Ignore me.",
+      "her_experience": "I start showing up early everywhere, texting when I'm even five minutes late, walking on eggshells without him even asking.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "Don't mind me. I just care too much, always have.",
+      "her_experience": "His self-deprecation makes me want to prove caring is beautiful, so I pour in more care to compensate for everyone who didn't.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "I've been through a lot. More than most people would handle, honestly.",
+      "her_experience": "I admire his resilience so much that I don't notice he's set up his suffering as bigger than normal.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "You're the first person I feel like I can be a mess around and you won't run.",
+      "her_experience": "I feel honored to be his safe place, which means I can't ever leave, or I'd just be one more person who left him.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She used to give me the silent treatment for days, just disappear on me, it was torture.",
+      "her_experience": "I feel sick imagining him waiting and hurting, and I promise myself I'll always answer quickly, always stay.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "I'm trying not to take everything personally. It's hard, after everything.",
+      "her_experience": "I start editing everything I say to avoid triggering him, and I feel guilty when he gets hurt, like it was my wording.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "It's okay, I'm used to being second. Go do your thing, I'll be fine.",
+      "her_experience": "I feel terrible even though I did nothing wrong, and I reassure him for ten minutes before I leave, drained before my night starts.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "My friends all drifted away after my last breakup, people don't stick around when you're going through it.",
+      "her_experience": "I feel sad for how lonely he is and want to be the one who stays. It's starting to feel like I'm all he has.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "I've never told anyone this before, you just feel like someone I can finally be real with.",
+      "her_experience": "Being trusted with his secret feels sacred, and I hold it carefully, feeling the weight of his past.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She told people I was manipulative. Me, after I gave her everything.",
+      "her_experience": "I'm outraged anyone would say that, and I decide she was probably projecting or cruel, not him.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "Tell me if I'm being too much. I know I can be a lot, and people leave.",
+      "her_experience": "He's asked so sweetly that I'll never use it, because saying no would make me just like everyone else who hurt him.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "No one's ever really asked how my day was before. Thank you for that.",
+      "her_experience": "His gratitude makes me want to give more, be more present than I naturally am, and I feel a little tired but don't say so.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "You might be the only good thing in my life right now. Sorry, that's heavy.",
+      "her_experience": "I feel honored and terrified at once, like I can't have a bad day or need space without destroying his only good thing.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She'd get so jealous for no reason, like I couldn't even talk to a coworker without a fight.",
+      "her_experience": "I nod along, glad I'm not like that, and I make a mental note that jealousy is something he can't handle, so I'll never show any.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "Forget I said anything, you don't need my problems on top of your day.",
+      "her_experience": "I feel guilty for having a good day when he's struggling, so I push my own happiness aside to pull him up.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "I've been hurt by so many people that sometimes I don't even know who I am anymore.",
+      "her_experience": "He seems so lost that I want to help him see his own worth, and it's exhausting.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "You make me feel like maybe I'm not broken. Like maybe I can be loved properly.",
+      "her_experience": "I feel like his salvation, romantic and heavy at once, like I have to love him so well he forgets everyone who failed.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She'd tell her friends I was crazy, and they'd all believe her without asking my side.",
+      "her_experience": "I'm furious at the injustice, and I promise myself I'll always hear his side first no matter what anyone says.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "It's fine, I'll deal with it alone, like always. I don't want to be a burden.",
+      "her_experience": "Every time he says he'll deal with it alone, I swoop in to prove he isn't a burden, taking on more and more without noticing.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "wounded-backstory",
+      "his_language": "The last person I opened up to used everything I said against me, so this is scary for me.",
+      "her_experience": "I feel special that he's doing it anyway with me, and I promise I'll never use anything against him, so I can never critique.",
+      "expert_notices": "WOUNDED BACKSTORY: the trail of people who supposedly destroyed him (ex, family, friends), told soulfully so she becomes his witness and pre-commits to being the one who finally gets it right."
+    },
+    {
+      "mechanism": "elevation-hook",
+      "his_language": "You feel like something I didn't know I was looking for. Don't let that scare you off.",
+      "her_experience": "Being the one who makes him happy feels like a mission, and I'm scared to have an off day in case he spirals.",
+      "expert_notices": "ELEVATION / EXCEPTION HOOK: she is cast as the only one who truly sees him, his one good thing, his potential redemption, which recruits her as rescuer and makes leaving feel like a betrayal."
+    },
+    {
+      "mechanism": "ex-as-villain",
+      "his_language": "She told everyone I was the problem. Meanwhile I was walking on eggshells to keep her calm.",
+      "her_experience": "I picture him tiptoeing around a volatile woman and feel such tenderness that I vow our home will never feel like that.",
+      "expert_notices": "PRE-EMPTIVE VICTIM FRAMING OF EXES: past partners painted as cruel/crazy/cold, which makes him the wronged party AND quietly warns her what behavior gets a woman cast as the villain."
+    },
+    {
+      "mechanism": "fragility-steers",
+      "his_language": "I might cancel tomorrow, I'm feeling off and I don't want you to see me like this.",
+      "her_experience": "I feel like I have to convince him I want to see him anyway, and I end up caretaking before I've even arrived.",
+      "expert_notices": "FRAGILITY THAT STEERS: easily-wounded feelings, so she softens her tone, edits herself, and manages his moods to avoid being one more person who hurt him."
+    },
+    {
+      "mechanism": "sympathy-fishing",
+      "his_language": "You probably think I'm a mess. It's fine. Everyone gives up on me eventually. You will too.",
+      "her_experience": "He's predicted my disappointment so sadly that I'm determined to prove him wrong, and that determination quietly controls me.",
+      "expert_notices": "SYMPATHY-FISHING: visible woundedness and self-deprecation ('I'll be okay, I always am') that extracts reassurance and caretaking without ever directly asking."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the type who loves too hard and gets hurt.",
+      "her_experience": "He sounds tender, like his heart has just been mishandled.",
+      "expert_notices": "He casts himself as the perpetual wounded one; later, his pain will outrank her complaints."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I feel everything so deeply, maybe too deeply.",
+      "her_experience": "It makes him seem soulful, like he has a bigger heart than most men.",
+      "expert_notices": "Depth becomes exemption; she must handle his feelings before her own."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I've just been through a lot, I'm sensitive.",
+      "her_experience": "I want to be gentle with him because he seems bruised by life.",
+      "expert_notices": "Sensitivity becomes a steering device; later, accountability feels like hurting someone already hurt."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I always put everyone else first.",
+      "her_experience": "He sounds selfless, like he gives more than he gets.",
+      "expert_notices": "He claims martyr status in advance; later, his sacrifices become debts she owes."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm too forgiving, that's my problem.",
+      "her_experience": "He seems kind, like he doesn't harden even after being hurt.",
+      "expert_notices": "He frames himself as morally superior and wronged; later, resentment hides behind forgiveness."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a soft person in a hard world.",
+      "her_experience": "It makes me want to protect him from people who don't understand him.",
+      "expert_notices": "He makes the world the aggressor and himself the innocent; she is recruited as protector."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I care more than people know what to do with.",
+      "her_experience": "It sounds sweet and sad, like others failed to value him.",
+      "expert_notices": "He converts excessive need into proof of goodness; later, she must manage the weight of his care."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I blame myself even when things aren't my fault.",
+      "her_experience": "He sounds humble and wounded, not defensive.",
+      "expert_notices": "He is still keeping himself central; later, accountability becomes another scene about his pain."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the person who stays even when people don't deserve it.",
+      "her_experience": "He sounds loyal in a rare, almost heroic way.",
+      "expert_notices": "Staying becomes moral superiority; later, she must feel guilty for not matching his endurance."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm careful with my heart because it's been used before.",
+      "her_experience": "I feel trusted when he lets me close, like I need to be worthy of it.",
+      "expert_notices": "His injury becomes an obligation she must work around indefinitely."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I understand pain better than most people.",
+      "her_experience": "He seems deep and compassionate, like he won't dismiss mine.",
+      "expert_notices": "His pain becomes the reference point; later, her suffering may be minimized beside his."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not dramatic, I just feel abandoned easily.",
+      "her_experience": "He sounds self-aware and honest, like he's naming a tender spot.",
+      "expert_notices": "He preloads her with responsibility for preventing his abandonment feelings."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I give people chances long after I should stop.",
+      "her_experience": "He sounds patient and generous, like he believes in people.",
+      "expert_notices": "His claimed generosity becomes evidence that others wrong him, never that he needs boundaries."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I have a big heart, and it's gotten me punished.",
+      "her_experience": "It makes me sad for him, like goodness has cost him too much.",
+      "expert_notices": "His goodness is made unquestionable; later, harm he causes is filtered through his wounded heart."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the one people call when they need saving.",
+      "her_experience": "He sounds dependable and emotionally available.",
+      "expert_notices": "He positions himself as savior and martyr; later, she is expected to save him back."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't ask for much, just a little kindness.",
+      "her_experience": "He sounds modest and easy to care for.",
+      "expert_notices": "A little kindness can expand into endless emotional accommodation because he is always wounded."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm sensitive to tone because I've heard cruelty in soft voices.",
+      "her_experience": "It makes me want to speak gently and prove I'm different.",
+      "expert_notices": "Tone becomes a control point; later, any firmness can be reframed as cruelty."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I love people harder than they love me back.",
+      "her_experience": "It makes me want to love him well enough that he finally feels chosen.",
+      "expert_notices": "He sets up a permanent imbalance where she must prove she is not another under-loving person."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm still learning not to expect people to leave.",
+      "her_experience": "He sounds vulnerable, and I want to show him he can trust me.",
+      "expert_notices": "His fear becomes her job; limits or distance can be cast as confirming his wound."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a wounded person, but I still choose love.",
+      "her_experience": "It sounds brave and beautiful, like he hasn't given up.",
+      "expert_notices": "Woundedness becomes identity and moral credit; she must treat him as brave even when he drains her."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone kind who actually listens, who can handle the heavy stuff.",
+      "her_experience": "He's emotionally open and wants a partner who can hold space for him, which is so rare in a guy. I'm a good listener and I care deeply.",
+      "expert_notices": "He is hunting a caretaker who will absorb his endless wounds. His pain is infinite and she will be expected to listen and comfort and never burn out, while her own hard things are minimized."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who's patient and understanding, who doesn't get frustrated when I'm having a rough time.",
+      "her_experience": "He's honest that he has hard days and wants someone who won't punish him for it, which is mature. I want to be the one who understands him.",
+      "expert_notices": "He is selecting for someone who will tolerate his volatility without complaint. He will have rough times constantly, and her frustration will be framed as impatience, not his behavior being exhausting."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone with a big heart who gives a lot, who doesn't hold back affection.",
+      "her_experience": "He wants real emotional generosity, which is beautiful. I have a lot of love to give.",
+      "expert_notices": "He is selecting for someone who will pour care into him without boundaries. He will consume her emotional resources while giving little back, framed as his need being greater."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who understands that I've been through a lot, who doesn't expect me to be okay all the time.",
+      "her_experience": "He's been hurt and needs someone who gets that, which I do. I don't expect anyone to be okay all the time.",
+      "expert_notices": "He is selecting for someone who will excuse his dysfunction as the result of his past. Any failure will be attributed to his wounds, not his choices, and she will lower her expectations indefinitely."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who's a natural caretaker, who likes looking after someone.",
+      "her_experience": "He wants to be cared for, and I actually enjoy taking care of people. It feels good to be needed.",
+      "expert_notices": "He is selecting for someone whose identity is wrapped up in caretaking. She will parent him and absorb his emotions, and her own needs will go unmet because she is too busy caretaking to ask for care."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's been through real hardship and won't brush off mine.",
+      "her_experience": "He wants someone who can relate, not compete about who has it worse. I've been through hard things too.",
+      "expert_notices": "He is selecting for someone whose own pain will be used against her. Her hardship will be found lesser; any time she raises her struggles, he will minimize them or turn the conversation back to his."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a forgiving woman, someone who doesn't hold my past against me.",
+      "her_experience": "He wants grace, not punishment, which is a green flag. I believe in forgiveness.",
+      "expert_notices": "He is selecting for someone who will not hold him accountable. He will repeat harmful behaviors, and she will forgive because that's who she is, while he changes nothing."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who believes in me even when I can't believe in myself.",
+      "her_experience": "He wants a partner who sees his potential, which is romantic. I want to be the one who never gives up on him.",
+      "expert_notices": "He is selecting for someone who will supply hope while he supplies despair. She will do the labor of keeping the relationship alive while he takes no responsibility for his own motivation."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who's steady, who doesn't fall apart when I do, who can hold me together.",
+      "her_experience": "He wants a strong partner, and I am strong. It feels good that he trusts me to be his rock.",
+      "expert_notices": "He is selecting for someone who will regulate his emotions for him. Her own need to fall apart will be denied because she cannot be the unsteady one; she will suppress her distress to serve his."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who gives freely, who doesn't keep score.",
+      "her_experience": "He wants unconditional giving, which sounds generous and loving. I don't like keeping score either.",
+      "expert_notices": "He is selecting for someone who will not expect reciprocity. He will take without guilt, and when she has nothing left, he will blame her for changing, not his taking."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone who's gentle with me, who doesn't get harsh when I'm struggling.",
+      "her_experience": "He's sensitive and needs softness, which I can give. I'm a gentle person.",
+      "expert_notices": "He is selecting for someone who will never hold him accountable with firmness. When she needs to be firm, she will feel like she's being harsh and pull back."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who sees the good in me even when I can't, who doesn't give up.",
+      "her_experience": "He wants a partner who believes in redemption, which is beautiful. I've always been the person who doesn't give up on people.",
+      "expert_notices": "He is selecting for someone who will stay despite repeated disappointments. She will endure his broken promises and stagnation, exhausting herself on potential that never materializes."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who isn't scared of me at my worst.",
+      "her_experience": "He's not pretending to be fine, and wants someone real who can handle real pain. I'm not afraid of hard emotions.",
+      "expert_notices": "He is selecting for someone who will normalize his dysfunction as depth. She will absorb his despair, and he will not work to get out of the darkness because having her sit in it is enough."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who makes me feel like I'm not a burden, who doesn't treat my needs like too much.",
+      "her_experience": "He's been made to feel like a burden before, and wants someone who won't do that. I'd never want someone to feel like a burden.",
+      "expert_notices": "He is selecting for someone who will accept his needs as reasonable no matter how large. She will give past her limits while telling herself she's just being kind."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who's loyal, who won't leave when I hit a rough patch.",
+      "her_experience": "He's been abandoned before and wants someone who stays, which is understandable. I'm loyal.",
+      "expert_notices": "He is selecting for someone who will stay through behavior that should make her leave. He will use rough patches as a permanent condition; leaving will make her one of the people who abandoned him."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who doesn't turn my pain into a competition.",
+      "her_experience": "He wants someone who doesn't compete about suffering, which is mature. I've had people one-up my pain before.",
+      "expert_notices": "He is selecting for someone who will never point out that his struggles are not uniquely devastating. She will not ask for space for her own pain; any comparison will be dismissed as competition."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who's patient with my healing, who doesn't rush me to be okay.",
+      "her_experience": "He's working on himself and needs someone who understands healing isn't linear. I believe in giving people time.",
+      "expert_notices": "He is selecting for someone who will accept indefinite stasis as healing. His healing will never complete, and her patience means she will wait forever while he never has to arrive."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who feels lucky to have me, who doesn't take me for granted.",
+      "her_experience": "He wants appreciation, which is fair, and I do feel lucky to be with him.",
+      "expert_notices": "He is selecting for someone who will perform gratitude regardless of his behavior. Any complaint will be met with 'you used to feel lucky, what changed?' and she will suppress criticism."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone who actually listens and doesn't get tired of me.",
+      "her_experience": "He needs someone patient and attentive, and I am those things. I don't get tired of listening to people I care about.",
+      "expert_notices": "He is selecting for someone who will listen to the same wounds repeatedly without fatigue. He will never have to move past his material because she is always willing to hear it again."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who's compassionate enough to love someone who's a bit broken.",
+      "her_experience": "He's vulnerable and honest about his struggles, which makes me feel close to him and trusted.",
+      "expert_notices": "He is using his woundedness to trigger her rescue instinct and bypass her boundaries. His brokenness becomes a permanent claim on her care that he is not obligated to repair."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Black Professional",
+      "snippet": "Where did you go to school?",
+      "type": "question",
+      "translation": "He's asking which college specifically — HBCU signals one path PWI signals another",
+      "status_signal": "Howard signals DC elite often political; Spelman signals Black women's elite; Morehouse signals Black male leadership; Hampton signals Virginia tidewater elite; FAMU signals Florida HBCU pride",
+      "notes": "Major identity-formation probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Are you Greek?",
+      "type": "question",
+      "translation": "He's asking whether you joined a Divine Nine sorority or fraternity",
+      "status_signal": "Greek membership signals HBCU experience and middle-class trajectory and lifetime Black professional network",
+      "notes": "Major community-membership probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where did you cross?",
+      "type": "question",
+      "translation": "He's asking when and where you joined your fraternity or sorority",
+      "status_signal": "Crossing date and chapter signal specific line and community",
+      "notes": "Specific Greek-life probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "What chapter?",
+      "type": "question",
+      "translation": "He's asking which specific chapter of your fraternity or sorority",
+      "status_signal": "Specific chapter signals geographic and class community",
+      "notes": "Specific Greek-life probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Are you in Jack and Jill?",
+      "type": "question",
+      "translation": "He's asking whether you're a member of the elite Black children's social organization",
+      "status_signal": "Signals middle-to-upper-middle-class parenting and multigenerational Black professional class",
+      "notes": "Major class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "What chapter of Jack and Jill?",
+      "type": "question",
+      "translation": "He's asking which specific Jack and Jill chapter",
+      "status_signal": "Specific chapter signals geographic and class community",
+      "notes": "Specific class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Are you in the Links?",
+      "type": "question",
+      "translation": "Asked of women — he's checking invitation-only Black women's service organization",
+      "status_signal": "Major top-tier Black professional women's signal",
+      "notes": "Specific elite probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Is your husband in the Boulé?",
+      "type": "question",
+      "translation": "Asked of married women — checking invitation-only top Black professional men's fraternity",
+      "status_signal": "Major top-tier Black professional men's signal",
+      "notes": "Specific elite probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where do you summer?",
+      "type": "question",
+      "translation": "He's asking whether you have a vacation home and where",
+      "status_signal": "Significant resources signal and specific tradition",
+      "notes": "Major class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Do y'all go to the Vineyard?",
+      "type": "question",
+      "translation": "He's asking whether you go to Martha's Vineyard specifically Oak Bluffs Inkwell Beach area",
+      "status_signal": "Black professional vacation-tradition signal",
+      "notes": "Major class-and-tradition probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Do you have a place up top?",
+      "type": "question",
+      "translation": "Up top' means Martha's Vineyard — he's asking if you own property there",
+      "status_signal": "Owning at the Vineyard signals significant wealth and 'old' standing in Black professional circles",
+      "notes": "Major wealth-and-standing probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where did your parents go to school?",
+      "type": "question",
+      "translation": "He's asking about multigenerational education",
+      "status_signal": "Multigenerational HBCU signals legacy; first-generation college signals upward mobility",
+      "notes": "Family-legacy probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "What does your father do?",
+      "type": "question",
+      "translation": "He's asking your father's specific profession — class signal",
+      "status_signal": "Doctor lawyer judge professor business owner executive signal different things",
+      "notes": "Family-class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where do your kids go to school?",
+      "type": "question",
+      "translation": "He's asking about your children's education",
+      "status_signal": "Private school public magnet or HBCU pipeline signals class trajectory",
+      "notes": "Class-trajectory probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Is your daughter doing debutante?",
+      "type": "question",
+      "translation": "He's asking about participation in formal Black-elite social rituals",
+      "status_signal": "Debutante participation signals Black social-elite engagement",
+      "notes": "Specific class ritual probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Howard University",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU in DC — major Black elite institution",
+      "status_signal": "Signals DC elite often political-class trajectory",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Spelman College",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Black women's elite institution",
+      "status_signal": "Signals Black women's elite formation often professional-class",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Morehouse College",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Black male leadership tradition",
+      "status_signal": "Signals Black male leadership formation often professional-class",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Hampton University",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Virginia tidewater elite",
+      "status_signal": "Signals tradition and tidewater Black elite",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "FAMU / Florida A&M",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Florida HBCU pride",
+      "status_signal": "Signals Florida HBCU formation and pride",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "AUC / Atlanta University Center",
+      "type": "lifestyle marker",
+      "translation": "The Atlanta HBCU complex (Morehouse Spelman Clark Atlanta)",
+      "status_signal": "Signals Atlanta Black-college-experience network",
+      "notes": "Specific institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Tuskegee",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU with engineering and aviation legacy",
+      "status_signal": "Signals specific HBCU heritage",
+      "notes": "Specific institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Xavier (Louisiana)",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Catholic and medical-pipeline reputation",
+      "status_signal": "Signals specific HBCU heritage often pre-med",
+      "notes": "Specific institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "AKA / Alpha Kappa Alpha",
+      "type": "lifestyle marker",
+      "translation": "Oldest Black sorority — Divine Nine",
+      "status_signal": "Carries stereotype (which insiders use as shorthand though members contest it) of respectability tradition middle-class background and historically lighter skin",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Delta Sigma Theta",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine sorority known for activism orientation",
+      "status_signal": "Carries reputation for civil rights tradition and broader skin-tone diversity",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Zeta Phi Beta",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine sorority",
+      "status_signal": "Carries reputation as more accessible and less stereotyped as elite",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sigma Gamma Rho",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine sorority",
+      "status_signal": "Carries reputation as more accessible less elitist reputation",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Alpha Phi Alpha",
+      "type": "lifestyle marker",
+      "translation": "Oldest Black fraternity — Divine Nine",
+      "status_signal": "Signals leadership and political tradition; MLK was Alpha",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Kappa Alpha Psi / The Kappas",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine fraternity",
+      "status_signal": "Carries reputation for style and aesthetic culture",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Omega Psi Phi / The Ques",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine fraternity",
+      "status_signal": "Carries reputation for rougher masculinity tradition",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Phi Beta Sigma",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine fraternity",
+      "status_signal": "Carries reputation as more accessible less elite-coded",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Divine Nine",
+      "type": "vocabulary",
+      "translation": "The collective name for the nine historic Black Greek-letter organizations",
+      "status_signal": "Standard in-group term for Black Greek life",
+      "notes": "Foundational vocabulary"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My line",
+      "type": "vocabulary",
+      "translation": "The group of people who pledged together",
+      "status_signal": "Specific Greek-life vocabulary",
+      "notes": "Family-network signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My line sisters / line brothers",
+      "type": "vocabulary",
+      "translation": "Lifetime sisters and brothers from pledge process",
+      "status_signal": "Major lifetime-network signal",
+      "notes": "Network terminology"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Prophyte / neophyte",
+      "type": "vocabulary",
+      "translation": "Members who pledged before you / after you",
+      "status_signal": "Specific Greek-life hierarchy vocabulary",
+      "notes": "Greek terminology"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Crossed Spring 2010",
+      "type": "phrase",
+      "translation": "He joined his fraternity or sorority specifically in Spring 2010",
+      "status_signal": "Specific cohort identifier",
+      "notes": "Standard Greek dating"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The strolls",
+      "type": "lifestyle marker",
+      "translation": "Specific Greek-life synchronized walking performances",
+      "status_signal": "Standard Greek-life tradition",
+      "notes": "Cultural-tradition marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The calls",
+      "type": "lifestyle marker",
+      "translation": "Specific Greek-life vocal signals",
+      "status_signal": "Standard Greek-life tradition",
+      "notes": "Cultural-tradition marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Jack and Jill of America",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only Black children's social organization",
+      "status_signal": "Major Black professional class signal often multigenerational",
+      "notes": "Major class organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The Boulé / Sigma Pi Phi",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only top Black professional fraternity",
+      "status_signal": "Top tier Black professional class often older established families",
+      "notes": "Highest-status Black professional org"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The Links Incorporated",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only Black professional women's service organization",
+      "status_signal": "Top tier Black professional women",
+      "notes": "Highest-status Black women's org"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Top Ladies of Distinction",
+      "type": "lifestyle marker",
+      "translation": "Specific Black women's professional service organization",
+      "status_signal": "Specific elite-women's-org signal",
+      "notes": "Specific organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sigma Alpha Iota / specific music fraternities",
+      "type": "lifestyle marker",
+      "translation": "Specific professional Greek organizations",
+      "status_signal": "Specific professional-network signal",
+      "notes": "Specific organizations"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Martha's Vineyard",
+      "type": "lifestyle marker",
+      "translation": "Historic Black professional summer destination",
+      "status_signal": "Major Black middle-to-upper-class multigenerational vacation tradition",
+      "notes": "Major class-vacation signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Oak Bluffs",
+      "type": "lifestyle marker",
+      "translation": "Specific Vineyard town with historic Black community",
+      "status_signal": "Specific Black Vineyard signal — heart of the community",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Inkwell Beach",
+      "type": "lifestyle marker",
+      "translation": "Historic Black beach at Oak Bluffs Martha's Vineyard",
+      "status_signal": "Direct Black Vineyard tradition signal",
+      "notes": "Specific in-group location"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sag Harbor",
+      "type": "lifestyle marker",
+      "translation": "Historic Black summer community on Long Island NY",
+      "status_signal": "Multigenerational Black summer presence signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Highland Beach Maryland",
+      "type": "lifestyle marker",
+      "translation": "Historic Black resort in Maryland",
+      "status_signal": "Multigenerational Black vacation tradition signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Idlewild Michigan",
+      "type": "lifestyle marker",
+      "translation": "Historic Black resort in Michigan",
+      "status_signal": "Multigenerational Black vacation tradition signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "American Beach Florida",
+      "type": "lifestyle marker",
+      "translation": "Historic Black beach community in Florida",
+      "status_signal": "Multigenerational Black vacation tradition signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The Polar Bears (Oak Bluffs morning swimmers)",
+      "type": "lifestyle marker",
+      "translation": "Specific Oak Bluffs morning swimming group",
+      "status_signal": "Insider Black Vineyard signal",
+      "notes": "Specific in-group reference"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The cottage",
+      "type": "lifestyle marker",
+      "translation": "Black professional family vacation property",
+      "status_signal": "Multigenerational vacation property signal",
+      "notes": "Specific class signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The family cottage",
+      "type": "lifestyle marker",
+      "translation": "Specifically inherited Black professional family vacation property",
+      "status_signal": "Major old-money Black professional signal",
+      "notes": "Specific in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sidwell Friends",
+      "type": "lifestyle marker",
+      "translation": "Quaker private school in DC — Obama daughters attended",
+      "status_signal": "Major coastal-elite signal for children",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Dalton",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite private school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Spence",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite girls school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Trinity School",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Brearley",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite girls school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Marin Country Day",
+      "type": "lifestyle marker",
+      "translation": "Bay Area elite Black-affirming private school",
+      "status_signal": "Bay Area Black-elite school signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Hancock Park (Black sections)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black wealthy LA neighborhood section",
+      "status_signal": "Black professional wealth signal in LA",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Brookland (DC)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black DC neighborhood",
+      "status_signal": "Specific DC Black community signal",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "LeDroit Park (DC)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black DC neighborhood",
+      "status_signal": "Specific DC Black professional community",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Cascade (Atlanta)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black Atlanta wealthy neighborhood",
+      "status_signal": "Atlanta Black professional class signal",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Hyde Park (Chicago)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black Chicago middle-class neighborhood",
+      "status_signal": "Chicago Black professional community signal",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "We've been going for generations",
+      "type": "phrase",
+      "translation": "Multigenerational Black wealth and Vineyard or specific resort traditions",
+      "status_signal": "Major old-money Black professional signal",
+      "notes": "Standard in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My grandmother had a cottage",
+      "type": "phrase",
+      "translation": "Specifically at the Vineyard or another historic Black resort",
+      "status_signal": "Major old Black wealth signal",
+      "notes": "Standard in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My parents are both [profession]",
+      "type": "phrase about family",
+      "translation": "Both-parent professional families signal multigenerational middle-class stability",
+      "status_signal": "Major class signal",
+      "notes": "Standard family-status framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He went to an HBCU",
+      "type": "phrase about a man",
+      "translation": "Specific cultural and educational formation",
+      "status_signal": "Major identity-formation signal",
+      "notes": "Standard description"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He went to one of the good Black schools",
+      "type": "phrase about a man",
+      "translation": "Specifically elite HBCU not just any Black school",
+      "status_signal": "Major prestige signal",
+      "notes": "Specific in-group distinction"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's Sidwell",
+      "type": "phrase about a woman",
+      "translation": "She went to or her kids go to Sidwell Friends",
+      "status_signal": "Specific elite school identification",
+      "notes": "Major class signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He's a Dalton kid",
+      "type": "phrase about a man",
+      "translation": "He went to or his kids go to Dalton",
+      "status_signal": "Specific elite school identification",
+      "notes": "Major class signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's one of the only",
+      "type": "phrase about a woman",
+      "translation": "She's one of few Black students or professionals in elite space",
+      "status_signal": "Standard Black-elite-experience signal",
+      "notes": "Common in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He's the only one in the C-suite",
+      "type": "phrase about a man",
+      "translation": "He's one of few Black executives",
+      "status_signal": "Standard Black-elite-experience signal",
+      "notes": "Common in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He had the talk with the kids",
+      "type": "phrase about a family",
+      "translation": "He had the specific conversation about police interaction with his children",
+      "status_signal": "Major cultural-labor signal",
+      "notes": "Specific cultural pattern"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Twice as good",
+      "type": "phrase",
+      "translation": "Effort required to access opportunity as a Black person",
+      "status_signal": "Standard Black professional formation experience",
+      "notes": "Major in-group concept"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "You know how it is",
+      "type": "phrase",
+      "translation": "In-group acknowledgment of shared racial experience",
+      "status_signal": "Standard in-group framing",
+      "notes": "Common phrase"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "I had to code-switch all day",
+      "type": "phrase",
+      "translation": "Performed cultural labor of shifting linguistic registers",
+      "status_signal": "Standard Black professional experience",
+      "notes": "Common in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's a real one",
+      "type": "phrase about a woman",
+      "translation": "She's an authentic Black community member",
+      "status_signal": "Standard cultural-authenticity framing",
+      "notes": "Common in-group approval"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He's not for us",
+      "type": "phrase about a man",
+      "translation": "He doesn't represent or understand Black community",
+      "status_signal": "Standard cultural-belonging judgment",
+      "notes": "Watch who he applies this to"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He doesn't get the culture",
+      "type": "phrase about a person",
+      "translation": "Same as he's not for us — lacks Black-cultural fluency",
+      "status_signal": "Standard cultural-belonging framing",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Going up top",
+      "type": "phrase",
+      "translation": "Going to Martha's Vineyard specifically",
+      "status_signal": "Direct Black Vineyard tradition signal",
+      "notes": "Specific in-group phrasing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "We summered up top",
+      "type": "phrase",
+      "translation": "Family vacationed at the Vineyard",
+      "status_signal": "Direct Black professional class marker",
+      "notes": "Specific in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She did debutante",
+      "type": "phrase about a woman",
+      "translation": "She participated in a formal debutante ball — usually Links cotillion or similar",
+      "status_signal": "Specific Black social-elite ritual signal",
+      "notes": "Specific class marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Fair-skinned / lightskinned",
+      "type": "vocabulary",
+      "translation": "Lighter skin color — operates as social shorthand in some Black professional circles",
+      "status_signal": "Carries class-and-status implications in some circles which is harmful but operating",
+      "notes": "Colorism marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Dark-skinned",
+      "type": "vocabulary",
+      "translation": "Darker skin color — operates as social shorthand",
+      "status_signal": "Carries different class-and-status implications which is harmful but operating",
+      "notes": "Colorism marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's pretty for a dark-skinned girl",
+      "type": "phrase about a woman",
+      "translation": "Direct colorist statement — qualifies beauty by skin tone",
+      "status_signal": "Direct colorism deployment",
+      "notes": "Heavily wounding pattern"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Good hair",
+      "type": "vocabulary",
+      "translation": "Hair texture perceived as closer to non-Black hair — operates as colorist shorthand",
+      "status_signal": "Colorism and texturism marker which is harmful but operating",
+      "notes": "Specific colorism term"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Natural hair",
+      "type": "lifestyle marker",
+      "translation": "Unrelaxed unprocessed hair",
+      "status_signal": "Often signals newer pride orientation or specific generation",
+      "notes": "Specific identity marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Relaxed hair / straight hair",
+      "type": "lifestyle marker",
+      "translation": "Chemically straightened hair",
+      "status_signal": "Often signals older respectability tradition or specific community expectations",
+      "notes": "Specific identity marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Locs / sisterlocs",
+      "type": "lifestyle marker",
+      "translation": "Specific natural hair style",
+      "status_signal": "Specific identity marker often pride-orientation",
+      "notes": "Specific hair style"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The big chop",
+      "type": "phrase",
+      "translation": "Cutting off relaxed hair to transition to natural",
+      "status_signal": "Specific transition narrative",
+      "notes": "Common transition framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "You know what I mean",
+      "type": "phrase",
+      "translation": "In-group acknowledgment of shared racial experience without naming it",
+      "status_signal": "Standard in-group framing",
+      "notes": "Common in-group shorthand"
+    }
+  ]
+}

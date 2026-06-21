@@ -1,0 +1,428 @@
+{
+  "scenario_id": "S-151",
+  "player_type": "Neglectful Nico",
+  "scenario": {
+    "scenario_id": "S-151",
+    "architecture_name": "He offers calm, rational ease now, while quietly training me to treat my feelings as excess and his distance as maturity.",
+    "culture": "South Asian",
+    "demographics": "Young adult woman dating a Pakistani-American man; newly dating; Cambridge urban academic setting",
+    "cultural_context": "Interfaith social circle with a Pakistani-American software engineer in a tech/educated professional milieu",
+    "geographic_setting": "Cambridge, likely an urban academic setting",
+    "core_behaviors": [
+      "Presents low-drama calm as the attractive relief after past chaos",
+      "Frames himself as the rational adult and me as the emotional one",
+      "Treats my needs as something that makes things complicated",
+      "Uses quiet certainty to make me question my own reactions"
+    ],
+    "satellite_signals": "Pakistani-American, software engineer, Cambridge interfaith circle, mutual-friend setting, educated professional milieu, family and belief questions as early status probes.",
+    "dismissible_red_flags": "At this stage it mostly reads as mature, easy, and reassuring. His calm can feel like a gift after messier relationships, and the little corrections sound more like awkward confidence than anything alarming.",
+    "scenario_text": "I only started seeing Amir a few weeks ago, and honestly it has been so easy. He’s a Pakistani-American software engineer, very Cambridge, very put-together, and he keeps saying things like, “Whatever works for you works for me. I don’t really do drama. We’re good.” After a couple of messy relationships before him, that sounded like oxygen. He plans simple little evenings, picks the restaurant, handles the booking, and always seems so calm about everything. I like that he has his own place, his own routine, all of that. It feels grown-up.\n\nHe’s also weirdly good at making me feel like the easy one. “You’re so chill,” he said when I didn’t mind changing plans last minute. “I like that you’re not exhausting.” I laughed because it sounded like a compliment, and I guess it was. I do like being around someone who doesn’t need a whole performance.\n\nThe part that’s been sitting with me is that when I try to talk about something that bothered me, he gets this faintly amused look and says, “You feel things a bit too intensely. Most people don’t get this worked up.” He says it so calmly that I end up feeling dramatic even when I’m trying to be fair. Then he’ll add, “One of us has to stay rational, and that’s usually me.”\n\nIt’s not that he’s rude exactly. He just seems to think my feelings make everything heavier than it needs to be. I keep telling myself he’s probably just more even-keeled than I am, and that’s a good thing. I don’t want to become one of those people who needs constant reassurance. Still, when he says, “Can’t things just be easy,” I find myself going quiet.\n\nAm I overthinking the way he says that?"
+  },
+  "snippets": [
+    {
+      "quote": "I only started seeing Amir a few weeks ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Sets the relationship as very early, which matters because his dismissive habits are already visible before any deeper conflict has even had time to form.",
+      "snippet_id": "S-151-SN0001"
+    },
+    {
+      "quote": "Amir, a Pakistani-American software engineer",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His identity and profession locate him in the South Asian educated-professional world. That context helps explain why calm, competence, and being 'put-together' read as especially attractive.",
+      "snippet_id": "S-151-SN0002"
+    },
+    {
+      "quote": "very Cambridge, very put-together",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is class and scene placement, but it also carries a polished, status-conscious compliment. She is drawn to the outer presentation, which helps him look mature and reliable before any emotional cost is visible.",
+      "snippet_id": "S-151-SN0003"
+    },
+    {
+      "quote": "Whatever works for you works for me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Conflict-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "It sounds flexible, but it also sets a very low-demand baseline. In the honeymoon phase, that reads as easygoing. Later, the same stance can mean he never really engages, repairs, or takes a position when she needs one.",
+      "snippet_id": "S-151-SN0004"
+    },
+    {
+      "quote": "I don’t really do drama",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Dysregulation-low",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the core self-presentation: calm, low-friction, above conflict. It feels reassuring because it promises peace, but it also quietly warns that her feelings may get categorized as drama if they require attention.",
+      "snippet_id": "S-151-SN0005"
+    },
+    {
+      "quote": "We’re good",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "A short closure phrase that shuts down further discussion. Surface-level, it sounds reassuring. Structurally, it lets him decide the conversation is over before her concern has actually been met.",
+      "snippet_id": "S-151-SN0006"
+    },
+    {
+      "quote": "He plans simple little evenings",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Planning is a positive gesture, but it also means he is setting the pace and shape of the relationship. Early on that feels thoughtful; later it can become a pattern where she is moved through his version of ease.",
+      "snippet_id": "S-151-SN0007"
+    },
+    {
+      "quote": "picks the restaurant",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Small, ordinary control that looks like competence. He is the one choosing, which means she is already getting used to his preferences organizing the date and, by extension, the relationship.",
+      "snippet_id": "S-151-SN0008"
+    },
+    {
+      "quote": "handles the booking",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He manages the logistics, so he is also managing the tempo and structure. It reads as considerate, but it subtly places him in the role of the one who arranges and therefore leads.",
+      "snippet_id": "S-151-SN0009"
+    },
+    {
+      "quote": "all of that. It feels grown-up",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She is absorbing his self-presentation as maturity. The phrase 'grown-up' is doing a lot of work here, because it turns emotional distance into virtue instead of something she might question.",
+      "snippet_id": "S-151-SN0010"
+    },
+    {
+      "quote": "You’re so chill",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Compliment-as-role assignment. He praises a version of her that is easy to manage, which encourages her to keep performing calm instead of bringing up anything that might complicate his approval.",
+      "snippet_id": "S-151-SN0011"
+    },
+    {
+      "quote": "I like that you’re not exhausting",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds like praise, but it also divides women into acceptable and too much. She gets rewarded for being low-need, which pressures her to hide ordinary emotional needs to stay in the good category.",
+      "snippet_id": "S-151-SN0012"
+    },
+    {
+      "quote": "I laughed because it sounded like a compliment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her own narration shows she registered the edge of it but converted it into politeness. That is the beginning of self-editing, where discomfort gets translated into gratitude before it can become a concern.",
+      "snippet_id": "S-151-SN0013"
+    },
+    {
+      "quote": "I don’t need a whole performance",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Emotional Overexposure-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He presents emotional minimalism as a virtue. In the short term that can feel refreshing, especially after messier partners. Over time, though, it signals that he values low demand more than mutual warmth.",
+      "snippet_id": "S-151-SN0014"
+    },
+    {
+      "quote": "You feel things a bit too intensely",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Empathy-low",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the first real reframe. Instead of meeting the content of what hurt her, he moves the problem onto her temperament. Calm delivery makes the correction sound reasonable, which is what makes it sticky.",
+      "snippet_id": "S-151-SN0015"
+    },
+    {
+      "quote": "Most people don’t get this worked up",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He universalizes his judgment so her reaction looks abnormal by comparison. That creates quiet shame. The message is not just that she is upset, but that her upset is socially out of line.",
+      "snippet_id": "S-151-SN0016"
+    },
+    {
+      "quote": "One of us has to stay rational",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Sense of Self-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is the self-as-standard move. He casts himself as the rational adult and her as the emotional one, which gives him interpretive authority over the relationship while making her own feelings look lesser.",
+      "snippet_id": "S-151-SN0017"
+    },
+    {
+      "quote": "that’s usually me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He is not just saying he is calm. He is ranking himself above her as the more reliable judge. That kind of certainty can feel reassuring early on, but it also makes disagreement feel like she is arguing with reality itself.",
+      "snippet_id": "S-151-SN0018"
+    },
+    {
+      "quote": "He just seems to think my feelings make everything heavier",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is noticing the emotional effect even while softening it. The issue is not a blowup, just a quiet pattern where her feelings are treated as excess weight instead of something to respond to.",
+      "snippet_id": "S-151-SN0019"
+    },
+    {
+      "quote": "Can’t things just be easy",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the key closing move. 'Easy' sounds sweet, but here it functions as a demand that she require less. It turns her bid for closeness into the thing that is making the relationship difficult.",
+      "snippet_id": "S-151-SN0020"
+    },
+    {
+      "quote": "I find myself going quiet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her response shows the adjustment already happening. She is not objecting, she is shrinking her own voice to preserve the calm, which is how the relationship starts training her out of honest contact.",
+      "snippet_id": "S-151-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

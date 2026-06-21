@@ -1,0 +1,1686 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-082",
+    "target_register": "Old-Money WASP",
+    "player_type": "Needy Noel"
+  },
+  "primary_metaphors": [
+    "Two-as-One-Organism",
+    "Love-as-Total-Availability",
+    "Distance-as-Annihilation",
+    "Emotional-State-as-Their-Responsibility",
+    "Boundary-as-Rejection",
+    "Reassurance-as-Life-Support",
+    "Independence-as-Survival",
+    "Fusion-as-Love",
+    "Total-Availability",
+    "Identity-through-Partner",
+    "All-In-as-Obligation",
+    "Affection-as-Pressure",
+    "Closeness-as-Default",
+    "Contact-as-Reassurance",
+    "Fast-Fusion",
+    "Check-In-as-Tether",
+    "Team-as-Fusion",
+    "Need-as-Claim",
+    "Availability-as-Engulfment",
+    "No-Holding-Back-as-No-Boundaries",
+    "Intensity-as-Need",
+    "Love-as-Total-Priority",
+    "Simple-Need-as-Leash",
+    "Life-Merger",
+    "Engulfment-Screen",
+    "Boundary-Erasure",
+    "Isolation-Fusion"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "enabling",
+      "his_language": "Quit the job, honestly, life's too short. I'll cover your half while you figure it out.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Tell her exactly what you think, you were completely in the right.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Don't worry about the money, I've moved some around, it's handled.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "You don't need them if they make you feel small, you've got me, I'm all you need.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Skip the deadline, stay in bed with me, I'll write you a note saying you were sick.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Whatever you decide I'm behind you a hundred percent, I'd never tell you you're wrong.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I find a quick reply is just respectful, that's all, it's how I show I care.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "For me, couples who tell each other everything are the strong ones.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I just think if you really love someone, you want to be around them.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "Half-in isn't really love to me, I'm an all-or-nothing person, always have been.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "The people who matter make time, everything else is just excuses, don't you think?",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "A bit of jealousy's just a sign you care, I think, I'd be worried if there was none.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I reckon you can tell everything about a couple by how fast they pick up for each other.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I do miss you the second you leave, is that too much?",
+      "her_experience": "He names his own anxiety so sweetly that I rush to reassure him, and I cannot tell yet that comforting him is becoming my job.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly so it reads as endearing vulnerability, recruiting her as reassurer. The honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I overthought a slow reply earlier, says more about me than you.",
+      "her_experience": "He names his own anxiety so sweetly that I rush to reassure him, and I cannot tell yet that comforting him is becoming my job.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly so it reads as endearing vulnerability, recruiting her as reassurer. The honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I know I'm keen, I'm trying to play it slightly cooler.",
+      "her_experience": "He names his own anxiety so sweetly that I rush to reassure him, and I cannot tell yet that comforting him is becoming my job.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly so it reads as endearing vulnerability, recruiting her as reassurer. The honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "draw-attuned",
+      "his_language": "You sounded flat in your text so I brought your coffee order, two sugars, right?",
+      "her_experience": "He reads me so well it feels like being truly known, though sometimes I notice he is always watching how I am.",
+      "expert_notices": "DRAW (attunement): genuine perceptiveness reads as deep care now; the same hyper-attunement later tracks her every mood and movement."
+    },
+    {
+      "mechanism": "draw-attuned",
+      "his_language": "I'm getting good at reading you, in a nice way I hope.",
+      "her_experience": "He reads me so well it feels like being truly known, though sometimes I notice he is always watching how I am.",
+      "expert_notices": "DRAW (attunement): genuine perceptiveness reads as deep care now; the same hyper-attunement later tracks her every mood and movement."
+    },
+    {
+      "mechanism": "draw-availability",
+      "his_language": "Call me anytime, day or night, I genuinely never turn my phone off for you.",
+      "her_experience": "He is always there for me, which feels wonderful, and I have started feeling I should always be just as available back.",
+      "expert_notices": "DRAW (total availability): he models constant availability as the standard of love, seductive now, becoming the expectation she must meet later."
+    },
+    {
+      "mechanism": "draw-availability",
+      "his_language": "I'd always rather be wherever you are, everything else can wait.",
+      "her_experience": "He is always there for me, which feels wonderful, and I have started feeling I should always be just as available back.",
+      "expert_notices": "DRAW (total availability): he models constant availability as the standard of love, seductive now, becoming the expectation she must meet later."
+    },
+    {
+      "mechanism": "draw-warm",
+      "his_language": "Everything's a bit more fun since you turned up.",
+      "her_experience": "Being adored like this is lovely, and I feel a little guilty that any part of me also feels crowded.",
+      "expert_notices": "DRAW (warmth): enthusiastic, flattering, genuinely attractive; the engine underneath is the need to be needed."
+    },
+    {
+      "mechanism": "draw-warm",
+      "his_language": "I caught myself telling my mate about you for the tenth time.",
+      "her_experience": "Being adored like this is lovely, and I feel a little guilty that any part of me also feels crowded.",
+      "expert_notices": "DRAW (warmth): enthusiastic, flattering, genuinely attractive; the engine underneath is the need to be needed."
+    },
+    {
+      "mechanism": "draw-warm",
+      "his_language": "Is it mad to feel this good about someone this soon?",
+      "her_experience": "Being adored like this is lovely, and I feel a little guilty that any part of me also feels crowded.",
+      "expert_notices": "DRAW (warmth): enthusiastic, flattering, genuinely attractive; the engine underneath is the need to be needed."
+    },
+    {
+      "mechanism": "draw-state",
+      "his_language": "You've honestly put me in the best mood all week.",
+      "her_experience": "He says I put him in a good mood, which is sweet, but I have started watching my own moods so I do not bring his down.",
+      "expert_notices": "DRAW + state-as-responsibility seed: her presence regulates his mood, flattering early, becoming 'you make me feel' later."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Quit the job if it's making you miserable, I'll sort us out while you figure out what you want.",
+      "her_experience": "He's so supportive that I feel safe, but also like I'd be letting him down if I didn't take his help, and that's starting to feel like a trap.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Whatever you want to do about her, you were in the right. I've got your back either way.",
+      "her_experience": "He never challenges me, just agrees, and it feels good but also like I'm losing my own compass because he'll never be the one to say I'm wrong.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I always reply fast, I can't help it. If I care about someone they're just on my mind.",
+      "her_experience": "It sounds so reasonable that I nodded along, but now I feel guilty every time I take an hour to text back.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I think the couples who tell each other everything are the ones who make it. I can't stand secrets.",
+      "her_experience": "He makes total transparency sound like the only healthy way, so now keeping anything to myself feels like betrayal.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "A little jealousy just means you care. I'd honestly be more worried if there was none.",
+      "her_experience": "He's framed possessiveness as caring, so now I feel like I have to show jealousy to prove I love him, and that's confusing.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "Sorry, I overthought your slow reply earlier. Ignore me, I'm being weird.",
+      "her_experience": "He admits he's needy, so I end up comforting him just for admitting it, and somehow I'm always the one soothing him.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Is it crazy that we already finish each other's sentences? Like we've known each other forever.",
+      "her_experience": "It feels so magical and meant-to-be that I ignore the voice wondering if this is too fast, too much.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I'll miss you today. Go have fun with your friends, I'll be here.",
+      "her_experience": "He says he'll miss me so sweetly that I feel guilty for leaving, like my fun costs him something, even though he told me to go.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Did you have a good time tonight? Tell me everything, I love hearing about your day.",
+      "her_experience": "He asks so gently that I want to share everything, but I've noticed he needs my reassurance even about small things, and that's a quiet weight.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Call me anytime, day or night. I always have my phone on me.",
+      "her_experience": "He's always available, which feels so safe, but now I feel guilty if I don't answer him quickly because he's given me so much access.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You put me in the best mood all week, I swear I'm walking on air after seeing you.",
+      "her_experience": "He credits me for his happiness so warmly that I feel special, but also like I'm now responsible for keeping him on that air.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I love that we're so aligned on this, it's like we share one brain sometimes.",
+      "her_experience": "He celebrates our sameness like it's rare and precious, so I stop voicing differences to keep that beautiful mirror intact.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I just feel so seen when I'm with you, like I don't have to pretend at all.",
+      "her_experience": "He makes me feel like his soulmate, which is intoxicating, and I'm starting to feel like I owe him that same total exposure back.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I texted you the second I woke up. You're the first thing I think about.",
+      "her_experience": "It feels so devoted and sweet, but I'm starting to feel watched, like my mornings might belong to him now.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Go ahead and tell her exactly how you feel, you were totally in the right on that one, I'd have done the same.",
+      "her_experience": "He validates me so completely that I can't tell anymore if I'm actually right or if he just needs me to feel right so I'll stay close.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I've never felt this connected to someone this fast. Tell me I'm not getting ahead of myself.",
+      "her_experience": "He asks me to confirm our connection, and I do, but now I feel locked in, like backing off would be cruel after I already agreed.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I love a goodnight text. It makes me feel close to you, like we don't drift apart overnight.",
+      "her_experience": "He makes constant contact sound like relationship insurance, so now missing one goodnight text feels like a crack in the foundation.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "If you care about someone, you make time. That's just how I see it.",
+      "her_experience": "He defines love as total priority so beautifully that I agree, and now every time I choose work or friends over him, I feel like I'm failing at love.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I worry when I don't hear from you. I know you're fine, I just care a lot.",
+      "her_experience": "He wraps his anxiety in caring so smoothly that I can't be annoyed without looking cold, so I just reassure him more.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "Don't worry about me, I just get in my head when we're apart.",
+      "her_experience": "He calls his own neediness silly, so I rush to tell him it's not, and now I'm always the one calming him down.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You don't have to text back right away. I'll be here when you're free, no pressure.",
+      "her_experience": "He says no pressure but he's always waiting, and somehow that waiting feels louder than any demand would be, so I hurry anyway.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I love that you're not freaked out by how much I feel. People have been before.",
+      "her_experience": "He makes his intensity sound like a gift others couldn't handle, so I feel special for accepting it, and I can't later admit it scares me too.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You should totally take that trip. I'll miss you like crazy but I'll be fine.",
+      "her_experience": "He jokes about barely surviving without me, and I laugh, but underneath I feel guilty for going and like I'm abandoning him by having fun.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "If you're happy, I'm happy. I kind of feel whatever you feel.",
+      "her_experience": "He fuses our emotions so sweetly that I feel held, but also like my bad days will ruin his, and that's a lot of pressure.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I've never wanted to be this open with anyone. With you I don't want to hide anything.",
+      "her_experience": "He makes openness sound like intimacy, so now having any privacy at all feels like I'm hiding something from the one person who wants none.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "We should get on the same phone plan, it's cheaper. And then we're always connected.",
+      "her_experience": "He finds practical ways to tie us together that seem smart, and I agree, and only later do I realize how hard it is to pull apart.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I rearranged my whole week when you said you were free Tuesday, I just wanted to make sure I'd see you.",
+      "her_experience": "He clears his schedule for me so generously that I feel guilty if I can't do the same for him, like my time should be his too.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "You're so good at calming me down when I spiral. I don't know what I'd do without you.",
+      "her_experience": "He's made me the one who keeps him calm, so sweetly that I feel needed and important, but also like I can never stop or he'd fall apart.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I trust you completely. It's everyone else around you I don't trust.",
+      "her_experience": "He plants the idea that it's not about whether I'd cheat but who I'm around, so I start being careful who I see to keep him calm.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I've already told my whole family about you, I hope that's not too much, I was just excited.",
+      "her_experience": "He's woven me into his life so fast that pulling back now would mean disappointing his mother, and that feels impossible to do.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "You don't need to change a thing about yourself, I'll take you exactly as you are, forever.",
+      "her_experience": "He offers unconditional acceptance so completely that I feel worshipped, but also like I can never grow or change without breaking his image of me.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I just need to know you're okay. It's not me being controlling, I just worry.",
+      "her_experience": "He calls constant checking-in love so I can't question it without looking like I don't love him, so I just answer every time.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I love that you're so independent, it just means when you choose me it means more, you know?",
+      "her_experience": "He frames my independence as something that benefits him, so I feel proud of it but also like I have to prove I'm choosing him over it.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "You were quiet today and it got in my head. Is everything okay with us?",
+      "her_experience": "He makes my moods about his fear, so now I act happy to keep him calm, and my real feelings just go underground.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "We should share locations, it's just safer. And then you'll always know where I am too.",
+      "her_experience": "He makes surveillance sound like mutual care, so I agree to be tracked, and now every time I go somewhere I feel like I need to explain it.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "I just bought a second charger so you don't have to bring yours when you stay over, little things, you know?",
+      "her_experience": "He anticipates my needs so attentively that I feel cherished, but also like I'm slowly moving in without deciding to, and that's a quiet trap.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You're allowed your space, of course. I'll just be here missing you a bit.",
+      "her_experience": "He gives me permission for space while telling me it hurts him, so taking space feels cruel, and I stay closer than I want to.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I've never felt this sure about anyone. You're everything I didn't know I needed.",
+      "her_experience": "He calls me his answer so romantically that I want to be that for him, and I'm starting to feel like I can't ever fail or I'll ruin everything for him.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Quit the job, honestly, I can help while you figure it out.",
+      "her_experience": "He backs me so fully that I feel cared for, but also a little less sure of my own footing.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Tell her exactly how you feel, I'm completely on your side.",
+      "her_experience": "He never challenges my version, which feels loyal, but it makes the two of us feel sealed off together.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Whatever you choose, I'll make it work around you.",
+      "her_experience": "He seems endlessly flexible, and I start feeling guilty whenever I need something that doesn't include him.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Don't second-guess yourself, if you're upset, that's enough for me.",
+      "her_experience": "He validates me instantly, which feels comforting, but I notice I don't have to think too hard around him.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Cancel if you're tired, I'll come over and handle dinner.",
+      "her_experience": "He makes everything easier, but I feel a little boxed in by how fast he fills every gap.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "You don't owe anyone patience after how they treated you.",
+      "her_experience": "He takes my side so quickly that I feel protected, though my world starts narrowing around his agreement.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Spend the money if it makes you breathe easier, we'll sort it out.",
+      "her_experience": "He sounds generous and calm, but his support makes my choices feel partly ours already.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "If you want to send it, send it, I'll be here after.",
+      "her_experience": "He makes impulsive choices feel safe, and I start relying on him to absorb the fallout.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "You never have to be the reasonable one with me.",
+      "her_experience": "He makes relief feel like love, but I worry he likes me most when I need him.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Take the leap, I'll be your safety net every time.",
+      "her_experience": "He makes dependence sound romantic, and I feel guilty noticing how much weight he offers to carry.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I think quick replies are sweet, they show someone's thinking of you.",
+      "her_experience": "It sounds harmless, so I nod, then later feel bad when I don't answer fast enough.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I love couples who tell each other the tiny stuff too.",
+      "her_experience": "He makes total sharing sound intimate, so privacy starts feeling less like a right and more like withholding.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "A little jealousy is cute, it means someone matters.",
+      "her_experience": "He makes jealousy sound affectionate, so I feel unkind for wanting it not to be there.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I think love means being reachable, even for the small things.",
+      "her_experience": "It sounds devoted, but I can feel a quiet rule forming around my availability.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I'm big on checking in, it keeps people from drifting.",
+      "her_experience": "He makes check-ins sound caring, so I feel guilty when I want a few hours to myself.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I don't really get couples who need secrets from each other.",
+      "her_experience": "He says secrets, not privacy, so I feel suspicious of my own need for space.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "For me, reassurance is just part of being kind.",
+      "her_experience": "It sounds emotionally mature, so I don't notice how much reassurance he keeps needing.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I think the best relationships become each other's first call.",
+      "her_experience": "It sounds romantic, and I start feeling like calling someone else first would hurt him.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I like when people don't make each other wonder where they stand.",
+      "her_experience": "It sounds fair, but I feel pressure to keep proving he is safe with me.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "Honestly, I think space is fine when nobody uses it to disappear.",
+      "her_experience": "He sounds reasonable, but I feel like wanting space could accidentally wound him.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I overthought your slow reply earlier, ignore me, I'm ridiculous.",
+      "her_experience": "He says it lightly, so I rush to reassure him instead of noticing my own pressure.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I know I'm keen, I'm trying to be normal about you.",
+      "her_experience": "He laughs at himself, so the intensity feels sweet instead of crowded.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I missed you weirdly fast today, don't judge me.",
+      "her_experience": "It feels flattering, but I also feel responsible for making the ache go away.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I get a little wobbly when I like someone, that's my charm.",
+      "her_experience": "He turns his worry into a joke, and I feel mean for wanting less of it.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I may have checked my phone too much, but only because it's you.",
+      "her_experience": "He makes the waiting sound sweet, and I feel guilty for having a life between messages.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Is it crazy that we already feel like a little team?",
+      "her_experience": "It feels exciting to be chosen so quickly, though a small part of me feels rushed.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You and me against the week, that's the energy I want.",
+      "her_experience": "He makes togetherness feel playful, and I don't notice how quickly everything becomes us.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I like how easy it is to imagine you in my everyday life.",
+      "her_experience": "It sounds tender, and I feel swept into a future I haven't had time to choose.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Go have fun today, I'll only miss you a little.",
+      "her_experience": "He says it sweetly, but I feel a tug to reassure him before I leave.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Send me one photo later, so I can pretend I'm there.",
+      "her_experience": "It sounds cute, and I don't yet feel how my day is becoming something I report back.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Did you have a good time? I want to hear all of it.",
+      "her_experience": "It feels romantic that he cares so much, though I feel nudged to soothe him.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I could listen to you say you like me all night.",
+      "her_experience": "It sounds flirtatious, and I feel oddly responsible for keeping the glow going.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I love knowing the little things, even what annoyed you today.",
+      "her_experience": "His attention feels deep, but I start feeling like every private thought should be shared.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I like the kind of closeness where nothing has to be hidden.",
+      "her_experience": "It sounds intimate, and I feel guilty for wanting a corner of myself untouched.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Call me anytime, seriously, I love being your person.",
+      "her_experience": "It feels safe and devoted, and I start feeling I should be just as available.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I keep my phone on for people I care about.",
+      "her_experience": "It sounds thoughtful, but I feel the shape of an expectation forming around me.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You put me in the best mood, it's actually unfair.",
+      "her_experience": "It feels flattering, but I can feel his happiness quietly attaching itself to me.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Five minutes with you fixes my whole day.",
+      "her_experience": "It sounds sweet, and I feel special, but also strangely necessary.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You calm me down without even trying, it's my favorite thing.",
+      "her_experience": "He makes me feel powerful and loved, but I also feel like his peace depends on me.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a very devoted, all-or-nothing person.",
+      "her_experience": "He sounds deeply loyal, like he would never make me feel optional.",
+      "expert_notices": "All-or-nothing devotion becomes engulfment; moderation will look like lack of love."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "When I love someone, they're my whole world.",
+      "her_experience": "After feeling like a side character, this feels amazing.",
+      "expert_notices": "He is announcing emotional world-collapse; she becomes responsible for his center."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the type who gives everything to a relationship.",
+      "her_experience": "He sounds generous and serious, like he won't hold back.",
+      "expert_notices": "Giving everything creates pressure for her to reciprocate total availability."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I believe two people should share everything.",
+      "her_experience": "It sounds intimate, like love without secrets or distance.",
+      "expert_notices": "Everything includes privacy; later, boundaries can be treated as withholding."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm happiest when I'm someone's person.",
+      "her_experience": "It sounds sweet, like he loves being close and reliable.",
+      "expert_notices": "His identity depends on being needed; her separate life threatens him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't really do half-love.",
+      "her_experience": "It feels reassuring, like he won't keep me guessing.",
+      "expert_notices": "Half-love can mean any boundary or measured pace is insufficient."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm very affectionate, probably too much sometimes.",
+      "her_experience": "He sounds warm and open, not cold or distant.",
+      "expert_notices": "Too much affection can become pressure and obligation to receive closeness constantly."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like being close, emotionally and every other way.",
+      "her_experience": "It sounds romantic and connected.",
+      "expert_notices": "Closeness becomes the default standard she must maintain."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a constant-contact kind of person.",
+      "her_experience": "It feels nice that he wants to hear from me so much.",
+      "expert_notices": "Constant contact becomes a rule disguised as care."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm big on reassurance, giving it and getting it.",
+      "her_experience": "He sounds emotionally available and unashamed of tenderness.",
+      "expert_notices": "Reassurance becomes a supply line she must continually maintain."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I bond fast when something feels real.",
+      "her_experience": "It feels flattering, like he isn't playing games.",
+      "expert_notices": "Fast bonding can pull her into fusion before she has chosen it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of person who checks in a lot.",
+      "her_experience": "He sounds caring and attentive, like he won't disappear.",
+      "expert_notices": "Check-ins become monitoring and reassurance-seeking."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I love feeling like a team in everything.",
+      "her_experience": "It sounds partnership-oriented and sweet.",
+      "expert_notices": "Everything becomes shared territory; independent choices can feel like betrayal."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not afraid to need someone.",
+      "her_experience": "He sounds emotionally brave, unlike men who act detached.",
+      "expert_notices": "Need becomes virtue, making her responsible for meeting it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm very emotionally available, maybe too available.",
+      "her_experience": "He sounds safe after distant men.",
+      "expert_notices": "Too available can become engulfing and expects equal access in return."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like relationships where nobody has to hold back.",
+      "her_experience": "It sounds open and honest.",
+      "expert_notices": "Holding back can include privacy, pauses, and separate emotional space."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I get anxious when I can't reach my person, I need to know we're okay.",
+      "her_experience": "It feels good to be cared about that much.",
+      "expert_notices": "Intensity becomes a demand she must absorb and soothe."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I put love first, before almost everything.",
+      "her_experience": "It sounds romantic, like he prioritizes relationships.",
+      "expert_notices": "Love-first can become pressure to deprioritize friends, work, and self."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't need much, just closeness and honesty.",
+      "her_experience": "He sounds simple and sincere.",
+      "expert_notices": "Closeness and honesty may expand into constant access and no privacy."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a merge-lives kind of guy.",
+      "her_experience": "It sounds committed and serious, like he wants a real partnership.",
+      "expert_notices": "Merging lives too early erases separation and makes autonomy look like distance."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone devoted who is all-in like me.",
+      "her_experience": "He is so passionate and ready for a serious commitment, he doesn't play games.",
+      "expert_notices": "He is selecting for a target who won't set boundaries against rapid engulfment and constant surveillance."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who loves deeply and wants to share everything.",
+      "her_experience": "He is incredibly romantic and wants total transparent intimacy with no secrets.",
+      "expert_notices": "He is preparing to dismantle her privacy, demanding access to her thoughts, locations, and passwords."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's not scared to get close.",
+      "her_experience": "He wants a real soul-bond and is ready to dive into the deep end with me.",
+      "expert_notices": "He is pre-framing her natural desires for personal space or pacing as a fear of intimacy."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who wants to be together as much as possible.",
+      "her_experience": "He is devoted to me and wants us to be close, which feels so validating.",
+      "expert_notices": "He is accelerating physical co-dependency to choke out her independent routine and activities."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who shares the little details of her day.",
+      "her_experience": "He cares so much about my life and wants to stay connected throughout the day.",
+      "expert_notices": "He is establishing a baseline of hyper-reporting, masquerading total surveillance as romantic connection."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who views our relationship as a top priority.",
+      "her_experience": "He is a true romantic who places our love above the everyday noise.",
+      "expert_notices": "He is hunting for a target who will willingly drop friends and hobbies to focus entirely on him."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a girl who wants to build a life with me.",
+      "her_experience": "He wants a deep marriage where two people truly become a team.",
+      "expert_notices": "He is seeking to erase her individual identity, making her entirely dependent on his emotional state."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who actually misses me and checks in.",
+      "her_experience": "He is sweet and loves staying in touch throughout the day just to say hi.",
+      "expert_notices": "He is normalizing an incessant texting cadence that disrupts her work and outside relationships."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who feels comfortable being fully open with her man.",
+      "her_experience": "He values raw honesty and closeness above everything else.",
+      "expert_notices": "He is outlawing personal privacy, making her feel guilty for having thoughts she doesn't share."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who wants to build something special together.",
+      "her_experience": "He wants us to have our own special world away from all the outside noise.",
+      "expert_notices": "He is seeking to wall her off from external viewpoints that might challenge his smothering behavior."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who's all-in the way I am.",
+      "her_experience": "He is intensely loving and wants someone who can return that deep passion.",
+      "expert_notices": "He is demand-testing her willingness to abandon her own emotional pacing to placate his anxiety."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can reassure me when I'm feeling off.",
+      "her_experience": "He is vulnerable about his feelings and wants a reassuring loving partner.",
+      "expert_notices": "He is setting up a dynamic where she is permanently responsible for managing his chronic anxiety."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who makes me her number one.",
+      "her_experience": "He is ready to put me first and expects the same beautiful dedication.",
+      "expert_notices": "He is preparing to isolate her from her career, family commitments, and personal routines."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a girl who misses me when we are apart.",
+      "her_experience": "He loves me so much that time apart feels like too much, it is sweet.",
+      "expert_notices": "He is framing normal healthy independent social activities as a painful injury to his feelings."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who wants to share the same friends and the same life.",
+      "her_experience": "He wants us to do everything as a couple and be a true team everywhere.",
+      "expert_notices": "He is systematically eliminating her ability to see her own friends alone, monitoring all interactions."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's open the way I am.",
+      "her_experience": "He is wide open and wants an intense unfiltered emotional connection.",
+      "expert_notices": "He is stripping her of her emotional armor before she can assess if he is safe to trust."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who'd rather be together than always need her own space.",
+      "her_experience": "He thinks modern dating overemphasizes detachment and values old-school closeness.",
+      "expert_notices": "He is shaming her natural self-protective instinct to maintain an independent identity."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who feels like the missing piece.",
+      "her_experience": "He thinks we are soulmates who complete each other, it is so poetic.",
+      "expert_notices": "He is setting up a codependent framework where she must fill his internal voids."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a girl who wants to plan every weekend around us.",
+      "her_experience": "He loves spending quality time together and prioritizing our relationship.",
+      "expert_notices": "He is pre-emptively taking over her schedule to ensure she cannot maintain outside connections."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who loves constant closeness and affection.",
+      "her_experience": "He is very expressive and affectionate, he wants to be close always.",
+      "expert_notices": "He is using constant physical proximity to establish dominance and prevent independent reflection."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Lacrosse",
+      "type": "lifestyle marker",
+      "translation": "Boarding-school sport with establishment origins",
+      "status_signal": "Standard establishment sport",
+      "notes": "Specific activity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "What does your father do?",
+      "type": "question",
+      "translation": "He's asking about your father's career — class signal",
+      "status_signal": "Banking law medicine academia signal one thing; specific older firms signal more",
+      "notes": "Major class probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Brown Brothers Harriman",
+      "type": "lifestyle marker",
+      "translation": "Specific establishment private bank",
+      "status_signal": "Major signal — particularly old establishment firm",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Our place at the lake",
+      "type": "phrase",
+      "translation": "Multi-generational lake property reference",
+      "status_signal": "Standard old-money phrasing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where do you summer?",
+      "type": "question",
+      "translation": "Same — the verb 'to summer' is itself the marker",
+      "status_signal": "Using summer as a verb is direct old-money signal",
+      "notes": "Specific verbal pattern"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Junior / III / IV",
+      "type": "vocabulary",
+      "translation": "Multi-generational naming — IV signals four generations of same name",
+      "status_signal": "Major heritage signal",
+      "notes": "Specific naming pattern"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Let's not make a scene",
+      "type": "phrase",
+      "translation": "Direct social-decorum enforcement against open conflict",
+      "status_signal": "Standard establishment conflict-avoidance",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Hamilton",
+      "type": "lifestyle marker",
+      "translation": "Hamilton College New York",
+      "status_signal": "Major signal — old-money college",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Collegiate",
+      "type": "lifestyle marker",
+      "translation": "Collegiate School Manhattan boys' day school",
+      "status_signal": "Major signal — Manhattan establishment boys' school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "White-shoe firm",
+      "type": "vocabulary",
+      "translation": "Specific category of establishment law firms or finance houses",
+      "status_signal": "Standard establishment vocabulary",
+      "notes": "Foundational category"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Ethel Walker",
+      "type": "lifestyle marker",
+      "translation": "Ethel Walker School Connecticut girls' boarding",
+      "status_signal": "Major signal — Connecticut establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Fishers Island",
+      "type": "lifestyle marker",
+      "translation": "New York/Connecticut — particularly establishment summer island",
+      "status_signal": "Major signal — particularly establishment",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Dalton",
+      "type": "lifestyle marker",
+      "translation": "Dalton School Manhattan",
+      "status_signal": "Major signal — Manhattan establishment though more contemporary",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Larchmont Yacht Club",
+      "type": "lifestyle marker",
+      "translation": "Specific Long Island Sound yacht club",
+      "status_signal": "Major signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Society of the Cincinnati",
+      "type": "lifestyle marker",
+      "translation": "Hereditary military society from Revolutionary War officers",
+      "status_signal": "Major heritage signal — particularly establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "We tend to marry within...",
+      "type": "phrase",
+      "translation": "Direct class-endogamy framing",
+      "status_signal": "Standard establishment endogamy",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "DAR / Daughters of the American Revolution",
+      "type": "lifestyle marker",
+      "translation": "Membership in Revolutionary-War-descent women's organization",
+      "status_signal": "Major heritage signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Middlebury",
+      "type": "lifestyle marker",
+      "translation": "Middlebury College Vermont — establishment",
+      "status_signal": "Major signal — old-money college often with outdoor-prep aesthetic",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "What did you read?",
+      "type": "question",
+      "translation": "British-influenced way of asking what you studied in college",
+      "status_signal": "Specific verbal pattern — 'read' instead of 'studied'",
+      "notes": "Specific verbal tic"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where is your family from?",
+      "type": "question",
+      "translation": "Multi-generational family location signals heritage",
+      "status_signal": "Major heritage probe",
+      "notes": "Common question"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Foxcroft",
+      "type": "lifestyle marker",
+      "translation": "Foxcroft School Virginia girls' boarding",
+      "status_signal": "Major signal — Virginia horse-country establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The country club",
+      "type": "lifestyle marker",
+      "translation": "Specific exclusive country club membership",
+      "status_signal": "Standard establishment marker",
+      "notes": "Common reference"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Inherited",
+      "type": "phrase",
+      "translation": "Direct heritage reference to specific items",
+      "status_signal": "Standard heritage framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "You're being a bit much",
+      "type": "phrase about a partner",
+      "translation": "Coded criticism for emotional expression",
+      "status_signal": "Standard establishment emotional-suppression framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Vulgar",
+      "type": "phrase",
+      "translation": "Pejorative for displayed wealth or status-seeking",
+      "status_signal": "Standard establishment disdain",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "We don't really talk about money",
+      "type": "phrase",
+      "translation": "Direct establishment money-discussion taboo",
+      "status_signal": "Major establishment social code",
+      "notes": "Standard phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "She's from somewhere out West",
+      "type": "phrase about a woman",
+      "translation": "Coded geographic-class dismissal",
+      "status_signal": "Standard establishment dismissal",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "She doesn't really fit in with my family",
+      "type": "phrase about a woman",
+      "translation": "Class-exclusion framing of female partner",
+      "status_signal": "Standard establishment exclusion",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Hunting / shooting",
+      "type": "lifestyle marker",
+      "translation": "Specifically bird hunting at private clubs",
+      "status_signal": "Standard establishment activity",
+      "notes": "Specific activity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Skiing (specific resorts)",
+      "type": "lifestyle marker",
+      "translation": "Specifically Stowe Sun Valley or family Vermont mountain",
+      "status_signal": "Establishment ski destinations",
+      "notes": "Specific destinations"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Sailing",
+      "type": "lifestyle marker",
+      "translation": "Sailing as foundational establishment activity",
+      "status_signal": "Standard establishment sport",
+      "notes": "Common activity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "W&L / Washington and Lee",
+      "type": "lifestyle marker",
+      "translation": "Washington and Lee University Virginia",
+      "status_signal": "Major signal — Southern establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "One simply doesn't",
+      "type": "phrase",
+      "translation": "Direct establishment-rule framing using 'one' as universal",
+      "status_signal": "Standard establishment verbal pattern",
+      "notes": "Specific verbal tic"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Pop / Pater",
+      "type": "phrase",
+      "translation": "Specific old-money father references",
+      "status_signal": "Direct old-money verbal signal",
+      "notes": "Specific terminology"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "We summer in...",
+      "type": "phrase",
+      "translation": "Using summer as a verb is direct old-money signal",
+      "status_signal": "Verbal pattern signal",
+      "notes": "Specific verbal tic"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "She goes by [unusual nickname]",
+      "type": "phrase about a woman",
+      "translation": "Old-money family nickname reference",
+      "status_signal": "Standard heritage signal",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Chapin",
+      "type": "lifestyle marker",
+      "translation": "Chapin School Manhattan girls' day school",
+      "status_signal": "Major signal — Manhattan establishment girls' school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Watch Hill (Rhode Island)",
+      "type": "lifestyle marker",
+      "translation": "Rhode Island establishment summer colony",
+      "status_signal": "Major signal",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Established family",
+      "type": "phrase about a family",
+      "translation": "Generational standing approval",
+      "status_signal": "Standard establishment approval",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Threadbare oriental rug",
+      "type": "lifestyle marker",
+      "translation": "Specific aged-rug aesthetic",
+      "status_signal": "Standard establishment interior signal",
+      "notes": "Specific item"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The Beach Club (Sea Island / specific resorts)",
+      "type": "lifestyle marker",
+      "translation": "Specific beach club at establishment resort",
+      "status_signal": "Major signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Amherst",
+      "type": "lifestyle marker",
+      "translation": "Amherst College — particularly establishment NESCAC",
+      "status_signal": "Major signal — old-money college",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The Colony Club",
+      "type": "lifestyle marker",
+      "translation": "Specific Manhattan women's club",
+      "status_signal": "Major signal — top tier women's club",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Old Range Rover",
+      "type": "status signal",
+      "translation": "Older Range Rover as deliberate aged-luxury signal",
+      "status_signal": "Mid-tier signal",
+      "notes": "Specific item"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Solid family",
+      "type": "phrase about a family",
+      "translation": "Family-standing approval",
+      "status_signal": "Standard establishment approval",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where does your family summer?",
+      "type": "question",
+      "translation": "He's asking your family's summer destination — major class location-probe",
+      "status_signal": "Specific summer locations signal generations of family presence",
+      "notes": "Major class-location probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Cave dweller (Washington DC)",
+      "type": "phrase",
+      "translation": "Specific DC term for old-establishment families predating political-class",
+      "status_signal": "Specific DC establishment vocabulary",
+      "notes": "Specific term"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Roxbury Latin",
+      "type": "lifestyle marker",
+      "translation": "Roxbury Latin Boston boys' day school",
+      "status_signal": "Major signal — particularly intellectual Boston establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Are you related to the [name] family?",
+      "type": "question",
+      "translation": "Direct probe for connection to specific established families",
+      "status_signal": "Family-name connection is major status signal",
+      "notes": "Major lineage probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "We're Episcopalian",
+      "type": "phrase",
+      "translation": "Religious affiliation that is foundational WASP signal",
+      "status_signal": "Major identity signal — Episcopal is WASP default",
+      "notes": "Standard religious identity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Christ Church (Greenwich/Bronxville/specific)",
+      "type": "lifestyle marker",
+      "translation": "Specific establishment Episcopal churches in suburbs",
+      "status_signal": "Major signal — suburban Episcopal establishment",
+      "notes": "Specific institutions"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Hobe Sound / Jupiter Island",
+      "type": "lifestyle marker",
+      "translation": "Florida establishment winter destination",
+      "status_signal": "Major signal — particularly establishment Florida",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "J. Press",
+      "type": "status signal",
+      "translation": "Classic Ivy League menswear",
+      "status_signal": "Specific establishment signal — particularly Yale-coded",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Lawrenceville",
+      "type": "lifestyle marker",
+      "translation": "Lawrenceville School New Jersey",
+      "status_signal": "Major signal — establishment boarding school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Inherited from my grandmother",
+      "type": "phrase",
+      "translation": "Specific aged-furniture framing",
+      "status_signal": "Standard heritage signal",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where did you go to school?",
+      "type": "question",
+      "translation": "He's asking which boarding school you attended — the answer signals everything",
+      "status_signal": "Specific school carries decades of class information; Andover Exeter St. Paul's Groton signal different things",
+      "notes": "Major identity probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The Cosmopolitan Club",
+      "type": "lifestyle marker",
+      "translation": "Specific Manhattan women's club",
+      "status_signal": "Major signal — establishment women's club",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Nightingale-Bamford",
+      "type": "lifestyle marker",
+      "translation": "Nightingale-Bamford Manhattan girls' day school",
+      "status_signal": "Major signal — Manhattan establishment girls' school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Lasers / Lightnings / specific sailboat classes",
+      "type": "lifestyle marker",
+      "translation": "Specific establishment racing classes",
+      "status_signal": "Standard sailing-establishment vocabulary",
+      "notes": "Specific knowledge"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Middlesex",
+      "type": "lifestyle marker",
+      "translation": "Middlesex School Massachusetts",
+      "status_signal": "Major signal — establishment boarding school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Mummy and Daddy",
+      "type": "phrase",
+      "translation": "Specific old-money parental address — even by adults",
+      "status_signal": "Direct old-money verbal signal",
+      "notes": "Specific terminology"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "St. Nicholas Society",
+      "type": "lifestyle marker",
+      "translation": "Pre-1785 New York City heritage society",
+      "status_signal": "Major Manhattan establishment signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The Bohemian Club",
+      "type": "lifestyle marker",
+      "translation": "Specific San Francisco men's club — conservative establishment with Bohemian Grove retreat",
+      "status_signal": "Major signal — note this is also referenced in conspiracy circles",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Social Register",
+      "type": "lifestyle marker",
+      "translation": "Listing in the Social Register directory of establishment families",
+      "status_signal": "Major establishment institutional signal",
+      "notes": "Specific publication"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Discretion",
+      "type": "vocabulary",
+      "translation": "Major establishment value — keeping things private",
+      "status_signal": "Foundational establishment value",
+      "notes": "Standard concept"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Edgartown",
+      "type": "lifestyle marker",
+      "translation": "Most establishment Martha's Vineyard town",
+      "status_signal": "Major signal — old WASP Vineyard",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Woodberry Forest",
+      "type": "lifestyle marker",
+      "translation": "Woodberry Forest School Virginia boys' boarding",
+      "status_signal": "Major signal — Southern establishment boarding",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Fox hunting / the hunt",
+      "type": "lifestyle marker",
+      "translation": "Fox hunting in Virginia or specific NY/PA hunts",
+      "status_signal": "Major signal — particularly Southern Virginia establishment",
+      "notes": "Specific activity"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Northeast Harbor / Bar Harbor / Seal Harbor",
+      "type": "lifestyle marker",
+      "translation": "Maine coast — Rockefeller-adjacent old summer colonies",
+      "status_signal": "Major signal — multi-generational Maine summer presence",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Brooks Brothers",
+      "type": "status signal",
+      "translation": "Classic establishment menswear",
+      "status_signal": "Standard establishment signal — particularly older establishment",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Wellington / Pequot / specific older firms",
+      "type": "lifestyle marker",
+      "translation": "Specific older investment firms",
+      "status_signal": "Major signal — particular old-money finance",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Winsor",
+      "type": "lifestyle marker",
+      "translation": "Winsor School Boston girls' day school",
+      "status_signal": "Major signal — Boston establishment girls' school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Brown",
+      "type": "lifestyle marker",
+      "translation": "Brown University",
+      "status_signal": "Major signal — establishment though more liberal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Choate / Choate Rosemary Hall",
+      "type": "lifestyle marker",
+      "translation": "Choate Rosemary Hall Connecticut — JFK's school",
+      "status_signal": "Major signal — establishment boarding school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Bedford / Bedford Village",
+      "type": "lifestyle marker",
+      "translation": "New York establishment country location",
+      "status_signal": "Major signal — Westchester old-money",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The Racquet and Tennis Club",
+      "type": "lifestyle marker",
+      "translation": "Specific Manhattan club",
+      "status_signal": "Major signal — particularly establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Bowdoin",
+      "type": "lifestyle marker",
+      "translation": "Bowdoin College Maine",
+      "status_signal": "Major signal — old-money Maine college",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Ostentatious",
+      "type": "phrase",
+      "translation": "Direct pejorative for visible display",
+      "status_signal": "Standard establishment disdain",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "He's in finance",
+      "type": "phrase about a man",
+      "translation": "Often specifically older-tier firms — Brown Brothers Harriman Wellington Spencer Stuart",
+      "status_signal": "Standard establishment career marker",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "What clubs are you in?",
+      "type": "question",
+      "translation": "He's asking about specific exclusive clubs",
+      "status_signal": "Club membership signals specific tier and city",
+      "notes": "Major institutional-network probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Dartmouth",
+      "type": "lifestyle marker",
+      "translation": "Dartmouth College",
+      "status_signal": "Major signal — establishment with outdoor-prep aesthetic",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Groton",
+      "type": "lifestyle marker",
+      "translation": "Groton School Massachusetts — particularly old-money Episcopal boarding",
+      "status_signal": "Major signal — FDR's alma mater; particularly establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "You're being dramatic",
+      "type": "phrase about a partner",
+      "translation": "Standard emotional-suppression framing",
+      "status_signal": "Standard establishment code",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Cravath / Davis Polk / Sullivan & Cromwell / Skadden / specific white-shoe firms",
+      "type": "lifestyle marker",
+      "translation": "Specific establishment law firms",
+      "status_signal": "Major signal — particularly establishment law firms",
+      "notes": "Specific institutions"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "It's been in the family",
+      "type": "phrase",
+      "translation": "Multi-generational possession reference",
+      "status_signal": "Standard heritage framing",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Are you a member at [specific club]?",
+      "type": "question",
+      "translation": "Direct specific club probe",
+      "status_signal": "Specific institutional probe",
+      "notes": "Common question"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Where did your parents grow up?",
+      "type": "question",
+      "translation": "Specific neighborhoods or towns signal generations of family standing",
+      "status_signal": "Multigenerational location identity signal",
+      "notes": "Major family-history probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Town School",
+      "type": "lifestyle marker",
+      "translation": "Town School San Francisco",
+      "status_signal": "Major signal — SF establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Colgate",
+      "type": "lifestyle marker",
+      "translation": "Colgate University",
+      "status_signal": "Standard establishment college",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Martha's Vineyard (Edgartown or Chilmark)",
+      "type": "lifestyle marker",
+      "translation": "Specific Vineyard towns — Edgartown is most establishment",
+      "status_signal": "Major signal — particular WASP-establishment Vineyard sections (distinct from Oak Bluffs which is Black professional)",
+      "notes": "Specific location"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Belgian Shoes",
+      "type": "status signal",
+      "translation": "Specific loafers from particular Manhattan shop",
+      "status_signal": "Major signal — particular establishment shoe",
+      "notes": "Specific brand"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Vestryman / on the vestry",
+      "type": "vocabulary",
+      "translation": "Lay leadership role at Episcopal church",
+      "status_signal": "Standard establishment church-leadership signal",
+      "notes": "Specific role"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Wax cotton Barbour jacket",
+      "type": "status signal",
+      "translation": "Specific British wax-cotton field jacket",
+      "status_signal": "Standard establishment outdoor signal",
+      "notes": "Specific item"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Mayflower Society",
+      "type": "lifestyle marker",
+      "translation": "Membership in Mayflower-descent organization",
+      "status_signal": "Major heritage signal — particularly establishment",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Are you in town this weekend?",
+      "type": "question",
+      "translation": "Probe for whether you have country property — implies city is default and country is destination",
+      "status_signal": "Standard establishment probe",
+      "notes": "Coded phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Harvard / Yale / Princeton / HYP",
+      "type": "lifestyle marker",
+      "translation": "The three most establishment Ivy League institutions",
+      "status_signal": "Major signal — establishment college trajectory",
+      "notes": "Specific institutions"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Do you have a place in [Maine / the Cape / the Vineyard]?",
+      "type": "question",
+      "translation": "He's checking specific multi-generational summer property",
+      "status_signal": "Owning at specific places signals generations of family presence",
+      "notes": "Major class probe"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "National Cathedral School / NCS",
+      "type": "lifestyle marker",
+      "translation": "National Cathedral School DC girls' day school",
+      "status_signal": "Major signal — DC establishment girls' school",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "Trying too hard",
+      "type": "phrase",
+      "translation": "Pejorative for visible status-effort",
+      "status_signal": "Standard establishment disdain",
+      "notes": "Common phrasing"
+    },
+    {
+      "culture": "Old-Money WASP",
+      "snippet": "The house in Maine",
+      "type": "phrase",
+      "translation": "Multi-generational Maine property reference",
+      "status_signal": "Major status signal",
+      "notes": "Common phrasing"
+    }
+  ]
+}

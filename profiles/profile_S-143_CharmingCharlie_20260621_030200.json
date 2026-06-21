@@ -1,0 +1,1402 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-143",
+    "target_register": "Black Professional",
+    "player_type": "Charming Charlie"
+  },
+  "primary_metaphors": [
+    "Seduction-as-Total-Presence",
+    "Desire-as-Aliveness",
+    "Connection-as-Destined-and-Rare",
+    "Love-as-the-Hunt",
+    "Self-as-Reflected-in-Conquest",
+    "Withdrawal-as-Natural-Ebb",
+    "Present-as-Everything",
+    "Presence-without-Continuity",
+    "Chemistry-as-Compass",
+    "Night-as-Container",
+    "Future-as-Romance-Killer",
+    "Momentary-Immersion",
+    "Time-Disappearance",
+    "Boredom-as-Exit",
+    "Impulse-as-Truth",
+    "Heat-as-Requirement",
+    "Romance-as-Scene",
+    "Memory-as-Substitute",
+    "Absorption-without-Anchor",
+    "Desire-as-Governor",
+    "Feeling-as-Entertainment",
+    "Impact-as-Identity",
+    "Spark-as-Standard",
+    "Unpredictability-as-Appeal",
+    "Now-as-Contract",
+    "Magic-over-Maintenance",
+    "Intensity-Chaser",
+    "Commitment-Bypass",
+    "Surface-Skimming"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "total presence (world goes quiet)",
+      "his_language": "When I'm with you the whole room just disappears. There's only you.",
+      "her_experience": "When we're together he's so completely locked onto me that everything else vanishes. I've never been the only person in the room like that. It's intoxicating.",
+      "expert_notices": "Total focused presence (Charm10) that feels uniquely consuming; the same presence he gives everyone and will withdraw post-conquest. Present-tense, immersive. She reads being uniquely wanted. Residue (craving the high) dormant."
+    },
+    {
+      "mechanism": "electricity (the body, right now)",
+      "his_language": "Feel my heart right now. Go on, feel it. That's what you do to me, every single time you're this close. I can barely think straight around you.",
+      "her_experience": "He took my hand and put it on his chest so I could feel his heart racing, said that's what I do to him. The physical intensity of how he wants me is overwhelming.",
+      "expert_notices": "Electric/sensory present-tense register (heart racing, can't think straight); desire located in the immediate body (Sensation10/Intensity10). No future, pure now. She reads overwhelming physical wanting. The signature Charlie voice."
+    },
+    {
+      "mechanism": "aliveness (everything in color)",
+      "his_language": "I was just going through the motions before you. You woke me up.",
+      "her_experience": "He says I brought him back to life, that everything's vivid again because of me. Being the person who wakes someone up like that is the most powerful feeling.",
+      "expert_notices": "Desire-as-Aliveness: the thrill located in her (you woke me up) but really about his sensation-seeking (Sensation10); aliveness fades with novelty. Sensory (loud, bright, color). She reads her own power/specialness. Residue (the high she'll chase) dormant."
+    },
+    {
+      "mechanism": "present-rarity (this heat, now)",
+      "his_language": "You feel this, right? You don't get a pull like this twice. And it's right here, tonight.",
+      "her_experience": "He says the chemistry we have right now is once-in-a-lifetime, that he's never felt a pull like this. Being wanted that intensely in the moment is electric.",
+      "expert_notices": "Charlie's rarity = rarity of PRESENT chemistry/heat (vs Sam's future destiny). Present tense, sensory (pull, heat, current, tonight). She reads electric desire. CONTRAST: Sam=what we'll BUILD is rare; Charlie=what we FEEL now is rare. Residue (the high) dormant."
+    },
+    {
+      "mechanism": "the hunt (thrill of pursuit)",
+      "his_language": "You actually made me work for it. I never chase anyone. I chased you.",
+      "her_experience": "He pursued me so relentlessly and says I'm the only one who's ever made him chase. Being worth that kind of effort from someone like him is thrilling.",
+      "expert_notices": "Love-as-the-Hunt: pursuit as the point (Sensation10/conquest); the thrill is the chase, which ends at capture. Flatters her as worth pursuing. Residue (interest evaporating post-capture) dormant."
+    },
+    {
+      "mechanism": "intensity (consumed by her)",
+      "his_language": "I can't get enough of you. I think about you all day, I cancel things just to see you.",
+      "her_experience": "He's utterly consumed by me, cancels plans, thinks about me constantly. The sheer intensity of his desire after years of feeling unwanted is dizzying.",
+      "expert_notices": "Overwhelming intensity (Intensity10) as the love-bomb; immediate and total, no pacing. She reads dizzying desire. The all-consuming heat that cools as fast as it ignited. Residue (withdrawal whiplash) dormant."
+    },
+    {
+      "mechanism": "conquest-mirror (she's his proof)",
+      "his_language": "Walking in with you tonight, I felt like the luckiest man alive. Everyone could see it.",
+      "her_experience": "He loves showing me off and says I make him feel unstoppable. Being someone's pride like that, the person they want everyone to see them with, feels amazing.",
+      "expert_notices": "Self-as-Reflected-in-Conquest: she reflects his desirability/status (luckiest man, everyone could see); the win is partly about how she makes HIM look. Faint Charlie seam (she's a conquest displayed). She reads being his pride. Residue (trophy, then discarded) dormant."
+    },
+    {
+      "mechanism": "natural-ebb (pre-excused cooling, faint)",
+      "his_language": "I run hot, I know that. If I need to come up for air sometimes, don't read into it.",
+      "her_experience": "He warned me he burns really intensely and might occasionally need space, that it's just his nature. Given how passionate he is, a little ebb and flow seems normal.",
+      "expert_notices": "Withdrawal-as-Natural-Ebb: pre-excuses future cooling as his passionate nature (Sensation10/Attachment2); plants acceptance of the withdrawal to come. She normalizes it preemptively. Residue (the cooling she won't be allowed to protest) dormant. Faint seam in the honeymoon."
+    },
+    {
+      "mechanism": "total presence (only you, right now)",
+      "his_language": "Put your phone away. Look at me. Right now there's nobody else in the world but us.",
+      "her_experience": "When we're together he's so intensely present, like the rest of the world dissolves and it's only us in the moment. No one has ever made me feel like the only person alive in the room like that. It's electric.",
+      "expert_notices": "Seduction-as-Total-Presence: total focused presence (Charm10), present-tense and immersive; the same presence he gives everyone and withdraws post-conquest. She reads being uniquely wanted now. Residue (craving the high) dormant."
+    },
+    {
+      "mechanism": "electric desire (the body, now)",
+      "his_language": "Come here. My pulse actually jumps when you walk in, feel it. I can't think straight around you.",
+      "her_experience": "The physical intensity of how he wants me is overwhelming, he'll take my hand to feel his racing heart, tell me I make him lose his train of thought. Being desired that powerfully in the moment is intoxicating.",
+      "expert_notices": "Desire-as-Aliveness, electric/sensory present-tense register (pulse, body, real time): desire located in the immediate body (Sensation10/Intensity10). No future, pure now. The signature Charlie voice. She reads overwhelming physical wanting. Residue dormant."
+    },
+    {
+      "mechanism": "present-rarity (this heat, right now)",
+      "his_language": "You feel how rare this is, right? This current between us. I'm telling you, this is once in a lifetime.",
+      "her_experience": "He says the chemistry we have right now is once in a lifetime, that he's never felt a pull this strong. Coming from someone who's clearly experienced, being told our connection is that rare feels extraordinary.",
+      "expert_notices": "Connection-as-Destined-and-Rare, Charlie version = rarity of PRESENT chemistry (vs Sam's future destiny). Present tense, sensory (current, heat, tonight). She reads electric specialness. CONTRAST: Sam=what we'll build is rare; Charlie=what we feel now is rare. Residue dormant."
+    },
+    {
+      "mechanism": "the hunt (thrill of the chase)",
+      "his_language": "You made me work for this and I loved every second. Nobody's kept me on my toes like that in years.",
+      "her_experience": "He pursued me so intensely and says I'm the only one in years who made him truly chase. Being worth that kind of relentless effort from someone like him is thrilling.",
+      "expert_notices": "Love-as-the-Hunt: pursuit as the point (Sensation10/conquest); the thrill is the chase, which ends at capture. Flatters her as worth pursuing. Residue (interest fading post-capture) dormant."
+    },
+    {
+      "mechanism": "conquest-mirror (she makes him feel)",
+      "his_language": "Walking in with you tonight, every head turned. You're not like anyone else in the room.",
+      "her_experience": "He loves showing me off and says being with me makes him feel on top of the world. Being someone's pride, the person they want everyone to see them with, feels wonderful.",
+      "expert_notices": "Self-as-Reflected-in-Conquest: she reflects his desirability/status (heads turned, ten feet tall); the win is partly how she makes HIM look/feel. Faint seam (she's a conquest displayed). She reads being his pride. Residue (trophy then discarded) dormant."
+    },
+    {
+      "mechanism": "pre-excused cooling (faint seam)",
+      "his_language": "I burn hot, it's just me. If I need to come up for air sometimes, it's never about you.",
+      "her_experience": "He warned me he feels things really intensely and might occasionally need some space, that it's just his nature. Given how passionate he is, a little ebb and flow seems like a fair trade.",
+      "expert_notices": "Withdrawal-as-Natural-Ebb: pre-excuses future cooling as his passionate nature (Sensation10/Attachment2); plants acceptance of the withdrawal to come. She normalizes it preemptively. Residue (the cooling she won't be allowed to protest) dormant."
+    },
+    {
+      "mechanism": "unorthodox spontaneity (sweeps her up, now)",
+      "his_language": "It's 1am, let's drive to the coast and watch the sun come up. Right now. Come on, say yes.",
+      "her_experience": "He's wildly spontaneous, midnight drives, last-minute adventures, all in the moment. He makes the present feel so alive and urgent that ordinary life seems grey by comparison. I've never felt so swept up.",
+      "expert_notices": "Unorthodoxy8/Impulsivity present-tense: spontaneity that floods the NOW (vs Ainsley's escalating-thrill-seeking, Charlie's is seductive-immediate). She reads swept-up/alive. Residue (the high she'll chase) dormant. Note: distinguish from Ainsley (Charlie=seduction-now; Ainsley=adrenaline-escalation)."
+    },
+    {
+      "mechanism": "soulmate-after-one-kiss (Intensity seed)",
+      "his_language": "I knew the second we kissed. Don't laugh, I mean it. We're not a normal couple.",
+      "her_experience": "He called me his soulmate almost immediately and talks about us like the universe arranged it. It's fast and a little overwhelming, but being wanted with that kind of certainty and intensity is hard to resist.",
+      "expert_notices": "Seeded from Intensity10 ('called me soulmate after first kiss, universe brought us together'): present-tense Charlie register, intensity reads as romantic certainty not alarm early (Intensity10/Charm10). She registers 'fast' then swept past. Residue (the intensity that cools post-conquest) dormant."
+    },
+    {
+      "mechanism": "perfectly-timed touch (Charm seed)",
+      "his_language": "Come here. I can't be near you and not touch you, it's physically impossible.",
+      "her_experience": "His touch always comes at exactly the right moment, the hand on the small of my back, the way he pulls me in. It feels magnetic and natural, though once or twice I've half-noticed how perfectly timed it always is.",
+      "expert_notices": "Seeded from Charm10 ('physical touch always seems timed perfectly, feels calculated'): kept at the seductive edge where she mostly reads magnetic, only 'half-noticing' the timing. The calculation is the dormant seam under the genuine pull. Residue dormant."
+    },
+    {
+      "mechanism": "loved you fast (Intensity8 faint)",
+      "his_language": "I know it's fast. I was gone for you in a week. I don't play it cool. When it's right, why pretend?",
+      "her_experience": "He fell fast and hard, saying things most people wait months to say, and refuses to play it cool. The sheer force of how much he wanted me, that quickly, was the most flattering, intoxicating thing.",
+      "expert_notices": "Seeded from Intensity band-8 ('saying I love you before I knew their middle name'): honeymoon faint, the fast intensity reframed as refreshing honesty about feeling; the all-consuming pace is the seam. Residue (the intensity that flips to cold) dormant. Present-tense Charlie."
+    },
+    {
+      "mechanism": "onto the next shiny thing (Sensation8 faint)",
+      "his_language": "I burn bright and fast, I get consumed. By you, right now. Don't think about the future, just feel how good this is.",
+      "her_experience": "He's so intensely present and consumed by me right now that it's electric, though I've heard he tends to burn through interests fast. I tell myself I'm different, that this intensity is the real, lasting kind.",
+      "expert_notices": "Seeded from Sensation band-8 ('amazing at first then onto the next shiny thing'): honeymoon faint, the present-tense consuming intensity is the draw; the burn-through pattern is the seam she rationalizes ('I'm different'). Residue (being the next dropped thing) dormant."
+    },
+    {
+      "mechanism": "perfectly-timed everything (Charm8 faint)",
+      "his_language": "I remember everything you tell me, your coffee order, the story about your gran. Most people don't really look. I do.",
+      "her_experience": "He notices everything about me, my coffee order, little stories, and the attention feels almost too good to be true. Every now and then it seems like he's done this before, and then he says something perfect and I forget the thought.",
+      "expert_notices": "Seeded from Charm band-8 ('physical touch perfectly timed, feels calculated', 'remember small things'): honeymoon faint, the attentiveness is intoxicating; the 'practiced' flicker is the seam, instantly dissolved by more charm. Residue (the charm is a technique) dormant."
+    },
+    {
+      "mechanism": "every story he's the hero (Charm8 faint)",
+      "his_language": "So there I am, everyone else frozen, and I'm the only one who does something. Anyway. You love these stories, admit it.",
+      "her_experience": "His stories are captivating and he's usually the hero of them, which is charming and a little dazzling. I do notice every tale somehow lands on how impressive he is, but he tells them so well that I don't mind.",
+      "expert_notices": "Seeded from Charm band-8 ('every story makes them look like the hero'): honeymoon faint, the heroic charm is dazzling; her noticing the self-aggrandisement is the seam, excused because he's entertaining. Residue (it's always about him) dormant."
+    },
+    {
+      "mechanism": "all-consuming now (Intensity8)",
+      "his_language": "I can't just be near you, I have to be all the way in it. The whole world goes quiet when we're like this.",
+      "her_experience": "Being the total focus of that all-consuming attention is the most alive I've ever felt and I want more of it constantly. Then he turns it down without warning and I'm left reeling, craving the high and confused about where it went.",
+      "expert_notices": "Intensity8 'everything all-consuming' + the swing. Targets desire (want more), confusion (where did it go), despair-seed. Present-tense."
+    },
+    {
+      "mechanism": "hot then cold (Intensity8)",
+      "his_language": "One minute I'm drowning in you, then I get in my own head and go quiet. Don't take it personally. I always come back.",
+      "her_experience": "He swings between flooding me with closeness and going suddenly cold and distant, and I never see the switch coming. I chase the warm version desperately, and the not-knowing which one I'll get leaves me anxious and a little lost.",
+      "expert_notices": "Intensity8 'soulmate one day, cold the next.' Targets desire (chase the warm) + confusion (never see it coming) + despair. Present-tense swing."
+    },
+    {
+      "mechanism": "meant to find each other (Intensity8)",
+      "his_language": "We were meant to find each other, I felt it the second we met. You feel it too, I know you do.",
+      "her_experience": "He talks about us like destiny, like the universe arranged this electric thing between us, and in the moment I'm swept completely under. Later, alone, I can't tell if what I feel is love or just the intensity, and the confusion aches.",
+      "expert_notices": "Intensity8 'meant to find each other after a week.' Targets desire (swept under) + confusion (love or intensity?) + despair (it aches). Present-tense."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a very in-the-moment, spontaneous person.",
+      "her_experience": "He sounds exciting, like he can make ordinary life feel alive.",
+      "expert_notices": "In-the-moment is also the limit of his commitment; continuity will not follow."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I just really know how to be present with someone.",
+      "her_experience": "It feels intoxicating to have his full attention right now.",
+      "expert_notices": "Presence substitutes for reliability; he offers depth in the moment, not aftercare or future."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I love the rush of something new, the early electricity is the best part.",
+      "her_experience": "He sounds passionate and emotionally alive.",
+      "expert_notices": "Chemistry becomes the compass; when chemistry dips, obligation disappears."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the type who makes every night feel special.",
+      "her_experience": "It sounds thrilling, like dating him would never feel boring.",
+      "expert_notices": "Special nights may replace ordinary steadiness and long-term investment."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not a planner, I'm more of a feeler.",
+      "her_experience": "He sounds spontaneous and real, not stiff or scripted.",
+      "expert_notices": "Planning is dismissed as unromantic; the future remains unavailable."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I fall into moments completely.",
+      "her_experience": "It sounds beautiful, like he gives himself fully.",
+      "expert_notices": "Falling into moments means he may leave them completely too."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm good at making people forget the clock.",
+      "her_experience": "It sounds seductive and fun, like time with him would feel magical.",
+      "expert_notices": "He sells time-disappearance, not time-keeping; ordinary obligations will be neglected."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't do boring love.",
+      "her_experience": "He sounds passionate, like he refuses stale relationships.",
+      "expert_notices": "Boring includes stable, ordinary, committed love once novelty fades."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a creature of impulse, in the best way.",
+      "her_experience": "It sounds playful and alive, like he follows real feeling.",
+      "expert_notices": "Impulse is his authority; later, desire overrides responsibility."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not built for lukewarm anything.",
+      "her_experience": "He sounds intense and romantic, like he won't half-love me.",
+      "expert_notices": "He may require constant heat and abandon relationships when warmth becomes normal."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm happiest when life feels like a movie.",
+      "her_experience": "It sounds dreamy, like he'll turn life beautiful.",
+      "expert_notices": "He is drawn to scenes and feelings, not the less cinematic work of care."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I make memories, that's my thing.",
+      "her_experience": "It sounds charming, like he'll give me stories I'll never forget.",
+      "expert_notices": "Memories can replace commitment; unforgettable moments are not the same as being there."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm very good at disappearing into the person I'm with.",
+      "her_experience": "It feels flattering, like he'll be totally absorbed in me.",
+      "expert_notices": "Disappearing into someone is temporary absorption, not stable attachment."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I follow desire, it usually knows better than plans.",
+      "her_experience": "It sounds bold and sensual, like he trusts life.",
+      "expert_notices": "Desire outranks planning, promises, and responsibility."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not scared of big feelings.",
+      "her_experience": "He sounds emotionally brave and open.",
+      "expert_notices": "Big feelings may be pursued for their charge, not integrated into commitment."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm someone people remember for how I made them feel.",
+      "her_experience": "It feels exciting to be with a man who leaves a mark.",
+      "expert_notices": "He prioritizes emotional effect over ethical follow-through."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm incredible at the beginning, that first stretch where it's all heat.",
+      "her_experience": "He sounds romantic, like chemistry matters to him.",
+      "expert_notices": "Spark becomes the measure; when spark fades, so does investment."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not predictable, that's part of the fun.",
+      "her_experience": "He sounds lively and surprising, not routine or dull.",
+      "expert_notices": "Unpredictability later means instability and lack of dependability."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like love that feels alive right now.",
+      "her_experience": "It sounds present and passionate.",
+      "expert_notices": "Right now is the contract; future needs are outside the offer."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm better at magic than maintenance.",
+      "her_experience": "It sounds witty and self-aware, like he'll make things sparkle.",
+      "expert_notices": "He is plainly saying he won't maintain the relationship once magic requires work."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone spontaneous who lives in the moment.",
+      "her_experience": "He is so alive and exciting, he doesn't get bogged down by rigid expectations.",
+      "expert_notices": "He is selecting for someone who chases intensity and won't press for future commitment or safety."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a romantic who doesn't need everything defined.",
+      "her_experience": "He is poetic and wants our love to flow naturally without clinical labels.",
+      "expert_notices": "He is avoiding accountability, ensuring he can leave at any moment because nothing was defined."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone who's just here for the fun of it.",
+      "her_experience": "He is lighthearted and wants to enjoy life without heavy stressful dating pressure.",
+      "expert_notices": "He is pre-screening out anyone who will demand emotional depth, consistency, or real responsibility."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who can match my passionate energy.",
+      "her_experience": "He is incredibly passionate and dynamic, the chemistry is completely off the charts.",
+      "expert_notices": "He is seeking a target who is easily swept up in love-bombing and chemical highs."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who lets love be wild and free.",
+      "her_experience": "He is a free spirit who wants a beautiful unconstrained romance without rules.",
+      "expert_notices": "He is establishing a baseline where standard relationship boundaries are framed as constraints on love."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who doesn't ruin the vibe with heavy talks.",
+      "her_experience": "He likes keeping things fun and positive, he wants our time to be a sweet escape.",
+      "expert_notices": "He is banning any discussion of his inconsistency, infidelity, or lack of genuine investment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a girl who loves the thrill of a whirlwind romance.",
+      "her_experience": "He is a hopeless romantic who wants to sweep me off my feet, it feels like a movie.",
+      "expert_notices": "He is looking for a target who will accept rapid pacing and overlook basic background checks."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who treats every day like an adventure.",
+      "her_experience": "He is fun and creative, making even ordinary days feel magical and special.",
+      "expert_notices": "He is maintaining a constant distraction machine so she won't notice the lack of structural stability."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who is comfortable with a fast-moving relationship.",
+      "her_experience": "He feels a rare intense connection and doesn't see a reason to slow down.",
+      "expert_notices": "He is forcing the pace to bypass her critical thinking and lock in emotional dependency."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I love a woman who doesn't let tomorrow spoil today.",
+      "her_experience": "He is mindful and wants us to enjoy our current chemistry without worrying.",
+      "expert_notices": "He is training her to ignore long-term red flags and the complete absence of a viable future."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can just get swept away by a feeling.",
+      "her_experience": "He is deeply emotional and values raw authentic chemistry over cold logic.",
+      "expert_notices": "He is selecting for a target who prioritizes romantic feelings over safety signals and evidence."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who doesn't care about standard relationship milestones.",
+      "her_experience": "He is unconventional and wants a unique bond, not just a boilerplate checklist.",
+      "expert_notices": "He is pre-empting the expectation of exclusivity, cohabitation, or marriage."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who loves late-night spontaneity over rigid routines.",
+      "her_experience": "He is exciting and unpredictable, always keeping the romance alive and fresh.",
+      "expert_notices": "He is setting a standard where he only interacts with her on his terms when intensity is high."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who views love as a beautiful game we play.",
+      "her_experience": "He is playful and charming, making dating feel light, fun, and magical.",
+      "expert_notices": "He is telling her directly that he is playing with her emotions and views her as temporary."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who is intoxicatingly fun to be around.",
+      "her_experience": "He finds me utterly captivating and loves my energy, which feels amazing.",
+      "expert_notices": "He is searching for high-energy supply that he can consume until the novelty wears off."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can handle an intensely magnetic connection.",
+      "her_experience": "He recognizes that what we have is incredibly rare and powerful.",
+      "expert_notices": "He is inflating her sense of being chosen, blinding her to his predatory history."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who doesn't try to domesticate me.",
+      "her_experience": "He is an independent exciting man who wants to keep his unique edge.",
+      "expert_notices": "He is establishing a rule that she must never ask him to step up or settle down."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who lives for the intoxicating initial spark.",
+      "her_experience": "He loves the magic of how we met and wants to keep that feeling alive forever.",
+      "expert_notices": "He is screening for a target who will panic and overcompensate when the initial high fades."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can love a free spirit without holding on too tight.",
+      "her_experience": "He wants an open trusting love where we don't suffocate each other.",
+      "expert_notices": "He is securing permission to come and go as he pleases, likely maintaining multiple targets."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who appreciates a true romantic.",
+      "her_experience": "He is a gentleman who knows exactly how to make a woman feel special.",
+      "expert_notices": "He is boasting about his practiced scripts, framing his calculated grooming as romance."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I couldn't tell you a single thing that happened in that room. I was just watching you the whole time.",
+      "her_experience": "He says he didn't notice anything else, just me. It's flattering to be that kind of focus, like you're the only thing worth paying attention to.",
+      "expert_notices": "He frames his attention as so total that everything else disappeared. This feels like devotion, but the intensity is the draw, not depth or follow-through."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I don't want to be anywhere else right now. Just sitting here with you, this is the only place I want to be.",
+      "her_experience": "He makes the present moment feel so full, like nothing else matters. I feel like I'm exactly where I'm supposed to be.",
+      "expert_notices": "He offers total presence in the now as a gift. It feels like commitment to the moment, but it's a substitute for any commitment to the future."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I forgot I had a phone. I forgot there was a world outside this table, honestly.",
+      "her_experience": "He says he forgot the world existed. It's so romantic and a little dramatic, but it makes me feel like I'm the only thing he wants to see.",
+      "expert_notices": "He uses hyperbolic forgetting to signal she has captured his entire attention. The grandiosity is the hook; it's not meant to be literal."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I caught myself just staring at you while you were talking to the bartender. You light up a room without even trying.",
+      "her_experience": "He noticed me when I wasn't even performing. It's flattering to think he was just watching me be myself and liked what he saw.",
+      "expert_notices": "He admits to watching her when she is unaware but frames it as innocent admiration. The watching is real; the delivery is smooth enough to be dismissed as romance."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I could listen to you talk about anything. Your voice is the only thing I want to hear right now.",
+      "her_experience": "He says my voice is the only thing he wants to hear. It's so focused, so singular. I feel like I'm the most interesting person in the world to him.",
+      "expert_notices": "He elevates a mundane action to an essential experience. The hyper-specific praise makes her feel uniquely seen, which is the hook."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I don't really remember what anyone else was wearing. I just remember you, how you looked when you laughed.",
+      "her_experience": "He remembers me, not the night. He remembers the exact moment I laughed. It makes me feel so important.",
+      "expert_notices": "He distinguishes her from a generic background, making her feel like the sole subject of his attention. The specific memory makes it feel unscripted."
+    },
+    {
+      "mechanism": "once-in-a-lifetime-now",
+      "his_language": "You don't feel this kind of thing twice. This, right now, with you. It's just not something that happens.",
+      "her_experience": "He says this kind of chemistry doesn't happen twice. It's a big claim, but when he's looking at me like that, I believe it. It feels special.",
+      "expert_notices": "He claims rarity for the current experience, creating urgency and exclusivity. The once-in-a-lifetime frame pressures her to treat the moment as precious."
+    },
+    {
+      "mechanism": "once-in-a-lifetime-now",
+      "his_language": "I'm not going to pretend this is ordinary. Whatever this is between us, it's not nothing.",
+      "her_experience": "He's not pretending we're casual. He's saying it's something real. That feels brave and honest, and it makes me trust him more.",
+      "expert_notices": "He elevates the connection with a vague but powerful claim of significance. She fills the gap with her own hope, reading it as a promise."
+    },
+    {
+      "mechanism": "once-in-a-lifetime-now",
+      "his_language": "I've never felt this comfortable with someone this fast. It's like I've known you forever.",
+      "her_experience": "He says he's never felt this comfortable, this fast. It's reassuring, like the ease we have is rare and special. I feel like we just click.",
+      "expert_notices": "He uses the speed of the connection as evidence of its significance. The rush of familiarity bypasses the normal trust-building timeline."
+    },
+    {
+      "mechanism": "once-in-a-lifetime-now",
+      "his_language": "This is the most fun I've had in years. I'm not even joking. Just sitting here, with you, this is it.",
+      "her_experience": "He says this is the most fun he's had in years. It's just a simple date, but the way he says it makes me feel like I've brought him back to life.",
+      "expert_notices": "He attaches outsized significance to a simple date, making her feel responsible for his happiness and aliveness."
+    },
+    {
+      "mechanism": "you-woke-me-up",
+      "his_language": "I forgot what it felt like to be excited about someone. You just reminded me.",
+      "her_experience": "He looks at me like I'm the first person to make him feel anything in a long time. It just feels like I matter.",
+      "expert_notices": "He positions her as the antidote to his prior numbness. She feels special for waking him up, not noticing this role requires her to keep providing the excitement."
+    },
+    {
+      "mechanism": "you-woke-me-up",
+      "his_language": "I didn't realize I was just going through the motions until I met you. Now everything feels sharp again.",
+      "her_experience": "He says everything feels sharp now, like I'm the thing that brought the world into focus. It's intense, but it's the most seen I've ever felt.",
+      "expert_notices": "He tells her she restored his aliveness. This places the burden of his engagement on her; if the sharpness fades, it's her failure."
+    },
+    {
+      "mechanism": "you-woke-me-up",
+      "his_language": "I was kind of sleepwalking before you. And now, I don't know, I just feel awake.",
+      "her_experience": "He says I woke him up. It's a lot, but it also feels like the highest compliment. Like I'm the only one who could do that.",
+      "expert_notices": "He claims she cured his emotional numbness. Flattering, but it makes her responsible for maintaining his awake state, a burden she cannot sustain."
+    },
+    {
+      "mechanism": "you-woke-me-up",
+      "his_language": "I didn't think I'd feel that spark again. And then you showed up.",
+      "her_experience": "He looked almost sad when he said it, like he'd given up on finding something real until tonight. It makes my heart ache a little, in a good way.",
+      "expert_notices": "He uses a narrative of lost hope to frame her as a miraculous exception. She feels special for being the one, not noticing his reliance on novelty."
+    },
+    {
+      "mechanism": "intermittent-intensity",
+      "his_language": "When something completely commands my attention, I throw my whole world into it. And right now I can't look away from you.",
+      "her_experience": "He admits he gets obsessed with things. It's a little intense, but hearing him say that about me makes me feel like the most interesting person in the world right now.",
+      "expert_notices": "He warns her his intensity is a pattern but includes her as the current focus. She feels flattered, ignoring that the pattern implies impermanence."
+    },
+    {
+      "mechanism": "intermittent-intensity",
+      "his_language": "I've never met anyone who makes me feel like this. I don't know what it is about you.",
+      "her_experience": "He says he's never felt this way before. It's the ultimate compliment, right? It makes me feel like I'm the one who changed something for him.",
+      "expert_notices": "He uses a claim of unprecedented feeling to create a sense of destiny. Any future cooling will read as a mystery, not a pattern, and she'll chase the high."
+    },
+    {
+      "mechanism": "intermittent-intensity",
+      "his_language": "I have a tendency to go all in. And I'm all in on this. On you.",
+      "her_experience": "He says he's all in on me. It feels so certain, so committed. He's not holding back, and that makes me want to do the same.",
+      "expert_notices": "He frames his impulsivity as a virtue of commitment. All in for him is a feeling, not a promise, and can be withdrawn as quickly as it came."
+    },
+    {
+      "mechanism": "intermittent-intensity",
+      "his_language": "I can't stop thinking about you. It's like you're stuck in my head, and I don't want you to leave.",
+      "her_experience": "He says I'm stuck in his head and he doesn't want me to leave. It feels like he's consumed by me. It feels amazing to be wanted like that.",
+      "expert_notices": "He describes obsession as a pleasant invasion, making her feel uniquely captivating. Obsessive focus often fades when novelty wears off."
+    },
+    {
+      "mechanism": "intermittent-intensity",
+      "his_language": "I just wanted to see you. I was going about my day and I just needed to see your face.",
+      "her_experience": "He showed up just because he wanted to see me. It's so spontaneous and romantic, like he can't stay away. I feel so wanted.",
+      "expert_notices": "He frames an impulsive drop-in as uncontrollable desire. She feels pursued, but the spontaneity is self-serving and ignores her own plans."
+    },
+    {
+      "mechanism": "intermittent-intensity",
+      "his_language": "I've never cancelled plans for anyone. I just cancelled my plans for you.",
+      "her_experience": "He says he cancelled plans for me, something he never does. It makes me feel like the priority, like I'm the exception to his rules.",
+      "expert_notices": "He uses the sacrifice of other plans to prove her importance. The gesture feels like devotion but is a low-cost way to show commitment without real change."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I don't even want to check my phone. I just want to look at you.",
+      "her_experience": "He says he doesn't want to look at his phone, just me. It makes me feel like I'm the most interesting thing in the world.",
+      "expert_notices": "He contrasts her with the distraction of a phone, implying she's more compelling. Focused attention, but also a performative rejection of the outside world."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I could just stay here with you forever. I don't need anything else.",
+      "her_experience": "He says he could stay here forever, that he doesn't need anything else. It's so sweet and romantic. It makes me feel like I'm enough.",
+      "expert_notices": "He offers a fantasy of total contentment in the present. It feels like deep connection but requires no future planning or commitment."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I love that you're not trying to be anyone else. You're just you, and that's all I want to see.",
+      "her_experience": "He says he loves that I'm just myself. It's so validating, like he sees the real me. It makes me feel accepted and safe.",
+      "expert_notices": "He praises her authenticity, an effective bonding tactic. The approval is conditional on her performing realness to his liking, but she feels seen, not managed."
+    },
+    {
+      "mechanism": "once-in-a-lifetime-now",
+      "his_language": "I don't know what it is about tonight, but everything just feels right. With you.",
+      "her_experience": "He says tonight feels right, with me. It's not a big promise, just a feeling. But it's a nice feeling, and I want to stay in it.",
+      "expert_notices": "He attributes a feeling of rightness to her presence. The feeling is real, but he offers no reason for it to last beyond the present moment."
+    },
+    {
+      "mechanism": "once-in-a-lifetime-now",
+      "his_language": "This is the best first date I've ever had. I'm not just saying that.",
+      "her_experience": "He says this is the best first date he's ever had, and that he's not just saying it. I believe him.",
+      "expert_notices": "He makes a comparative claim about her superiority to create specialness. She feels chosen, which is the draw, not evidence of future behavior."
+    },
+    {
+      "mechanism": "once-in-a-lifetime-now",
+      "his_language": "I feel like I've known you for years. Is that weird? It feels weird to say, but it's true.",
+      "her_experience": "He says he feels like he's known me for years. It's fast, but it doesn't feel fast when he says it. It feels like we just click.",
+      "expert_notices": "He claims accelerated familiarity to bypass normal bonding timelines. She feels a false sense of depth and safety, which is the hook."
+    },
+    {
+      "mechanism": "you-woke-me-up",
+      "his_language": "I forgot how good this could feel. Being with someone, I mean. You made me remember.",
+      "her_experience": "He says I made him remember how good this could feel. Like I'm the one who brought him back to connection. That feels powerful.",
+      "expert_notices": "He positions her as the catalyst for his re-engagement with intimacy. She feels essential, ignoring that this places the burden of his engagement on her."
+    },
+    {
+      "mechanism": "you-woke-me-up",
+      "his_language": "I was starting to think I was just cold. And then I met you, and I'm not.",
+      "her_experience": "He says I made him realize he's not cold. He was vulnerable, and I was the one who showed him that. It makes me feel like I'm reaching something in him.",
+      "expert_notices": "He admits to numbness and credits her as the cure. She feels like a healer, an intoxicating role, but it makes her responsible for his continued warmth."
+    },
+    {
+      "mechanism": "you-woke-me-up",
+      "his_language": "I didn't know I was waiting for you. But I think I was.",
+      "her_experience": "He says he was waiting for me and didn't even know it. It's so romantic, so destined. It makes me feel like our meeting was meant to be.",
+      "expert_notices": "He retroactively frames their meeting as destiny, a narrative she wants to believe. The meant-to-be story is satisfying and requires no action from him."
+    },
+    {
+      "mechanism": "intermittent-intensity",
+      "his_language": "I know I come on strong. I just can't help it with you.",
+      "her_experience": "He admits he's intense, but says he can't help it because of me. It's flattering, like I'm the reason he's like this. I don't want him to dial it back.",
+      "expert_notices": "He attributes his intensity to her effect on him. She encourages it, not realizing it's a pattern, not a reaction to her uniqueness."
+    },
+    {
+      "mechanism": "intermittent-intensity",
+      "his_language": "I've never been this excited about someone. I don't know what to do with it.",
+      "her_experience": "He says he's never been this excited and doesn't know what to do with it. It's vulnerable and a little messy, and it makes me feel special.",
+      "expert_notices": "He presents his excitement as overwhelming, which is flattering. She feels powerful, ignoring that excitement is a fleeting state, not a foundation."
+    },
+    {
+      "mechanism": "intermittent-intensity",
+      "his_language": "I'm not trying to be too much. I'm just not good at pretending I don't care.",
+      "her_experience": "He says he's not good at pretending he doesn't care, implying others do. It makes him seem honest and emotionally available. I trust that.",
+      "expert_notices": "He positions his intensity as honesty, contrasting himself with guarded men. She reads it as availability, not a warning about volatility."
+    },
+    {
+      "mechanism": "pre-framed-withdrawal",
+      "his_language": "I get really intense. I know that about myself. It's just how I am when I'm into something.",
+      "her_experience": "He's so unapologetic about how fast he moves. It's intoxicating to meet a guy who doesn't play the waiting games. He just lets himself feel it.",
+      "expert_notices": "He pre-frames his intensity as a fixed trait. She accepts it as refreshing honesty and will later excuse withdrawal as part of the same intense package."
+    },
+    {
+      "mechanism": "pre-framed-withdrawal",
+      "his_language": "I'm not great at the whole slow thing. When I feel it, I feel it all the way.",
+      "her_experience": "He says he's not good at slow, that he feels it all the way. It sounds so passionate, so romantic. I don't want slow anyway.",
+      "expert_notices": "He frames his inability to moderate as a virtue of passion. She agrees to the pace, not knowing the same all the way intensity can vanish just as fast."
+    },
+    {
+      "mechanism": "pre-framed-withdrawal",
+      "his_language": "I'm probably going to text you a lot. I just don't see the point in playing games.",
+      "her_experience": "He says he'll text a lot because he doesn't play games. It's refreshing, and I love that he's so direct. I'd rather have that than someone distant.",
+      "expert_notices": "He reframes constant contact as honesty, setting a high baseline. Later any dip in contact will feel like a withdrawal of his honest self."
+    },
+    {
+      "mechanism": "pre-framed-withdrawal",
+      "his_language": "I'm not really a moderate person. I'm either all in or I'm not in at all.",
+      "her_experience": "He says he's all in or nothing. It sounds so committed, like he's choosing to be all in on me. That feels secure.",
+      "expert_notices": "He presents a binary approach as commitment. She feels chosen, not realizing the nothing option is always on the table and just as likely."
+    },
+    {
+      "mechanism": "pre-framed-withdrawal",
+      "his_language": "I'm intense. I know that's a lot for some people. But you don't seem like you'd get scared off.",
+      "her_experience": "He says he's intense and that I don't seem scared. It's like a challenge, and I want to prove him right. I want to be the one who can handle him.",
+      "expert_notices": "He frames his intensity as a test others have failed. She accepts the challenge, wanting to be the exception, priming her to tolerate future withdrawal."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I don't want to talk about anything else. I just want to hear about you. Tell me something I don't know.",
+      "her_experience": "He says he just wants to hear about me, something he doesn't know. It's so focused, so curious. I feel like the only person in the world.",
+      "expert_notices": "He requests her personal information under the guise of focused interest. The intensity fast-tracks intimacy without the mutual vulnerability that earns it."
+    },
+    {
+      "mechanism": "total-presence",
+      "his_language": "I feel like if I look away for even a second, I'm going to miss something. I just want to take all of this in.",
+      "her_experience": "He says he's afraid to miss a second. It's dramatic, but also kind of sweet. He's so present that he doesn't want to lose a moment.",
+      "expert_notices": "He uses hyperbole to emphasize his total immersion. It's the draw of his complete attention, but it's unsustainable and will eventually break."
+    },
+    {
+      "mechanism": "once-in-a-lifetime-now",
+      "his_language": "This is one of those nights you just remember. I'm having one, right now, with you.",
+      "her_experience": "He says this is one of those nights you remember, and he's having it with me. It makes me feel like I'm part of something special.",
+      "expert_notices": "He frames the night as a future memory, creating significance and destiny. She feels like she's in a story, not noticing the script is written in real time."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Black Professional",
+      "snippet": "Where did you go to school?",
+      "type": "question",
+      "translation": "He's asking which college specifically — HBCU signals one path PWI signals another",
+      "status_signal": "Howard signals DC elite often political; Spelman signals Black women's elite; Morehouse signals Black male leadership; Hampton signals Virginia tidewater elite; FAMU signals Florida HBCU pride",
+      "notes": "Major identity-formation probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Are you Greek?",
+      "type": "question",
+      "translation": "He's asking whether you joined a Divine Nine sorority or fraternity",
+      "status_signal": "Greek membership signals HBCU experience and middle-class trajectory and lifetime Black professional network",
+      "notes": "Major community-membership probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where did you cross?",
+      "type": "question",
+      "translation": "He's asking when and where you joined your fraternity or sorority",
+      "status_signal": "Crossing date and chapter signal specific line and community",
+      "notes": "Specific Greek-life probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "What chapter?",
+      "type": "question",
+      "translation": "He's asking which specific chapter of your fraternity or sorority",
+      "status_signal": "Specific chapter signals geographic and class community",
+      "notes": "Specific Greek-life probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Are you in Jack and Jill?",
+      "type": "question",
+      "translation": "He's asking whether you're a member of the elite Black children's social organization",
+      "status_signal": "Signals middle-to-upper-middle-class parenting and multigenerational Black professional class",
+      "notes": "Major class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "What chapter of Jack and Jill?",
+      "type": "question",
+      "translation": "He's asking which specific Jack and Jill chapter",
+      "status_signal": "Specific chapter signals geographic and class community",
+      "notes": "Specific class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Are you in the Links?",
+      "type": "question",
+      "translation": "Asked of women — he's checking invitation-only Black women's service organization",
+      "status_signal": "Major top-tier Black professional women's signal",
+      "notes": "Specific elite probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Is your husband in the Boulé?",
+      "type": "question",
+      "translation": "Asked of married women — checking invitation-only top Black professional men's fraternity",
+      "status_signal": "Major top-tier Black professional men's signal",
+      "notes": "Specific elite probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where do you summer?",
+      "type": "question",
+      "translation": "He's asking whether you have a vacation home and where",
+      "status_signal": "Significant resources signal and specific tradition",
+      "notes": "Major class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Do y'all go to the Vineyard?",
+      "type": "question",
+      "translation": "He's asking whether you go to Martha's Vineyard specifically Oak Bluffs Inkwell Beach area",
+      "status_signal": "Black professional vacation-tradition signal",
+      "notes": "Major class-and-tradition probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Do you have a place up top?",
+      "type": "question",
+      "translation": "Up top' means Martha's Vineyard — he's asking if you own property there",
+      "status_signal": "Owning at the Vineyard signals significant wealth and 'old' standing in Black professional circles",
+      "notes": "Major wealth-and-standing probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where did your parents go to school?",
+      "type": "question",
+      "translation": "He's asking about multigenerational education",
+      "status_signal": "Multigenerational HBCU signals legacy; first-generation college signals upward mobility",
+      "notes": "Family-legacy probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "What does your father do?",
+      "type": "question",
+      "translation": "He's asking your father's specific profession — class signal",
+      "status_signal": "Doctor lawyer judge professor business owner executive signal different things",
+      "notes": "Family-class probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Where do your kids go to school?",
+      "type": "question",
+      "translation": "He's asking about your children's education",
+      "status_signal": "Private school public magnet or HBCU pipeline signals class trajectory",
+      "notes": "Class-trajectory probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Is your daughter doing debutante?",
+      "type": "question",
+      "translation": "He's asking about participation in formal Black-elite social rituals",
+      "status_signal": "Debutante participation signals Black social-elite engagement",
+      "notes": "Specific class ritual probe"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Howard University",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU in DC — major Black elite institution",
+      "status_signal": "Signals DC elite often political-class trajectory",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Spelman College",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Black women's elite institution",
+      "status_signal": "Signals Black women's elite formation often professional-class",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Morehouse College",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Black male leadership tradition",
+      "status_signal": "Signals Black male leadership formation often professional-class",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Hampton University",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Virginia tidewater elite",
+      "status_signal": "Signals tradition and tidewater Black elite",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "FAMU / Florida A&M",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Florida HBCU pride",
+      "status_signal": "Signals Florida HBCU formation and pride",
+      "notes": "Major institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "AUC / Atlanta University Center",
+      "type": "lifestyle marker",
+      "translation": "The Atlanta HBCU complex (Morehouse Spelman Clark Atlanta)",
+      "status_signal": "Signals Atlanta Black-college-experience network",
+      "notes": "Specific institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Tuskegee",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU with engineering and aviation legacy",
+      "status_signal": "Signals specific HBCU heritage",
+      "notes": "Specific institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Xavier (Louisiana)",
+      "type": "lifestyle marker",
+      "translation": "Specific HBCU — Catholic and medical-pipeline reputation",
+      "status_signal": "Signals specific HBCU heritage often pre-med",
+      "notes": "Specific institutional identity"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "AKA / Alpha Kappa Alpha",
+      "type": "lifestyle marker",
+      "translation": "Oldest Black sorority — Divine Nine",
+      "status_signal": "Carries stereotype (which insiders use as shorthand though members contest it) of respectability tradition middle-class background and historically lighter skin",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Delta Sigma Theta",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine sorority known for activism orientation",
+      "status_signal": "Carries reputation for civil rights tradition and broader skin-tone diversity",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Zeta Phi Beta",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine sorority",
+      "status_signal": "Carries reputation as more accessible and less stereotyped as elite",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sigma Gamma Rho",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine sorority",
+      "status_signal": "Carries reputation as more accessible less elitist reputation",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Alpha Phi Alpha",
+      "type": "lifestyle marker",
+      "translation": "Oldest Black fraternity — Divine Nine",
+      "status_signal": "Signals leadership and political tradition; MLK was Alpha",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Kappa Alpha Psi / The Kappas",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine fraternity",
+      "status_signal": "Carries reputation for style and aesthetic culture",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Omega Psi Phi / The Ques",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine fraternity",
+      "status_signal": "Carries reputation for rougher masculinity tradition",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Phi Beta Sigma",
+      "type": "lifestyle marker",
+      "translation": "Divine Nine fraternity",
+      "status_signal": "Carries reputation as more accessible less elite-coded",
+      "notes": "Specific Greek organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Divine Nine",
+      "type": "vocabulary",
+      "translation": "The collective name for the nine historic Black Greek-letter organizations",
+      "status_signal": "Standard in-group term for Black Greek life",
+      "notes": "Foundational vocabulary"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My line",
+      "type": "vocabulary",
+      "translation": "The group of people who pledged together",
+      "status_signal": "Specific Greek-life vocabulary",
+      "notes": "Family-network signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My line sisters / line brothers",
+      "type": "vocabulary",
+      "translation": "Lifetime sisters and brothers from pledge process",
+      "status_signal": "Major lifetime-network signal",
+      "notes": "Network terminology"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Prophyte / neophyte",
+      "type": "vocabulary",
+      "translation": "Members who pledged before you / after you",
+      "status_signal": "Specific Greek-life hierarchy vocabulary",
+      "notes": "Greek terminology"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Crossed Spring 2010",
+      "type": "phrase",
+      "translation": "He joined his fraternity or sorority specifically in Spring 2010",
+      "status_signal": "Specific cohort identifier",
+      "notes": "Standard Greek dating"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The strolls",
+      "type": "lifestyle marker",
+      "translation": "Specific Greek-life synchronized walking performances",
+      "status_signal": "Standard Greek-life tradition",
+      "notes": "Cultural-tradition marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The calls",
+      "type": "lifestyle marker",
+      "translation": "Specific Greek-life vocal signals",
+      "status_signal": "Standard Greek-life tradition",
+      "notes": "Cultural-tradition marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Jack and Jill of America",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only Black children's social organization",
+      "status_signal": "Major Black professional class signal often multigenerational",
+      "notes": "Major class organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The Boulé / Sigma Pi Phi",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only top Black professional fraternity",
+      "status_signal": "Top tier Black professional class often older established families",
+      "notes": "Highest-status Black professional org"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The Links Incorporated",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only Black professional women's service organization",
+      "status_signal": "Top tier Black professional women",
+      "notes": "Highest-status Black women's org"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Top Ladies of Distinction",
+      "type": "lifestyle marker",
+      "translation": "Specific Black women's professional service organization",
+      "status_signal": "Specific elite-women's-org signal",
+      "notes": "Specific organization"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sigma Alpha Iota / specific music fraternities",
+      "type": "lifestyle marker",
+      "translation": "Specific professional Greek organizations",
+      "status_signal": "Specific professional-network signal",
+      "notes": "Specific organizations"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Martha's Vineyard",
+      "type": "lifestyle marker",
+      "translation": "Historic Black professional summer destination",
+      "status_signal": "Major Black middle-to-upper-class multigenerational vacation tradition",
+      "notes": "Major class-vacation signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Oak Bluffs",
+      "type": "lifestyle marker",
+      "translation": "Specific Vineyard town with historic Black community",
+      "status_signal": "Specific Black Vineyard signal — heart of the community",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Inkwell Beach",
+      "type": "lifestyle marker",
+      "translation": "Historic Black beach at Oak Bluffs Martha's Vineyard",
+      "status_signal": "Direct Black Vineyard tradition signal",
+      "notes": "Specific in-group location"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sag Harbor",
+      "type": "lifestyle marker",
+      "translation": "Historic Black summer community on Long Island NY",
+      "status_signal": "Multigenerational Black summer presence signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Highland Beach Maryland",
+      "type": "lifestyle marker",
+      "translation": "Historic Black resort in Maryland",
+      "status_signal": "Multigenerational Black vacation tradition signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Idlewild Michigan",
+      "type": "lifestyle marker",
+      "translation": "Historic Black resort in Michigan",
+      "status_signal": "Multigenerational Black vacation tradition signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "American Beach Florida",
+      "type": "lifestyle marker",
+      "translation": "Historic Black beach community in Florida",
+      "status_signal": "Multigenerational Black vacation tradition signal",
+      "notes": "Specific historic Black resort"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The Polar Bears (Oak Bluffs morning swimmers)",
+      "type": "lifestyle marker",
+      "translation": "Specific Oak Bluffs morning swimming group",
+      "status_signal": "Insider Black Vineyard signal",
+      "notes": "Specific in-group reference"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The cottage",
+      "type": "lifestyle marker",
+      "translation": "Black professional family vacation property",
+      "status_signal": "Multigenerational vacation property signal",
+      "notes": "Specific class signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The family cottage",
+      "type": "lifestyle marker",
+      "translation": "Specifically inherited Black professional family vacation property",
+      "status_signal": "Major old-money Black professional signal",
+      "notes": "Specific in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Sidwell Friends",
+      "type": "lifestyle marker",
+      "translation": "Quaker private school in DC — Obama daughters attended",
+      "status_signal": "Major coastal-elite signal for children",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Dalton",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite private school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Spence",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite girls school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Trinity School",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Brearley",
+      "type": "lifestyle marker",
+      "translation": "Manhattan elite girls school",
+      "status_signal": "Major coastal-elite signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Marin Country Day",
+      "type": "lifestyle marker",
+      "translation": "Bay Area elite Black-affirming private school",
+      "status_signal": "Bay Area Black-elite school signal",
+      "notes": "Specific elite school"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Hancock Park (Black sections)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black wealthy LA neighborhood section",
+      "status_signal": "Black professional wealth signal in LA",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Brookland (DC)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black DC neighborhood",
+      "status_signal": "Specific DC Black community signal",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "LeDroit Park (DC)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black DC neighborhood",
+      "status_signal": "Specific DC Black professional community",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Cascade (Atlanta)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black Atlanta wealthy neighborhood",
+      "status_signal": "Atlanta Black professional class signal",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Hyde Park (Chicago)",
+      "type": "lifestyle marker",
+      "translation": "Historic Black Chicago middle-class neighborhood",
+      "status_signal": "Chicago Black professional community signal",
+      "notes": "Specific neighborhood"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "We've been going for generations",
+      "type": "phrase",
+      "translation": "Multigenerational Black wealth and Vineyard or specific resort traditions",
+      "status_signal": "Major old-money Black professional signal",
+      "notes": "Standard in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My grandmother had a cottage",
+      "type": "phrase",
+      "translation": "Specifically at the Vineyard or another historic Black resort",
+      "status_signal": "Major old Black wealth signal",
+      "notes": "Standard in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "My parents are both [profession]",
+      "type": "phrase about family",
+      "translation": "Both-parent professional families signal multigenerational middle-class stability",
+      "status_signal": "Major class signal",
+      "notes": "Standard family-status framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He went to an HBCU",
+      "type": "phrase about a man",
+      "translation": "Specific cultural and educational formation",
+      "status_signal": "Major identity-formation signal",
+      "notes": "Standard description"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He went to one of the good Black schools",
+      "type": "phrase about a man",
+      "translation": "Specifically elite HBCU not just any Black school",
+      "status_signal": "Major prestige signal",
+      "notes": "Specific in-group distinction"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's Sidwell",
+      "type": "phrase about a woman",
+      "translation": "She went to or her kids go to Sidwell Friends",
+      "status_signal": "Specific elite school identification",
+      "notes": "Major class signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He's a Dalton kid",
+      "type": "phrase about a man",
+      "translation": "He went to or his kids go to Dalton",
+      "status_signal": "Specific elite school identification",
+      "notes": "Major class signal"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's one of the only",
+      "type": "phrase about a woman",
+      "translation": "She's one of few Black students or professionals in elite space",
+      "status_signal": "Standard Black-elite-experience signal",
+      "notes": "Common in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He's the only one in the C-suite",
+      "type": "phrase about a man",
+      "translation": "He's one of few Black executives",
+      "status_signal": "Standard Black-elite-experience signal",
+      "notes": "Common in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He had the talk with the kids",
+      "type": "phrase about a family",
+      "translation": "He had the specific conversation about police interaction with his children",
+      "status_signal": "Major cultural-labor signal",
+      "notes": "Specific cultural pattern"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Twice as good",
+      "type": "phrase",
+      "translation": "Effort required to access opportunity as a Black person",
+      "status_signal": "Standard Black professional formation experience",
+      "notes": "Major in-group concept"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "You know how it is",
+      "type": "phrase",
+      "translation": "In-group acknowledgment of shared racial experience",
+      "status_signal": "Standard in-group framing",
+      "notes": "Common phrase"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "I had to code-switch all day",
+      "type": "phrase",
+      "translation": "Performed cultural labor of shifting linguistic registers",
+      "status_signal": "Standard Black professional experience",
+      "notes": "Common in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's a real one",
+      "type": "phrase about a woman",
+      "translation": "She's an authentic Black community member",
+      "status_signal": "Standard cultural-authenticity framing",
+      "notes": "Common in-group approval"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He's not for us",
+      "type": "phrase about a man",
+      "translation": "He doesn't represent or understand Black community",
+      "status_signal": "Standard cultural-belonging judgment",
+      "notes": "Watch who he applies this to"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "He doesn't get the culture",
+      "type": "phrase about a person",
+      "translation": "Same as he's not for us — lacks Black-cultural fluency",
+      "status_signal": "Standard cultural-belonging framing",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Going up top",
+      "type": "phrase",
+      "translation": "Going to Martha's Vineyard specifically",
+      "status_signal": "Direct Black Vineyard tradition signal",
+      "notes": "Specific in-group phrasing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "We summered up top",
+      "type": "phrase",
+      "translation": "Family vacationed at the Vineyard",
+      "status_signal": "Direct Black professional class marker",
+      "notes": "Specific in-group framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She did debutante",
+      "type": "phrase about a woman",
+      "translation": "She participated in a formal debutante ball — usually Links cotillion or similar",
+      "status_signal": "Specific Black social-elite ritual signal",
+      "notes": "Specific class marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Fair-skinned / lightskinned",
+      "type": "vocabulary",
+      "translation": "Lighter skin color — operates as social shorthand in some Black professional circles",
+      "status_signal": "Carries class-and-status implications in some circles which is harmful but operating",
+      "notes": "Colorism marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Dark-skinned",
+      "type": "vocabulary",
+      "translation": "Darker skin color — operates as social shorthand",
+      "status_signal": "Carries different class-and-status implications which is harmful but operating",
+      "notes": "Colorism marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "She's pretty for a dark-skinned girl",
+      "type": "phrase about a woman",
+      "translation": "Direct colorist statement — qualifies beauty by skin tone",
+      "status_signal": "Direct colorism deployment",
+      "notes": "Heavily wounding pattern"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Good hair",
+      "type": "vocabulary",
+      "translation": "Hair texture perceived as closer to non-Black hair — operates as colorist shorthand",
+      "status_signal": "Colorism and texturism marker which is harmful but operating",
+      "notes": "Specific colorism term"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Natural hair",
+      "type": "lifestyle marker",
+      "translation": "Unrelaxed unprocessed hair",
+      "status_signal": "Often signals newer pride orientation or specific generation",
+      "notes": "Specific identity marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Relaxed hair / straight hair",
+      "type": "lifestyle marker",
+      "translation": "Chemically straightened hair",
+      "status_signal": "Often signals older respectability tradition or specific community expectations",
+      "notes": "Specific identity marker"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "Locs / sisterlocs",
+      "type": "lifestyle marker",
+      "translation": "Specific natural hair style",
+      "status_signal": "Specific identity marker often pride-orientation",
+      "notes": "Specific hair style"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "The big chop",
+      "type": "phrase",
+      "translation": "Cutting off relaxed hair to transition to natural",
+      "status_signal": "Specific transition narrative",
+      "notes": "Common transition framing"
+    },
+    {
+      "culture": "Black Professional",
+      "snippet": "You know what I mean",
+      "type": "phrase",
+      "translation": "In-group acknowledgment of shared racial experience without naming it",
+      "status_signal": "Standard in-group framing",
+      "notes": "Common in-group shorthand"
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "scenario_id": "S-025",
+  "player_type": "Domineering Devin",
+  "scenario": {
+    "scenario_id": "S-025",
+    "architecture_name": "He uses traditional respect and practical care to move me into his system, where his judgment slowly becomes the default for my time, clothes, and relationships.",
+    "culture": "South Asian",
+    "demographics": "F/28, M/31, both South Asian diaspora in Queens",
+    "cultural_context": "South Asian immigrant / diaspora social and family context, with emphasis on dating, family approval, and cross-cultural courtship",
+    "geographic_setting": "Jackson Heights, Queens, New York City; urban immigrant neighborhood",
+    "core_behaviors": [
+      "He frames discipline, provision, and planning as care",
+      "He treats deference as maturity and structure as love",
+      "He quietly makes his standards the ones I’m supposed to fit"
+    ],
+    "satellite_signals": "South Asian diaspora courtship; family approval as a major benchmark; Jackson Heights food-and-family scenes; respectability language around roles, timing, and presentation.",
+    "dismissible_red_flags": "At this stage it mostly feels like competence and old-school seriousness. His intensity reads as reliability, and his opinions can be brushed off as him just being particular.",
+    "scenario_text": "I met Devin in Jackson Heights after a friend dragged me to dinner, and he was one of those men who seems calm in a room without trying. He asked what I studied, where my parents were from, and if my family was the kind that ate beef or not, all in this very matter-of-fact way that somehow didn’t feel rude. He said he liked that I was “proper” with my family and that I had a good head on me. That sounds silly typed out, but it did make me feel seen.\n\nHe’s very disciplined. Up at five, gym, work, calls his mother, the whole thing. He said, “There’s a right way to do most things,” and I laughed because it sounded old-school in a nice way. When we went out last week, he paid before I could even reach for my card and said, “Put it away, I’ve got it.” I know that’s just how some men are raised, but I did feel taken care of.\n\nHe also likes to know my schedule. Not in a creepy way, more like, “What’s the plan for your day?” and then he’ll say he’s trying to keep us on the same page. He booked our weekend without asking much, just texted, “I sorted it, just show up.” I liked not having to think about it, honestly. He’s always saying he wants a woman who knows how to carry herself, especially around serious people, and I sort of like being the kind of girl he’d be proud to bring places.\n\nThe only thing that keeps sticking with me is how he said my cousin was “a little too loud” and that I’m “better when I’m composed.” It wasn’t mean exactly, just a little sharp. Am I overthinking the way he said that?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Devin in Jackson Heights",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places him in the South Asian diaspora dating context right away. Jackson Heights is doing social work here, not just setting the scene.",
+      "snippet_id": "S-025-SN0001"
+    },
+    {
+      "quote": "what I studied, where my parents were from",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "These are standard South Asian screening questions, but they also show him collecting identity markers early. He is learning the map of her family and status before he has any real place in her life.",
+      "snippet_id": "S-025-SN0002"
+    },
+    {
+      "quote": "if my family was the kind that ate beef or not",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a very specific cultural probe. It sounds casual, but it is also a quick way to sort religion, region, and family style, which gives him more leverage over how to read and frame her.",
+      "snippet_id": "S-025-SN0003"
+    },
+    {
+      "quote": "I was \"proper\" with my family",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is praising her for fitting a respectable family script. That kind of compliment makes her feel valued, but it also starts teaching her that approval comes from being manageable and correctly behaved.",
+      "snippet_id": "S-025-SN0004"
+    },
+    {
+      "quote": "good head on me",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This sounds like praise, but it has a slightly judging tone, as if he is evaluating her rather than simply liking her. It sets him up as the person who gets to decide what counts as good judgment.",
+      "snippet_id": "S-025-SN0005"
+    },
+    {
+      "quote": "Up at five, gym, work, calls his mother",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a disciplined routine, and on its own it reads as admirable. The repeated structure matters because it shows how much he values order and self-command, which can later become a standard he expects everyone else to meet.",
+      "snippet_id": "S-025-SN0006"
+    },
+    {
+      "quote": "There’s a right way to do most things",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a principle, but it also turns his preferences into objective truth. Once someone talks this way, disagreement stops being just a difference of opinion and starts looking like you are doing it wrong.",
+      "snippet_id": "S-025-SN0007"
+    },
+    {
+      "quote": "old-school in a nice way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is translating a potentially rigid value system into something harmless and attractive. That little phrase shows her already doing the work of softening his authority for herself.",
+      "snippet_id": "S-025-SN0008"
+    },
+    {
+      "quote": "Put it away, I’ve got it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He takes over the bill before she can even participate. Surface-wise it is generous, but structurally it places him in the driver’s seat and makes her the grateful recipient.",
+      "snippet_id": "S-025-SN0009"
+    },
+    {
+      "quote": "taken care of",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the emotional payoff of the gesture. Being taken care of feels warm, but it also normalizes the idea that he should manage things for her rather than with her.",
+      "snippet_id": "S-025-SN0010"
+    },
+    {
+      "quote": "He also likes to know my schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is still framed as coordination, but it shows his interest in tracking her time. When a partner starts treating her schedule like shared property, the relationship is already moving toward oversight.",
+      "snippet_id": "S-025-SN0011"
+    },
+    {
+      "quote": "What’s the plan for your day?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A simple question, but in context it functions like a check-in that keeps him oriented to her movements. It sounds caring because he asks gently, yet it also makes her day answerable to him.",
+      "snippet_id": "S-025-SN0012"
+    },
+    {
+      "quote": "keep us on the same page",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds cooperative, but it quietly turns her separate schedule into a couple system he gets to manage. The phrase makes unity feel like a virtue while shrinking her room to act independently.",
+      "snippet_id": "S-025-SN0013"
+    },
+    {
+      "quote": "I sorted it, just show up",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He makes the plan, handles the logistics, and leaves her with the role of arriving on cue. It can feel romantic at first, but it also means the future is increasingly being arranged without her input.",
+      "snippet_id": "S-025-SN0014"
+    },
+    {
+      "quote": "a woman who knows how to carry herself",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a status-and-behavior filter disguised as admiration. He is praising a kind of woman who will stay composed and not challenge him, which makes compliance feel like femininity.",
+      "snippet_id": "S-025-SN0015"
+    },
+    {
+      "quote": "be proud to bring places",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-low",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She likes being the kind of woman he would present well. That feeling is pleasant, but it also shows her starting to measure herself through his public approval.",
+      "snippet_id": "S-025-SN0016"
+    },
+    {
+      "quote": "my cousin was \"a little too loud\"",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He is ranking her cousin as socially excessive, which is a subtle way of defining the acceptable range of behavior. It sounds like a small observation, but it is also a warning about what he considers too much.",
+      "snippet_id": "S-025-SN0017"
+    },
+    {
+      "quote": "you’re \"better when I’m composed\"",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "This is the clearest seed of correction. He is not just complimenting her composure, he is telling her that her value rises when she fits his preferred version of herself.",
+      "snippet_id": "S-025-SN0018"
+    },
+    {
+      "quote": "It wasn’t mean exactly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She can feel the edge of the comment but immediately softens it. That little hedge shows her trying to preserve the relationship by minimizing her own discomfort.",
+      "snippet_id": "S-025-SN0019"
+    },
+    {
+      "quote": "Am I overthinking the way he said that?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is not asking whether his comment was controlling. She is asking whether her reaction is too much, which is exactly how early self-doubt gets installed.",
+      "snippet_id": "S-025-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

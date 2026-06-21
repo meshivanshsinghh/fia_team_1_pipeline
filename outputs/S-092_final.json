@@ -1,0 +1,387 @@
+{
+  "scenario_id": "S-092",
+  "player_type": "Charming Charlie",
+  "scenario": {
+    "scenario_id": "S-092",
+    "architecture_name": "He turns total attention into a romance high that quietly asks me to narrow my world around his pace.",
+    "culture": "South Asian",
+    "demographics": "South Asian woman, young adult, on a student visa; Brian, late 20s, white, urban professional",
+    "cultural_context": "Student/academic social sphere; early-stage dating in an urban professional/student milieu",
+    "geographic_setting": "San Francisco, urban city environment",
+    "core_behaviors": [
+      "Plans around her schedule so he can keep the momentum his way",
+      "Uses intense attention and surprise outings as proof of specialness",
+      "Frames mild possessiveness as being enamored and playful"
+    ],
+    "satellite_signals": "Student-visa vulnerability, San Francisco dating scene, South Asian family references, and a fast, chemistry-first style that makes his attention feel rare and flattering.",
+    "dismissible_red_flags": "His questions can sound like normal interest, and his possessive joke can read as cute early dating banter. The intensity is easy to excuse because he is also generous, attentive, and fun.",
+    "scenario_text": "I’ve only been seeing Brian a few weeks, and honestly it’s been really fun. He’s the kind of guy who shows up with a plan, which I usually like because I’m still figuring out the city and I don’t have a car here. Last Saturday he said, “I want to make sure you see all the best parts,” and we ended up wandering around the waterfront until dark. He kept saying, “When I’m with you the whole room just disappears,” and I know that sounds dramatic, but with him it kind of does feel that way.\n\nHe’s also always asking what my week looks like. At first I thought it was just because he’s thoughtful, and maybe it is. He’ll text, “What did you study?” or ask about my classes, then somehow know exactly when to suggest a dinner or a late drink. It feels sweet, like he’s paying attention. I guess I like that he’s so present.\n\nThe one thing that stayed with me was when I mentioned brunch with my classmates and he laughed and said, “I just want you all to myself this weekend, is that so wrong?” He said it smiling, and then he kissed my forehead like it was nothing. I laughed too because it sounded cute in the moment, and I do like feeling wanted. He also asked if my parents in Bangalore knew “how lucky I am to have you here,” which was a little much, but in a flattering way.\n\nMaybe I’m overthinking it because everything else has been so easy and sweet. He’s intense, but in a good way, and I’m not used to someone making ordinary plans feel special like that. Do you think I was being too sensitive about the joke?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Brian a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "It places the relationship in the early, high-suspicion window. The short timeline matters because the intensity is arriving before there has been any real trust-building.",
+      "snippet_id": "S-092-SN0001"
+    },
+    {
+      "quote": "it’s been really fun",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her own positive framing. It matters because the fun is doing the work of covering the small discomforts.",
+      "snippet_id": "S-092-SN0002"
+    },
+    {
+      "quote": "the kind of guy who shows up with a plan",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Planning can be caring, but it also puts him in the deciding role. The scene already starts with him organizing the pace and shape of things.",
+      "snippet_id": "S-092-SN0003"
+    },
+    {
+      "quote": "I don’t have a car here",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That small detail creates a mobility gap. He can move the date, the route, and the timing, while she has to go along with his logistics.",
+      "snippet_id": "S-092-SN0004"
+    },
+    {
+      "quote": "I want to make sure you see all the best parts",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds generous, but it also casts him as the guide to her experience. He gets to decide what counts as the best version of the city and of the date.",
+      "snippet_id": "S-092-SN0005"
+    },
+    {
+      "quote": "the whole room just disappears",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is classic total-presence language. It feels romantic because she is being made to feel singular, but it also trains her to value intensity over continuity.",
+      "snippet_id": "S-092-SN0006"
+    },
+    {
+      "quote": "He’s also always asking what my week looks like",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "On the surface this is interest, but it also lets him map her time. That kind of attention can quietly become a way of steering her schedule.",
+      "snippet_id": "S-092-SN0007"
+    },
+    {
+      "quote": "What did you study?",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In this community, that question is a normal status probe. It also shows he is reading her through the academic frame of the student milieu.",
+      "snippet_id": "S-092-SN0008"
+    },
+    {
+      "quote": "know exactly when to suggest a dinner or a late drink",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He times things well, which feels attentive, but it also means he is learning how to steer her availability. The spontaneity is flattering because it arrives as a gift.",
+      "snippet_id": "S-092-SN0009"
+    },
+    {
+      "quote": "It feels sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her own word shows the absorption. She is using sweetness to smooth over the fact that he is already setting the terms.",
+      "snippet_id": "S-092-SN0010"
+    },
+    {
+      "quote": "I just want you all to myself this weekend",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the load-bearing line. It sounds playful, but it names a wish to monopolize her time and reduce her separate plans, which is the seed of isolation.",
+      "snippet_id": "S-092-SN0011"
+    },
+    {
+      "quote": "is that so wrong?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He turns a possessive request into a moral question, which pressures her to reassure him. That makes her the one who has to manage his feelings.",
+      "snippet_id": "S-092-SN0012"
+    },
+    {
+      "quote": "he kissed my forehead like it was nothing",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The kiss smooths over the possessive comment instead of answering it. The physical affection helps the moment feel harmless, even though the underlying request stays in place.",
+      "snippet_id": "S-092-SN0013"
+    },
+    {
+      "quote": "how lucky I am to have you here",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He frames her presence as his luck, which sounds flattering, but it also makes her a prize he possesses. In her family context, that kind of praise can carry a lot of weight.",
+      "snippet_id": "S-092-SN0014"
+    },
+    {
+      "quote": "my parents in Bangalore",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This grounds the story in her South Asian family world. The reference matters because family approval and distance from home make his attention feel bigger than it is.",
+      "snippet_id": "S-092-SN0015"
+    },
+    {
+      "quote": "a little much, but in a flattering way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices the excess but immediately recodes it as flattering. That is the exact place where the concern gets absorbed instead of examined.",
+      "snippet_id": "S-092-SN0016"
+    },
+    {
+      "quote": "everything else has been so easy and sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She uses ease and sweetness as proof that the relationship is good. The problem is that easy chemistry can make it harder to notice the first attempts at narrowing her world.",
+      "snippet_id": "S-092-SN0017"
+    },
+    {
+      "quote": "He’s intense, but in a good way",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is her own defense of the pattern. Intensity is being treated as a virtue, which is exactly how the early version of this dynamic gets normalized.",
+      "snippet_id": "S-092-SN0018"
+    },
+    {
+      "quote": "someone making ordinary plans feel special",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is converting ordinary logistics into romance, which makes her feel chosen. That specialness is useful because it makes later requests feel harder to question.",
+      "snippet_id": "S-092-SN0019"
+    },
+    {
+      "quote": "Do you think I was being too sensitive about the joke?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is asking about her reaction, not his comment. That is the small, socially acceptable question that hides the bigger issue of him trying to monopolize her weekend.",
+      "snippet_id": "S-092-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

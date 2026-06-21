@@ -1,0 +1,440 @@
+{
+  "scenario_id": "S-104",
+  "player_type": "Adrenaline Ainsley",
+  "scenario": {
+    "scenario_id": "S-104",
+    "architecture_name": "He turns excitement into proof of love, then uses that rush to pull me into his pace and make my own limits feel dull.",
+    "culture": "South Asian",
+    "demographics": "Filipino American woman, early 30s; Jack, white software engineer, recently left teaching",
+    "cultural_context": "Family-oriented Filipino American social sphere; partner is a successful software engineer, with a recent transition out of teaching",
+    "geographic_setting": "Likely an urban U.S. setting, with work and family-centered social life",
+    "core_behaviors": [
+      "Uses intensity and spontaneity as a romance test",
+      "Frames her hesitation as dullness or overthinking",
+      "Creates a fast emotional pace that makes her say yes before thinking"
+    ],
+    "satellite_signals": "Lavish dates, constant pickup offers, future-family talk, and teasing about her confusion all make him seem attentive while quietly installing urgency and dependence.",
+    "dismissible_red_flags": "At this stage he mostly reads as exciting, generous, and eager. His pressure shows up as enthusiasm, so it is easy to excuse as chemistry.",
+    "scenario_text": "I’ve only been seeing Jack for a few weeks, and most of it has been honestly really fun. He’s the kind of guy who shows up with a plan already in his head, like he can’t stand a quiet night for more than ten minutes. Last Friday he texted, “Pack light, I’ve got something better than dinner,” and by the time I got downstairs he was already waiting with the car. He laughed and said, “Don’t overthink it, just trust me.” It was a rooftop place downtown, loud and kind of ridiculous, but the view was beautiful and he kept looking at me like I was the only person there. I liked that. It felt sweet in a way I haven’t had in a while.\n\nHe keeps saying he loves how close I am with my family. He asked if my parents are still together, what my dad does, and where my last name comes from, and he seemed genuinely interested, not nosy. Then he said, “You’re such a good girl, you actually care about people.” I know he meant it as a compliment, and maybe he was just trying to understand my world. He also keeps talking about how he wants to meet everyone soon, like he’s already picturing himself there.\n\nThe only thing is, when I mentioned I might need to leave early for my cousin’s birthday, he made this face and said, “You’re not really bailing on me already, are you?” Then he smiled like he was kidding and told me, “I just hate wasting a good night.” I ended up staying, because it did feel rude to leave when he’d planned all that. He was so excited, and I didn’t want to be the boring one.\n\nIs it weird that the “you’re not really bailing on me” comment stayed with me a little?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Jack for a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The short timeline matters because it explains why everything still feels exciting and unresolved. It also hints at how quickly he is moving the pace, which is part of the pressure.",
+      "snippet_id": "S-104-SN0001"
+    },
+    {
+      "quote": "the kind of guy who shows up with a plan already in his head",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He arrives with the scene already decided, which sounds thoughtful at first but also leaves little room for her preferences. The structure is him moving her through his pace.",
+      "snippet_id": "S-104-SN0002"
+    },
+    {
+      "quote": "can’t stand a quiet night",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds like a personality quirk, but it points to a need for constant stimulation. Over time, that kind of restlessness can make ordinary closeness feel insufficient.",
+      "snippet_id": "S-104-SN0003"
+    },
+    {
+      "quote": "Pack light, I’ve got something better than dinner",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a directive wrapped as a surprise. He is controlling the evening while making it sound like a gift, which puts her in the position of being grateful before she even knows the plan.",
+      "snippet_id": "S-104-SN0004"
+    },
+    {
+      "quote": "Don’t overthink it, just trust me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This line asks for compliance before information. It sounds playful, but it also shuts down her ability to pause, ask questions, or test whether the plan works for her.",
+      "snippet_id": "S-104-SN0005"
+    },
+    {
+      "quote": "He was already waiting with the car",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Having the car gives him mobility and sequencing power. She is the one being picked up, which subtly places her inside his timing instead of her own.",
+      "snippet_id": "S-104-SN0006"
+    },
+    {
+      "quote": "a rooftop place downtown",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The setting signals status, novelty, and a little spectacle. It helps him feel exciting and polished, which supports the rush he is building around himself.",
+      "snippet_id": "S-104-SN0007"
+    },
+    {
+      "quote": "he kept looking at me like I was the only person there",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering and easy to love early on. The danger is that it makes her feel specially chosen, which can make later pressure harder to resist.",
+      "snippet_id": "S-104-SN0008"
+    },
+    {
+      "quote": "He keeps saying he loves how close I am with my family",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "In a family-centered Filipino American context, this sounds warm and respectful. But it also shows him moving quickly toward absorption, treating her family life as something he is already folding himself into.",
+      "snippet_id": "S-104-SN0009"
+    },
+    {
+      "quote": "He asked if my parents are still together",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a standard family question in some dating conversations, but here it also shows how much he is scanning her background. He seems to be gathering the shape of her life fast.",
+      "snippet_id": "S-104-SN0010"
+    },
+    {
+      "quote": "what my dad does",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This can be ordinary curiosity, but it also carries class and status sorting. In context, it reads like he is mapping her family standing as part of deciding how to place himself.",
+      "snippet_id": "S-104-SN0011"
+    },
+    {
+      "quote": "where my last name comes from",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Cognitive Flexibility-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The surname question is a classic identity probe in South Asian social worlds. It can sound interested and respectful, while also collecting information that lets him read her family and status more precisely.",
+      "snippet_id": "S-104-SN0012"
+    },
+    {
+      "quote": "You’re such a good girl",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-low",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is praise, but it also casts her into a compliant role. Once that role is installed, disagreement can later feel like failing the version of herself he is rewarding.",
+      "snippet_id": "S-104-SN0013"
+    },
+    {
+      "quote": "you actually care about people",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Disrespect-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "It sounds sweet, but it separates her from a vague category of less caring people. That kind of compliment can make her feel elevated while quietly making her easier to steer.",
+      "snippet_id": "S-104-SN0014"
+    },
+    {
+      "quote": "he wants to meet everyone soon",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Early eagerness to merge social worlds can feel romantic. It also means he is moving toward faster access, faster belonging, and less space for the relationship to stay separate.",
+      "snippet_id": "S-104-SN0015"
+    },
+    {
+      "quote": "he’s already picturing himself there",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is her noticing that he is mentally installing himself into her family life before any real introduction. It is affectionate on the surface, but it shows how quickly he wants to belong everywhere she belongs.",
+      "snippet_id": "S-104-SN0016"
+    },
+    {
+      "quote": "You’re not really bailing on me already, are you?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the load-bearing pressure point. He turns her ordinary family obligation into a loyalty test, so leaving would make her feel selfish instead of simply unavailable.",
+      "snippet_id": "S-104-SN0017"
+    },
+    {
+      "quote": "he smiled like he was kidding",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The smile softens the pressure, which makes it easier for her to doubt her own reaction. It lets him keep the edge of the comment while denying that it was serious.",
+      "snippet_id": "S-104-SN0018"
+    },
+    {
+      "quote": "I just hate wasting a good night",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds reasonable, but it shifts the burden onto her to protect the mood. Her leaving becomes framed as waste, so his desire gets moral weight.",
+      "snippet_id": "S-104-SN0019"
+    },
+    {
+      "quote": "I ended up staying",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the moment where she absorbs the pressure rather than challenge it. It shows how quickly his excitement becomes a reason she overrides her own plan.",
+      "snippet_id": "S-104-SN0020"
+    },
+    {
+      "quote": "I didn’t want to be the boring one",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He has successfully made her fear the social role of being dull. That is a small sentence, but it shows how his pace is already defining what kind of woman gets approval.",
+      "snippet_id": "S-104-SN0021"
+    },
+    {
+      "quote": "the ‘you’re not really bailing on me’ comment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is not naming it as a big issue, just noticing that one phrase stayed with her. That is exactly how these early pressures register, as a small line that lingers after the fun part is over.",
+      "snippet_id": "S-104-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

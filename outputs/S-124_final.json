@@ -1,0 +1,26 @@
+{
+  "scenario_id": "S-124",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-124",
+    "architecture_name": "He uses dry, joking criticism and spiritual-sounding honesty to make me work for approval while quietly training me to shrink my needs.",
+    "culture": "Evangelical",
+    "demographics": "Likely Latina/Hispanic woman, adult, newly dating a churchgoing man",
+    "cultural_context": "Family-oriented churchgoing social circle with strong sibling/family involvement",
+    "geographic_setting": "San Antonio, Texas; urban community setting with church and riverwalk/social outings",
+    "core_behaviors": [
+      "Uses teasing as a test of whether I can take it",
+      "Frames criticism as honesty and care",
+      "Makes approval feel scarce and earned",
+      "Keeps me feeling grateful instead of objecting"
+    ],
+    "satellite_signals": "Church-and-riverwalk dating, family references, small-group / church language, and a man who sounds witty, blunt, and spiritually serious while staying just a little cutting.",
+    "dismissible_red_flags": "At this stage it reads like chemistry and a sharp sense of humor. The sting is easy to excuse because he follows it with praise, laughter, or a spiritual explanation.",
+    "scenario_text": "I met Blake at a church thing after service, and he’s honestly been really fun to get to know. He has this dry little way of looking at people that makes me laugh even when he’s being a little sharp. Last night we went down by the River Walk after dinner, and he kept saying things like, “You’re not one of those girls who needs a whole production, right?” and then smiling like he was teasing. I laughed because, I mean, he was sweet right after, and he did say he likes that I’m easy to be around.\n\nHe’s also very into being direct. He told me, “I’m not going to flatter you just to be nice,” which sounded kind of refreshing, honestly. After a few exes who were all talk, it does feel good to be with someone who says what he thinks. He asked if I’m in a small group, and when I said yes he nodded like that mattered. He also said I seem “solid,” which I think was a compliment? He has this habit of making a point, then laughing and saying he’s kidding, so I end up smiling even when I’m not totally sure what part was the joke.\n\nThe weirdest part is that he’s so cheerful about everything I almost can’t stay annoyed. If he forgets to text back or says he’ll handle something and then doesn’t, he’ll just go, “I’m the worst, pray for me,” and somehow I end up feeling bad for bringing it up. He’ll also say things like, “You’re better at keeping track than I am,” in this really light way that makes me feel useful and kind of special.\n\nI do like him. He feels honest, and funny, and low-drama. I just keep wondering if I’m supposed to laugh at every little dig, or if I’m being too sensitive about the teasing?"
+  },
+  "snippets": [],
+  "validation_warnings": [
+    "CRITICAL: No snippets generated in output"
+  ],
+  "repetition_warnings": []
+}

@@ -1,25 +1,420 @@
 {
   "scenario_id": "S-022",
-  "player_type": "Backhanded Blake",
+  "player_type": "Blunt Bailey",
   "scenario": {
     "scenario_id": "S-022",
-    "architecture_name": "He uses honesty-framed compliments and deniable teasing to install himself as the authority on how she should look, positioning modesty-community standards as the thing she needs to transcend to earn his real approval.",
+    "architecture_name": "He uses literal honesty and practical care to install himself as the authority on what I should wear, how I should present, and what counts as good judgment.",
     "culture": "Conservative Sunni Muslim",
-    "demographics": "Female, 20s, Arab-American, Dearborn MI; Male, late 20s, Arab-American, Dearborn MI, works in finance",
-    "cultural_context": "Dating and romantic relationships within a Muslim community with emphasis on modesty values",
-    "geographic_setting": "Dearborn, Michigan",
+    "demographics": "F/26 Arab-American, M/29 Arab-American",
+    "cultural_context": "Muslim/Arab-American social sphere with community norms around modesty and dating.",
+    "geographic_setting": "Dearborn, Michigan; suburban Arab-American community setting.",
     "core_behaviors": [
-      "Delivers backhanded compliments framed as honest appreciation, then acts wounded when she notices the hook",
-      "Positions himself as the rare man who tells her the truth other men won't, making his critiques feel like respect",
-      "Uses community modesty standards as the implicit contrast against which he elevates her, rewarding her for distance from them"
+      "Compliments me through exact, literal praise that feels trustworthy",
+      "Uses practical care and attention to move into interpretive authority",
+      "Frames his taste as simple honesty, so his preferences feel hard to question"
     ],
-    "satellite_signals": "Honesty-as-superiority frame installed early; approval-withholding as control mechanism; exception-bait separating her from modest-community women; deniable digs at her appearance wrapped in compliments; community vocabulary (deen, hijab, fitnah) used as backdrop against which his approval becomes the prize.",
-    "dismissible_red_flags": "His backhanded compliments are easily read as awkward but well-meaning flattery; his honesty frame sounds like maturity and respect after men who gave empty praise; his teasing reads as dry wit and chemistry rather than a pattern of small corrections; his comments about her appearance feel like aesthetic enthusiasm rather than control.",
-    "scenario_text": "I've been talking to Samir for about six weeks now, through the halal route, wali involved and everything. He's Egyptian-American, works in finance downtown, prays Jummah, on his deen from what I can tell. My parents like him. My mom keeps saying ma sha Allah every time I mention him.\n\nWhat I actually like is that he's not fake about it. He told me early on, \"I'm not going to give you cheap compliments just because I want you to like me, you'll get the real version.\" After guys who just said whatever, that felt refreshing. Like he actually sees me.\n\nAnd he does say nice things. It's just that they have this little hook in them sometimes. Last week he said, \"You look really good tonight, it's amazing what a bit of effort does.\" I laughed because he immediately said \"that's a compliment, take it.\" So I did. I told myself he's just dry, that's his humor.\n\nThen on our third meeting he said, \"You're not like girls who need everyone staring at them, that's refreshing.\" I felt good about that. I'm not someone who needs constant attention. But later I kept thinking about it, because I hadn't asked for his opinion on that.\n\nThe thing I keep coming back to is something he said while we were looking at photos on my phone. He pointed to one where I was dressed up for my cousin's wedding, abaya and everything, and said, \"You're prettier when you stop trying to look so covered up, like right now.\" And then he kind of moved on, like it was nothing.\n\nI didn't say anything. I couldn't tell if I was supposed to push back or just let it go, so I let it go. He's been really respectful otherwise and I don't want to make it a thing.\n\nIs it weird that that comment is still sitting with me a little?"
+    "satellite_signals": "Modest dating language, Dearborn community references, and his calm, matter-of-fact tone make his attention feel sincere while he quietly starts steering my presentation.",
+    "dismissible_red_flags": "At this stage it mostly reads as flattering interest and a man who is careful with details. His bluntness feels refreshing, and I keep telling myself he is just being honest.",
+    "scenario_text": "I was telling my sister about Samir while I was waiting for tea to cool, and I kept smiling because he has been so steady lately. He texts when he says he will, he remembers little things, and he is weirdly good at noticing what I need before I ask. Last week he bought me the exact charger I had mentioned and said, very plain, ‘I was listening.’ That kind of thing makes me feel really seen.\n\nHe is also blunt in a way that is kind of funny. If I ask whether something looks okay, he does not do the fake sweet answer. He will say, ‘That color is not doing you any favors,’ and then he will point to the one he thinks is better. I know some girls would hate that, but with him it feels honest, like there is no guessing or hidden meaning. He says what he means.\n\nThe part that sits with me is that he has started doing the same thing with my clothes. Not in a rude way, exactly. More like, ‘You’d look better in the navy one,’ or, ‘That dress is a little much for dinner with your cousins.’ He said it so matter-of-factly that I laughed and changed it the first time. Then he brought up a little boutique in Dearborn and said he wanted to go with me because he has a better eye than mine for what is flattering.\n\nI did like that he paid attention. And honestly, I do trust his taste more than I expected to. It just made me pause a little when he said, ‘If you want, I can help you pick things that fit your deen better.’ He meant it sweetly, I think. But I keep wondering if I was too quick to let him become the one who decides what looks right on me. Was I being too sensitive about the comment on my dress?"
   },
-  "snippets": [],
-  "validation_warnings": [
-    "CRITICAL: No snippets generated in output"
+  "snippets": [
+    {
+      "quote": "I was telling my sister about Samir",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Names the relationship in a family context, which fits the community setting and shows she is already talking about him as part of her social world.",
+      "snippet_id": "S-022-SN0001"
+    },
+    {
+      "quote": "waiting for tea to cool",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A small domestic detail that helps locate the scene in an ordinary home setting without making it feel staged.",
+      "snippet_id": "S-022-SN0002"
+    },
+    {
+      "quote": "he has been so steady lately",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Inconsistency-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is soothing herself with his reliability. It sounds positive, but it also shows how much she is already relying on his steadiness.",
+      "snippet_id": "S-022-SN0003"
+    },
+    {
+      "quote": "He texts when he says he will",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-high",
+        "Inconsistency-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a real reliability marker. In the honeymoon phase it builds trust fast because his words and actions line up.",
+      "snippet_id": "S-022-SN0004"
+    },
+    {
+      "quote": "he remembers little things",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The surface is sweet attention, but the pattern is sustained focus. It makes her feel specially tracked and known.",
+      "snippet_id": "S-022-SN0005"
+    },
+    {
+      "quote": "weirdly good at noticing what I need before I ask",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This reads as care, but it also places him in the position of anticipating and managing her needs, which can become interpretive authority.",
+      "snippet_id": "S-022-SN0006"
+    },
+    {
+      "quote": "I was listening",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The phrase is simple and honest, which makes it appealing. It also quietly installs him as the one whose attention matters most.",
+      "snippet_id": "S-022-SN0007"
+    },
+    {
+      "quote": "He is also blunt",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Bluntness here is part of his style. It feels refreshing because it signals he is not performing sweetness or hiding his opinion.",
+      "snippet_id": "S-022-SN0008"
+    },
+    {
+      "quote": "That color is not doing you any favors",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He is giving an evaluation of her appearance as if it is objective fact. Even without cruelty, it starts to position him as the judge of what works on her.",
+      "snippet_id": "S-022-SN0009"
+    },
+    {
+      "quote": "the one he thinks is better",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This shifts from opinion to preference-setting. He is not just commenting, he is steering her choice.",
+      "snippet_id": "S-022-SN0010"
+    },
+    {
+      "quote": "the same thing with my clothes",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The pattern is starting to repeat. What first looked like one-off taste becomes a consistent push on how she presents herself.",
+      "snippet_id": "S-022-SN0011"
+    },
+    {
+      "quote": "You’d look better in the navy one",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A simple styling comment, but it carries a rule underneath it: he knows what is best for her appearance.",
+      "snippet_id": "S-022-SN0012"
+    },
+    {
+      "quote": "That dress is a little much for dinner with your cousins",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The family setting makes the comment feel culturally grounded, but it also starts policing her presentation in a socially meaningful space.",
+      "snippet_id": "S-022-SN0013"
+    },
+    {
+      "quote": "a little boutique in Dearborn",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places them in the local Arab-American social geography and keeps the scene specific rather than generic.",
+      "snippet_id": "S-022-SN0014"
+    },
+    {
+      "quote": "he wanted to go with me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Going together sounds sweet, but it also moves him into the role of companion and selector, not just boyfriend.",
+      "snippet_id": "S-022-SN0015"
+    },
+    {
+      "quote": "he has a better eye than mine",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is already giving his judgment more weight than her own. That self-doubt is the internal cost of his steady confidence.",
+      "snippet_id": "S-022-SN0016"
+    },
+    {
+      "quote": "If you want, I can help you pick things",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The offer is framed as help, not pressure, which is why it feels safe. But it also creates dependence on his taste and guidance.",
+      "snippet_id": "S-022-SN0017"
+    },
+    {
+      "quote": "that fit your deen better",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Morality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Moral Injury"
+      ],
+      "reasoning": "This is the most loaded line. He is using a religious frame to make his clothing preferences sound morally superior, which can make disagreement feel like disobedience rather than a personal choice.",
+      "snippet_id": "S-022-SN0018"
+    },
+    {
+      "quote": "He meant it sweetly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is protecting the good version of him in her head. That softening is what lets the comment land without fully registering as pressure.",
+      "snippet_id": "S-022-SN0019"
+    },
+    {
+      "quote": "too quick to let him become the one who decides",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior signal. She can feel that the role has shifted, even if she is not ready to name it as a problem.",
+      "snippet_id": "S-022-SN0020"
+    },
+    {
+      "quote": "Was I being too sensitive about the comment on my dress?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She ends on the smallest socially acceptable concern, which keeps the larger issue unspoken. The question shows doubt about her own reaction more than doubt about him.",
+      "snippet_id": "S-022-SN0021"
+    }
   ],
+  "validation_warnings": [],
   "repetition_warnings": []
 }

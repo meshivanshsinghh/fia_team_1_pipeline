@@ -1,0 +1,462 @@
+{
+  "scenario_id": "S-146",
+  "player_type": "Domineering Devin",
+  "scenario": {
+    "scenario_id": "S-146",
+    "architecture_name": "He turns competence, provision, and “standards” into a system where her life starts routing through his judgment.",
+    "culture": "Black Professional",
+    "demographics": "28-year-old woman; Filipino/Manila-born immigrant; single or unspecified relationship status",
+    "cultural_context": "Healthcare workplace; hospital nursing/doctor social sphere; immigrant professional setting",
+    "geographic_setting": "San Diego, California; hospital workplace",
+    "core_behaviors": [
+      "Turns care into authority",
+      "Uses standards and efficiency to justify control",
+      "Frames her compliance as relief and maturity",
+      "Introduces himself as the person who can handle the hard parts"
+    ],
+    "satellite_signals": "Hospital workplace, senior doctor status, immigrant professional vulnerability, local-guide behavior, and a polished Black professional register that makes his control sound like structure.",
+    "dismissible_red_flags": "He seems older, capable, and helpful, and the comments land as teasing or old-school protectiveness. Because he is steady rather than volatile, the control is easy to read as guidance.",
+    "scenario_text": "I’ve been at the hospital in San Diego for a few months now, and most days I still feel like I’m catching up. Devin works in surgery, so he’s always moving fast, always looking put together, and he has this way of making everything sound simple. He asked me where I went to school the first day we really talked, then smiled like he already knew I’d done well for myself. After that he started checking in on my shifts, like, “You eating? You look like you’re running on fumes.” It was sweet at first, honestly. He’ll bring me coffee, remember which patients made me nervous, and say things like, “You don’t need to be carrying all that by yourself.” I like that he notices things. He also has opinions about everything. My schedule, my shoes, how late I stay after charting, even the route I take home. He says he just wants me safe, and I believe him, mostly because he’s so calm about it. Last week he told me, “We don’t do chaos,” and laughed when I said my life was already pretty full. He has this very sure way of talking, like there’s a right way to do most things and he’s just trying to help me get there. I let him pick the restaurant, and he insisted on paying, then said, “Put your card away, I got it.” It sounds old-school, but I won’t lie, it felt good to be taken care of. Still, the part where he keeps asking what time I’m getting off keeps sticking with me a little. Is it normal that he wants to know my exact schedule before he makes plans?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been at the hospital in San Diego",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Sets the workplace and the immigrant-professional setting right away. It also places her in a structured environment where his access has to be understood through the hospital, not just romance.",
+      "snippet_id": "S-146-SN0001"
+    },
+    {
+      "quote": "Devin works in surgery",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His role gives him status, mobility, and confidence in the hospital hierarchy. That matters because his helpfulness is not neutral, it comes from someone who already knows how to command a room.",
+      "snippet_id": "S-146-SN0002"
+    },
+    {
+      "quote": "always moving fast",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This reads as competence on the surface, but it also signals a person who pushes pace and expects others to keep up. The speed is part of the pressure.",
+      "snippet_id": "S-146-SN0003"
+    },
+    {
+      "quote": "always looking put together",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Superficiality-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The polished presentation is attractive, but it also suggests someone who relies on image and composure as authority. In this kind of register, being put together can become a way of making other people feel less organized or less serious.",
+      "snippet_id": "S-146-SN0004"
+    },
+    {
+      "quote": "where I went to school",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a classic status probe in professional circles. He is not just making conversation, he is locating her in a hierarchy and checking how much social capital she has.",
+      "snippet_id": "S-146-SN0005"
+    },
+    {
+      "quote": "smiled like he already knew",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The smile carries a little too much certainty. It gives the sense that he is already placing her in a category before she has really spoken for herself.",
+      "snippet_id": "S-146-SN0006"
+    },
+    {
+      "quote": "You eating?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds caring, but it also starts a pattern of monitoring and caretaking. The question is intimate enough to feel sweet, while quietly making her routine something he can track.",
+      "snippet_id": "S-146-SN0007"
+    },
+    {
+      "quote": "You look like you’re running on fumes",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Empathy-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He notices her fatigue, which is flattering, but the phrasing also frames him as the one who gets to interpret her body and capacity. It creates a soft dependency around his reading of her state.",
+      "snippet_id": "S-146-SN0008"
+    },
+    {
+      "quote": "It was sweet at first",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "She is already doing the work of smoothing over the oddness. The word sweet shows she wants to keep the good reading in place even while something is starting to feel slightly off.",
+      "snippet_id": "S-146-SN0009"
+    },
+    {
+      "quote": "You don’t need to be carrying all that by yourself",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the kind of line that feels loving because it offers relief. Structurally, it also invites her to hand over responsibility and let him become the manager of what he says is too much for her.",
+      "snippet_id": "S-146-SN0010"
+    },
+    {
+      "quote": "My schedule",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Once her schedule becomes a topic of his concern, her time is no longer fully hers. That is the opening for logistical control dressed as care.",
+      "snippet_id": "S-146-SN0011"
+    },
+    {
+      "quote": "my shoes",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small but telling detail. When a partner starts having opinions about things like shoes this early, it can be less about style and more about getting used to his authority over her presentation.",
+      "snippet_id": "S-146-SN0012"
+    },
+    {
+      "quote": "how late I stay after charting",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is tracking the shape of her workday, not just asking how it went. In a hospital setting, that can easily become a way of making her hours and movements accountable to him.",
+      "snippet_id": "S-146-SN0013"
+    },
+    {
+      "quote": "He says he just wants me safe",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Safety language is useful here because it makes control sound morally clean. The line matters because it gives him a noble reason for wanting access to her routine.",
+      "snippet_id": "S-146-SN0014"
+    },
+    {
+      "quote": "I believe him, mostly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "She is noticing the pressure, but she is still choosing trust as the main frame. That hesitation makes the concern feel minor to her even though the behavior is already organizing around her.",
+      "snippet_id": "S-146-SN0015"
+    },
+    {
+      "quote": "We don’t do chaos",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is one of the clearest role-setting phrases. It sounds like a shared value, but really it turns his preference for order into a couple identity she is supposed to accept.",
+      "snippet_id": "S-146-SN0016"
+    },
+    {
+      "quote": "there’s a right way to do most things",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Cognitive Flexibility-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The line presents his judgment as almost universal truth. That is how a personal preference starts becoming a standard she is expected to adapt to.",
+      "snippet_id": "S-146-SN0017"
+    },
+    {
+      "quote": "he’s just trying to help me get there",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is translating his authority into benevolence. The phrase shows how easy it is for her to absorb the pressure as guidance when he frames it as help.",
+      "snippet_id": "S-146-SN0018"
+    },
+    {
+      "quote": "I let him pick the restaurant",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small sign of who gets to decide. It seems harmless by itself, but it fits the larger pattern of him taking the lead on choices that could stay shared.",
+      "snippet_id": "S-146-SN0019"
+    },
+    {
+      "quote": "Put your card away, I got it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The payment is generous, but it also creates debt and positions him as the one who covers, decides, and sets the tone. The care is real and still structurally unequal.",
+      "snippet_id": "S-146-SN0020"
+    },
+    {
+      "quote": "It sounds old-school",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is using a cultural script to make the behavior feel respectable. That helps her absorb the imbalance as tradition instead of noticing how much authority it gives him.",
+      "snippet_id": "S-146-SN0021"
+    },
+    {
+      "quote": "he keeps asking what time I’m getting off",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the most concrete control signal in the scene. It is still phrased as interest, but the repeated asking points to monitoring, not just affection.",
+      "snippet_id": "S-146-SN0022"
+    },
+    {
+      "quote": "my exact schedule",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Exactness matters here. Once a partner wants the precise schedule, he can start coordinating her life instead of simply being part of it.",
+      "snippet_id": "S-146-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

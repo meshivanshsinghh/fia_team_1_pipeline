@@ -1,0 +1,473 @@
+{
+  "scenario_id": "S-143",
+  "player_type": "Charming Charlie",
+  "scenario": {
+    "scenario_id": "S-143",
+    "architecture_name": "He creates a rush of total presence and specialness that quietly makes her accept his pace, his attention, and his version of what is real.",
+    "culture": "Black Professional",
+    "demographics": "F/27, Black professional woman; M/31, Black professional man; Los Angeles",
+    "cultural_context": "Family-centered urban social life with a new romantic relationship and close parental involvement",
+    "geographic_setting": "Los Angeles, urban city setting",
+    "core_behaviors": [
+      "Locks onto her so intensely that the room seems to disappear",
+      "Uses rarity and destiny language to make the connection feel singular",
+      "Frames his spontaneity as proof of authenticity, not instability",
+      "Presents himself as the exciting exception in her world"
+    ],
+    "satellite_signals": "Black Professional markers like Howard, the Vineyard, and family dinners sit inside a dating frame built around chemistry, presence, and being the exception. His charm makes the pace feel flattering, while his inconsistency is pre-excused as passion.",
+    "dismissible_red_flags": "He is mostly sweet, attentive, and fun. The only thing that lingers is how quickly he goes from full attention to making it seem normal that he needs space or changes plans.",
+    "scenario_text": "I met him through a friend from Howard, and the first thing I noticed was how easy he was to talk to. He’s in private equity, lives over in Culver City, and somehow still made time to pick me up after work with flowers from that little place near my office. At dinner he kept saying, “I’m not like other guys,” which made me laugh because he said it like he was teasing himself. But then he looked at me and said, “When I’m with you, the whole room just disappears. There’s only you.” I know that sounds dramatic, but with him it felt kind of true.\n\nHe asked about my mom, my job, even whether I go up top with my aunties in the summer, and he remembered everything. Not in a creepy way, just in this very present way that made me feel seen. He took my hand across the table and said, “Feel my heart right now. Go on.” It was so silly and sweet that I laughed, then I actually did it, and he was right, he was all lit up.\n\nHe also kept saying he runs hot, like that’s just how he is, and if he needs to come up for air sometimes I shouldn’t read into it. I told myself that was honest, not a warning. Honestly, I like that he’s not stiff. He’s spontaneous, he texts late, he wants to drive to the coast at midnight, and he makes ordinary nights feel like a scene. My mom says I’m smiling too much lately, which is probably true.\n\nStill, when he went quiet for half a day after talking all morning, I found myself checking my phone way more than I wanted to. Is it weird that the way he said he runs hot stayed with me a little?"
+  },
+  "snippets": [
+    {
+      "quote": "I met him through a friend from Howard",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Howard is a strong Black professional marker. It places them in the right social world without needing explanation, and it signals a shared class and network context.",
+      "snippet_id": "S-143-SN0001"
+    },
+    {
+      "quote": "He’s in private equity",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "That job title does class work immediately. It also quietly sets up a power gap, because he moves in a higher-status, higher-resource world than she does.",
+      "snippet_id": "S-143-SN0002"
+    },
+    {
+      "quote": "pick me up after work",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He controls the mobility of the date in a way that feels generous. It is sweet on the surface, but it also puts him in the position of mover and organizer.",
+      "snippet_id": "S-143-SN0003"
+    },
+    {
+      "quote": "with flowers from that little place near my office",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The flowers are a classic charm move, but the detail makes it feel tailored and earned. That kind of gesture can create emotional debt before there is much actual relationship history.",
+      "snippet_id": "S-143-SN0004"
+    },
+    {
+      "quote": "I’m not like other guys",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is self-marketing dressed as humility. He is asking her to treat him as a rare exception, which makes future disappointment harder to name.",
+      "snippet_id": "S-143-SN0005"
+    },
+    {
+      "quote": "the whole room just disappears",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the total-presence language from the profile. It feels romantic because it suggests complete focus, but it also creates a high that can become addictive.",
+      "snippet_id": "S-143-SN0006"
+    },
+    {
+      "quote": "There’s only you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He narrows the whole scene down to her, which feels flattering in the moment. The structure underneath is exclusivity and absorption, not just affection.",
+      "snippet_id": "S-143-SN0007"
+    },
+    {
+      "quote": "He asked about my mom, my job",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He is gathering personal information quickly, but in a way that reads as curiosity. The speed and completeness of the interest make the intimacy feel accelerated.",
+      "snippet_id": "S-143-SN0008"
+    },
+    {
+      "quote": "whether I go up top",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "‘Up top’ is a Black professional Vineyard reference. It marks her world and her family tradition without needing any extra narration.",
+      "snippet_id": "S-143-SN0009"
+    },
+    {
+      "quote": "with my aunties in the summer",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is family-centered Black professional summer language. It situates her inside a multigenerational social world that he is being welcomed into.",
+      "snippet_id": "S-143-SN0010"
+    },
+    {
+      "quote": "He took my hand across the table",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The touch is intimate and timed to heighten the moment. It is not bad by itself, but it helps build the sense that he is always performing closeness.",
+      "snippet_id": "S-143-SN0011"
+    },
+    {
+      "quote": "Feel my heart right now",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Emotional Overexposure-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the electric, body-centered language from the profile. He turns his own physical state into a shared event, which pulls her into his emotional experience immediately.",
+      "snippet_id": "S-143-SN0012"
+    },
+    {
+      "quote": "he was all lit up",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is reading his excitement as proof of specialness. That feeling is real, but it also shows how quickly she is learning to measure the relationship by his intensity.",
+      "snippet_id": "S-143-SN0013"
+    },
+    {
+      "quote": "he runs hot",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the pre-excused cooling language. He frames volatility as temperament so that later distance can be treated as natural instead of something she can question.",
+      "snippet_id": "S-143-SN0014"
+    },
+    {
+      "quote": "if he needs to come up for air sometimes",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is normalizing withdrawal before it becomes a problem. It sounds self-aware, but it also sets her up to accept uneven contact as part of his personality.",
+      "snippet_id": "S-143-SN0015"
+    },
+    {
+      "quote": "I shouldn’t read into it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the quiet directive inside the sentence. He is pre-emptively telling her how to interpret his future distance, which narrows her room to notice a pattern.",
+      "snippet_id": "S-143-SN0016"
+    },
+    {
+      "quote": "I like that he’s not stiff",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is translating instability into ease and charisma. The line shows her preference for his looseness, even though the same looseness can later become unreliability.",
+      "snippet_id": "S-143-SN0017"
+    },
+    {
+      "quote": "He’s spontaneous",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In this register, spontaneity reads as chemistry and freedom. The hidden cost is that his pace becomes the default, and she has to adapt to it.",
+      "snippet_id": "S-143-SN0018"
+    },
+    {
+      "quote": "he texts late",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Late texting is a small sign of uneven availability. On its own it is minor, but inside the rest of the scene it fits the pattern of intensity without continuity.",
+      "snippet_id": "S-143-SN0019"
+    },
+    {
+      "quote": "drive to the coast at midnight",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the thrill-seeking, present-tense move from the profile. It feels romantic because it creates a scene, but it also asks her to trade steadiness for his mood and impulse.",
+      "snippet_id": "S-143-SN0020"
+    },
+    {
+      "quote": "makes ordinary nights feel like a scene",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He turns life into performance. That can be dazzling early on, but it also suggests he values the atmosphere of romance more than the ordinary work of being reliable.",
+      "snippet_id": "S-143-SN0021"
+    },
+    {
+      "quote": "smiling too much lately",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the narrator noticing how much her mood is being shaped by him. It is not fear, just a small sign that his attention is already organizing her emotional state.",
+      "snippet_id": "S-143-SN0022"
+    },
+    {
+      "quote": "half a day after talking all morning",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The shift from all morning to silence is the clearest inconsistency in the scene. It shows the beginning of the hot-and-cold pattern he already tried to excuse.",
+      "snippet_id": "S-143-SN0023"
+    },
+    {
+      "quote": "the way he said he runs hot",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is not naming a red flag, but the phrase stayed with her. That lingering tells us the pre-excuse worked, even if she is still trying to stay relaxed about it.",
+      "snippet_id": "S-143-SN0024"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

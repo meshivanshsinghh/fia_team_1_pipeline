@@ -1,0 +1,372 @@
+{
+  "scenario_id": "S-044",
+  "player_type": "Egocentric Evan",
+  "scenario": {
+    "scenario_id": "S-044",
+    "architecture_name": "He builds a sweet, attentive courtship that quietly centers his access to my time, my schedule, and my admiration.",
+    "culture": "Modern Orthodox Jewish",
+    "demographics": "Young Orthodox Jewish woman, dating Avi; newly dating; Crown Heights, Brooklyn",
+    "cultural_context": "Orthodox Jewish dating/social sphere, kosher restaurant and family-gathering context",
+    "geographic_setting": "Crown Heights, Brooklyn, New York; urban Orthodox Jewish neighborhood",
+    "core_behaviors": [
+      "Uses constant attention as a way to become the center of my day",
+      "Frames picking me up, planning, and choosing places as care while taking over the logistics",
+      "Turns my ordinary plans into a test of whether I am giving him enough of myself"
+    ],
+    "satellite_signals": "Kosher restaurant date, Crown Heights references, Orthodox dating norms, family-gathering schedule, flowers as an unusual but flattering gesture in this community.",
+    "dismissible_red_flags": "At this stage it mostly reads as enthusiasm, old-fashioned attentiveness, and a man trying hard. The little joke about my family plans can seem like playful teasing rather than a bid to monitor my time.",
+    "scenario_text": ""
+  },
+  "snippets": [
+    {
+      "quote": "I’m probably overthinking this",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already checking herself before naming the concern. That self-doubt makes the rest of the scene easier to absorb as harmless.",
+      "snippet_id": "S-044-SN0001"
+    },
+    {
+      "quote": "Avi and I have only been dating a couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The relationship is very new, so the level of attention lands as early intensity. It reads romantic, but it also sets up a fast pace.",
+      "snippet_id": "S-044-SN0002"
+    },
+    {
+      "quote": "he brought me lilies",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The gift is lovely on its face, and lilies are a noticeable gesture in this setting. The point is less the flowers than the impression he is making.",
+      "snippet_id": "S-044-SN0003"
+    },
+    {
+      "quote": "bringing a little joy to my day",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Emotional Overexposure-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is affectionate and polished, but it also frames him as the one who supplies my mood. That can quietly make his attention feel necessary.",
+      "snippet_id": "S-044-SN0004"
+    },
+    {
+      "quote": "flowers are not really a thing in our world",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Moral Injury"
+      ],
+      "reasoning": "This grounds the scene in Orthodox dating norms. The unusual gift feels extra meaningful because it crosses a small cultural boundary.",
+      "snippet_id": "S-044-SN0005"
+    },
+    {
+      "quote": "he’s been texting a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent texting can be sweet early on, but here it signals how quickly he wants access. The pace is part of the pull.",
+      "snippet_id": "S-044-SN0006"
+    },
+    {
+      "quote": "constantly asking how my day is",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds caring, yet it also shows a hunger to stay in contact all day. It can become a way of keeping her emotionally occupied.",
+      "snippet_id": "S-044-SN0007"
+    },
+    {
+      "quote": "thinking of me",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A warm phrase, but it also makes his attention feel constant and central. She is being invited to experience his focus as proof of closeness.",
+      "snippet_id": "S-044-SN0008"
+    },
+    {
+      "quote": "this new kosher restaurant in Crown Heights",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The restaurant reference locates them in a specific Orthodox dating world. It also shows he is curating the setting, which gives him the lead in the relationship.",
+      "snippet_id": "S-044-SN0009"
+    },
+    {
+      "quote": "I want to make sure it’s a perfect evening for you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is generous on the surface, but it also gives him the role of deciding what counts as perfect. Care and control are starting to blur together.",
+      "snippet_id": "S-044-SN0010"
+    },
+    {
+      "quote": "I do like that he’s so intentional",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is translating his planning into a virtue word she can comfortably hold onto. That helps her absorb the pace without questioning it too much.",
+      "snippet_id": "S-044-SN0011"
+    },
+    {
+      "quote": "Oh, trying to hide your time from me, huh?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This joke is light, but it also treats her family time like something she is withholding from him. The teasing makes the claim feel playful instead of possessive.",
+      "snippet_id": "S-044-SN0012"
+    },
+    {
+      "quote": "with a wink",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The wink softens the line and invites her to read it as harmless. That kind of tone can make a boundary question feel silly before it even forms.",
+      "snippet_id": "S-044-SN0013"
+    },
+    {
+      "quote": "Let me pick you up",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Offering the ride is nice, but it also puts him in charge of the movement and timing. He becomes the one who gets her there and keeps the evening moving.",
+      "snippet_id": "S-044-SN0014"
+    },
+    {
+      "quote": "so we can have more time together",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The phrase sounds romantic, but it quietly turns her time into shared property. The emphasis is on getting more access, not just seeing her.",
+      "snippet_id": "S-044-SN0015"
+    },
+    {
+      "quote": "he’s very eager to know my schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Wanting to know her schedule this early can be innocent, but here it reads like he is mapping her availability. That is a small seed of oversight.",
+      "snippet_id": "S-044-SN0016"
+    },
+    {
+      "quote": "he wants to make sure he has my time first",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest line in the scene. It turns her time into something he should secure before anyone else gets it, which sounds sweet now but already carries ownership energy.",
+      "snippet_id": "S-044-SN0017"
+    },
+    {
+      "quote": "I like him a lot",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her affection is real, which is why the small discomfort stays small. She is leaning toward him while trying not to make the moment bigger than it is.",
+      "snippet_id": "S-044-SN0018"
+    },
+    {
+      "quote": "Was I being too sensitive about the joke?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She ends by asking about the joke, not the pattern. That keeps the concern socially acceptable while leaving the deeper issue unnamed.",
+      "snippet_id": "S-044-SN0019"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

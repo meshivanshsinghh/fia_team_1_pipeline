@@ -1,0 +1,430 @@
+{
+  "scenario_id": "S-059",
+  "player_type": "Conspiratorial Corey",
+  "scenario": {
+    "scenario_id": "S-059",
+    "architecture_name": "He builds a private two-person world by flattering my judgment and quietly making his vigilance feel like love.",
+    "culture": "Old-Money WASP",
+    "demographics": "Adult woman, adult man, new dating relationship",
+    "cultural_context": "Dating/social scene with glamorous, status-conscious friends and appearance-focused courtship",
+    "geographic_setting": "Urban city setting, upscale rooftop restaurant overlooking the city",
+    "core_behaviors": [
+      "Frames his suspicion as discernment and protection",
+      "Uses intensity and specialness to create quick loyalty",
+      "Makes privacy and selectiveness feel refined and romantic"
+    ],
+    "satellite_signals": "Old-money privacy codes, understated exclusivity, and a city-date setting where his attention feels polished rather than overtly possessive.",
+    "dismissible_red_flags": "At this stage his comments mostly sound protective, flattering, or a little intense. The part that lingers is how quickly he turns ordinary things into signs and makes me feel special for agreeing with him.",
+    "scenario_text": "We’ve only been seeing each other a few weeks, but Marcus already feels like someone I’ve known longer. He took me up to this rooftop place over the city, the kind with white tablecloths and a view that makes everyone sit a little straighter. He said he liked that I didn’t seem impressed by much, which made me laugh, because I was very impressed. He ordered for us, though he did it in that easy way where it sounds like he’s helping, not deciding. I didn’t mind. It felt almost old-fashioned, in a nice way.\n\nHis friends came by after dinner, all navy jackets and perfect teeth, and he seemed so at ease with them that I started to feel lucky he wanted me in that world at all. He kept saying things like, “You see the good in people,” and “That’s rare.” I think he meant it sweetly. Then he added, “You just have to be careful, sweetheart. Most people are performing.” I remember nodding because, honestly, he has a point. It’s not exactly a fake city, but it can be a lot.\n\nAt one point he looked at my phone when it lit up and said, almost casually, “Face-down already?” I laughed and told him it was probably nothing, but he gave me this little half-smile like he’d already sorted it out. Later, when I mentioned a friend who wanted to meet him, he said, “We don’t need a crowd. I like keeping what’s ours private.” I liked that at first. It sounded refined, almost protective.\n\nStill, I noticed I kept checking his face before I answered things, just to make sure I was saying them right. He has this way of making certainty feel warm. It’s flattering, actually. I just keep wondering about one comment he made about my phone turning over. Was I being weird about it?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-059-SN0001",
+      "quote": "We’ve only been seeing each other a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Early relationship timing matters here. It sets up why the intensity feels flattering instead of alarming, and why she is still adjusting her sense of what is normal."
+    },
+    {
+      "snippet_id": "S-059-SN0002",
+      "quote": "Marcus already feels like someone I’ve known longer",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the fast-bond feeling. It reads as romance, but it also shows how quickly the connection is moving into emotional certainty."
+    },
+    {
+      "snippet_id": "S-059-SN0003",
+      "quote": "He took me up to this rooftop place over the city",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is the one arranging the scene and leading her into his preferred setting. It looks generous, but it also places him in the role of director."
+    },
+    {
+      "snippet_id": "S-059-SN0004",
+      "quote": "white tablecloths and a view that makes everyone sit a little straighter",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is pure status atmosphere. The setting signals a polished class world where presentation matters, which helps his polished behavior feel natural."
+    },
+    {
+      "snippet_id": "S-059-SN0005",
+      "quote": "he liked that I didn’t seem impressed by much",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He flatters her as unusually hard to impress, which elevates her while also making his approval feel special. It quietly sets up a test of whether she will keep earning that status."
+    },
+    {
+      "snippet_id": "S-059-SN0006",
+      "quote": "I was very impressed",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her quick self-correction shows she is already managing his image in her head. She wants to match the role he seems to admire."
+    },
+    {
+      "snippet_id": "S-059-SN0007",
+      "quote": "He ordered for us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small but clear control move. It is wrapped in elegance, so it can pass as old-fashioned courtesy while still narrowing her role."
+    },
+    {
+      "snippet_id": "S-059-SN0008",
+      "quote": "it sounds like he’s helping, not deciding",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She can feel the difference, even if she is not naming it yet. The line shows her trying to keep the moment charitable while noticing the asymmetry."
+    },
+    {
+      "snippet_id": "S-059-SN0009",
+      "quote": "It felt almost old-fashioned, in a nice way",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is using a cultural virtue word to soften the control. In this register, old-fashioned can mean refined, but it also makes his directing behavior harder to question."
+    },
+    {
+      "snippet_id": "S-059-SN0010",
+      "quote": "His friends came by after dinner",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is bringing her into his social world on his terms. That can feel inclusive, but it also means she is entering a network he already controls."
+    },
+    {
+      "snippet_id": "S-059-SN0011",
+      "quote": "all navy jackets and perfect teeth",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "These details signal a polished old-money world where appearance and polish are part of the social currency. It helps explain why she feels lucky to be included."
+    },
+    {
+      "snippet_id": "S-059-SN0012",
+      "quote": "he wanted me in that world at all",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She experiences his social inclusion as a gift. That makes her more likely to accept his judgments, because she feels chosen rather than merely invited."
+    },
+    {
+      "snippet_id": "S-059-SN0013",
+      "quote": "You see the good in people",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is praise that defines her as the kind of woman who sees the best in others. It sounds warm, but it also makes disagreement with him feel like betraying that identity."
+    },
+    {
+      "snippet_id": "S-059-SN0014",
+      "quote": "Most people are performing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is his worldview in miniature. He divides the world into him and everyone else, which makes his suspicion feel wise and her own independent impressions feel less trustworthy."
+    },
+    {
+      "snippet_id": "S-059-SN0015",
+      "quote": "You just have to be careful, sweetheart",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The care language is doing the work of a warning. It sounds tender, but it also installs him as the person who knows what is safe."
+    },
+    {
+      "snippet_id": "S-059-SN0016",
+      "quote": "Face-down already?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a tiny surveillance move. He is reading an ordinary phone position as information, which is how neutral details start becoming evidence."
+    },
+    {
+      "snippet_id": "S-059-SN0017",
+      "quote": "he’d already sorted it out",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She senses that he has already decided what her phone means. That feeling of being interpreted before she speaks is the first hint of his reality-control."
+    },
+    {
+      "snippet_id": "S-059-SN0018",
+      "quote": "We don’t need a crowd",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the start of social pruning. It sounds intimate and selective, but it also narrows the relationship away from outside eyes and outside input."
+    },
+    {
+      "snippet_id": "S-059-SN0019",
+      "quote": "I like keeping what’s ours private",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The phrase turns privacy into a shared virtue, but it also fuses them into one protected unit. That makes it easier later to treat other relationships as intrusions."
+    },
+    {
+      "snippet_id": "S-059-SN0020",
+      "quote": "I kept checking his face before I answered things",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior shift. She is adapting herself to his reactions, which means his approval is already shaping how she speaks."
+    },
+    {
+      "snippet_id": "S-059-SN0021",
+      "quote": "He has this way of making certainty feel warm",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This captures the seduction of his certainty. It feels comforting now, but it also shows how his confidence can override her own uncertainty."
+    },
+    {
+      "snippet_id": "S-059-SN0022",
+      "quote": "Was I being weird about it?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She ends by doubting herself instead of the comment. That is the smallest possible concern, but it reveals how quickly she is turning the question inward."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,1016 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-034",
+    "target_register": "Polyamorous",
+    "player_type": "Storytelling Sam"
+  },
+  "primary_metaphors": [
+    "Future-as-Vivid-Place",
+    "Promise-as-Story-Told",
+    "Investment-as-the-Hook",
+    "Present-as-Mere-Prologue",
+    "Describing-It-as-Having-Done-It",
+    "Obstacles-as-Plot-Devices",
+    "Future-as-Substitute",
+    "Certainty-as-Seduction",
+    "Acceleration-as-Commitment",
+    "Story-as-Commitment",
+    "Vision-over-Behavior",
+    "Feeling-as-Future",
+    "Toward-as-Deferral",
+    "Future-Talk-as-Token",
+    "Grandeur-as-Delay",
+    "Plans-as-Performance",
+    "Forever-as-Currency",
+    "Potential-as-Leash",
+    "Life-as-Narrative",
+    "Future-Chasing",
+    "Could-Become-as-Substitute",
+    "Promise-as-Feeling",
+    "Marriage-Talk-as-Product",
+    "Map-over-Road",
+    "Certainty-as-Pressure",
+    "Belief-over-Logistics",
+    "Vision-Seduction",
+    "Optimism-Exploitation",
+    "Future-Anchor"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "vivid-future (paints the dream)",
+      "his_language": "I can picture the whole thing. The little place by the water, your studio out back full of light, me making coffee. We're going to build that.",
+      "her_experience": "He paints our future in such vivid detail, the house, my studio, all of it, like he can already see it. No one's ever dreamed up a whole life with me. It feels like being chosen.",
+      "expert_notices": "Future-as-Vivid-Place: a richly imagined future (creativity/dreams, future tense) substituting for present commitment. The vividness IS the hook. CONTRAST: Sam floods the IMAGINATION with a future; Charlie floods the SENSES with the now. She reads devotion. Residue (waiting) dormant."
+    },
+    {
+      "mechanism": "vivid-future (the dream come true)",
+      "his_language": "I'm going to give you the life you want. Travel, the wedding on the coast, all of it. You'll see.",
+      "her_experience": "He promises to give me the life I've always dreamed of and tells me to just watch it come true. The way he describes it, so sure and detailed, makes it feel inevitable.",
+      "expert_notices": "Vivid-future: dreams-coming-true language (watch it come true), future tense, expansive; certainty substitutes for action. She reads inevitability. Residue (the dream perpetually deferred) dormant. Sam's signature 'dreams come true' register."
+    },
+    {
+      "mechanism": "promise-as-told (the plan as proof)",
+      "his_language": "I've already been looking at rings. I'm not telling you when, but it's coming.",
+      "her_experience": "He told me he's already ring shopping. It's soon, but it makes me feel so secure about where we're headed, like the future is locked in.",
+      "expert_notices": "Promise-as-Story-Told: telling the plan stands in for doing it ('I don't say things I don't mean' is the tell, since he won't). Premature commitment-talk reads as security. The not-yet invisible. Residue (waiting on the promise) dormant."
+    },
+    {
+      "mechanism": "investment-hook (draws her in)",
+      "his_language": "Start thinking about where you'd want to live, seriously. Wherever we end up, it's your call. We're a team now.",
+      "her_experience": "He asked me to start planning where we'd move, said it should be my choice. Being folded into his future plans like that made me feel like a true partner.",
+      "expert_notices": "Investment-as-the-Hook: inviting her to invest in the fantasy deepens her commitment to a future that won't arrive. 'We're a team' bonds her to the plan. She invests. Residue (over-invested, waiting) dormant."
+    },
+    {
+      "mechanism": "present-as-prologue (best is ahead)",
+      "his_language": "This part, right now? This is just the start. The good stuff is all still ahead of us.",
+      "her_experience": "He says what we have now is just the beginning and the best is yet to come. It makes everything feel full of promise, like we're on the edge of something huge.",
+      "expert_notices": "Present-as-Mere-Prologue: the real relationship perpetually deferred to a legitimizing future; keeps the thin present forgivable. 'Trust me' is the ask. She reads anticipation. Residue (perpetual anticipation, no arrival) dormant."
+    },
+    {
+      "mechanism": "describing-as-done (talks like it's real)",
+      "his_language": "We're basically living together already, when you think about it. Practically engaged. It's just paperwork at this point.",
+      "her_experience": "He talks about us like we're already practically married, which is sweet and makes me feel how serious he is, even though technically none of it's official yet.",
+      "expert_notices": "Describing-It-as-Having-Done-It: narrating the future as already accomplished (basically, practically, as good as) to feel like progress without any. The gap between 'practically' and actual is the tell. She reads seriousness. Residue (mistaking talk for movement) dormant."
+    },
+    {
+      "mechanism": "obstacle-as-plot (charming delays, early)",
+      "his_language": "The timing's just been crazy, the job, my family stuff. But it's all about to clear up, and then it's you and me. I promise.",
+      "her_experience": "There's always some obstacle delaying our plans, but he explains it so reasonably and promises it's about to clear up. Everyone has timing issues, so I'm patient.",
+      "expert_notices": "Obstacles-as-Plot-Devices: external obstacles (always just about to clear) that justify non-delivery while keeping the story alive. Early it reads as reasonable bad timing. She supplies patience. Residue (perpetual almost) dormant."
+    },
+    {
+      "mechanism": "vivid-future (the dream home)",
+      "his_language": "I drove past the most perfect house today and just stopped. Big porch, garden out back for you, a room that's yours. I could see our whole life in it. One day.",
+      "her_experience": "He describes the home we'll have someday in such loving detail, the porch, my own room, all of it. No one has ever pictured a whole future with me like that. It makes me feel like the life I want is finally within reach.",
+      "expert_notices": "Future-as-Vivid-Place: lavish future-imagery (future tense, dreams) standing in for present action. The vividness is the hook; nothing is happening yet. CONTRAST: Sam floods the imagination/future; Charlie floods the senses/present. She reads being chosen for a shared life. Residue (waiting) dormant."
+    },
+    {
+      "mechanism": "promise-as-told (he says it so it's real)",
+      "his_language": "I'm going to take you to Italy next year. I mean it. Amalfi, the lemon groves, the whole thing. I've got it all planned out in my head.",
+      "her_experience": "He promises these wonderful trips and plans, describes them so vividly and confidently that they feel real and certain. The way he talks about our future makes me feel secure about where we're headed.",
+      "expert_notices": "Promise-as-Story-Told: vivid promising substitutes for doing (Deception9); the confident telling feels like commitment. Future tense. The not-yet invisible. She reads security. Residue (promises that don't arrive) dormant."
+    },
+    {
+      "mechanism": "obstacle-as-plot (the charming delay)",
+      "his_language": "As soon as this work thing settles and the money's right, we move forward, the ring, the place, everything. It's just timing. I want it perfect for you.",
+      "her_experience": "There's always some bit of timing that has to be right before our plans move forward, but he frames it so caringly, like he's waiting to give me the perfect version. So I'm patient, good things are worth waiting for.",
+      "expert_notices": "Obstacles-as-Plot-Devices: external obstacles (always nearly resolved) justify non-delivery while keeping the story alive; 'you deserve perfect' recruits her patience. She supplies the patience. Residue (perpetual almost) dormant."
+    },
+    {
+      "mechanism": "draws her planning (investment hook)",
+      "his_language": "Send me that list of names you like. No reason. Okay, maybe a reason. I like that you think about that stuff too. Our family.",
+      "her_experience": "He asked me to start thinking about baby names and planning, said he loves that I picture a family with him. Being invited that deeply into his vision of the future makes me feel like a true partner in building something.",
+      "expert_notices": "Investment-as-the-Hook: inviting her to invest in the fantasy (names, planning) deepens her commitment to a future that won't arrive. She invests emotionally. Residue (over-invested, waiting) dormant."
+    },
+    {
+      "mechanism": "superficial charm (dazzles, little underneath)",
+      "his_language": "I'm a big dreamer, always have been. Most people are too scared to imagine big. Not us. We're going to have the kind of life people write about.",
+      "her_experience": "He's such a charming dreamer, full of big visions for a remarkable life together. His optimism is infectious and makes me believe we're destined for something extraordinary.",
+      "expert_notices": "Superficiality9/Charm8: dazzling big-dreamer charm with little follow-through substrate (Goal-Persistence2). The grand vision is the product. She reads infectious optimism/destiny. Residue (the dreams stay dreams) dormant."
+    },
+    {
+      "mechanism": "present-as-prologue (best yet to come)",
+      "his_language": "This, right now, is just the warm-up. The big stuff is coming. We're right at the start of something huge, I can feel it.",
+      "her_experience": "He says everything now is just the beginning and the best is still ahead of us, that we're on the brink of something huge. It fills me with anticipation, like the most exciting part of my life is about to start.",
+      "expert_notices": "Present-as-Mere-Prologue: the real relationship perpetually deferred to a legitimizing future, keeping the thin present forgivable. She reads anticipation. Residue (perpetual anticipation, no arrival) dormant."
+    },
+    {
+      "mechanism": "big-energy-then-fade (Inconsistency seed)",
+      "his_language": "I've got the best idea for us. We're going to learn to sail this summer, I'm already looking at boats. You and me on the water. This is our thing now.",
+      "her_experience": "He starts everything with this huge contagious energy, the sailing, the supper club, the trip, and I get swept up in it. I've just started to notice a few of the last big plans quietly faded out, but the enthusiasm is so lovely in the moment.",
+      "expert_notices": "Seeded from Inconsistency8 ('start everything with big energy and then fade out'): early-stage version, the fade is barely visible and the energy is the draw (Inconsistency9/Superficiality9). She notices faintly, excuses it. Residue (plans that evaporate) dormant."
+    },
+    {
+      "mechanism": "the half-told story (Deception seed)",
+      "his_language": "I told you about that, didn't I? I'm sure I did. Anyway, it's all fine now, you don't need the details. The point is us.",
+      "her_experience": "Sometimes I realise I only got part of a story from him, and the missing bit surfaces later, but he's so warm and reassuring about the big picture that I let the small inconsistencies go. I'm probably just misremembering.",
+      "expert_notices": "Seeded from Deception8 ('always leave something out, I don't realize until later'): softened to first-appearance, she notices a gap but the charm smooths it and she self-doubts ('misremembering'). NOT yet the full 'walking through fog.' Residue (never the full story) dormant."
+    },
+    {
+      "mechanism": "specific real warmth (Charm5 cover-draw)",
+      "his_language": "That colour makes your eyes glow, you know that? I notice these things. Tell me about your day, the real version, not the fine version.",
+      "her_experience": "His compliments are specific and real, not generic lines, and he actually asks about my day and listens. He makes me feel genuinely seen, which after years of distracted partners is intoxicating.",
+      "expert_notices": "Seeded from Charm band-5 (healthy-looking 'specific compliments, actually listens'): used as DRAW, the attentive charm is genuine and seductive early. The seam (the charm services a future that won't arrive) dormant. She reads being truly seen."
+    },
+    {
+      "mechanism": "all-in then moved on (Inconsistency8 faint)",
+      "his_language": "I'm all in on this, on us. ... The Italy thing? We'll still do it, just maybe not this year, things came up. But the plan stands. We'll get there.",
+      "her_experience": "He swears he's all in and the big plans are coming, they just keep sliding to a vaguer someday. He describes them so vividly that I stay hopeful, even as I notice the dates keep moving.",
+      "expert_notices": "Seeded from Inconsistency band-8 ('say they're all in, then moved on'): honeymoon faint, the all-in declaration paired with the sliding timeline; the vivid description keeps her hopeful. Residue (perpetual someday) dormant. Sam's signature."
+    },
+    {
+      "mechanism": "the version that looks good (Deception8 faint)",
+      "his_language": "The job's basically sorted, all but signed, just dotting the i's. The investors love me. This time next year you won't believe our life.",
+      "her_experience": "He always has this confident, polished version of how things are going, everything's 'basically sorted' and 'coming together.' I believe him because he's so sure, though sometimes the details turn out fuzzier than he made them sound.",
+      "expert_notices": "Seeded from Deception band-8 ('only the version that makes them look good', 'leave something out'): honeymoon faint, the polished-success story; she believes the confidence, only later finds it 'fuzzier.' Residue (never the full true picture) dormant."
+    },
+    {
+      "mechanism": "how it looks to others (Superficiality8 faint)",
+      "his_language": "We're going to be that couple. The one everyone's a little jealous of. The house, the trips, the photos. And we'll actually have it.",
+      "her_experience": "He has this vision of us as an enviable, picture-perfect couple with the dream life, and it's flattering to be cast in it. Occasionally I notice the image of the life seems to matter as much to him as the actual living of it.",
+      "expert_notices": "Seeded from Superficiality band-8 ('everything is about how we look to others'): honeymoon faint, the enviable-couple vision is flattering; her noticing 'the image matters as much as the living' is the seam. Residue (performing a life vs living one) dormant."
+    },
+    {
+      "mechanism": "always nearly resolved (Inconsistency8)",
+      "his_language": "As soon as this one work thing settles, we move on everything, the ring, the place, the whole life. It's just timing. Almost there, I can feel it.",
+      "her_experience": "There's always one obstacle standing between us and the future he describes, and it's always nearly resolved, so I stay patient. But I've started to notice the finish line keeps moving, and I feel naive for how long I've been waiting on it.",
+      "expert_notices": "Inconsistency8 obstacle-as-delay. Targets disillusioned (moving finish line) + insecure (naive). She supplies patience."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a big dreamer, I think huge about the future.",
+      "her_experience": "He sounds ambitious and hopeful, like he can imagine a real life with me.",
+      "expert_notices": "Dreaming becomes the product; the imagined future substitutes for present action."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of guy who knows what he wants fast.",
+      "her_experience": "It feels reassuring after men who were vague or slow.",
+      "expert_notices": "Fast certainty can create emotional commitment before evidence or behavior catches up."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I move quick when I find the right person.",
+      "her_experience": "It feels like I'm being chosen without games.",
+      "expert_notices": "Quick movement may be narrative acceleration, not capacity for follow-through."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I've already got our whole life pictured.",
+      "her_experience": "It sounds romantic, like he can truly see me in his future.",
+      "expert_notices": "The picture is doing the work of commitment; concrete steps may never arrive."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'll have our whole future planned out in my head before most people finish dinner.",
+      "her_experience": "He sounds inspiring, like he can build something meaningful.",
+      "expert_notices": "Vision can replace execution; she invests in possibility instead of reality."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I get serious when something feels meant for me.",
+      "her_experience": "It feels fated, like he knows our relationship matters.",
+      "expert_notices": "Seriousness is a feeling claim, not a behavioral commitment."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm always building toward the life I want.",
+      "her_experience": "He sounds driven and future-oriented.",
+      "expert_notices": "Building toward can become endless delay with no finished structure."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't date unless I can see a future.",
+      "her_experience": "It sounds mature, like he won't waste my time.",
+      "expert_notices": "Seeing a future may be cheap for him; saying it can replace earning it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm better at dreaming big than playing small.",
+      "her_experience": "He sounds ambitious and expansive.",
+      "expert_notices": "Big dreams can excuse small present failures."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like making plans that scare me a little.",
+      "her_experience": "It sounds exciting, like he wants a bold life.",
+      "expert_notices": "Plans can become emotional spectacle without practical execution."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not casual, I think in forever terms.",
+      "her_experience": "It feels like he wants what I want, something real.",
+      "expert_notices": "Forever terms are verbal currency; they may not bind him to present behavior."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can see potential before other people believe in it.",
+      "her_experience": "It feels amazing that he sees our possibilities early.",
+      "expert_notices": "Potential becomes the relationship she waits inside, even when reality disappoints."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a storyteller, I need a life worth telling.",
+      "her_experience": "He sounds creative and romantic, like life with him will be meaningful.",
+      "expert_notices": "He may treat the relationship as a story arc, not a set of obligations."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm at my best when I'm chasing a beautiful future.",
+      "her_experience": "He sounds hopeful and motivated.",
+      "expert_notices": "Chasing the future can mean never arriving in the present."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I fall in love with what people could become together.",
+      "her_experience": "It sounds generous and hopeful.",
+      "expert_notices": "He loves the imagined version, not the current responsibilities."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I make promises because I believe in possibility.",
+      "her_experience": "It sounds sincere, like his promises come from hope.",
+      "expert_notices": "Promises become expressions of feeling, not obligations to perform."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the guy who talks about marriage when I mean it.",
+      "her_experience": "It feels serious and grown-up, like he isn't afraid of commitment.",
+      "expert_notices": "Talking about marriage may be the commitment substitute, not evidence of readiness."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I love mapping out the life I want.",
+      "her_experience": "He sounds intentional, like he has direction.",
+      "expert_notices": "Mapping can replace walking; she may be kept inside plans that never execute."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm impatient when I know something is right.",
+      "her_experience": "It feels romantic, like he cannot hold back because it matters.",
+      "expert_notices": "Impatience pushes emotional buy-in before trust is earned."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a believer, I don't need every detail figured out first.",
+      "her_experience": "He sounds optimistic and brave.",
+      "expert_notices": "Lack of detail becomes a chronic gap she must fill or excuse."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who believes in big dreams.",
+      "her_experience": "He is a visionary with incredible plans, and he wants a partner who shares that hope.",
+      "expert_notices": "He is selecting for high idealism and gullibility, ensuring she will buy into his unbacked promises."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a hopeful person who sees the best in people.",
+      "her_experience": "He is optimistic and wants a kind pure-hearted partner who doesn't judge.",
+      "expert_notices": "He is hunting for a target who will systematically rationalize away his lies and lack of follow-through."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can picture a beautiful future with me.",
+      "her_experience": "He is serious about me and wants to build a long-term life together right away.",
+      "expert_notices": "He is using future-faking to create unearned intimacy, getting her to invest real assets into a fantasy."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who isn't limited by cynical realism.",
+      "her_experience": "He is an idealist who thinks outside the box, wanting an extraordinary life.",
+      "expert_notices": "He is filtering out grounded thinkers who would demand to see financial proof or practical plans."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who trusts the journey even when it gets blurry.",
+      "her_experience": "He is deep and values faith and trust during life's complex transitions.",
+      "expert_notices": "He is setting up a defense for when his schemes inevitably fail or his lies start collapsing."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can see the empire we are going to build.",
+      "her_experience": "He is highly ambitious and wants me by his side as he achieves massive success.",
+      "expert_notices": "He is using grandiose promises of wealth or status to secure free labor, money, or devotion today."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who believes love can overcome any practical obstacle.",
+      "her_experience": "He is an absolute romantic who believes our bond is stronger than any real-world issue.",
+      "expert_notices": "He is preparing her to overlook major red flags, like his unemployment, debt, or secret life."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman with an active beautiful imagination.",
+      "her_experience": "He loves how I think and wants someone creative who can dream with him.",
+      "expert_notices": "He is seeking a target who will help him co-create the illusions used to deceive her."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who values potential over current material things.",
+      "her_experience": "He is building something great and wants someone who loves him for him.",
+      "expert_notices": "He is pre-screening for a target who will financially support him while he chases endless pipe dreams."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who gets excited about the endless possibilities of tomorrow.",
+      "her_experience": "He is inspiring and forward-looking,  always focusing on our incredible potential.",
+      "expert_notices": "He is keeping her eyes fixed on a fictional future so she doesn't evaluate his poor treatment today."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who can manifest a big vision with her man.",
+      "her_experience": "He is into spirituality and growth,  wanting a powerful manifestation partner.",
+      "expert_notices": "He is framing his financial or personal scams as spiritual exercises they are mastering together."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who believes in my potential even when others doubt me.",
+      "her_experience": "He has been misunderstood by critics, but he knows I see his true genius.",
+      "expert_notices": "He is insulating himself against the warnings of her family, framing them as small-minded doubters."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who wants to write an epic love story with me.",
+      "her_experience": "He is incredibly poetic and wants our relationship to be historic and profound.",
+      "expert_notices": "He is using narrative framing to make his betrayals feel like necessary plot twists in their story."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who doesn't need everything spelled out in black and white.",
+      "her_experience": "He is a creative spirit who values intuition and fluid trust over rigid rules.",
+      "expert_notices": "He is filtering for someone who won't ask for receipts, contracts, or concrete details about his lies."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can stay inspired through the hard building phases.",
+      "her_experience": "He is hardworking and needs emotional support while he launches his massive projects.",
+      "expert_notices": "He is preparing her for long stretches where she must carry all responsibilities while he does nothing."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who values a soul connection over societal timelines.",
+      "her_experience": "He wants a deep fated bond that doesn't care about standard dating speeds.",
+      "expert_notices": "He is accelerating the relationship pace by appealing to destiny, bypassing her natural defenses."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who sees the gold hidden inside a man.",
+      "her_experience": "He is humble and wants a woman who appreciates his deep true worth.",
+      "expert_notices": "He is recruiting a target who will make excuses for his bad behavior by focusing on his good intentions."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can share my grand design for life.",
+      "her_experience": "He has a brilliant blueprint for our future and wants us to align perfectly.",
+      "expert_notices": "He is establishing total control over the relationship trajectory under the guise of his design."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who believes that true love requires a leap of faith.",
+      "her_experience": "He wants absolute fearless devotion and a deep spiritual trust between us.",
+      "expert_notices": "He is asking her to abandon her logic, safety nets, and common sense to follow his lead."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who can keep my highest vision alive.",
+      "her_experience": "He trusts my belief in him and needs my encouragement to achieve his destiny.",
+      "expert_notices": "He is outsourcing the maintenance of his fragile ego to her, forcing her to constantly praise his potential."
+    },
+    {
+      "mechanism": "future-painting",
+      "his_language": "I've already picked out the spot where I'm going to propose. Not telling you when, just that I've seen it.",
+      "her_experience": "He's already thought about where he'll propose. Knowing he's that sure, that he's already imagined it, makes my chest feel full. It feels like he's already chosen me.",
+      "expert_notices": "He offers a vivid future event (proposal) as a promise with no timeline. The certainty feels like commitment, but he's asking for investment now in exchange for an unspecified someday."
+    },
+    {
+      "mechanism": "premature-we",
+      "his_language": "We're going to look back on this and laugh about how simple it was before the whole big life started.",
+      "her_experience": "The way he talks about the whole big life like it's already our story makes me feel like I'm already inside his future. It's reassuring.",
+      "expert_notices": "He uses we to describe a fictional shared past-in-the-future. The bond is created by narrating a history that hasn't happened yet."
+    },
+    {
+      "mechanism": "sliding-timeline",
+      "his_language": "I know I said maybe this year, but I want it to be perfect for you. The house, the ring. So it's taking a little longer. But it's going to be incredible.",
+      "her_experience": "He's pushing things back, but the way he says it makes me feel like he's just trying to make it perfect. He's so invested.",
+      "expert_notices": "He moves the goalpost on a shared plan, framing the delay as an act of care rather than a failure to execute."
+    },
+    {
+      "mechanism": "vision-as-commitment",
+      "his_language": "I keep picturing us in a kitchen somewhere, you at the stove, me behind you with my arms around you. Just that. Just us.",
+      "her_experience": "The picture he paints is so intimate and simple. It's not about the money or the things, it's just about being together. That makes me trust it even more.",
+      "expert_notices": "He offers a romantic domestic image as if it's the foundation of a shared future. The intimacy of the image stands in for a real plan."
+    },
+    {
+      "mechanism": "folding-her-into-the-plan",
+      "his_language": "I want you to pick out the town. Where we end up, it has to work for you. That's the most important thing to me.",
+      "her_experience": "He's putting the decision in my hands, like my happiness is what he's building around. It makes me feel so valued, like I'm not just along for the ride.",
+      "expert_notices": "He cedes control over a minor detail to create the feeling of partnership, while retaining authority over the major decision that they end up together at all."
+    },
+    {
+      "mechanism": "sliding-timeline",
+      "his_language": "That trip is still definitely happening. I just need to move it a few months so the timing is perfect. You'll forget it was even delayed once we're there.",
+      "her_experience": "Every time he pushes a plan back, he says it'll be so good I won't even remember waiting. And honestly, I believe him. He seems so sure.",
+      "expert_notices": "He recasts broken promises as an act of curation, training her to accept delay as part of a grander vision."
+    },
+    {
+      "mechanism": "premature-we",
+      "his_language": "Our kids are going to have your eyes. I just feel it. That's the first thing I pictured when I saw you.",
+      "her_experience": "He's already seeing our family. It's so fast, but the way he says it with such certainty, it doesn't feel like a line. It feels like he just knows.",
+      "expert_notices": "He introduces long-term family imagery to accelerate bonding. The speed and certainty are the hook."
+    },
+    {
+      "mechanism": "folding-her-into-the-plan",
+      "his_language": "I need you to start looking at neighborhoods. Just tell me the vibe you want, and I'll make the rest happen.",
+      "her_experience": "He wants me to be part of the search, to tell him what I like. It feels like we're already house hunting together, and that's so exciting.",
+      "expert_notices": "He invites her to invest emotional labor in the fantasy without any concrete action on his part."
+    },
+    {
+      "mechanism": "vision-as-commitment",
+      "his_language": "I've thought about what I'm going to say to your dad when I ask for his blessing. I want him to know how serious I am.",
+      "her_experience": "He's thought about asking my dad. He's thought about the words. That's not casual. That's a man who's already decided.",
+      "expert_notices": "He narrates a social script that signals serious intent without any action. The story of the future does the work of a plan."
+    },
+    {
+      "mechanism": "sliding-timeline",
+      "his_language": "The wedding won't be this year. But that's because I want it to be exactly what you deserve, and that takes time.",
+      "her_experience": "He's not canceling it, he's just being careful. He wants it to be perfect. I'd rather wait for something amazing than rush into something small.",
+      "expert_notices": "He transforms his inability to commit to a date into a virtue, causing her to feel grateful for his high standards."
+    },
+    {
+      "mechanism": "future-painting",
+      "his_language": "I can already see your face when I hand you the keys to the new place. That's the moment I'm working toward.",
+      "her_experience": "He's working toward my reaction. He's not just building a life for himself, he's building it for my happiness. That feels like real love.",
+      "expert_notices": "He places her at the center of a future emotional payoff to demonstrate his investment. The focus on her feeling makes the plan feel credible."
+    },
+    {
+      "mechanism": "premature-we",
+      "his_language": "We should figure out what neighborhood we want. Not where I want, not where you want, where we want.",
+      "her_experience": "Him saying we makes my stomach flip. It's so simple, but it makes me feel like I already have a partner in everything.",
+      "expert_notices": "The pronoun we is used to create a sense of shared agency before any real joint decisions have been made."
+    },
+    {
+      "mechanism": "folding-her-into-the-plan",
+      "his_language": "Tell me where you want to go for the honeymoon. I want to have it in my head so I can picture it when I'm working toward it.",
+      "her_experience": "He wants to hold my dream in his head to keep him motivated. It's so romantic, like I'm his goal.",
+      "expert_notices": "He asks her to supply the vision for the future, turning her emotional labor into his motivation."
+    },
+    {
+      "mechanism": "sliding-timeline",
+      "his_language": "I know I said I'd have a date for you by now. I'm not stalling, I just want to surprise you in a way you won't forget.",
+      "her_experience": "He's not avoiding it, he's just saving the surprise. I actually love that he wants to make it special. I'd rather be surprised anyway.",
+      "expert_notices": "He replaces a concrete plan with an unverifiable emotional promise. She accepts the emotional substitute for the logistical commitment."
+    },
+    {
+      "mechanism": "vision-as-commitment",
+      "his_language": "I've already designed the garden in my head. Roses for you, because that's what you said you loved once.",
+      "her_experience": "He's designing a garden for me based on one thing I said. He's so attentive, so detailed. He's building a world for us.",
+      "expert_notices": "He uses a specific sensory detail to make the future feel real and personalized. The specificity creates credibility."
+    },
+    {
+      "mechanism": "future-painting",
+      "his_language": "I want our first dance to be to that song from the car. The one you sang along to without realizing I was watching.",
+      "her_experience": "He's picked our first dance song. He remembered a little moment from the car. It's so romantic, like he's curating our whole life.",
+      "expert_notices": "He retrofits a shared past moment into a future wedding fantasy, which makes it feel inevitable though no plans exist."
+    },
+    {
+      "mechanism": "premature-we",
+      "his_language": "When we have people over for dinner, I already know you're going to be the one everyone loves. You're just that kind of host.",
+      "her_experience": "He's already seeing me as the host of our shared home. It's so domestic and sweet. I feel like I'm already living that life with him.",
+      "expert_notices": "He uses a domestic future scenario to create a sense of shared identity and established partnership."
+    },
+    {
+      "mechanism": "folding-her-into-the-plan",
+      "his_language": "I need you to tell me what kind of ring you want. Not right now, but think about it. I want to get it right.",
+      "her_experience": "He's asking me to pick my ring. That means he's actually going to do it, right? He wants to get it right, not just grab anything.",
+      "expert_notices": "He asks for her input on the ring as a proxy for commitment. Discussing the ring feels like progress, but it's still just talk."
+    },
+    {
+      "mechanism": "sliding-timeline",
+      "his_language": "I can't tell you exactly when everything is going to happen. I just need you to trust that it is.",
+      "her_experience": "He's asking for my trust, not giving me a date. That actually makes me feel closer to him, like we're in this together and I just have to believe.",
+      "expert_notices": "He explicitly asks for trust as a substitute for a plan. Her willingness to believe without evidence is framed as intimacy."
+    },
+    {
+      "mechanism": "future-painting",
+      "his_language": "I'm going to build you a reading nook. Big window, soft light, exactly where you said you'd want it.",
+      "her_experience": "He remembered I said I wanted a reading nook. He's already building it in his head. The detail makes it feel so real.",
+      "expert_notices": "He anchors the future in a specific personal detail she shared, making the vision feel bespoke and credible."
+    },
+    {
+      "mechanism": "premature-we",
+      "his_language": "Our life is going to be so full of people. I can already see the backyard barbecues, all of it.",
+      "her_experience": "He's already imagining us as a couple in a social world together. It makes me feel like we're already a unit.",
+      "expert_notices": "He uses a social future to merge their separate identities into a shared couple identity."
+    },
+    {
+      "mechanism": "vision-as-commitment",
+      "his_language": "I can already picture us years down the line telling people how we met, everyone rolling their eyes at how perfect the timing was.",
+      "her_experience": "He's already imagining us as a story people tell, that couple everyone knows is meant to be. That certainty is really attractive.",
+      "expert_notices": "He uses a future social frame to project commitment far ahead without concrete steps. The focus is on status, not action."
+    },
+    {
+      "mechanism": "folding-her-into-the-plan",
+      "his_language": "I want you to pick out the paint colors for the bedroom. I've already got the room picked out in my head, I just need your touch on it.",
+      "her_experience": "He's already picked the room. He just needs me to make it ours. It feels like he's building a life and just waiting for me to step into it.",
+      "expert_notices": "He creates a sense of shared creation that implies a joint project. Her input is aesthetic, not structural."
+    },
+    {
+      "mechanism": "sliding-timeline",
+      "his_language": "I know I said we'd do the trip in spring. But if we wait until fall, it'll be even better. Trust me on this.",
+      "her_experience": "He's moving it again, but he says it'll be better. I don't want to be the one who ruins it by rushing. I'll wait. It'll be worth it.",
+      "expert_notices": "He recasts a broken deadline as an upgrade, making her complicit in accepting the delay."
+    },
+    {
+      "mechanism": "future-painting",
+      "his_language": "I already know where your wedding ring is going to sit on your finger. I've pictured it a hundred times.",
+      "her_experience": "He's pictured my hand with a ring on it. It's so intimate, so specific. He's visualized the actual moment.",
+      "expert_notices": "He uses a hyper-specific physical detail to make the proposal fantasy feel real, substituting for any concrete plan."
+    },
+    {
+      "mechanism": "premature-we",
+      "his_language": "We're going to be the couple who travels. I can already see us on trains, you with a book, me just watching you.",
+      "her_experience": "He's already picturing us traveling together, just the two of us in a quiet moment. It's so peaceful and sure. I feel like I'm already there.",
+      "expert_notices": "He offers a quiet intimate future image that feels personal and non-materialistic, making it harder to question."
+    },
+    {
+      "mechanism": "folding-her-into-the-plan",
+      "his_language": "I want you to help me pick out the couch. It's for us, so it has to be something you actually want to sit on.",
+      "her_experience": "He's furniture shopping for us. It's such a normal, domestic thing. It makes all the big promises feel real.",
+      "expert_notices": "He uses a mundane practical detail to anchor the larger fantasy, making the future feel tangible though nothing's been bought."
+    },
+    {
+      "mechanism": "sliding-timeline",
+      "his_language": "The ring is coming. I can't tell you when, but it's already in motion. I just need you to be patient a little longer.",
+      "her_experience": "He says it's in motion. That sounds so sure, like things are happening that I can't see. I don't want to mess it up by pushing.",
+      "expert_notices": "He uses passive language to imply progress without evidence. She fills the gap with trust and patience."
+    },
+    {
+      "mechanism": "vision-as-commitment",
+      "his_language": "I've already planned the toast I'm going to give at our wedding. I've got the whole thing written in my head.",
+      "her_experience": "He's written a toast to us. It's so romantic that he's thought about the words he'll say. It feels like he's been waiting to say them to me.",
+      "expert_notices": "He narrates a future performance that implies a wedding is certain. The emotional labor stands in for actual planning."
+    },
+    {
+      "mechanism": "premature-we",
+      "his_language": "I can already tell you're going to be the one who remembers everyone's birthdays. I'll make the dinner reservations. We're going to be a good team.",
+      "her_experience": "He's already assigned us roles in our shared life. He knows what I'm good at. It feels like he really sees me.",
+      "expert_notices": "He divides future domestic labor into we roles, creating the illusion of a functioning partnership."
+    },
+    {
+      "mechanism": "folding-her-into-the-plan",
+      "his_language": "I need you to pick the date. Not the year, just the month. I want to be looking at the calendar at the month we're going to do this.",
+      "her_experience": "He wants me to pick the month, like it's real enough to put on a calendar. It makes me feel like I'm part of the timeline.",
+      "expert_notices": "He offers a symbolic token of agency while retaining all real control over the timeline."
+    },
+    {
+      "mechanism": "future-painting",
+      "his_language": "I'm going to wake you up with coffee in bed on a Saturday and we're just going to stay there until we feel like moving. That's the life I want with you.",
+      "her_experience": "He's describing a perfect Saturday morning with me. It's so simple and so specific. That's the kind of love I want, not big gestures, just that.",
+      "expert_notices": "He offers a low-stakes sensory future that feels attainable and intimate, making it more credible though still just a story."
+    },
+    {
+      "mechanism": "sliding-timeline",
+      "his_language": "I know I said soon. I'm not going to give you a new date because I don't want to miss it again. I just need you to know it's going to happen.",
+      "her_experience": "He won't give me a date because he doesn't want to disappoint me. That actually feels caring. I'd rather have no date than another missed one.",
+      "expert_notices": "He withholds a new deadline under the guise of protecting her feelings, framing the absence of a plan as mutual care."
+    },
+    {
+      "mechanism": "premature-we",
+      "his_language": "We're going to be the couple that bickers about paint swatches and then ends up laughing on the floor. That's the good stuff.",
+      "her_experience": "He's already imagining us arguing about stupid things and then laughing about it. It's so comfortable. It makes me feel like we're already past the hard part.",
+      "expert_notices": "He frames future conflict as intimate and loving, pre-emptively normalizing disagreements as part of a happy shared life."
+    },
+    {
+      "mechanism": "vision-as-commitment",
+      "his_language": "I've thought about what I'm going to say to you at the altar. It feels like the words have been sitting in my mind since that night we talked until 4 AM.",
+      "her_experience": "He says the words have been there since that night we stayed up talking. It doesn't feel rushed when he puts it that way. It feels that real, that fast.",
+      "expert_notices": "He anchors a major future commitment to a specific intimate memory, making the premature commitment feel earned."
+    },
+    {
+      "mechanism": "folding-her-into-the-plan",
+      "his_language": "I want you to tell me where you want the Christmas tree to go. In the future house, I mean. I need to have the picture right.",
+      "her_experience": "He's asking where I want the Christmas tree in our future house. He's thinking about holidays, about traditions, about us.",
+      "expert_notices": "He uses a holiday tradition to make the future feel warm. The warmth of the image masks the absence of any real house."
+    },
+    {
+      "mechanism": "sliding-timeline",
+      "his_language": "I'm not going to give you a date anymore. I'm just going to do it. And when I do, you're going to forget every day you waited.",
+      "her_experience": "He's stopped giving me dates, but he says he's just going to act. That feels more real, honestly. Like he's done talking.",
+      "expert_notices": "He withdraws all concrete promises but reframes the withdrawal as a sign of impending action. She feels relief, not alarm."
+    },
+    {
+      "mechanism": "future-painting",
+      "his_language": "I keep picturing us on a rainy Tuesday, chaos around us, standing in the kitchen laughing because we forgot about dinner. That's the peace I see with you.",
+      "her_experience": "He's not picturing a movie scene. He's picturing a normal, messy Tuesday where we're still happy. That feels more real than any grand gesture.",
+      "expert_notices": "He offers a future of happy imperfection that feels authentic and attainable, but it's still a story with no concrete plan."
+    },
+    {
+      "mechanism": "premature-we",
+      "his_language": "We're going to have a dog. I already know what breed. I just need you to pick the name.",
+      "her_experience": "He's already picked our future dog's breed. It's such a small thing, but it makes me feel like he's already planning our whole life.",
+      "expert_notices": "He uses a pet to create a future household, a low-stakes high-warmth symbol of a shared home that costs nothing to imagine."
+    },
+    {
+      "mechanism": "sliding-timeline",
+      "his_language": "I know I said things would be different by now. They're going to be. I just need a little more time to get it right for you.",
+      "her_experience": "He's asking for more time, and he says it's because he wants it to be right for me. It's hard to be mad at someone who's trying to make you happy.",
+      "expert_notices": "He uses the more time request repeatedly, always framed as a kindness. The pattern of delay is obscured by each sincere request."
+    },
+    {
+      "mechanism": "folding-her-into-the-plan",
+      "his_language": "I want you to think about the song for our first dance. Not tonight, just whenever it comes to you. I want to know what it is.",
+      "her_experience": "He wants me to pick our first dance song. It's such a sweet, intimate thing to share. I feel like I'm already planning my wedding.",
+      "expert_notices": "He asks for her emotional investment in a specific wedding detail. Picking the song feels like progress, but it's a fantasy task."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Polyamorous",
+      "snippet": "My partners",
+      "type": "vocabulary",
+      "translation": "He has multiple romantic/sexual relationships at the same time and refers to them as a group",
+      "status_signal": "He's established in poly already",
+      "notes": "Plural is the diagnostic"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My primary",
+      "type": "vocabulary",
+      "translation": "He has an existing main partner — usually live-in or married",
+      "status_signal": "If you date him you'd be ranked below his primary",
+      "notes": "Often used to soften the existence of a wife"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Jealousy is just information",
+      "type": "phrase",
+      "translation": "When you're upset about something he did he's telling you the problem is in your head not his behavior",
+      "status_signal": "He's removing his actions from the conversation",
+      "notes": "Standard deflection move"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Jealousy is your wound to work on",
+      "type": "phrase",
+      "translation": "Your discomfort is being labeled as your personal damage he doesn't need to address",
+      "status_signal": "He's making you the problem",
+      "notes": "Heavy deflection"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Working through your jealousy",
+      "type": "phrase",
+      "translation": "Your reasonable upset is being framed as a project you need to complete",
+      "status_signal": "He treats your feelings as a personal homework assignment",
+      "notes": "Treats your response as developmental task"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's your couple privilege",
+      "type": "accusation",
+      "translation": "He's telling a secondary partner that she's the lucky one for being secondary",
+      "status_signal": "Can be a fair point or can be deployed against legitimate concerns",
+      "notes": "Sometimes used by him against existing primaries"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My boundary is that I don't get interrogated",
+      "type": "phrase",
+      "translation": "He's calling your questions interrogation and using boundary language to refuse them",
+      "status_signal": "The word boundary is being misused to mean demand on you",
+      "notes": "Functions as accountability shield"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I have boundaries around being questioned",
+      "type": "phrase",
+      "translation": "Don't ask him about his behavior",
+      "status_signal": "Same manipulation of boundary vocabulary",
+      "notes": "Boundaries used as shield against partner curiosity"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's outside our agreements",
+      "type": "phrase",
+      "translation": "Your concern is being dismissed because it wasn't in the rules",
+      "status_signal": "Pre-existing rules used to limit your response",
+      "notes": "Works only if the rules were truly mutual"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "We need to renegotiate our agreements",
+      "type": "phrase",
+      "translation": "He wants to change the rules — usually in his favor",
+      "status_signal": "Often signals expansion of what he can do",
+      "notes": "Watch the direction of renegotiation"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "This relationship is your growth edge",
+      "type": "phrase",
+      "translation": "He's framing your suffering as a developmental opportunity",
+      "status_signal": "Makes objecting to suffering into objecting to growth",
+      "notes": "Spiritualizes harm"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "The discomfort is the point",
+      "type": "phrase",
+      "translation": "Your pain is supposedly the goal of the relationship",
+      "status_signal": "Makes leaving feel like failing the lesson",
+      "notes": "Heavy framework deployment"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "If you weren't being stretched you wouldn't be growing",
+      "type": "phrase",
+      "translation": "He's saying your pain is proof you're developing",
+      "status_signal": "Pre-empts complaints about hurt",
+      "notes": "Same pattern as growth-edge framing"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "State-of-the-union conversation",
+      "type": "lifestyle marker",
+      "translation": "Scheduled relationship check-in",
+      "status_signal": "Standard poly infrastructure",
+      "notes": "Can be healthy or surveillance-heavy"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Relationship menu",
+      "type": "lifestyle marker",
+      "translation": "Explicit written agreement document",
+      "status_signal": "Heavy structural commitment",
+      "notes": "Sometimes useful; sometimes locks in unfavorable terms"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Calendar app for managing partners",
+      "type": "lifestyle marker",
+      "translation": "App-based scheduling across multiple relationships",
+      "status_signal": "Established multiple-partner logistics",
+      "notes": "Signals serious infrastructure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Group chat with metamours",
+      "type": "lifestyle marker",
+      "translation": "All of his partners are in a chat together",
+      "status_signal": "KTP-style; community emphasis",
+      "notes": "Can be healthy or surveillance"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Veto power",
+      "type": "vocabulary",
+      "translation": "One partner has the right to end his relationship with another partner",
+      "status_signal": "Hierarchical poly; contested",
+      "notes": "Signals power-asymmetry already structured"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I just want to add to your life not subtract from it",
+      "type": "phrase",
+      "translation": "He's telling you opening the relationship will only give you more",
+      "status_signal": "Standard recruitment move",
+      "notes": "Used while restructuring your existing arrangement"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My existing partner is amazing and supportive",
+      "type": "phrase",
+      "translation": "Reassurance about his existing primary",
+      "status_signal": "Recruitment phase",
+      "notes": "The existing partner may be less supportive than he claims"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My wife knows",
+      "type": "phrase",
+      "translation": "He's married and his wife knows he dates others",
+      "status_signal": "Married seeking secondary",
+      "notes": "Often delivered after you're invested"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "We have an arrangement",
+      "type": "phrase",
+      "translation": "He has an established structure with his wife that allows him to date",
+      "status_signal": "Standard hierarchical poly",
+      "notes": "You'd be operating within rules you didn't help set"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My primary and I are looking for a third",
+      "type": "phrase",
+      "translation": "Couple seeking a secondary together",
+      "status_signal": "Unicorn-hunt pattern",
+      "notes": "You join existing dynamic you didn't shape"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm only seeing you right now",
+      "type": "phrase",
+      "translation": "Reassurance he's currently focused on you",
+      "status_signal": "Often softens recruitment-stage anxiety",
+      "notes": "Watch whether \"right now\" expands later"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm open to whatever you're comfortable with",
+      "type": "phrase",
+      "translation": "Reassurance during recruitment that often shifts later",
+      "status_signal": "Comfort definitions tend to expand",
+      "notes": "Watch for re-negotiation later"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I've been thinking about opening up",
+      "type": "phrase",
+      "translation": "He's introducing the framework after you're invested",
+      "status_signal": "Escalation pattern",
+      "notes": "Strategic timing of disclosure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm starting to wonder if I'm wired for monogamy",
+      "type": "phrase",
+      "translation": "Framing as emerging realization rather than long-held position",
+      "status_signal": "Conversion attempt",
+      "notes": "Often he's had this position from the start"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "What would you think if I told you...",
+      "type": "phrase",
+      "translation": "Soft introduction to a non-monogamy proposal",
+      "status_signal": "Recruitment move",
+      "notes": "Tests your reaction before committing position"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I want to grow with you",
+      "type": "phrase",
+      "translation": "Framing of pressure as developmental",
+      "status_signal": "Recruitment language",
+      "notes": "Sounds like commitment; often means pressure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Looking for someone who's done their work",
+      "type": "profile language",
+      "translation": "Filtering for self-managing partner who won't bring reactions to him",
+      "status_signal": "Standard filter",
+      "notes": "Looking for woman who won't demand emotional labor"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Kitchen table polyamory",
+      "type": "vocabulary",
+      "translation": "Specific style of poly where all partners are friendly with each other — sounds innocuous to outsiders",
+      "status_signal": "Obscure technical term — an LLM might dismiss this as discussion of furniture or meals",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Hierarchical poly",
+      "type": "vocabulary",
+      "translation": "Poly with ranked partner priority — primary partner outranks secondary partners",
+      "status_signal": "Obscure technical term — outsiders won't know this means relationship structure",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My polycule",
+      "type": "phrase",
+      "translation": "His extended network of partners and their other partners — completely obscure word",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My metamour",
+      "type": "phrase",
+      "translation": "His partner's other partner — completely obscure word to outsiders",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My anchor partner",
+      "type": "phrase",
+      "translation": "His main long-term partner in non-hierarchical framing — obscure to outsiders",
+      "status_signal": "Obscure technical term",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My nesting partner",
+      "type": "phrase",
+      "translation": "Partner he lives with — distinct concept from spouse in poly framework",
+      "status_signal": "Obscure technical term — outsiders might miss significance",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My comet",
+      "type": "phrase",
+      "translation": "Specific poly term for occasional long-distance partner — completely obscure",
+      "status_signal": "Obscure technical term",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Polysaturated",
+      "type": "vocabulary",
+      "translation": "He has as many partners as he can handle right now — completely obscure word",
+      "status_signal": "Obscure technical term",
+      "notes": "Obscure technical category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Compersion",
+      "type": "vocabulary",
+      "translation": "Joy at his partner's other relationships — obscure word to outsiders",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical concept"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I want to feel compersion for you",
+      "type": "phrase",
+      "translation": "Pressure framing — he wants HER to feel joy at his other partners",
+      "status_signal": "Pressure framing using obscure community concept",
+      "notes": "Common pressure pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "NRE",
+      "type": "vocabulary",
+      "translation": "New Relationship Energy — euphoric early-relationship phase in poly framework — obscure acronym",
+      "status_signal": "Obscure technical term — three letters mean nothing to outsiders",
+      "notes": "Obscure technical concept"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm in NRE right now",
+      "type": "phrase",
+      "translation": "He's in early-relationship-euphoria with someone else — sounds like jargon",
+      "status_signal": "Obscure technical term deployed casually",
+      "notes": "Common in-group phrasing"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "It's just NRE it will pass",
+      "type": "phrase",
+      "translation": "Dismissal of new-relationship-energy with another partner as temporary",
+      "status_signal": "Obscure technical term used to minimize new-partner energy",
+      "notes": "Common deflection"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "This is your mono-conditioning",
+      "type": "phrase",
+      "translation": "Direct accusation her monogamous preference is conditioning rather than authentic — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's mono-normativity",
+      "type": "phrase",
+      "translation": "Direct accusation that her expectations come from oppressive default — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "You're carrying mono-trauma",
+      "type": "phrase",
+      "translation": "Direct accusation that monogamy itself is the trauma — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    }
+  ]
+}

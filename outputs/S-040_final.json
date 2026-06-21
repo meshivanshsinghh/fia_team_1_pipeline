@@ -1,0 +1,447 @@
+{
+  "scenario_id": "S-040",
+  "player_type": "Conspiratorial Corey",
+  "scenario": {
+    "scenario_id": "S-040",
+    "architecture_name": "He builds a private, hypervigilant two-person world where his certainty becomes her safety and her loyalty becomes the price of belonging.",
+    "culture": "Hustle Culture",
+    "demographics": "Woman narrator dating a 27-year-old upper-middle-class finance professional man",
+    "cultural_context": "Upper-middle-class finance / high-powered professional dating scene in an affluent Southern city",
+    "geographic_setting": "Atlanta, Georgia; specifically Buckhead and Midtown urban social settings",
+    "core_behaviors": [
+      "Moves quickly from chemistry into a private world",
+      "Frames vigilance as discernment and care",
+      "Uses intensity and certainty to make her feel chosen",
+      "Turns her trust into proof she should stay aligned"
+    ],
+    "satellite_signals": "Buckhead and Midtown social settings, finance status talk, weekend getaway planning, power-couple language, and protective attention that starts to feel like a test.",
+    "dismissible_red_flags": "His intensity reads as ambition and devotion, and his warnings about other people sound like protectiveness. The slightly heavy mood is easy to explain as him being serious, not controlling.",
+    "scenario_text": "I’m kind of still smiling about Friday, which is probably why this feels silly to ask. He picked me up after work in his Range Rover and said Buckhead traffic was a joke, so I let him drive. He was in one of those fitted black tees, all calm and locked in, and he kept saying he had a good read on people. At dinner in Midtown he clocked the guy at the next table and whispered, half joking, that he was “running an angle.” I laughed because it sounded like him, and he was so sure of himself. Later he said he doesn’t trust easy, but with me it was different, which honestly felt sweet. He also said my friends seem nice, but not everybody knows how to see me, and that he can tell when someone’s off before they even open their mouth. I know that sounds intense, but in Atlanta everybody’s performing a little, so part of me likes that he’s just honest about it. He keeps talking about us like we’re building something real, something private, and he says the less other people are in our business the better. That part made me go quiet for a second, because I do love my friends and I’m not trying to disappear. But then he kissed my forehead and said I’m too good to get dragged into other people’s noise, and I melted a little. He’s already planning a weekend away and keeps saying he’ll handle everything because he wants me to relax and stay in my lane with the things that matter. I think I’m probably overthinking one little comment, but it stuck with me. Do you think I was weird to go quiet when he said the less other people are in our business the better?"
+  },
+  "snippets": [
+    {
+      "quote": "He picked me up after work in his Range Rover",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He has the car and decides the movement. The Range Rover also places him in a specific wealth tier, which matters in this scene because it quietly sets up who leads and who follows.",
+      "snippet_id": "S-040-SN0001"
+    },
+    {
+      "quote": "Buckhead traffic was a joke",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is Buckhead finance-world status talk. It sounds casual, but it signals ease inside an affluent Atlanta bubble and helps locate the couple socially.",
+      "snippet_id": "S-040-SN0002"
+    },
+    {
+      "quote": "one of those fitted black tees",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The clothing detail is part of the polished finance look. It reads as style, but it also keeps attention on presentation and image.",
+      "snippet_id": "S-040-SN0003"
+    },
+    {
+      "quote": "all calm and locked in",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a man who is focused and steady, which is attractive in hustle culture. The same phrasing also makes his emotional tone feel contained in a way that can later become controlling.",
+      "snippet_id": "S-040-SN0004"
+    },
+    {
+      "quote": "he kept saying he had a good read on people",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Control-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Coercive Control"
+      ],
+      "reasoning": "He is advertising himself as the person who sees through everyone else. In this register that can sound savvy, but it also installs him as the authority on who is safe and who is not.",
+      "snippet_id": "S-040-SN0005"
+    },
+    {
+      "quote": "running an angle",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This phrase is conspiratorial and suspicious. It turns a neutral stranger into someone with hidden motives, which is the start of a worldview where his interpretations outrank ordinary reality.",
+      "snippet_id": "S-040-SN0006"
+    },
+    {
+      "quote": "I laughed because it sounded like him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already adjusting to his style and taking his certainty as part of his charm. That kind of easy accommodation can make later doubts feel like she is the one being difficult.",
+      "snippet_id": "S-040-SN0007"
+    },
+    {
+      "quote": "he doesn’t trust easy",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is framed as caution and depth, not paranoia. In the honeymoon phase it reads as maturity, but it sets up a relationship where trust has to be earned under his rules.",
+      "snippet_id": "S-040-SN0008"
+    },
+    {
+      "quote": "with me it was different",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Being the exception feels flattering and intimate. It also creates a special-status bond that she may feel pressure to protect and prove.",
+      "snippet_id": "S-040-SN0009"
+    },
+    {
+      "quote": "my friends seem nice",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is ordinary social language, but in context it introduces the people he will later start separating her from. The niceness of the phrase makes the later distancing easier to miss.",
+      "snippet_id": "S-040-SN0010"
+    },
+    {
+      "quote": "not everybody knows how to see me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He casts himself as the rare person who truly perceives her. That sounds flattering, but it also gives him interpretive authority over her, which is the beginning of a closed loop.",
+      "snippet_id": "S-040-SN0011"
+    },
+    {
+      "quote": "he can tell when someone’s off",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Cognitive Flexibility-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the decoder move. He treats instinct as evidence, which can look sharp at first and later become a way to override her own judgment about other people.",
+      "snippet_id": "S-040-SN0012"
+    },
+    {
+      "quote": "everybody’s performing a little",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is a cynical worldview that makes ordinary social behavior look fake. Once that frame is in place, his suspicion can feel like wisdom instead of a problem.",
+      "snippet_id": "S-040-SN0013"
+    },
+    {
+      "quote": "we’re building something real",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds romantic and future-oriented. It also turns the relationship into a project with a shared mission, which makes disagreement feel like sabotage.",
+      "snippet_id": "S-040-SN0014"
+    },
+    {
+      "quote": "something private",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Privacy can be intimate, but here it starts to sound like a sealed world. The more private it becomes, the easier it is for him to control what gets in from the outside.",
+      "snippet_id": "S-040-SN0015"
+    },
+    {
+      "quote": "the less other people are in our business the better",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest isolation seed. In hustle culture it can sound like focus and discretion, but it frames outside people as a problem and makes her support system feel like interference.",
+      "snippet_id": "S-040-SN0016"
+    },
+    {
+      "quote": "I do love my friends",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her quiet pushback is small, but it matters. She is already noticing that his version of closeness could cost her other relationships.",
+      "snippet_id": "S-040-SN0017"
+    },
+    {
+      "quote": "you’re too good to get dragged into other people’s noise",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Isolation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a compliment that elevates her above her own people. It flatters her while making outside voices sound dirty or distracting, which is how isolation starts to feel virtuous.",
+      "snippet_id": "S-040-SN0018"
+    },
+    {
+      "quote": "he’ll handle everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds generous, but it assigns him the active role and her the passive one. The more he handles, the less room she has to decide for herself.",
+      "snippet_id": "S-040-SN0019"
+    },
+    {
+      "quote": "stay in my lane",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the line that really lands. It sounds like harmless work talk, but it tells her where to place herself and what kinds of concerns are not hers to steer.",
+      "snippet_id": "S-040-SN0020"
+    },
+    {
+      "quote": "I’m probably overthinking one little comment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Accountability-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She minimizes her own discomfort instead of naming it. That self-editing is exactly what makes the dynamic harder to question later.",
+      "snippet_id": "S-040-SN0021"
+    },
+    {
+      "quote": "the less other people are in our business the better",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the question she is actually circling. It sounds like privacy, but it also places their relationship inside a sealed perimeter where he gets to decide what counts as outside noise.",
+      "snippet_id": "S-040-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": [
+    "Repetition: 8-word phrase repeated: 'the less other people are in our business'"
+  ]
+}

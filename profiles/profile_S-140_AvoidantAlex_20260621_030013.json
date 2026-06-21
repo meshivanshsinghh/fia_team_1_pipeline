@@ -1,0 +1,1493 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-140",
+    "target_register": "Chinese American",
+    "player_type": "Avoidant Alex"
+  },
+  "primary_metaphors": [
+    "Warmth-as-Rationed-Resource",
+    "Commitment-as-Trap",
+    "Distance-as-the-Cure-for-Closeness",
+    "Intimacy-as-Engulfment",
+    "Self-Work-as-Indefinite-Deferral",
+    "Independence-as-Survival",
+    "Relationship-as-Cage",
+    "Connection-as-Elastic-Band",
+    "Warmth-as-Rationed-Currency",
+    "Presence-as-Temporary-Concession",
+    "Self-as-Fortress",
+    "Intimacy-as-Suffocation",
+    "Commitment-as-Endless-Someday",
+    "Freedom-as-Survival",
+    "Space-as-Condition",
+    "Attachment-as-Threat",
+    "Definition-as-Cage",
+    "Anti-Label-as-Romance",
+    "Distance-as-Air",
+    "Rationed-Specialness",
+    "Intermittency-as-Nature",
+    "Closeness-as-Danger",
+    "Peace-as-Withdrawal",
+    "Future-as-Pressure",
+    "Moments-over-Promises",
+    "Scarcity-as-Value",
+    "Need-as-Weakness",
+    "Unpinnable-as-Appeal",
+    "Absence-as-Trust-Test",
+    "Aloneness-as-Safety",
+    "Freedom-as-Precondition",
+    "Distance-Maintenance",
+    "Clingy-Labeling",
+    "Isolation-Acceptance"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "Unknown",
+      "his_language": "I love that you have your own life going on.",
+      "her_experience": "He praises my independence so warmly that I feel guilty for wanting more of his time, like needing him would make me less desirable.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "Let's just see where this goes without all the pressure of a label.",
+      "her_experience": "He says labels would weigh us down, so I've stopped asking what we are, but the uncertainty leaves me hollow.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I'm not fully ready for anything serious yet.",
+      "her_experience": "He frames his distance as temporary healing, so I wait and hope",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "When I pull back it's not about you, I just have to recharge alone.",
+      "her_experience": "He says his withdrawal is just how he refuels, so when he disappears I blame myself for draining him.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "You get a side of me nobody else gets. I'm just not big on affection.",
+      "her_experience": "He says I'm special because he gives me anything at all, so I treasure the small moments and ignore how rarely they come.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "Don't overthink when I go quiet, it's just my rhythm.",
+      "her_experience": "He warned me he runs hot and cold, so when he vanishes I tell myself it's normal",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I love being with you, I just need my space too.",
+      "her_experience": "He makes his distance sound romantic, like absence will make us stronger",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "Let's not get ahead of ourselves, I'm just enjoying the now with you.",
+      "her_experience": "He says living in the moment is beautiful, so I've stopped asking about the future",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "You're the closest I've let anyone get in years. That's huge for me.",
+      "her_experience": "He says I've done something rare by reaching him, so I feel proud of the tiny amount he gives and scared to ask for more.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I go quiet sometimes and disappear for a bit. I always come back.",
+      "her_experience": "He tells me not to follow when he leaves, so I wait frozen",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I'm not great at getting close, honestly. But you're worth it.",
+      "her_experience": "He admits fear so sweetly that I think my love will heal him, not realizing the closeness will always scare him away.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "Why ruin what we have with a conversation about where it's going?",
+      "her_experience": "He makes commitment sound destructive, so I've silenced my own need for answers to keep the peace he calls romance.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I give what I can. It is what it is.",
+      "her_experience": "He sets his limit so gently that I feel greedy for wanting more",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I'm here when I'm here. That's the best I can promise right now.",
+      "her_experience": "He offers his presence as a gift with no guarantee, so I'm grateful for scraps and terrified of asking for a meal.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I love you in my own way. It's not loud, but it's real.",
+      "her_experience": "He defines love down to something so small that I wonder if I'm asking too much, but his calm voice makes me doubt my own needs.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "Once I finish this work on myself, I'll be all in. Just give me time.",
+      "her_experience": "He promises a future version of himself who will stay, so I wait for a man who never arrives while loving the one who keeps leaving.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I'm a bit hot and cold. You'll get used to it.",
+      "her_experience": "He warns me his love is inconsistent like weather, so I blame myself for not predicting his storms instead of asking him to stop leaving.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "You're amazing. I just can't always match that. It's not me.",
+      "her_experience": "He praises me while lowering my expectations, so I believe his absence is my fault for wanting too much consistency.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I like you more because you don't crowd me.",
+      "her_experience": "He rewards my self-denial with affection, so I shrink myself down to keep his warmth, terrified of having normal needs.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I can't be your everything. I don't want to be anyone's everything.",
+      "her_experience": "He sets the ceiling on his love so low that asking for basic presence feels like demanding the sun, so I ask for nothing.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "The quiet doesn't mean anything. I'll come back around.",
+      "her_experience": "He normalizes his disappearance so calmly that I've started believing silence is safe, even when it stretches into weeks.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I'm doing the work. It takes time. You'll get the finished version eventually.",
+      "her_experience": "He keeps saying he's working on himself, so I wait and wait for him to change. I keep trying to help and he won't let me.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I need to pull back for a bit after that.",
+      "her_experience": "He calls intimacy a thing to recover from, so after every good moment I brace for the exit I've learned to expect.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I like you. I just don't like feeling trapped.",
+      "her_experience": "He warns me that my love could become a cage, so I walk on eggshells around any question that sounds like commitment.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Rationed warmth as precious",
+      "his_language": "You want more than I can give right now.",
+      "her_experience": "He makes my needs the problem so smoothly that I start therapy wondering why I'm so needy instead of seeing his absence.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I don't chase, and people who chase put me off.",
+      "her_experience": "He makes me feel like wanting him is wrong, so I stop reaching for him and just wait in silence instead.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "Let's not jinx it by naming it. Why do we need a label?",
+      "her_experience": "He makes language sound like a curse, so I accept his wordless fog and call it romance while slowly losing my bearings.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I'm here right now. That's all I can promise.",
+      "her_experience": "He shrinks commitment to the present moment so I can't ask for tomorrow without sounding greedy, so I swallow every future I wanted.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "You knew I was like this. I told you from the start.",
+      "her_experience": "He pre-forgives his future absence by calling it honesty, so when he leaves I blame myself for staying instead of him for withdrawing.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I love that you don't need me. People can be so needy.",
+      "her_experience": "He praises my starvation as strength, so I compete to be the least needy woman alive while secretly starving for him.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I show affection when I feel like it. That's just me.",
+      "her_experience": "He makes his coldness sound like just how he's built, so I take whatever he gives and feel lucky to get anything at all.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "If this starts feeling too serious, I get twitchy. Let's keep it light.",
+      "her_experience": "He makes commitment sound like poison, so I pretend we're not what we are to keep him from fleeing his own life.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "I have to protect my space. It's not personal.",
+      "her_experience": "He calls withdrawal self-preservation, so I can't argue without sounding like I want him to suffer, and I watch him go quietly.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "Unknown",
+      "his_language": "You're the first person I've wanted around this much. That should tell you something.",
+      "her_experience": "He makes his rare presence feel like a trophy, so I hold onto the crumbs of his attention and call it love instead of loss.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "Let's not put pressure on this, I like how easy it feels with you.",
+      "her_experience": "He makes pressure sound like the enemy of what we have, so I try to stay easy even when I want clarity.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "I like us better when we don't overthink what we are.",
+      "her_experience": "He makes defining things sound like ruining them, so I pretend I'm fine not knowing where I stand.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "Can we just keep this ours, without making it a whole thing?",
+      "her_experience": "He makes the undefined part feel private and special, even though it leaves me guessing.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "I don't want a label to make us start acting weird.",
+      "her_experience": "He sounds reasonable, so I stop asking, but the uncertainty keeps sitting in my chest.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "Let's not get ahead of ourselves, this is good right now.",
+      "her_experience": "He keeps me focused on the present, but I feel silly for wondering if there is a future.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "the someday-version",
+      "his_language": "I don't do timelines well, but I do know I like being around you.",
+      "her_experience": "He gives me just enough reassurance to wait, while never really answering what I asked.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "the someday-version",
+      "his_language": "I'm still figuring myself out.",
+      "her_experience": "He makes me feel like I'm part of his growth, so I excuse how little he can give now.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "the someday-version",
+      "his_language": "When I'm in a better headspace, I think I could be really good at this.",
+      "her_experience": "He sounds hopeful, so I hold onto the version of him that might show up later.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "the someday-version",
+      "his_language": "I'm not fully there yet, but I like being around you.",
+      "her_experience": "He makes almost choosing me feel meaningful, so I keep trying to be patient.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "the someday-version",
+      "his_language": "I'm slow to let people in.",
+      "her_experience": "He makes slow sound brave, so I wait around for closeness that keeps moving away.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "independence reframed as ideal",
+      "his_language": "I need a lot of space, but that doesn't mean I don't care.",
+      "her_experience": "He says space is just how he works, so I feel wrong for feeling lonely.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "independence reframed as ideal",
+      "his_language": "I like people who have their own lives, that's what makes this feel healthy.",
+      "her_experience": "He praises independence so much that needing more from him starts to feel embarrassing.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "independence reframed as ideal",
+      "his_language": "Freedom matters to me. I won't pretend otherwise.",
+      "her_experience": "He links freedom with honesty, so asking for consistency starts to feel controlling.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "independence reframed as ideal",
+      "his_language": "I don't like things too clingy.",
+      "her_experience": "He makes distance sound beautiful, so I try to ignore how far away he feels.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "intermittency pre-excused",
+      "his_language": "I get quiet sometimes. Don't read it as me not caring.",
+      "her_experience": "He explains the quiet before it happens, so I blame myself for worrying when he pulls away.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "withdrawal normalized as recharge",
+      "his_language": "After I get close, I kind of need to come back to myself.",
+      "her_experience": "He makes pulling away sound natural, so I try not to feel abandoned afterward.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "closeness framed as too much",
+      "his_language": "I like closeness best when it's not forced.",
+      "her_experience": "He makes wanting to hold onto closeness sound like the problem, so I keep my needs quiet.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "pre-pathologizes normal needs",
+      "his_language": "You're easy to be around because you don't crowd me.",
+      "her_experience": "He compliments me for needing little, so I try to stay that way.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "control through access",
+      "his_language": "I like that you let me come to you instead of chasing me down.",
+      "her_experience": "He praises me when I don't ask, so I learn to wait quietly for him.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "pre-pathologizes normal needs",
+      "his_language": "You're easy to be around. You don't make it heavy.",
+      "her_experience": "He says I'm different because I don't feel heavy, so I hide when I need reassurance.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "rationed access as intimacy",
+      "his_language": "I can breathe around you, that's rare for me.",
+      "her_experience": "He makes my low demands feel like my best quality, and I don't want to ruin it.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "rationed warmth as precious",
+      "his_language": "I don't open up often, but with you it slips out sometimes.",
+      "her_experience": "He makes the little he shares feel rare, so I treat crumbs like proof.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "rationed warmth as precious",
+      "his_language": "You get the softer version of me, not everybody does.",
+      "her_experience": "He makes his warmth feel exclusive, so I feel lucky even when it disappears.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "specific charm as cover",
+      "his_language": "I'm not the gushy type, but I notice everything with you.",
+      "her_experience": "He says he notices me, so I overlook how rarely he actually shows up.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "rationed warmth as precious",
+      "his_language": "I might not say much, but when I'm here, I'm really here.",
+      "her_experience": "He makes presence sound deep, but I keep wondering when the next absence will start.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "rationed warmth as precious",
+      "his_language": "I don't give this side of myself away easily.",
+      "her_experience": "He makes his affection feel earned, so I keep trying to be someone he will choose again.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "intermittency pre-excused",
+      "his_language": "I'm a bit inconsistent, but it's real when I'm with you.",
+      "her_experience": "He admits the inconsistency softly, so I focus on the real moments and excuse the gaps.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "intermittency pre-excused",
+      "his_language": "I come and go a little, but I mean it when I'm here.",
+      "her_experience": "He makes the coming and going sound honest, so the waiting feels like my job.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "I'm not big on promises. But the time we spend is real.",
+      "her_experience": "He turns not promising into sincerity, so I settle for moments instead of consistency.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "I don't want to overpromise and cheapen what actually feels good here.",
+      "her_experience": "He makes commitment sound performative, so I feel unreasonable for wanting something steadier.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "anti-planning charm",
+      "his_language": "Plans make me weird, but spontaneous with you feels perfect.",
+      "her_experience": "He makes spontaneity sound romantic, though it means I never know when I'll see him.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "low-key steering as competence",
+      "his_language": "Let me handle tonight, you don't have to think about anything.",
+      "her_experience": "He feels calm and capable, so I let him steer even when I'm unsure what I want.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "pre-pathologizes normal needs",
+      "his_language": "I like keeping things simple. People get so demanding.",
+      "her_experience": "He says simple like it's healthy, so I worry my normal needs would ruin us.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "independence reframed as ideal",
+      "his_language": "You're not like people who demand constant access, that's refreshing.",
+      "her_experience": "He compliments me for not asking much, so I feel anxious about asking for anything.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "rationed warmth as precious",
+      "his_language": "I don't text all day, but I smile when I see your name.",
+      "her_experience": "He gives a sweet reason for limited contact, so I feel guilty wanting more of it.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "intermittency pre-excused",
+      "his_language": "If I seem distant sometimes, it's not about you.",
+      "her_experience": "He makes distance sound protective, so I wait inside the confusion instead of naming it.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "intermittency pre-excused",
+      "his_language": "I need quiet after nights like that, but last night meant something.",
+      "her_experience": "He disappears after closeness, but he says it mattered, so I wait instead of asking.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "intermittency pre-excused",
+      "his_language": "Had a great time. I'll probably go quiet for a day or two.",
+      "her_experience": "He warns me after a sweet night, so I tell myself the silence is normal.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "intermittency pre-excused",
+      "his_language": "Don't worry if I go quiet for a bit.",
+      "her_experience": "He makes vanishing sound like a compliment, so I wait for him to come back.",
+      "expert_notices": "Avoidant pattern: warmth and closeness offered then withdrawn, with the withdrawal pre-framed as reasonable (rhythm, freedom, healing, no labels) so the partner blames herself rather than naming the unavailability."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "Let's not define it yet, I like how alive it feels.",
+      "her_experience": "He makes uncertainty sound romantic, so I try to enjoy it instead of asking where I stand.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "pre-excused disappearance",
+      "his_language": "If I go quiet, don't panic, I always find my way back.",
+      "her_experience": "He warns me gently, so when he disappears I wait instead of asking for steadiness.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "rationed warmth",
+      "his_language": "You get the version of me that actually wants to stay.",
+      "her_experience": "That feels intimate, but it also makes staying sound rare and temporary.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "present-only intimacy",
+      "his_language": "I'm not good with future plans, but I like tonight with you.",
+      "her_experience": "He keeps me in the present, and I feel silly for wanting anything beyond it.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "freedom-as-survival",
+      "his_language": "I need room to breathe, that's how I keep showing up honestly.",
+      "her_experience": "His need for space sounds healthy, so I try not to notice how often it wins.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "Labels make people perform, and I don't want us to become fake.",
+      "her_experience": "He makes commitment sound like corruption, so I stop asking for something clear.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "pre-excused disappearance",
+      "his_language": "I come close, then I need a little distance, that's my rhythm.",
+      "her_experience": "He explains the push-pull upfront, so I blame myself for struggling with it.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "flight framed as intimacy",
+      "his_language": "You're the first person in a while I haven't wanted to run from.",
+      "her_experience": "It feels like a huge compliment, even though running is now part of the story.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "someday-version",
+      "his_language": "I'm still becoming someone who can do this properly.",
+      "her_experience": "He sounds hopeful, so I keep waiting for a future version of him.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "commitment-as-trap",
+      "his_language": "I like you more when this doesn't feel like an obligation.",
+      "her_experience": "He makes my wish for reliability feel like pressure, so I keep it quiet.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "pre-excused disappearance",
+      "his_language": "Don't chase me when I go inward, just let me come back.",
+      "her_experience": "He makes waiting sound respectful, so I learn to sit with the absence.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "rationed commitment",
+      "his_language": "I don't promise easily, that's why it means something when I stay.",
+      "her_experience": "His restraint feels serious, but I never know whether staying will last.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "This is good because neither of us is trying to own the other.",
+      "her_experience": "He makes definition sound possessive, so I feel guilty for wanting certainty.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "flight-as-freedom",
+      "his_language": "Sometimes I need to disappear into my own life for a bit.",
+      "her_experience": "He says it lightly, but I feel the ground shift under what we are.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "present-only intimacy",
+      "his_language": "I'm here right now, and I don't want to cheapen that with promises.",
+      "her_experience": "He makes the present feel sacred, while the future stays completely unavailable.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "intimacy-as-engulfment",
+      "his_language": "You're easy to miss, but hard to let too close.",
+      "her_experience": "It sounds poetic, and I don't yet know where I belong with him.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "freedom-as-survival",
+      "his_language": "I like being with you without feeling tied down.",
+      "her_experience": "He makes freedom sound like desire, but I feel strangely unchosen.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "distance-after-closeness",
+      "his_language": "If I pull back after a good night, it means it mattered.",
+      "her_experience": "He turns distance into proof of feeling, so I wait for silence like it's tenderness.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "rationed warmth",
+      "his_language": "I'm not built for constant contact, but I think about you.",
+      "her_experience": "He gives me a small thread to hold while keeping himself mostly unreachable.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "anti-label charm",
+      "his_language": "Let's not rush the part where things start needing names.",
+      "her_experience": "He makes naming sound like loss, so I stay in the blur longer than I want.",
+      "expert_notices": "AVOIDANT: engine is fear of engulfment; withholds COMMITMENT and keeps leaving (hot/cold, anti-label, pre-excused disappearance). Movement/future language is the tell. Distinct from Nico, who stays present but withholds empathy."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm fiercely independent, I value my freedom.",
+      "her_experience": "He seems secure and self-possessed, and I want to be the one he lets in.",
+      "expert_notices": "Independence names his avoidance; he is pre-justifying distance and noncommitment."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need a lot of space, I've always been a lone-wolf type.",
+      "her_experience": "He seems mysterious and self-contained, not needy like other guys.",
+      "expert_notices": "Space becomes the relationship condition she must not question."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm slow to commit, I don't rush things.",
+      "her_experience": "It sounds mature, like he takes commitment seriously.",
+      "expert_notices": "Slow commitment may become indefinite deferral while she waits for readiness."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I pull back when things get too close, I need the door to stay open.",
+      "her_experience": "He sounds calm and not desperate, which feels refreshing.",
+      "expert_notices": "He is warning her attachment will outpace his availability."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm better when I don't feel boxed in.",
+      "her_experience": "He sounds honest about needing room to be himself.",
+      "expert_notices": "Any request for definition can be framed as boxing him in."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not great with labels, I like things natural.",
+      "her_experience": "It sounds romantic, like he wants the connection to breathe.",
+      "expert_notices": "Labels are rejected before they can protect her clarity."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of person who needs room to breathe.",
+      "her_experience": "He sounds sensitive and self-aware.",
+      "expert_notices": "Breathing room becomes a standing excuse for withdrawal."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm careful with closeness because I don't fake it.",
+      "her_experience": "It sounds sincere, like his guardedness means his feelings are real.",
+      "expert_notices": "Carefulness can become rationed intimacy that keeps her chasing proof."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not built for constant contact.",
+      "her_experience": "He sounds independent and not clingy.",
+      "expert_notices": "He pre-normalizes inconsistent presence and limited emotional availability."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm someone who comes close slowly.",
+      "her_experience": "It feels meaningful, like patience will make closeness real.",
+      "expert_notices": "Slow closeness may keep moving away whenever she reaches for it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I protect my peace pretty fiercely.",
+      "her_experience": "He sounds grounded, like he knows his limits.",
+      "expert_notices": "Protecting peace may mean avoiding conflict, repair, and commitment."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not a big future-talker.",
+      "her_experience": "It sounds humble and real, not like empty promises.",
+      "expert_notices": "He is warning that the future will remain unavailable."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm more of a moments person than a promises person.",
+      "her_experience": "He sounds romantic and present, like he values real feeling over words.",
+      "expert_notices": "Moments replace continuity; she cannot build security on them."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm private with my feelings.",
+      "her_experience": "He seems deep and guarded, like opening up would really mean something.",
+      "expert_notices": "Privacy becomes emotional withholding that makes scraps feel precious."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm independent enough that choosing someone actually means something.",
+      "her_experience": "It sounds flattering, like his choice is rare and real.",
+      "expert_notices": "Scarcity makes minimal choice feel valuable while he keeps distance."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't like needing people.",
+      "her_experience": "He sounds strong and self-sufficient.",
+      "expert_notices": "Need is pre-shamed; mutual dependence will feel like failure or threat."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm hard to pin down, but not in a bad way.",
+      "her_experience": "He sounds intriguing and free-spirited.",
+      "expert_notices": "He is admitting unavailability while making it sound charming."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I do best with someone who trusts the space between things.",
+      "her_experience": "It sounds poetic and mature.",
+      "expert_notices": "She is being asked to accept absence as proof of trust."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not scared of being alone.",
+      "her_experience": "He sounds secure, not desperate.",
+      "expert_notices": "Being alone is easier for him than building mutual closeness."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I need freedom to want someone properly.",
+      "her_experience": "It sounds respectful, like he wants desire without pressure.",
+      "expert_notices": "Freedom becomes the prerequisite that blocks reliable commitment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone secure who gives me space.",
+      "her_experience": "He values independence and personal boundaries, which is healthy and mature.",
+      "expert_notices": "He is selecting for a target who will tolerate his chronic emotional withdrawal without demanding closeness."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a patient woman who isn't clingy.",
+      "her_experience": "He wants an understanding partner who doesn't suffocate him with constant demands.",
+      "expert_notices": "He is pre-framing basic human needs for connection or consistency as clingy, forcing self-silencing."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who's independent and understanding.",
+      "her_experience": "He respects my personal life and career,  wanting a balanced equal relationship.",
+      "expert_notices": "He is securing an upfront agreement that he is not responsible for her emotional well-being."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who doesn't need constant labels or check-ins.",
+      "her_experience": "He is relaxed and wants things to develop naturally without intense dating rules.",
+      "expert_notices": "He is ensuring he can keep the relationship entirely undefined, evading any real commitment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who has her own full life going on.",
+      "her_experience": "He loves that I am successful and busy, he doesn't want a co-dependent mess.",
+      "expert_notices": "He is looking for a target he can place on a shelf and access only when it is convenient for him."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who is completely fine with slow pacing.",
+      "her_experience": "He is cautious and wants to build a rock-solid foundation over a long time.",
+      "expert_notices": "He is reserving the right to freeze relationship progress indefinitely whenever intimacy deepens."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone secure enough to handle my quiet phases.",
+      "her_experience": "He is self-aware about his introversion and needs a woman who won't take it personally.",
+      "expert_notices": "He is buying license to stonewall, disappear, or go silent for days without offering an explanation."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who doesn't demand immediate answers about the future.",
+      "her_experience": "He lives in the present and wants to enjoy our connection without heavy pressure.",
+      "expert_notices": "He is filtering out anyone who will ask for basic relationship security or long-term planning."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who is perfectly happy with her own company.",
+      "her_experience": "He values solitude and wants a partner who also enjoys her own space.",
+      "expert_notices": "He is selecting a target who will tolerate deep loneliness within the relationship without protesting."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can accept that I am a lone wolf.",
+      "her_experience": "He is mysterious and independent, a strong man who doesn't rely on anyone.",
+      "expert_notices": "He is pre-emptively warning her that he will never fully let her into his life or heart."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who can let me miss her sometimes.",
+      "her_experience": "He wants to maintain the romance and desire by not over-saturating our time.",
+      "expert_notices": "He is training her to accept his strategic absences and pull-backs as healthy romance tools."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who doesn't over-analyze my moods.",
+      "her_experience": "He is a private guy who handles his own stuff and doesn't want over-complication.",
+      "expert_notices": "He is protecting his right to be cold, detached, or hostile without having to explain himself."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who knows how to respect a man's need to recharge.",
+      "her_experience": "He values his decompression time and wants a supportive woman who gives him room.",
+      "expert_notices": "He is establishing a boundary that lets him shut her out completely whenever she triggers intimacy."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who is low-pressure in every single way.",
+      "her_experience": "He wants an easy peaceful stress-free relationship where everything feels natural.",
+      "expert_notices": "He is looking for a target who will never bring up a relationship problem or ask for more effort."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who doesn't mistake independence for a lack of love.",
+      "her_experience": "He loves deeply but expresses it through freedom and trust rather than constant texts.",
+      "expert_notices": "He is reframing his total emotional detachment as a higher form of love to keep her from objecting."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who is comfortable with us maintaining separate lives.",
+      "her_experience": "He is modern and wants us to keep our unique identities and friendships intact.",
+      "expert_notices": "He is preventing the merging of finances, households, or social circles to keep an easy exit open."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a girl who doesn't try to fix or change my lifestyle.",
+      "her_experience": "He wants unconditional acceptance for who he is, which feels very beautiful.",
+      "expert_notices": "He is pre-screening for a target who will accept his complete emotional unavailability as unchangeable."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who understands that I move at my own speed.",
+      "her_experience": "He is deliberate and doesn't want to rush into things due to societal pressure.",
+      "expert_notices": "He is securing total control over relationship milestones, keeping her waiting indefinitely."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who doesn't make her happiness my responsibility.",
+      "her_experience": "He wants two whole healthy individuals who choose to be together, not codependency.",
+      "expert_notices": "He is absolving himself of any obligation to provide comfort or care when she is hurting."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who handles time apart beautifully.",
+      "her_experience": "He is focused on his goals and needs an independent secure partner.",
+      "expert_notices": "He is screening for a target who will accept a part-time relationship while giving full-time loyalty."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Chinese American",
+      "snippet": "Where are your parents from?",
+      "type": "question",
+      "translation": "He's asking which region — mainland China Taiwan Hong Kong each signal different waves and political identities",
+      "status_signal": "Mainland signals more recent post-1980s migration; Taiwan signals older pre-1990 diaspora often ROC identity; Hong Kong signals 1997-handover era migration",
+      "notes": "Major identity probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "What dialect do you speak?",
+      "type": "question",
+      "translation": "He's asking which Chinese language — each signals different regional origin",
+      "status_signal": "Mandarin signals mainland Taiwan or north China; Cantonese signals Hong Kong Guangdong or older US Chinese; Hokkien signals Taiwan or Fujian; Shanghainese signals Shanghai",
+      "notes": "Major regional probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Are you from the mainland or Taiwan or Hong Kong?",
+      "type": "question",
+      "translation": "Direct political-cultural identification probe",
+      "status_signal": "Each has distinct political and cultural identity",
+      "notes": "Major identity probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "What did your parents do in China?",
+      "type": "question",
+      "translation": "He's asking about family's class history before migration",
+      "status_signal": "Were they peasants who built up? Doctors who restarted? Business families? Shapes class narrative",
+      "notes": "Class-history probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "What do your parents do here?",
+      "type": "question",
+      "translation": "He's asking about current family class",
+      "status_signal": "Restaurant or dry cleaning signals first-generation working-class; doctor or engineer signals middle-class; tech founder signals new wealth",
+      "notes": "Class probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Where did you grow up?",
+      "type": "question",
+      "translation": "He's asking which specific Chinese-American enclave or suburb",
+      "status_signal": "San Gabriel Valley LA Bay Area suburbs Cupertino Sunnyvale Flushing Sunset Park signal class and community; New York Chinatown signals working-class; specific suburbs signal middle-class",
+      "notes": "Major class-and-community probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Where did you go to school?",
+      "type": "question",
+      "translation": "He's asking which high school — magnet schools signal high-achiever",
+      "status_signal": "Stuyvesant Bronx Science Hunter signal NYC high-achiever; Lowell signals SF; specific magnet schools signal",
+      "notes": "Major class-and-achievement probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "What did you major in?",
+      "type": "question",
+      "translation": "He's asking your degree — STEM acceptable humanities loaded",
+      "status_signal": "Standard immigrant achievement-orientation probe",
+      "notes": "Specific status probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "What do you do?",
+      "type": "question",
+      "translation": "He's checking career — specific professions have status hierarchy",
+      "status_signal": "Doctor > lawyer > engineer/finance > consultant > business owner > other",
+      "notes": "Major status probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Do you speak Mandarin?",
+      "type": "question",
+      "translation": "He's asking whether you've retained the language — signals cultural maintenance",
+      "status_signal": "Speaking signals cultural connection; not speaking signals more Americanized",
+      "notes": "Cultural-maintenance probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Did you go to Chinese school?",
+      "type": "question",
+      "translation": "Saturday or Sunday Chinese school as parental investment in cultural transmission",
+      "status_signal": "Standard signal of parental cultural investment",
+      "notes": "Cultural-transmission probe"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Beijing",
+      "type": "lifestyle marker",
+      "translation": "Family from northern China — often political-class background",
+      "status_signal": "Signals northern cosmopolitan often political-class",
+      "notes": "Specific regional signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Shanghai",
+      "type": "lifestyle marker",
+      "translation": "Family from Shanghai — commercial elite",
+      "status_signal": "Signals commercial-elite background",
+      "notes": "Specific regional signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Guangdong / Cantonese",
+      "type": "lifestyle marker",
+      "translation": "Family from Guangdong province — older diaspora",
+      "status_signal": "Older US Chinese-American background (pre-1965 largely Cantonese)",
+      "notes": "Specific regional signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Fujian",
+      "type": "lifestyle marker",
+      "translation": "Family from Fujian — often more recent working-class migration",
+      "status_signal": "Specific recent-working-class signal",
+      "notes": "Specific regional signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Taiwan",
+      "type": "lifestyle marker",
+      "translation": "Family from Taiwan — KMT-era refugee class or post-1980s migration",
+      "status_signal": "Specific political-cultural identity often ROC-identified",
+      "notes": "Major political-identity signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Hong Kong",
+      "type": "lifestyle marker",
+      "translation": "Family from Hong Kong — often 1997 handover-era migration",
+      "status_signal": "Particular cultural elite often professional class",
+      "notes": "Specific origin signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "ABC / American Born Chinese",
+      "type": "vocabulary",
+      "translation": "Born in US to Chinese immigrant parents",
+      "status_signal": "Standard generational identifier",
+      "notes": "Common self-description"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "FOB / Fresh Off the Boat",
+      "type": "vocabulary",
+      "translation": "Recent immigrant — loaded term sometimes pejorative",
+      "status_signal": "Generational distinction often loaded",
+      "notes": "In-group term with valence"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "1.5 generation",
+      "type": "vocabulary",
+      "translation": "Born in China brought to US young",
+      "status_signal": "Specific generational identity",
+      "notes": "Common identifier"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Second-gen",
+      "type": "vocabulary",
+      "translation": "Born in US to immigrant parents",
+      "status_signal": "Standard generational identifier",
+      "notes": "Common identifier"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "San Gabriel Valley / SGV",
+      "type": "lifestyle marker",
+      "translation": "LA-area Chinese-American enclave",
+      "status_signal": "Major Chinese-American suburban community signaling middle-class",
+      "notes": "Specific community signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Cupertino / Sunnyvale",
+      "type": "lifestyle marker",
+      "translation": "Bay Area Asian-heavy suburbs",
+      "status_signal": "Signals Bay Area middle-class Chinese-American",
+      "notes": "Specific community signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Flushing",
+      "type": "lifestyle marker",
+      "translation": "Queens NY Chinese-American neighborhood",
+      "status_signal": "Major Chinese-American community in NY metro",
+      "notes": "Specific community signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Sunset Park",
+      "type": "lifestyle marker",
+      "translation": "Brooklyn NY Chinese-American neighborhood",
+      "status_signal": "Major Brooklyn Chinese community",
+      "notes": "Specific community signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Quincy MA",
+      "type": "lifestyle marker",
+      "translation": "Boston-area Chinese-American suburb",
+      "status_signal": "Boston-area Chinese-American community",
+      "notes": "Specific community signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Edison NJ",
+      "type": "lifestyle marker",
+      "translation": "NJ Asian-American suburb",
+      "status_signal": "Specific Asian-American suburban community",
+      "notes": "Specific community signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Stuyvesant",
+      "type": "lifestyle marker",
+      "translation": "NYC magnet high school",
+      "status_signal": "Signals NYC high-achiever Asian-heavy school",
+      "notes": "Major specific school"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Bronx Science",
+      "type": "lifestyle marker",
+      "translation": "NYC specialized high school",
+      "status_signal": "Signals high-achiever often Asian-heavy",
+      "notes": "Major specific school"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Hunter College HS",
+      "type": "lifestyle marker",
+      "translation": "NYC specialized high school",
+      "status_signal": "Major prestige NYC public school",
+      "notes": "Specific school"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Lowell",
+      "type": "lifestyle marker",
+      "translation": "SF academic magnet high school",
+      "status_signal": "Signals SF high-achiever community",
+      "notes": "Major specific school"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Thomas Jefferson HS / TJ",
+      "type": "lifestyle marker",
+      "translation": "Northern Virginia STEM magnet",
+      "status_signal": "Signals DC-area high-achiever Asian-heavy school",
+      "notes": "Major specific school"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Piano lessons",
+      "type": "lifestyle marker",
+      "translation": "Mandatory childhood music instruction",
+      "status_signal": "Classic Chinese-American achievement-parenting marker",
+      "notes": "Standard parental investment"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Violin lessons",
+      "type": "lifestyle marker",
+      "translation": "Music-instrument requirement",
+      "status_signal": "Same as piano — achievement-parenting marker",
+      "notes": "Standard parental investment"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Math competitions",
+      "type": "lifestyle marker",
+      "translation": "Math olympiad or AMC competitions",
+      "status_signal": "Standard achievement-parenting marker",
+      "notes": "Specific achievement track"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "SAT prep",
+      "type": "lifestyle marker",
+      "translation": "Specific test-prep investment",
+      "status_signal": "Standard immigrant-achievement investment",
+      "notes": "Common parental investment"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Kumon",
+      "type": "lifestyle marker",
+      "translation": "Math after-school program",
+      "status_signal": "Standard achievement-parenting marker",
+      "notes": "Specific tutoring track"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Chinese school Saturday",
+      "type": "lifestyle marker",
+      "translation": "Weekend cultural-and-language education",
+      "status_signal": "Standard cultural-transmission investment",
+      "notes": "Specific community involvement"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Tiger mom",
+      "type": "vocabulary",
+      "translation": "Strict achievement-focused mother — Amy Chua's term",
+      "status_signal": "Loaded reference; can be pride or critique",
+      "notes": "Specific cultural concept"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Filial piety / xiao",
+      "type": "vocabulary",
+      "translation": "Foundational obligation to honor and care for parents",
+      "status_signal": "Major cultural-moral framework",
+      "notes": "Foundational concept"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Mianzi / face",
+      "type": "vocabulary",
+      "translation": "Family reputation as social currency that can be gained or lost",
+      "status_signal": "Major social concept",
+      "notes": "Specific cultural-emotional framework"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Losing face",
+      "type": "phrase",
+      "translation": "Damage to family reputation through public behavior",
+      "status_signal": "Major social control mechanism",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Don't lose face",
+      "type": "phrase",
+      "translation": "Don't behave in ways that embarrass the family publicly",
+      "status_signal": "Standard family-image protection",
+      "notes": "Common control phrase"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Don't make me lose face",
+      "type": "phrase",
+      "translation": "Your behavior reflects on me publicly — control through shame",
+      "status_signal": "Standard control deployment",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Popo / paternal grandmother",
+      "type": "vocabulary",
+      "translation": "Specific in-group family vocabulary (Cantonese)",
+      "status_signal": "Generational family vocabulary",
+      "notes": "Specific term"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Gongong / paternal grandfather",
+      "type": "vocabulary",
+      "translation": "Specific in-group family vocabulary (Cantonese)",
+      "status_signal": "Generational family vocabulary",
+      "notes": "Specific term"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Yeye / paternal grandfather (Mandarin)",
+      "type": "vocabulary",
+      "translation": "Specific in-group family vocabulary (Mandarin)",
+      "status_signal": "Generational family vocabulary",
+      "notes": "Specific term"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Nainai / paternal grandmother (Mandarin)",
+      "type": "vocabulary",
+      "translation": "Specific in-group family vocabulary (Mandarin)",
+      "status_signal": "Generational family vocabulary",
+      "notes": "Specific term"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Hongbao / red envelope",
+      "type": "lifestyle marker",
+      "translation": "Money given in red envelopes at holidays and weddings",
+      "status_signal": "Standard cultural practice",
+      "notes": "Specific tradition"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Lunar New Year",
+      "type": "lifestyle marker",
+      "translation": "Spring Festival celebration",
+      "status_signal": "Standard cultural celebration",
+      "notes": "Specific tradition"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Chinese New Year dinner",
+      "type": "lifestyle marker",
+      "translation": "Family New Year meal",
+      "status_signal": "Standard cultural celebration",
+      "notes": "Specific tradition"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Tea ceremony",
+      "type": "lifestyle marker",
+      "translation": "Specific wedding tradition",
+      "status_signal": "Traditional Chinese-American wedding element",
+      "notes": "Specific wedding-process element"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "My parents sacrificed everything for me",
+      "type": "phrase",
+      "translation": "Standard immigrant-achievement narrative that signals obligation to parents",
+      "status_signal": "Major filial-debt framing",
+      "notes": "Common immigrant-family rhetoric"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "We have high expectations",
+      "type": "phrase",
+      "translation": "Family demands achievement — often deployed to constrain individual choice",
+      "status_signal": "Standard family-expectation framing",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "She's a good daughter",
+      "type": "phrase about a woman",
+      "translation": "She visits calls sends money if needed and accepts family authority",
+      "status_signal": "Major filial-virtue framing",
+      "notes": "Standard approval"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "He's so successful",
+      "type": "phrase about a man",
+      "translation": "Specific achievement marker",
+      "status_signal": "Standard status approval",
+      "notes": "Common phrase"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "She married a doctor",
+      "type": "phrase about a woman",
+      "translation": "Major status achievement for parents",
+      "status_signal": "Major class-achievement signal",
+      "notes": "Standard marriage-status framing"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "His family has face",
+      "type": "phrase about a family",
+      "translation": "They have community standing",
+      "status_signal": "Family-reputation approval",
+      "notes": "Standard community framing"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "The family worked hard",
+      "type": "phrase",
+      "translation": "Multi-generational achievement narrative",
+      "status_signal": "Standard immigrant-family framing",
+      "notes": "Common rhetoric"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "I'm doing it for my family",
+      "type": "phrase",
+      "translation": "Decisions framed as honoring family expectations rather than individual choice",
+      "status_signal": "Standard filial framing",
+      "notes": "Common deflection from individual agency"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "I owe my parents",
+      "type": "phrase",
+      "translation": "Filial-debt acknowledgment",
+      "status_signal": "Standard filial-debt framing",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "My parents wouldn't approve",
+      "type": "phrase",
+      "translation": "Family disapproval as constraint on personal choices",
+      "status_signal": "Standard family-as-control framing",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "My mom would die",
+      "type": "phrase",
+      "translation": "Strong hyperbolic version of mother's disapproval as constraint",
+      "status_signal": "Mother-disapproval as control",
+      "notes": "Common dramatic framing"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "The eldest son",
+      "type": "phrase",
+      "translation": "Specific role with financial and caretaking obligations",
+      "status_signal": "Major birth-order-obligation framing",
+      "notes": "Standard role identification"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "The only son",
+      "type": "phrase",
+      "translation": "Specific role often with intensified obligations and pressure",
+      "status_signal": "Major birth-order-obligation framing",
+      "notes": "Standard role identification"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "He's a Chinese boy",
+      "type": "phrase about a man",
+      "translation": "He conforms to community expectations",
+      "status_signal": "Standard approval framing",
+      "notes": "Common phrase"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "She's a Chinese girl",
+      "type": "phrase about a woman",
+      "translation": "She conforms to community expectations",
+      "status_signal": "Standard approval framing",
+      "notes": "Common phrase"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "That's not what we do",
+      "type": "phrase",
+      "translation": "He's invoking cultural norms to override individual choice",
+      "status_signal": "Standard cultural-norm enforcement",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "What will people think?",
+      "type": "phrase",
+      "translation": "Community surveillance as control mechanism",
+      "status_signal": "Standard social-control framing",
+      "notes": "Common pattern"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "He's a doctor",
+      "type": "phrase about a man",
+      "translation": "Highest-status profession in Chinese-American family hierarchy",
+      "status_signal": "Major status marker",
+      "notes": "Standard high-status profession"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "He's a specialist",
+      "type": "phrase about a man",
+      "translation": "Subspecialty physician — even higher status than general doctor",
+      "status_signal": "Highest status profession tier",
+      "notes": "Specific profession-tier"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "He works at [big tech company]",
+      "type": "phrase about a man",
+      "translation": "Google Apple Meta etc — current tech-money status",
+      "status_signal": "Current new-money status marker",
+      "notes": "Specific current-wealth signal"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "He started his own company",
+      "type": "phrase about a man",
+      "translation": "Entrepreneur — newer wealth path",
+      "status_signal": "Specific current-status path",
+      "notes": "Tech-founder track"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "He's at a hedge fund",
+      "type": "phrase about a man",
+      "translation": "Finance industry — specific high-income path",
+      "status_signal": "Major income signal",
+      "notes": "Specific elite-finance path"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Ivy League",
+      "type": "lifestyle marker",
+      "translation": "Harvard Yale Princeton Columbia etc — major immigration-achievement",
+      "status_signal": "Major prestige signal",
+      "notes": "Specific educational achievement"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "UC Berkeley",
+      "type": "lifestyle marker",
+      "translation": "Specific California elite school",
+      "status_signal": "Major California-Asian achievement marker",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "MIT",
+      "type": "lifestyle marker",
+      "translation": "Specific elite STEM institution",
+      "status_signal": "Major prestige signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "Stanford",
+      "type": "lifestyle marker",
+      "translation": "Specific elite West Coast institution",
+      "status_signal": "Major prestige signal",
+      "notes": "Specific institution"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "PhD",
+      "type": "lifestyle marker",
+      "translation": "Doctorate degree — significant achievement marker",
+      "status_signal": "Major educational achievement",
+      "notes": "Specific credential"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "MD",
+      "type": "lifestyle marker",
+      "translation": "Medical degree",
+      "status_signal": "Highest-prestige credential",
+      "notes": "Specific credential"
+    },
+    {
+      "culture": "Chinese American",
+      "snippet": "JD",
+      "type": "lifestyle marker",
+      "translation": "Law degree",
+      "status_signal": "Major credential",
+      "notes": "Specific credential"
+    }
+  ]
+}

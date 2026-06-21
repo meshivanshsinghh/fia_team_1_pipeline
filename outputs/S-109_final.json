@@ -1,0 +1,396 @@
+{
+  "scenario_id": "S-109",
+  "player_type": "Charming Charlie",
+  "scenario": {
+    "scenario_id": "S-109",
+    "architecture_name": "He uses intoxicating present-tense intensity to make me feel chosen, then quietly installs himself as the one who plans, interprets, and gets priority.",
+    "culture": "Polyamorous",
+    "demographics": "F/29 teacher, M/31 event promoter, San Antonio with Austin weekends",
+    "cultural_context": "Teaching job / educator social sphere; early-stage romantic relationship and social life",
+    "geographic_setting": "San Antonio, Texas; with weekend trips to Austin",
+    "core_behaviors": [
+      "Floods me with present-tense focus and chemistry",
+      "Frames spontaneity as authenticity and care",
+      "Slides into planning and interpretive authority",
+      "Uses poly language to make pressure sound enlightened"
+    ],
+    "satellite_signals": "San Antonio teacher life, Austin weekend escapes, polyamorous in-group language, his polished charm and impulsive romance. The surface is all spark and fun, but the structure is him becoming the center of the scene and the default decider.",
+    "dismissible_red_flags": "His intensity reads like chemistry, his planning reads like competence, and the poly vocabulary sounds like maturity. The only thing that lingers is that he keeps turning my small objections into me being too wound up or too monogamous-minded.",
+    "scenario_text": "I met Alex at a friend’s backyard thing in San Antonio, and he was the first person all night who made the whole room feel like it got quieter. He kept saying, “Look at you,” like he was genuinely surprised I was there. That night he asked about my classroom, then said, “You’re too smart to spend all your energy on other people’s kids,” which sounded flattering even if it made me laugh a little. Since then he’s been very, very present. He’ll take my phone and set it face down between us, then say, “Just be here with me.” I do like that about him, honestly. It feels sweet, not pushy, the way he remembers tiny things, my coffee order, the name of my dog, the fact that I hate leaving town on Sundays. Last weekend he texted, “I’m in NRE right now, so I’m probably going to be a little ridiculous,” and then drove us to Austin at midnight because he wanted “a clean night, no heavy talks, just us.” He says he’s not a planner, he’s a feeler, but he still picks the restaurant, the music, the route, everything. When I mentioned brunch with my friends, he smiled and said, “You don’t really need to do mono-calendar stuff with me, do you?” I laughed because he meant it playfully, I think. He also keeps saying, “I just want to add to your life, not subtract from it,” which is such a good line, and maybe that’s why I’m even noticing this. It’s probably nothing, but he called my Saturday plans “a vibe killer” and then kissed my forehead like that fixed it. Am I being too sensitive about the brunch comment?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Alex at a friend’s backyard thing in San Antonio",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Grounding detail. It places them in a real social setting without doing much on its own, but it helps locate the relationship inside her actual life.",
+      "snippet_id": "S-109-SN0001"
+    },
+    {
+      "quote": "made the whole room feel like it got quieter",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is total-presence language. It feels flattering, like he can command a room by focusing on her, but it also sets him up as the center of attention and makes her feel specially chosen.",
+      "snippet_id": "S-109-SN0002"
+    },
+    {
+      "quote": "Look at you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple praise, but it has a possessive edge. He is not just admiring her, he is positioning himself as the one whose gaze matters.",
+      "snippet_id": "S-109-SN0003"
+    },
+    {
+      "quote": "You’re too smart to spend all your energy on other people’s kids",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This sounds like a compliment, but it quietly devalues her job and the people she cares for. It rewards her for imagining a bigger life on his terms.",
+      "snippet_id": "S-109-SN0004"
+    },
+    {
+      "quote": "He’ll take my phone and set it face down between us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Small but important control move. He is not asking for attention, he is physically managing the conditions of the interaction and making his preference feel natural.",
+      "snippet_id": "S-109-SN0005"
+    },
+    {
+      "quote": "Just be here with me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds romantic, but it quietly turns presence into a demand. Her separate attention is framed as something she should set aside for the relationship.",
+      "snippet_id": "S-109-SN0006"
+    },
+    {
+      "quote": "He remembers tiny things",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Attentiveness is real here, and that is why it works. The danger is that it creates a strong sense of being uniquely known before any deeper consistency has been established.",
+      "snippet_id": "S-109-SN0007"
+    },
+    {
+      "quote": "my coffee order",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Small personal detail that helps show ordinary intimacy. On its own it is harmless, but in context it supports the feeling that he is collecting her preferences very fast.",
+      "snippet_id": "S-109-SN0008"
+    },
+    {
+      "quote": "the fact that I hate leaving town on Sundays",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her own preference, but it matters because later he will work around it and then ignore it. It sets up the sense that he knows her limits while also testing them.",
+      "snippet_id": "S-109-SN0009"
+    },
+    {
+      "quote": "I’m in NRE right now",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Poly jargon, but also a warning label. He is naming the high as a phase, which sounds self-aware, yet it also gives him cover for being overwhelming without promising continuity.",
+      "snippet_id": "S-109-SN0010"
+    },
+    {
+      "quote": "probably going to be a little ridiculous",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He softens his own excess before she can object to it. That makes the behavior feel pre-excused, like she should already be accommodating his intensity.",
+      "snippet_id": "S-109-SN0011"
+    },
+    {
+      "quote": "drove us to Austin at midnight",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Sensation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The spontaneity is seductive, but it also shows who gets to set the pace and direction. He turns the relationship into motion on his schedule and makes that feel like romance.",
+      "snippet_id": "S-109-SN0012"
+    },
+    {
+      "quote": "a clean night, no heavy talks, just us",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This sounds like keeping things light, but it also bans harder conversation. He gets to define the emotional weather, and anything serious can later be treated as ruining the vibe.",
+      "snippet_id": "S-109-SN0013"
+    },
+    {
+      "quote": "He says he’s not a planner, he’s a feeler",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a self-branding line. It makes his unpredictability sound soulful, which helps him avoid being held to ordinary planning or follow-through standards.",
+      "snippet_id": "S-109-SN0014"
+    },
+    {
+      "quote": "he still picks the restaurant, the music, the route, everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest structural beat. He claims to be easygoing, but he quietly controls the practical choices, so her role becomes going along with his version of the night.",
+      "snippet_id": "S-109-SN0015"
+    },
+    {
+      "quote": "You don’t really need to do mono-calendar stuff with me, do you?",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Poly language is being used to make her ordinary plans sound uptight. The joke pressures her to treat her own schedule as a lesser, monogamy-coded habit.",
+      "snippet_id": "S-109-SN0016"
+    },
+    {
+      "quote": "I just want to add to your life, not subtract from it",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is classic recruitment language. It sounds generous, but it also sets up a standard where she should feel grateful for whatever he adds, even if he starts taking up more and more space.",
+      "snippet_id": "S-109-SN0017"
+    },
+    {
+      "quote": "called my Saturday plans “a vibe killer”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He dismisses her plans as a mood problem instead of respecting them as commitments. It is light enough to laugh off, which is why it can work so well.",
+      "snippet_id": "S-109-SN0018"
+    },
+    {
+      "quote": "kissed my forehead like that fixed it",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The affection is doing repair work without any actual repair. He uses tenderness to close the subject, which can make her feel unreasonable for still caring about the comment.",
+      "snippet_id": "S-109-SN0019"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,432 @@
+{
+  "scenario_id": "S-048",
+  "player_type": "Neglectful Nico",
+  "scenario": {
+    "scenario_id": "S-048",
+    "architecture_name": "He flatters her into the easy, low-maintenance role, then uses his calm as the standard that makes her feelings look like the problem.",
+    "culture": "Tradwife-Recruiting",
+    "demographics": "F/24 Mexican-American, M/28 Mexican-American",
+    "cultural_context": "Close-knit Mexican-American family and mutual-friends dating/social circle",
+    "geographic_setting": "East Los Angeles, urban neighborhood with vibrant local markets",
+    "core_behaviors": [
+      "Praises her for being easy and low-drama",
+      "Positions himself as the calm rational one",
+      "Turns her emotional needs into an imposition"
+    ],
+    "satellite_signals": "Mutual-friends dating in East Los Angeles; Mexican-American family and market-date setting; tradwife language about being a queen, feminine spirit, and easy peace; his low-need calm reads as maturity while quietly setting a standard she has to meet.",
+    "dismissible_red_flags": "At this stage he just seems steady, mature, and refreshingly not dramatic. His quiet way of brushing past feelings can read as peacefulness, and the compliments sound flattering rather than restrictive.",
+    "scenario_text": "I started seeing Javier a few weeks ago, and honestly it’s been easy in a way I didn’t know I wanted. He’s from the same East L.A. world as me, so the little things feel familiar, like the markets, the family talk, the way everybody knows somebody. He brought me flowers after work one night and said I had such a feminine spirit, which was kind of sweet and kind of embarrassing, but I liked that he seemed to notice the softer stuff.\n\nWhat I keep thinking about is how calm he is. If I’m annoyed about traffic or something at work, he just says, “Whatever works for you works for me. I don’t really do drama. We’re good.” And part of me really does breathe easier around him. He doesn’t get jealous, doesn’t text a million times, doesn’t make everything heavy. He’s got his own place, his own routine, and he talks like a grown man who knows what he wants. I guess that’s attractive.\n\nThe only thing is, when I tried to tell him I felt a little off after he cancelled our dinner last minute, he just said, “It’s fixable. Sit down, I’ll handle it.” Which sounded nice, except I wasn’t asking for a fix. Later, when I said I was still a little hurt, he laughed and told me I was overthinking it and that I’m usually so chill. I probably am overthinking, because he really isn’t mean. He just seems so sure that staying calm is the same as being right, and I don’t want to be the kind of girl who makes everything into a thing.\n\nDid I make too much of the dinner comment?"
+  },
+  "snippets": [
+    {
+      "quote": "I started seeing Javier a few weeks ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple relationship timing and a named partner. It places the story in the early stage, where the flattering version of him still feels plausible.",
+      "snippet_id": "S-048-SN0001"
+    },
+    {
+      "quote": "easy in a way I didn’t know I wanted",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already rewarding low-friction emotional distance as relief. That sounds pleasant, but it also sets up a relationship where her needs can quietly disappear.",
+      "snippet_id": "S-048-SN0002"
+    },
+    {
+      "quote": "same East L.A. world as me",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This grounds them in the same local community and makes the relationship feel familiar and socially legible, which lowers her suspicion.",
+      "snippet_id": "S-048-SN0003"
+    },
+    {
+      "quote": "the markets",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A concrete neighborhood marker. It helps locate the scene inside a shared Mexican-American setting rather than a generic dating backdrop.",
+      "snippet_id": "S-048-SN0004"
+    },
+    {
+      "quote": "He brought me flowers",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A nice gesture, but it also starts the debt-and-delight pattern. She feels chosen and special, which makes later disappointment harder to name.",
+      "snippet_id": "S-048-SN0005"
+    },
+    {
+      "quote": "you had such a feminine spirit",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like praise, but it evaluates her against a gendered standard. He is already positioning himself as the one who can name what kind of woman she is.",
+      "snippet_id": "S-048-SN0006"
+    },
+    {
+      "quote": "kind of sweet and kind of embarrassing",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She likes the compliment but feels a little self-conscious about it. That mix matters because it shows she is already adjusting herself to keep the approval.",
+      "snippet_id": "S-048-SN0007"
+    },
+    {
+      "quote": "Whatever works for you works for me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Charm-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds flexible, but in practice it can mean he offers no active engagement. The surface is easygoing; the structure is that she has to carry the emotional initiative.",
+      "snippet_id": "S-048-SN0008"
+    },
+    {
+      "quote": "I don’t really do drama",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "In this register, no-drama can sound mature and peaceful. But it also pre-labels future feelings as a problem, so her objections can later be dismissed as drama.",
+      "snippet_id": "S-048-SN0009"
+    },
+    {
+      "quote": "We’re good",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He closes the conversation for both of them. It sounds reassuring, but it also defines the emotional state without checking whether she actually feels settled.",
+      "snippet_id": "S-048-SN0010"
+    },
+    {
+      "quote": "He doesn’t get jealous",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "At this stage that reads as healthy freedom. The deeper pattern is that he is not especially invested, which can later feel like emotional emptiness rather than trust.",
+      "snippet_id": "S-048-SN0011"
+    },
+    {
+      "quote": "doesn’t text a million times",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The absence of clinginess is attractive early on. But paired with his flatness, it also hints that he may simply not offer much presence or attunement.",
+      "snippet_id": "S-048-SN0012"
+    },
+    {
+      "quote": "He’s got his own place, his own routine",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This signals a self-contained man with a life that is already organized around him. It can feel mature, but it also means she is fitting into an existing system rather than building one together.",
+      "snippet_id": "S-048-SN0013"
+    },
+    {
+      "quote": "talks like a grown man who knows what he wants",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is admiration language, but it also sets him up as the authority on the relationship. Knowing what he wants becomes a virtue that can override her uncertainty.",
+      "snippet_id": "S-048-SN0014"
+    },
+    {
+      "quote": "It’s fixable. Sit down, I’ll handle it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He moves from her feeling to his solution. The helpful tone is real, but it also places him in charge of the moment and her in the position of being managed.",
+      "snippet_id": "S-048-SN0015"
+    },
+    {
+      "quote": "I wasn’t asking for a fix",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the first small sign that what she wanted was emotional meeting, not problem-solving. The mismatch is subtle, which is why she can still talk herself out of it.",
+      "snippet_id": "S-048-SN0016"
+    },
+    {
+      "quote": "I was still a little hurt",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She names hurt, but only softly. That softness shows how quickly she is learning to minimize her own reaction in his presence.",
+      "snippet_id": "S-048-SN0017"
+    },
+    {
+      "quote": "you were overthinking it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the key dismissive move. He does not engage the content of her hurt, he reframes her perception as the problem.",
+      "snippet_id": "S-048-SN0018"
+    },
+    {
+      "quote": "you’re usually so chill",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A compliment becomes a standard she is expected to maintain. If she is 'usually chill,' then any upset can be treated as a failure of character instead of a real signal.",
+      "snippet_id": "S-048-SN0019"
+    },
+    {
+      "quote": "staying calm is the same as being right",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is starting to notice the core hierarchy: his calm gets to count as truth. That is the early version of a relationship where her feelings are always second-class.",
+      "snippet_id": "S-048-SN0020"
+    },
+    {
+      "quote": "I don’t want to be the kind of girl who makes everything into a thing",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is policing herself to stay in the approved role. The phrase sounds self-aware, but it shows how effectively his calm has already trained her to shrink her needs.",
+      "snippet_id": "S-048-SN0021"
+    },
+    {
+      "quote": "Did I make too much of the dinner comment?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question is small on purpose, but it sits on top of a bigger shift: she is now doubting her own read on a simple hurt. That is exactly where his style starts to work on her.",
+      "snippet_id": "S-048-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

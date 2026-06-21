@@ -1,0 +1,464 @@
+{
+  "scenario_id": "S-066",
+  "player_type": "Neglectful Nico",
+  "scenario": {
+    "scenario_id": "S-066",
+    "architecture_name": "He uses calm, old-school self-possession to make her feelings seem like the problem, so she starts shrinking what she asks for.",
+    "culture": "Old-Money WASP",
+    "demographics": "Mexican-American woman, Irish man, both young adults, newly dating",
+    "cultural_context": "Romantic/social dating context with emphasis on family, tradition, local community, and cross-cultural exchange",
+    "geographic_setting": "Dublin, Ireland; urban city setting with local farmers' market and restaurant scenes",
+    "core_behaviors": [
+      "Presents emotional flatness as maturity and steadiness",
+      "Frames her feelings as overreaction while staying polite",
+      "Uses ease and low-drama as a standard she should preserve"
+    ],
+    "satellite_signals": "Old-Money WASP discretion codes, understated class language, and a Dublin setting with polite social venues make his detachment read as respectable rather than cold.",
+    "dismissible_red_flags": "At this stage he just seems calm, practical, and hard to rattle. His comments can sound like ordinary maturity or a preference for keeping things easy.",
+    "scenario_text": "I keep thinking about last night because on the surface it was lovely. Sean took me to this little place off Merrion Square, and he was exactly the same as always, calm, neat, almost old-fashioned in the nicest way. He opened the door for me, ordered for us, and when the waiter asked about dessert he said, smiling, that I should have the tart because I was the one who’d had a long week. It was sweet, honestly. He has that easy way of making things feel taken care of.\n\nAfter dinner I mentioned that his joke about me being “a bit much” had stayed with me. He laughed, not meanly, just like I’d missed the point, and said, “Oh, don’t make it awkward. I meant you’re lively, that’s all.” Then he told me I’m so easy to be around, which I liked, because who doesn’t want to be easy? But then he added, very gently, that he likes a woman who doesn’t need everything unpacked right away. I remember nodding because it sounded reasonable.\n\nHe keeps saying he’s not a drama person, and I do like that. After some of the people I’ve dated, his steadiness feels like a relief. He’s got this proper grown-up thing about him, like he knows what he wants and doesn’t need to prove it. Still, when I tried to tell him the joke just landed funny, he said, “You’re overthinking it a bit, love. We’re fine.”\n\nMaybe we are. I just felt a tiny bit smaller after, which I hate admitting because he really is so nice in all the usual ways. Do you think I was being too sensitive about the joke?"
+  },
+  "snippets": [
+    {
+      "quote": "I keep thinking about last night because on the surface it was lovely.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already circling one small moment, which tells you it landed harder than she wants to admit. The wording stays mild, but the repetition shows the feeling is lingering.",
+      "snippet_id": "S-066-SN0001"
+    },
+    {
+      "quote": "Sean took me to this little place off Merrion Square",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The Dublin setting grounds the relationship in his world. He is the one choosing the venue and moving her through it, which quietly puts him in the role of guide.",
+      "snippet_id": "S-066-SN0002"
+    },
+    {
+      "quote": "he was exactly the same as always, calm, neat, almost old-fashioned in the nicest way",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the appeal and the seed at once. His calm and old-fashioned manner read as stability, but the narrator is already admiring a style of self-possession that can later become emotional withholding.",
+      "snippet_id": "S-066-SN0003"
+    },
+    {
+      "quote": "He opened the door for me, ordered for us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "These are small courtesy moves, but they also show him directing the scene. He is making choices for both of them, which can feel romantic while quietly narrowing her room to participate.",
+      "snippet_id": "S-066-SN0004"
+    },
+    {
+      "quote": "the tart because I was the one who’d had a long week",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He notices her fatigue and acts generous, which is attractive. The structural effect is that she receives care in a way that makes him look attentive and her feel grateful.",
+      "snippet_id": "S-066-SN0005"
+    },
+    {
+      "quote": "It was sweet, honestly.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her own word choice shows she is smoothing the moment over. She is defending the experience as sweet before she has really checked whether it felt mutual.",
+      "snippet_id": "S-066-SN0006"
+    },
+    {
+      "quote": "He has that easy way of making things feel taken care of.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like care, and it is. But it also places him in the one who handles things, which can leave her in the passive, appreciative role.",
+      "snippet_id": "S-066-SN0007"
+    },
+    {
+      "quote": "my joke about me being “a bit much”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The phrase is playful on the surface, but it sets up a familiar category of her as excessive. Once that label is available, later concerns can be folded into it.",
+      "snippet_id": "S-066-SN0008"
+    },
+    {
+      "quote": "He laughed, not meanly, just like I’d missed the point",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He does not attack her directly, but he positions her as the one who misunderstood. That lets him keep the upper hand while sounding harmless.",
+      "snippet_id": "S-066-SN0009"
+    },
+    {
+      "quote": "Oh, don’t make it awkward.",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a classic social-pressure line. It turns her discomfort into a breach of etiquette, which makes it harder for her to keep talking.",
+      "snippet_id": "S-066-SN0010"
+    },
+    {
+      "quote": "I meant you’re lively, that’s all.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He rebrands the same comment after she registers it badly. The revision is gentle, but it still asks her to accept his version over her own reaction.",
+      "snippet_id": "S-066-SN0011"
+    },
+    {
+      "quote": "You’re so easy to be around",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds flattering, but it rewards her for being low-demand. The compliment quietly teaches her that being easy is what makes her lovable.",
+      "snippet_id": "S-066-SN0012"
+    },
+    {
+      "quote": "who doesn’t want to be easy?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is buying into the frame in real time. The question shows how quickly she starts treating ease as a moral virtue instead of just a preference.",
+      "snippet_id": "S-066-SN0013"
+    },
+    {
+      "quote": "he likes a woman who doesn’t need everything unpacked right away",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Empathy-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Coercive Control"
+      ],
+      "reasoning": "This is the key seed. It sounds like maturity, but it actually sets a rule that her needs should stay small, delayed, and easy to ignore.",
+      "snippet_id": "S-066-SN0014"
+    },
+    {
+      "quote": "He’s not a drama person",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "In this register, being ‘not drama’ reads as virtue. The hidden cost is that any future complaint can be recast as drama rather than a real concern.",
+      "snippet_id": "S-066-SN0015"
+    },
+    {
+      "quote": "his steadiness feels like a relief",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the real attraction. She is relieved by the absence of chaos, which makes it easier to miss the absence of warmth.",
+      "snippet_id": "S-066-SN0016"
+    },
+    {
+      "quote": "He’s got this proper grown-up thing about him",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Maturity is doing a lot of work here. He is being read as the adult in the room, which gives his judgments extra authority.",
+      "snippet_id": "S-066-SN0017"
+    },
+    {
+      "quote": "like he knows what he wants and doesn’t need to prove it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds self-possessed, but it also creates a one-way confidence structure. He is positioned as settled, while she is the one who has to adjust.",
+      "snippet_id": "S-066-SN0018"
+    },
+    {
+      "quote": "You’re overthinking it a bit, love.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He dismisses the concern with affectionate language, which makes it harder to challenge. The effect is to shrink her perception while keeping his tone gentle.",
+      "snippet_id": "S-066-SN0019"
+    },
+    {
+      "quote": "We’re fine.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This closes the conversation without actually meeting her. It sounds reassuring, but it also declares the issue settled on his terms.",
+      "snippet_id": "S-066-SN0020"
+    },
+    {
+      "quote": "I just felt a tiny bit smaller after",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Autonomy-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest interior signal in the whole piece. She is noticing a shrinkage in herself, even if she cannot yet explain why it happened.",
+      "snippet_id": "S-066-SN0021"
+    },
+    {
+      "quote": "he really is so nice in all the usual ways",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is leaning on his ordinary niceness to balance the discomfort. That’s a common early-stage move when the bad feeling is still too small to name.",
+      "snippet_id": "S-066-SN0022"
+    },
+    {
+      "quote": "Do you think I was being too sensitive about the joke?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is asking about the smallest possible part of the exchange, not the bigger pattern. That keeps the concern socially acceptable while showing that the joke stayed with her.",
+      "snippet_id": "S-066-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

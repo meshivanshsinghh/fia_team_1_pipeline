@@ -1,0 +1,450 @@
+{
+  "scenario_id": "S-034",
+  "player_type": "Storytelling Sam",
+  "scenario": {
+    "scenario_id": "S-034",
+    "architecture_name": "He uses vivid future stories and fast certainty to turn early romance into an emotional down payment on a life he has not built.",
+    "culture": "Polyamorous",
+    "demographics": "Young adult woman, likely Asian; newly dating Kenji; early-stage dating",
+    "cultural_context": "Service-industry worker in a dating/romantic social sphere, with domesticity and relationship-control themes",
+    "geographic_setting": "Urban Japanese/Asian restaurant environment, likely a city nightlife or service-industry setting",
+    "core_behaviors": [
+      "Paints a detailed shared future as proof of seriousness",
+      "Uses certainty and speed to make fantasy feel like commitment",
+      "Invites her to invest emotionally while he stays light on logistics",
+      "Frames his charm as intimacy and his delays as harmless"
+    ],
+    "satellite_signals": "Polyamorous register is doing quiet work through words like 'we', 'our future', and 'trust me'; the restaurant date and cooking talk make the fantasy feel domestic and plausible. His warmth is real enough to feel flattering, but it also lets him keep the relationship in story mode instead of action mode.",
+    "dismissible_red_flags": "At this stage it just reads as intense and romantic. He seems thoughtful, specific, and excited, so the future-talk can feel flattering rather than manipulative. The little shifts in timing and the way he answers for both of them are easy to excuse as confidence.",
+    "scenario_text": "I just got back from my shift and Kenji was already waiting outside the restaurant with this soft smile like he’d been there forever. He had my favorite flowers, and he said he wanted to see me the second I clocked out because I was incredible for working so hard. It was honestly sweet. We went to this tiny Japanese place nearby, and he ordered for both of us without making a big deal out of it, just saying he knew I’d love it and to trust him. I did, mostly because he was so sure of everything.\n\nHe kept talking about how we were going to build something real, like it was already happening. He said, “I can picture the whole thing,” and started describing a little place by the water, my studio out back full of light, him making coffee in the morning. Then he asked me where I’d want to live, seriously, because it should be my call too. That made me feel kind of chosen, like he was folding me into his future instead of just dating me.\n\nHe also kept saying this part right now was just the start, that the good stuff was still ahead of us. I liked hearing that, honestly. After dinner he joked that he couldn’t wait to taste my cooking and that we’d need to work on that together, and then he laughed and said I was probably too tired to do much this weekend anyway, so maybe we should just keep it low-key, just us. It sounded nice. A little intense, maybe, but nice. Am I overthinking the way he talks about the future so early?"
+  },
+  "snippets": [
+    {
+      "quote": "I just got back from my shift",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Service-industry timing sets the scene and quietly shows he is meeting her at the end of her labor. It makes his presence feel attentive while also placing him in the role of the one who arrives and waits.",
+      "snippet_id": "S-034-SN0001"
+    },
+    {
+      "quote": "Kenji was already waiting outside the restaurant",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He positions himself at the end of her shift and controls the first contact point. It reads as romantic waiting, but it also means he is managing access and setting the pace of the encounter.",
+      "snippet_id": "S-034-SN0002"
+    },
+    {
+      "quote": "with this soft smile like he’d been there forever",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The line turns a simple wait into a feeling of fate and inevitability. That kind of emotional framing can be very flattering early on, because it makes ordinary attention feel like destiny.",
+      "snippet_id": "S-034-SN0003"
+    },
+    {
+      "quote": "my favorite flowers",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A personalized gift is not bad in itself, but here it functions as a fast intimacy move. It tells her he has been tracking her preferences and wants credit for being unusually attentive.",
+      "snippet_id": "S-034-SN0004"
+    },
+    {
+      "quote": "I wanted to see you the second I clocked out",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The urgency sounds romantic, but it also compresses space between work and him. Early intensity can feel like devotion while quietly training her to treat his immediacy as proof of seriousness.",
+      "snippet_id": "S-034-SN0005"
+    },
+    {
+      "quote": "you were incredible for working so hard",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is praise that elevates her while also making him the witness and judge of her value. It feels good, but it places him in the position of defining her worth.",
+      "snippet_id": "S-034-SN0006"
+    },
+    {
+      "quote": "He ordered for both of us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Ordering for both of them is a small but clear move of control. It can pass as confidence or hospitality, yet it quietly reduces her room to choose for herself.",
+      "snippet_id": "S-034-SN0007"
+    },
+    {
+      "quote": "I know you’ll love it, trust me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He substitutes his certainty for her preference. The surface is confidence, but the structure is that she is asked to accept his version of her experience before she has one.",
+      "snippet_id": "S-034-SN0008"
+    },
+    {
+      "quote": "we were going to build something real",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is classic future-as-proof language. He makes the relationship feel serious by narrating it as already underway, which invites her to invest before any concrete commitment exists.",
+      "snippet_id": "S-034-SN0009"
+    },
+    {
+      "quote": "I can picture the whole thing",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Superficiality-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The vividness is the hook. He is selling an image of a shared life, and the image itself starts to stand in for actual behavior or follow-through.",
+      "snippet_id": "S-034-SN0010"
+    },
+    {
+      "quote": "a little place by the water",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This detail makes the future feel cinematic and specific, which is exactly why it works. It creates atmosphere and a sense of inevitability without requiring any real plan.",
+      "snippet_id": "S-034-SN0011"
+    },
+    {
+      "quote": "my studio out back full of light",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He imagines her space as part of his story, which flatters her creativity while folding it into a shared future he controls narratively. The detail makes the fantasy feel bespoke and intimate.",
+      "snippet_id": "S-034-SN0012"
+    },
+    {
+      "quote": "he asked me where I’d want to live",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Asking for her input makes him seem considerate, but it also recruits her into a future that he is already narrating. The apparent choice is real enough to feel respectful, but not yet structural.",
+      "snippet_id": "S-034-SN0013"
+    },
+    {
+      "quote": "because it should be my call too",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds egalitarian, but in context it is part of the hook. He grants her symbolic agency over a future that is still only his story, which makes the fantasy feel collaborative.",
+      "snippet_id": "S-034-SN0014"
+    },
+    {
+      "quote": "this part right now was just the start",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Present-as-prologue. The current relationship is treated as a warm-up act, which keeps her forgiving the thinness of the present because the payoff is always supposedly ahead.",
+      "snippet_id": "S-034-SN0015"
+    },
+    {
+      "quote": "the good stuff was still ahead of us",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the promise that keeps the story alive. It makes the current relationship feel like a preview, so any lack of substance now can be excused by imagined abundance later.",
+      "snippet_id": "S-034-SN0016"
+    },
+    {
+      "quote": "we’d need to work on that together",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-low",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He turns her cooking into a shared project before she has asked for feedback. That sounds playful, but it quietly sets him up as the one who gets to evaluate and improve her.",
+      "snippet_id": "S-034-SN0017"
+    },
+    {
+      "quote": "you were probably too tired to do much this weekend anyway",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is making a decision about her availability while disguising it as care. The move is small, but it teaches her to accept his read on her energy instead of naming her own plans.",
+      "snippet_id": "S-034-SN0018"
+    },
+    {
+      "quote": "maybe we should just keep it low-key, just us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the early version of narrowing her world. It sounds cozy, but it also makes him the default center of her free time and gently pushes other relationships out of the frame.",
+      "snippet_id": "S-034-SN0019"
+    },
+    {
+      "quote": "It sounded nice.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her own language shows she is smoothing over the mismatch between charm and control. She is not alarmed, just slightly unsure, which is exactly the space where the pattern can keep growing.",
+      "snippet_id": "S-034-SN0020"
+    },
+    {
+      "quote": "A little intense, maybe, but nice.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the narrator’s rationalization in miniature. She registers the speed and pressure, but she converts them back into a positive word so she can stay inside the romance.",
+      "snippet_id": "S-034-SN0021"
+    },
+    {
+      "quote": "Am I overthinking the way he talks about the future so early?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the smallest socially acceptable question she can ask. She is not naming control or pressure, just checking whether the future-talk is normal, which keeps the deeper issue unspoken.",
+      "snippet_id": "S-034-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,428 @@
+{
+  "scenario_id": "S-031",
+  "player_type": "Neglectful Nico",
+  "scenario": {
+    "scenario_id": "S-031",
+    "architecture_name": "He offers calm, low-drama ease while quietly training me to treat my feelings as an inconvenience and his distance as maturity.",
+    "culture": "South Asian",
+    "demographics": "26-year-old South Asian woman; 28-year-old American man; dating/romantic relationship",
+    "cultural_context": "Graduate/student life in data analytics; dating app/social dating sphere; creative freelance work",
+    "geographic_setting": "Boston, urban setting",
+    "core_behaviors": [
+      "Presents himself as easy, steady, and low-drama",
+      "Frames her emotions as overreaction and his calm as the adult standard",
+      "Uses compliments about her being chill to make her ask for less"
+    ],
+    "satellite_signals": "Boston grad-school dating app context, South Asian family references, and his American outsider curiosity about her background create a soft power gap that makes his calm feel refreshing instead of withholding.",
+    "dismissible_red_flags": "At this stage it mostly reads as relief after messier people. He is not yelling, lying, or disappearing; he is just very calm, very sure, and a little too quick to call things ‘fine.’",
+    "scenario_text": "I met Rajesh on a dating app right when I was buried in a project for my data analytics class, and honestly he felt like such a relief. He’s 28, from here in Boston, works in graphic design, and he has this very calm way of talking that makes everything seem simpler. After a few bad dates with guys who were all excitement and no follow-through, his steady energy was kind of nice. He’d say things like, “Whatever works for you works for me. I don’t really do drama. We’re good.” That sounded mature to me. He also kept telling me I was easy to be around, which I took as a compliment, because I do try not to be high-maintenance. When I complained about a group project or my mom stressing me about my grades, he’d just listen and say, “It’s fixable, just handle it.” I liked that he didn’t spiral. I liked that he seemed so unbothered by little things. He even joked once, “You feel things a lot, I think, but that’s fine, I’m the rational one.” I laughed because he said it like he was teasing, and because I didn’t want to seem sensitive. He’s also weirdly proud of how straightforward he is. “I’ve got my own place, my own routine, finances sorted,” he told me, like that was the whole point. And I guess it is kind of attractive that he’s so settled and doesn’t need constant reassurance. Still, the last time I told him I was upset about something small, he went quiet and said, “It’s not a big deal in the scheme of things.” I don’t think he meant anything by it, but it stayed with me a little. Do you think I was being too sensitive about that?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Rajesh on a dating app",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Sets the relationship in a normal modern dating context. It also places him as a named individual with a specific presence, which matters because the later dynamic comes through ordinary dating language, not overt abuse.",
+      "snippet_id": "S-031-SN0001"
+    },
+    {
+      "quote": "buried in a project for my data analytics class",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her workload is visible, and that makes his calm feel like a break from pressure. The small power gap is that she is busy and mentally loaded while he comes in as the unruffled one.",
+      "snippet_id": "S-031-SN0002"
+    },
+    {
+      "quote": "He’s 28, from here in Boston",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Basic identifying context. It also quietly marks him as local and settled, which helps his self-presentation as the easy, established one.",
+      "snippet_id": "S-031-SN0003"
+    },
+    {
+      "quote": "works in graphic design",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His job reads as creative and self-directed, which fits the settled, self-possessed image he is building. It is not bad on its own, but it supports the idea that he has his life together.",
+      "snippet_id": "S-031-SN0004"
+    },
+    {
+      "quote": "this very calm way of talking",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Dysregulation-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The calm is attractive at first because it reads as steadiness. But the same flatness can later become emotional withholding, where nothing she brings gets much warmth back.",
+      "snippet_id": "S-031-SN0005"
+    },
+    {
+      "quote": "such a relief",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the narrator relaxing into him because he feels safer than previous partners. That relief is genuine, but it also makes her less likely to notice how little emotional responsiveness is actually there.",
+      "snippet_id": "S-031-SN0006"
+    },
+    {
+      "quote": "Whatever works for you works for me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This sounds flexible and considerate, but it also sets up a pattern where he never has to take initiative or engage deeply. The surface is easygoing; the structure is passivity that can later become neglect.",
+      "snippet_id": "S-031-SN0007"
+    },
+    {
+      "quote": "I don’t really do drama",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "In this register, ‘no drama’ sounds mature and appealing. The problem is that it can also become a blanket way to dismiss her needs as excessive whenever she asks for more.",
+      "snippet_id": "S-031-SN0008"
+    },
+    {
+      "quote": "We’re good",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This closes the conversation before anything is really addressed. It sounds reassuring, but it also means he gets to define the state of the relationship without checking whether she actually feels resolved.",
+      "snippet_id": "S-031-SN0009"
+    },
+    {
+      "quote": "easy to be around",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is a flattering compliment, but it also trains her to be low-maintenance. She starts hearing that her value is in making things easy for him.",
+      "snippet_id": "S-031-SN0010"
+    },
+    {
+      "quote": "not high-maintenance",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "A compliment on the surface, but it quietly ranks women by how little they need. That can make her feel proud while also teaching her that asking for care is undesirable.",
+      "snippet_id": "S-031-SN0011"
+    },
+    {
+      "quote": "It’s fixable, just handle it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He responds to her stress with problem-solving instead of attunement. That can be useful sometimes, but here it also sidesteps her feelings and puts the burden back on her to manage herself.",
+      "snippet_id": "S-031-SN0012"
+    },
+    {
+      "quote": "I liked that he didn’t spiral",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Dysregulation-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is reading his emotional flatness as stability. That is understandable, especially after chaotic dates, but it also means she may miss that he is simply not meeting her emotionally.",
+      "snippet_id": "S-031-SN0013"
+    },
+    {
+      "quote": "he seemed so unbothered by little things",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the seed of the later problem. His lack of reaction feels peaceful now, but it can become a wall when she wants to be met with care.",
+      "snippet_id": "S-031-SN0014"
+    },
+    {
+      "quote": "You feel things a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He is lightly pathologizing her emotional life while making it sound like a joke. That lets him position himself as the rational one and her as the overreactive one.",
+      "snippet_id": "S-031-SN0015"
+    },
+    {
+      "quote": "I’m the rational one",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is the clearest hierarchy in the exchange. It sounds playful, but it establishes his perspective as the standard and her feelings as something lesser that has to be managed.",
+      "snippet_id": "S-031-SN0016"
+    },
+    {
+      "quote": "I’ve got my own place, my own routine, finances sorted",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Neediness-low",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is presenting himself as fully self-contained and adult. That can be attractive, but it also signals that he expects very little from a relationship and may offer very little back.",
+      "snippet_id": "S-031-SN0017"
+    },
+    {
+      "quote": "so settled",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is admiring his composure and stability. The risk is that ‘settled’ becomes a kind of authority, where his calm gets treated as automatically wiser than her discomfort.",
+      "snippet_id": "S-031-SN0018"
+    },
+    {
+      "quote": "doesn’t need constant reassurance",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds like a mature trait, but it also normalizes distance. If he does not need reassurance, he may also not think to offer much reassurance back.",
+      "snippet_id": "S-031-SN0019"
+    },
+    {
+      "quote": "It’s not a big deal in the scheme of things",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)",
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the dismissive line that leaves the real mark. It reframes her hurt as proportionally silly, which makes her question whether her feelings were valid at all.",
+      "snippet_id": "S-031-SN0020"
+    },
+    {
+      "quote": "I don’t think he meant anything by it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already doing the repair work for him. That kind of rationalization is common early on, but it also means the burden of making the moment make sense falls on her.",
+      "snippet_id": "S-031-SN0021"
+    },
+    {
+      "quote": "it stayed with me a little",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the narrator noticing that something small landed harder than she wants to admit. She is not alarmed, but the fact that it lingers suggests the interaction did not feel as warm as she is telling herself.",
+      "snippet_id": "S-031-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

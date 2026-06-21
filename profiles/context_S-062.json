@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "demographics": "South Asian immigrant man, likely adult, dating status: newly dating",
+    "geographic_setting": "San Francisco, urban tech environment",
+    "cultural_context": "Tech worker / dating in a Bay Area professional social circle",
+    "ideological_register": "South Asian"
+  }
+}

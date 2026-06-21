@@ -1,0 +1,471 @@
+{
+  "scenario_id": "S-064",
+  "player_type": "Menacing Marley",
+  "scenario": {
+    "scenario_id": "S-064",
+    "architecture_name": "He builds romance as protection and then starts turning care into a right to track, steer, and collect her time.",
+    "culture": "Polyamorous",
+    "demographics": "Adult woman, likely Latina, newly dating a man in Brooklyn",
+    "cultural_context": "Urban Latino social/dating scene; retail manager and salsa/community nightlife sphere",
+    "geographic_setting": "Brooklyn, New York City; specifically Sunset Park and a retail/clothing-store setting",
+    "core_behaviors": [
+      "Uses constant contact as a baseline for closeness",
+      "Frames protection as a reason to manage her movement and attention",
+      "Turns small delays into a test of loyalty and respect"
+    ],
+    "satellite_signals": "Polyamorous in-group language sits next to old-school protection talk, plus retail and nightlife details that make his attention feel normal and local.",
+    "dismissible_red_flags": "At this stage it can read like a sweet, intense guy who just likes her a lot. The check-ins and offers to help are easy to take as caring rather than controlling.",
+    "scenario_text": "I met Carlos at a salsa night in Sunset Park, and he was the kind of guy who makes a room feel louder just by showing up. He asked for my number before the second song ended, then texted me the next morning, Morning. What’s your day looking like? I liked that he was direct. It felt easy.\n\nHe’s been doing little things like that ever since. Just thinking about you. Send me a pic of where you’re at. I know that sounds a little much, but with him it comes off sweet, like he’s really paying attention. He even stopped by the clothing store I manage with coffee and said he wanted to see my world. That made me feel kind of special, honestly.\n\nThe only thing that sat with me was how he noticed when I went quiet for a few hours. You went quiet on me earlier. Everything okay? He said it like he was checking in, not checking up. Then he laughed and said, I’m a simple guy. If I text someone I care about, I like to hear back. That’s all. I told him work gets hectic and he said, It’s not about checking up on you. I just don’t like being left wondering, that’s all. I guess I get that. He’s just intense in a way that feels more protective than anything.\n\nHe keeps saying things like, I’m just a really passionate man, and, I take care of my woman, that’s just how I am. I like that he’s not lukewarm. He also said he’d never let anyone treat me the way my ex did, which was actually sweet. Still, when he said, I’ll drive you. I don’t love the idea of you out on your own that late, I kind of paused. It was thoughtful, but it also made me feel like he was already deciding things. Am I overthinking the way he said it?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Carlos at a salsa night in Sunset Park",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the relationship in a specific Brooklyn Latino nightlife scene. It helps explain why his attention can feel local, familiar, and flattering rather than immediately suspicious.",
+      "snippet_id": "S-064-SN0001"
+    },
+    {
+      "quote": "he was the kind of guy who makes a room feel louder",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is attraction language, but it also signals a big, dominating presence. The charm is part of the pull, and the volume hints at how much space he likes to take.",
+      "snippet_id": "S-064-SN0002"
+    },
+    {
+      "quote": "He asked for my number before the second song ended",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Fast escalation. It reads as confident and romantic, but it also shows how quickly he moves to claim access before she’s had much time to decide.",
+      "snippet_id": "S-064-SN0003"
+    },
+    {
+      "quote": "Morning. What’s your day looking like?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A friendly first text, but it starts a daily-contact baseline. The question also invites her to account for her schedule to him, which can become an expectation.",
+      "snippet_id": "S-064-SN0004"
+    },
+    {
+      "quote": "Just thinking about you.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds sweet, and at first it is. The structure underneath is early tethering, where constant attention becomes the proof of closeness.",
+      "snippet_id": "S-064-SN0005"
+    },
+    {
+      "quote": "Send me a pic of where you’re at.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is framed as flirtation, but it normalizes reporting her location. That creates a subtle monitoring habit while still sounding like he just wants to feel connected.",
+      "snippet_id": "S-064-SN0006"
+    },
+    {
+      "quote": "I know that sounds a little much",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She notices the ask is a bit much, but immediately softens it. That little hedge shows she is already negotiating with herself instead of trusting the discomfort.",
+      "snippet_id": "S-064-SN0007"
+    },
+    {
+      "quote": "it comes off sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Reality-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is translating a potentially intrusive habit into a positive one so she can keep the feeling good. The wording shows how quickly she smooths over the edge.",
+      "snippet_id": "S-064-SN0008"
+    },
+    {
+      "quote": "the clothing store I manage",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her job matters because he shows up there, which means he’s entering her world rather than staying in a separate lane. It also gives him access to her time and attention on her turf.",
+      "snippet_id": "S-064-SN0009"
+    },
+    {
+      "quote": "wanted to see my world",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds romantic, but it also makes her life into something he gets to visit and evaluate. The phrase flatters her while quietly centering his access to her space.",
+      "snippet_id": "S-064-SN0010"
+    },
+    {
+      "quote": "That made me feel kind of special",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is aware the gesture gives her a little rush of being chosen. That feeling is pleasant, but it also makes her more likely to overlook the cost of the attention.",
+      "snippet_id": "S-064-SN0011"
+    },
+    {
+      "quote": "You went quiet on me earlier.",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small check-in that already treats her silence as something she owes an explanation for. It shifts the burden onto her to manage his comfort.",
+      "snippet_id": "S-064-SN0012"
+    },
+    {
+      "quote": "Everything okay?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "On the surface it is caring. In context, it keeps the expectation that her responsiveness belongs to him, so even a normal gap becomes something to answer for.",
+      "snippet_id": "S-064-SN0013"
+    },
+    {
+      "quote": "I’m a simple guy.",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is self-branding. It sounds humble and straightforward, but it also frames his preferences as natural law, which makes later demands feel like common sense.",
+      "snippet_id": "S-064-SN0014"
+    },
+    {
+      "quote": "If I text someone I care about, I like to hear back.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He turns reply speed into a moral issue. The line sounds reasonable, but it quietly sets a standard she is supposed to meet if she wants to be seen as respectful.",
+      "snippet_id": "S-064-SN0015"
+    },
+    {
+      "quote": "It’s not about checking up on you.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He denies the controlling part while still insisting on the behavior. That denial is what makes the line slippery, because it asks her to accept his framing over her own read.",
+      "snippet_id": "S-064-SN0016"
+    },
+    {
+      "quote": "I just don’t like being left wondering",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This makes his discomfort the reason she should stay responsive. It sounds mild, but it creates a standing obligation to prevent his unease.",
+      "snippet_id": "S-064-SN0017"
+    },
+    {
+      "quote": "I’m just a really passionate man",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Psychopathy / Terror"
+      ],
+      "reasoning": "He is presenting intensity as identity, not as something to regulate. In the honeymoon phase that can feel exciting, but it also excuses volatility before it shows itself.",
+      "snippet_id": "S-064-SN0018"
+    },
+    {
+      "quote": "I take care of my woman",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is affectionate on the surface, but it places him in the role of manager or provider and her in the role of the one being handled. The ownership feel is already there in the wording.",
+      "snippet_id": "S-064-SN0019"
+    },
+    {
+      "quote": "that’s just how I am",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He presents his behavior as fixed and not up for discussion. That makes it harder for her to imagine change later, because the line frames his habits as personality rather than choice.",
+      "snippet_id": "S-064-SN0020"
+    },
+    {
+      "quote": "he’d never let anyone treat me the way my ex did",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is reassuring because it positions him as the opposite of a bad ex. But it also casts him as the one who gets to decide what treatment is acceptable and who gets to intervene.",
+      "snippet_id": "S-064-SN0021"
+    },
+    {
+      "quote": "I’ll drive you.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A small chivalrous offer, but it also puts him in charge of movement. In a dating context, that can easily become a habit of deciding where she goes and how.",
+      "snippet_id": "S-064-SN0022"
+    },
+    {
+      "quote": "I don’t love the idea of you out on your own that late",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds protective, but it frames her independent movement as a problem for him to manage. The concern is real enough to feel flattering, which is why it can work so well early on.",
+      "snippet_id": "S-064-SN0023"
+    },
+    {
+      "quote": "it also made me feel like he was already deciding things",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the moment where her body notices the asymmetry before her mind fully names it. She is not alarmed, but she can feel that his care comes with a steering hand.",
+      "snippet_id": "S-064-SN0024"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,467 @@
+{
+  "scenario_id": "S-088",
+  "player_type": "Arrogant Avery",
+  "scenario": {
+    "scenario_id": "S-088",
+    "architecture_name": "He flatters my mind and uses that admiration to appoint himself as the one who can correct, interpret, and steer me.",
+    "culture": "MAGA",
+    "demographics": "Native American woman, recently moved; Ethan, male, from Ohio",
+    "cultural_context": "Newly relocated worker in a city, navigating a new job, family ties, and a romantic relationship",
+    "geographic_setting": "Albuquerque, New Mexico; urban city setting, with reference to the Navajo Nation and a suburban town in Ohio",
+    "core_behaviors": [
+      "Performs intellectual admiration as a way to earn authority",
+      "Frames correction as care and disagreement as a thinking problem",
+      "Uses his calm certainty to make me doubt my own read"
+    ],
+    "satellite_signals": "MAGA-coded language about common sense, real Americans, and family values; Ohio versus Albuquerque contrast; his confidence around facts, plans, and what is 'safe' or 'smart.'",
+    "dismissible_red_flags": "At this stage it mostly feels like chemistry and high standards. His corrections sound thoughtful, and his certainty can read as reassuring instead of controlling.",
+    "scenario_text": "I’ve been seeing Ethan for a couple months, and honestly I like how sharp he is. He grew up in a suburb outside Columbus, works in insurance now, and has that blunt Ohio way of saying whatever he thinks. At first it was kind of refreshing. He’ll say, “Ask me anything, honestly,” and then go off about history, markets, or how my car works like it’s no big deal. I do like talking to him. It’s the most stimulating part of my week.\n\nHe called me brilliant after I explained a problem at work, and I swear I floated home. He said, “You could do something extraordinary. You’ve just never had anyone who saw it.” I know that sounds dramatic, but it felt good. Like maybe he really gets me. He also keeps saying I’m “not like most people,” which I know is cheesy, but in a nice way.\n\nThe only thing that sits with me a little is how often he corrects me. It’s never mean exactly. More like, “No, common misconception,” or “Let me break it down for you.” He says he’s just being honest, not blowing smoke. And when we disagree, he gets this calm look and says, “I enjoy a good debate. Most people can’t keep up.” I usually laugh because he’s smiling when he says it.\n\nHe has this whole thing about common sense, real Americans, and family values, and he talks like facts are facts. If I push back, he’ll say I’m making it emotional. Maybe I am sometimes. I just don’t want to turn something small into a fight, especially when he’s usually right about practical stuff. Still, last night when he said, “You’re not really going to wear that, are you?” I changed before we left and told myself he was just trying to help. Was I being too sensitive about the comment?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-088-SN0001",
+      "quote": "I’ve been seeing Ethan for a couple months",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This places the relationship early, which matters because the control is still disguised as interest. The narrator is attached enough to be thinking about him, but not yet alarmed."
+    },
+    {
+      "snippet_id": "S-088-SN0002",
+      "quote": "he grew up in a suburb outside Columbus",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple background detail, but it also roots him in a specific American default that he later uses as the standard of common sense."
+    },
+    {
+      "snippet_id": "S-088-SN0003",
+      "quote": "works in insurance now",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "His job is ordinary, but it helps sell him as practical and competent. That practical persona is what makes his later steering feel reasonable instead of intrusive."
+    },
+    {
+      "snippet_id": "S-088-SN0004",
+      "quote": "that blunt Ohio way of saying whatever he thinks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "She reads bluntness as a regional style, not a choice to talk over her. The line also normalizes his lack of tact as authenticity, which makes correction easier to swallow."
+    },
+    {
+      "snippet_id": "S-088-SN0005",
+      "quote": "Ask me anything, honestly",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds open and generous, but it also invites him to become the authority on everything. He is offering access on his terms, which sets up him as the one who knows."
+    },
+    {
+      "snippet_id": "S-088-SN0006",
+      "quote": "history, markets, or how my car works",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He moves from broad knowledge into practical domains that affect her daily life. The pattern is not just intelligence, it is competence being used to position himself as the fixer."
+    },
+    {
+      "snippet_id": "S-088-SN0007",
+      "quote": "It’s the most stimulating part of my week",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already rewarding him for the intensity of the interaction. That makes his attention feel special, which lowers the chance she’ll notice the control inside it."
+    },
+    {
+      "snippet_id": "S-088-SN0008",
+      "quote": "He called me brilliant",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is praise, but it also sets up a hierarchy where his approval defines her value. Calling her brilliant is flattering because it sounds rare and earned."
+    },
+    {
+      "snippet_id": "S-088-SN0009",
+      "quote": "You could do something extraordinary",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is mentor language. He elevates her future while quietly making himself the person who can see, name, and guide that future."
+    },
+    {
+      "snippet_id": "S-088-SN0010",
+      "quote": "You’ve just never had anyone who saw it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He frames himself as uniquely perceptive, which creates emotional debt. The implication is that her growth depends on being seen by him."
+    },
+    {
+      "snippet_id": "S-088-SN0011",
+      "quote": "you’re “not like most people”",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is flattering rank language. She becomes the exceptional one, which feels good now but also separates her from everyone else in a way he controls."
+    },
+    {
+      "snippet_id": "S-088-SN0012",
+      "quote": "No, common misconception",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "That phrasing makes correction sound neutral and expert. The move is not just offering information, it is positioning his read as the one that clears up everyone else’s mistake."
+    },
+    {
+      "snippet_id": "S-088-SN0013",
+      "quote": "Let me break it down for you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is condescending in a polished way. He acts like simplification is kindness, but it also places her in the role of the one who needs to be taught."
+    },
+    {
+      "snippet_id": "S-088-SN0014",
+      "quote": "I enjoy a good debate",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Grandiosity-high",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "On the surface this sounds lively and intelligent. In context, it signals that disagreement is his preferred mode and that he experiences it as sport, not mutual exchange."
+    },
+    {
+      "snippet_id": "S-088-SN0015",
+      "quote": "Most people can’t keep up",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is a status line. He turns conversation into a test, with himself above the crowd and her lucky to be one of the few who qualifies."
+    },
+    {
+      "snippet_id": "S-088-SN0016",
+      "quote": "common sense, real Americans, and family values",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-low",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Morality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Moral Injury"
+      ],
+      "reasoning": "These are MAGA-coded moral markers. He is not just naming beliefs, he is using them as a framework for who counts as sensible, legitimate, and worth listening to."
+    },
+    {
+      "snippet_id": "S-088-SN0017",
+      "quote": "facts are facts",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This sounds clean and objective, but it also shuts down discussion. Once he casts his view as fact, disagreement starts to look irrational instead of merely different."
+    },
+    {
+      "snippet_id": "S-088-SN0018",
+      "quote": "you’re making it emotional",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Empathy-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He is recoding her response as a flaw in her thinking. That makes it easier for him to win arguments while making her doubt whether her own reaction counts."
+    },
+    {
+      "snippet_id": "S-088-SN0019",
+      "quote": "he’s usually right about practical stuff",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the narrator handing him credibility because he has been useful. It feels reasonable, but it also shows how quickly competence can become authority."
+    },
+    {
+      "snippet_id": "S-088-SN0020",
+      "quote": "You’re not really going to wear that, are you?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation",
+        "Coercive Control"
+      ],
+      "reasoning": "This is a question that functions like a command. It looks casual, but it pressures her to change herself to match his standards before they even leave the house."
+    },
+    {
+      "snippet_id": "S-088-SN0021",
+      "quote": "I changed before we left",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her compliance is the real outcome. She does not argue, she adjusts, which shows how quickly his preferences are becoming the default."
+    },
+    {
+      "snippet_id": "S-088-SN0022",
+      "quote": "he was just trying to help",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the narrator’s rationalization. She turns his control into care so she can keep the relationship feeling good and avoid naming the discomfort."
+    },
+    {
+      "snippet_id": "S-088-SN0023",
+      "quote": "Was I being too sensitive about the comment?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question is small on purpose. She is not asking whether he is controlling, only whether her reaction to one comment was too much, which shows how much ground has already shifted."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

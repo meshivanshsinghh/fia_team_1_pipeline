@@ -1,67 +1,276 @@
 {
   "scenario_id": "S-018",
-  "player_type": "Needy Noel",
+  "player_type": "Adrenaline Ainsley",
   "scenario": {
     "scenario_id": "S-018",
-    "architecture_name": "He installs total-availability as the definition of love, using rationalist-register premise-planting to convert her ordinary independence into evidence she doesn't care enough.",
+    "architecture_name": "He turns intensity into proof of love, then uses that rush to make her trade steadiness for his pace.",
     "culture": "Bay Area Rationalist / EA",
-    "demographics": "F/21 Latina, engineering student at UC Berkeley; M/26 white, works in AI safety, lives in a Berkeley group house",
-    "cultural_context": "Engineering student, academic/professional development sphere, early-stage romantic relationship",
-    "geographic_setting": "Bay Area, California (UC Berkeley campus and surrounding region)",
+    "demographics": "F/20 UC Berkeley engineering student, M/22 Javier, newly dating",
+    "cultural_context": "UC Berkeley engineering student / academic and social life in a college setting",
+    "geographic_setting": "Bay Area, California, with family in East Los Angeles",
     "core_behaviors": [
-      "Premise-plants total availability as the rational standard of love",
-      "Uses faint-seam self-awareness to recruit her as his emotional regulator",
-      "Enables her uncritically to become indispensable and erode her independent judgment"
+      "Uses spontaneity and urgency as romance",
+      "Frames her caution as lack of aliveness",
+      "Pulls her toward his world before she has time to settle into her own"
     ],
-    "satellite_signals": "Rationalist vocabulary deployed to frame his neediness as epistemically sound; faint-seam admissions that recruit her as reassurer; fast-fusion language dressed as intellectual compatibility; premise-planting around contact frequency and transparency.",
-    "dismissible_red_flags": "His intensity reads as flattering devotion rather than engulfment; his self-aware admissions (\"I know I'm keen\") make the neediness seem charming and harmless; his rationalist framing makes availability-as-love sound like a considered position rather than a demand being installed.",
-    "scenario_text": "I've been seeing Mateo for about six weeks and honestly it's been kind of wonderful. He's doing AI safety work out of a group house in Berkeley, super thoughtful, reads Astral Codex Ten obsessively, the whole thing. We met at an ACX meetup and talked for three hours straight.\n\nHe texts me good morning every day, which I like. He said early on, \"I always reply fast, I can't help it, if I care about someone they're just on my mind.\" It sounded sweet. I nodded. Now I notice I feel a little guilty when I take more than an hour to respond, which is probably just me being weird about it.\n\nLast week I had a brutal problem set and went quiet for most of the afternoon. That night he said, \"I overthought your slow reply earlier, ignore me, I'm being ridiculous.\" And I spent the next twenty minutes reassuring him everything was fine, which, it was fine, I was just doing homework. He said, \"You're so good at calming me down, I don't know what I'd do without you.\" Which was sweet. I think.\n\nHe's also said a few times that he thinks couples who tell each other everything are the strong ones. And that he's \"a constant-contact kind of person.\" He's not pushy about it, he just says it like it's a considered position, like he's thought rigorously about this and that's his prior.\n\nHe rearranged his whole week when I mentioned I had Tuesday free. He said he just wanted to make sure he'd see me. I felt a little guilty that I hadn't done the same for him, even though I had a study group.\n\nHe also said, \"I love that you're independent, it just means when you choose me it means more.\" I think that was a compliment?\n\nIs it weird that the part about the slow reply is still sitting with me a little?"
+    "satellite_signals": "Bay Area rationalist vocabulary, Berkeley student life, East Los Angeles family reference, last-minute trips, future-flooding, and a soft us-vs-the-boring frame.",
+    "dismissible_red_flags": "At this stage it mostly reads as exciting and flattering. His intensity feels like interest, and his teasing sounds playful, so the imbalance is easy to excuse.",
+    "scenario_text": "I’m probably overthinking this, but Javier has this way of making everything feel like it’s happening at full volume. We’ve only been dating a few weeks, and last weekend he just decided we should drive around the Bay after dinner because, in his words, “life’s too short to sit still.” I laughed and went with it. It was actually fun. He kept saying I was “not a normie,” which I know sounds ridiculous typed out, but he meant it like a compliment, like I’m someone who gets it.\n\nHe talks like he’s optimizing for the real thing, not the sleepy version of life. That sounds dramatic, I know, but he’s so earnest about it that I kind of believe him. He’ll say stuff like, “I don’t want a predictable routine,” and then look at me like I’m supposed to agree. Usually I do. He makes me feel chosen, like I’m the one person who won’t slow him down.\n\nThe weird part is how fast he turns things into “us.” He already wants me to come down to East L.A. and meet his family, and he keeps saying they’ll love me because I’m “easy to be around.” That’s sweet, but it also makes me feel like I’m being sorted into a role before I’ve even settled in. He booked a last-minute weekend thing without asking if I had lab, then acted kind of hurt when I said I might need to stay in Berkeley and study.\n\nHe didn’t push exactly. He just said, “I thought you liked adventure,” and smiled like that should settle it. It did make me feel a little boring. He’s so good at making the exciting option feel like the honest one. Anyway, am I being weird about the way he said I was “easy to be around”?"
   },
   "snippets": [
     {
-      "quote": "a group house in Berkeley",
+      "quote": "I’m probably overthinking this",
       "kind_of_signal": [
-        "Cultural/Demographic Information",
-        "Power Information"
+        "Internal Red Flag"
       ],
       "unes_traits": [
-        "Enmeshment-high"
+        "Validation-seeking-high",
+        "Trust-high"
       ],
       "unmet_need": [
-        "Not Found"
+        "Reality"
       ],
       "possible_trauma": [
-        "Not Found"
+        "Gaslighting (DARVO)"
       ],
-      "reasoning": "Berkeley group house is a foundational residential marker in the rationalist/EA community. It locates him inside a dense social world she is being introduced into, where the norms around closeness and availability run high.",
+      "reasoning": "She starts by doubting her own read. That’s a small internal wobble, not panic, but it shows she’s already managing his framing instead of just noticing the moment.",
       "snippet_id": "S-018-SN0001"
     },
     {
-      "quote": "reads Astral Codex Ten obsessively",
+      "quote": "Javier has this way of making everything feel like it’s happening at full volume",
       "kind_of_signal": [
-        "Cultural/Demographic Information"
-      ],
-      "unes_traits": [
-        "Intensity-high"
-      ],
-      "unmet_need": [
-        "Not Found"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "Astral Codex Ten is the central rationalist blog. 'Obsessively' is her word, not his, which is a small dictional tell — she already registers the intensity but frames it as intellectual passion.",
-      "snippet_id": "S-018-SN0002"
-    },
-    {
-      "quote": "We met at an ACX meetup and talked for three hours straight",
-      "kind_of_signal": [
-        "Cultural/Demographic Information",
         "Behavioral Red Flag"
       ],
       "unes_traits": [
         "Intensity-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the core feel of him: everything is turned up. It reads as chemistry, but it also hints that calm may not be his natural setting.",
+      "snippet_id": "S-018-SN0002"
+    },
+    {
+      "quote": "last weekend he just decided we should drive around the Bay",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He makes the plan and she gets moved into it. The surface is spontaneous fun, but the structure is that he decides and she follows.",
+      "snippet_id": "S-018-SN0003"
+    },
+    {
+      "quote": "life’s too short to sit still",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a fun philosophy, but inside this relationship it makes stillness sound wrong. It quietly turns her need for rest into a character flaw.",
+      "snippet_id": "S-018-SN0004"
+    },
+    {
+      "quote": "I laughed and went with it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She notices the pressure and smooths it over with laughter. That’s a classic early sign that she’s adapting herself to keep the mood easy.",
+      "snippet_id": "S-018-SN0005"
+    },
+    {
+      "quote": "you were “not a normie”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is flattering insider language, but it also separates her from everyone else. Being the exception can feel special while quietly setting up a hierarchy.",
+      "snippet_id": "S-018-SN0006"
+    },
+    {
+      "quote": "He talks like he’s optimizing for the real thing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Bay Area rationalist language makes his restlessness sound principled. He’s presenting his intensity as truth-seeking, which gives him moral cover.",
+      "snippet_id": "S-018-SN0007"
+    },
+    {
+      "quote": "not the sleepy version of life",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He turns ordinary steadiness into something dead and lesser. That makes the relationship feel like a rescue from boredom instead of a choice with costs.",
+      "snippet_id": "S-018-SN0008"
+    },
+    {
+      "quote": "He’ll say stuff like, “I don’t want a predictable routine,”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He’s announcing that stability itself is the enemy. Early on that can sound adventurous, but it also tells you he may always treat consistency as confinement.",
+      "snippet_id": "S-018-SN0009"
+    },
+    {
+      "quote": "look at me like I’m supposed to agree",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The look matters as much as the words. He’s not inviting a conversation so much as expecting her to ratify his worldview.",
+      "snippet_id": "S-018-SN0010"
+    },
+    {
+      "quote": "He makes me feel chosen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
         "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the emotional hook. Feeling specially selected can be lovely, but it also makes her more willing to excuse the pace and the pressure.",
+      "snippet_id": "S-018-SN0011"
+    },
+    {
+      "quote": "like I’m the one person who won’t slow him down",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She’s being cast as the compatible exception, the person who should accommodate his momentum. That role can become a quiet obligation.",
+      "snippet_id": "S-018-SN0012"
+    },
+    {
+      "quote": "He already wants me to come down to East L.A.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The family trip is early and emotionally loaded. It’s not bad by itself, but it fast-tracks belonging before she’s had time to build her own footing.",
+      "snippet_id": "S-018-SN0013"
+    },
+    {
+      "quote": "meet his family",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Validation-seeking-high"
       ],
       "unmet_need": [
         "Connection"
@@ -69,362 +278,180 @@
       "possible_trauma": [
         "Obsessive Attachment / Enmeshment"
       ],
-      "reasoning": "Three-hour first conversation is framed as compatibility but also signals the fast-fusion pattern. In this register, intellectual intensity doubles as emotional intensity — the connection feels special and chosen.",
-      "snippet_id": "S-018-SN0003"
+      "reasoning": "Family introduction becomes part of the pull. In context, it’s less about comfort and more about folding her into his world quickly.",
+      "snippet_id": "S-018-SN0014"
     },
     {
-      "quote": "He texts me good morning every day",
+      "quote": "they’ll love me because I’m “easy to be around”",
       "kind_of_signal": [
-        "Behavioral Red Flag"
-      ],
-      "unes_traits": [
-        "Neediness-high",
-        "Attachment-high"
-      ],
-      "unmet_need": [
-        "Safety"
-      ],
-      "possible_trauma": [
-        "Obsessive Attachment / Enmeshment"
-      ],
-      "reasoning": "Daily morning contact is the check-in-as-tether pattern in early form. Individually unremarkable; structurally it establishes a contact rhythm she will later be held to.",
-      "snippet_id": "S-018-SN0004"
-    },
-    {
-      "quote": "I always reply fast, I can't help it, if I care about someone they're just on my mind",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
-        "Neediness-high",
         "Validation-seeking-high",
-        "Goal Persistence-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Obsessive Attachment / Enmeshment"
-      ],
-      "reasoning": "Classic premise-planting. He frames fast replies as the natural expression of caring, which sounds reasonable and even tender. The mechanism: once she agrees, slow replies become evidence she doesn't care. He is installing a rule disguised as a personal confession.",
-      "snippet_id": "S-018-SN0005"
-    },
-    {
-      "quote": "It sounded sweet. I nodded.",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Sense of Self-low",
-        "Cognitive Flexibility-low"
-      ],
-      "unmet_need": [
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She absorbed the premise without examining it. The two-beat structure — 'it sounded sweet' then 'I nodded' — shows the agreement happening before she had time to evaluate it. This is how the rule gets installed.",
-      "snippet_id": "S-018-SN0006"
-    },
-    {
-      "quote": "I notice I feel a little guilty when I take more than an hour to respond, which is probably just me being weird about it",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Neediness-high",
-        "Validation-seeking-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "This is the load-bearing interior moment. The premise has already converted. She now experiences normal behavior — taking an hour to reply — as a personal failing. 'Probably just me being weird' is her rationalizing away the discomfort rather than naming what happened.",
-      "snippet_id": "S-018-SN0007"
-    },
-    {
-      "quote": "I had a brutal problem set and went quiet for most of the afternoon",
-      "kind_of_signal": [
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Not Found"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "She is a full-time engineering student with real academic demands. His availability expectations exist alongside her coursework load — a structural asymmetry she has to manage while he, working from a group house, sets the contact rhythm.",
-      "snippet_id": "S-018-SN0008"
-    },
-    {
-      "quote": "I overthought your slow reply earlier, ignore me, I'm being ridiculous",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Emotional Overexposure-high",
-        "Neediness-high",
-        "Dysregulation-high"
-      ],
-      "unmet_need": [
-        "Safety",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Obsessive Attachment / Enmeshment",
-        "Coercive Control"
-      ],
-      "reasoning": "Faint-seam move. He names his own anxiety, calls it ridiculous, and waits. The self-deprecation recruits her to reassure him — which she does, for twenty minutes. He doesn't have to demand anything; the confession does the work.",
-      "snippet_id": "S-018-SN0009"
-    },
-    {
-      "quote": "I spent the next twenty minutes reassuring him everything was fine, which, it was fine, I was just doing homework",
-      "kind_of_signal": [
-        "Internal Red Flag",
-        "Behavioral Red Flag"
-      ],
-      "unes_traits": [
-        "Enmeshment-high",
-        "Neediness-high",
-        "Emotional Overexposure-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Obsessive Attachment / Enmeshment",
-        "Coercive Control"
-      ],
-      "reasoning": "The asymmetry is visible here. She was doing homework — a legitimate, independent activity — and ended her evening managing his anxiety about it. The parenthetical 'it was fine, I was just doing homework' registers that she knows this, but she did it anyway.",
-      "snippet_id": "S-018-SN0010"
-    },
-    {
-      "quote": "You're so good at calming me down, I don't know what I'd do without you",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Neediness-high",
-        "Enmeshment-high",
-        "Validation-seeking-high",
-        "Emotional Overexposure-high"
+        "Disrespect-low"
       ],
       "unmet_need": [
         "Worth",
         "Autonomy"
       ],
       "possible_trauma": [
-        "Obsessive Attachment / Enmeshment",
-        "Emotional Neglect"
+        "Humiliation"
       ],
-      "reasoning": "He assigns her a role — his emotional regulator — and frames it as a compliment. 'I don't know what I'd do without you' sounds like devotion; structurally it installs dependency and makes her responsible for his stability. She is now his person, whether she chose that or not.",
-      "snippet_id": "S-018-SN0011"
+      "reasoning": "That sounds sweet, but it also rewards her for being low-maintenance. The compliment quietly asks her to stay pleasant and undemanding.",
+      "snippet_id": "S-018-SN0015"
     },
     {
-      "quote": "Which was sweet. I think.",
+      "quote": "That’s sweet",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Sense of Self-low",
-        "Cognitive Flexibility-low"
+        "Trust-high",
+        "Validation-seeking-high"
       ],
       "unmet_need": [
-        "Reality",
-        "Autonomy"
+        "Worth"
       ],
       "possible_trauma": [
-        "Gaslighting (DARVO)"
+        "Emotional Neglect"
       ],
-      "reasoning": "The trailing 'I think' is a dictional tell. She registered something off but couldn't name it, so she defaulted to 'sweet' and added uncertainty. This is the absorption pattern — she uses his framing, then quietly doubts it.",
-      "snippet_id": "S-018-SN0012"
+      "reasoning": "She’s absorbing the framing instead of questioning it. The word is affectionate, but it also shows how quickly she converts discomfort into gratitude.",
+      "snippet_id": "S-018-SN0016"
     },
     {
-      "quote": "couples who tell each other everything are the strong ones",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Enmeshment-high",
-        "Boundaries-low",
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Obsessive Attachment / Enmeshment"
-      ],
-      "reasoning": "Premise-planting through a values statement. He is not asking her to share everything — he is establishing that strong couples do. Privacy will later feel like a relationship failure. The rationalist register makes this land as a considered position rather than a demand.",
-      "snippet_id": "S-018-SN0013"
-    },
-    {
-      "quote": "a constant-contact kind of person",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Neediness-high",
-        "Attachment-high",
-        "Enmeshment-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Safety"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Obsessive Attachment / Enmeshment"
-      ],
-      "reasoning": "Self-advertisement framed as a personality trait. In this register it sounds like self-aware disclosure — he's being epistemically honest about who he is. The function is to pre-install the expectation: constant contact is just how he is, so her needing space becomes incompatibility.",
-      "snippet_id": "S-018-SN0014"
-    },
-    {
-      "quote": "he just says it like it's a considered position, like he's thought rigorously about this and that's his prior",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Cultural/Demographic Information"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Cognitive Flexibility-low",
-        "Dominance-low"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "She is noticing the mechanism without naming it. He uses rationalist framing — 'rigorously,' 'prior' — to make his neediness sound like an epistemically sound conclusion. The community register is doing work here: a 'considered position' is harder to push back on than a feeling.",
-      "snippet_id": "S-018-SN0015"
-    },
-    {
-      "quote": "He rearranged his whole week when I mentioned I had Tuesday free",
+      "quote": "He booked a last-minute weekend thing",
       "kind_of_signal": [
         "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Attachment-high",
-        "Goal Persistence-high",
-        "Neediness-high"
+        "Impulsivity-high",
+        "Sensation-seeking-high"
       ],
       "unmet_need": [
-        "Autonomy",
+        "Safety",
         "Agency"
       ],
       "possible_trauma": [
-        "Obsessive Attachment / Enmeshment"
+        "Coercive Control"
       ],
-      "reasoning": "Framed as devotion, this move creates reciprocal debt. He cleared his schedule for her; now her study group feels like a failure to match his investment. The gesture is real, but the structural effect is that her time starts belonging to him.",
-      "snippet_id": "S-018-SN0016"
+      "reasoning": "This is the practical version of his thrill-seeking. It’s exciting in the moment, but it also means her schedule has to bend around his impulses.",
+      "snippet_id": "S-018-SN0017"
     },
     {
-      "quote": "I felt a little guilty that I hadn't done the same for him, even though I had a study group",
+      "quote": "without asking if I had lab",
       "kind_of_signal": [
-        "Internal Red Flag"
+        "Behavioral Red Flag",
+        "Power Information"
       ],
       "unes_traits": [
-        "Enmeshment-high",
-        "Neediness-high"
+        "Boundaries-low",
+        "Exploitation-high"
       ],
       "unmet_need": [
-        "Autonomy",
         "Agency",
         "Fairness"
       ],
       "possible_trauma": [
-        "Coercive Control",
-        "Obsessive Attachment / Enmeshment"
+        "Betrayal / Exploitation"
       ],
-      "reasoning": "The guilt is the mechanism working. She has a legitimate academic obligation, but she is measuring it against his schedule-clearing gesture and finding herself wanting. The 'even though' is the tell — she knows the study group was valid, but the guilt arrived anyway.",
-      "snippet_id": "S-018-SN0017"
+      "reasoning": "He assumes her time is available unless she objects. That’s a small but important asymmetry, because the inconvenience lands on her, not him.",
+      "snippet_id": "S-018-SN0018"
     },
     {
-      "quote": "I love that you're independent, it just means when you choose me it means more",
+      "quote": "I might need to stay in Berkeley and study",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Perseverance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This grounds her in student life and shows the competing demand. It matters because his spontaneity is colliding with her actual responsibilities.",
+      "snippet_id": "S-018-SN0019"
+    },
+    {
+      "quote": "He didn’t push exactly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She’s already minimizing the pressure. That little qualifier is doing a lot of work, because it lets her keep the moment romantic instead of naming the squeeze.",
+      "snippet_id": "S-018-SN0020"
+    },
+    {
+      "quote": "I thought you liked adventure",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
-        "Enmeshment-high",
-        "Validation-seeking-high",
-        "Control-high",
-        "Exploitation-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Obsessive Attachment / Enmeshment"
-      ],
-      "reasoning": "This is the load-bearing seedling. He praises her independence and immediately converts it into a resource for him — her choosing him becomes more valuable because she's independent. The structure installs a quiet obligation: to prove her independence is real, she must keep choosing him over it.",
-      "snippet_id": "S-018-SN0018"
-    },
-    {
-      "quote": "I think that was a compliment?",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Sense of Self-low",
-        "Reality-seeking"
+        "Sensation-seeking-high",
+        "Validation-seeking-high"
       ],
       "unmet_need": [
         "Reality",
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "She cannot tell whether she was complimented or assigned a role. The question mark does the work — she absorbed the line, smiled probably, and is now privately unsure what happened. This is the rationalization beat that closes the load-bearing seedling without naming it.",
-      "snippet_id": "S-018-SN0019"
-    },
-    {
-      "quote": "Is it weird that the part about the slow reply is still sitting with me a little?",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Neediness-high",
-        "Enmeshment-high"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Autonomy"
+        "Agency"
       ],
       "possible_trauma": [
         "Coercive Control"
       ],
-      "reasoning": "She asks about the smallest visible beat — the slow-reply episode — while the larger structural moves (the role assignment, the guilt installation, the premise-planting) sit unaddressed. 'Still sitting with me a little' is rationalization vocabulary minimizing what she actually registered.",
-      "snippet_id": "S-018-SN0020"
+      "reasoning": "This is the cleanest pressure line. He turns her hesitation into a mismatch with the identity he’s assigned her, so saying no starts to feel like betraying the role.",
+      "snippet_id": "S-018-SN0021"
+    },
+    {
+      "quote": "He’s so good at making the exciting option feel like the honest one",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She’s noticing the mechanism, even if she still likes it. He makes impulse sound like truth, which is exactly why it’s persuasive.",
+      "snippet_id": "S-018-SN0022"
+    },
+    {
+      "quote": "easy to be around",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This closes the loop: being easy is the trait that gets rewarded. It sounds kind, but it nudges her toward being agreeable, not fully self-directed.",
+      "snippet_id": "S-018-SN0023"
     }
   ],
-  "validation_warnings": [
-    "snippet[18]: unes_trait 'Reality-seeking' missing -high/-low suffix"
-  ],
+  "validation_warnings": [],
   "repetition_warnings": []
 }

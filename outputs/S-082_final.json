@@ -1,0 +1,424 @@
+{
+  "scenario_id": "S-082",
+  "player_type": "Needy Noel",
+  "scenario": {
+    "scenario_id": "S-082",
+    "architecture_name": "He turns total availability into the proof of love, so her ordinary independence starts to feel like a small betrayal of the bond he is building.",
+    "culture": "Old-Money WASP",
+    "demographics": "F/20 small-town Kentucky farm background, M/22 Lexington, dating",
+    "cultural_context": "College student social sphere, with rural-to-urban class contrast and dating/relationship dynamics",
+    "geographic_setting": "University of Louisville / Louisville, Kentucky; urban college setting contrasted with small-town Kentucky",
+    "core_behaviors": [
+      "Uses constant contact as reassurance and proof of care",
+      "Frames closeness as the natural standard of a serious couple",
+      "Turns her separate schedule into something that needs explanation"
+    ],
+    "satellite_signals": "Old-Money WASP diction is used as a polished wrapper around a rural-to-urban class gap. His gifts, planning, and quick emotional disclosure make her feel chosen while quietly making her responsible for his mood and access.",
+    "dismissible_red_flags": "At this stage it can read as sweet enthusiasm, good manners, and romantic seriousness. The pressure is still dressed up as care, so it is easy to excuse as him being earnest rather than demanding.",
+    "scenario_text": "I keep thinking maybe I’m being silly, because most of it is honestly sweet. David has been so attentive since classes started back up. He’ll text before I’m even out of lecture, just a quick, “Where are you headed?” or “I’ve got a little surprise for you.” Last night he picked me up in his old Range Rover and said he’d already made dinner reservations, which felt very fancy for a Tuesday. He kept calling me “good girl” in this soft, joking way, and I laughed because it sounded affectionate, not weird.\n\nHe’s always saying he likes that I’m “real” and not one of those girls who act above everything. I know he means it kindly. He told me, “I just think the people who matter make time,” and I said, well, yes, of course. Then he added that couples who tell each other everything are the strong ones, which sounded kind of lovely at the time. He says he misses me the second I leave, and then he smiles like he’s embarrassed about it, so I usually tell him I miss him too.\n\nThe thing is, he’s started asking for a goodnight text if I’m with my roommate, and if I answer late he’ll say, “You’re not drifting off on me, are you?” in this teasing voice. It’s not a big deal, really. He just likes being close, and I do too. Still, when I was at the library tonight he sent three texts in a row, then a little “hello?” and I felt bad for not replying sooner, even though I was in the middle of a paper.\n\nMaybe I’m overthinking it, but do you think it was odd that I felt guilty about not texting back right away?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-082-SN0001",
+      "snippet_text": "David has been so attentive since classes started back up",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds like normal early dating attention, but it also shows how quickly he is centering himself in her day. The attention is not neutral; it is already becoming a way to stay emotionally attached to her routine."
+    },
+    {
+      "snippet_id": "S-082-SN0002",
+      "snippet_text": "he’ll text before I’m even out of lecture",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is tracking her schedule closely enough to reach her immediately after class. That looks sweet on the surface, but it also establishes that her time is already being monitored for access and reassurance."
+    },
+    {
+      "snippet_id": "S-082-SN0003",
+      "snippet_text": "“Where are you headed?”",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A simple question, but in context it functions like a check-in tether. He is not just chatting, he is orienting himself to where she is and whether she is available."
+    },
+    {
+      "snippet_id": "S-082-SN0004",
+      "snippet_text": "“I’ve got a little surprise for you.”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The surprise gesture is flattering, but it also builds anticipation and debt. She is put in the position of receiving, which makes it harder to object later without seeming ungrateful."
+    },
+    {
+      "snippet_id": "S-082-SN0005",
+      "snippet_text": "his old Range Rover",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The car is a class marker and a mobility marker at once. He has the vehicle, picks her up, and the scene quietly places him in the position of mover and organizer."
+    },
+    {
+      "snippet_id": "S-082-SN0006",
+      "snippet_text": "“I’ll already made dinner reservations”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is deciding the structure of the evening before she has a say. It reads as considerate planning, but it also narrows her room to shape the date or decline it."
+    },
+    {
+      "snippet_id": "S-082-SN0007",
+      "snippet_text": "“good girl”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-low",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In this register it can pass as playful affection, but it also casts her into a compliant role. The phrase rewards being easy and agreeable, which makes future pushback feel like breaking the mood."
+    },
+    {
+      "snippet_id": "S-082-SN0008",
+      "snippet_text": "“real”",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Superficiality-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He is elevating her by contrasting her with a devalued type of girl. That feels like praise, but it quietly teaches her that she is safest when she stays the kind of woman he approves of."
+    },
+    {
+      "snippet_id": "S-082-SN0009",
+      "snippet_text": "“those girls who act above everything”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He is flattering her by putting other women down. That kind of comparison creates a good-exception dynamic, where she feels chosen precisely because she is not like the women he dismisses."
+    },
+    {
+      "snippet_id": "S-082-SN0010",
+      "snippet_text": "“the people who matter make time”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is premise-setting language. It sounds reasonable, but it quietly turns ordinary limits into a moral test, so being busy can later be framed as not caring enough."
+    },
+    {
+      "snippet_id": "S-082-SN0011",
+      "snippet_text": "“couples who tell each other everything are the strong ones”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Boundaries-low",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds like a value statement about honesty, but it sets up total disclosure as the ideal. Once that standard is in place, privacy can start to feel like secrecy instead of a normal boundary."
+    },
+    {
+      "snippet_id": "S-082-SN0012",
+      "snippet_text": "“He says he misses me the second I leave”",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "His longing is framed as cute and affectionate, and she responds by soothing it. That is the beginning of her being assigned the job of managing his separation anxiety."
+    },
+    {
+      "snippet_id": "S-082-SN0013",
+      "snippet_text": "“You’re not drifting off on me, are you?”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The line is teasing, but it carries a small accusation inside it. He turns her ordinary distance into something suspicious, which nudges her to reassure him instead of simply being busy."
+    },
+    {
+      "snippet_id": "S-082-SN0014",
+      "snippet_text": "“It’s not a big deal, really.”",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is her own rationalization, and it shows the pressure working. She is minimizing the discomfort before she has even fully named it, which is how the dynamic stays pleasant on the surface."
+    },
+    {
+      "snippet_id": "S-082-SN0015",
+      "snippet_text": "“He just likes being close, and I do too.”",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is her absorption of his frame. She translates a demand for access into mutual closeness, which is why the boundary feels hard to see from inside the relationship."
+    },
+    {
+      "snippet_id": "S-082-SN0016",
+      "snippet_text": "“three texts in a row”",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The volume of messages matters more than any single message. It shows urgency and pressure, even before he says anything openly demanding."
+    },
+    {
+      "snippet_id": "S-082-SN0017",
+      "snippet_text": "“hello?”",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This tiny follow-up is the clearest signal of expectation. It is not just contact, it is contact that assumes an answer should already have arrived."
+    },
+    {
+      "snippet_id": "S-082-SN0018",
+      "snippet_text": "“I was in the middle of a paper.”",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her work is present, but only as something that competes with his access. The line shows the basic asymmetry: she is doing schoolwork, while he is measuring response time."
+    },
+    {
+      "snippet_id": "S-082-SN0019",
+      "snippet_text": "“I felt bad for not replying sooner”",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the real effect of the dynamic. No one has formally ordered her to respond faster, but she already feels responsible for his mood and for keeping him soothed."
+    },
+    {
+      "snippet_id": "S-082-SN0020",
+      "snippet_text": "“Maybe I’m overthinking it”",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is pre-emptively doubting her own read, which is exactly how a soft pressure pattern stays invisible. The doubt is small, but it shows the relationship is already training her to discount herself."
+    },
+    {
+      "snippet_id": "S-082-SN0021",
+      "snippet_text": "“do you think it was odd”",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is not asking whether he is bad, only whether the moment was odd. That smaller question is honest to where she is emotionally, and it shows she knows something felt off without wanting to make it a big issue."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

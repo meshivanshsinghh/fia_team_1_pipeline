@@ -1,0 +1,508 @@
+{
+  "scenario_id": "S-102",
+  "player_type": "Storytelling Sam",
+  "scenario": {
+    "scenario_id": "S-102",
+    "architecture_name": "He uses vivid future-talk and fast emotional certainty to make me feel chosen while quietly turning my hope into debt and patience.",
+    "culture": "Black Professional",
+    "demographics": "Nigerian immigrant woman, adult, newly dating, Brooklyn",
+    "cultural_context": "Nigerian immigrant social circle, African diaspora community, dating/relationship context",
+    "geographic_setting": "Brooklyn, New York; African cultural event / urban immigrant community setting",
+    "core_behaviors": [
+      "Paints a detailed shared future as if it is already underway",
+      "Uses attentive listening and specific compliments to create emotional debt",
+      "Frames delay as care so I feel patient instead of questioning the pace"
+    ],
+    "satellite_signals": "African cultural event setting, Brooklyn immigrant social circle, Nigerian references, Black professional class cues, future-talk about Nigeria and family life, paid-for dates and flowers as courtship currency.",
+    "dismissible_red_flags": "It mostly feels romantic and flattering. The only thing that sits with me is how quickly he talks like we are already headed somewhere official, but he says it so sweetly that it is easy to read as excitement.",
+    "scenario_text": "I met him at the African cultural event in Brooklyn, and honestly it felt easy from the start. He knew how to talk to people there, knew the right jokes, knew which auntie to greet first. He asked where I went to school, then smiled like he already liked the answer. Later he said, “I can picture the whole thing,” and started describing a little place by the water, my studio out back full of light, him making coffee while I worked. It sounded so specific I could almost see it too.\n\nHe texts a lot, which I like more than I probably should. Not spammy, just enough to make me feel thought of. “I’m not like those men who disappear,” he told me, and I laughed because, well, he hasn’t. He leaves flowers outside my door, insists on paying, and says, “Let me handle that for you, I want to take care of you.” It is sweet. It really is.\n\nThe part that stayed with me was when I mentioned maybe going to Nigeria later this year and he said, “We’re going to build that. The trip, the wedding on the coast, all of it. You’ll see.” He said it like he was describing something already in motion. Then he asked me to send him names I like, “just to have them in my head.” I felt weirdly happy about that, like he was making room for me in his life.\n\nHe keeps saying the good stuff is still ahead of us, that this is just the start. And maybe that’s normal when someone is excited. I just don’t know why I keep replaying the way he says things like they’ve already happened. Am I overthinking the way he talks about the future?"
+  },
+  "snippets": [
+    {
+      "quote": "I met him at the African cultural event in Brooklyn",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places them in a specific immigrant social setting and signals why he feels culturally familiar right away.",
+      "snippet_id": "S-102-SN0001"
+    },
+    {
+      "quote": "He knew how to talk to people there",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is socially fluent and reads the room quickly, which makes him appealing. The same skill can also help him win trust fast without much substance underneath.",
+      "snippet_id": "S-102-SN0002"
+    },
+    {
+      "quote": "knew the right jokes",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is polished social charm. It makes him seem easy and fun, but it also suggests he is performing the right vibe more than offering depth.",
+      "snippet_id": "S-102-SN0003"
+    },
+    {
+      "quote": "knew which auntie to greet first",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "That detail shows he understands the social hierarchy of the room and can move through it smoothly. It makes him look respectful, but it also shows he knows how to position himself well.",
+      "snippet_id": "S-102-SN0004"
+    },
+    {
+      "quote": "where I went to school",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In this register, school is not casual small talk. It signals class, network, and background, so the question is doing social sorting as much as conversation.",
+      "snippet_id": "S-102-SN0005"
+    },
+    {
+      "quote": "I can picture the whole thing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is the first vivid-future move. He is not just saying he likes her, he is painting a whole shared life so she feels chosen before anything real has been built.",
+      "snippet_id": "S-102-SN0006"
+    },
+    {
+      "quote": "a little place by the water",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The image is romantic and concrete, which makes it persuasive. It works as a dream scene, but it is still a scene, not evidence of follow-through.",
+      "snippet_id": "S-102-SN0007"
+    },
+    {
+      "quote": "my studio out back full of light",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He is customizing the fantasy around her work and identity, which feels attentive. It also pulls her into a future he controls by describing it so vividly that she starts living inside his version.",
+      "snippet_id": "S-102-SN0008"
+    },
+    {
+      "quote": "him making coffee while I worked",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is intimate domestic imagery, but it also quietly assigns roles. She works, he supports the scene, and the picture makes that arrangement feel natural before any actual commitment exists.",
+      "snippet_id": "S-102-SN0009"
+    },
+    {
+      "quote": "He texts a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent texting can feel caring early on. Here it also signals intensity and a need to stay emotionally present in a way that can become hard to step away from.",
+      "snippet_id": "S-102-SN0010"
+    },
+    {
+      "quote": "Not spammy, just enough to make me feel thought of",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already translating his contact into reassurance. That tells me the texting is doing emotional work for her, not just keeping practical communication going.",
+      "snippet_id": "S-102-SN0011"
+    },
+    {
+      "quote": "I’m not like those men who disappear",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He is defining himself against an absent bad type, which makes him sound trustworthy by comparison. It is a self-marketing line that asks her to feel relieved before he has proven anything.",
+      "snippet_id": "S-102-SN0012"
+    },
+    {
+      "quote": "He leaves flowers outside my door",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The gesture is sweet and memorable, and that is exactly why it works. It creates a sense of being specially chosen, which can make later doubts feel ungrateful.",
+      "snippet_id": "S-102-SN0013"
+    },
+    {
+      "quote": "insists on paying",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Paying is not the problem by itself. The issue is the insistence, because it sets up a small debt and makes the relationship feel like something he is underwriting.",
+      "snippet_id": "S-102-SN0014"
+    },
+    {
+      "quote": "Let me handle that for you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds caring on the surface, but it casts him as the one who decides and manages. That can feel lovely early, while quietly shrinking her room to act on her own.",
+      "snippet_id": "S-102-SN0015"
+    },
+    {
+      "quote": "I want to take care of you",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate and flattering, but it also places her in a cared-for role that can be hard to challenge later. It makes dependence sound like devotion.",
+      "snippet_id": "S-102-SN0016"
+    },
+    {
+      "quote": "We’re going to build that",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-low",
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He turns a wish into a shared certainty. The phrase sounds like teamwork, but it is really future-talk standing in for any actual plan or evidence.",
+      "snippet_id": "S-102-SN0017"
+    },
+    {
+      "quote": "the wedding on the coast",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is glamorous future imagery. It flatters her by making the relationship feel destined and public, even though it is still only talk.",
+      "snippet_id": "S-102-SN0018"
+    },
+    {
+      "quote": "You’ll see",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Control-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He asks her to trust the outcome before there is one. It is a soft pressure move that replaces present facts with his certainty.",
+      "snippet_id": "S-102-SN0019"
+    },
+    {
+      "quote": "send him names I like",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is drawing her into planning a future detail, which feels intimate. It also gets her investing emotionally in a future that may never materialize.",
+      "snippet_id": "S-102-SN0020"
+    },
+    {
+      "quote": "just to have them in my head",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This sounds playful, but it is another way of collecting her hopes and turning them into part of his story. The future is being held in his mind, not grounded in action.",
+      "snippet_id": "S-102-SN0021"
+    },
+    {
+      "quote": "the good stuff is still ahead of us",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is present-as-prologue language. It makes the current relationship feel like a warm-up, which keeps her patient while the real delivery never has to arrive.",
+      "snippet_id": "S-102-SN0022"
+    },
+    {
+      "quote": "this is just the start",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is framing the relationship as the opening chapter, which sounds hopeful. The pressure point is that it excuses how little there is right now by promising more later.",
+      "snippet_id": "S-102-SN0023"
+    },
+    {
+      "quote": "I keep replaying the way he says things like they’ve already happened",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is noticing that his words feel more real than his actions. That small unease matters because it shows the future is doing work that the present is not.",
+      "snippet_id": "S-102-SN0024"
+    },
+    {
+      "quote": "Am I overthinking the way he talks about the future?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the actual question she is left with. She is not naming a problem, just checking whether it is normal to feel a little caught by how much future he is selling.",
+      "snippet_id": "S-102-SN0025"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

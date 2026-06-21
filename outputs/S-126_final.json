@@ -1,0 +1,460 @@
+{
+  "scenario_id": "S-126",
+  "player_type": "Blunt Bailey",
+  "scenario": {
+    "scenario_id": "S-126",
+    "architecture_name": "He uses literal honesty and practical care to make his preferences feel like common sense, so I end up adjusting around his limits before I notice how much space he takes up.",
+    "culture": "South Asian",
+    "demographics": "Mexican American woman, young adult, dating a South Asian man in San Antonio",
+    "cultural_context": "Mexican American extended family / multigenerational family social sphere",
+    "geographic_setting": "San Antonio, Texas; a family home gathering in a Mexican American community setting",
+    "core_behaviors": [
+      "Says exactly what he thinks and expects that to count as care",
+      "Uses sustained attention and practical help to build trust",
+      "Needs predictability, quiet, and explicit wording, so I start managing the environment for him"
+    ],
+    "satellite_signals": "South Asian register is carried through family-status questions, literal directness, and references to arranged-marriage style scrutiny. The relationship feels warm because he is reliable, but his preferences quietly become the organizing frame.",
+    "dismissible_red_flags": "His bluntness reads as honesty, his routine needs read as being particular, and his long attention to details reads as devotion. None of it feels scary, just a little intense and exact.",
+    "scenario_text": "I was telling my sister about him after Sunday dinner, and I realized I kept describing him the same way. He’s just honest. Not smooth, not fake, just honest. When I said my manager was being weird, he looked up from the couch and said, “You asked what I thought. He’s mismanaging you.” It stung a little, but he wasn’t being mean. He was right.\n\nHe also remembers everything. I mentioned one author I liked, and a week later he had read three of her books and was asking me if I liked the ending the same way he did. He notices tiny stuff too. My tire light came on, and by the time I got to his place he had already checked it. There was a new box of allergy pills in the bathroom because I’d said I was almost out.\n\nSometimes he gets overwhelmed in loud places, so he’ll say, “Can we go somewhere quieter?” and I actually like that he says it plain. He doesn’t do the fake easygoing thing. He’ll tell me if the open kitchen is too noisy, or if he needs the plan for Saturday start to finish. At first I thought it was a little much, but he’s really calm once he knows what’s happening.\n\nHe’s also weirdly private in a way that feels respectful. He’ll go quiet for a while and then come back like nothing happened, as long as I give him a minute. And he’s very serious about rules once I explain them. I told him not to read a text on my phone, and he looked honestly sick about it after I said why. He hasn’t done it again.\n\nI guess I’m asking because he said my cousin’s dinner was “hard for him” and I was embarrassed for her, but he wasn’t rude about it. Do you think I’m making too much of that?"
+  },
+  "snippets": [
+    {
+      "quote": "I kept describing him the same way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices her own repetition, which suggests she’s already smoothing over the same traits instead of naming them directly.",
+      "snippet_id": "S-126-SN0001"
+    },
+    {
+      "quote": "He’s just honest",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Accountability-high",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the first protective frame she uses. It reads as praise, but it also sets honesty up as the main thing that excuses everything else.",
+      "snippet_id": "S-126-SN0002"
+    },
+    {
+      "quote": "Not smooth, not fake",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is valuing his lack of polish as proof of sincerity. That makes his bluntness feel safer than it might in another context.",
+      "snippet_id": "S-126-SN0003"
+    },
+    {
+      "quote": "“You asked what I thought",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Accountability-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The line sounds fair, but it also turns her question into permission for him to take over the meaning of the moment.",
+      "snippet_id": "S-126-SN0004"
+    },
+    {
+      "quote": "He’s mismanaging you",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He moves from opinion to diagnosis. Even if he’s right, the phrasing positions him as the clearer judge of her work life.",
+      "snippet_id": "S-126-SN0005"
+    },
+    {
+      "quote": "He was right",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She absorbs his judgment as fact, which shows how quickly his bluntness becomes interpretive authority.",
+      "snippet_id": "S-126-SN0006"
+    },
+    {
+      "quote": "He also remembers everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Perseverance-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering on the surface, but it also shows sustained tracking of her preferences and details, which can become hard to escape later.",
+      "snippet_id": "S-126-SN0007"
+    },
+    {
+      "quote": "three of her books",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The amount of reading signals real staying power. It’s not performative; he commits deeply once something catches his attention.",
+      "snippet_id": "S-126-SN0008"
+    },
+    {
+      "quote": "asking me if I liked the ending",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attention-seeking-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is using her interests as a way to stay connected, which feels intimate and thoughtful rather than flashy.",
+      "snippet_id": "S-126-SN0009"
+    },
+    {
+      "quote": "My tire light came on",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Empathy-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is already monitoring practical problems in her life. Helpful, yes, but it also means he is stepping into a caretaker role early.",
+      "snippet_id": "S-126-SN0010"
+    },
+    {
+      "quote": "he had already checked it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He acts before she asks, which can feel generous. The structure is that he is the one noticing and fixing while she receives.",
+      "snippet_id": "S-126-SN0011"
+    },
+    {
+      "quote": "a new box of allergy pills",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a practical caretaking gesture. It builds gratitude and dependence at the same time because he is anticipating her needs for her.",
+      "snippet_id": "S-126-SN0012"
+    },
+    {
+      "quote": "Can we go somewhere quieter?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "On its face this is a reasonable request. The important part is that his comfort becomes the condition for the date continuing.",
+      "snippet_id": "S-126-SN0013"
+    },
+    {
+      "quote": "the open kitchen is too noisy",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Sensitivity-high",
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He’s naming a sensory limit, not making a moral claim. That makes him seem particular rather than domineering, even though it still shapes where they can go.",
+      "snippet_id": "S-126-SN0014"
+    },
+    {
+      "quote": "he needs the plan for Saturday start to finish",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is one of the clearest early control tells. He isn’t deciding the plan, but he is making predictability the price of his ease.",
+      "snippet_id": "S-126-SN0015"
+    },
+    {
+      "quote": "he’s really calm once he knows what’s happening",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dysregulation-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She interprets his regulation as a virtue, which is understandable. It also means she is already organizing around his need to know everything in advance.",
+      "snippet_id": "S-126-SN0016"
+    },
+    {
+      "quote": "He’s also weirdly private",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She reads his distance as respectful. That’s a fair read now, but it also sets up a relationship where his withdrawal feels like a feature, not a problem.",
+      "snippet_id": "S-126-SN0017"
+    },
+    {
+      "quote": "he’ll go quiet for a while and then come back",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-low",
+        "Accountability-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The silence is temporary and he returns, which is why it doesn’t feel punishing. Still, it teaches her to wait out his shutdowns instead of interrupting them.",
+      "snippet_id": "S-126-SN0018"
+    },
+    {
+      "quote": "I told him not to read a text on my phone",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the clearest boundary moment. He crossed into her phone space, then accepted correction, which makes the overstep feel repairable rather than alarming.",
+      "snippet_id": "S-126-SN0019"
+    },
+    {
+      "quote": "he looked honestly sick about it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-high",
+        "Empathy-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "His shame reads as real, not performative. That matters because it makes the boundary violation feel like a mistake he can learn from.",
+      "snippet_id": "S-126-SN0020"
+    },
+    {
+      "quote": "He hasn’t done it again",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-high",
+        "Perseverance-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the strongest repair signal in the whole scene. She trusts him because correction appears to stick.",
+      "snippet_id": "S-126-SN0021"
+    },
+    {
+      "quote": "my cousin’s dinner was “hard for him”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The phrase is blunt and socially costly. Even without malice, it puts his sensory truth above the host’s feelings and leaves her managing the embarrassment.",
+      "snippet_id": "S-126-SN0022"
+    },
+    {
+      "quote": "Do you think I’m making too much of that?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She’s not asking whether he’s bad. She’s asking whether her own discomfort is overblown, which is exactly where the pressure lands in this kind of dynamic.",
+      "snippet_id": "S-126-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

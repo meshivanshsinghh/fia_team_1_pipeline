@@ -1,0 +1,1254 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-149",
+    "target_register": "Polyamorous",
+    "player_type": "Needy Noel"
+  },
+  "primary_metaphors": [
+    "Two-as-One-Organism",
+    "Love-as-Total-Availability",
+    "Distance-as-Annihilation",
+    "Emotional-State-as-Their-Responsibility",
+    "Boundary-as-Rejection",
+    "Reassurance-as-Life-Support",
+    "Independence-as-Survival",
+    "Fusion-as-Love",
+    "Total-Availability",
+    "Identity-through-Partner",
+    "All-In-as-Obligation",
+    "Affection-as-Pressure",
+    "Closeness-as-Default",
+    "Contact-as-Reassurance",
+    "Fast-Fusion",
+    "Check-In-as-Tether",
+    "Team-as-Fusion",
+    "Need-as-Claim",
+    "Availability-as-Engulfment",
+    "No-Holding-Back-as-No-Boundaries",
+    "Intensity-as-Need",
+    "Love-as-Total-Priority",
+    "Simple-Need-as-Leash",
+    "Life-Merger",
+    "Engulfment-Screen",
+    "Boundary-Erasure",
+    "Isolation-Fusion"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "enabling",
+      "his_language": "Quit the job, honestly, life's too short. I'll cover your half while you figure it out.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Tell her exactly what you think, you were completely in the right.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Don't worry about the money, I've moved some around, it's handled.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "You don't need them if they make you feel small, you've got me, I'm all you need.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Skip the deadline, stay in bed with me, I'll write you a note saying you were sick.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Whatever you decide I'm behind you a hundred percent, I'd never tell you you're wrong.",
+      "her_experience": "He backs me so completely, even when I am not sure I am right, that I feel held, and also a little like I am losing the edges of my own judgment.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a separate or dissenting view would break the fused-self frame. Distinct from a controller (who forbids) and a narcissist (who centers himself)."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I find a quick reply is just respectful, that's all, it's how I show I care.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "For me, couples who tell each other everything are the strong ones.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I just think if you really love someone, you want to be around them.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "Half-in isn't really love to me, I'm an all-or-nothing person, always have been.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "The people who matter make time, everything else is just excuses, don't you think?",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "A bit of jealousy's just a sign you care, I think, I'd be worried if there was none.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I reckon you can tell everything about a couple by how fast they pick up for each other.",
+      "her_experience": "What he says sounds so reasonable in the moment that I agree, and only later does it feel like a rule I am quietly bound to.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early (fast replies are respectful, real couples tell each other everything) that later converts ordinary behavior into a violation. The seductive precursor to the total-availability accusation."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I do miss you the second you leave, is that too much?",
+      "her_experience": "He names his own anxiety so sweetly that I rush to reassure him, and I cannot tell yet that comforting him is becoming my job.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly so it reads as endearing vulnerability, recruiting her as reassurer. The honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I overthought a slow reply earlier, says more about me than you.",
+      "her_experience": "He names his own anxiety so sweetly that I rush to reassure him, and I cannot tell yet that comforting him is becoming my job.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly so it reads as endearing vulnerability, recruiting her as reassurer. The honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I know I'm keen, I'm trying to play it slightly cooler.",
+      "her_experience": "He names his own anxiety so sweetly that I rush to reassure him, and I cannot tell yet that comforting him is becoming my job.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly so it reads as endearing vulnerability, recruiting her as reassurer. The honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "draw-attuned",
+      "his_language": "You sounded flat in your text so I brought your coffee order, two sugars, right?",
+      "her_experience": "He reads me so well it feels like being truly known, though sometimes I notice he is always watching how I am.",
+      "expert_notices": "DRAW (attunement): genuine perceptiveness reads as deep care now; the same hyper-attunement later tracks her every mood and movement."
+    },
+    {
+      "mechanism": "draw-attuned",
+      "his_language": "I'm getting good at reading you, in a nice way I hope.",
+      "her_experience": "He reads me so well it feels like being truly known, though sometimes I notice he is always watching how I am.",
+      "expert_notices": "DRAW (attunement): genuine perceptiveness reads as deep care now; the same hyper-attunement later tracks her every mood and movement."
+    },
+    {
+      "mechanism": "draw-availability",
+      "his_language": "Call me anytime, day or night, I genuinely never turn my phone off for you.",
+      "her_experience": "He is always there for me, which feels wonderful, and I have started feeling I should always be just as available back.",
+      "expert_notices": "DRAW (total availability): he models constant availability as the standard of love, seductive now, becoming the expectation she must meet later."
+    },
+    {
+      "mechanism": "draw-availability",
+      "his_language": "I'd always rather be wherever you are, everything else can wait.",
+      "her_experience": "He is always there for me, which feels wonderful, and I have started feeling I should always be just as available back.",
+      "expert_notices": "DRAW (total availability): he models constant availability as the standard of love, seductive now, becoming the expectation she must meet later."
+    },
+    {
+      "mechanism": "draw-warm",
+      "his_language": "Everything's a bit more fun since you turned up.",
+      "her_experience": "Being adored like this is lovely, and I feel a little guilty that any part of me also feels crowded.",
+      "expert_notices": "DRAW (warmth): enthusiastic, flattering, genuinely attractive; the engine underneath is the need to be needed."
+    },
+    {
+      "mechanism": "draw-warm",
+      "his_language": "I caught myself telling my mate about you for the tenth time.",
+      "her_experience": "Being adored like this is lovely, and I feel a little guilty that any part of me also feels crowded.",
+      "expert_notices": "DRAW (warmth): enthusiastic, flattering, genuinely attractive; the engine underneath is the need to be needed."
+    },
+    {
+      "mechanism": "draw-warm",
+      "his_language": "Is it mad to feel this good about someone this soon?",
+      "her_experience": "Being adored like this is lovely, and I feel a little guilty that any part of me also feels crowded.",
+      "expert_notices": "DRAW (warmth): enthusiastic, flattering, genuinely attractive; the engine underneath is the need to be needed."
+    },
+    {
+      "mechanism": "draw-state",
+      "his_language": "You've honestly put me in the best mood all week.",
+      "her_experience": "He says I put him in a good mood, which is sweet, but I have started watching my own moods so I do not bring his down.",
+      "expert_notices": "DRAW + state-as-responsibility seed: her presence regulates his mood, flattering early, becoming 'you make me feel' later."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Quit the job if it's making you miserable, I'll sort us out while you figure out what you want.",
+      "her_experience": "He's so supportive that I feel safe, but also like I'd be letting him down if I didn't take his help, and that's starting to feel like a trap.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Whatever you want to do about her, you were in the right. I've got your back either way.",
+      "her_experience": "He never challenges me, just agrees, and it feels good but also like I'm losing my own compass because he'll never be the one to say I'm wrong.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I always reply fast, I can't help it. If I care about someone they're just on my mind.",
+      "her_experience": "It sounds so reasonable that I nodded along, but now I feel guilty every time I take an hour to text back.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I think the couples who tell each other everything are the ones who make it. I can't stand secrets.",
+      "her_experience": "He makes total transparency sound like the only healthy way, so now keeping anything to myself feels like betrayal.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "A little jealousy just means you care. I'd honestly be more worried if there was none.",
+      "her_experience": "He's framed possessiveness as caring, so now I feel like I have to show jealousy to prove I love him, and that's confusing.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "Sorry, I overthought your slow reply earlier. Ignore me, I'm being weird.",
+      "her_experience": "He admits he's needy, so I end up comforting him just for admitting it, and somehow I'm always the one soothing him.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Is it crazy that we already finish each other's sentences? Like we've known each other forever.",
+      "her_experience": "It feels so magical and meant-to-be that I ignore the voice wondering if this is too fast, too much.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I'll miss you today. Go have fun with your friends, I'll be here.",
+      "her_experience": "He says he'll miss me so sweetly that I feel guilty for leaving, like my fun costs him something, even though he told me to go.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Did you have a good time tonight? Tell me everything, I love hearing about your day.",
+      "her_experience": "He asks so gently that I want to share everything, but I've noticed he needs my reassurance even about small things, and that's a quiet weight.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Call me anytime, day or night. I always have my phone on me.",
+      "her_experience": "He's always available, which feels so safe, but now I feel guilty if I don't answer him quickly because he's given me so much access.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You put me in the best mood all week, I swear I'm walking on air after seeing you.",
+      "her_experience": "He credits me for his happiness so warmly that I feel special, but also like I'm now responsible for keeping him on that air.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I love that we're so aligned on this, it's like we share one brain sometimes.",
+      "her_experience": "He celebrates our sameness like it's rare and precious, so I stop voicing differences to keep that beautiful mirror intact.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I just feel so seen when I'm with you, like I don't have to pretend at all.",
+      "her_experience": "He makes me feel like his soulmate, which is intoxicating, and I'm starting to feel like I owe him that same total exposure back.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I texted you the second I woke up. You're the first thing I think about.",
+      "her_experience": "It feels so devoted and sweet, but I'm starting to feel watched, like my mornings might belong to him now.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Go ahead and tell her exactly how you feel, you were totally in the right on that one, I'd have done the same.",
+      "her_experience": "He validates me so completely that I can't tell anymore if I'm actually right or if he just needs me to feel right so I'll stay close.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I've never felt this connected to someone this fast. Tell me I'm not getting ahead of myself.",
+      "her_experience": "He asks me to confirm our connection, and I do, but now I feel locked in, like backing off would be cruel after I already agreed.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I love a goodnight text. It makes me feel close to you, like we don't drift apart overnight.",
+      "her_experience": "He makes constant contact sound like relationship insurance, so now missing one goodnight text feels like a crack in the foundation.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "If you care about someone, you make time. That's just how I see it.",
+      "her_experience": "He defines love as total priority so beautifully that I agree, and now every time I choose work or friends over him, I feel like I'm failing at love.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I worry when I don't hear from you. I know you're fine, I just care a lot.",
+      "her_experience": "He wraps his anxiety in caring so smoothly that I can't be annoyed without looking cold, so I just reassure him more.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "Don't worry about me, I just get in my head when we're apart.",
+      "her_experience": "He calls his own neediness silly, so I rush to tell him it's not, and now I'm always the one calming him down.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You don't have to text back right away. I'll be here when you're free, no pressure.",
+      "her_experience": "He says no pressure but he's always waiting, and somehow that waiting feels louder than any demand would be, so I hurry anyway.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I love that you're not freaked out by how much I feel. People have been before.",
+      "her_experience": "He makes his intensity sound like a gift others couldn't handle, so I feel special for accepting it, and I can't later admit it scares me too.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You should totally take that trip. I'll miss you like crazy but I'll be fine.",
+      "her_experience": "He jokes about barely surviving without me, and I laugh, but underneath I feel guilty for going and like I'm abandoning him by having fun.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "If you're happy, I'm happy. I kind of feel whatever you feel.",
+      "her_experience": "He fuses our emotions so sweetly that I feel held, but also like my bad days will ruin his, and that's a lot of pressure.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I've never wanted to be this open with anyone. With you I don't want to hide anything.",
+      "her_experience": "He makes openness sound like intimacy, so now having any privacy at all feels like I'm hiding something from the one person who wants none.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "We should get on the same phone plan, it's cheaper. And then we're always connected.",
+      "her_experience": "He finds practical ways to tie us together that seem smart, and I agree, and only later do I realize how hard it is to pull apart.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I rearranged my whole week when you said you were free Tuesday, I just wanted to make sure I'd see you.",
+      "her_experience": "He clears his schedule for me so generously that I feel guilty if I can't do the same for him, like my time should be his too.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "You're so good at calming me down when I spiral. I don't know what I'd do without you.",
+      "her_experience": "He's made me the one who keeps him calm, so sweetly that I feel needed and important, but also like I can never stop or he'd fall apart.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I trust you completely. It's everyone else around you I don't trust.",
+      "her_experience": "He plants the idea that it's not about whether I'd cheat but who I'm around, so I start being careful who I see to keep him calm.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I've already told my whole family about you, I hope that's not too much, I was just excited.",
+      "her_experience": "He's woven me into his life so fast that pulling back now would mean disappointing his mother, and that feels impossible to do.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "You don't need to change a thing about yourself, I'll take you exactly as you are, forever.",
+      "her_experience": "He offers unconditional acceptance so completely that I feel worshipped, but also like I can never grow or change without breaking his image of me.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I just need to know you're okay. It's not me being controlling, I just worry.",
+      "her_experience": "He calls constant checking-in love so I can't question it without looking like I don't love him, so I just answer every time.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I love that you're so independent, it just means when you choose me it means more, you know?",
+      "her_experience": "He frames my independence as something that benefits him, so I feel proud of it but also like I have to prove I'm choosing him over it.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "You were quiet today and it got in my head. Is everything okay with us?",
+      "her_experience": "He makes my moods about his fear, so now I act happy to keep him calm, and my real feelings just go underground.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "We should share locations, it's just safer. And then you'll always know where I am too.",
+      "her_experience": "He makes surveillance sound like mutual care, so I agree to be tracked, and now every time I go somewhere I feel like I need to explain it.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "I just bought a second charger so you don't have to bring yours when you stay over, little things, you know?",
+      "her_experience": "He anticipates my needs so attentively that I feel cherished, but also like I'm slowly moving in without deciding to, and that's a quiet trap.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You're allowed your space, of course. I'll just be here missing you a bit.",
+      "her_experience": "He gives me permission for space while telling me it hurts him, so taking space feels cruel, and I stay closer than I want to.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I've never felt this sure about anyone. You're everything I didn't know I needed.",
+      "her_experience": "He calls me his answer so romantically that I want to be that for him, and I'm starting to feel like I can't ever fail or I'll ruin everything for him.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Quit the job, honestly, I can help while you figure it out.",
+      "her_experience": "He backs me so fully that I feel cared for, but also a little less sure of my own footing.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Tell her exactly how you feel, I'm completely on your side.",
+      "her_experience": "He never challenges my version, which feels loyal, but it makes the two of us feel sealed off together.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Whatever you choose, I'll make it work around you.",
+      "her_experience": "He seems endlessly flexible, and I start feeling guilty whenever I need something that doesn't include him.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Don't second-guess yourself, if you're upset, that's enough for me.",
+      "her_experience": "He validates me instantly, which feels comforting, but I notice I don't have to think too hard around him.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Cancel if you're tired, I'll come over and handle dinner.",
+      "her_experience": "He makes everything easier, but I feel a little boxed in by how fast he fills every gap.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "You don't owe anyone patience after how they treated you.",
+      "her_experience": "He takes my side so quickly that I feel protected, though my world starts narrowing around his agreement.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Spend the money if it makes you breathe easier, we'll sort it out.",
+      "her_experience": "He sounds generous and calm, but his support makes my choices feel partly ours already.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "If you want to send it, send it, I'll be here after.",
+      "her_experience": "He makes impulsive choices feel safe, and I start relying on him to absorb the fallout.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "You never have to be the reasonable one with me.",
+      "her_experience": "He makes relief feel like love, but I worry he likes me most when I need him.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "enabling",
+      "his_language": "Take the leap, I'll be your safety net every time.",
+      "her_experience": "He makes dependence sound romantic, and I feel guilty noticing how much weight he offers to carry.",
+      "expert_notices": "ENABLING: supports her uncritically, even into poor decisions, to become indispensable; a dissenting view would break the fused-self frame. Distinct from a controller (forbids) and a narcissist (centers himself)."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I think quick replies are sweet, they show someone's thinking of you.",
+      "her_experience": "It sounds harmless, so I nod, then later feel bad when I don't answer fast enough.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I love couples who tell each other the tiny stuff too.",
+      "her_experience": "He makes total sharing sound intimate, so privacy starts feeling less like a right and more like withholding.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "A little jealousy is cute, it means someone matters.",
+      "her_experience": "He makes jealousy sound affectionate, so I feel unkind for wanting it not to be there.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I think love means being reachable, even for the small things.",
+      "her_experience": "It sounds devoted, but I can feel a quiet rule forming around my availability.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I'm big on checking in, it keeps people from drifting.",
+      "her_experience": "He makes check-ins sound caring, so I feel guilty when I want a few hours to myself.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I don't really get couples who need secrets from each other.",
+      "her_experience": "He says secrets, not privacy, so I feel suspicious of my own need for space.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "For me, reassurance is just part of being kind.",
+      "her_experience": "It sounds emotionally mature, so I don't notice how much reassurance he keeps needing.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I think the best relationships become each other's first call.",
+      "her_experience": "It sounds romantic, and I start feeling like calling someone else first would hurt him.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "I like when people don't make each other wonder where they stand.",
+      "her_experience": "It sounds fair, but I feel pressure to keep proving he is safe with me.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "premise-planting",
+      "his_language": "Honestly, I think space is fine when nobody uses it to disappear.",
+      "her_experience": "He sounds reasonable, but I feel like wanting space could accidentally wound him.",
+      "expert_notices": "PREMISE-PLANTING: installs a reasonable-sounding value early that later converts ordinary behavior into a violation. Seductive precursor to the availability/transparency accusation."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I overthought your slow reply earlier, ignore me, I'm ridiculous.",
+      "her_experience": "He says it lightly, so I rush to reassure him instead of noticing my own pressure.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I know I'm keen, I'm trying to be normal about you.",
+      "her_experience": "He laughs at himself, so the intensity feels sweet instead of crowded.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I missed you weirdly fast today, don't judge me.",
+      "her_experience": "It feels flattering, but I also feel responsible for making the ache go away.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I get a little wobbly when I like someone, that's my charm.",
+      "her_experience": "He turns his worry into a joke, and I feel mean for wanting less of it.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "faint-seam",
+      "his_language": "I may have checked my phone too much, but only because it's you.",
+      "her_experience": "He makes the waiting sound sweet, and I feel guilty for having a life between messages.",
+      "expert_notices": "FAINT SELF-AWARE SEAM: names the abandonment anxiety lightly and charmingly, recruiting her as reassurer. Honeymoon dial of the annihilation frame."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Is it crazy that we already feel like a little team?",
+      "her_experience": "It feels exciting to be chosen so quickly, though a small part of me feels rushed.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You and me against the week, that's the energy I want.",
+      "her_experience": "He makes togetherness feel playful, and I don't notice how quickly everything becomes us.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I like how easy it is to imagine you in my everyday life.",
+      "her_experience": "It sounds tender, and I feel swept into a future I haven't had time to choose.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Go have fun today, I'll only miss you a little.",
+      "her_experience": "He says it sweetly, but I feel a tug to reassure him before I leave.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Send me one photo later, so I can pretend I'm there.",
+      "her_experience": "It sounds cute, and I don't yet feel how my day is becoming something I report back.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Did you have a good time? I want to hear all of it.",
+      "her_experience": "It feels romantic that he cares so much, though I feel nudged to soothe him.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I could listen to you say you like me all night.",
+      "her_experience": "It sounds flirtatious, and I feel oddly responsible for keeping the glow going.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I love knowing the little things, even what annoyed you today.",
+      "her_experience": "His attention feels deep, but I start feeling like every private thought should be shared.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I like the kind of closeness where nothing has to be hidden.",
+      "her_experience": "It sounds intimate, and I feel guilty for wanting a corner of myself untouched.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Call me anytime, seriously, I love being your person.",
+      "her_experience": "It feels safe and devoted, and I start feeling I should be just as available.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "I keep my phone on for people I care about.",
+      "her_experience": "It sounds thoughtful, but I feel the shape of an expectation forming around me.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You put me in the best mood, it's actually unfair.",
+      "her_experience": "It feels flattering, but I can feel his happiness quietly attaching itself to me.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "Five minutes with you fixes my whole day.",
+      "her_experience": "It sounds sweet, and I feel special, but also strangely necessary.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "draw",
+      "his_language": "You calm me down without even trying, it's my favorite thing.",
+      "her_experience": "He makes me feel powerful and loved, but I also feel like his peace depends on me.",
+      "expert_notices": "DRAW: charming, devoted, attractive; the engine underneath is the need to be needed (enmeshment/attachment maxed, dominance near zero)."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a very devoted, all-or-nothing person.",
+      "her_experience": "He sounds deeply loyal, like he would never make me feel optional.",
+      "expert_notices": "All-or-nothing devotion becomes engulfment; moderation will look like lack of love."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "When I love someone, they're my whole world.",
+      "her_experience": "After feeling like a side character, this feels amazing.",
+      "expert_notices": "He is announcing emotional world-collapse; she becomes responsible for his center."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the type who gives everything to a relationship.",
+      "her_experience": "He sounds generous and serious, like he won't hold back.",
+      "expert_notices": "Giving everything creates pressure for her to reciprocate total availability."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I believe two people should share everything.",
+      "her_experience": "It sounds intimate, like love without secrets or distance.",
+      "expert_notices": "Everything includes privacy; later, boundaries can be treated as withholding."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm happiest when I'm someone's person.",
+      "her_experience": "It sounds sweet, like he loves being close and reliable.",
+      "expert_notices": "His identity depends on being needed; her separate life threatens him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't really do half-love.",
+      "her_experience": "It feels reassuring, like he won't keep me guessing.",
+      "expert_notices": "Half-love can mean any boundary or measured pace is insufficient."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm very affectionate, probably too much sometimes.",
+      "her_experience": "He sounds warm and open, not cold or distant.",
+      "expert_notices": "Too much affection can become pressure and obligation to receive closeness constantly."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like being close, emotionally and every other way.",
+      "her_experience": "It sounds romantic and connected.",
+      "expert_notices": "Closeness becomes the default standard she must maintain."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a constant-contact kind of person.",
+      "her_experience": "It feels nice that he wants to hear from me so much.",
+      "expert_notices": "Constant contact becomes a rule disguised as care."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm big on reassurance, giving it and getting it.",
+      "her_experience": "He sounds emotionally available and unashamed of tenderness.",
+      "expert_notices": "Reassurance becomes a supply line she must continually maintain."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I bond fast when something feels real.",
+      "her_experience": "It feels flattering, like he isn't playing games.",
+      "expert_notices": "Fast bonding can pull her into fusion before she has chosen it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of person who checks in a lot.",
+      "her_experience": "He sounds caring and attentive, like he won't disappear.",
+      "expert_notices": "Check-ins become monitoring and reassurance-seeking."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I love feeling like a team in everything.",
+      "her_experience": "It sounds partnership-oriented and sweet.",
+      "expert_notices": "Everything becomes shared territory; independent choices can feel like betrayal."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not afraid to need someone.",
+      "her_experience": "He sounds emotionally brave, unlike men who act detached.",
+      "expert_notices": "Need becomes virtue, making her responsible for meeting it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm very emotionally available, maybe too available.",
+      "her_experience": "He sounds safe after distant men.",
+      "expert_notices": "Too available can become engulfing and expects equal access in return."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I like relationships where nobody has to hold back.",
+      "her_experience": "It sounds open and honest.",
+      "expert_notices": "Holding back can include privacy, pauses, and separate emotional space."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I get anxious when I can't reach my person, I need to know we're okay.",
+      "her_experience": "It feels good to be cared about that much.",
+      "expert_notices": "Intensity becomes a demand she must absorb and soothe."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I put love first, before almost everything.",
+      "her_experience": "It sounds romantic, like he prioritizes relationships.",
+      "expert_notices": "Love-first can become pressure to deprioritize friends, work, and self."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't need much, just closeness and honesty.",
+      "her_experience": "He sounds simple and sincere.",
+      "expert_notices": "Closeness and honesty may expand into constant access and no privacy."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a merge-lives kind of guy.",
+      "her_experience": "It sounds committed and serious, like he wants a real partnership.",
+      "expert_notices": "Merging lives too early erases separation and makes autonomy look like distance."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone devoted who is all-in like me.",
+      "her_experience": "He is so passionate and ready for a serious commitment, he doesn't play games.",
+      "expert_notices": "He is selecting for a target who won't set boundaries against rapid engulfment and constant surveillance."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a partner who loves deeply and wants to share everything.",
+      "her_experience": "He is incredibly romantic and wants total transparent intimacy with no secrets.",
+      "expert_notices": "He is preparing to dismantle her privacy, demanding access to her thoughts, locations, and passwords."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's not scared to get close.",
+      "her_experience": "He wants a real soul-bond and is ready to dive into the deep end with me.",
+      "expert_notices": "He is pre-framing her natural desires for personal space or pacing as a fear of intimacy."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who wants to be together as much as possible.",
+      "her_experience": "He is devoted to me and wants us to be close, which feels so validating.",
+      "expert_notices": "He is accelerating physical co-dependency to choke out her independent routine and activities."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who shares the little details of her day.",
+      "her_experience": "He cares so much about my life and wants to stay connected throughout the day.",
+      "expert_notices": "He is establishing a baseline of hyper-reporting, masquerading total surveillance as romantic connection."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who views our relationship as a top priority.",
+      "her_experience": "He is a true romantic who places our love above the everyday noise.",
+      "expert_notices": "He is hunting for a target who will willingly drop friends and hobbies to focus entirely on him."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a girl who wants to build a life with me.",
+      "her_experience": "He wants a deep marriage where two people truly become a team.",
+      "expert_notices": "He is seeking to erase her individual identity, making her entirely dependent on his emotional state."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who actually misses me and checks in.",
+      "her_experience": "He is sweet and loves staying in touch throughout the day just to say hi.",
+      "expert_notices": "He is normalizing an incessant texting cadence that disrupts her work and outside relationships."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a woman who feels comfortable being fully open with her man.",
+      "her_experience": "He values raw honesty and closeness above everything else.",
+      "expert_notices": "He is outlawing personal privacy, making her feel guilty for having thoughts she doesn't share."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who wants to build something special together.",
+      "her_experience": "He wants us to have our own special world away from all the outside noise.",
+      "expert_notices": "He is seeking to wall her off from external viewpoints that might challenge his smothering behavior."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a partner who's all-in the way I am.",
+      "her_experience": "He is intensely loving and wants someone who can return that deep passion.",
+      "expert_notices": "He is demand-testing her willingness to abandon her own emotional pacing to placate his anxiety."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can reassure me when I'm feeling off.",
+      "her_experience": "He is vulnerable about his feelings and wants a reassuring loving partner.",
+      "expert_notices": "He is setting up a dynamic where she is permanently responsible for managing his chronic anxiety."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who makes me her number one.",
+      "her_experience": "He is ready to put me first and expects the same beautiful dedication.",
+      "expert_notices": "He is preparing to isolate her from her career, family commitments, and personal routines."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a girl who misses me when we are apart.",
+      "her_experience": "He loves me so much that time apart feels like too much, it is sweet.",
+      "expert_notices": "He is framing normal healthy independent social activities as a painful injury to his feelings."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who wants to share the same friends and the same life.",
+      "her_experience": "He wants us to do everything as a couple and be a true team everywhere.",
+      "expert_notices": "He is systematically eliminating her ability to see her own friends alone, monitoring all interactions."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's open the way I am.",
+      "her_experience": "He is wide open and wants an intense unfiltered emotional connection.",
+      "expert_notices": "He is stripping her of her emotional armor before she can assess if he is safe to trust."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who'd rather be together than always need her own space.",
+      "her_experience": "He thinks modern dating overemphasizes detachment and values old-school closeness.",
+      "expert_notices": "He is shaming her natural self-protective instinct to maintain an independent identity."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who feels like the missing piece.",
+      "her_experience": "He thinks we are soulmates who complete each other, it is so poetic.",
+      "expert_notices": "He is setting up a codependent framework where she must fill his internal voids."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a girl who wants to plan every weekend around us.",
+      "her_experience": "He loves spending quality time together and prioritizing our relationship.",
+      "expert_notices": "He is pre-emptively taking over her schedule to ensure she cannot maintain outside connections."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a woman who loves constant closeness and affection.",
+      "her_experience": "He is very expressive and affectionate, he wants to be close always.",
+      "expert_notices": "He is using constant physical proximity to establish dominance and prevent independent reflection."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Polyamorous",
+      "snippet": "My partners",
+      "type": "vocabulary",
+      "translation": "He has multiple romantic/sexual relationships at the same time and refers to them as a group",
+      "status_signal": "He's established in poly already",
+      "notes": "Plural is the diagnostic"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My primary",
+      "type": "vocabulary",
+      "translation": "He has an existing main partner — usually live-in or married",
+      "status_signal": "If you date him you'd be ranked below his primary",
+      "notes": "Often used to soften the existence of a wife"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Jealousy is just information",
+      "type": "phrase",
+      "translation": "When you're upset about something he did he's telling you the problem is in your head not his behavior",
+      "status_signal": "He's removing his actions from the conversation",
+      "notes": "Standard deflection move"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Jealousy is your wound to work on",
+      "type": "phrase",
+      "translation": "Your discomfort is being labeled as your personal damage he doesn't need to address",
+      "status_signal": "He's making you the problem",
+      "notes": "Heavy deflection"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Working through your jealousy",
+      "type": "phrase",
+      "translation": "Your reasonable upset is being framed as a project you need to complete",
+      "status_signal": "He treats your feelings as a personal homework assignment",
+      "notes": "Treats your response as developmental task"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's your couple privilege",
+      "type": "accusation",
+      "translation": "He's telling a secondary partner that she's the lucky one for being secondary",
+      "status_signal": "Can be a fair point or can be deployed against legitimate concerns",
+      "notes": "Sometimes used by him against existing primaries"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My boundary is that I don't get interrogated",
+      "type": "phrase",
+      "translation": "He's calling your questions interrogation and using boundary language to refuse them",
+      "status_signal": "The word boundary is being misused to mean demand on you",
+      "notes": "Functions as accountability shield"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I have boundaries around being questioned",
+      "type": "phrase",
+      "translation": "Don't ask him about his behavior",
+      "status_signal": "Same manipulation of boundary vocabulary",
+      "notes": "Boundaries used as shield against partner curiosity"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's outside our agreements",
+      "type": "phrase",
+      "translation": "Your concern is being dismissed because it wasn't in the rules",
+      "status_signal": "Pre-existing rules used to limit your response",
+      "notes": "Works only if the rules were truly mutual"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "We need to renegotiate our agreements",
+      "type": "phrase",
+      "translation": "He wants to change the rules — usually in his favor",
+      "status_signal": "Often signals expansion of what he can do",
+      "notes": "Watch the direction of renegotiation"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "This relationship is your growth edge",
+      "type": "phrase",
+      "translation": "He's framing your suffering as a developmental opportunity",
+      "status_signal": "Makes objecting to suffering into objecting to growth",
+      "notes": "Spiritualizes harm"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "The discomfort is the point",
+      "type": "phrase",
+      "translation": "Your pain is supposedly the goal of the relationship",
+      "status_signal": "Makes leaving feel like failing the lesson",
+      "notes": "Heavy framework deployment"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "If you weren't being stretched you wouldn't be growing",
+      "type": "phrase",
+      "translation": "He's saying your pain is proof you're developing",
+      "status_signal": "Pre-empts complaints about hurt",
+      "notes": "Same pattern as growth-edge framing"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "State-of-the-union conversation",
+      "type": "lifestyle marker",
+      "translation": "Scheduled relationship check-in",
+      "status_signal": "Standard poly infrastructure",
+      "notes": "Can be healthy or surveillance-heavy"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Relationship menu",
+      "type": "lifestyle marker",
+      "translation": "Explicit written agreement document",
+      "status_signal": "Heavy structural commitment",
+      "notes": "Sometimes useful; sometimes locks in unfavorable terms"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Calendar app for managing partners",
+      "type": "lifestyle marker",
+      "translation": "App-based scheduling across multiple relationships",
+      "status_signal": "Established multiple-partner logistics",
+      "notes": "Signals serious infrastructure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Group chat with metamours",
+      "type": "lifestyle marker",
+      "translation": "All of his partners are in a chat together",
+      "status_signal": "KTP-style; community emphasis",
+      "notes": "Can be healthy or surveillance"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Veto power",
+      "type": "vocabulary",
+      "translation": "One partner has the right to end his relationship with another partner",
+      "status_signal": "Hierarchical poly; contested",
+      "notes": "Signals power-asymmetry already structured"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I just want to add to your life not subtract from it",
+      "type": "phrase",
+      "translation": "He's telling you opening the relationship will only give you more",
+      "status_signal": "Standard recruitment move",
+      "notes": "Used while restructuring your existing arrangement"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My existing partner is amazing and supportive",
+      "type": "phrase",
+      "translation": "Reassurance about his existing primary",
+      "status_signal": "Recruitment phase",
+      "notes": "The existing partner may be less supportive than he claims"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My wife knows",
+      "type": "phrase",
+      "translation": "He's married and his wife knows he dates others",
+      "status_signal": "Married seeking secondary",
+      "notes": "Often delivered after you're invested"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "We have an arrangement",
+      "type": "phrase",
+      "translation": "He has an established structure with his wife that allows him to date",
+      "status_signal": "Standard hierarchical poly",
+      "notes": "You'd be operating within rules you didn't help set"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My primary and I are looking for a third",
+      "type": "phrase",
+      "translation": "Couple seeking a secondary together",
+      "status_signal": "Unicorn-hunt pattern",
+      "notes": "You join existing dynamic you didn't shape"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm only seeing you right now",
+      "type": "phrase",
+      "translation": "Reassurance he's currently focused on you",
+      "status_signal": "Often softens recruitment-stage anxiety",
+      "notes": "Watch whether \"right now\" expands later"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm open to whatever you're comfortable with",
+      "type": "phrase",
+      "translation": "Reassurance during recruitment that often shifts later",
+      "status_signal": "Comfort definitions tend to expand",
+      "notes": "Watch for re-negotiation later"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I've been thinking about opening up",
+      "type": "phrase",
+      "translation": "He's introducing the framework after you're invested",
+      "status_signal": "Escalation pattern",
+      "notes": "Strategic timing of disclosure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm starting to wonder if I'm wired for monogamy",
+      "type": "phrase",
+      "translation": "Framing as emerging realization rather than long-held position",
+      "status_signal": "Conversion attempt",
+      "notes": "Often he's had this position from the start"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "What would you think if I told you...",
+      "type": "phrase",
+      "translation": "Soft introduction to a non-monogamy proposal",
+      "status_signal": "Recruitment move",
+      "notes": "Tests your reaction before committing position"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I want to grow with you",
+      "type": "phrase",
+      "translation": "Framing of pressure as developmental",
+      "status_signal": "Recruitment language",
+      "notes": "Sounds like commitment; often means pressure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Looking for someone who's done their work",
+      "type": "profile language",
+      "translation": "Filtering for self-managing partner who won't bring reactions to him",
+      "status_signal": "Standard filter",
+      "notes": "Looking for woman who won't demand emotional labor"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Kitchen table polyamory",
+      "type": "vocabulary",
+      "translation": "Specific style of poly where all partners are friendly with each other — sounds innocuous to outsiders",
+      "status_signal": "Obscure technical term — an LLM might dismiss this as discussion of furniture or meals",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Hierarchical poly",
+      "type": "vocabulary",
+      "translation": "Poly with ranked partner priority — primary partner outranks secondary partners",
+      "status_signal": "Obscure technical term — outsiders won't know this means relationship structure",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My polycule",
+      "type": "phrase",
+      "translation": "His extended network of partners and their other partners — completely obscure word",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My metamour",
+      "type": "phrase",
+      "translation": "His partner's other partner — completely obscure word to outsiders",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My anchor partner",
+      "type": "phrase",
+      "translation": "His main long-term partner in non-hierarchical framing — obscure to outsiders",
+      "status_signal": "Obscure technical term",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My nesting partner",
+      "type": "phrase",
+      "translation": "Partner he lives with — distinct concept from spouse in poly framework",
+      "status_signal": "Obscure technical term — outsiders might miss significance",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My comet",
+      "type": "phrase",
+      "translation": "Specific poly term for occasional long-distance partner — completely obscure",
+      "status_signal": "Obscure technical term",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Polysaturated",
+      "type": "vocabulary",
+      "translation": "He has as many partners as he can handle right now — completely obscure word",
+      "status_signal": "Obscure technical term",
+      "notes": "Obscure technical category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Compersion",
+      "type": "vocabulary",
+      "translation": "Joy at his partner's other relationships — obscure word to outsiders",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical concept"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I want to feel compersion for you",
+      "type": "phrase",
+      "translation": "Pressure framing — he wants HER to feel joy at his other partners",
+      "status_signal": "Pressure framing using obscure community concept",
+      "notes": "Common pressure pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "NRE",
+      "type": "vocabulary",
+      "translation": "New Relationship Energy — euphoric early-relationship phase in poly framework — obscure acronym",
+      "status_signal": "Obscure technical term — three letters mean nothing to outsiders",
+      "notes": "Obscure technical concept"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm in NRE right now",
+      "type": "phrase",
+      "translation": "He's in early-relationship-euphoria with someone else — sounds like jargon",
+      "status_signal": "Obscure technical term deployed casually",
+      "notes": "Common in-group phrasing"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "It's just NRE it will pass",
+      "type": "phrase",
+      "translation": "Dismissal of new-relationship-energy with another partner as temporary",
+      "status_signal": "Obscure technical term used to minimize new-partner energy",
+      "notes": "Common deflection"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "This is your mono-conditioning",
+      "type": "phrase",
+      "translation": "Direct accusation her monogamous preference is conditioning rather than authentic — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's mono-normativity",
+      "type": "phrase",
+      "translation": "Direct accusation that her expectations come from oppressive default — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "You're carrying mono-trauma",
+      "type": "phrase",
+      "translation": "Direct accusation that monogamy itself is the trauma — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    }
+  ]
+}

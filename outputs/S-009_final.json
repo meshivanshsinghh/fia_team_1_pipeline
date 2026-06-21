@@ -3,23 +3,422 @@
   "player_type": "Domineering Devin",
   "scenario": {
     "scenario_id": "S-009",
-    "architecture_name": "He uses the vocabulary of discipline, provision, and natural order to install a hierarchy in which her compliance is the only rational option and her preferences become disruptions to a system he has already built.",
-    "culture": "Red Pill",
-    "demographics": "F/late 20s, chronic illness, Portland OR; M/early 30s, Lebanese-American, military background, Red Pill-adjacent",
-    "cultural_context": "Dating/romantic relationship, early-stage relationship dynamics",
-    "geographic_setting": "Portland, Oregon",
+    "architecture_name": "He uses traditional care and respectability to install himself as the authority on her choices, then makes that authority feel like relief.",
+    "culture": "Tradwife-Recruiting",
+    "demographics": "Woman in a new dating relationship; partner Amir is a Lebanese-descended man",
+    "cultural_context": "Dating and family-tradition-focused social sphere; cross-cultural relationship with traditional gender-role undertones",
+    "geographic_setting": "Portland, Oregon / U.S. urban setting",
     "core_behaviors": [
-      "Frames provision and planning as care while routing all decisions through himself",
-      "Installs a merit-hierarchy that ranks her friends, her habits, and eventually her as either up to standard or not",
-      "Deploys discipline-as-moral-law so that any preference she has that differs from his reads as her failing to meet the bar"
+      "Uses provider language as a way to set the terms",
+      "Frames his standards as simple order and good sense",
+      "Gently corrects her into smaller, more compliant versions of herself"
     ],
-    "satellite_signals": "Discipline stated as moral law; provider framing tied to gendered role; merit-hierarchy applied to her social circle; schedule subordinated to his fixed points; correction framed as coaching; community norm used to depersonalize control.",
-    "dismissible_red_flags": "His early-morning routine and financial planning read as admirable self-discipline; paying for everything reads as old-fashioned generosity; scheduling around his fixed commitments reads as practical; correcting her on her friends reads as having standards he applies to himself too.",
-    "scenario_text": "I've been seeing Marcus for about three weeks and honestly it's been kind of a lot, in a good way. He's ex-military, works in commercial real estate now, and he's one of those people who just has everything dialed in. Up at five every morning, cold plunge, lifts before most people are awake. I've never dated anyone this put-together.\n\nHe insists on paying every time. Like, I reached for my card once and he just shook his head. \"Put it away. That's the man's job, simple as that.\" It's old-fashioned but after splitting everything down the middle with my last two exes it honestly feels like being taken care of. He already booked us a trip for next month, said I don't need to do anything but show up. He prefers it that way.\n\nHe's been really attentive about my health stuff too. He found out I have a flare cycle and now he builds our plans around my good days. He said, \"I've got a system, I'll handle the logistics so you're not burning energy on that.\" I know that sounds like a lot, but when you're managing a chronic illness, someone just taking things off your plate is genuinely a relief.\n\nLast week he mentioned my friend Dani, who's been job-hopping since we graduated. \"Nice girl, but she's going nowhere. Be careful how much you take after her.\" It stung a little because Dani is one of my closest friends, but he has a point that she's kind of adrift, and he does hold himself to the same bar.\n\nHe also said he wants a partner who supports his vision, that he's building something and needs someone who gets that. He said I have feminine energy, which I think was a compliment? He's not like anyone I've dated and I like how certain he is about everything.\n\nI guess I'm just wondering, is it weird that the comment about Dani is still sitting with me a little?"
+    "satellite_signals": "Lebanese family references, traditional tastes, old-school gender role talk, and soft coaching language all make his control feel culturally grounded and flattering.",
+    "dismissible_red_flags": "At this stage it reads like old-fashioned protectiveness, confidence, and strong preferences. His intensity feels flattering, and his corrections can seem like him caring enough to help.",
+    "scenario_text": "I've only been seeing Amir for a few weeks, but it already feels kind of steady in a way I didn't expect. He grew up around a big Lebanese family, and he talks about them with so much respect, like that's just how a man should be. The other night he said, 'I'm old-fashioned about who does what,' and then laughed like it was obvious, not a big deal. Honestly, after enough flaky guys in Portland, I liked that he seemed clear.\n\nHe always pays, and not in a flashy way. More like, 'put your card away, I got it.' He says it's the man's job, simple as that. I know some people would roll their eyes, but it does feel nice when someone takes care of the bill and doesn't make it weird. He also has this whole system for his money and keeps saying I won't need to stress about that side of things. Which, I mean, is a relief.\n\nWhat I keep noticing is how quickly his version of practical becomes my version too. He booked our dinner without asking first, then told me he picked somewhere with 'real food' because he knows what I like now. He keeps saying, 'We don't really do that in our circle,' about little things, like what I wear or how late we stay out. He says it gently, almost like he's helping me fit in.\n\nAnd weirdly, I do feel more put together around him. He'll say I'm not like those girls who need attention, or that I have a feminine spirit, and I know he means it sweetly. I just sometimes catch myself wondering why I suddenly feel like I need his approval for things I used to decide on my own.\n\nDo you think I was being too sensitive about the way he said, 'we don't really do that in our circle'?"
   },
-  "snippets": [],
-  "validation_warnings": [
-    "CRITICAL: No snippets generated in output"
+  "snippets": [
+    {
+      "quote": "I've only been seeing Amir for a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The relationship is very new, which matters because the control is already showing up early. That makes the rest of the scene feel like a first-stage setup, not a settled dynamic.",
+      "snippet_id": "S-009-SN0001"
+    },
+    {
+      "quote": "a big Lebanese family",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places him inside a specific family and cultural world. It is not just background; it gives the later comments about tradition and circles a believable social home.",
+      "snippet_id": "S-009-SN0002"
+    },
+    {
+      "quote": "He talks about them with so much respect",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Disrespect-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He sounds admiring and well-mannered, which is appealing. The structure underneath is that he uses respectability to make his worldview feel morally settled and hard to question.",
+      "snippet_id": "S-009-SN0003"
+    },
+    {
+      "quote": "that's just how a man should be",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This turns his preferences into a rule about manhood itself. Once a preference is framed as what a real man does, it becomes harder for her to object without seeming to reject masculinity.",
+      "snippet_id": "S-009-SN0004"
+    },
+    {
+      "quote": "I'm old-fashioned about who does what",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That line sounds quaint, but it quietly assigns roles before they have been negotiated. In tradwife language, 'who does what' often means hierarchy dressed up as clarity.",
+      "snippet_id": "S-009-SN0005"
+    },
+    {
+      "quote": "he seemed clear",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is already reading his rigidity as a virtue. The appeal is the certainty, but that same certainty is what later makes room for less and less choice.",
+      "snippet_id": "S-009-SN0006"
+    },
+    {
+      "quote": "He always pays",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Paying can be generous, but here it also sets up a pattern where he becomes the one with the leverage. The more he covers, the easier it is for gratitude to become obligation.",
+      "snippet_id": "S-009-SN0007"
+    },
+    {
+      "quote": "put your card away, I got it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is warm on the surface and controlling underneath. He is not just offering; he is deciding, and that shifts the scene so she is the one being managed.",
+      "snippet_id": "S-009-SN0008"
+    },
+    {
+      "quote": "it's the man's job, simple as that",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a role claim, not a one-off gesture. By making provision a male duty, he turns generosity into a hierarchy and makes disagreement sound like bad values.",
+      "snippet_id": "S-009-SN0009"
+    },
+    {
+      "quote": "I won't need to stress about that side of things",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is removing her from a domain rather than helping her share it. That can feel soothing early on, but it also means he is centralizing knowledge and decision-making.",
+      "snippet_id": "S-009-SN0010"
+    },
+    {
+      "quote": "He booked our dinner without asking first",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is one of the clearest control moves in the scene. It is framed as competence, but the important part is that the decision was already made before she had a say.",
+      "snippet_id": "S-009-SN0011"
+    },
+    {
+      "quote": "with 'real food'",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "'Real food' sounds harmless, but it ranks one taste above another. In context, it lets him present his preferences as the mature standard and hers as less serious.",
+      "snippet_id": "S-009-SN0012"
+    },
+    {
+      "quote": "We don't really do that in our circle",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the most important line in the story. 'Our circle' makes the rule feel communal, not personal, so she is nudged to conform without being able to point to a single person as the source.",
+      "snippet_id": "S-009-SN0013"
+    },
+    {
+      "quote": "what I wear or how late we stay out",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "These are ordinary life choices, which is exactly why the reach matters. He is already treating her clothes and hours as part of a shared code he gets to define.",
+      "snippet_id": "S-009-SN0014"
+    },
+    {
+      "quote": "he's helping me fit in",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is translating his pressure into social help. That rationalization is important because it shows she is absorbing the control as if it were a kindness.",
+      "snippet_id": "S-009-SN0015"
+    },
+    {
+      "quote": "I do feel more put together around him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the emotional payoff he is creating. She feels improved by his standards, which makes it easier for her to keep adjusting herself to stay in his good graces.",
+      "snippet_id": "S-009-SN0016"
+    },
+    {
+      "quote": "You're not like those girls",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is elevation through devaluation. He praises her by contrasting her with a dismissed category, which rewards distance from other women and from her own instincts.",
+      "snippet_id": "S-009-SN0017"
+    },
+    {
+      "quote": "a feminine spirit",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In tradwife language, this sounds flattering and spiritually charged. Structurally, it evaluates her against a gendered ideal that he gets to define.",
+      "snippet_id": "S-009-SN0018"
+    },
+    {
+      "quote": "I know he means it sweetly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is actively softening the impact of the comment for herself. That little hedge shows she noticed the edge, but is choosing the affectionate reading because it feels safer and kinder.",
+      "snippet_id": "S-009-SN0019"
+    },
+    {
+      "quote": "I need his approval",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest sign that the relationship is already reorganizing her sense of self. Approval has started to replace ordinary mutuality, which is how the hierarchy gets internalized.",
+      "snippet_id": "S-009-SN0020"
+    },
+    {
+      "quote": "we don't really do that in our circle",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The closing phrase is a community norm on the surface, but it works like a soft command. Because it sounds collective, it is harder for her to argue with than if he simply said he disliked the behavior.",
+      "snippet_id": "S-009-SN0021"
+    }
   ],
-  "repetition_warnings": []
+  "validation_warnings": [],
+  "repetition_warnings": [
+    "Repetition: 8-word phrase repeated: ''we don't really do that in our circle'?'"
+  ]
 }

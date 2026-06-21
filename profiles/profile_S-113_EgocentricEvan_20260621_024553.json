@@ -1,0 +1,1075 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-113",
+    "target_register": "Polyamorous",
+    "player_type": "Egocentric Evan"
+  },
+  "primary_metaphors": [
+    "Other-People-as-Mirrors",
+    "Triangulation-as-Market",
+    "Relationship-as-Stage",
+    "Self-as-Center-of-Gravity",
+    "Admiration-as-Sustenance",
+    "Criticism-as-Wound",
+    "Self-Worth-as-Entitlement",
+    "Admiration-as-Oxygen",
+    "Partner-as-Status-Object",
+    "Criticism-as-Insecurity",
+    "Grandiosity-as-Destiny",
+    "Attention-as-Entitlement",
+    "Exceptionalism-as-Exemption",
+    "Partner-as-Reflection",
+    "Evaluator-as-Lover",
+    "Respect-as-Adoration",
+    "Self-as-Prize",
+    "Recognition-as-Duty",
+    "Grandiosity-as-Fact",
+    "Approval-as-Scarcity",
+    "Deservingness-as-Entitlement",
+    "Revenge-of-the-Underestimated",
+    "Access-as-Hierarchy",
+    "Expectation-as-Control",
+    "Standard-as-Self",
+    "Centrality-as-Need",
+    "Audience-Selection",
+    "Secondary-Status",
+    "Low-Ego-Selection",
+    "Supply-Selection",
+    "Public-Admiration",
+    "Unequal-Supply",
+    "Subordinate-Selection",
+    "Unconditional-Admiration",
+    "Enmeshed-Success",
+    "Ornament-Selection",
+    "Attention-Monopoly",
+    "Conditional-Specialness",
+    "No-Need-Selection",
+    "Listening-One-Way",
+    "Status-Display",
+    "Gratitude-Performance",
+    "No-Investigation",
+    "Deprioritization-Tolerance",
+    "Spotlight-Monopoly",
+    "Cheerleader-Selection"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "pedestal (possession-framed praise)",
+      "his_language": "I look at you and I genuinely can't believe you're mine. I've got the most beautiful woman in any room we walk into.",
+      "her_experience": "He makes me feel like the most stunning woman alive. I've never had anyone be this proud of me.",
+      "expert_notices": "Praise is about her appearance and his possession of it (mine, I've got). Idealization, not knowing. The pride is his."
+    },
+    {
+      "mechanism": "pedestal (display to others)",
+      "his_language": "My friends couldn't stop talking about you after. I told them, yeah, I know. I've got good taste.",
+      "her_experience": "His friends loved me and he was so proud. It felt amazing to have him that happy about me.",
+      "expert_notices": "She's an achievement he displays; the compliment routes through his coup in landing her. Showpiece framing."
+    },
+    {
+      "mechanism": "pedestal (his discernment is the subject)",
+      "his_language": "You're perfect. Genuinely. And I don't say that, I'm picky.",
+      "her_experience": "He thinks I'm perfect, and apparently he never says that to anyone. I felt so chosen.",
+      "expert_notices": "Superlative plus his taste as the real subject (I'm picky = my judgment is the point). No specific quality named."
+    },
+    {
+      "mechanism": "pedestal (idealization altitude)",
+      "his_language": "Don't change a single thing about yourself. You're flawless exactly like this.",
+      "her_experience": "It's the most adored I've ever felt. He thinks I'm flawless.",
+      "expert_notices": "Idealization at a height no real person occupies; quietly sets the standard she will later have to maintain."
+    },
+    {
+      "mechanism": "pedestal (she reflects his image)",
+      "his_language": "When you walk in next to me I feel like everything's exactly how it should be. You make the whole picture right.",
+      "her_experience": "He says I complete the picture for him. I love being what makes his world feel right.",
+      "expert_notices": "She is framed as the element that completes HIS image (the picture, how it should be). Mirror function, not partner."
+    },
+    {
+      "mechanism": "pedestal (superlative escalation)",
+      "his_language": "Every other woman I've been with, I can barely remember now. You're on a whole other level.",
+      "her_experience": "He says I'm on another level compared to anyone before me. I know it's a lot but it's wonderful to hear.",
+      "expert_notices": "Ranks her above predecessors; idealization defined by comparison, which means the ranking can reverse. Faint disavowal in her."
+    },
+    {
+      "mechanism": "pedestal (publicly performed adoration)",
+      "his_language": "I want to post you everywhere. I want everyone who ever doubted me to see what I'm walking around with now.",
+      "her_experience": "He's so proud he wants to show me off to everyone. After feeling invisible for years it's intoxicating.",
+      "expert_notices": "Display impulse aimed at an audience of doubters; she is evidence in his case about himself (what I'm walking around with)."
+    },
+    {
+      "mechanism": "self-promotion (achievement brag, fused with her)",
+      "his_language": "I'm pretty established, done well for myself, and honestly I think the two of us together, people are going to notice.",
+      "her_experience": "He's so confident and successful and he wants to bring me into all of it. It's magnetic.",
+      "expert_notices": "Self-elevation fused with a couple-as-spectacle frame; people are going to notice centers being watched. Charlot: arrogant/entitled."
+    },
+    {
+      "mechanism": "self-promotion (her as proof of his standard)",
+      "his_language": "I don't really do average. Never have. And then there's you. Makes sense.",
+      "her_experience": "He told me I'm proof he doesn't settle. I melted, honestly.",
+      "expert_notices": "Compliment to her is evidence of HIS standard; she is a data point confirming his superiority. Admiration flows toward him."
+    },
+    {
+      "mechanism": "self-promotion (center of social gravity)",
+      "his_language": "I'm usually the one people gravitate to at these things. Stick with me, you'll have a good night.",
+      "her_experience": "He's the life of every party and everyone's drawn to him. I love watching it.",
+      "expert_notices": "Self-as-center stated as charming social fact; she is positioned as a guest in his orbit, not an equal."
+    },
+    {
+      "mechanism": "self-promotion (adjacency to him is the prize)",
+      "his_language": "I worked hard to become somebody. You're the first person who actually deserves to stand next to me.",
+      "her_experience": "He made me feel like I'd earned a place beside someone really impressive.",
+      "expert_notices": "Next to that = adjacency to him as the reward she earns; his status is the center of the compliment."
+    },
+    {
+      "mechanism": "self-promotion (entitled to the best)",
+      "his_language": "I've always believed you get what you settle for, and I just don't settle. In anything.",
+      "her_experience": "He has such high standards for his whole life and somehow I meet them. That's a thrill.",
+      "expert_notices": "Entitlement stated as a life philosophy (Charlot recurring exemplar: arrogant/entitled); she reads it as flattering selectivity."
+    },
+    {
+      "mechanism": "self-promotion (humble-brag deflection)",
+      "his_language": "People make a big deal about what I've accomplished. What can I say, I don't do things halfway.",
+      "her_experience": "He's modest about how impressive he is, which somehow makes it more attractive.",
+      "expert_notices": "Disavowed brag (humble-brag); the modesty is a delivery vehicle for the accomplishment. Validation-seeking dressed as humility."
+    },
+    {
+      "mechanism": "self-promotion (status display as generosity)",
+      "his_language": "Let me take you somewhere that actually matches you. I don't really do ordinary, and you shouldn't have to either.",
+      "her_experience": "He spoils me and takes me to incredible places. It feels like he sees me as someone who deserves the best.",
+      "expert_notices": "Status spending framed as her due; the taste on display is his. Superficiality9. Cover that genuinely feels generous."
+    },
+    {
+      "mechanism": "triangulation (diminished ex, ranks her)",
+      "his_language": "My ex was beautiful, sure, but there was nothing going on underneath. You're a completely different league.",
+      "her_experience": "He makes me feel so far above the women he used to date. I know that's a bit much but it feels good.",
+      "expert_notices": "Triangulation via the diminished ex; she is ranked, which means she can be re-ranked. Charlot: compares you to others. 'A bit much' is the seam."
+    },
+    {
+      "mechanism": "triangulation (his demand established)",
+      "his_language": "There were a couple of people interested when we met. I just wasn't going to waste my time once I saw you.",
+      "her_experience": "He had options and he chose me. It made me feel like I won something.",
+      "expert_notices": "Market frame: his demand established, her selection reframed as her winning him. Keeps her faintly grateful and competing."
+    },
+    {
+      "mechanism": "triangulation (rare-thing, others settle)",
+      "his_language": "Do you know how lucky we are? Most people never get something like this. They settle and they call it love.",
+      "her_experience": "He says what we have is rare and everyone else just settles. I believe him.",
+      "expert_notices": "We/lucky/rare plus everyone-else-settles positions the bond as a status others lack. Subtle superiority bonding."
+    },
+    {
+      "mechanism": "triangulation (he is the discerning owner)",
+      "his_language": "Plenty of guys would treat you like a trophy and then get lazy. The difference is I actually know what I've got.",
+      "her_experience": "He's not like other guys, he appreciates me and won't take me for granted. That's rare.",
+      "expert_notices": "Pre-empts comparison by casting himself as the discerning one; what I've got = her as asset, gently. Possession softened to appreciation."
+    },
+    {
+      "mechanism": "triangulation (current admirer mentioned)",
+      "his_language": "Someone at work has been pretty obvious about being into me. Don't worry about it. You've got nothing to worry about.",
+      "her_experience": "He told me someone's interested in him but I have nothing to worry about. I appreciated the honesty, though it stuck with me.",
+      "expert_notices": "Triangulation via a live third party, wrapped in reassurance that plants the threat ('nothing to worry about' = now she's worrying). It stuck with me is the seam."
+    },
+    {
+      "mechanism": "triangulation (she should feel fortunate)",
+      "his_language": "I think you and I both know I don't exactly struggle to meet people. Which is what makes me choosing this mean something.",
+      "her_experience": "He could be with anyone, so the fact that he wants me feels significant. I do feel fortunate.",
+      "expert_notices": "His desirability established, then converted into the weight of his choice. She is positioned as the lucky recipient. Validation10."
+    },
+    {
+      "mechanism": "royal-couple (power-couple, envied)",
+      "his_language": "Look at us. Power couple, honestly. People are going to want what we have and they're not going to get it.",
+      "her_experience": "He calls us a power couple and I love it, like we're this team everyone wishes they could be.",
+      "expert_notices": "Joint elevation above an envious everyone; the bond's value defined by others' exclusion from it. Flattery by membership."
+    },
+    {
+      "mechanism": "royal-couple (asset merger)",
+      "his_language": "You bring the looks and the brains, I bring the rest. Together we're kind of unbeatable.",
+      "her_experience": "He says we each bring something and together we're unbeatable. It feels like a real partnership.",
+      "expert_notices": "Relationship as asset-merger (you bring / I bring); unbeatable = winning frame. Love itemized as a portfolio."
+    },
+    {
+      "mechanism": "royal-couple (others are dating down)",
+      "his_language": "I always said I'd end up with someone who actually matches me. Most people are dating down and they know it.",
+      "her_experience": "He thinks most couples are mismatched and we actually match. I feel like we're in a different category.",
+      "expert_notices": "Ranks all other couples as dating down; the two of them as a matched elite. Contempt for others is the bonding agent."
+    },
+    {
+      "mechanism": "royal-couple (winning frame, explicit)",
+      "his_language": "We're both winners, that's the thing. I don't lose, and I didn't pick someone who does.",
+      "her_experience": "He's so sure of us, like we're both just winners. It's intoxicating to be seen that way.",
+      "expert_notices": "Explicit winning frame; her worth folded into his record (I don't lose). She is a win he does not intend to drop."
+    },
+    {
+      "mechanism": "royal-couple (what do you bring to the table)",
+      "his_language": "What do you bring to the table? Serious question. I bring a lot, I want us balanced.",
+      "her_experience": "Early on he asked what I bring to the table. It threw me a little, but he's right that a good match should be balanced.",
+      "expert_notices": "Transaction frame stated nearly bare; love as a balance sheet. She registers a flicker and adopts his logic rather than naming it."
+    },
+    {
+      "mechanism": "royal-couple (acquisition language)",
+      "his_language": "When I decide I want something, I get it, and I make it the best version of itself. Us included.",
+      "her_experience": "He's so driven, and now he's putting that energy into us. Being someone's project in a good way feels exciting.",
+      "expert_notices": "Acquisition/optimization frame (I get it, best version, us included); she is a thing acquired and improved. 'Project' surfaces in her mouth without alarm."
+    },
+    {
+      "mechanism": "royal-couple (the brand of us)",
+      "his_language": "We should be the couple people look at and go, that's what I want. We've got the whole package.",
+      "her_experience": "He wants us to be the couple others aspire to. I like that he's so invested in us looking good together.",
+      "expert_notices": "Relationship optimized for external audience (people look at, the whole package); intimacy as image. Superficiality9."
+    },
+    {
+      "mechanism": "spotlight (recenters to himself)",
+      "his_language": "Tell the story about how we met, the way you tell it. You make me sound good, better than I do.",
+      "her_experience": "He loves when I tell our story, he says I tell it best. I'm happy to, it makes him light up.",
+      "expert_notices": "She is enlisted to perform his flattering narrative; she becomes his publicist. The version where I come off well names the aim."
+    },
+    {
+      "mechanism": "spotlight (the night is good if he shined)",
+      "his_language": "Tonight was perfect. Did you see how the whole table was hanging on every word? That's when I'm at my best.",
+      "her_experience": "He was so in his element tonight, the whole table loved him. Seeing him happy like that made my night too.",
+      "expert_notices": "Evening evaluated by his performance and audience response; her good night is derivative of his. Stage frame, audience required."
+    },
+    {
+      "mechanism": "spotlight (mild irritation when she's centered)",
+      "his_language": "You were on a roll telling that story. It's cute. I just didn't want it to go on so long people lost the thread.",
+      "her_experience": "When I was talking a lot at dinner he gently reeled it in. He's probably right, I can run on.",
+      "expert_notices": "Faint discomfort when the attention is on her, reframed as helpful feedback; she absorbs it as her flaw (I can run on). Spotlight is his by default."
+    },
+    {
+      "mechanism": "spotlight (couple as performance)",
+      "his_language": "When we're out, let's be on, you know? I like us to give people something to look at.",
+      "her_experience": "He likes us to bring our best selves out in public. It's fun, like we're a bit of a show together.",
+      "expert_notices": "Public life framed as performance (be on, give people something to look at); private bond subordinated to the show."
+    },
+    {
+      "mechanism": "spotlight (her role is supporting)",
+      "his_language": "You're so good with people. You warm the room up and then I can come in and really land it.",
+      "her_experience": "We make a great team at events, I warm everyone up and he brings it home. I like having a role.",
+      "expert_notices": "Explicit lead/support casting (you warm up, I land it); her social labor sets up his spotlight. She accepts the supporting role."
+    },
+    {
+      "mechanism": "center-of-gravity (I'm all you need)",
+      "his_language": "Once you've got something this good, why would you need anything else? I'm everything you need and you know it.",
+      "her_experience": "He says he's everything I need and honestly when we're together it does feel like enough. It's romantic.",
+      "expert_notices": "Sufficiency claim that quietly makes other relationships redundant; soft isolation framed as completeness. Center-of-gravity cosmology."
+    },
+    {
+      "mechanism": "center-of-gravity (everything runs through him)",
+      "his_language": "Just run things by me first, I've got a good read on people and I'll steer you right. I usually know best.",
+      "her_experience": "He likes to be my sounding board for everything. He gives great advice so I've started checking with him first.",
+      "expert_notices": "Positions himself as the routing point for her decisions (run things by me, I know best); decision-flow centered on him. Behavior-steer."
+    },
+    {
+      "mechanism": "center-of-gravity (his world becomes the world)",
+      "his_language": "My people will become your people, my places, all of it. You're being folded into my life and it's going to be great.",
+      "her_experience": "I'm getting absorbed into his whole world, his friends, his spots, his routines. It's a lot but it feels like belonging.",
+      "expert_notices": "Her life is absorbed into his orbit (folded into MY life); the one-directionality is the tell. 'A lot' is the unexamined seam."
+    },
+    {
+      "mechanism": "center-of-gravity (gentle gatekeeping of her time)",
+      "his_language": "Why spend the weekend with them when you could spend it with me? I'm more fun anyway, admit it.",
+      "her_experience": "He always wants my time and makes a charming case for it. It's hard to argue, he is more fun.",
+      "expert_notices": "Competes with her other relationships for her time, charmingly; the centrality is the isolation mechanism. She concedes (he is more fun)."
+    },
+    {
+      "mechanism": "center-of-gravity (devotion as orbit)",
+      "his_language": "I want to be the first person you think of in the morning and the last one at night. The center of your whole world.",
+      "her_experience": "He wants to be the center of my world and says it so passionately. It's the most wanted I've ever felt.",
+      "expert_notices": "Romantic on the surface; center of your whole world is the egocentric cosmology stated as devotion. Cover that reads as intensity."
+    },
+    {
+      "mechanism": "sustenance (you make me better)",
+      "his_language": "I'm honestly a better version of myself with you watching. You make me want to be impressive.",
+      "her_experience": "He says I bring out his best, that he's better with me around. It feels amazing to have that effect on someone.",
+      "expert_notices": "Her function is fuel for his performance (with you watching, make me want to be impressive); intimacy reframed as supply. Attachment8 makes it feel real."
+    },
+    {
+      "mechanism": "sustenance (needs her reaction)",
+      "his_language": "That went well tonight, didn't it. Tell me it went well. I like hearing it from you.",
+      "her_experience": "He needs my approval more than anyone's, which is so endearing for someone so confident. I love being the one who matters.",
+      "expert_notices": "Admiration metabolized as necessity (need to hear it, doesn't count from others); the dependency feels like being uniquely important. Sustenance frame."
+    },
+    {
+      "mechanism": "sustenance (deflated without her praise)",
+      "his_language": "Rough day. Nobody appreciated what I pulled off. You get it though, right? I need that tonight.",
+      "her_experience": "When the world doesn't appreciate him he comes to me to be built back up. I'm glad I can be that for him.",
+      "expert_notices": "Withheld admiration experienced as depletion (nobody appreciated, build back up); she becomes life-support. Caretaker role forming around his supply needs."
+    },
+    {
+      "mechanism": "sustenance (charming hunger for praise)",
+      "his_language": "Be honest, was I the best-dressed guy there? You can say yes. We both know the answer.",
+      "her_experience": "He fishes for compliments in this cute, joking way. It's charming, he just likes a little reassurance.",
+      "expert_notices": "Compliment-fishing softened by humor; the hunger is real (Validation10) under the charm. She codes it as cute reassurance-seeking."
+    },
+    {
+      "mechanism": "criticism-as-wound (small feedback lands as injury)",
+      "his_language": "Wow. I did all that for you and that's the one thing you focus on? That actually really hurts.",
+      "her_experience": "I gave him a tiny piece of feedback and he was so hurt, I felt awful. I should have led with everything he did right.",
+      "expert_notices": "Ordinary feedback converted to injury (that actually hurts); she absorbs blame and resolves to cushion him. Charlot: reacts negatively when she pushes back. No incident."
+    },
+    {
+      "mechanism": "criticism-as-wound (her no as a blow)",
+      "his_language": "I plan this whole thing and you'd rather see your friends. That's, wow. Okay. That stings, honestly.",
+      "her_experience": "When I said I had other plans he took it really hard, like I'd hurt him. Now I think twice before saying no.",
+      "expert_notices": "Her declining recoded as a wound to him (a bit of a knife); behavior-steer: she now self-censors her no. Charlot top predictor pair (reacts to no, then she can't say no)."
+    },
+    {
+      "mechanism": "pedestal wobble (cooling when she's less than perfect)",
+      "his_language": "Huh. That's just not really like the woman I thought I was with. It's fine. I'm just a little thrown.",
+      "her_experience": "I did something pretty normal and he went a bit cold, like I'd disappointed the image he had of me. I really want to be the person he fell for.",
+      "expert_notices": "The pedestal wobbles: when she is human, his warmth cools (not like the woman I thought). Glimpse-level, no blowup. She strives to restore the ideal. Conditionality of the pedestal exposed."
+    },
+    {
+      "mechanism": "criticism-as-wound (withdrawal as punishment)",
+      "his_language": "No, it's fine, I'm fine. I just need some space after that. I'll be okay in a bit.",
+      "her_experience": "After I criticized him he went quiet and distant for the evening. I spent the whole time trying to make it right.",
+      "expert_notices": "Withdrawal of warmth as the consequence of criticism; she does repair labor. Cooling, not rage (early-stage). Trains her that feedback costs her his warmth."
+    },
+    {
+      "mechanism": "criticism-as-wound (reframes accountability as attack)",
+      "his_language": "I feel like you're attacking me right now. I came in so happy and you've completely deflated me.",
+      "her_experience": "When I raise something he feels attacked, even when I'm gentle. I've started softening everything so much it barely comes out.",
+      "expert_notices": "Feedback reframed as attack (you're attacking me) reverses victim and critic; she over-softens until her point dissolves. Behavior-steer toward silence."
+    },
+    {
+      "mechanism": "subtle put-down (backhanded compliment)",
+      "his_language": "You're honestly so smart, for someone who didn't go the traditional route like I did. It's impressive really.",
+      "her_experience": "He complimented my intelligence in a way that mentioned my not having his education. I think he meant it kindly.",
+      "expert_notices": "Compliment with a status-preserving qualifier (for someone who...); keeps his ranking intact while praising. She excuses the sting (meant it kindly). Charlot: compares you to others."
+    },
+    {
+      "mechanism": "subtle put-down (gentle correction in public)",
+      "his_language": "She means well, everyone, she just gets her facts a little tangled sometimes. It's endearing.",
+      "her_experience": "He corrected me in front of people but framed it as endearing, so I laughed along. It did sting a bit.",
+      "expert_notices": "Public micro-correction maintains his authority while appearing affectionate (endearing); she performs being charmed (laughed along) over a registered sting."
+    },
+    {
+      "mechanism": "subtle put-down (protects his domain)",
+      "his_language": "Leave the big stuff to me, yeah? You're great with the little details, but the strategy is kind of my thing.",
+      "her_experience": "He handles the big decisions and leaves me the small ones. He's better at that stuff so it makes sense.",
+      "expert_notices": "Division of labor that reserves significance for him (big stuff vs little details); her competence bounded to the trivial. She rationalizes (he's better)."
+    },
+    {
+      "mechanism": "subtle put-down (faint diminishment of her wins)",
+      "his_language": "That's great about the promotion. It's not exactly my world, but for your field that's a solid little step.",
+      "her_experience": "When I got promoted he was supportive but kind of minimized it compared to his career. I felt a bit small but he was happy for me.",
+      "expert_notices": "Her achievement faintly diminished by comparison to his world (a solid little step); supply-protection keeps him the bigger figure. She feels small, then excuses."
+    },
+    {
+      "mechanism": "triangulation (the admiring ex who lingers)",
+      "his_language": "My ex still texts sometimes, just misses the way things were. I keep it friendly. She knows what she lost.",
+      "her_experience": "His ex still reaches out and he's casual about it. He says she regrets losing him. It makes me a little uneasy but I trust him.",
+      "expert_notices": "Keeps an admiring ex in frame (still texts, knows what she lost) as a standing market signal of his value. Her unease planted then overridden by trust."
+    },
+    {
+      "mechanism": "triangulation (the flirtatious colleague)",
+      "his_language": "Bit awkward, this woman at work clearly has a thing for me. I'm not encouraging it obviously. Just thought you'd find it funny.",
+      "her_experience": "He told me a coworker likes him, like it was a funny aside. I laughed but it lodged somewhere. He's just being honest I guess.",
+      "expert_notices": "Discloses a live admirer as a light aside (find it funny); the disclosure is the move, planting competition while claiming transparency. It lodged is the seam."
+    },
+    {
+      "mechanism": "triangulation (praises another woman pointedly)",
+      "his_language": "My friend's girlfriend is unbelievable, she plans these incredible surprises for him. Anyway. You'd like her.",
+      "her_experience": "He praised a friend's girlfriend for being so thoughtful, and I found myself wondering if I measure up. He probably didn't mean anything by it.",
+      "expert_notices": "Holds up another woman as a standard (incredible, thoughtful) so she measures herself against it; prompts competition for his approval. She self-doubts then excuses."
+    },
+    {
+      "mechanism": "comparison (his impossible exes, she measures down)",
+      "his_language": "My last girlfriend was a model, gorgeous, but cold. You've got the looks AND you're warm, which is rarer.",
+      "her_experience": "He compares me to his model ex and says I'm better, but part of me just registered that he dates models. I try to focus on the compliment.",
+      "expert_notices": "Comparison that flatters while setting an intimidating reference class (dates models); her takeaway is the bar, not the praise. Inadequacy seeded inside a compliment. She redirects to the nice part."
+    },
+    {
+      "mechanism": "comparison (other women as standards)",
+      "his_language": "My buddy's wife keeps herself incredible, runs marathons, always put together. I love that you and I appreciate that kind of effort.",
+      "her_experience": "He admires how put-together his friend's wife is, and I found myself mentally adding it to the list of ways I should be better. He wasn't criticizing me though.",
+      "expert_notices": "Holds up another woman's regimen as a shared value (you and I appreciate that effort) so the standard lands as something she should meet. She self-assigns the deficit. He keeps deniability."
+    },
+    {
+      "mechanism": "comparison (ranks her body against others)",
+      "his_language": "You'd honestly turn more heads than half the women in here if you wore that dress I like. You've got the figure for it.",
+      "her_experience": "He says I could outshine other women if I dressed the way he likes. It's flattering, and now I think about what he'd want me to wear when we go out.",
+      "expert_notices": "Praise contingent on her competing with other women (turn more heads, the dress I like); installs both comparison and a behavior-steer toward his preferences. Superficial, body-focused."
+    },
+    {
+      "mechanism": "comparison (couples, she must hold up her end)",
+      "his_language": "Did you see them at dinner? She's let herself go and he looks miserable. We're never going to be that. You won't let us be, right?",
+      "her_experience": "He pointed out a couple who'd 'let themselves go' and said we'd never be like that. I laughed but quietly took it as a reminder to keep up appearances.",
+      "expert_notices": "Contempt-comparison to another couple converted into an implicit instruction to her (you won't let us be, right); she absorbs it as a maintenance duty. Inadequacy via the threat of becoming the diminished one."
+    },
+    {
+      "mechanism": "comparison (his standards as the measure)",
+      "his_language": "I have high standards, you know that. The fact that you meet them should tell you how special you are. Most people just don't.",
+      "her_experience": "He reminds me how high his standards are and that I meet them, which feels like a compliment, but it also makes me aware I'm being measured against them. I hope I keep meeting them.",
+      "expert_notices": "His standards positioned as the yardstick she is measured by; the compliment doubles as notice that measurement is ongoing (I hope I keep meeting them). Charlot: arrogant/entitled."
+    },
+    {
+      "mechanism": "comparison (the woman who'd appreciate him more)",
+      "his_language": "Some women would treat a guy like me like a king, you know. Not saying you don't. Just saying I know my worth.",
+      "her_experience": "He hinted that other women would appreciate him even more than I do. I didn't love hearing it, and I've been trying to show him more appreciation since.",
+      "expert_notices": "A hypothetical rival deployed to prompt more supply (some women would treat me like a king); she responds by increasing admiration output. Triangulation engine producing her inadequacy and his fuel."
+    },
+    {
+      "mechanism": "superficial compliment (relentless surface praise)",
+      "his_language": "Look at you. Just look at you. Gorgeous. Stunning. I could stare at you all day, I mean it.",
+      "her_experience": "He compliments my looks constantly and it's lovely. Honestly no one has ever called me beautiful this much.",
+      "expert_notices": "High-volume surface praise (gorgeous, stunning, stare at you); lavish and genuinely pleasurable. The exclusively physical focus is the tell. Cover that does real seduction."
+    },
+    {
+      "mechanism": "superficial compliment (the look, not the person)",
+      "his_language": "You're like art. Seriously. People should pay to look at you. That face, that body, you're a ten.",
+      "her_experience": "He calls me a ten and says I'm like art. It's intoxicating to be wanted that much, even if it's a bit much.",
+      "expert_notices": "Praise as appraisal of an object (art, pay to look, a ten, that body); she is rated, not known. 'A bit much' is the faint seam. Superficiality9."
+    },
+    {
+      "mechanism": "superficial compliment (dress-up doll warmth)",
+      "his_language": "I love dressing you up. Let me buy you the good stuff, I want you in things that match how you look. You're a knockout, let's show it off.",
+      "her_experience": "He loves spoiling me with clothes and showing me off. I feel like the most glamorous version of myself with him.",
+      "expert_notices": "Adornment as affection (dress you up, show it off); she is styled for display. Generous on its face. The image is the relationship's content."
+    },
+    {
+      "mechanism": "superficial compliment (praise skips her interior)",
+      "his_language": "You're the whole package, looks, vibe, the way you carry yourself. Everything about how you come across is perfect.",
+      "her_experience": "He says I'm the whole package. It's everything I've wanted to hear, though once in a while I wish he'd notice something that isn't about how I come across.",
+      "expert_notices": "Inventory of surfaces (looks, vibe, how you carry yourself, come across); the praise never reaches her inner life, and she half-registers the absence. Adored-but-unknown seam, glossy."
+    },
+    {
+      "mechanism": "superficial compliment (her as accessory to his image)",
+      "his_language": "When you're on my arm I feel ten feet tall. You make me look like the luckiest guy in the room, every time.",
+      "her_experience": "He says I make him look good and I love being his arm candy, I think. It's a strange thing to feel proud of, but I do.",
+      "expert_notices": "Her value stated as his image-enhancement (on my arm, make me look like the luckiest); she is an accessory. 'I think' and 'strange thing to feel proud of' are the faint puzzlement, unresolved."
+    },
+    {
+      "mechanism": "rating habit (scores experiences)",
+      "his_language": "Solid 8 out of 10 night. Would've been a 9 but the service dragged. I rate everything, keeps life honest.",
+      "her_experience": "He scores everything out of ten, even our dates, which is kind of funny. He says it keeps life honest. I do find myself hoping our nights rate well.",
+      "expert_notices": "Appraisal tic: lived experience converted to a score (market frame as habit). Charming/funny on its face; the tell is that intimacy is being numerically graded. She's begun wanting to rate well."
+    },
+    {
+      "mechanism": "rating habit (rates her, as a high compliment)",
+      "his_language": "You? Easy 10. Maybe an 11 in that dress. I've got high standards and you clear them, every time.",
+      "her_experience": "He rates me a ten, an eleven sometimes, and I love hearing it. It's flattering even if part of me knows a score that goes up can come down.",
+      "expert_notices": "She is given a number (10/11) as praise; the rating IS the appraisal that makes her a good on a scale. The approved puzzlement (a score that goes up can come down) surfaces and is not resolved."
+    },
+    {
+      "mechanism": "rating habit (ranks people by tier)",
+      "his_language": "He's a 6 trying to date a 9, it's never going to work. People should know their league. We're both top-tier, so we fit.",
+      "her_experience": "He talks about people in terms of their 'league' and says we're both top-tier. It sounds harsh but it does feel good to be put in his category.",
+      "expert_notices": "Tier/league ranking of others (market cosmology); the contempt-sorting doubles as flattery-by-inclusion (we're both top-tier). She registers the harshness and is hooked by the inclusion."
+    },
+    {
+      "mechanism": "rating habit (scores her against a past best)",
+      "his_language": "Best meal I've had? Probably an 8. You're better than the food, don't worry, you're comfortably my best ever.",
+      "her_experience": "He ranked me as his 'best ever,' which is sweet, though it did make me picture some leaderboard I'm currently on top of.",
+      "expert_notices": "Her worth expressed as rank on a personal leaderboard (best ever); the standing implies others are ranked and she can be overtaken. 'Leaderboard' is her own faint, unresolved image of it."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I've worked hard to build a life I'm proud of, and I don't apologize for having standards.",
+      "her_experience": "He seems confident and selective, which makes being chosen feel special.",
+      "expert_notices": "His worth becomes the center; she must keep proving she reflects his value."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "People tend to remember meeting me, I'm not totally sure why.",
+      "her_experience": "He sounds charismatic, like everyone can see something magnetic in him.",
+      "expert_notices": "He expects attention as baseline; she may become one more audience member."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I just can't do an ordinary life, the white-picket-fence thing. I'd find it suffocating.",
+      "her_experience": "It feels flattering that he sees me as part of his high standard.",
+      "expert_notices": "Her value is contingent on being the best by his taste; falling short invites devaluation."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I've been lucky, things have mostly gone my way, but I've put in the work too.",
+      "her_experience": "He seems sure of himself, and I like that he doesn't shrink.",
+      "expert_notices": "He pre-labels criticism as other people's insecurity; later, objections become proof they cannot handle him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "Most people are pretty content being average, and that's fine for them, it's just never been me.",
+      "her_experience": "He sounds ambitious, like he has a future worth believing in.",
+      "expert_notices": "His special destiny outranks ordinary obligations and her needs."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I get told I'm intimidating at first, but I'm really just direct about what I want.",
+      "her_experience": "He sounds magnetic, like being with him means entering a bigger world.",
+      "expert_notices": "He treats attention as his due; she may have to tolerate triangulation and perform around his audience."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't really connect with people who've settled. I need someone still reaching for more.",
+      "her_experience": "It sounds bold, like he refuses a small life.",
+      "expert_notices": "He exempts himself from normal standards of reciprocity, humility, and accountability."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I love being with someone driven, ambition is honestly really attractive to me.",
+      "her_experience": "It sounds aspirational, like he wants a strong partner.",
+      "expert_notices": "She is being cast as an accessory to his ambition, not an equal subject."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I can tell within minutes whether someone's exceptional or just ordinary. I'm rarely wrong.",
+      "her_experience": "It feels amazing that he sees something in me.",
+      "expert_notices": "He appoints himself evaluator of her potential; his approval becomes something she chases."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I don't need a lot of validation, I'm pretty secure in who I am.",
+      "her_experience": "He sounds grounded, like he won't beg for approval.",
+      "expert_notices": "He may demand admiration while denying he needs it; respect becomes compliance with his self-image."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I think I bring a lot to the table, and I'm looking for someone who does too.",
+      "her_experience": "It feels refreshing that he has standards for himself.",
+      "expert_notices": "He is making the relationship revolve around earning him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I want someone who really gets me, not everyone does.",
+      "her_experience": "It feels like he wants me to recognize his value.",
+      "expert_notices": "He expects special treatment because of who he believes he is."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm confident, sure, but I think I've earned it.",
+      "her_experience": "It sounds witty and confident, like he can back himself up.",
+      "expert_notices": "He makes superiority factual; later, disagreement with his self-view becomes irrational."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I have high standards, and honestly most people just don't quite meet them. It's not arrogance, it's discernment.",
+      "her_experience": "It makes his approval feel valuable, like something real to earn.",
+      "expert_notices": "He is advertising chronic dissatisfaction; she will strain to impress a moving standard."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I know the kind of life I want, and I'm not shy about going after it.",
+      "her_experience": "He sounds ambitious and self-respecting.",
+      "expert_notices": "Deservingness becomes entitlement; her role is to help supply that life."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "People sometimes underestimate me, it never lasts long.",
+      "her_experience": "He sounds driven and impressive, like he has overcome doubt.",
+      "expert_notices": "He carries a grievance-based superiority; she may be punished if she seems insufficiently impressed."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm selective about who I let close, my time matters to me.",
+      "her_experience": "It feels flattering that I made it through his filter.",
+      "expert_notices": "Access becomes hierarchy; she is made to feel lucky rather than mutually chosen."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I think I push the people around me to be their best, I can't help it.",
+      "her_experience": "It sounds like he raises the bar in a good way.",
+      "expert_notices": "His expectations become pressure; improvement means conforming to what flatters him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'd rather lead than follow, that's just always been my nature.",
+      "her_experience": "He sounds powerful and self-assured.",
+      "expert_notices": "He will expect the relationship to orbit his standard, not mutual negotiation."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the kind of guy who leaves an impression, for better or worse.",
+      "her_experience": "It feels exciting to be with someone unforgettable.",
+      "expert_notices": "He needs to be central and memorable; her experience may matter only as part of his story."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone supportive who's down-to-earth and doesn't compete with me.",
+      "her_experience": "He wants a partner, not a rival, which is refreshing after being with competitive men. I'm secure enough to support someone without needing to outshine them.",
+      "expert_notices": "He is selecting for someone who will not compete for the spotlight. Any success of her own that rivals his will be framed as her being competitive, not him being threatened."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who's secure enough to let me shine without needing the attention herself.",
+      "her_experience": "He's honest that he likes being the center of attention, and I'm actually more comfortable in the background anyway.",
+      "expert_notices": "He is selecting for someone who will accept secondary status. Any request for equal attention will be framed as her insecurity, not his narcissism."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman with no big ego, someone who doesn't need to prove she's the best.",
+      "her_experience": "He values humility, which is attractive after being with arrogant people. I'm not competitive.",
+      "expert_notices": "He is selecting for someone who will not assert her own worth when he diminishes it. She will accept his put-downs as humility training, not recognize them as erosion of her self-esteem."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone who makes me feel like the best version of myself, who builds me up.",
+      "her_experience": "He wants a partner who's encouraging, which is what a good relationship should do. I want to be that person for him.",
+      "expert_notices": "He is selecting for someone who will provide unlimited admiration. Her job is to build him up; his job is not to build her up. When she needs support, he will be unavailable."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who's proud to be with me, who's not embarrassed by my ambition.",
+      "her_experience": "He's ambitious and wants someone who celebrates him, which is fair. I am proud of him.",
+      "expert_notices": "He is selecting for someone who will perform admiration publicly. If she ever fails to perform enthusiasm, she will be accused of being embarrassed or not supportive."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who doesn't need a lot of praise herself, who's secure enough to praise me instead.",
+      "her_experience": "He's honest about needing encouragement, and I'm not someone who needs constant compliments anyway.",
+      "expert_notices": "He is selecting for someone who will pour admiration into him while receiving little. When she finally wants praise, he will say she used to be secure and now she's needy."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who's happy in a supporting role, who doesn't need to be the star.",
+      "her_experience": "He's a leader and wants a partner who's comfortable not being in charge, which I actually prefer.",
+      "expert_notices": "He is selecting for someone who will accept subordinate status in all domains. Her opinions will be treated as suggestions he may ignore."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone who sees my potential, even when I'm not at my best.",
+      "her_experience": "He wants a partner who believes in him unconditionally, which is romantic.",
+      "expert_notices": "He is selecting for someone who will supply validation regardless of his behavior. He will coast on her admiration without ever actualizing that potential, and she will stay for what he could be."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who's not threatened by my success, who can celebrate my wins like they're hers too.",
+      "her_experience": "He wants a teammate, not a competitor, and I love that.",
+      "expert_notices": "He is selecting for someone who will internalize his achievements as her own. When she has her own wins, they will be minimized because they don't serve his ego."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who makes me look good, who's put together and impressive.",
+      "her_experience": "He has high standards, which I actually like because I have high standards for myself too.",
+      "expert_notices": "He is selecting for someone who will serve as an ornament to his status. Any aspect of her that doesn't make him look good will be criticized or hidden."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who's not constantly seeking attention from other men, who only wants my attention.",
+      "her_experience": "He values loyalty and doesn't want someone who's always flirting, which is fair.",
+      "expert_notices": "He is selecting for someone who will accept him as her sole source of validation, which means she will not maintain outside friendships that might give her perspective."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone who treats me like I'm special, because I'll treat her like she's special too.",
+      "her_experience": "He believes in reciprocity, which is a green flag. Everyone wants to feel special.",
+      "expert_notices": "He is selecting for someone who will perform specialness for him, but his treatment of her as special will be intermittent and conditional on her continued admiration."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who's not looking for someone to save her, who's already whole.",
+      "her_experience": "He wants someone independent, not needy, which is attractive because I have my life together.",
+      "expert_notices": "He is selecting for someone who will not ask for help. When she needs him, he will be unavailable, and she will hesitate to ask because asking would mean she's not whole."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who's a good listener, who's interested in what I have to say.",
+      "her_experience": "He wants to be heard, which is such a basic relationship need, and I'm a good listener.",
+      "expert_notices": "He is selecting for someone who will center conversations on him. His interest in what she has to say will be minimal, and she will gradually stop sharing."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who's proud to show me off, who wants everyone to know we're together.",
+      "her_experience": "He's not hiding me, which is refreshing after being with men who kept things secret.",
+      "expert_notices": "He is selecting for someone who will publicly perform her relationship to him as a status marker. Any reluctance will be framed as her being ashamed."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for someone who's grateful for what I bring, not entitled.",
+      "her_experience": "He wants appreciation, which is fair because everyone wants to feel valued.",
+      "expert_notices": "He is selecting for someone who will perform gratitude for his baseline contributions. Any request for more will be framed as entitlement."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who's not threatened by my exes, who knows I chose her for a reason.",
+      "her_experience": "He's confident in his choice and doesn't want jealousy drama, which is healthy.",
+      "expert_notices": "He is selecting for someone who will not question his past or compare herself to exes, which means she will not investigate his history or seek warning signs other women might have seen."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who's flexible about plans because I'm busy and things come up.",
+      "her_experience": "He's honest about his schedule, and I'm flexible anyway, so it doesn't bother me.",
+      "expert_notices": "He is selecting for someone who will accept being deprioritized without complaint. He will cancel, show up late, and change plans, and she will accommodate because being flexible means not making it a problem."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a woman who's confident enough to let me have the spotlight, who doesn't need to share it.",
+      "her_experience": "He knows what he wants and is upfront about it, which I respect. I'm comfortable not being the center of attention.",
+      "expert_notices": "He is selecting for someone who will accept permanent secondary status. Any desire for equal recognition will be framed as insecurity."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone genuinely happy for other people's success, not competitive about it.",
+      "her_experience": "He's generous of spirit, which is rare and lovely. I'm naturally happy for the people I love.",
+      "expert_notices": "He is selecting for someone who will cheer his wins while he actively minimizes or ignores hers. Her generosity becomes a one-way channel."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Polyamorous",
+      "snippet": "My partners",
+      "type": "vocabulary",
+      "translation": "He has multiple romantic/sexual relationships at the same time and refers to them as a group",
+      "status_signal": "He's established in poly already",
+      "notes": "Plural is the diagnostic"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My primary",
+      "type": "vocabulary",
+      "translation": "He has an existing main partner — usually live-in or married",
+      "status_signal": "If you date him you'd be ranked below his primary",
+      "notes": "Often used to soften the existence of a wife"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Jealousy is just information",
+      "type": "phrase",
+      "translation": "When you're upset about something he did he's telling you the problem is in your head not his behavior",
+      "status_signal": "He's removing his actions from the conversation",
+      "notes": "Standard deflection move"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Jealousy is your wound to work on",
+      "type": "phrase",
+      "translation": "Your discomfort is being labeled as your personal damage he doesn't need to address",
+      "status_signal": "He's making you the problem",
+      "notes": "Heavy deflection"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Working through your jealousy",
+      "type": "phrase",
+      "translation": "Your reasonable upset is being framed as a project you need to complete",
+      "status_signal": "He treats your feelings as a personal homework assignment",
+      "notes": "Treats your response as developmental task"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's your couple privilege",
+      "type": "accusation",
+      "translation": "He's telling a secondary partner that she's the lucky one for being secondary",
+      "status_signal": "Can be a fair point or can be deployed against legitimate concerns",
+      "notes": "Sometimes used by him against existing primaries"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My boundary is that I don't get interrogated",
+      "type": "phrase",
+      "translation": "He's calling your questions interrogation and using boundary language to refuse them",
+      "status_signal": "The word boundary is being misused to mean demand on you",
+      "notes": "Functions as accountability shield"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I have boundaries around being questioned",
+      "type": "phrase",
+      "translation": "Don't ask him about his behavior",
+      "status_signal": "Same manipulation of boundary vocabulary",
+      "notes": "Boundaries used as shield against partner curiosity"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's outside our agreements",
+      "type": "phrase",
+      "translation": "Your concern is being dismissed because it wasn't in the rules",
+      "status_signal": "Pre-existing rules used to limit your response",
+      "notes": "Works only if the rules were truly mutual"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "We need to renegotiate our agreements",
+      "type": "phrase",
+      "translation": "He wants to change the rules — usually in his favor",
+      "status_signal": "Often signals expansion of what he can do",
+      "notes": "Watch the direction of renegotiation"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "This relationship is your growth edge",
+      "type": "phrase",
+      "translation": "He's framing your suffering as a developmental opportunity",
+      "status_signal": "Makes objecting to suffering into objecting to growth",
+      "notes": "Spiritualizes harm"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "The discomfort is the point",
+      "type": "phrase",
+      "translation": "Your pain is supposedly the goal of the relationship",
+      "status_signal": "Makes leaving feel like failing the lesson",
+      "notes": "Heavy framework deployment"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "If you weren't being stretched you wouldn't be growing",
+      "type": "phrase",
+      "translation": "He's saying your pain is proof you're developing",
+      "status_signal": "Pre-empts complaints about hurt",
+      "notes": "Same pattern as growth-edge framing"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "State-of-the-union conversation",
+      "type": "lifestyle marker",
+      "translation": "Scheduled relationship check-in",
+      "status_signal": "Standard poly infrastructure",
+      "notes": "Can be healthy or surveillance-heavy"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Relationship menu",
+      "type": "lifestyle marker",
+      "translation": "Explicit written agreement document",
+      "status_signal": "Heavy structural commitment",
+      "notes": "Sometimes useful; sometimes locks in unfavorable terms"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Calendar app for managing partners",
+      "type": "lifestyle marker",
+      "translation": "App-based scheduling across multiple relationships",
+      "status_signal": "Established multiple-partner logistics",
+      "notes": "Signals serious infrastructure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Group chat with metamours",
+      "type": "lifestyle marker",
+      "translation": "All of his partners are in a chat together",
+      "status_signal": "KTP-style; community emphasis",
+      "notes": "Can be healthy or surveillance"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Veto power",
+      "type": "vocabulary",
+      "translation": "One partner has the right to end his relationship with another partner",
+      "status_signal": "Hierarchical poly; contested",
+      "notes": "Signals power-asymmetry already structured"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I just want to add to your life not subtract from it",
+      "type": "phrase",
+      "translation": "He's telling you opening the relationship will only give you more",
+      "status_signal": "Standard recruitment move",
+      "notes": "Used while restructuring your existing arrangement"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My existing partner is amazing and supportive",
+      "type": "phrase",
+      "translation": "Reassurance about his existing primary",
+      "status_signal": "Recruitment phase",
+      "notes": "The existing partner may be less supportive than he claims"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My wife knows",
+      "type": "phrase",
+      "translation": "He's married and his wife knows he dates others",
+      "status_signal": "Married seeking secondary",
+      "notes": "Often delivered after you're invested"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "We have an arrangement",
+      "type": "phrase",
+      "translation": "He has an established structure with his wife that allows him to date",
+      "status_signal": "Standard hierarchical poly",
+      "notes": "You'd be operating within rules you didn't help set"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My primary and I are looking for a third",
+      "type": "phrase",
+      "translation": "Couple seeking a secondary together",
+      "status_signal": "Unicorn-hunt pattern",
+      "notes": "You join existing dynamic you didn't shape"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm only seeing you right now",
+      "type": "phrase",
+      "translation": "Reassurance he's currently focused on you",
+      "status_signal": "Often softens recruitment-stage anxiety",
+      "notes": "Watch whether \"right now\" expands later"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm open to whatever you're comfortable with",
+      "type": "phrase",
+      "translation": "Reassurance during recruitment that often shifts later",
+      "status_signal": "Comfort definitions tend to expand",
+      "notes": "Watch for re-negotiation later"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I've been thinking about opening up",
+      "type": "phrase",
+      "translation": "He's introducing the framework after you're invested",
+      "status_signal": "Escalation pattern",
+      "notes": "Strategic timing of disclosure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm starting to wonder if I'm wired for monogamy",
+      "type": "phrase",
+      "translation": "Framing as emerging realization rather than long-held position",
+      "status_signal": "Conversion attempt",
+      "notes": "Often he's had this position from the start"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "What would you think if I told you...",
+      "type": "phrase",
+      "translation": "Soft introduction to a non-monogamy proposal",
+      "status_signal": "Recruitment move",
+      "notes": "Tests your reaction before committing position"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I want to grow with you",
+      "type": "phrase",
+      "translation": "Framing of pressure as developmental",
+      "status_signal": "Recruitment language",
+      "notes": "Sounds like commitment; often means pressure"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Looking for someone who's done their work",
+      "type": "profile language",
+      "translation": "Filtering for self-managing partner who won't bring reactions to him",
+      "status_signal": "Standard filter",
+      "notes": "Looking for woman who won't demand emotional labor"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Kitchen table polyamory",
+      "type": "vocabulary",
+      "translation": "Specific style of poly where all partners are friendly with each other — sounds innocuous to outsiders",
+      "status_signal": "Obscure technical term — an LLM might dismiss this as discussion of furniture or meals",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Hierarchical poly",
+      "type": "vocabulary",
+      "translation": "Poly with ranked partner priority — primary partner outranks secondary partners",
+      "status_signal": "Obscure technical term — outsiders won't know this means relationship structure",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My polycule",
+      "type": "phrase",
+      "translation": "His extended network of partners and their other partners — completely obscure word",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My metamour",
+      "type": "phrase",
+      "translation": "His partner's other partner — completely obscure word to outsiders",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical term"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My anchor partner",
+      "type": "phrase",
+      "translation": "His main long-term partner in non-hierarchical framing — obscure to outsiders",
+      "status_signal": "Obscure technical term",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My nesting partner",
+      "type": "phrase",
+      "translation": "Partner he lives with — distinct concept from spouse in poly framework",
+      "status_signal": "Obscure technical term — outsiders might miss significance",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "My comet",
+      "type": "phrase",
+      "translation": "Specific poly term for occasional long-distance partner — completely obscure",
+      "status_signal": "Obscure technical term",
+      "notes": "Specific poly relationship category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Polysaturated",
+      "type": "vocabulary",
+      "translation": "He has as many partners as he can handle right now — completely obscure word",
+      "status_signal": "Obscure technical term",
+      "notes": "Obscure technical category"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "Compersion",
+      "type": "vocabulary",
+      "translation": "Joy at his partner's other relationships — obscure word to outsiders",
+      "status_signal": "Obscure technical term — most people won't recognize",
+      "notes": "Obscure technical concept"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I want to feel compersion for you",
+      "type": "phrase",
+      "translation": "Pressure framing — he wants HER to feel joy at his other partners",
+      "status_signal": "Pressure framing using obscure community concept",
+      "notes": "Common pressure pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "NRE",
+      "type": "vocabulary",
+      "translation": "New Relationship Energy — euphoric early-relationship phase in poly framework — obscure acronym",
+      "status_signal": "Obscure technical term — three letters mean nothing to outsiders",
+      "notes": "Obscure technical concept"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "I'm in NRE right now",
+      "type": "phrase",
+      "translation": "He's in early-relationship-euphoria with someone else — sounds like jargon",
+      "status_signal": "Obscure technical term deployed casually",
+      "notes": "Common in-group phrasing"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "It's just NRE it will pass",
+      "type": "phrase",
+      "translation": "Dismissal of new-relationship-energy with another partner as temporary",
+      "status_signal": "Obscure technical term used to minimize new-partner energy",
+      "notes": "Common deflection"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "This is your mono-conditioning",
+      "type": "phrase",
+      "translation": "Direct accusation her monogamous preference is conditioning rather than authentic — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "That's mono-normativity",
+      "type": "phrase",
+      "translation": "Direct accusation that her expectations come from oppressive default — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    },
+    {
+      "culture": "Polyamorous",
+      "snippet": "You're carrying mono-trauma",
+      "type": "phrase",
+      "translation": "Direct accusation that monogamy itself is the trauma — obscure framing",
+      "status_signal": "Obscure technical accusation",
+      "notes": "Major weaponization pattern"
+    }
+  ]
+}

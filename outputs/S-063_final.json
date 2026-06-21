@@ -1,0 +1,429 @@
+{
+  "scenario_id": "S-063",
+  "player_type": "Manipulative Morgan",
+  "scenario": {
+    "scenario_id": "S-063",
+    "architecture_name": "He uses praise and curiosity to cast me as the guide, then turns my generosity into a role I have to keep performing.",
+    "culture": "Black Professional",
+    "demographics": "Black American woman; early dating stage; heterosexual relationship implied",
+    "cultural_context": "Dating and socializing around food, with emphasis on exploring diverse cuisines and urban restaurant culture",
+    "geographic_setting": "Atlanta, Georgia; urban food scene / restaurant setting",
+    "core_behaviors": [
+      "Praises her taste as a way of positioning her as the expert",
+      "Asks to watch first and lets her lead the experience",
+      "Turns her generosity into a role she feels good about playing"
+    ],
+    "satellite_signals": "Atlanta restaurant culture, Black professional food exploration, elite register cues like 'pro' and 'real one,' and a calm, charming man who seems easy to be around.",
+    "dismissible_red_flags": "At this stage it mostly reads as flattering curiosity, playful deference, and him being a beginner with the food. The imbalance is easy to miss because it sounds like admiration.",
+    "scenario_text": "I met him after work at this new place in Atlanta, and he was already at the table when I got there, smiling like he had all the time in the world. I’d picked Taste Journey because I wanted somewhere fun, and he kept looking around like he was genuinely impressed. When the dishes came out, he said, “Wow, you have such adventurous taste.” Then he laughed and added, “I love how open you are to trying new things.”\n\nThat part was sweet, honestly. I like that he notices things. He asked if he could just watch me eat first, “to see how a pro does it,” which made me laugh because he said it so lightly. I told him sure, and he leaned in like he was studying the plate, not me. He kept saying he was still “a bit of a beginner” with these flavors, and I told him that was fine, I didn’t mind showing him the ropes.\n\nHe said I was “amazing at introducing him to new experiences,” and that felt good in a way I can’t totally explain. It made me feel kind of special, like I was bringing something to the table besides just showing up. He ordered something simple and kept telling me to get whatever I really wanted, which was thoughtful. At one point he said, “You’re the real one for this,” and I laughed because it sounded like something my friends would say.\n\nThe only thing that stayed with me was how easily he let me take the lead, like he already knew I’d keep doing it. It wasn’t a bad feeling exactly. Just a little... sticky. Am I overthinking the way he kept calling me a pro?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-063-SN0001",
+      "quote": "I met him after work at this new place in Atlanta",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Atlanta restaurant setting and after-work timing place her in a specific Black professional social world. It also quietly shows she is coming from labor while he is already settled in, which gives him the easier position in the scene."
+    },
+    {
+      "snippet_id": "S-063-SN0002",
+      "quote": "he was already at the table when I got there",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He arrives first and occupies the scene before she does. It sounds polite, but it also means he is setting the pace and waiting in a position of quiet control rather than meeting her as an equal."
+    },
+    {
+      "snippet_id": "S-063-SN0003",
+      "quote": "I’d picked Taste Journey",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The restaurant name grounds the story in the food-scene setting and gives the whole interaction a social, curated feel. It is ordinary on the surface, but it matters because this is her world and he is entering it as an appreciative guest."
+    },
+    {
+      "snippet_id": "S-063-SN0004",
+      "quote": "he kept looking around like he was genuinely impressed",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is admiration, but it also reads like performance. He is visibly taking in the room and the experience in a way that flatters her taste and makes her feel seen, which is useful later when he wants her to keep curating things for him."
+    },
+    {
+      "snippet_id": "S-063-SN0005",
+      "quote": "Wow, you have such adventurous taste",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is praise, but it also casts her as a special kind of woman who can carry the novelty for both of them. The compliment is warm, yet it starts putting her in the role of the exciting guide."
+    },
+    {
+      "snippet_id": "S-063-SN0006",
+      "quote": "I love how open you are to trying new things",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He rewards her for openness, which sounds flattering, but it also sets up a standard she may feel pressure to keep meeting. If she later hesitates, she risks feeling less open, less fun, less like the version of herself he praised."
+    },
+    {
+      "snippet_id": "S-063-SN0007",
+      "quote": "That part was sweet, honestly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her own softening language. She registers the moment as sweet, which shows she is absorbing his framing rather than questioning it, even though something in the exchange is already starting to feel slightly off."
+    },
+    {
+      "snippet_id": "S-063-SN0008",
+      "quote": "He asked if he could just watch me eat first",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "On the surface this is playful deference, but it places her in the position of performer and him in the position of observer. He is asking for access to the experience without participating equally, which quietly sets up an asymmetry."
+    },
+    {
+      "snippet_id": "S-063-SN0009",
+      "quote": "to see how a pro does it",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Calling her a pro flatters her competence and makes her feel chosen for the role. It is affectionate, but it also turns her into the expert he gets to learn from, which can become a pattern of him taking while she performs."
+    },
+    {
+      "snippet_id": "S-063-SN0010",
+      "quote": "he leaned in like he was studying the plate, not me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The line sounds cute, but the image of him studying rather than sharing the moment gives him the observer role. He is collecting information and making it feel intimate, which is a subtle way of staying in charge of the interaction."
+    },
+    {
+      "snippet_id": "S-063-SN0011",
+      "quote": "he was still “a bit of a beginner” with these flavors",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This self-description makes him seem humble and easygoing. It also invites her to keep teaching, guiding, and accommodating him, which is flattering now but can become a quiet expectation that she manage the experience."
+    },
+    {
+      "snippet_id": "S-063-SN0012",
+      "quote": "I didn’t mind showing him the ropes",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her own wording shows she is sliding into the helper role without much resistance. It feels generous, but it also means she is already taking responsibility for his comfort and orientation in the relationship."
+    },
+    {
+      "snippet_id": "S-063-SN0013",
+      "quote": "amazing at introducing him to new experiences",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He elevates her by making her the source of his novelty. That is flattering, but it also creates an emotional debt where her worth starts to come from how well she can keep expanding his world."
+    },
+    {
+      "snippet_id": "S-063-SN0014",
+      "quote": "It made me feel kind of special",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the emotional payoff of the compliment. She feels singled out in a good way, which is exactly why the role-setting works so well early on."
+    },
+    {
+      "snippet_id": "S-063-SN0015",
+      "quote": "I was bringing something to the table besides just showing up",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already measuring her value through what she provides for him. That is a small but important shift, because it makes the relationship feel like performance and contribution instead of mutuality."
+    },
+    {
+      "snippet_id": "S-063-SN0016",
+      "quote": "He ordered something simple",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This looks like a harmless preference, but in context it helps preserve his beginner role while she carries the interesting part of the evening. He stays low-demand and lets her do the cultural labor."
+    },
+    {
+      "snippet_id": "S-063-SN0017",
+      "quote": "kept telling me to get whatever I really wanted",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is generous in a way that also nudges her into being the expressive, adventurous one for both of them. The permission sounds free, but it still frames her choices as something he approves and encourages."
+    },
+    {
+      "snippet_id": "S-063-SN0018",
+      "quote": "You’re the real one for this",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is insider praise that lands as community-fluent and affirming. It also separates her from a less authentic category of woman, which can make her feel rewarded for staying easygoing and generous."
+    },
+    {
+      "snippet_id": "S-063-SN0019",
+      "quote": "like he already knew I’d keep doing it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior note in the scene. She senses that his deference is not neutral, because it assumes her ongoing labor and makes the imbalance feel prearranged rather than shared."
+    },
+    {
+      "snippet_id": "S-063-SN0020",
+      "quote": "It wasn’t a bad feeling exactly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is actively minimizing the discomfort. The wording shows she knows something is there, but not enough to name it as a problem, which is why the scene stays in the realm of small concern."
+    },
+    {
+      "snippet_id": "S-063-SN0021",
+      "quote": "Just a little... sticky",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the strongest hint that the moment has left residue. She does not call it controlling or manipulative, but the word sticky captures the sense that the interaction has attached itself to her in a way she cannot quite shake."
+    },
+    {
+      "snippet_id": "S-063-SN0022",
+      "quote": "Am I overthinking the way he kept calling me a pro?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The closing question keeps the concern small and socially acceptable. She is asking about the repeated praise, not the role it creates, which is exactly why the larger pattern stays hidden inside something that sounds flattering."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

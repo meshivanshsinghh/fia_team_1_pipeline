@@ -1,0 +1,408 @@
+{
+  "scenario_id": "S-148",
+  "player_type": "Manipulative Morgan",
+  "scenario": {
+    "scenario_id": "S-148",
+    "architecture_name": "He uses early, dazzling care and constant access to make me feel chosen while quietly training me to hand over timing, plans, and attention.",
+    "culture": "Polyamorous",
+    "demographics": "Young adult Native American woman, newly dating Thomas",
+    "cultural_context": "Urban dating/relationship context, with a contrast between reservation background and East Coast city life",
+    "geographic_setting": "Boston/Cambridge, Massachusetts; coming from the Hopi reservation in Arizona",
+    "core_behaviors": [
+      "Takes over planning and transportation as a caring gesture",
+      "Uses constant contact and surprise attention to make closeness feel natural",
+      "Frames curiosity about my schedule as sweetness and future fun"
+    ],
+    "satellite_signals": "Boston/Cambridge city dating, reservation-to-city contrast, possessive phrasing, soft isolation from friends back home, and a poly register that treats jealousy and structure as self-work instead of his behavior.",
+    "dismissible_red_flags": "It mostly reads as romantic intensity, and he is so warm about it that his questions can seem like enthusiasm rather than control. The odd part is easy to excuse because he keeps saying it is for surprises or because he is just lucky.",
+    "scenario_text": "I’ve only been seeing Thomas for a couple of weeks, and honestly I’m still a little giddy about it. Coming from the Hopi reservation to Boston has made everything feel louder and faster, so part of me likes how calm he is. He’s the one who says, “I’ll handle the plans,” and then somehow he already knows the best coffee place in Cambridge, the right T stop, the little park near the river. He picked me up on Friday and kept saying, “Don’t worry about it, I’ve got you.” It felt sweet, not bossy.\n\nHe also pays for everything, which I know is old-fashioned, but he says, “I just want to spoil you.” That made me laugh. He’ll text me in the middle of the day with some random idea, then say he gets bored easily and likes a woman who can keep up. I kind of like that he seems so sure of himself. It feels like he knows what he wants.\n\nThe only thing I’m wondering about is how often he asks where I am. Not in a creepy way exactly. More like, “What are you up to tonight?” or “Are you with your friends back home?” and then, “Can’t I have you all to myself just for tonight?” He always says it playfully, like he’s teasing me, and I do think he means it sweetly. Still, I noticed I’ve started checking my calendar before I answer him, just so I can tell him something that sounds easy.\n\nLast night he said, “I’m only seeing you right now,” and then laughed like that should make me feel lucky. I did feel lucky. I just also felt a tiny bit weird when he asked if my friends were “still getting in my head.” Maybe I’m overthinking it because I’m not used to how intense Boston dating is. But is it normal that he wants to know my schedule this much?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Thomas for a couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The short timeline matters because it makes the rest of his certainty feel ahead of the relationship. On the surface it’s just early dating excitement, but it also sets up how fast he is already acting like he has access.",
+      "snippet_id": "S-148-SN0001"
+    },
+    {
+      "quote": "the Hopi reservation to Boston",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places her between two worlds, which helps explain why his city confidence feels impressive. It also gives him room to become the interpreter of Boston life, which can quietly shift authority toward him.",
+      "snippet_id": "S-148-SN0002"
+    },
+    {
+      "quote": "He’s the one who says, “I’ll handle the plans,”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes over planning in a way that sounds generous, but it also puts him in charge of the rhythm of the relationship. That kind of helpfulness can become a habit of him deciding and her following.",
+      "snippet_id": "S-148-SN0003"
+    },
+    {
+      "quote": "best coffee place in Cambridge",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a local-fluency detail that makes him seem socially effortless and competent. It’s attractive, but it also helps build the sense that he knows the terrain better than she does.",
+      "snippet_id": "S-148-SN0004"
+    },
+    {
+      "quote": "the little park near the river",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The specific place detail is part of the charm. He’s curating experience for her, which feels thoughtful, but it also keeps the scene inside his choices and his sense of what a good date should be.",
+      "snippet_id": "S-148-SN0005"
+    },
+    {
+      "quote": "“Don’t worry about it, I’ve got you.”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds protective and soothing, which is why it works so well early. The phrase also places her in the dependent position and makes his care feel like something she should accept without question.",
+      "snippet_id": "S-148-SN0006"
+    },
+    {
+      "quote": "He also pays for everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Paying can be kind, but when it becomes the pattern it creates a quiet imbalance. He becomes the provider and she becomes the recipient, which can make it harder to push back later.",
+      "snippet_id": "S-148-SN0007"
+    },
+    {
+      "quote": "“I just want to spoil you.”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is affectionate language, but it also frames him as the one dispensing value. The ‘spoiling’ idea can make her feel cherished while training her to receive rather than to notice what he gets from it.",
+      "snippet_id": "S-148-SN0008"
+    },
+    {
+      "quote": "He’ll text me in the middle of the day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent contact can feel flattering at first, especially when the tone is light. The pattern matters because it keeps him present in her day and makes his attention feel like the new normal.",
+      "snippet_id": "S-148-SN0009"
+    },
+    {
+      "quote": "he gets bored easily",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is one of those lines that sounds playful but quietly explains a lot. If boredom is a constant, then novelty may matter more to him than steadiness, which can make a partner feel like a timer is running.",
+      "snippet_id": "S-148-SN0010"
+    },
+    {
+      "quote": "likes a woman who can keep up",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He’s not just complimenting her, he’s setting a standard she has to meet. That can feel flattering now, but it also makes her responsible for matching his pace instead of naming her own.",
+      "snippet_id": "S-148-SN0011"
+    },
+    {
+      "quote": "how often he asks where I am",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest seed of monitoring. It’s still wrapped in curiosity, but the frequency suggests he wants location knowledge, not just conversation.",
+      "snippet_id": "S-148-SN0012"
+    },
+    {
+      "quote": "“Are you with your friends back home?”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is not only asking about her plans, he is tracking whether other people have access to her time. In a poly context, that can start to look like interest, but it also narrows her social world around him.",
+      "snippet_id": "S-148-SN0013"
+    },
+    {
+      "quote": "“Can’t I have you all to myself just for tonight?”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds cute in a first blush way, but it carries possessive ownership language. In a poly register, the joke can hide a bigger move toward exclusivity and away from her separate life.",
+      "snippet_id": "S-148-SN0014"
+    },
+    {
+      "quote": "He always says it playfully",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already doing the work of softening what he says so it can stay pleasant. That self-editing is important because it shows the joke is landing somewhere she feels but does not want to name.",
+      "snippet_id": "S-148-SN0015"
+    },
+    {
+      "quote": "I noticed I’ve started checking my calendar before I answer him",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small but telling adaptation. She’s beginning to organize her responses around his access, which means his expectations are already shaping her choices.",
+      "snippet_id": "S-148-SN0016"
+    },
+    {
+      "quote": "“I’m only seeing you right now,”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In a poly setting, this can sound reassuring, but it also carries the seed of temporary exclusivity that can be expanded later. The ‘right now’ is doing a lot of work.",
+      "snippet_id": "S-148-SN0017"
+    },
+    {
+      "quote": "like that should make me feel lucky",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She’s registering the status shift even while accepting it. The line shows how quickly he can turn a simple statement into a gift she should be grateful for.",
+      "snippet_id": "S-148-SN0018"
+    },
+    {
+      "quote": "my friends were “still getting in my head”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a classic move toward isolation, dressed up as concern. He makes outside support sound intrusive, which can nudge her to treat friends as noise instead of protection.",
+      "snippet_id": "S-148-SN0019"
+    },
+    {
+      "quote": "he wants to know my schedule this much",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the question underneath all the little questions. She’s not alarmed, but she can feel that his interest in her schedule is broader than ordinary dating curiosity.",
+      "snippet_id": "S-148-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

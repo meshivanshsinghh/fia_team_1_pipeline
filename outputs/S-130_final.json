@@ -1,0 +1,495 @@
+{
+  "scenario_id": "S-130",
+  "player_type": "Egocentric Evan",
+  "scenario": {
+    "scenario_id": "S-130",
+    "architecture_name": "He uses intense devotion and future-talk to make himself the center of my time, my choices, and my sense of what a good relationship should feel like.",
+    "culture": "South Asian",
+    "demographics": "Adult woman, likely South Asian; dating an adult man named Raj; relationship status: newly dating",
+    "cultural_context": "Urban professional/social sphere; she works in a hospital and moves in a busy city dating context",
+    "geographic_setting": "Queens, New York City; with an upstate cabin getaway",
+    "core_behaviors": [
+      "Insists on picking her up and structuring her time",
+      "Uses praise and future-talk to make closeness feel like proof",
+      "Frames her friends and independence as less relevant than the relationship"
+    ],
+    "satellite_signals": "Queens-to-upstate mobility, hospital flowers, family-forward future language, gentle comments about friends, and his eagerness to know her schedule and social world.",
+    "dismissible_red_flags": "It mostly reads like early intensity, romantic planning, and a man who is proud to be seen with her. The little comments about friends and the constant check-ins are easy to file under 'he really likes me.'",
+    "scenario_text": "I keep thinking I probably should not be this charmed, but I am. Raj has only been in my life for a couple of weeks and somehow it already feels kind of full. He works in IT, so he understands my hospital hours in this practical way that feels nice, and he keeps showing up with these little things, like chai after a late shift or flowers at the desk when I’m buried in charts. The nurses tease me because he always knows when I’m on call before I do.\n\nHe has this habit of asking, very casually, what my parents would think, what I studied, where my family is from. It sounds like he’s just curious, and honestly he does have that warm, direct way that makes you answer. Last night he said, “I like a girl who’s real. Not everyone can handle this kind of pace.” I laughed because he said it like a joke, but also because it felt flattering, like I was being chosen for something.\n\nHe keeps saying he’s not the type to waste time. “If I like someone, I like them properly,” he told me, and then he booked the upstate cabin before I’d even said yes. I did say yes, obviously. It was sweet, and the cabin looked gorgeous, and he kept saying we should get away from all the noise and just focus on us. I liked that, maybe too much.\n\nIt’s just that he asks about my friends a lot, then makes these little comments like, “They’re lucky you even make time for them.” He says it smiling, so I smile back. Maybe I’m overreading it. He’s so easy to be around, and he makes everything feel intentional. But when he says things like that, I get this tiny pause in my chest and I don’t know if I’m being silly. Do you think I was being too sensitive about the comment about my friends?"
+  },
+  "snippets": [
+    {
+      "quote": "I keep thinking I probably should not be this charmed, but I am.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices a small mismatch between her excitement and her caution. It’s not alarm, just the sense that she may be getting swept along by how good it feels.",
+      "snippet_id": "S-130-SN0001"
+    },
+    {
+      "quote": "Raj has only been in my life for a couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The relationship is still very new, which makes the speed of the attachment stand out without making it obviously dangerous.",
+      "snippet_id": "S-130-SN0002"
+    },
+    {
+      "quote": "he works in IT",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple class and profession marker. It places him in a stable urban professional world without adding drama.",
+      "snippet_id": "S-130-SN0003"
+    },
+    {
+      "quote": "my hospital hours",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her work schedule is part of the asymmetry. He is already orienting himself around her availability, which lets him start managing her time.",
+      "snippet_id": "S-130-SN0004"
+    },
+    {
+      "quote": "chai after a late shift",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "A sweet care gesture, but it also sets up a pattern where he becomes the person who meets her after work and gets credit for soothing her exhaustion.",
+      "snippet_id": "S-130-SN0005"
+    },
+    {
+      "quote": "flowers at the desk",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Public adoration. The gesture is lovely, but it also turns her workplace into a stage where he can display how devoted he is.",
+      "snippet_id": "S-130-SN0006"
+    },
+    {
+      "quote": "The nurses tease me",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Shows her social world noticing the romance. It also suggests he is already becoming a visible presence around her colleagues.",
+      "snippet_id": "S-130-SN0007"
+    },
+    {
+      "quote": "he always knows when I’m on call",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is tracking her schedule closely. On the surface it reads as attentiveness, but it also means he is already monitoring her time.",
+      "snippet_id": "S-130-SN0008"
+    },
+    {
+      "quote": "what my parents would think",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a family-centered probe that fits South Asian dating norms, but it also quietly shifts the relationship into a family-approval frame very early.",
+      "snippet_id": "S-130-SN0009"
+    },
+    {
+      "quote": "what I studied",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A standard South Asian status question. It sounds normal, but it also places her in a category he is sorting and evaluating.",
+      "snippet_id": "S-130-SN0010"
+    },
+    {
+      "quote": "where my family is from",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A classic identity probe in this register. It tells you he is reading her through family origin, not just individual chemistry.",
+      "snippet_id": "S-130-SN0011"
+    },
+    {
+      "quote": "I like a girl who’s real",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds flattering, but it also sets him up as the judge of authenticity. If she ever objects later, he can imply she is not being 'real'.",
+      "snippet_id": "S-130-SN0012"
+    },
+    {
+      "quote": "Not everyone can handle this kind of pace",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He frames his speed as a special standard other people fail to meet. That makes her feel chosen while also making hesitation feel like a personal flaw.",
+      "snippet_id": "S-130-SN0013"
+    },
+    {
+      "quote": "I like a girl who’s real. Not everyone can handle this kind of pace.",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The line works as both praise and pressure. She is being rewarded for keeping up, which makes it harder to slow things down without feeling disappointing.",
+      "snippet_id": "S-130-SN0014"
+    },
+    {
+      "quote": "I’m not the type to waste time",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds efficient and mature, but it also turns his urgency into a virtue. It quietly makes her the one who must adapt to his pace.",
+      "snippet_id": "S-130-SN0015"
+    },
+    {
+      "quote": "I like them properly",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The adverb makes it sound affectionate, but the meaning is that he wants the relationship done his way. 'Properly' gives him moral cover for moving fast.",
+      "snippet_id": "S-130-SN0016"
+    },
+    {
+      "quote": "he booked the upstate cabin",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He makes the plan before she agrees. It’s a small but clear sign that he is used to deciding the shape of their time together.",
+      "snippet_id": "S-130-SN0017"
+    },
+    {
+      "quote": "before I’d even said yes",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She registers the imbalance, but only as a tiny pause. That pause matters because it shows she noticed the decision was made for her.",
+      "snippet_id": "S-130-SN0018"
+    },
+    {
+      "quote": "we should get away from all the noise",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-low",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "On the surface it’s romantic escape language. Structurally, it nudges her away from her other people and toward a sealed little unit with him.",
+      "snippet_id": "S-130-SN0019"
+    },
+    {
+      "quote": "focus on us",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest couple-fusion phrase in the scene. It sounds sweet, but it also narrows the relationship so that everything else becomes secondary.",
+      "snippet_id": "S-130-SN0020"
+    },
+    {
+      "quote": "They’re lucky you even make time for them",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-low",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He’s lightly devaluing her friends while making her time sound like a scarce resource he can comment on. The smile keeps it deniable.",
+      "snippet_id": "S-130-SN0021"
+    },
+    {
+      "quote": "He says it smiling, so I smile back",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is matching his tone instead of naming the discomfort. That’s a small but important sign that she is already accommodating him.",
+      "snippet_id": "S-130-SN0022"
+    },
+    {
+      "quote": "everything feel intentional",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the honeymoon gloss. It sounds thoughtful, but it also means he is curating the relationship so thoroughly that his choices feel like fate.",
+      "snippet_id": "S-130-SN0023"
+    },
+    {
+      "quote": "a tiny pause in my chest",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Reality-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the bodily signal that something didn’t sit right. She doesn’t name it as a problem, but she did feel the mismatch.",
+      "snippet_id": "S-130-SN0024"
+    },
+    {
+      "quote": "Do you think I was being too sensitive about the comment about my friends?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is minimizing the whole thing into a question about sensitivity. That shows the pressure is already moving inward, where she starts doubting her own read.",
+      "snippet_id": "S-130-SN0025"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

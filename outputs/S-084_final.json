@@ -1,0 +1,465 @@
+{
+  "scenario_id": "S-084",
+  "player_type": "Neglectful Nico",
+  "scenario": {
+    "scenario_id": "S-084",
+    "architecture_name": "He uses calm, low-drama ease to recruit her into suppressing needs, then quietly recodes her feelings as the problem.",
+    "culture": "Polyamorous",
+    "demographics": "F/late 20s, he early 30s, U.S. Northeast, new dating relationship",
+    "cultural_context": "Early-stage dating / romantic relationship social sphere",
+    "geographic_setting": "Likely U.S. Northeast, with a road trip to Cape Cod",
+    "core_behaviors": [
+      "Presents himself as easygoing and drama-free",
+      "Praises her for being chill and low-maintenance",
+      "Frames his calm as rational maturity and her feelings as overreaction",
+      "Uses poly language to make normal bids for reassurance sound like mono-conditioning"
+    ],
+    "satellite_signals": "Low-key dates, quiet confidence, talk of schedules and plans, poly jargon used as a moral filter, and a subtle preference for her being easy to manage.",
+    "dismissible_red_flags": "It mostly feels like relief after messier relationships. His flatness reads as steadiness, and his comments land as practical or even flattering, not overtly cruel.",
+    "scenario_text": "I’ve only been seeing Nico for a few weeks, but it already feels weirdly easy in a way I didn’t know I needed. He has this calm, almost blank way of moving through everything, like nothing ever really rattles him. Last night he said, “Whatever works for you works for me. I don’t really do drama. We’re good,” and honestly it was kind of a relief. I’ve dated people who turned every tiny thing into a whole production, so with him it feels like I can finally breathe.\n\nHe’s very into keeping things simple. He has his own place, his own routine, and he keeps saying he likes “straightforward” and “low-stress” connections. In poly terms, he told me he’s looking for someone who’s “done their work,” which sounded mature, not like a test. When I mentioned my roommate texting me mid-date, he just smiled and said, “Jealousy is just information, right?” like he was being thoughtful. I laughed because I thought he was joking.\n\nHe also keeps telling me I’m easy to be around, which I know is a compliment. “You’re so chill,” he said over coffee, and then, “I like that you don’t make everything about feelings.” I liked hearing that, even though it made me sit up a little straighter and try not to be too much. He hasn’t done anything mean. If anything, he’s been patient and steady, and I keep telling myself that’s what healthy looks like.\n\nIt’s just that when I asked if we could do a little state-of-the-union conversation sometime, he kind of smiled and said, “We don’t need to pick everything apart. If something’s good, it should feel pretty easy.” I didn’t want to be the heavy one, so I dropped it. Was I being weird about wanting to talk about us?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-084-SN0001",
+      "snippet_text": "I’ve only been seeing Nico for a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Sets the early-stage context. It matters because the relationship is still new enough that his ease can feel like a gift rather than a pattern."
+    },
+    {
+      "snippet_id": "S-084-SN0002",
+      "snippet_text": "it already feels weirdly easy",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She’s already translating his low intensity into comfort. The word easy is doing a lot of work here, because it makes her lower her guard and call that peace."
+    },
+    {
+      "snippet_id": "S-084-SN0003",
+      "snippet_text": "this calm, almost blank way",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Empathy-low",
+        "Emotional Overexposure-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He’s not warm or especially engaged, but she experiences the flatness as steadiness. That is the early version of emotional withholding."
+    },
+    {
+      "snippet_id": "S-084-SN0004",
+      "snippet_text": "I don’t really do drama",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like a harmless preference, but it sets up a rule that her future discomfort can be filed under drama. It quietly gives him the power to define which feelings count."
+    },
+    {
+      "snippet_id": "S-084-SN0005",
+      "snippet_text": "We’re good",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A tiny phrase, but it closes the conversation on his terms. It turns the relationship into a verdict he gets to announce rather than something they both discuss."
+    },
+    {
+      "snippet_id": "S-084-SN0006",
+      "snippet_text": "I’ve dated people who turned every tiny thing into a whole production",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her past makes his flatness look like relief. That comparison helps explain why the early warning signs feel soothing instead of empty."
+    },
+    {
+      "snippet_id": "S-084-SN0007",
+      "snippet_text": "He’s very into keeping things simple",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Simple sounds healthy here, but it also means fewer openings for complexity, repair, or her emotional needs. It’s a neat little frame for keeping her manageable."
+    },
+    {
+      "snippet_id": "S-084-SN0008",
+      "snippet_text": "his own place, his own routine",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Enmeshment-low",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is self-contained, independent language. In a honeymoon phase it can read as maturity, but it also signals that he may not naturally make room for closeness."
+    },
+    {
+      "snippet_id": "S-084-SN0009",
+      "snippet_text": "straightforward” and “low-stress” connections",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Intensity-low",
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Those words sound attractive because they promise peace. The hidden cost is that low-stress can become low-responsiveness, where her needs are treated as unnecessary friction."
+    },
+    {
+      "snippet_id": "S-084-SN0010",
+      "snippet_text": "someone who’s “done their work”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "In poly spaces, this can sound like a mature filter. Here it also creates a gatekeeping standard where he gets to decide who is enlightened enough to be with him."
+    },
+    {
+      "snippet_id": "S-084-SN0011",
+      "snippet_text": "In poly terms",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the relationship inside the poly register, where certain phrases carry extra moral weight and can be used to make ordinary needs sound suspect."
+    },
+    {
+      "snippet_id": "S-084-SN0012",
+      "snippet_text": "Jealousy is just information",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is classic deflection in poly language. It sounds thoughtful, but it shifts the issue from his behavior to her inner state, which makes her the one who has to explain herself."
+    },
+    {
+      "snippet_id": "S-084-SN0013",
+      "snippet_text": "You’re so chill",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is praise, but it also installs a role. If she wants to stay the easy, admired version of herself, she has to keep swallowing anything messy."
+    },
+    {
+      "snippet_id": "S-084-SN0014",
+      "snippet_text": "I like that you don’t make everything about feelings",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He’s complimenting her for suppressing the very thing that would let him know her. It sounds mature, but it quietly teaches her that feelings are a nuisance."
+    },
+    {
+      "snippet_id": "S-084-SN0015",
+      "snippet_text": "I know is a compliment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She can feel the pressure inside the compliment, even while accepting it. That little self-correction is the start of adapting herself to keep his approval."
+    },
+    {
+      "snippet_id": "S-084-SN0016",
+      "snippet_text": "too much",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is the internalized fear that her normal needs could make her unattractive or burdensome. It’s small, but it shows she’s already editing herself."
+    },
+    {
+      "snippet_id": "S-084-SN0017",
+      "snippet_text": "patient and steady",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "These are genuinely appealing traits at first, especially after chaos. The problem is that steady can also mean emotionally unavailable if nothing ever moves him."
+    },
+    {
+      "snippet_id": "S-084-SN0018",
+      "snippet_text": "that’s what healthy looks like",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She’s using his frame to interpret the relationship, which is exactly where the trap starts. If calm equals healthy, then her discomfort becomes evidence against her."
+    },
+    {
+      "snippet_id": "S-084-SN0019",
+      "snippet_text": "state-of-the-union conversation",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is poly-coded language for a relationship check-in. It sounds responsible, but it also names the kind of conversation that would surface imbalance, so his resistance matters."
+    },
+    {
+      "snippet_id": "S-084-SN0020",
+      "snippet_text": "We don’t need to pick everything apart",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the core move. He frames repair and clarification as unnecessary overprocessing, which makes her reasonable request for closeness sound like a burden."
+    },
+    {
+      "snippet_id": "S-084-SN0021",
+      "snippet_text": "If something’s good, it should feel pretty easy",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Intensity-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds like wisdom, but it turns ease into a rule she has to keep proving. It also gives him a ready-made excuse to ignore anything hard she brings up."
+    },
+    {
+      "snippet_id": "S-084-SN0022",
+      "snippet_text": "I didn’t want to be the heavy one",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She has absorbed his standard and is already self-silencing. Calling herself heavy shows that his preference for ease is starting to shape how she treats her own needs."
+    },
+    {
+      "snippet_id": "S-084-SN0023",
+      "snippet_text": "Was I being weird about wanting to talk about us?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question is small on purpose, but it reveals the real issue. She’s not asking whether the relationship is wrong, only whether her desire for a basic conversation was too much."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,489 @@
+{
+  "scenario_id": "S-061",
+  "player_type": "Domineering Devin",
+  "scenario": {
+    "scenario_id": "S-061",
+    "architecture_name": "He uses competence, provision, and “good order” to make her life route through him until his judgment feels like the natural one.",
+    "culture": "Hustle Culture",
+    "demographics": "F/27, M/30, newly dating, Miami tech scene with Latin American immigrant influence",
+    "cultural_context": "Tech firm / professional dating scene with a Latin American immigrant influence",
+    "geographic_setting": "Miami, beachside urban setting",
+    "core_behaviors": [
+      "Early discipline and self-mastery used as moral authority",
+      "Provider language that quietly removes her from decisions",
+      "Order and routine framed as care, then as the default",
+      "Interest in her schedule and presentation disguised as efficiency"
+    ],
+    "satellite_signals": "Hustle-culture status talk, optimization language, and a polished provider persona make his control feel like maturity instead of pressure.",
+    "dismissible_red_flags": "At this stage it reads like he is organized, protective, and serious about dating. His questions about her schedule and his preference for handling plans can seem thoughtful rather than controlling.",
+    "scenario_text": "I met Carlos three weeks ago through a friend from work, and honestly it’s been kind of easy with him. He’s from El Salvador and has that calm, put-together way of talking that makes everything sound deliberate. He’s always up early, always at the gym or in deep work, and he told me, almost laughing, that he’s in monk mode until his next project launch. I liked that. It felt disciplined, not flashy.\n\nThe other night he picked the restaurant, paid without making it a thing, and said, “Put your card away. When you’re with me, I take care of it.” He said that’s the man’s job, simple as that. It was old-school, but after a lot of split-check dates, it was honestly nice. Then he added that he already booked our Saturday boat thing and had “sorted the whole trip,” so I would just need to show up. He said he prefers it that way because it keeps things smooth.\n\nHe’s also big on order. His apartment is immaculate, everything has a spot, and he asked what my morning routine looks like, like he was genuinely interested. He said people get more out of life when they’re locked in, and I kind of believe that too. I’ve been trying to get more structured anyway.\n\nThe one thing that stayed with me is how he asked for my schedule twice this week, not in a weird way, just like he wants to plan surprises and keep us on the same page. He says it’s easier than two systems fighting each other. I guess I like that he’s so sure of himself, but sometimes I feel like he’s already building a version of us where I just fit in neatly. Am I overthinking the way he keeps asking about my schedule?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Carlos three weeks ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Sets the relationship as very new, which matters because the control is already showing up this early.",
+      "snippet_id": "S-061-SN0001"
+    },
+    {
+      "quote": "through a friend from work",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A normal professional-social introduction. It places them in the same young urban work world without sounding staged.",
+      "snippet_id": "S-061-SN0002"
+    },
+    {
+      "quote": "He’s from El Salvador",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "National origin is part of the relationship texture here and helps locate his register and family background.",
+      "snippet_id": "S-061-SN0003"
+    },
+    {
+      "quote": "that calm, put-together way of talking",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Control-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She reads his manner as polished and reassuring, but it also hints at a controlled style that can make his preferences feel like common sense.",
+      "snippet_id": "S-061-SN0004"
+    },
+    {
+      "quote": "always up early",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The early-riser routine is presented as admirable discipline, which already sets him up as the standard-setter in the relationship.",
+      "snippet_id": "S-061-SN0005"
+    },
+    {
+      "quote": "always at the gym",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Fitness here is not just a habit, it’s part of the identity package he’s using to signal discipline and authority.",
+      "snippet_id": "S-061-SN0006"
+    },
+    {
+      "quote": "deep work",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Hustle vocabulary makes his unavailability sound noble. It can also become a way to make his priorities unquestionable.",
+      "snippet_id": "S-061-SN0007"
+    },
+    {
+      "quote": "I’m in monk mode",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is a statusy self-description in hustle culture. On the surface it means focus, but it also normalizes withdrawal and makes her adapt to his scarcity of time.",
+      "snippet_id": "S-061-SN0008"
+    },
+    {
+      "quote": "until his next project launch",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The language of launch and timing places his work cycle above the relationship. It quietly teaches her to wait for his schedule.",
+      "snippet_id": "S-061-SN0009"
+    },
+    {
+      "quote": "Put your card away",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small command disguised as generosity. He is taking over the transaction and setting the expectation that he decides how things are handled.",
+      "snippet_id": "S-061-SN0010"
+    },
+    {
+      "quote": "When you’re with me",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That phrase quietly installs a couple identity where her behavior is supposed to change once she is with him.",
+      "snippet_id": "S-061-SN0011"
+    },
+    {
+      "quote": "I take care of it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds caring, but it also makes him the one who handles decisions and resources. Care is being used as authority.",
+      "snippet_id": "S-061-SN0012"
+    },
+    {
+      "quote": "the man’s job",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high",
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a gender-role claim, not just a romantic gesture. It places payment and provision inside a hierarchy where he leads by default.",
+      "snippet_id": "S-061-SN0013"
+    },
+    {
+      "quote": "sorted the whole trip",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He has already made the plans, paid, and decided the shape of the outing. She is invited into something he has fully organized.",
+      "snippet_id": "S-061-SN0014"
+    },
+    {
+      "quote": "just need to show up",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds easy, but it also reduces her role to compliance. The less she has to do, the less say she has.",
+      "snippet_id": "S-061-SN0015"
+    },
+    {
+      "quote": "His apartment is immaculate",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The spotless apartment reads as discipline and competence, but it also signals a rigid standard that can spill into how he expects other people to live.",
+      "snippet_id": "S-061-SN0016"
+    },
+    {
+      "quote": "everything has a spot",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Order is being treated like a virtue, almost a moral law. That kind of rigidity often becomes a template he expects others to fit.",
+      "snippet_id": "S-061-SN0017"
+    },
+    {
+      "quote": "what my morning routine looks like",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A routine question can be innocent, but here it also sounds like he is evaluating whether she is the kind of person who matches his system.",
+      "snippet_id": "S-061-SN0018"
+    },
+    {
+      "quote": "people get more out of life when they’re locked in",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is hustle-culture praise, but it also frames one narrow mode of living as the right one. Anything looser starts to look like failure.",
+      "snippet_id": "S-061-SN0019"
+    },
+    {
+      "quote": "I’ve been trying to get more structured anyway",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is already adapting herself to his style. That’s the early sign that his preferences are becoming her standards.",
+      "snippet_id": "S-061-SN0020"
+    },
+    {
+      "quote": "He asked for my schedule twice this week",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest control seed. Knowing her schedule gives him access to her time, and asking twice makes it feel normal and expected.",
+      "snippet_id": "S-061-SN0021"
+    },
+    {
+      "quote": "keep us on the same page",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "It sounds collaborative, but it also blurs the line between coordination and monitoring. Her time is becoming something he wants to manage with her.",
+      "snippet_id": "S-061-SN0022"
+    },
+    {
+      "quote": "two systems fighting each other",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He turns ordinary difference into a systems problem, which makes his way seem objectively better and hers like friction.",
+      "snippet_id": "S-061-SN0023"
+    },
+    {
+      "quote": "I just fit in neatly",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the narrator’s own worry that the relationship is already asking her to become smaller and more adjustable. The concern is quiet, but it’s real.",
+      "snippet_id": "S-061-SN0024"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

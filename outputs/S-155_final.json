@@ -1,0 +1,480 @@
+{
+  "scenario_id": "S-155",
+  "player_type": "Adrenaline Ainsley",
+  "scenario": {
+    "scenario_id": "S-155",
+    "architecture_name": "He uses thrilling spontaneity and cultural attentiveness to make her feel chosen, then quietly recruits her into carrying the pace, logistics, and emotional regulation of the relationship.",
+    "culture": "Chinese American",
+    "demographics": "Japanese-American adult, gender unspecified, dating/early relationship status",
+    "cultural_context": "Japanese-American social and family context; Asian-American cultural community",
+    "geographic_setting": "Seattle, urban cultural festival / city setting",
+    "core_behaviors": [
+      "Uses surprise plans and constant momentum as proof of chemistry",
+      "Frames her hesitation as a lack of openness rather than a real boundary",
+      "Makes himself feel special by becoming the thing she has to keep up with"
+    ],
+    "satellite_signals": "Seattle urban festival setting, Asian-American cultural references, constant texting, surprise dates, family dinner interest, and the sense that he is already folding himself into her schedule.",
+    "dismissible_red_flags": "At this stage he mostly reads as excited, thoughtful, and a little intense. The rushing can feel flattering because it is wrapped in culture, attention, and sincerity.",
+    "scenario_text": "I met Kenji at a Seattle cultural festival, and he was one of those people who somehow makes a crowded room feel smaller. He knew which booth had the best mochi, asked if I wanted to split the taiyaki, and kept saying he liked being around someone who got the Asian-American stuff without a whole explanation. That part was sweet, honestly. It felt easy.\n\nSince then he has been texting all day, little check-ins, random photos, “look what I found,” that kind of thing. Yesterday he sent me a picture of a night market pop-up and wrote, “This is so us.” I laughed because we have only been seeing each other a few weeks, but I also liked how excited he was. He has this way of making a normal Tuesday feel like something is happening.\n\nHe asked if I wanted to go to the Japanese tea garden this weekend, then said he already had a couple other ideas if I was free after. When I mentioned I might need to leave early for a family dinner, he just smiled and said, “We’ll make it work, babe. I’m not trying to box you in.” It sounded nice. He always says he does not want anything stiff or boring, that life is too short for routine, and I get that. I do like that he is spontaneous. It is kind of fun to be with someone who actually plans things instead of just talking about them.\n\nStill, I noticed I have started checking my calendar before I reply, just in case he has another surprise. Nothing bad, really. He just moves fast, and I am probably getting used to his energy. I like him a lot, and it feels good to be wanted that much. I just wonder if I am the only one who has to keep adjusting a little. Is it weird that I am already checking my schedule before I answer him?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-155-SN0001",
+      "quote": "I met Kenji at a Seattle cultural festival",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Places him in a specific community scene right away. It is ordinary context, but it also signals that this relationship is being built inside an Asian-American social world, not a generic dating app story."
+    },
+    {
+      "snippet_id": "S-155-SN0002",
+      "quote": "he was one of those people who somehow makes a crowded room feel smaller",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is presented as socially magnetic, the kind of person who pulls attention toward himself. Surface-wise that reads as charisma, but it also hints that the room organizes around his energy."
+    },
+    {
+      "snippet_id": "S-155-SN0003",
+      "quote": "He knew which booth had the best mochi",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is insider cultural fluency used as instant rapport. It feels thoughtful, but the speed of the familiarity also makes him seem like someone who knows how to perform belonging quickly."
+    },
+    {
+      "snippet_id": "S-155-SN0004",
+      "quote": "asked if I wanted to split the taiyaki",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A small shared-food gesture, but it also sets a pattern of intimacy through easy reciprocity. He is building closeness through little offers that make her feel included before there is much substance behind it."
+    },
+    {
+      "snippet_id": "S-155-SN0005",
+      "quote": "he liked being around someone who got the Asian-American stuff without a whole explanation",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering, but it also casts her as the right kind of person for him because she can instantly mirror his world. The compliment quietly rewards her for being legible to him without needing her own context."
+    },
+    {
+      "snippet_id": "S-155-SN0006",
+      "quote": "That part was sweet, honestly.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already smoothing over the speed of the connection by naming it as sweet. The word works as a closure move, a way of keeping the moment pleasant instead of asking what it is setting up."
+    },
+    {
+      "snippet_id": "S-155-SN0007",
+      "quote": "he has been texting all day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Constant contact is framed as interest, but it also shows how quickly he wants access to her attention. Early on it can feel flattering; later it becomes a demand to stay continuously available."
+    },
+    {
+      "snippet_id": "S-155-SN0008",
+      "quote": "little check-ins, random photos, “look what I found,”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The tone is playful and affectionate, but the stream of updates keeps her oriented to him all day. It creates a constant pull without asking for much overtly, which is part of why it feels harmless."
+    },
+    {
+      "snippet_id": "S-155-SN0009",
+      "quote": "“This is so us.”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is collapsing a new relationship into a shared identity very early. It sounds romantic, but it also pressures her to agree that the bond is already bigger and more settled than it really is."
+    },
+    {
+      "snippet_id": "S-155-SN0010",
+      "quote": "we have only been seeing each other a few weeks",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Reality-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices the mismatch between the timeline and the intensity. That small factual check is important because it shows her body or mind is already registering that the pace is ahead of the relationship."
+    },
+    {
+      "snippet_id": "S-155-SN0011",
+      "quote": "He has this way of making a normal Tuesday feel like something is happening",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the honeymoon version of thrill dependence. He turns ordinary time into a mini-event, which feels fun now, but it also teaches her that calmness is not the standard."
+    },
+    {
+      "snippet_id": "S-155-SN0012",
+      "quote": "He asked if I wanted to go to the Japanese tea garden this weekend",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The date choice is thoughtful and culturally legible, so it reads as care. It also shows how he is building a relationship through curated experiences that make him seem unusually attentive and tuned in."
+    },
+    {
+      "snippet_id": "S-155-SN0013",
+      "quote": "then said he already had a couple other ideas if I was free after",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This looks like enthusiasm, but it also reveals that the evening is already moving on his schedule. The phrase makes her availability part of the plan, which is a small early sign that his momentum sets the terms."
+    },
+    {
+      "snippet_id": "S-155-SN0014",
+      "quote": "“We’ll make it work, babe. I’m not trying to box you in.”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a soft directive disguised as reassurance. He answers her family obligation by absorbing it into a couple identity, then preemptively denies control. The pet name and the phrase about not boxing her in make it sound generous while still keeping the plan centered on his flexibility."
+    },
+    {
+      "snippet_id": "S-155-SN0015",
+      "quote": "He always says he does not want anything stiff or boring",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is defining seriousness and routine as bad before she can ask for either. That sounds relaxed at first, but it quietly makes stability feel like a personality failure instead of a normal relationship need."
+    },
+    {
+      "snippet_id": "S-155-SN0016",
+      "quote": "life is too short for routine",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a value statement that sounds optimistic, but it also rejects predictability as a legitimate desire. In practice, it can become a justification for always chasing the next thing and never settling into anything steady."
+    },
+    {
+      "snippet_id": "S-155-SN0017",
+      "quote": "I do like that he is spontaneous",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is actively translating a possible problem into a positive trait. The sentence shows her trying to stay open, but it also reveals that she is already managing his pace inside her own head."
+    },
+    {
+      "snippet_id": "S-155-SN0018",
+      "quote": "It is kind of fun to be with someone who actually plans things",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She likes that he initiates, which is understandable, but the wording also shows how easily competence becomes charm. The fun part is real; the risk is that his planning starts to feel like the relationship itself."
+    },
+    {
+      "snippet_id": "S-155-SN0019",
+      "quote": "I have started checking my calendar before I reply",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest seed of asymmetry. She is already adapting her availability to his surprise energy, which means his spontaneity is no longer just his personality. It is beginning to organize her life around staying responsive."
+    },
+    {
+      "snippet_id": "S-155-SN0020",
+      "quote": "just in case he has another surprise",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Surprises are still framed as fun, but her body is starting to treat them as something to prepare for. That tiny caution matters because it shows the relationship is already creating mild vigilance, even while she likes him."
+    },
+    {
+      "snippet_id": "S-155-SN0021",
+      "quote": "Nothing bad, really.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Reality-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She minimizes the concern immediately after naming it. That kind of self-correction is important because it shows how quickly she is teaching herself not to take her own discomfort too seriously."
+    },
+    {
+      "snippet_id": "S-155-SN0022",
+      "quote": "He just moves fast",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Intensity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the cleanest summary of the pattern on the surface. It sounds almost admiring, but it also names the core issue: his pace is the thing she has to keep adjusting to."
+    },
+    {
+      "snippet_id": "S-155-SN0023",
+      "quote": "I just wonder if I am the only one who has to keep adjusting a little",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Fairness",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the first direct glimpse of the imbalance. She is noticing that the flexibility is not mutual, and that her role is becoming the one who absorbs the motion. It is a small sentence, but it points to a one-way accommodation pattern."
+    },
+    {
+      "snippet_id": "S-155-SN0024",
+      "quote": "Is it weird that I am already checking my schedule before I answer him?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The closing question is deliberately small, but it reveals the larger pattern. She is asking about the calendar habit, not the relationship structure, which is exactly how the pressure stays easy to dismiss while it starts shaping her behavior."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

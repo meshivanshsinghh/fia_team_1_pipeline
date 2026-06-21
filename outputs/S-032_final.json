@@ -1,0 +1,407 @@
+{
+  "scenario_id": "S-032",
+  "player_type": "Pity-Party Parker",
+  "scenario": {
+    "scenario_id": "S-032",
+    "architecture_name": "He uses wounded intimacy and future-fantasy to make her feel chosen, responsible, and a little guilty for ever needing anything from him in return.",
+    "culture": "Black Professional",
+    "demographics": "Adult woman narrator; Jamal is an adult Nigerian man; relationship status: newly dating / early-stage romantic relationship",
+    "cultural_context": "Urban professional/social dating sphere with interracial or immigrant-background relationship dynamics",
+    "geographic_setting": "New York City, urban coffee shop / dating scene",
+    "core_behaviors": [
+      "Rapid wounded self-disclosure that feels like trust",
+      "Makes her feel like the safe, special one",
+      "Keeps the relationship centered on his feelings and future plans"
+    ],
+    "satellite_signals": "Black professional dating register, Nigerian immigrant background, coffee-shop meet-cute, friends-only access, future-marriage talk, pickup-and-route control.",
+    "dismissible_red_flags": "At this stage it reads as romantic intensity, emotional honesty, and a man who is simply very into her. The heavy feelings are easy to mistake for depth.",
+    "scenario_text": "I met Jamal at this little coffee shop near Bryant Park, and the whole thing has felt kind of bright ever since. He’s Nigerian, works in finance, and has that polished, put-together way of moving through a room that makes people notice him right away. On our second date he asked, very casually, “Where did you go to school?” and then smiled like he already knew I’d pass some invisible test. When I said Howard, he lit up and said, “Okay, so you’re a real one.” I laughed because it sounded sweet, and honestly, it did feel sweet.\n\nHe texts me these long messages late at night, usually after he’s had a rough day. He’ll say things like, “I don’t open up to people,” or “I’ve just been through a lot.” The first time he told me about his ex and how she made him feel crazy for having feelings, I felt protective of him. He said I was the first person who actually listened, which was a lot to hear after two dates, but I also liked that he trusted me.\n\nHe’s always insisting on picking me up, and he says it like it’s no big deal. “I’ve got you,” he told me when I offered to meet halfway. He plans everything, the reservations, the Ubers, even what neighborhood we should walk in after dinner. It’s thoughtful, I guess, and I do like not having to think about every little thing.\n\nThe thing that stayed with me, though, was last night when I mentioned a stressful week at work and he said, “I feel you, babe, I do, but you know I’m carrying a lot too.” He said it so softly that I just nodded and changed the subject. I don’t know, maybe I’m overthinking it, but I keep wondering if I should’ve said more. Was I being too quiet when he said that?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Jamal at this little coffee shop near Bryant Park",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The meet-cute is ordinary on the surface, but it also places the relationship in a polished urban dating scene where image and momentum matter. That makes his later intensity feel romantic rather than alarming.",
+      "snippet_id": "S-032-SN0001"
+    },
+    {
+      "quote": "He’s Nigerian, works in finance",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Superficiality-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This locates him in a specific immigrant-professional lane and quietly signals status, fluency, and social confidence. It also helps explain why his polished presence can carry extra authority in the room.",
+      "snippet_id": "S-032-SN0002"
+    },
+    {
+      "quote": "that polished, put-together way of moving through a room",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is charm as presentation. He is readable as impressive and socially smooth, which makes it easier for him to be believed and admired before she has much ground of her own.",
+      "snippet_id": "S-032-SN0003"
+    },
+    {
+      "quote": "Where did you go to school?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In this register, that question is not small talk. It is a class and community probe, a way of sorting her into a Black professional map and measuring whether she belongs in his world.",
+      "snippet_id": "S-032-SN0004"
+    },
+    {
+      "quote": "Howard",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Howard is doing cultural work here. It signals Black professional legitimacy and gives his approval more weight because he is responding inside a shared elite framework.",
+      "snippet_id": "S-032-SN0005"
+    },
+    {
+      "quote": "you’re a real one",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is praise, but it also ranks her as authentic and worthy inside the community. That kind of approval can feel warm while quietly making her want to keep performing the role he liked.",
+      "snippet_id": "S-032-SN0006"
+    },
+    {
+      "quote": "He texts me these long messages late at night",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Emotional Overexposure-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The timing and length suggest he is using her as an emotional landing place. It feels intimate early on, but it also starts to make her the place where his feelings go to be managed.",
+      "snippet_id": "S-032-SN0007"
+    },
+    {
+      "quote": "I don’t open up to people",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He frames disclosure as rare and special, which makes her feel chosen. That kind of self-presentation turns vulnerability into a hook rather than just a moment of honesty.",
+      "snippet_id": "S-032-SN0008"
+    },
+    {
+      "quote": "I’ve just been through a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the beginning of the pity-based bond. It invites her to become careful with him and to understand his mood as something that happened to him, not something he has to manage.",
+      "snippet_id": "S-032-SN0009"
+    },
+    {
+      "quote": "the first person who actually listened",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Being cast as the only real listener is flattering, but it also installs a job. She is now the one person who must keep hearing him well enough that he feels okay.",
+      "snippet_id": "S-032-SN0010"
+    },
+    {
+      "quote": "I felt protective of him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Empathy-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her tenderness is the entry point. She is already moving into a caretaker stance, which makes it easier for his needs to become the center of the relationship.",
+      "snippet_id": "S-032-SN0011"
+    },
+    {
+      "quote": "I’ve got you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds reassuring, but it also puts him in the position of protector and director. The phrase creates dependence by making his care feel like the thing holding the whole date together.",
+      "snippet_id": "S-032-SN0012"
+    },
+    {
+      "quote": "He plans everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a soft form of control, not a fight. He is organizing the movement, timing, and choices, which quietly leaves her in the role of the accommodated one.",
+      "snippet_id": "S-032-SN0013"
+    },
+    {
+      "quote": "the reservations, the Ubers",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "These details show who is handling logistics and who is being moved through the evening. It’s thoughtful, but it also trains her to let him set the terms.",
+      "snippet_id": "S-032-SN0014"
+    },
+    {
+      "quote": "It’s thoughtful, I guess",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her own wording shows the tiny wobble. She likes it, but the ‘I guess’ signals she is already shrinking a bit around the imbalance instead of naming it.",
+      "snippet_id": "S-032-SN0015"
+    },
+    {
+      "quote": "I feel you, babe, I do",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Empathy-low",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds warm, but it is mostly a bridge into his own needs. The pet name softens the pivot so her stress can be acknowledged without really being held.",
+      "snippet_id": "S-032-SN0016"
+    },
+    {
+      "quote": "but you know I’m carrying a lot too",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Emotional Overexposure-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the load-bearing move. Her work stress is briefly acknowledged, then his burden takes over the frame. He quietly turns her disclosure into an opening for reassurance and centering.",
+      "snippet_id": "S-032-SN0017"
+    },
+    {
+      "quote": "I just nodded and changed the subject",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already adapting to keep the moment smooth. That kind of self-editing is small now, but it shows she is learning to absorb the imbalance instead of pushing back.",
+      "snippet_id": "S-032-SN0018"
+    },
+    {
+      "quote": "I don’t know, maybe I’m overthinking it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Accountability-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is her rationalization. She has noticed the shift, but she immediately doubts her own read, which is exactly how the early pattern stays soft and deniable.",
+      "snippet_id": "S-032-SN0019"
+    },
+    {
+      "quote": "Was I being too quiet when he said that?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The question is tiny on purpose. She is not asking whether the relationship is unhealthy, only whether she handled one small moment right, which keeps the larger pattern safely unspoken.",
+      "snippet_id": "S-032-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

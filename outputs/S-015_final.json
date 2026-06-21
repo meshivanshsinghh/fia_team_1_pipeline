@@ -1,0 +1,454 @@
+{
+  "scenario_id": "S-015",
+  "player_type": "Pity-Party Parker",
+  "scenario": {
+    "scenario_id": "S-015",
+    "architecture_name": "He uses wounded intimacy and generosity to make her feel like his relief, then his responsibility.",
+    "culture": "Old-Money WASP",
+    "demographics": "F/early 30s, new tenant; M/late 50s, widowed landlord, Irish-American, South Boston",
+    "cultural_context": "Landlord-tenant / housing and neighborhood social sphere",
+    "geographic_setting": "South Boston, urban neighborhood in Boston",
+    "core_behaviors": [
+      "Rapid wounded self-disclosure that makes her feel trusted",
+      "Generosity that quietly creates debt and dependence",
+      "Soft familiarity that turns her into his emotional caretaker"
+    ],
+    "satellite_signals": "Tea visits, low rent, rides around the neighborhood, late-wife stories, and a private, old-fashioned decorum that makes his neediness sound like manners.",
+    "dismissible_red_flags": "At this stage it reads as lonely-widower warmth, especially because he is helpful, attentive, and says everything softly. The discomfort is small enough to rationalize as me being new here.",
+    "scenario_text": "I moved into the place on West Broadway three weeks ago, and honestly it has been a relief. The rent was so low I asked twice, and he just said, “One simply doesn’t leave a girl stranded when she’s getting settled.” He’s older, widowed, very Boston in that old-fashioned way, and he keeps tea on the stove like we’re in some movie. Most evenings he knocks once and then stays for a cup, talking about his late wife, the quiet in the house, how strange it is to be alone after so many years. I do feel for him. He says I’ve made the apartment feel lived in again, which is sweet, and I think he means it.\n\nHe’s also been driving me around when I need errands, since I don’t have a car yet. “Don’t make this awkward,” he said when I tried to call a rideshare for the grocery store. “I’m in town anyway.” He remembers little things, like that I like my tea with lemon, and he left a small umbrella by my door after it rained. It’s very considerate. Once, when I was telling him about work, he leaned in and said, “You’re not one of those girls who likes a fuss, are you? You seem sensible.” I laughed because I didn’t know what else to do.\n\nThe thing is, he gets a little hurt-looking if I’m busy or keep the door closed, like I’m abandoning him after he’s done so much. Then he’ll say, “I’m not asking for much, just a bit of company,” and I end up feeling bad for being tired. He’s lonely, and I get that. I just don’t want to seem cold when he’s being so kind. Was I being weird about him knocking tonight?"
+  },
+  "snippets": [
+    {
+      "quote": "I moved into the place on West Broadway",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Setting and class location. It places her in his orbit as a tenant, which matters because the relationship already has built-in dependence and access.",
+      "snippet_id": "S-015-SN0001"
+    },
+    {
+      "quote": "the rent was so low I asked twice",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The bargain is real, but it also creates immediate indebtedness. He is using money to make himself indispensable, which makes later discomfort harder to voice.",
+      "snippet_id": "S-015-SN0002"
+    },
+    {
+      "quote": "One simply doesn’t leave a girl stranded",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That sounds like old-fashioned courtesy, but it also frames him as the one who decides what a woman should receive. The language puts her in the position of being rescued and therefore owing gratitude.",
+      "snippet_id": "S-015-SN0003"
+    },
+    {
+      "quote": "widowed, very Boston in that old-fashioned way",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the social wrapper that makes his behavior feel harmless. The widow detail and the local register make his loneliness seem dignified rather than demanding.",
+      "snippet_id": "S-015-SN0004"
+    },
+    {
+      "quote": "he keeps tea on the stove",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A warm domestic habit, but it also means he is constantly preparing for her presence. The gesture quietly makes her part of his routine.",
+      "snippet_id": "S-015-SN0005"
+    },
+    {
+      "quote": "we’re in some movie",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She can feel the performative quality, but she turns it into romance. That keeps the scene pretty while muting the possibility that the whole setup is staged to pull her in.",
+      "snippet_id": "S-015-SN0006"
+    },
+    {
+      "quote": "talking about his late wife",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Early grief-sharing can be intimate, but here it also keeps her listening, soothing, and holding his emotional weight. His loss becomes the center of the room.",
+      "snippet_id": "S-015-SN0007"
+    },
+    {
+      "quote": "the quiet in the house",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is part of the widower atmosphere. It helps make his loneliness feel natural and deserving of care.",
+      "snippet_id": "S-015-SN0008"
+    },
+    {
+      "quote": "I’ve made the apartment feel lived in again",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate on the surface, but it casts her as emotional repair for his emptiness. She is not just a tenant anymore, she is the thing that fixes the house.",
+      "snippet_id": "S-015-SN0009"
+    },
+    {
+      "quote": "He’s also been driving me around",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Transportation is a real convenience, but it also puts him in charge of routes, timing, and access. That makes her increasingly dependent on his availability.",
+      "snippet_id": "S-015-SN0010"
+    },
+    {
+      "quote": "I don’t have a car yet",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A small practical detail, but it marks the imbalance clearly. He has mobility and she doesn’t, which makes his helpfulness harder to refuse.",
+      "snippet_id": "S-015-SN0011"
+    },
+    {
+      "quote": "Don’t make this awkward",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a quiet command disguised as social grace. It tells her that naming discomfort would be the rude thing, not the familiar behavior itself.",
+      "snippet_id": "S-015-SN0012"
+    },
+    {
+      "quote": "I’m in town anyway",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He presents the ride as incidental and casual, which softens the fact that he is inserting himself into her schedule. The casualness makes it harder for her to object.",
+      "snippet_id": "S-015-SN0013"
+    },
+    {
+      "quote": "You’re not one of those girls",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is an elevation move. He flatters her by separating her from some vaguely lesser group, which feels good now but teaches her that approval depends on staying unlike other women.",
+      "snippet_id": "S-015-SN0014"
+    },
+    {
+      "quote": "who likes a fuss",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is defining the kind of woman he prefers: quiet, manageable, not difficult. If she objects later, the objection can be recast as a fuss.",
+      "snippet_id": "S-015-SN0015"
+    },
+    {
+      "quote": "You seem sensible",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "A compliment that also assigns a role. Sensible here means easy to steer, and she is being praised for fitting that role.",
+      "snippet_id": "S-015-SN0016"
+    },
+    {
+      "quote": "he gets a little hurt-looking",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is noticing that his mood shifts around her availability. Even if he never says anything directly, the look itself pressures her to manage him.",
+      "snippet_id": "S-015-SN0017"
+    },
+    {
+      "quote": "like I’m abandoning him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the key emotional trap. A normal boundary starts to feel like abandonment, which means his needs are already shaping her behavior.",
+      "snippet_id": "S-015-SN0018"
+    },
+    {
+      "quote": "I’m not asking for much, just a bit of company",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "It sounds modest, but it is a request for ongoing emotional access. The line makes her feel unreasonable for wanting privacy or rest.",
+      "snippet_id": "S-015-SN0019"
+    },
+    {
+      "quote": "I end up feeling bad for being tired",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already adjusting her inner state around his feelings. That’s the beginning of caretaking as obligation rather than choice.",
+      "snippet_id": "S-015-SN0020"
+    },
+    {
+      "quote": "I don’t want to seem cold",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is editing her own boundaries to preserve his comfort. The relationship is already teaching her that warmth means compliance.",
+      "snippet_id": "S-015-SN0021"
+    },
+    {
+      "quote": "when he’s being so kind",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the rationalization that keeps the whole thing afloat. Because he is kind, she feels she owes him access, even when her body is saying she wants space.",
+      "snippet_id": "S-015-SN0022"
+    },
+    {
+      "quote": "Was I being weird about him knocking tonight?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is asking about the smallest visible thing, not the larger pattern. That tells you she already senses something is off but is trying to keep the question socially safe.",
+      "snippet_id": "S-015-SN0023"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

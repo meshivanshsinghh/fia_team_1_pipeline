@@ -1,26 +1,485 @@
 {
   "scenario_id": "S-020",
-  "player_type": "Pity-party Parker",
+  "player_type": "Avoidant Alex",
   "scenario": {
     "scenario_id": "S-020",
-    "architecture_name": "He recruits her as his sole emotional rescuer by flooding her with wounded vulnerability, then installs her goodness and patience as the cage that keeps her from ever raising her own needs or leaving.",
+    "architecture_name": "He makes closeness feel precious by keeping it slightly out of reach, so I start treating his distance as proof of care.",
     "culture": "Polyamorous",
-    "demographics": "LGBTQ+ individual, Cuban-American, mid-20s, newly dating; partner M/early 30s, white, established in poly community, Miami",
-    "cultural_context": "LGBTQ+ community, Cuban-American cultural background, navigating family expectations and romantic relationships",
-    "geographic_setting": "Miami, urban Latinx neighborhood",
+    "demographics": "Cuban-American Latine woman, early 30s, dating Mateo, a Miami guy in his mid-30s who moves in queer poly circles and works in events",
+    "cultural_context": "Latinx/Cuban-American social and family context within an LGBTQ+ community",
+    "geographic_setting": "Miami, Florida; close-knit Latinx neighborhood with nearby Keys day-trip setting",
     "core_behaviors": [
-      "Floods her with wounded self-disclosure to bond through compassion and obligation",
-      "Casts himself as perpetual victim of exes and family to recruit her as the good exception",
-      "Uses sympathy-fishing and fragility-steering to make her self-edit and caretake preemptively",
-      "Frames her goodness and patience as her defining traits, scripting her out of anger or limits"
+      "Praises her independence while making her feel guilty for wanting more contact",
+      "Keeps the relationship pleasantly undefined and frames labels as pressure",
+      "Uses hot-and-cold availability as a virtue, then lets her rationalize the gaps"
     ],
-    "satellite_signals": "Rapid emotional overexposure framed as rare trust; ex-as-villain stories that quietly warn her what gets a woman cast as cruel; bottomless reassurance-seeking that never lands; wistful wound-comparisons that shrink her good news; polycommunity vocabulary deployed to frame her caretaking as emotional maturity.",
-    "dismissible_red_flags": "Early emotional openness reads as rare vulnerability in a man; reassurance-seeking reads as endearing insecurity rather than a bottomless pit; ex stories read as honest survivor backstory rather than inoculation against her future complaints; wistful comments about her advantages read as poignant class difference rather than envy designed to produce guilt.",
-    "scenario_text": "I've been seeing Remy for about six weeks and honestly it's been kind of overwhelming in the best way. He's been in the poly community here in Miami for years, knows basically everyone at the events I've only just started going to. My family still doesn't totally get the whole thing, so it means a lot to be with someone who moves through it so easily.\n\nWhat I love most is how open he is. On our third date he told me he doesn't open up to people, that he's been hurt way too many times, but with me it's different. He said I see parts of him people usually walk right past. I'm not used to a guy saying that. It felt like being handed something fragile to hold.\n\nHe's been through a lot. His ex apparently told everyone he was controlling when he was just trying to keep them together, and his family never really knew what to do with someone like him. He said I'm not like the people who hurt him, that he can just tell. That I'm gentle all the way through, that I couldn't be cruel if I tried. I want to live up to that, honestly.\n\nThe thing is, he needs a lot of reassurance. Like, a lot. After we had dinner with some friends from his polycule last week, he texted me four times on the drive home asking if he'd said something weird, if everyone had gone quiet, if we were okay. I told him everything was fine, it was great, he was great. He said okay. Then asked again in the morning.\n\nI don't mind being that for him. He said I might be the only good thing in his life right now, which, I know that's heavy, he even said sorry for saying it. And I get it, he's been through so much.\n\nBut there's this one thing that's been sitting with me a little. When I mentioned I got a promotion at work, he got this quiet look and said something like, must be nice to have things go your way. Then smiled and said he was happy for me. Am I reading too much into that?"
+    "satellite_signals": "Miami Latinx family context, queer community references, poly jargon used lightly, and a partner who sounds calm, self-possessed, and hard to pin down.",
+    "dismissible_red_flags": "He is mostly sweet, funny, and respectful, and the only thing that really nags is how quickly he turns any future talk into a joke about pressure or labels.",
+    "scenario_text": "I’ve been seeing Mateo for about a month, and honestly it’s been really sweet. He’s the kind of guy who shows up with café con leche from the place near my abuela’s, remembers that I hate cilantro, and somehow makes it feel like he’s been around longer than he has. Last night we were on his balcony in Little Havana and he said, smiling, that he loves that I have my own life going on. He said it like it was the sexiest thing in the world. I laughed, because it was cute, but it also made me feel a little weird for texting him first so much.\n\nHe’s very big on keeping things easy. When I asked if he wanted to come to my friend’s birthday next weekend, he said, “Let’s just see where this goes without all the pressure of a label.” Then he kissed my forehead and told me he’s not fully ready for anything serious yet, which I appreciated because he was being honest. I do like that he isn’t trying to rush me into some whole relationship menu thing. He says he’s more of a moments person than a promises person, and that sounds kind of beautiful when he says it.\n\nThe thing is, he goes quiet sometimes after we’ve had a really good night. Not rude quiet, just... gone. He always comes back with some sweet little voice note, like nothing happened, and I tell myself that’s just his rhythm. He even said, “You get a side of me nobody else gets. I’m just not big on affection.” Which, weirdly, made me feel special instead of disappointed. I guess I’m just not sure whether I’m supposed to keep matching his pace or if I’m being too needy when I want a little more consistency. Am I overthinking the way he said it?"
   },
-  "snippets": [],
-  "validation_warnings": [
-    "CRITICAL: No snippets generated in output"
+  "snippets": [
+    {
+      "quote": "I’ve been seeing Mateo for about a month",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the relationship in the early stage and names the partner, which matters because the pattern is still soft and easy to miss.",
+      "snippet_id": "S-020-SN0001"
+    },
+    {
+      "quote": "He’s the kind of guy who shows up with café con leche",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A sweet, culturally fluent gesture. It reads as care, but it also establishes him as the one who arrives bearing comfort and sets the tone.",
+      "snippet_id": "S-020-SN0002"
+    },
+    {
+      "quote": "from the place near my abuela’s",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This roots the relationship in her family world and Cuban-American neighborhood life, which helps his gestures feel intimate and locally correct.",
+      "snippet_id": "S-020-SN0003"
+    },
+    {
+      "quote": "remembers that I hate cilantro",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Remembering small preferences is charming, but it also positions him as the attentive one who tracks her closely and earns trust quickly.",
+      "snippet_id": "S-020-SN0004"
+    },
+    {
+      "quote": "he’s been around longer than he has",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already feeling a mismatch between the actual time and the emotional weight. That’s the first sign that the pace is doing more than it should.",
+      "snippet_id": "S-020-SN0005"
+    },
+    {
+      "quote": "He said, smiling, that he loves that I have my own life going on",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is praise that sounds liberating but quietly installs a role for her. He values her independence in a way that makes wanting more contact feel like a character flaw.",
+      "snippet_id": "S-020-SN0006"
+    },
+    {
+      "quote": "He said it like it was the sexiest thing in the world",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He eroticizes her self-sufficiency, which flatters her while also rewarding the version of her that asks for less.",
+      "snippet_id": "S-020-SN0007"
+    },
+    {
+      "quote": "it also made me feel a little weird for texting him first so much",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her own behavior starts to feel slightly embarrassing, which shows the praise is already changing how she regulates herself around him.",
+      "snippet_id": "S-020-SN0008"
+    },
+    {
+      "quote": "He’s very big on keeping things easy",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "‘Easy’ sounds healthy, but in this context it means low friction, low demands, and low room for her to press for clarity.",
+      "snippet_id": "S-020-SN0009"
+    },
+    {
+      "quote": "Let’s just see where this goes without all the pressure of a label",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Attachment-low",
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is classic anti-label language. It sounds relaxed, but it also keeps him unpinned while making her the one who would be applying pressure if she asks for definition.",
+      "snippet_id": "S-020-SN0010"
+    },
+    {
+      "quote": "He kissed my forehead",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A tender gesture closes off the awkwardness of the conversation. It softens the no without actually answering her question.",
+      "snippet_id": "S-020-SN0011"
+    },
+    {
+      "quote": "he’s not fully ready for anything serious yet",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Goal Persistence-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He frames unavailability as honesty, which makes her feel fair for accepting it. The promise is not no, just not now, which keeps her waiting.",
+      "snippet_id": "S-020-SN0012"
+    },
+    {
+      "quote": "I do like that he isn’t trying to rush me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is translating his distance into respect. That’s the self-protective story that makes the arrangement feel mature instead of one-sided.",
+      "snippet_id": "S-020-SN0013"
+    },
+    {
+      "quote": "some whole relationship menu thing",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is poly-coded language that sounds technical and casual at once. In context, it lets him dodge specifics while making specificity seem fussy.",
+      "snippet_id": "S-020-SN0014"
+    },
+    {
+      "quote": "He says he’s more of a moments person than a promises person",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the cleanest summary of the trap. Moments feel romantic, but promises are what make someone available in a real way.",
+      "snippet_id": "S-020-SN0015"
+    },
+    {
+      "quote": "he goes quiet sometimes after we’ve had a really good night",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The withdrawal comes right after closeness, which teaches her to expect absence as part of intimacy. That pattern is more important than any single silence.",
+      "snippet_id": "S-020-SN0016"
+    },
+    {
+      "quote": "Not rude quiet, just... gone",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already minimizing the disappearance while still noticing it. The ellipsis shows the discomfort she is trying not to name too sharply.",
+      "snippet_id": "S-020-SN0017"
+    },
+    {
+      "quote": "He always comes back with some sweet little voice note",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The return gesture keeps the bond alive without fixing the pattern. A small affectionate message becomes enough to reset the clock.",
+      "snippet_id": "S-020-SN0018"
+    },
+    {
+      "quote": "I tell myself that’s just his rhythm",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is explaining away the inconsistency as temperament. That self-talk is exactly what lets the distance keep repeating.",
+      "snippet_id": "S-020-SN0019"
+    },
+    {
+      "quote": "You get a side of me nobody else gets",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This makes limited access feel exclusive. She is being recruited into gratitude for scarcity, which turns deprivation into specialness.",
+      "snippet_id": "S-020-SN0020"
+    },
+    {
+      "quote": "I’m just not big on affection",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Emotional Overexposure-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He states the limit in a soft way that sounds self-aware. The line lowers expectations before she can ask for more.",
+      "snippet_id": "S-020-SN0021"
+    },
+    {
+      "quote": "I’m supposed to keep matching his pace",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is already orienting herself around his tempo instead of her own needs. That is how his availability becomes the standard she measures herself against.",
+      "snippet_id": "S-020-SN0022"
+    },
+    {
+      "quote": "if I’m being too needy when I want a little more consistency",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Control-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the emotional payoff of the whole setup: she starts treating a normal desire for steadiness as a personal defect.",
+      "snippet_id": "S-020-SN0023"
+    },
+    {
+      "quote": "Am I overthinking the way he said it?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The closing question stays small on purpose. She is asking about wording, not the structure, which is exactly how the deeper issue stays hidden.",
+      "snippet_id": "S-020-SN0024"
+    }
   ],
+  "validation_warnings": [],
   "repetition_warnings": []
 }

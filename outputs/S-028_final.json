@@ -1,0 +1,491 @@
+{
+  "scenario_id": "S-028",
+  "player_type": "Manipulative Morgan",
+  "scenario": {
+    "scenario_id": "S-028",
+    "architecture_name": "He uses intense care and future-talk to make me feel chosen while quietly training me to center his pace and plans.",
+    "culture": "Chinese American",
+    "demographics": "F/late 20s, Filipino American; M/early 30s, Chinese American; Bay Area tech scene",
+    "cultural_context": "Tech scene, dating/relationship dynamics, Filipino cultural references",
+    "geographic_setting": "Daly City / Bay Area tech environment",
+    "core_behaviors": [
+      "Showering her with highly tailored attention",
+      "Steering affection toward future plans and time access",
+      "Using praise and concern to make her feel lucky and slightly obligated"
+    ],
+    "satellite_signals": "Homemade food, trip-to-Manila talk, schedule-fitting dates, and repeated specialness language all make the relationship feel thoughtful while setting him up as the one who knows best.",
+    "dismissible_red_flags": "At this stage it reads like enthusiasm and care, and his intensity is easy to mistake for being romantic, intentional, and unusually attentive.",
+    "scenario_text": "I met him through friends in Daly City, and he has that calm, polished tech-guy thing that makes everything feel easy. He works in product, knows every good lunch spot, and somehow remembers the tiny stuff, like that I like my coffee less sweet and that my mom always asks about my weekends. Last night he showed up with homemade adobo and said, “I just wanted to share a piece of my world with you.” It was honestly sweet. He keeps doing things like that, the kind of little thoughtful things that make me feel really seen.\n\nHe also talks like we already have a shared calendar. He’ll say, “When we go to Manila, I want you to see the places I love,” or “We should do that once things calm down.” It sounds romantic, and I do like that he thinks ahead. He planned our last two dates around my work schedule, which was nice, except one of them landed on the night I was supposed to see my cousin. When I mentioned it, he just smiled and said he was trying to make things easier for me.\n\nI guess what keeps sticking with me is how quickly he says things like, “You’re so special,” or “I’ve never felt this way before.” It’s flattering, and I’m not mad about it. I just sometimes feel like I’m supposed to match how fast he’s going. He notices when I hesitate, and then he gets even sweeter, like he’s smoothing the moment over before it can become anything. He is really good at making everything feel warm and good, which is probably why I’m even asking this. Do you think I was being weird when I said I wanted to keep my Friday open for my family dinner?"
+  },
+  "snippets": [
+    {
+      "quote": "I met him through friends in Daly City",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the relationship in a specific Bay Area social world and introduces him through a network, which makes his access feel normal and trusted.",
+      "snippet_id": "S-028-SN0001"
+    },
+    {
+      "quote": "that calm, polished tech-guy thing",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is being framed as composed and put-together, which reads as attractive and stable. At the same time, the polish hints that presentation may matter more than depth.",
+      "snippet_id": "S-028-SN0002"
+    },
+    {
+      "quote": "He works in product",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A job like this signals status and fluency in the tech scene. It quietly sets him up as someone with social ease and institutional confidence.",
+      "snippet_id": "S-028-SN0003"
+    },
+    {
+      "quote": "knows every good lunch spot",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds harmless, but it also shows him steering the environment. He is already the one choosing where things happen and how they go.",
+      "snippet_id": "S-028-SN0004"
+    },
+    {
+      "quote": "remembers the tiny stuff",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Remembering details can be sweet, but here it builds a sense that he is unusually tuned in. That makes her feel specially known and easier to move along.",
+      "snippet_id": "S-028-SN0005"
+    },
+    {
+      "quote": "that I like my coffee less sweet",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A tiny preference is the kind of detail that makes someone feel seen. It is affectionate on the surface and helps him seem attentive without yet asking for anything back.",
+      "snippet_id": "S-028-SN0006"
+    },
+    {
+      "quote": "my mom always asks about my weekends",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This family reference grounds her in a relational, family-centered world. It also gives him a small opening into her home life and family rhythm.",
+      "snippet_id": "S-028-SN0007"
+    },
+    {
+      "quote": "he showed up with homemade adobo",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The food is caring and culturally specific, which makes the gesture land hard. He is using intimacy and familiarity to create warmth and a feeling of indebtedness.",
+      "snippet_id": "S-028-SN0008"
+    },
+    {
+      "quote": "share a piece of my world with you",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Enmeshment-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds tender, but it also frames him as the one defining the relationship’s meaning. Her world becomes something he is offering, which subtly centers him.",
+      "snippet_id": "S-028-SN0009"
+    },
+    {
+      "quote": "It was honestly sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is actively soothing herself with positive language. The word choice shows she noticed the gesture’s weight and chose the kinder reading.",
+      "snippet_id": "S-028-SN0010"
+    },
+    {
+      "quote": "we already have a shared calendar",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-low",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the first real sign that he is treating the relationship like a managed system. The shared calendar image suggests he is organizing time as a couple before she has really consented to that pace.",
+      "snippet_id": "S-028-SN0011"
+    },
+    {
+      "quote": "When we go to Manila",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The future trip sounds romantic, but it is also premature certainty. He is speaking in terms of an assumed future together, which pulls her into his timeline.",
+      "snippet_id": "S-028-SN0012"
+    },
+    {
+      "quote": "I want you to see the places I love",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is making affection feel like an itinerary. The sentence sounds generous, but it quietly places him as the guide to what matters.",
+      "snippet_id": "S-028-SN0013"
+    },
+    {
+      "quote": "We should do that once things calm down",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This keeps the future open while still setting the expectation that the future is already theirs. It is a soft way of making plans feel inevitable.",
+      "snippet_id": "S-028-SN0014"
+    },
+    {
+      "quote": "He planned our last two dates around my work schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Planning around her schedule looks considerate, but it also puts him in the role of manager. The care is real, yet it trains her to accept his coordination as the default.",
+      "snippet_id": "S-028-SN0015"
+    },
+    {
+      "quote": "one of them landed on the night I was supposed to see my cousin",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Isolation"
+      ],
+      "reasoning": "This is the clearest early tradeoff. His planning starts to collide with her existing relationships, and the conflict is framed as a scheduling issue instead of a priority shift.",
+      "snippet_id": "S-028-SN0016"
+    },
+    {
+      "quote": "he just smiled and said he was trying to make things easier for me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He does not really address the missed cousin time. Instead he reframes the whole thing as care, which makes it harder for her to object without sounding ungrateful.",
+      "snippet_id": "S-028-SN0017"
+    },
+    {
+      "quote": "You’re so special",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is flattering, but it also places her in the role of the chosen exception. Being singled out like this can make later discomfort feel like she is failing a special bond.",
+      "snippet_id": "S-028-SN0018"
+    },
+    {
+      "quote": "I’ve never felt this way before",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Attachment-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is early, absolute language that moves faster than the relationship itself. It sounds romantic, but it also creates pressure for her to keep pace emotionally.",
+      "snippet_id": "S-028-SN0019"
+    },
+    {
+      "quote": "I’m supposed to match how fast he’s going",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is already feeling the pressure underneath the sweetness. The problem is not his words alone, but the sense that she has to keep up or disappoint him.",
+      "snippet_id": "S-028-SN0020"
+    },
+    {
+      "quote": "He notices when I hesitate",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This shows him tracking her reactions closely. Attention like this can feel caring, but it also gives him leverage over when she pulls back.",
+      "snippet_id": "S-028-SN0021"
+    },
+    {
+      "quote": "he gets even sweeter",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He responds to her hesitation by increasing warmth instead of respecting space. That makes the moment easier to absorb and harder to name as pressure.",
+      "snippet_id": "S-028-SN0022"
+    },
+    {
+      "quote": "Do you think I was being weird",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Accountability-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is minimizing her own boundary by asking whether her preference was odd. The question shows how quickly his pace has become the standard she measures herself against.",
+      "snippet_id": "S-028-SN0023"
+    },
+    {
+      "quote": "I wanted to keep my Friday open for my family dinner",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Isolation"
+      ],
+      "reasoning": "This is the smallest possible concern she can raise, and even that is about family time rather than a direct complaint. It shows the quiet tension between his plans and her existing obligations.",
+      "snippet_id": "S-028-SN0024"
+    }
+  ],
+  "validation_warnings": [
+    "snippet[15]: invalid possible_trauma 'Isolation'",
+    "snippet[23]: invalid possible_trauma 'Isolation'"
+  ],
+  "repetition_warnings": []
+}

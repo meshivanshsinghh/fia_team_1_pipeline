@@ -1,0 +1,472 @@
+{
+  "scenario_id": "S-055",
+  "player_type": "Arrogant Avery",
+  "scenario": {
+    "scenario_id": "S-055",
+    "architecture_name": "He turns her competence and culture into an audience-facing standard, so his praise quietly becomes a way of setting the terms she has to keep meeting.",
+    "culture": "Chinese American",
+    "demographics": "Young adult Asian woman, new to Seattle, receptionist at a small financial consultancy; he is a white American consultant in his early 30s, senior enough to have informal authority.",
+    "cultural_context": "Receptionist at a small financial consultancy; early-career office social sphere",
+    "geographic_setting": "Seattle, urban office environment",
+    "core_behaviors": [
+      "Uses praise to install a role she starts performing",
+      "Frames his corrections as care and clarity",
+      "Treats his read as the objective one and hers as the emotional one",
+      "Turns her small acts of culture into office-wide expectations"
+    ],
+    "satellite_signals": "Chinese American workplace register, immigrant-achievement politeness, office hierarchy, and subtle role-casting around food, competence, and being the ‘helpful’ one.",
+    "dismissible_red_flags": "It mostly sounds like flattering banter and office friendliness. The part that lingers is how quickly his compliments become expectations, but that can still feel normal early on.",
+    "scenario_text": "I’ve only been in Seattle a few months, and I’m still getting used to how quiet people are in the office before coffee. Tom is the one who talks the most. He’s older than me, maybe early thirties, and he has this calm way of saying things like he already knows how they’ll land. On my first week I brought in red bean buns my grandmother taught me to make, just to be nice. He took one and said, “You’re going to spoil us, Mei.” Everyone laughed, and I did too. It was sweet, honestly.\n\nThen he added, “I bet everyone would love it if you did this every week.” Samantha said my snacks were the highlight of the day, which was cute, but I felt that little pause in my stomach. When I said I might bring something different next time, Tom smiled and said, “Careful, we might start calling you the office chef.” He said it like a joke, but he kept looking at me as if he was waiting to see whether I’d be good about it.\n\nAfter that he started asking questions about where my parents are from, whether I speak Mandarin, if I went to Chinese school. Not in a rude way. More like he was collecting the right details. He told me I’m “not like most people here,” which sounded flattering, and then that I’m “really easy to talk to” because I don’t get defensive. I liked that he thinks I’m thoughtful. He also has this way of explaining my own work back to me, like, “No, what you mean is…” and somehow I end up agreeing because he sounds so sure.\n\nMaybe I’m just not used to someone being that direct. He does make things feel clearer. I guess I’m only wondering if I should have laughed less when he called me the office chef. Was that actually cute, or did it sound a little too much like a role?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been in Seattle a few months",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "New-in-town detail. It places her in a socially dependent position without making the scene obviously threatening.",
+      "snippet_id": "S-055-SN0001"
+    },
+    {
+      "quote": "Tom is the one who talks the most",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He occupies conversational space first. That can look like confidence, but it also means he is setting the tone.",
+      "snippet_id": "S-055-SN0002"
+    },
+    {
+      "quote": "older than me, maybe early thirties",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Age and workplace seniority create a soft power gap. She reads him as composed, but he has more authority in the room.",
+      "snippet_id": "S-055-SN0003"
+    },
+    {
+      "quote": "he already knows how they’ll land",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He presents his interpretation as pre-approved reality. That makes her less likely to trust her own reaction.",
+      "snippet_id": "S-055-SN0004"
+    },
+    {
+      "quote": "red bean buns",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a specific Chinese American food reference. It signals her background and that she is offering something personal.",
+      "snippet_id": "S-055-SN0005"
+    },
+    {
+      "quote": "my grandmother taught me to make",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Family transmission is doing the emotional work here. The food is not just food, it is heritage and care.",
+      "snippet_id": "S-055-SN0006"
+    },
+    {
+      "quote": "You’re going to spoil us, Mei",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds flattering, but it starts installing her as the person who provides treats. The compliment also nudges her into a role.",
+      "snippet_id": "S-055-SN0007"
+    },
+    {
+      "quote": "I bet everyone would love it if you did this every week",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "He turns one kind gesture into a recurring expectation. The surface is enthusiasm, but the structure is pressure to keep giving.",
+      "snippet_id": "S-055-SN0008"
+    },
+    {
+      "quote": "my snacks were the highlight of the day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is praise, but it also spotlights her as a source of office enjoyment. That kind of praise can become a job she is expected to keep doing.",
+      "snippet_id": "S-055-SN0009"
+    },
+    {
+      "quote": "the office chef",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "A joke label can be affectionate, but it also narrows her identity to a service role. She is being gently renamed in a way that can stick.",
+      "snippet_id": "S-055-SN0010"
+    },
+    {
+      "quote": "he kept looking at me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The look matters because it shows he is checking whether she accepts the role. It is not overtly bad, just quietly supervisory.",
+      "snippet_id": "S-055-SN0011"
+    },
+    {
+      "quote": "collecting the right details",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is where the scene shifts from friendly curiosity to information-gathering. It feels polite, but the narrator senses he is cataloging her.",
+      "snippet_id": "S-055-SN0012"
+    },
+    {
+      "quote": "where my parents are from",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A standard Chinese American identity probe. In context, it’s also a way of placing her inside a category he can read and use.",
+      "snippet_id": "S-055-SN0013"
+    },
+    {
+      "quote": "whether I speak Mandarin",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a community-specific question that signals he is sorting her background. It sounds normal, but it also marks her as legible to him.",
+      "snippet_id": "S-055-SN0014"
+    },
+    {
+      "quote": "if I went to Chinese school",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is checking cultural transmission, not just making conversation. The question places her inside a family-performance frame.",
+      "snippet_id": "S-055-SN0015"
+    },
+    {
+      "quote": "you’re not like most people here",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is praise through separation. He elevates her by contrasting her with everyone else, which can make her feel chosen and easier to manage.",
+      "snippet_id": "S-055-SN0016"
+    },
+    {
+      "quote": "really easy to talk to",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "It sounds warm, but it also rewards her for being low-friction. That can train her to stay agreeable.",
+      "snippet_id": "S-055-SN0017"
+    },
+    {
+      "quote": "you don’t get defensive",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is praising her for not resisting. That makes disagreement feel like a character flaw rather than a normal response.",
+      "snippet_id": "S-055-SN0018"
+    },
+    {
+      "quote": "explaining my own work back to me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes interpretive authority over her own job. Even if he is helpful, the move quietly puts him in the expert position.",
+      "snippet_id": "S-055-SN0019"
+    },
+    {
+      "quote": "No, what you mean is",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the clearest control line in the scene. He replaces her wording with his, which makes his read feel more real than hers.",
+      "snippet_id": "S-055-SN0020"
+    },
+    {
+      "quote": "he sounds so sure",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Her uncertainty is not about one sentence, it’s about being pulled toward his certainty. She starts treating his confidence as evidence.",
+      "snippet_id": "S-055-SN0021"
+    },
+    {
+      "quote": "Maybe I’m just not used to someone being that direct",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her rationalization. She converts discomfort into a personality mismatch, which keeps the moment small enough to ignore.",
+      "snippet_id": "S-055-SN0022"
+    },
+    {
+      "quote": "he does make things feel clearer",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the hook. Clarity is pleasant here, but it also means he is becoming the person who defines what things mean.",
+      "snippet_id": "S-055-SN0023"
+    },
+    {
+      "quote": "the office chef",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "Repeated at the end, it shows the role has already stuck in her mind. The joke is small, but it is already shaping her place in the office.",
+      "snippet_id": "S-055-SN0024"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

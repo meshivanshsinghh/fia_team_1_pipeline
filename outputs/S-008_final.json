@@ -1,25 +1,471 @@
 {
   "scenario_id": "S-008",
-  "player_type": "Neglectful Nico",
+  "player_type": "Dependent Drew",
   "scenario": {
     "scenario_id": "S-008",
-    "architecture_name": "He uses wellness-spiritual vocabulary and calm self-containment to pre-disqualify her emotional needs as drama, installing a hierarchy where his flatness reads as maturity and her feeling reads as the problem.",
-    "culture": "Wellness-Spiritual",
-    "demographics": "F/late-20s Latina, M/mid-30s, East Los Angeles",
-    "cultural_context": "Dating, romantic relationships, family-oriented values",
-    "geographic_setting": "East Los Angeles, urban",
+    "architecture_name": "He wins trust by adoring her competence and softness, then slowly makes her the place where his decisions, reassurance, and daily functioning live.",
+    "culture": "Polyamorous",
+    "demographics": "F/late 20s, East Los Angeles, dating a man in his early 30s",
+    "cultural_context": "Local festival, rooftop dining, family-oriented dating within a community that values harmony and close family ties",
+    "geographic_setting": "East Los Angeles; urban neighborhood / city environment",
     "core_behaviors": [
-      "Positions his emotional flatness as evolved calm and spiritual maturity",
-      "Praises her for being low-maintenance, quietly training her to suppress needs",
-      "Uses wellness-spiritual vocabulary to pre-frame her feelings as unprocessed trauma or low vibration"
+      "Warm adoration and constant attention make her feel chosen",
+      "He praises her competence while quietly handing off decisions",
+      "He frames dependence as trust, softness, and wanting to be close"
     ],
-    "satellite_signals": "Wellness vocabulary deployed to pathologize her emotional bids; ease-as-compliment loop installing need-suppression; self-contained framing advertising emotional unavailability as health; cool non-response leaving her unsettled but unable to name it.",
-    "dismissible_red_flags": "His calm and low-drama presentation reads as relief after chaotic past relationships; his wellness vocabulary signals self-awareness and emotional intelligence; his praise for her being easygoing feels like a compliment, not a constraint.",
-    "scenario_text": "I've been seeing Mateo for about two months and honestly it's been really good. He's a somatic practitioner out of Topanga Canyon, does breathwork facilitation on weekends, and he's just so grounded. After my last relationship, which was honestly a lot, being with someone this steady feels like I can finally exhale.\n\nHe said something early on that kind of stuck with me. We were at this little vegan spot in Silver Lake and he goes, \"I'm not going to blow up your phone or make everything heavy. I like peaceful people, the kind who don't need everything processed right away.\" I remember feeling so relieved. Like, yes. That's what I want too.\n\nHe tells me I have a calm energy, that I'm not like people who make everything a whole thing. He said it again last week after I mentioned something stressful at work, just kind of smiled and said, \"You handle things so well.\" I glowed a little. I want to keep being that person for him.\n\nThe thing I keep coming back to is this one moment a few weeks ago. I was upset about something with my mom, nothing huge, and I brought it to him. He listened, then said, \"I mean, it'll probably feel different tomorrow. Feelings are fine but they're not facts, you know?\" He wasn't unkind. He was calm. I told myself he's just not a feelings person, that's okay, I'm on my own healing journey anyway.\n\nBut that night I kind of just sat with it alone. And I've noticed I've been editing what I bring to him, keeping things light, not wanting to seem like I'm making everything heavy. My friend Daniela asked if he ever just sits with me in something hard, and I didn't really have an answer.\n\nHe's great though. Really. Is it weird that that one comment has kind of stayed with me?"
+    "satellite_signals": "Polyamorous in-group language stays light and normal, but the relationship is already organized around his need for reassurance, her planning, and his preference to be folded into her time. The charm is real; the imbalance is the seed.",
+    "dismissible_red_flags": "At this stage his neediness can read as devotion, and his constant check-ins can seem romantic. His helpless little jokes sound cute, and she likes feeling useful, so the pattern is easy to excuse as sweetness.",
+    "scenario_text": "I’ve been seeing Drew for about two months, and honestly it’s been really nice. We met through a friend’s rooftop potluck, and he still talks about that night like it was some kind of movie. He’s always saying I’m the most capable person he knows, which is flattering in a way I’m not used to. Last week he brought me tea before I even asked, then laughed and said, “I’m a little lost, but in a hopeful way.” I thought that was kind of adorable.\n\nHe does this thing where he asks my opinion on everything, from where we should eat to whether he should text his roommate back. “You’re so much better with people than I am,” he told me after I answered a work email draft for him. I liked that he trusted me. It felt sweet, not weird.\n\nHe’s also very affectionate. If I’m quiet, he’ll touch my knee and ask, “We good?” in this soft voice, like he really hates the idea of me being upset. Sometimes he says, “I need someone steady around me,” and then looks at me like I’m the answer. I guess it’s nice to feel needed.\n\nA few times now he’s asked if I can help him “just get organized” with bills or appointments, because he says adult stuff feels like a foreign country to him. I don’t mind helping, especially when he acts so grateful about it. He’ll kiss my forehead and say, “You make everything simpler.”\n\nHe’s also been talking a lot about compersion and how he wants to feel it for me, which sounds very poly and open-minded, but sometimes it feels like he’s asking me to manage his feelings for him too. Maybe I’m overthinking it. Is it weird that I liked the sweet part but felt a little responsible after he said, “I need someone steady around me”?"
   },
-  "snippets": [],
-  "validation_warnings": [
-    "CRITICAL: No snippets generated in output"
+  "snippets": [
+    {
+      "quote": "I’ve been seeing Drew for about two months",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A simple timing marker that places this in the early stage. It helps the reader see why the behavior can still pass as cute instead of alarming.",
+      "snippet_id": "S-008-SN0001"
+    },
+    {
+      "quote": "We met through a friend’s rooftop potluck",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is ordinary community texture, but it also locates the relationship in a social, poly-friendly setting where introductions happen through friends and shared events.",
+      "snippet_id": "S-008-SN0002"
+    },
+    {
+      "quote": "he still talks about that night like it was some kind of movie",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is romanticizing the beginning and centering the story as a special event. That kind of heightened framing can feel flattering while also making her feel chosen and memorable.",
+      "snippet_id": "S-008-SN0003"
+    },
+    {
+      "quote": "I’m the most capable person he knows",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This praise is real on the surface, but it also sets her up as the capable one in the pair. Compliments like this can quietly assign her the role of the adult who keeps things moving.",
+      "snippet_id": "S-008-SN0004"
+    },
+    {
+      "quote": "he brought me tea before I even asked",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A small caring gesture, but it works as a bid for closeness and gratitude. Early on, these little acts can make her feel seen and make it harder to notice the growing expectation of care.",
+      "snippet_id": "S-008-SN0005"
+    },
+    {
+      "quote": "I’m a little lost, but in a hopeful way",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds self-aware and endearing, but it also advertises helplessness as part of his identity. He is making lostness cute, which can invite her to become the steadying structure around him.",
+      "snippet_id": "S-008-SN0006"
+    },
+    {
+      "quote": "he asks my opinion on everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the first clear handoff of decision-making. It feels collaborative, but the pattern points toward him outsourcing more and more of his functioning to her judgment.",
+      "snippet_id": "S-008-SN0007"
+    },
+    {
+      "quote": "where we should eat",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "A tiny choice, but it shows how often he wants her to decide for both of them. Small decisions are where dependency starts to look like partnership.",
+      "snippet_id": "S-008-SN0008"
+    },
+    {
+      "quote": "whether he should text his roommate back",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is asking her to manage ordinary adult communication. It reads as trust, but it also hints that his daily life is already becoming her job.",
+      "snippet_id": "S-008-SN0009"
+    },
+    {
+      "quote": "You’re so much better with people than I am",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is admiration, but it also lowers his own standing and elevates hers into a helper role. It quietly makes her the social manager while he stays the one who needs guidance.",
+      "snippet_id": "S-008-SN0010"
+    },
+    {
+      "quote": "I liked that he trusted me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her own interpretation shows the hook working. She experiences the handoff as trust, which makes the responsibility feel flattering instead of heavy.",
+      "snippet_id": "S-008-SN0011"
+    },
+    {
+      "quote": "It felt sweet, not weird",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the narrator smoothing over the imbalance in real time. The line shows how easily she converts a potentially loaded pattern into something harmless.",
+      "snippet_id": "S-008-SN0012"
+    },
+    {
+      "quote": "If I’m quiet",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Quiet becomes a trigger for him, which means her ordinary moods already have to be managed around his reactions. That can start to shrink her room to just be herself.",
+      "snippet_id": "S-008-SN0013"
+    },
+    {
+      "quote": "We good?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a tiny reassurance request, but it carries the expectation that she regulate his emotional state. It sounds tender now and can later become constant monitoring of her moods.",
+      "snippet_id": "S-008-SN0014"
+    },
+    {
+      "quote": "I need someone steady around me",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest seed of the trap. He is casting her as the stabilizer, which turns her presence into a requirement and her absence into a problem.",
+      "snippet_id": "S-008-SN0015"
+    },
+    {
+      "quote": "adult stuff feels like a foreign country to him",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Sense of Self-low",
+        "Neediness-high",
+        "Unorthodoxy-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "That phrase makes incompetence sound charming and almost poetic. It also normalizes the idea that she will interpret, organize, and carry the practical parts of life for both of them.",
+      "snippet_id": "S-008-SN0016"
+    },
+    {
+      "quote": "You make everything simpler",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is affectionate praise, but it also credits her with smoothing over his life. The compliment rewards her for absorbing complexity instead of sharing it.",
+      "snippet_id": "S-008-SN0017"
+    },
+    {
+      "quote": "compersion",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Openness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is in-group poly language, and it shows she is moving in a community where emotional self-management is valued. In context, it can also become a polished way to avoid naming discomfort.",
+      "snippet_id": "S-008-SN0018"
+    },
+    {
+      "quote": "he wants to feel it for me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is asking her to generate the right feeling in him, which shifts emotional labor onto her. It sounds open-minded, but it can become a demand that she manage his inner state.",
+      "snippet_id": "S-008-SN0019"
+    },
+    {
+      "quote": "it feels like he’s asking me to manage his feelings for him too",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She almost names the structure here. The thought is still tentative, but it shows she can feel the burden even while she’s trying to keep the relationship in the good-sounding frame.",
+      "snippet_id": "S-008-SN0020"
+    },
+    {
+      "quote": "I liked the sweet part",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is clearly attached to the warmth and doesn’t want to lose that feeling. This makes the concern smaller, because the good part is real and emotionally useful to her.",
+      "snippet_id": "S-008-SN0021"
+    },
+    {
+      "quote": "felt a little responsible",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the most diagnostic interior note in the whole story. She is already feeling responsible for his emotional state, which is how care starts turning into obligation.",
+      "snippet_id": "S-008-SN0022"
+    },
+    {
+      "quote": "I need someone steady around me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the line that turns affection into a role assignment. He is not just saying he likes her, he is defining what she is for in his life.",
+      "snippet_id": "S-008-SN0023"
+    }
   ],
+  "validation_warnings": [],
   "repetition_warnings": []
 }

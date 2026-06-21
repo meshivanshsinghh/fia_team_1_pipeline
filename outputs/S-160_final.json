@@ -1,0 +1,474 @@
+{
+  "scenario_id": "S-160",
+  "player_type": "Charming Charlie",
+  "scenario": {
+    "scenario_id": "S-160",
+    "architecture_name": "He uses electric, total-present attention to make me feel chosen now, while quietly training me to accept that his feelings set the pace and the future stays optional.",
+    "culture": "Polyamorous",
+    "demographics": "F/29, M/31, urban East Boston",
+    "cultural_context": "Romantic dating context with references to artisan markets, neighborhood exploration, and document organization; socially embedded in a multicultural urban community",
+    "geographic_setting": "East Boston, urban neighborhood setting with cultural diversity and immigrant-community feel",
+    "core_behaviors": [
+      "Floods me with total attention and makes ordinary moments feel rare",
+      "Uses spontaneous intensity as proof of real connection",
+      "Pre-frames future cooling as just how he is",
+      "Offers help and closeness that create gratitude and a soft obligation"
+    ],
+    "satellite_signals": "Polyamorous in-group language sits under the romance, with a lot of present-tense chemistry talk, fast intimacy, and a faint setup for future flexibility. The gestures look sweet, but they also make me the one absorbing his pace and his rules.",
+    "dismissible_red_flags": "He comes off as charming, spontaneous, and very into me. The intense attention feels flattering, and even the slightly bossy bits can sound like confidence or playfulness this early.",
+    "scenario_text": "I met him at a little place near Maverick, after one of those rainy nights when East Boston feels almost cinematic. He was already talking to the bartender like he belonged there, and when he turned to me it was like the whole room got quieter. He said, “Come sit with me, I want to actually look at you.” It was cheesy, honestly, but sweet in the moment.\n\nBy the time we were on our second drink, he had my hand in his and was pressing it to his chest, laughing that I could probably feel how hard his heart was going. “That’s what you do to me,” he said, like it was the most natural thing in the world. Then he told me he was “not a planner, more of a feeler,” which should have sounded like a warning, but mostly just sounded free.\n\nHe kept saying things like “I’m not built for lukewarm anything” and “I make memories, that’s my thing.” I liked that he didn’t feel boring. He asked about my apartment, my work, my weird little habits, and somehow remembered my coffee order before I even finished saying it. He also said, very casually, “I’m probably going to text you a lot. I just don’t see the point in playing games.”\n\nThe part that stuck with me was when he said, “I burn hot. If I need to come up for air sometimes, don’t read into it.” He said it smiling, like he was being honest with me. I told myself that was actually refreshing, because at least he was upfront.\n\nHe’s been so present and intense that I feel kind of ridiculous admitting this, but I keep thinking about how good it felt when he said he was “all in” on me. Is it weird that I liked that he warned me he runs hot and might need space sometimes?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-160-SN0001",
+      "snippet_text": "I met him at a little place near Maverick",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Locates the scene in East Boston and gives it a neighborhood feel. It is mostly setting, but it also signals a real social world instead of a generic date."
+    },
+    {
+      "snippet_id": "S-160-SN0002",
+      "snippet_text": "East Boston feels almost cinematic",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already speaking in his romance register. Calling the night cinematic makes the moment feel special and story-like, which helps the intensity land as charm rather than pressure."
+    },
+    {
+      "snippet_id": "S-160-SN0003",
+      "snippet_text": "he belonged there",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He moves with easy social fluency, like he knows the room and the room knows him. That kind of belonging can be attractive, but it also gives him the advantage of setting the tone before she even settles in."
+    },
+    {
+      "snippet_id": "S-160-SN0004",
+      "snippet_text": "the whole room got quieter",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is total-presence seduction. He makes her feel singular by acting as if everything else disappears, which is flattering now and sets up a high she will want to keep chasing."
+    },
+    {
+      "snippet_id": "S-160-SN0005",
+      "snippet_text": "Come sit with me, I want to actually look at you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The line sounds intimate, but it also directs her body and attention. He frames the command as longing, which makes compliance feel like a compliment instead of a request."
+    },
+    {
+      "snippet_id": "S-160-SN0006",
+      "snippet_text": "It was cheesy, honestly, but sweet in the moment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices the performance, then smooths it over. That little rationalization matters because it shows she can feel the scriptiness and still decide to read it as harmless romance."
+    },
+    {
+      "snippet_id": "S-160-SN0007",
+      "snippet_text": "my hand in his",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The touch itself is not the issue. The structure is that he keeps the interaction physically centered on him, which is a soft way of steering closeness and pace."
+    },
+    {
+      "snippet_id": "S-160-SN0008",
+      "snippet_text": "pressed it to his chest",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He turns her touch into proof of his own feeling. That makes her the witness to his intensity, which is intoxicating and also quietly recruits her into managing the emotional charge."
+    },
+    {
+      "snippet_id": "S-160-SN0009",
+      "snippet_text": "That’s what you do to me",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He casts her as the cause of his bodily reaction, which is flattering and binding. It makes her feel powerful, but it also makes his intensity seem like something she now has to feed."
+    },
+    {
+      "snippet_id": "S-160-SN0010",
+      "snippet_text": "I’m not a planner, more of a feeler",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This sounds playful and self-aware, but it also announces that feeling outranks planning. In a honeymoon phase that can read as free-spirited, while quietly warning that steadiness may not be his thing."
+    },
+    {
+      "snippet_id": "S-160-SN0011",
+      "snippet_text": "I’m not built for lukewarm anything",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is selling intensity as a core identity. That makes him sound passionate and exciting, but it also sets a standard where ordinary steadiness will later feel like failure."
+    },
+    {
+      "snippet_id": "S-160-SN0012",
+      "snippet_text": "I make memories, that’s my thing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is polished self-branding. He is telling her he knows how to create moments, which feels romantic, but it also hints that the emphasis is on impact rather than follow-through."
+    },
+    {
+      "snippet_id": "S-160-SN0013",
+      "snippet_text": "He asked about my apartment, my work, my weird little habits",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is collecting details quickly and making that attention feel personal. Early on that can feel deeply flattering, but it also helps him build a tailored version of closeness fast."
+    },
+    {
+      "snippet_id": "S-160-SN0014",
+      "snippet_text": "remembered my coffee order",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Remembering small things is the kind of detail that wins trust. In this context it also shows how efficiently he turns observation into attachment, which is part of what makes him hard to resist."
+    },
+    {
+      "snippet_id": "S-160-SN0015",
+      "snippet_text": "I’m probably going to text you a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds sweet and direct, but it also sets a high-contact baseline immediately. She may hear enthusiasm, while the structure is that he is normalizing frequent access to her attention."
+    },
+    {
+      "snippet_id": "S-160-SN0016",
+      "snippet_text": "I just don’t see the point in playing games",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is one of those phrases that sounds honest while quietly making his style morally superior. It lets him frame any later complaint as game-playing instead of a reasonable boundary."
+    },
+    {
+      "snippet_id": "S-160-SN0017",
+      "snippet_text": "I burn hot",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Impulsivity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the clearest pre-excuse in the scene. It sounds like self-knowledge, but it also prepares her to accept future volatility as natural instead of as something she is allowed to question."
+    },
+    {
+      "snippet_id": "S-160-SN0018",
+      "snippet_text": "If I need to come up for air sometimes",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is already naming withdrawal as inevitable and normal. The wording is gentle, but it quietly teaches her that his distance should be treated as a fact of nature, not a relational problem."
+    },
+    {
+      "snippet_id": "S-160-SN0019",
+      "snippet_text": "don’t read into it",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This closes off interpretation before anything has even happened. It sounds casual, but it tells her in advance that her reaction to his future distance will be the thing under scrutiny."
+    },
+    {
+      "snippet_id": "S-160-SN0020",
+      "snippet_text": "he was being honest with me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She reaches for honesty as the reassuring explanation. That is the interesting part, because it shows how easily his self-description can override the small warning in the wording."
+    },
+    {
+      "snippet_id": "S-160-SN0021",
+      "snippet_text": "He’s been so present and intense",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the emotional payoff she is enjoying. It also shows the core hook of the relationship so far, which is that his presence feels overwhelming enough to crowd out caution."
+    },
+    {
+      "snippet_id": "S-160-SN0022",
+      "snippet_text": "I was all in",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds like commitment, but it is really a feeling-state. He is using totalness as proof of sincerity, which makes the bond feel special while leaving plenty of room for future withdrawal."
+    },
+    {
+      "snippet_id": "S-160-SN0023",
+      "snippet_text": "he runs hot and might need space sometimes",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She has already absorbed his warning and is trying to make it sound reasonable. That matters because the scene ends with her adjusting to his rhythm instead of asking whether his rhythm works for her."
+    },
+    {
+      "snippet_id": "S-160-SN0024",
+      "snippet_text": "Is it weird that I liked that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the smallest possible concern, which is exactly why it works. She is not asking whether he is manipulative, only whether liking the warning makes her odd, which shows how much she is already normalizing his frame."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

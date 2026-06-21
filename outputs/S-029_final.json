@@ -1,0 +1,456 @@
+{
+  "scenario_id": "S-029",
+  "player_type": "Menacing Marley",
+  "scenario": {
+    "scenario_id": "S-029",
+    "architecture_name": "He uses romantic intensity and protective masculinity to normalize daily access, then turns that access into authority over her time, movement, and attention.",
+    "culture": "Modern Orthodox Jewish",
+    "demographics": "Young Orthodox Jewish woman, dating a young Orthodox Jewish man in Brooklyn",
+    "cultural_context": "Orthodox Jewish community with dating/marriage and financial readiness norms; artist/socially creative circle",
+    "geographic_setting": "Brooklyn, New York City",
+    "core_behaviors": [
+      "Constant contact framed as devotion",
+      "Protective language that quietly manages her movements",
+      "Future-talk that installs his authority as romantic seriousness",
+      "Attention and jealousy presented as proof of care"
+    ],
+    "satellite_signals": "Orthodox dating norms, Brooklyn community references, kosher and shul-adjacent language, artist-couple future talk, and the sense that being chosen means being available.",
+    "dismissible_red_flags": "At this stage it mostly reads as intense, sweet, and a little fast. His checking in can seem like genuine interest, and his protectiveness can feel flattering in a community where seriousness and readiness matter.",
+    "scenario_text": "I’ve been seeing Ari for just a couple of weeks, and honestly it’s been kind of sweet. We’re both from Brooklyn, so there’s already this feeling like people are watching whether a thing is headed somewhere real, not just fun. He’s an artist, which I like, because he notices little things. He drew me this small sketch after our second coffee and said, “I want to give you something unique, like you.” That made me blush, not gonna lie.\n\nHe texts a lot, though. Like, a lot. Morning. What’s your day looking like? Just thinking about you. Send me a pic of where you’re at. If I go quiet for a few hours, he’ll ask, “You went quiet on me earlier. Everything okay?” He says he’s just a simple guy, and that if he texts someone he cares about, he likes to hear back. That’s all. I get that. Orthodox dating is supposed to be intentional, and he really does seem intentional.\n\nThe other night he said, “I’ll drive you. I don’t love the idea of you out on your own that late.” I told him I was fine, and he just smiled and said, “I’m just a really passionate man. When I care about someone, I care all the way.” It sounded romantic, actually. He’s also always talking about the future, like I should manage the finances when he makes it big, and he keeps saying he’s “protective” because he doesn’t like other guys getting too friendly with me.\n\nI don’t know, maybe I’m overthinking it, but sometimes I feel like I’m already being folded into his life before I’ve even finished my own thoughts. Is it weird that the texting feels a little much?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been seeing Ari for just a couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Early-stage relationship framing. It sets the timeline and keeps the concern small, which makes the later pressure feel easy to excuse as newness.",
+      "snippet_id": "S-029-SN0001"
+    },
+    {
+      "quote": "kind of sweet",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her own word choice shows she’s absorbed the good version of the behavior. The phrase is affectionate, but it also signals she is smoothing over discomfort with sweetness.",
+      "snippet_id": "S-029-SN0002"
+    },
+    {
+      "quote": "We’re both from Brooklyn",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A plain community marker. It locates them inside a local Orthodox dating world where seriousness, visibility, and family knowledge already matter.",
+      "snippet_id": "S-029-SN0003"
+    },
+    {
+      "quote": "people are watching whether a thing is headed somewhere real",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This points to community pressure around marriage-minded dating. The surface is ordinary, but it creates a setting where his intensity can look like proper seriousness and her hesitation can feel publicly wrong.",
+      "snippet_id": "S-029-SN0004"
+    },
+    {
+      "quote": "He’s an artist",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Unorthodoxy-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A class and subculture marker. In this setting it also helps explain why he speaks in creative, identity-heavy language that feels romantic before it becomes possessive.",
+      "snippet_id": "S-029-SN0005"
+    },
+    {
+      "quote": "He drew me this small sketch",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A personalized gift creates emotional debt. It’s sweet, but it also starts the pattern where he gives in a way that asks for access and gratitude back.",
+      "snippet_id": "S-029-SN0006"
+    },
+    {
+      "quote": "I want to give you something unique, like you",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This sounds flattering, but it places her in a special category he gets to define. The compliment is also a claim of interpretive authority over who she is.",
+      "snippet_id": "S-029-SN0007"
+    },
+    {
+      "quote": "Morning. What’s your day looking like?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "On its face this is warm and attentive. In context, it establishes daily contact as the norm, which can quietly become an expectation she has to meet.",
+      "snippet_id": "S-029-SN0008"
+    },
+    {
+      "quote": "Just thinking about you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Romantic on the surface, but it signals constant mental presence and a fast emotional tether. It’s the kind of line that feels flattering while also speeding up dependence.",
+      "snippet_id": "S-029-SN0009"
+    },
+    {
+      "quote": "Send me a pic of where you’re at",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a small monitoring request dressed up as interest. The power piece is that she is being asked to report her location as part of romance, which normalizes surveillance early.",
+      "snippet_id": "S-029-SN0010"
+    },
+    {
+      "quote": "You went quiet on me earlier",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Control-high",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He turns a normal gap in texting into a relational event she has to answer for. The phrase creates a little guilt and teaches her that silence now has consequences.",
+      "snippet_id": "S-029-SN0011"
+    },
+    {
+      "quote": "If I text someone I care about, I like to hear back",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-low",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds reasonable and even respectful, but he is defining the rule and making it sound universal. Her autonomy gets recast as a matter of manners.",
+      "snippet_id": "S-029-SN0012"
+    },
+    {
+      "quote": "Orthodox dating is supposed to be intentional",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This uses the community’s seriousness as cover. In a marriage-minded register, his constant contact can look like virtue rather than pressure, and her discomfort can feel like she’s resisting proper intention.",
+      "snippet_id": "S-029-SN0013"
+    },
+    {
+      "quote": "I’ll drive you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A caring offer, but it puts him in charge of movement. The structure is simple: he decides the transportation, and she goes along with his plan.",
+      "snippet_id": "S-029-SN0014"
+    },
+    {
+      "quote": "I don’t love the idea of you out on your own that late",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Protection language is doing the work of restriction. He frames her independent movement as a problem and positions himself as the one who gets to judge what is safe.",
+      "snippet_id": "S-029-SN0015"
+    },
+    {
+      "quote": "I’m just a really passionate man",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Dysregulation-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Psychopathy / Terror"
+      ],
+      "reasoning": "This is a self-description that makes volatility sound like character. It invites her to treat intensity as a fixed trait she should accommodate rather than a behavior he should regulate.",
+      "snippet_id": "S-029-SN0016"
+    },
+    {
+      "quote": "When I care about someone, I care all the way",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Intensity-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the romantic version of total access. It sounds devoted, but it also leaves little room for separate space, slower pacing, or disagreement without it feeling like rejection.",
+      "snippet_id": "S-029-SN0017"
+    },
+    {
+      "quote": "manage the finances when he makes it big",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Future talk sounds playful, but it assigns her a role in a life he is already scripting. The money joke also hints that he expects her to fit into his imagined success story.",
+      "snippet_id": "S-029-SN0018"
+    },
+    {
+      "quote": "he keeps saying he’s “protective”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Protective is the approved word, but it can cover possessiveness. The quote shows him naming the frame himself, which is often how control enters without sounding controlling.",
+      "snippet_id": "S-029-SN0019"
+    },
+    {
+      "quote": "I don’t like other guys getting too friendly with me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Jealousy is being presented as care. The phrase narrows her social world by making ordinary attention from other men feel like a problem he gets to manage.",
+      "snippet_id": "S-029-SN0020"
+    },
+    {
+      "quote": "I already being folded into his life",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the narrator’s own unease breaking through. She hasn’t named a problem, but she can feel the speed of being absorbed into his plans before she has chosen them.",
+      "snippet_id": "S-029-SN0021"
+    },
+    {
+      "quote": "Is it weird that the texting feels a little much?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She’s asking about the smallest visible thing, not the bigger pattern. That keeps the concern socially acceptable while still showing she has noticed the pressure.",
+      "snippet_id": "S-029-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

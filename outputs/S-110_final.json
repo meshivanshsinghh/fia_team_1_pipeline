@@ -1,0 +1,457 @@
+{
+  "scenario_id": "S-110",
+  "player_type": "Conspiratorial Corey",
+  "scenario": {
+    "scenario_id": "S-110",
+    "architecture_name": "He uses intense certainty and protective attention to make me feel chosen, then quietly teaches me to trust his read over my own and shrink my world around us.",
+    "culture": "Chinese American",
+    "demographics": "F/late 20s, Chinese American; M/early 30s, Chinese American",
+    "cultural_context": "Urban dating / relationship sphere, likely Asian American social context",
+    "geographic_setting": "Flushing Meadows Park, Queens, New York City; urban public park / restaurant date setting",
+    "core_behaviors": [
+      "Magical certainty about the relationship",
+      "Protective attention that feels flattering at first",
+      "Early jealousy framed as care",
+      "Subtle pressure to trust his judgment over mine",
+      "Private-world talk that starts to narrow my circle"
+    ],
+    "satellite_signals": "Chinese American status cues, Flushing Meadows Park date, family and face language, and the intimacy of being treated as the exception all make the dynamic feel culturally legible and romantic.",
+    "dismissible_red_flags": "He is mostly sweet and excited, and the comments about other people can read like protective banter or just being really into me.",
+    "scenario_text": "I met Ming last month, and honestly it has been kind of sweet. He took me to Flushing Meadows Park on a Saturday, brought tea and those sesame cookies my mom likes, and kept saying he remembered the little things because they matter. That part felt nice. He also asked where my parents are from, what dialect we speak, and whether I went to Chinese school, which seemed normal enough, like he was trying to understand my world, not just mine but the whole family thing too.\n\nWhat I keep thinking about, though, is how certain he is. He says stuff like, “I can tell when someone is fake,” and “You don’t have to figure people out, I’ll tell you who’s safe.” At first I found that reassuring, because I do tend to give people the benefit of the doubt. He kept saying I’m different from most girls, that I’m too kind to notice snakes, and I guess it made me feel special, like he was protecting something good in me.\n\nHe’s also very intense in this way that is hard to explain. If I mention a friend, he’ll ask a few more questions than I expect, then say, “I’m not saying don’t trust her, I’m just saying notice.” He laughs when he says it, so I laugh too. And he keeps talking about us being “just us,” like a small circle you can count on, which sounds romantic when he says it. I do like that he texts back fast and remembers everything, even what I wore to dinner.\n\nI’m probably overthinking because he really has been so thoughtful. It’s just that I’ve started catching myself giving him the first read on people before I answer, and that feels a little weird. Is it normal that I’m noticing how much I’m starting to defer to his judgment about everyone?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Ming last month",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple relationship placement and a Chinese American name. It grounds the scene in a specific community without doing much by itself.",
+      "snippet_id": "S-110-SN0001"
+    },
+    {
+      "quote": "Flushing Meadows Park",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A specific Queens date setting. It signals urban Asian American life and gives the scene a real place instead of a generic restaurant.",
+      "snippet_id": "S-110-SN0002"
+    },
+    {
+      "quote": "brought tea and those sesame cookies",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A thoughtful gesture, but it is also a way of curating the date around what he already knows she likes. It creates warmth and debt at the same time.",
+      "snippet_id": "S-110-SN0003"
+    },
+    {
+      "quote": "he remembered the little things because they matter",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds sweet, but it also sets up his attention as proof of specialness. She starts to feel valued for being closely watched and remembered.",
+      "snippet_id": "S-110-SN0004"
+    },
+    {
+      "quote": "where my parents are from",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A standard identity probe in Chinese American dating. It marks him as someone who is sorting her by family background and origin.",
+      "snippet_id": "S-110-SN0005"
+    },
+    {
+      "quote": "what dialect we speak",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a culturally specific question that signals insider knowledge and class/origin sorting. It feels normal in context but also establishes scrutiny.",
+      "snippet_id": "S-110-SN0006"
+    },
+    {
+      "quote": "whether I went to Chinese school",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A common Chinese American cultural-transmission marker. It helps locate her generation and how much family investment she had.",
+      "snippet_id": "S-110-SN0007"
+    },
+    {
+      "quote": "trying to understand my world",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This frames his probing as care. The surface is curiosity, but the structure is that he gets to define what counts as understanding her.",
+      "snippet_id": "S-110-SN0008"
+    },
+    {
+      "quote": "I can tell when someone is fake",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Cognitive Flexibility-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He presents himself as a superior judge of character. That can feel impressive early on, but it invites her to treat his impressions as more reliable than her own.",
+      "snippet_id": "S-110-SN0009"
+    },
+    {
+      "quote": "You don’t have to figure people out",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He offers to take over interpretation for her. It sounds protective, but it quietly shifts authority over other people from her to him.",
+      "snippet_id": "S-110-SN0010"
+    },
+    {
+      "quote": "I’ll tell you who’s safe",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest version of him installing himself as the filter between her and everyone else. It feels reassuring now, but it creates dependence on his judgment.",
+      "snippet_id": "S-110-SN0011"
+    },
+    {
+      "quote": "You’re different from most girls",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "An elevating compliment that separates her from other women. It flatters her, but it also makes approval depend on staying the exception.",
+      "snippet_id": "S-110-SN0012"
+    },
+    {
+      "quote": "too kind to notice snakes",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He casts her goodness as a weakness and his suspicion as wisdom. That makes her more likely to defer to his reads and less likely to trust her own.",
+      "snippet_id": "S-110-SN0013"
+    },
+    {
+      "quote": "I’m not saying don’t trust her, I’m just saying notice",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is a soft directive dressed as caution. He is not openly forbidding the friend, but he is planting doubt and asking her to borrow his suspicion.",
+      "snippet_id": "S-110-SN0014"
+    },
+    {
+      "quote": "He laughs when he says it, so I laugh too",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her laughter is a compliance signal. She is adjusting herself to his tone instead of checking whether the comment actually sat right with her.",
+      "snippet_id": "S-110-SN0015"
+    },
+    {
+      "quote": "just us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This phrase sounds romantic, but it also narrows the relationship into a sealed unit. It starts to make outside people feel like interference instead of support.",
+      "snippet_id": "S-110-SN0016"
+    },
+    {
+      "quote": "a small circle you can count on",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The language of a tight circle can feel cozy, but it also normalizes shrinking the social world. The smaller the circle, the easier it is for him to become the center of it.",
+      "snippet_id": "S-110-SN0017"
+    },
+    {
+      "quote": "he texts back fast",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Fast replies are flattering in early dating and can feel like devotion. Here it also helps create a rhythm where she gets used to his constant presence.",
+      "snippet_id": "S-110-SN0018"
+    },
+    {
+      "quote": "remembers everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Memory can be caring, but in this context it also reads as tracking. She starts to feel the pressure of being consistently known and monitored.",
+      "snippet_id": "S-110-SN0019"
+    },
+    {
+      "quote": "what I wore to dinner",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Noticing clothing is intimate and flattering, but it also shows how closely he is storing details about her presentation. That can become a form of surveillance.",
+      "snippet_id": "S-110-SN0020"
+    },
+    {
+      "quote": "I’ve started catching myself giving him the first read on people",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior shift. She is beginning to outsource her judgment to him before she even answers, which is how his authority starts to harden.",
+      "snippet_id": "S-110-SN0021"
+    },
+    {
+      "quote": "defer to his judgment about everyone",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This line shows the end point of the earlier comments. His read is becoming the default, and that makes her own perspective feel secondary.",
+      "snippet_id": "S-110-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

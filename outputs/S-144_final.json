@@ -1,0 +1,484 @@
+{
+  "scenario_id": "S-144",
+  "player_type": "Conspiratorial Corey",
+  "scenario": {
+    "scenario_id": "S-144",
+    "architecture_name": "He turns early devotion and “special insight” into a private world where her outside ties start to feel unnecessary and slightly suspect.",
+    "culture": "Polyamorous",
+    "demographics": "Adult woman, likely Latina/Cuban; newly dating an adult Cuban-American man",
+    "cultural_context": "Teaching job; Cuban-American social milieu; urban dating/upper-middle-class social sphere",
+    "geographic_setting": "Miami, especially downtown/rooftop urban setting; moved from Havana",
+    "core_behaviors": [
+      "Builds a private two-person world through romance and certainty",
+      "Frames his suspicion as protection and discernment",
+      "Uses intensity and constant contact to make her feel chosen and responsible for his trust"
+    ],
+    "satellite_signals": "Miami rooftop dating, Cuban-American social fluency, polyamorous register about privacy and agreements, constant texting, protective curiosity about her friends, and a gentle us-against-the-world tone that feels flattering at first.",
+    "dismissible_red_flags": "He is mostly sweet, attentive, and impressive, so the odd part can seem like normal early intensity. His questions about friends and plans can read as caring curiosity, and his certainty about the connection sounds romantic rather than controlling.",
+    "scenario_text": "I moved from Havana to Miami for my teaching job, and a couple of weeks ago I started seeing Carlos. He’s Cuban-American, from one of those polished Miami families that knows every rooftop host in town, and he’s been so easy to be around. He plans these little surprises, like the dinner downtown last night, and he kept saying I didn’t have to worry about anything. I like that he pays attention. He remembers tiny things I mention, like my students and the bakery I miss near my old apartment, and then he brings them up later like they matter. It feels sweet, honestly. A little intense, but sweet.\n\nWhat’s been sitting with me is how he talks about us like we’re already a kind of private little world. He said, “I don’t want to poke holes in a good thing,” and then laughed and kissed my hand. He also keeps saying the outside world is full of fake people, which sounds dramatic, but he says it so calmly that I almost believe him. The other night he told me, “You’re not like those girls who need attention,” and I knew he meant it as a compliment, even if it landed weird.\n\nHe texts a lot, always asking where I am, what I’m doing, who I’m with. When I mentioned dinner with two friends from work, he got quiet and said, “I thought we’d spend the day together.” Not angry, just hurt, like I’d missed something obvious. I ended up feeling a little guilty and telling him I’d make it up to him. He says I’m the only person he can really be open with, and that he trusts me more than anyone, which is flattering and kind of heavy. I guess I like feeling chosen, but I’m wondering if I’m reading too much into one comment. Do you think I was being too sensitive about the joke?"
+  },
+  "snippets": [
+    {
+      "quote": "I moved from Havana to Miami for my teaching job",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places her socially and geographically, and it also quietly sets up a mobility and class gap. She has relocated for work, which makes his local fluency and ease in Miami feel more significant.",
+      "snippet_id": "S-144-SN0001"
+    },
+    {
+      "quote": "a couple of weeks ago I started seeing Carlos",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple relationship timing, but it matters because the intensity is arriving very early. The newness makes his certainty and attachment feel romantic instead of alarming.",
+      "snippet_id": "S-144-SN0002"
+    },
+    {
+      "quote": "He’s Cuban-American",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a straightforward identity marker that locates him inside the same Miami Cuban social world she is entering.",
+      "snippet_id": "S-144-SN0003"
+    },
+    {
+      "quote": "from one of those polished Miami families",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "That family description signals status and social polish. It also hints that he knows how to move comfortably in a higher-status world, which can make her feel lucky to be included.",
+      "snippet_id": "S-144-SN0004"
+    },
+    {
+      "quote": "he’s been so easy to be around",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Charm-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds like a compliment, but in context it also marks low friction as a virtue. Early calm can later become emotional flatness dressed up as being easygoing.",
+      "snippet_id": "S-144-SN0005"
+    },
+    {
+      "quote": "He plans these little surprises",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Planning the dates is fine on its own, but it also means he is setting the frame and moving her through it. The surprise is pleasant while still putting him in charge.",
+      "snippet_id": "S-144-SN0006"
+    },
+    {
+      "quote": "he kept saying I didn’t have to worry about anything",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is care language, but it also places him in the role of manager and protector. It sounds generous while quietly making her less active in the scene.",
+      "snippet_id": "S-144-SN0007"
+    },
+    {
+      "quote": "He remembers tiny things I mention",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Close attention can feel lovely early on. Here it also suggests he is tracking her very closely, which creates emotional pressure because she feels seen in a way that is hard to refuse.",
+      "snippet_id": "S-144-SN0008"
+    },
+    {
+      "quote": "like they matter",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the narrator absorbing his attention as proof of value. The line shows how quickly his noticing becomes emotional leverage.",
+      "snippet_id": "S-144-SN0009"
+    },
+    {
+      "quote": "It feels sweet, honestly",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her word choice shows she is smoothing over the intensity rather than questioning it. ‘Sweet’ becomes the category-collapse word that lets her keep the moment positive.",
+      "snippet_id": "S-144-SN0010"
+    },
+    {
+      "quote": "we’re already a kind of private little world",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is romantic on the surface, but it also sets up a sealed-off couple identity. The relationship becomes a separate world, which makes outside ties feel less necessary.",
+      "snippet_id": "S-144-SN0011"
+    },
+    {
+      "quote": "I don’t want to poke holes in a good thing",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He frames doubt as something destructive rather than useful. That makes her less likely to question him, because asking practical questions starts to feel like ruining something good.",
+      "snippet_id": "S-144-SN0012"
+    },
+    {
+      "quote": "the outside world is full of fake people",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Isolation-high",
+        "Unorthodoxy-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is classic suspicion dressed as wisdom. If the outside world is fake, then his version of reality becomes the only one that feels safe or trustworthy.",
+      "snippet_id": "S-144-SN0013"
+    },
+    {
+      "quote": "You’re not like those girls who need attention",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is an elevating insult. He rewards her by distancing her from other women, which can make her feel special while quietly teaching her to accept his categories.",
+      "snippet_id": "S-144-SN0014"
+    },
+    {
+      "quote": "He texts a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent texting can be normal early on, but here it also shows how quickly he is occupying her attention. The pace creates closeness and expectation at the same time.",
+      "snippet_id": "S-144-SN0015"
+    },
+    {
+      "quote": "always asking where I am, what I’m doing, who I’m with",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest control seed. It sounds like interest, but it also normalizes monitoring her movements and social contact.",
+      "snippet_id": "S-144-SN0016"
+    },
+    {
+      "quote": "I thought we’d spend the day together",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Conflict-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He doesn’t directly forbid her plans, but he reframes them as a personal injury to him. That makes her responsible for managing his disappointment.",
+      "snippet_id": "S-144-SN0017"
+    },
+    {
+      "quote": "Not angry, just hurt",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is already doing the emotional translation for him. The hurt feels softer than anger, which makes it easier for her to comply and soothe him.",
+      "snippet_id": "S-144-SN0018"
+    },
+    {
+      "quote": "I ended up feeling a little guilty",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the key interior shift. His disappointment becomes her responsibility, which is how the pressure starts to work without an overt demand.",
+      "snippet_id": "S-144-SN0019"
+    },
+    {
+      "quote": "I’d make it up to him",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a small promise, but it shows the debt feeling forming. She is already moving into repair mode to keep his mood steady.",
+      "snippet_id": "S-144-SN0020"
+    },
+    {
+      "quote": "the only person he can really be open with",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-low",
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is installing her as his sole emotional outlet. That sounds intimate, but it also makes her responsible for carrying more of him than a new relationship should.",
+      "snippet_id": "S-144-SN0021"
+    },
+    {
+      "quote": "he trusts me more than anyone",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the reward side of the trap. Being his exceptional exception feels flattering, and it gives her a reason to keep proving she deserves that status.",
+      "snippet_id": "S-144-SN0022"
+    },
+    {
+      "quote": "I like feeling chosen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She names the emotional payoff directly. That feeling is real, and it also explains why she is willing to overlook the small discomforts.",
+      "snippet_id": "S-144-SN0023"
+    },
+    {
+      "quote": "Am I being too sensitive about the joke?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The closing question keeps the concern small, which is exactly how she is experiencing it. She is asking about tone, not the larger pattern underneath it.",
+      "snippet_id": "S-144-SN0024"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

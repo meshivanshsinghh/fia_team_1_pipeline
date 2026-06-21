@@ -1,0 +1,433 @@
+{
+  "scenario_id": "S-045",
+  "player_type": "Manipulative Morgan",
+  "scenario": {
+    "scenario_id": "S-045",
+    "architecture_name": "He uses polyamorous language and early devotion to make access feel like consent, then turns her questions into evidence that she is the problem.",
+    "culture": "Polyamorous",
+    "demographics": "F/27 South Asian woman, M/31 white man",
+    "cultural_context": "Early-stage dating / romantic relationship in an urban social circle with friends, cousins, and coworkers",
+    "geographic_setting": "Chicago, urban city setting",
+    "core_behaviors": [
+      "Fast intimacy and future-feel without real reciprocity",
+      "Uses poly language to pre-frame her discomfort as jealousy or conditioning",
+      "Creates small debts through favors, driving, and social insertion"
+    ],
+    "satellite_signals": "Charm and intensity are doing the front-end work, but the deeper pattern is selective vulnerability, instrumental care, and a quiet push to make her accept his frame for reality.",
+    "dismissible_red_flags": "At this stage it mostly reads as exciting and unusually attentive. The only off note is how quickly he turns every small concern into a conversation about her reaction instead of his behavior.",
+    "scenario_text": "I’ve been seeing Morgan for just over a month, and most of it has been really sweet. He’s the kind of guy who texts me good morning before I’ve even had coffee, then sends some ridiculous meme at night like he’s trying to bookend my whole day. Last week he took me up to this rooftop place near the river and said, “I just want to see that smile on your face.” I mean, who complains about that? It was beautiful, and I felt kind of lucky.\n\nHe keeps saying he wants to know my whole world. He asked about my cousins, my coworkers, even which friend I’d bring to a state-of-the-union conversation if we ever had one. I thought it was thoughtful, honestly. He also says things like, “Jealousy is just information,” which sounds very poly and mature, and I’ve been trying to be open-minded about that stuff.\n\nThe small thing that’s been sitting with me is that he keeps driving me everywhere. He says it’s because he likes more time together, and he really does make it feel easy. But he’s also the one picking the restaurant, the route, the music, all of it. When I mentioned maybe taking my own car to brunch with my cousin, he laughed and said, “Why would you make it less fun?” Then later he said, “I’m only seeing you right now,” in this very calm voice, like that was supposed to settle me.\n\nHe’s not mean, and he’s not pushy exactly. He just has this way of making his version of things feel like the obvious one. I keep thinking maybe I’m being weird because I like how much attention he gives me. Am I overthinking the driving thing?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve been seeing Morgan for just over a month",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The timeline matters. A month in, the level of certainty and attention is already high, which sets up the later pressure without sounding alarming yet.",
+      "snippet_id": "S-045-SN0001"
+    },
+    {
+      "quote": "texts me good morning before I’ve even had coffee",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is sweet on the surface, but it also shows constant access and a need to be present at both ends of her day. That kind of cadence can feel flattering while quietly training her to expect him as a daily baseline.",
+      "snippet_id": "S-045-SN0002"
+    },
+    {
+      "quote": "sends some ridiculous meme at night",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Playful contact keeps the bond warm and makes him seem fun and low-pressure. It also helps him stay emotionally central without asking for anything concrete.",
+      "snippet_id": "S-045-SN0003"
+    },
+    {
+      "quote": "bookend my whole day",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Enmeshment-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "That phrase sounds romantic, but it frames her day as something he should surround and define. It is a small claim of centrality, not just affection.",
+      "snippet_id": "S-045-SN0004"
+    },
+    {
+      "quote": "I just want to see that smile on your face",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is classic care language, but it also puts him in the role of the one responsible for her mood. Once that role is accepted, her reaction becomes part of his job and his leverage.",
+      "snippet_id": "S-045-SN0005"
+    },
+    {
+      "quote": "I felt kind of lucky",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her gratitude is already doing emotional work. Feeling lucky can be lovely, but it also shows how quickly his attention has become a kind of favor she feels she has to appreciate.",
+      "snippet_id": "S-045-SN0006"
+    },
+    {
+      "quote": "He keeps saying he wants to know my whole world",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-low",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The wording sounds intimate, but it also reaches past ordinary dating curiosity into total access. Wanting her whole world this early can be a soft way of asking for more than he has earned.",
+      "snippet_id": "S-045-SN0007"
+    },
+    {
+      "quote": "my cousins",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places her inside a family-centered social world. Mentioning cousins also shows what he is quietly being invited into, which matters because he is already asking to know everything around her.",
+      "snippet_id": "S-045-SN0008"
+    },
+    {
+      "quote": "my coworkers",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her work life is part of the world he is moving toward. The fact that he wants access to it this early makes his curiosity feel a little more consuming than casual.",
+      "snippet_id": "S-045-SN0009"
+    },
+    {
+      "quote": "state-of-the-union conversation",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is polyamorous register language, and it sounds normal inside that world. Here it also shows how quickly he is imagining himself inside her relational infrastructure, which can make the connection feel more established than it really is.",
+      "snippet_id": "S-045-SN0010"
+    },
+    {
+      "quote": "Jealousy is just information",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "In poly circles this can sound wise, but it often turns a real concern into a flaw in the other person. The phrase removes his conduct from the center and makes her feelings the thing to manage.",
+      "snippet_id": "S-045-SN0011"
+    },
+    {
+      "quote": "open-minded",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Cognitive Flexibility-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is already trying to be the good, flexible partner. That makes her easier to steer, because once she values being open-minded, it is harder to name a boundary without feeling narrow or immature.",
+      "snippet_id": "S-045-SN0012"
+    },
+    {
+      "quote": "driving me everywhere",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a real convenience, but it also gives him the route, the timing, and the movement. Transportation control is small at first, then it starts shaping who gets to decide where the relationship goes.",
+      "snippet_id": "S-045-SN0013"
+    },
+    {
+      "quote": "picking the restaurant, the route, the music",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is not just being thoughtful. He is quietly organizing the whole scene, which means she is being taken through his version of the date rather than sharing authorship of it.",
+      "snippet_id": "S-045-SN0014"
+    },
+    {
+      "quote": "Why would you make it less fun?",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds playful, but it pressures her to accept his preference as the fun one and her preference as a drag. It makes disagreement feel like ruining the vibe instead of making a normal choice.",
+      "snippet_id": "S-045-SN0015"
+    },
+    {
+      "quote": "I’m only seeing you right now",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-low",
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "In poly language, this can sound reassuring, but the phrase is doing a lot of work. It narrows the present to make her feel chosen while leaving the future undefined, which keeps her invested without giving her much certainty.",
+      "snippet_id": "S-045-SN0016"
+    },
+    {
+      "quote": "in this very calm voice",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Dysregulation-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her discomfort is not with a dramatic outburst. It is with how smooth and settled he sounds when he says something that should probably invite a real conversation.",
+      "snippet_id": "S-045-SN0017"
+    },
+    {
+      "quote": "he’s not mean, and he’s not pushy exactly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is her own effort to soften what she noticed. The qualifying language shows she can feel the edge of it, but she is still translating it into something harmless.",
+      "snippet_id": "S-045-SN0018"
+    },
+    {
+      "quote": "his version of things",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "That phrase names the real issue without fully naming it. He is not just offering an opinion, he is trying to make his framing feel like the default one.",
+      "snippet_id": "S-045-SN0019"
+    },
+    {
+      "quote": "the obvious one",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The danger is in how easy it is to let his interpretation become the common sense version. If his account always feels obvious, hers starts to feel optional.",
+      "snippet_id": "S-045-SN0020"
+    },
+    {
+      "quote": "I like how much attention he gives me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the emotional hook. The attention is real, and she likes it, which makes it harder to notice when attention starts functioning like a soft form of pressure.",
+      "snippet_id": "S-045-SN0021"
+    },
+    {
+      "quote": "Am I overthinking the driving thing?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is not asking whether he is bad. She is asking whether a small practical detail means anything at all, which is exactly how these things stay small long enough to matter later.",
+      "snippet_id": "S-045-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

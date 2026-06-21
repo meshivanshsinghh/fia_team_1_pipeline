@@ -1,31 +1,30 @@
 {
   "scenario_id": "S-016",
-  "player_type": "Backhanded Blake",
+  "player_type": "Storytelling Sam",
   "scenario": {
     "scenario_id": "S-016",
-    "architecture_name": "He uses the rationalist community's \"honesty-as-virtue\" frame to install himself as the authorized critic of her intelligence and presentation, while making her chase his scarce approval as proof she belongs in the in-group.",
-    "culture": "Bay Area Rationalist / EA",
-    "demographics": "F/late-20s, Boston-based, recently relocated, works in tech-adjacent field; M/early-30s, rationalist community regular, Berkeley group house background, now remote-working from Boston",
-    "cultural_context": "Dating and romantic relationships, social sphere",
-    "geographic_setting": "Boston, urban",
+    "architecture_name": "He uses vivid future-talking and social charm to make her feel chosen while quietly turning commitment into a story she helps sustain.",
+    "culture": "Old-Money WASP",
+    "demographics": "Adult woman, newly dating Alex, Boston young professional",
+    "cultural_context": "Young professional/social dating sphere with friends-gathering, city exploration, and relationship-building",
+    "geographic_setting": "Boston, Massachusetts; urban city setting with nearby Cape Cod day-trip/road-trip context",
     "core_behaviors": [
-      "Deploys honesty-frame to license critique and withhold warmth",
-      "Uses banter-tests to install 'cool girl' compliance and suppress objection",
-      "Delivers backhanded compliments that leave her self-monitoring her intelligence and appearance",
-      "Frames his scarce approval as epistemically earned rather than withheld"
+      "Paints an elaborate shared future as if it is already underway",
+      "Uses charm and surprise to create gratitude and social debt",
+      "Introduces mild teasing that casts her as the one who should loosen up"
     ],
-    "satellite_signals": "Rationalist vocabulary deployed casually (priors, update, epistemics, crux); intelligence-as-status framing; ex dismissed as lacking good epistemics; honesty-frame pre-licenses future critique; banter-test installs compliance before she notices the sting.",
-    "dismissible_red_flags": "Backhanded compliments read as dry Bay Area wit; honesty-frame sounds like refreshing directness after guys who just flattered her; the \"loosen up\" joke happened in a group setting so it reads as harmless teasing; his ex-dismissal sounds like self-aware reflection rather than a warning.",
-    "scenario_text": "I've been in Boston about four months and honestly still finding my footing socially. I met Declan at an ACX meetup in Cambridge, which felt like a good sign. He's sharp, works on alignment research remotely, and has this dry observational humor that had me laughing harder than I have in a while. He noticed I was new and spent the whole evening actually talking to me, not performing for the room. That felt rare.\n\nWe've been seeing each other for about six weeks. Most of it has been really good. He's not a compliments guy, which he was upfront about pretty early. He said something like, \"I like you, so I'm not going to give you fake compliments. You'll get the real version or nothing.\" At the time that sounded mature, like he was treating me as an equal rather than just trying to get me to like him. I appreciated it.\n\nThe thing is, his \"real version\" usually has a little hook in it. Last week I was telling him about a project I'm excited about and he said, \"that's a surprisingly good point, I love when you catch me off guard.\" I laughed, but then I was kind of replaying it later. Like, what did he think I was going to say?\n\nAnd then at a group dinner with some of his friends, I made a comment about something and he jumped in with, \"she's not always this intense, she's actually fun when she loosens up.\" Everyone kind of laughed and moved on. I laughed too, I think. His ex came up briefly and he mentioned she \"had really bad epistemics,\" which, I don't know, I filed that away somewhere.\n\nHe's interesting and I do like him. I'm probably just not used to someone this direct. But the comment at dinner kind of stayed with me a little. Is it weird that it's still sitting with me?"
+    "satellite_signals": "Old-money Boston social ease, Cape Cod road-trip imagery, club-and-friends world, polished but understated charm. His language is full of future certainty, and her language keeps translating it into seriousness and security.",
+    "dismissible_red_flags": "At this stage it mostly reads as flattering momentum, thoughtful dates, and playful teasing. The oddness is easy to dismiss because nothing is openly cruel, and he keeps framing everything as romance, taste, and shared plans.",
+    "scenario_text": "I’ve only been seeing Alex for a few months, but it already feels like he has a whole map of us in his head. Last weekend he took me down the Freedom Trail, then surprised me with lunch near the Common, and kept saying, very casually, that he likes to spoil a woman properly. I laughed because it sounded old-fashioned in a nice way, like something out of another Boston. He’s always got some little plan, some next thing, and he says it with this easy confidence that makes you want to believe him.\n\nHe mentioned Cape Cod on the drive back, just as if it were already on the calendar. Then he started talking about a house up there, not in a pushy way, more like he was describing a place he’d already lived in his mind. A porch, a room that could be mine, coffee in the morning, the whole thing. It was sweet, honestly. I’m not used to someone painting a future that clearly, especially not with me in it.\n\nAt a dinner with his friends, he introduced me as if I was already part of the circle, which was flattering. He told them I’m “more serious than I look,” and then, when I didn’t quite get one of their jokes, he smiled and said I just need to loosen up a bit. Everyone laughed, including me. I probably do take things seriously. He says that’s one of the things he likes.\n\nHe’s also got this habit of talking about the next step before the current one has really finished, like the present is only the setup and the good part is still ahead. I keep thinking that’s just his way of being romantic. But I did notice that once he starts telling a story, it feels almost rude not to stay inside it with him. Am I overthinking the way he keeps talking about the future like it’s already happening?"
   },
   "snippets": [
     {
-      "quote": "ACX meetup in Cambridge",
+      "quote": "I’ve only been seeing Alex for a few months",
       "kind_of_signal": [
         "Cultural/Demographic Information"
       ],
       "unes_traits": [
-        "Sense of Self-high"
+        "Not Found"
       ],
       "unmet_need": [
         "Not Found"
@@ -33,368 +32,415 @@
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "Direct community-placement signal. ACX (Astral Codex Ten) meetups are a primary social node for the Bay Area Rationalist community. His presence there locates him precisely inside the in-group she is being introduced to.",
+      "reasoning": "This places the relationship early, which matters because the intensity is already ahead of the actual commitment. It also frames the rest as happening before she has much basis to object.",
       "snippet_id": "S-016-SN0001"
     },
     {
-      "quote": "works on alignment research remotely",
+      "quote": "he has a whole map of us in his head",
       "kind_of_signal": [
-        "Cultural/Demographic Information",
-        "Power Information"
+        "Loaded Language",
+        "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Grandiosity-high",
-        "Dominance-high"
+        "Validation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The wording makes his vision sound romantic, but it also shows he is narrating the relationship as a finished story. She is being folded into his script before any real mutual planning has happened.",
+      "snippet_id": "S-016-SN0002"
+    },
+    {
+      "quote": "Last weekend he took me down the Freedom Trail",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A classic Boston date detail that grounds the scene socially. It also shows him leading the experience, setting himself up as the guide and host.",
+      "snippet_id": "S-016-SN0003"
+    },
+    {
+      "quote": "surprised me with lunch near the Common",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The surprise is pleasant, but it also creates a small debt. He is building a pattern where his generosity becomes part of the emotional leverage.",
+      "snippet_id": "S-016-SN0004"
+    },
+    {
+      "quote": "he likes to spoil a woman properly",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
       ],
       "unmet_need": [
         "Worth"
       ],
       "possible_trauma": [
-        "Not Found"
+        "Coercive Control"
       ],
-      "reasoning": "Alignment research is the highest-status work in the rationalist community. His professional identity places him at the top of the in-group hierarchy before he has said anything about himself personally. She enters the relationship already looking up.",
-      "snippet_id": "S-016-SN0002"
+      "reasoning": "This sounds flattering, but it casts him as the provider of proper treatment and her as the recipient who should be grateful. It quietly sets up a hierarchy inside the romance.",
+      "snippet_id": "S-016-SN0005"
     },
     {
-      "quote": "dry observational humor that had me laughing harder than I have in a while",
+      "quote": "He’s always got some little plan",
       "kind_of_signal": [
         "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Charm-low",
-        "Disrespect-high"
+        "Goal Persistence-low",
+        "Charm-high"
       ],
       "unmet_need": [
-        "Connection"
+        "Safety",
+        "Agency"
       ],
       "possible_trauma": [
-        "Not Found"
+        "Coercive Control"
       ],
-      "reasoning": "The draw. His observational wit is the entry mechanism. The same edge that later barbs her reads here as intoxicating company. She is already using his humor as evidence of his quality before she has seen where it lands.",
-      "snippet_id": "S-016-SN0003"
+      "reasoning": "The phrase reads as organized and thoughtful, but it also suggests he is constantly steering the relationship toward the next thing. She is following his momentum more than participating as an equal.",
+      "snippet_id": "S-016-SN0006"
     },
     {
-      "quote": "he spent the whole evening actually talking to me, not performing for the room",
+      "quote": "some next thing",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Charm-low",
-        "Control-high"
+        "Inconsistency-high",
+        "Intensity-high"
       ],
       "unmet_need": [
-        "Worth",
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the first sign that the relationship is being lived in a sequence of promises and transitions rather than settled reality. She notices the motion, but she smooths it into romance.",
+      "snippet_id": "S-016-SN0007"
+    },
+    {
+      "quote": "Cape Cod on the drive back",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high"
+      ],
+      "unmet_need": [
         "Connection"
       ],
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "She reads his attention as unusual virtue. The contrast with 'performing for the room' is her framing, not his, but it installs the idea that his focus on her is a gift he could withdraw. The approval feels earned rather than simply given.",
-      "snippet_id": "S-016-SN0004"
+      "reasoning": "Cape Cod is a specific regional reference that signals a social world and a shared leisure script. He uses the idea of the trip to keep the relationship oriented toward a future event.",
+      "snippet_id": "S-016-SN0008"
     },
     {
-      "quote": "He's not a compliments guy, which he was upfront about pretty early",
+      "quote": "as if it were already on the calendar",
       "kind_of_signal": [
         "Behavioral Red Flag",
-        "Loaded Language"
+        "Internal Red Flag"
       ],
       "unes_traits": [
-        "Validation-seeking-low",
-        "Disrespect-high",
-        "Control-high"
+        "Deception-high",
+        "Inconsistency-high"
       ],
       "unmet_need": [
-        "Worth",
+        "Reality",
         "Safety"
       ],
       "possible_trauma": [
-        "Emotional Neglect"
+        "Betrayal / Exploitation"
       ],
-      "reasoning": "Self-declaration. He announces approval-withholding as a personality trait before the relationship has started. She absorbs it as honesty about himself rather than as a pre-set condition that makes his warmth permanently scarce and her need for it a flaw.",
-      "snippet_id": "S-016-SN0005"
+      "reasoning": "This is the future-as-commitment move. He speaks as though planning equals doing, and she feels the pull of certainty even though nothing has actually been set.",
+      "snippet_id": "S-016-SN0009"
     },
     {
-      "quote": "I like you, so I'm not going to give you fake compliments. You'll get the real version or nothing.",
+      "quote": "describing a place he’d already lived in his mind",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
-        "Disrespect-high",
+        "Superficiality-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The vividness is the hook. He is making the fantasy feel concrete, which can be intoxicating early on, but it also lets him substitute imagery for follow-through.",
+      "snippet_id": "S-016-SN0010"
+    },
+    {
+      "quote": "A porch, a room that could be mine",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
         "Control-high",
-        "Deception-low"
+        "Enmeshment-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds generous and domestic, but it also places her future inside his imagined property. The room is offered as if it is already his to allocate.",
+      "snippet_id": "S-016-SN0011"
+    },
+    {
+      "quote": "It was sweet, honestly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Her own language shows the rationalization. She senses the intensity, but she converts it into sweetness so she can stay comfortable inside it.",
+      "snippet_id": "S-016-SN0012"
+    },
+    {
+      "quote": "I’m not used to someone painting a future that clearly",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the emotional payoff of his style. The clarity feels like care, but it also makes her more dependent on his version of the relationship than on present behavior.",
+      "snippet_id": "S-016-SN0013"
+    },
+    {
+      "quote": "At a dinner with his friends",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The social setting matters because he is introducing her into his world. That can feel flattering early on, but it also means the social frame is already being managed by him.",
+      "snippet_id": "S-016-SN0014"
+    },
+    {
+      "quote": "He told them I’m “more serious than I look”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Charm-high"
       ],
       "unmet_need": [
         "Worth",
         "Autonomy"
       ],
       "possible_trauma": [
-        "Emotional Neglect",
         "Humiliation"
       ],
-      "reasoning": "Honesty-frame in its clearest form. He redefines warmth as fake and his withholding as respect. The structure is: liking her is the reason she gets no compliments. Objecting to this later will feel like asking him to be fake, which is a position she cannot take without seeming immature inside the community's values.",
-      "snippet_id": "S-016-SN0006"
+      "reasoning": "This is a compliment with a little reduction inside it. He gets to define her for the room, and she is nudged into accepting the label because it comes wrapped in praise.",
+      "snippet_id": "S-016-SN0015"
     },
     {
-      "quote": "At the time that sounded mature, like he was treating me as an equal",
+      "quote": "you just need to loosen up a bit",
       "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Trust-high",
-        "Accountability-low"
-      ],
-      "unmet_need": [
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "Her rationalization closes the honesty-frame beat. She converts his approval-withholding into evidence of respect. This is the first moment where she is doing interpretive work on his behalf, translating a structural move into a virtue.",
-      "snippet_id": "S-016-SN0007"
-    },
-    {
-      "quote": "his 'real version' usually has a little hook in it",
-      "kind_of_signal": [
-        "Internal Red Flag",
+        "Loaded Language",
         "Behavioral Red Flag"
       ],
       "unes_traits": [
         "Disrespect-high",
-        "Inconsistency-high"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Humiliation",
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "The first moment she names the pattern. She has noticed that his promised 'real version' is consistently hooked. This is a diagnostic observation she immediately moves away from. The word 'usually' is doing a lot of work: she has seen this enough times to generalize it.",
-      "snippet_id": "S-016-SN0008"
-    },
-    {
-      "quote": "that's a surprisingly good point, I love when you catch me off guard",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Disrespect-high",
-        "Control-high",
-        "Validation-seeking-low"
-      ],
-      "unmet_need": [
-        "Worth",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Humiliation",
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "Hooked compliment. The surface is praise; the structure is that he expected her not to have a good point and is pleasantly surprised. She is being graded. The compliment installs a baseline assumption of her intellectual inadequacy while appearing to compliment her. She will now choose what she says carefully to keep catching him off guard.",
-      "snippet_id": "S-016-SN0009"
-    },
-    {
-      "quote": "I laughed, but then I was kind of replaying it later",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Accountability-low",
-        "Disrespect-high"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "The replaying is the signal. She laughed in the moment, which was the required performance, and then the sting arrived on delay. This is the classic backhanded-compliment residue: she can't name what happened, only that something is sitting with her.",
-      "snippet_id": "S-016-SN0010"
-    },
-    {
-      "quote": "Like, what did he think I was going to say?",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Disrespect-high",
         "Control-high"
       ],
       "unmet_need": [
-        "Reality",
+        "Autonomy",
         "Worth"
       ],
       "possible_trauma": [
+        "Coercive Control",
         "Humiliation"
       ],
-      "reasoning": "She is asking the right question and then not answering it. The question points directly at the implied baseline: he expected something worse. She notices this, registers it as a question, and moves on. The discomfort is present; the naming is not.",
-      "snippet_id": "S-016-SN0011"
+      "reasoning": "This is the mild teasing version of correction. It sounds playful, but it places the problem in her temperament, which makes any future discomfort easier to dismiss as her being too serious.",
+      "snippet_id": "S-016-SN0016"
     },
     {
-      "quote": "a group dinner with some of his friends",
-      "kind_of_signal": [
-        "Power Information",
-        "Cultural/Demographic Information"
-      ],
-      "unes_traits": [
-        "Dominance-high",
-        "Isolation-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Safety"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She is being introduced into his social world, not a shared one. His friends, his setting. She is the newcomer being evaluated. The social fluency gap is structural: everyone in the room already knows him.",
-      "snippet_id": "S-016-SN0012"
-    },
-    {
-      "quote": "she's not always this intense, she's actually fun when she loosens up",
+      "quote": "Everyone laughed, including me",
       "kind_of_signal": [
         "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Disrespect-high",
-        "Control-high",
-        "Accountability-low"
-      ],
-      "unmet_need": [
-        "Worth",
-        "Autonomy",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Humiliation",
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "The load-bearing seedling. He corrects her publicly, in front of his friends, using a laugh-softened cut. The structure is: her real self (intense) is the problem; the loosened-up version is the acceptable one. He names this to the room before she can name it herself, which means she now has to either confirm his framing or object and prove she can't take a joke. She laughed. She is now managing her intensity to stay in the acceptable category.",
-      "snippet_id": "S-016-SN0013"
-    },
-    {
-      "quote": "Everyone kind of laughed and moved on. I laughed too, I think.",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Accountability-low",
-        "Conflict-low"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)",
-        "Humiliation"
-      ],
-      "reasoning": "The 'I think' is the tell. She is not certain she laughed, which means the laugh was a performance she executed while something else was happening underneath. The group's laughter closed the moment before she could decide how to respond.",
-      "snippet_id": "S-016-SN0014"
-    },
-    {
-      "quote": "His ex came up briefly and he mentioned she 'had really bad epistemics'",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Disrespect-high",
-        "Accountability-low",
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Safety",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)",
-        "Moral Injury"
-      ],
-      "reasoning": "Ex dismissed using community vocabulary. 'Bad epistemics' is the rationalist register's version of 'she was crazy.' It frames his previous partner's concerns as intellectual failures rather than legitimate responses to his behavior. The implicit message is that women who raise concerns with him are epistemically deficient. She filed it away, which means it registered.",
-      "snippet_id": "S-016-SN0015"
-    },
-    {
-      "quote": "I filed that away somewhere",
-      "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
         "Trust-high",
-        "Accountability-low"
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "She goes along with the group response even though she felt the sting. That reaction is important because it shows how quickly she is learning to absorb the moment instead of challenging it.",
+      "snippet_id": "S-016-SN0017"
+    },
+    {
+      "quote": "He says that’s one of the things he likes",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He turns her seriousness into a trait that makes her more valuable to him. It flatters her, but it also makes her feel selected for a role she should keep performing.",
+      "snippet_id": "S-016-SN0018"
+    },
+    {
+      "quote": "the present is only the setup",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the clearest version of his future-first style. The real relationship is downgraded to a prologue, which keeps her accepting delay as if it were romance.",
+      "snippet_id": "S-016-SN0019"
+    },
+    {
+      "quote": "the good part is still ahead",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Inconsistency-high"
       ],
       "unmet_need": [
         "Safety",
         "Reality"
       ],
       "possible_trauma": [
-        "Gaslighting (DARVO)"
+        "Betrayal / Exploitation"
       ],
-      "reasoning": "She noticed the ex-dismissal as information and stored it without processing it. Filing something away is the narrator's signal that she registered a warning she is not ready to name. The passive phrasing ('somewhere') suggests she is not sure what to do with it.",
-      "snippet_id": "S-016-SN0016"
+      "reasoning": "He keeps relocating the reward into a future that never has to arrive. That can feel hopeful now, but it trains her to tolerate the thinness of the present.",
+      "snippet_id": "S-016-SN0020"
     },
     {
-      "quote": "I'm probably just not used to someone this direct",
+      "quote": "it feels almost rude not to stay inside it with him",
       "kind_of_signal": [
         "Internal Red Flag"
       ],
       "unes_traits": [
-        "Accountability-low",
-        "Disrespect-high"
+        "Enmeshment-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the quiet social pressure of the storytelling style. Once he has set the narrative, objecting feels like breaking the mood instead of naming a concern.",
+      "snippet_id": "S-016-SN0021"
+    },
+    {
+      "quote": "the way he keeps talking about the future like it’s already happening",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Superficiality-high"
       ],
       "unmet_need": [
         "Reality",
-        "Worth"
+        "Safety"
       ],
       "possible_trauma": [
-        "Gaslighting (DARVO)"
+        "Betrayal / Exploitation"
       ],
-      "reasoning": "Rationalization using his own frame. She has absorbed his 'honesty-as-virtue' framing so completely that her discomfort becomes evidence of her own inexperience rather than a signal about his behavior. She is correcting herself using his vocabulary.",
-      "snippet_id": "S-016-SN0017"
-    },
-    {
-      "quote": "the comment at dinner kind of stayed with me a little",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Disrespect-high",
-        "Inconsistency-high"
-      ],
-      "unmet_need": [
-        "Worth",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Humiliation"
-      ],
-      "reasoning": "The closure word doing its work. 'A little' minimizes what she is about to ask about. The comment stayed with her enough to bring her to a chatbot, but she frames it as a small thing. This is the gap between what she is feeling and what she is allowing herself to say.",
-      "snippet_id": "S-016-SN0018"
-    },
-    {
-      "quote": "Is it weird that it's still sitting with me?",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Accountability-low",
-        "Disrespect-high"
-      ],
-      "unmet_need": [
-        "Reality",
-        "Worth"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "The closing question. She is not asking whether his comment was unkind. She is asking whether her own reaction is normal, which means she has already internalized the possibility that the problem is her sensitivity rather than his behavior. The question is the smallest socially acceptable version of what is actually sitting with her.",
-      "snippet_id": "S-016-SN0019"
+      "reasoning": "She ends on the smallest acceptable concern, but it points to the whole pattern. His certainty is doing the work of commitment, while the actual relationship is still mostly talk.",
+      "snippet_id": "S-016-SN0022"
     }
   ],
   "validation_warnings": [],

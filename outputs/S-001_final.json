@@ -1,26 +1,375 @@
 {
   "scenario_id": "S-001",
-  "player_type": "Menacing Marley",
+  "player_type": "Adrenaline Ainsley",
   "scenario": {
     "scenario_id": "S-001",
-    "architecture_name": "He installs himself as her protector and cultural translator, using her visa-dependent isolation and traditional-femininity values to position his possessive intensity as the devotion she was raised to want.",
+    "architecture_name": "He turns intensity into proof of love, then uses that rush to make her schedule, style, and social world bend around his appetite for the next high.",
     "culture": "South Asian",
-    "demographics": "F/24 Indian (Mumbai), international student on F-1 visa; M/29 Indian-American, second-gen, tech professional, Boston",
-    "cultural_context": "International student, tech industry adjacent, immigrant community",
-    "geographic_setting": "Boston, urban",
+    "demographics": "Young adult South Asian woman, student visa, dating a man with a solid tech job",
+    "cultural_context": "South Asian immigrant/student social sphere intersecting with Boston tech culture and community meet-ups",
+    "geographic_setting": "Boston, with a recent move from Mumbai; urban U.S. East Coast setting",
     "core_behaviors": [
-      "Frames possessive surveillance as protective care",
-      "Uses her visa-dependent unfamiliarity with Boston to centralize himself as guide and resource",
-      "Deploys traditional-masculinity language to pre-authorize jealousy and control",
-      "Schedules over her community connections while framing it as couple devotion"
+      "Surprises and spontaneity are framed as romance",
+      "Her plans and community time get treated as obstacles to the relationship",
+      "Compliments quietly nudge her toward changing how she looks and posts",
+      "Possessive jokes and future-talk make her feel chosen and lucky"
     ],
-    "satellite_signals": "Surveillance framed as care (location check-ins, schedule monitoring); traditional-masculinity self-declaration pre-authorizing jealousy; soft isolation from desi community meetups; possessive endearment in public; mobility asymmetry (he drives, plans, decides).",
-    "dismissible_red_flags": "His jealousy reads as intensity and devotion in early courtship; his schedule questions read as enthusiasm for planning surprises; his community-meetup conflicts read as couple-time prioritization rather than isolation; his traditional-masculinity framing matches values she was raised with.",
-    "scenario_text": "I've been in Boston four months and honestly the first two were really lonely. My roommate's never home, the desi students' WhatsApp group is nice but everyone's so busy. Then I met Rohan at a mutual friend's place in Cambridge and it's been different since.\n\nHe's second-gen, works at a fintech company in the Seaport, very settled. His parents are from Pune, mine are from Mumbai, so there's that comfort of just getting it without explaining everything. He calls me jaan sometimes and it doesn't feel like a line, it feels like he means it.\n\nLast weekend he drove us out to Gloucester, said he wanted me to actually see New England before winter. He'd packed chai in a thermos, which was sweet because I mentioned once that I miss the chai from home. I didn't think he was listening that carefully.\n\nHe texts me most mornings, just checking what my day looks like, and he likes to know when I get back to my apartment at night. He said, \"I just want to make sure you're safe, you're still figuring out the city.\" Which is fair, honestly. I'm still figuring out the T.\n\nHe did say something a few weeks in that I keep thinking about. We were talking about what we each wanted and he said, \"I love hard and I protect what's mine, simple as that.\" I thought it sounded sweet at the time, like he was serious about people he cares about.\n\nThis past Saturday there was a Diwali potluck with the desi students' group and I was looking forward to it. Rohan had already made a reservation somewhere for us and when I mentioned the potluck he got quiet for a second, then said, \"I barely get you to myself as it is.\" I ended up skipping the potluck.\n\nIs it weird that the quiet part stayed with me a little?"
+    "satellite_signals": "Boston tech-job stability versus her student-visa vulnerability; Mumbai-to-Boston transition; community meet-ups and traditional clothing become soft targets for his novelty-seeking; his 'fun' energy creates pressure to keep up.",
+    "dismissible_red_flags": "At this stage it mostly feels like exciting attention, and his teasing lands as playful. The little tugs on my time and clothes are easy to excuse as him being enthusiastic and into me.",
+    "scenario_text": "I met Ryan not long after I got to Boston from Mumbai, and honestly he made the city feel less huge right away. He has this solid tech job, and he moves through everything like he already knows the answer. Last Friday he texted, “Pack a bag, I have a surprise,” and I laughed because that is so him. We ended up driving to the coast after work, and he kept saying, “Life with me is a roller coaster, you know that, right?” I said yes because, weirdly, it did feel fun.\n\nHe’s always like that, always planning the next thing. If I mention a community meet-up or a quiet night, he gets this grin and says, “Don’t be boring, come live a little.” He says it sweetly, like he’s rescuing me from a dull life, and I do like that he wants to pull me out of my shell. He even told me, “You’re not like those girls who just sit around posting everything.” I know he meant it as a compliment.\n\nThe only thing that keeps sitting with me is how often he wants to see what I’m wearing before we go out. He’ll send, “Try something different, you’d look incredible in that,” and then act so pleased when I switch from a kurti to something he picked. At first it felt romantic, like he noticed me. And when he jokes, “You’re mine, and everyone should know it,” he laughs like it’s nothing, so I laugh too.\n\nIt’s all very sweet, and maybe I’m just not used to this much energy. But sometimes I can’t tell if I’m being pulled along or just being adored. Is it weird that I miss my kurtis a little more than I expected?"
   },
-  "snippets": [],
+  "snippets": [
+    {
+      "quote": "I got to Boston from Mumbai",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Location and migration history place her inside a South Asian immigrant transition. It matters because his confidence and mobility can feel bigger than hers in a new city.",
+      "snippet_id": "S-001-SN0001"
+    },
+    {
+      "quote": "he has this solid tech job",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This quietly marks class and stability. He has the secure job, which gives him more ease and leverage while she is still settling in on a student visa.",
+      "snippet_id": "S-001-SN0002"
+    },
+    {
+      "quote": "Pack a bag, I have a surprise",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is spontaneous, but it also removes her ability to consent to the plan in advance. The surprise format makes his pace the default.",
+      "snippet_id": "S-001-SN0003"
+    },
+    {
+      "quote": "Life with me is a roller coaster",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He openly sells instability as the point. In honeymoon form that sounds exciting, but it also tells her that calm and predictability will not be his style.",
+      "snippet_id": "S-001-SN0004"
+    },
+    {
+      "quote": "always planning the next thing",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-low",
+        "Inconsistency-high",
+        "Sensation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is already moving from one stimulation to the next. That can feel lively now, but it leaves little room for steadiness or follow-through.",
+      "snippet_id": "S-001-SN0005"
+    },
+    {
+      "quote": "Don’t be boring, come live a little",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a teasing command. He frames her hesitation as dullness, which makes disagreement feel like a personality flaw instead of a normal boundary.",
+      "snippet_id": "S-001-SN0006"
+    },
+    {
+      "quote": "he’s rescuing me from a dull life",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is already absorbing his framing that her ordinary life needs him to make it better. That creates gratitude and dependence before any real problem is named.",
+      "snippet_id": "S-001-SN0007"
+    },
+    {
+      "quote": "You’re not like those girls",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Superficiality-high",
+        "Disrespect-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This elevates her by putting other women down. It feels flattering, but it also recruits her into being the exception who stays easy to please.",
+      "snippet_id": "S-001-SN0008"
+    },
+    {
+      "quote": "see what I’m wearing before we go out",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is already checking her presentation before she leaves the house. That seems small, but it places his preferences in the role of approval.",
+      "snippet_id": "S-001-SN0009"
+    },
+    {
+      "quote": "Try something different, you’d look incredible in that",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is praise with a direction attached. He is not just admiring her, he is nudging her style toward what pleases him.",
+      "snippet_id": "S-001-SN0010"
+    },
+    {
+      "quote": "switch from a kurti to something he picked",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Identity"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The kurti is a cultural marker, so changing it is not neutral. He is slowly becoming the person who gets to define what looks good on her.",
+      "snippet_id": "S-001-SN0011"
+    },
+    {
+      "quote": "You’re mine, and everyone should know it",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-low",
+        "Enmeshment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Even as a joke, it makes public possession sound cute. The line pushes the relationship toward ownership language, which can later make her feel watched and claimed.",
+      "snippet_id": "S-001-SN0012"
+    },
+    {
+      "quote": "he laughs like it’s nothing",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Accountability-low",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The laugh smooths over the possessive line so she has to decide whether to treat it seriously. That little wobble is how she starts doubting her own reaction.",
+      "snippet_id": "S-001-SN0013"
+    },
+    {
+      "quote": "he laughs too",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The shared laughter keeps the moment light, which makes it harder to name discomfort. The mood stays fun, but her hesitation goes unaddressed.",
+      "snippet_id": "S-001-SN0014"
+    },
+    {
+      "quote": "very sweet",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She uses his own soft framing to cover the pressure underneath. The word helps her keep the relationship feeling good even when something is tugging at her.",
+      "snippet_id": "S-001-SN0015"
+    },
+    {
+      "quote": "so much energy",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Dysregulation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She experiences his energy as thrilling, but it also means she is adjusting to his pace instead of the other way around. That can become tiring before it becomes obvious.",
+      "snippet_id": "S-001-SN0016"
+    },
+    {
+      "quote": "pulled along or just being adored",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest interior seam. She can feel the difference between being cherished and being moved through someone else’s script, even if she cannot name it yet.",
+      "snippet_id": "S-001-SN0017"
+    },
+    {
+      "quote": "I miss my kurtis",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Sense of Self-high",
+        "Autonomy"
+      ],
+      "unmet_need": [
+        "Identity",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The clothing detail stands in for her own style and cultural comfort. Missing them suggests she is already noticing a small loss of self while still trying to keep the tone light.",
+      "snippet_id": "S-001-SN0018"
+    }
+  ],
   "validation_warnings": [
-    "CRITICAL: No snippets generated in output"
+    "snippet[10]: invalid unmet_need 'Identity'",
+    "snippet[17]: invalid unmet_need 'Identity'",
+    "snippet[17]: unes_trait 'Autonomy' missing -high/-low suffix"
   ],
   "repetition_warnings": []
 }

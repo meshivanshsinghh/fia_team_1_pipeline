@@ -1,0 +1,401 @@
+{
+  "scenario_id": "S-103",
+  "player_type": "Tornado Toby",
+  "scenario": {
+    "scenario_id": "S-103",
+    "architecture_name": "He uses chaotic, high-energy attention and surprise plans to pull me into his pace, then lets my time and commitments bend around his momentum.",
+    "culture": "Hustle Culture",
+    "demographics": "Native American woman, young adult, dating Kyle, a tech worker from New York",
+    "cultural_context": "Social work student in a city community setting, with involvement in a Native community event and dating someone from a tech-job background",
+    "geographic_setting": "Phoenix, Arizona (urban city setting); partner recently moved from New York",
+    "core_behaviors": [
+      "High-energy attention that feels electric and flattering",
+      "Surprise plans that override my existing schedule",
+      "Softly frames my hesitation as me being too rigid or too slow"
+    ],
+    "satellite_signals": "Tech-job confidence, New York speed, Phoenix transplant energy, and hustle-language around being locked in and running at his pace.",
+    "dismissible_red_flags": "At this stage it mostly reads as excitement, spontaneity, and someone who is really into me. The awkward jokes and schedule pressure are easy to smooth over because he sounds playful, not mean.",
+    "scenario_text": "I’ve been seeing Kyle for a couple of weeks since he moved here from New York for his tech job, and honestly he’s been kind of electric. He talks a mile a minute, like his brain is always already three turns ahead, and somehow it loops back to me. He’ll send me a voice note at midnight with a new idea, then text again in the morning like, wait, that reminded me of you. I like that he’s so into things. It feels alive.\n\nLast week he asked what my weekend looked like, and I told him I had a community event on Saturday. He said, “Got it, I’m just protecting your time then,” which sounded sweet. But the next day he showed up with tickets to a comedy show for the same night and said, “You can do that stuff anytime, this is happening now.” He was grinning, like it was all a fun surprise. I went with him because he seemed so happy, and because saying no felt weird after he’d already planned it.\n\nHe does this thing where he calls himself scattered, but in a cute way, like “I’m in beast mode until I’m not.” He’s always apologizing if he runs late, and he really does look embarrassed, not smug. Still, I’ve noticed I’m the one who remembers the calendar, the parking, the address, the little details. He’ll say, “You’re way better at that stuff than me,” and I laugh, but then I’m the one holding the whole thing together.\n\nHe keeps telling me I’m not like everyone else he’s met here, that I’m “real” and “easy to talk to,” which is nice, I guess. It’s just that when he gets excited, everything else gets pushed to the side and I end up matching his pace without really deciding to. Am I being too picky about the way he keeps turning my plans into his?"
+  },
+  "snippets": [
+    {
+      "quote": "since he moved here from New York for his tech job",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Background detail that locates him in a specific class and regional frame. It also sets up the outside-speed, tech-job identity that later makes his urgency feel normal.",
+      "snippet_id": "S-103-SN0001"
+    },
+    {
+      "quote": "he’s been kind of electric",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She experiences his energy as attractive and alive, not as a warning. The word still matters because it shows she’s already adapting to his high-voltage pace.",
+      "snippet_id": "S-103-SN0002"
+    },
+    {
+      "quote": "talks a mile a minute",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Fast, scattered speech is framed as charisma. The second reading is that his momentum sets the tempo and leaves less room for her own pace.",
+      "snippet_id": "S-103-SN0003"
+    },
+    {
+      "quote": "it loops back to me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds flattering, but it shows his attention constantly returning to her as the center. Early on that feels chosen; later it can become hard to breathe.",
+      "snippet_id": "S-103-SN0004"
+    },
+    {
+      "quote": "He’ll send me a voice note at midnight",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The late-night contact is presented as sweet spontaneity, but it also establishes his rhythm as the relationship’s rhythm. She is being pulled into his hours, not the other way around.",
+      "snippet_id": "S-103-SN0005"
+    },
+    {
+      "quote": "wait, that reminded me of you",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is affectionate and disarming. It makes her feel constantly referenced, which feels intimate now and can later become a way of keeping her emotionally on call.",
+      "snippet_id": "S-103-SN0006"
+    },
+    {
+      "quote": "I’m just protecting your time then",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The phrase sounds caring and respectful, but it sets up a frame where he gets to define what counts as protection. That makes the later override easier to sell as thoughtfulness.",
+      "snippet_id": "S-103-SN0007"
+    },
+    {
+      "quote": "showed up with tickets to a comedy show",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Sensation-seeking-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A surprise date can be romantic, but here it arrives as a substitute for her existing plan. The gesture has momentum, and she is expected to absorb it.",
+      "snippet_id": "S-103-SN0008"
+    },
+    {
+      "quote": "the same night",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the practical pressure point. The overlap means his spontaneity collides with her prior commitment, so she has to decide whether to disappoint him or herself.",
+      "snippet_id": "S-103-SN0009"
+    },
+    {
+      "quote": "You can do that stuff anytime",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He dismisses her event as flexible and secondary. It’s not overtly cruel, but it quietly ranks his idea above her commitment.",
+      "snippet_id": "S-103-SN0010"
+    },
+    {
+      "quote": "this is happening now",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Dominance-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest override in the scene. It turns a date suggestion into a present-tense demand, while still sounding playful enough to dodge pushback.",
+      "snippet_id": "S-103-SN0011"
+    },
+    {
+      "quote": "I went with him because he seemed so happy",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Her compliance comes from wanting to preserve his mood and the good feeling between them. That’s an early sign she’s starting to manage his excitement for him.",
+      "snippet_id": "S-103-SN0012"
+    },
+    {
+      "quote": "I’m in beast mode until I’m not",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Impulsivity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is hustle-culture self-branding. It sounds funny and self-aware, but it also normalizes a volatile, all-or-nothing pace that others are expected to adapt to.",
+      "snippet_id": "S-103-SN0013"
+    },
+    {
+      "quote": "always apologizing if he runs late",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Accountability-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The apology is real, which is why it’s easy to forgive. But the repetition matters, because it trains her to accept his timing as a recurring fact of the relationship.",
+      "snippet_id": "S-103-SN0014"
+    },
+    {
+      "quote": "I’m the one who remembers the calendar, the parking, the address",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Goal Persistence-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the logistics imbalance showing up plainly. He gets to be the exciting one while she becomes the organizer, which quietly makes her responsible for making his spontaneity workable.",
+      "snippet_id": "S-103-SN0015"
+    },
+    {
+      "quote": "You’re way better at that stuff than me",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "It sounds like praise, but it also hands her the administrative role and makes it feel like a compliment. She’s being rewarded for absorbing the practical burden.",
+      "snippet_id": "S-103-SN0016"
+    },
+    {
+      "quote": "I’m not like everyone else he’s met here",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This elevates her above a vague crowd and makes her feel special. The structure is that she becomes the good exception, which can make future objections feel like she’s losing that status.",
+      "snippet_id": "S-103-SN0017"
+    },
+    {
+      "quote": "I’m \"real\" and \"easy to talk to\"",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "These are flattering category labels inside his world. They position her as the kind of woman who fits his pace and eases him, which is nice now and can become a role.",
+      "snippet_id": "S-103-SN0018"
+    },
+    {
+      "quote": "when he gets excited, everything else gets pushed to the side",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Impulsivity-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the core pattern in plain language. His excitement reorganizes the room, and she ends up adapting to his current intensity rather than having her own priorities hold.",
+      "snippet_id": "S-103-SN0019"
+    },
+    {
+      "quote": "I end up matching his pace without really deciding to",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the most important interior signal. She’s noticing that his momentum is becoming the default, and that she is drifting into compliance before she consciously chooses it.",
+      "snippet_id": "S-103-SN0020"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

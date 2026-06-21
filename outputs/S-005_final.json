@@ -1,25 +1,442 @@
 {
   "scenario_id": "S-005",
-  "player_type": "Backhanded Blake",
+  "player_type": "Blunt Bailey",
   "scenario": {
     "scenario_id": "S-005",
-    "architecture_name": "He uses deniable barbs and withheld approval to install a scarcity economy where her worth is always provisional and his judgment is the only currency that counts.",
-    "culture": "South Asian",
-    "demographics": "F/26 Venezuelan-American, M/29 Indian-American (Tamil)",
-    "cultural_context": "Graduate student, dating/romantic sphere, Venezuelan diaspora community",
-    "geographic_setting": "Boston (primary), Miami (secondary/origin)",
+    "architecture_name": "He uses literal honesty and practical care to make her feel lucky while quietly setting the terms of connection and access.",
+    "culture": "Polyamorous",
+    "demographics": "Young adult, Venezuelan-American, in a new long-distance dating relationship; Boston and Miami graduate-student social sphere.",
+    "cultural_context": "Graduate student social sphere with a Venezuelan diaspora/community connection and a long-distance dating network",
+    "geographic_setting": "Boston and Miami; urban U.S. East Coast/South Florida setting",
     "core_behaviors": [
-      "Delivers backhanded compliments framed as honesty or banter",
-      "Withholds straightforward approval while positioning critique as integrity",
-      "Uses exception-bait to train her to suppress needs and stay the 'cool girl'"
+      "Checks in constantly and frames it as care",
+      "Uses direct truth-telling as proof of trustworthiness",
+      "Pulls her into his social world before she has her footing",
+      "Treats his attention and plans as the natural center of the relationship"
     ],
-    "satellite_signals": "Honesty-frame used to pre-license ongoing critique; playful ranking installs competitive scarcity; banter-test dares her to prove she is unbothered so she swallows stings; exception-bait trains her to suppress needs to stay the exception.",
-    "dismissible_red_flags": "The barbs are always immediately wrapped in a joke or a compliment, making them easy to dismiss as dry humor. His 'honesty' framing sounds like respect and maturity. The exception-bait reads as a compliment rather than a suppression mechanism. The narrator herself reaches for 'that's just his sense of humor' each time something stings.",
-    "scenario_text": "I've been seeing Arjun for about six weeks and honestly it's been really fun. He's Tamil, grew up in New Jersey, works in biotech in Boston, so the timing of us meeting right when I moved here for my PhD felt kind of lucky. He's sharp and dry and makes me laugh more than anyone I've dated, which I wasn't expecting.\n\nThe thing I like most is that he doesn't do fake compliments. He told me early on, \"I'd rather be real with you than charming and useless, those guys just want something.\" After a couple of exes who were all sweetness and zero substance, that felt genuinely refreshing. When he does say something nice it actually lands, you know?\n\nHis sense of humor has a little edge to it. Like last week I wore this kurta I love to his friend's dinner and he looked at me and went, \"That's a brave choice, I respect the confidence.\" Everyone laughed and I laughed too, but I kept thinking about it on the way home. When I mentioned it later he said \"babe, that was a compliment, you're reading into it,\" and I felt a little silly for bringing it up.\n\nHe also said once, kind of offhand, \"You're not like girls who need everyone staring at them, that's refreshing.\" Which is sweet, I think. I've just noticed I don't really ask him for much reassurance because I don't want to be that. He said he's \"not a gold stars for breathing kind of guy,\" which, fair enough, he's just honest.\n\nThe thing I keep coming back to is the kurta comment. I genuinely couldn't tell if it was a compliment or something else, and when I said so he acted like I'd made it weird. My friend Priya said just let it go. Maybe she's right.\n\nIs it normal to still be thinking about a joke three days later, or am I being too sensitive?"
+    "satellite_signals": "Long-distance texting, surprise video calls, Venezuelan community references, Stacey as family, group hangout future-talk, study-group overlap, polyamorous in-group language about being connected and everyone he cares about.",
+    "dismissible_red_flags": "The intensity reads like enthusiasm and long-distance effort. His bluntness reads as refreshingly honest, and the social invitations sound inclusive rather than possessive at first.",
+    "scenario_text": "I moved to Boston for grad school a few weeks ago, and Marco is still in Miami, so most of this is on my phone. He texts a lot, but in a way that feels kind of grounding, like he’s actually there. He’ll say, “I’m just telling you the truth, I miss you,” and I believe him because he never seems to shade anything. Last night he called right when my study group was starting, which was a little annoying, but he had already figured out my schedule and said he just wanted to hear my voice before I got busy.\n\nHe’s very into making me feel included. He keeps saying, “I want you to know everyone I care about,” and telling me about people back home like I’m being folded into something real. He talked about Stacey again, the fitness trainer everyone in our Venezuelan circle loves, and said, “She’s like family to us.” I laughed because he said it so plainly, like that settled it.\n\nHe also does this thing where he’ll send a long voice note after a call and say exactly what he thinks, even if it’s a little blunt. He told me my study group sounds “too loose” and that I should protect my time better, which, honestly, maybe he’s right. He’s not trying to be mean. He just says things cleanly.\n\nI like that he doesn’t do games. He says what he means, he remembers everything I mention, and he keeps talking about when I’m back in Miami and we’ll all hang out together. It sounds sweet, and I do feel lucky, but sometimes I’m like, wow, he really already has a whole picture in his head. Am I overthinking the way he keeps planning around me?"
   },
-  "snippets": [],
-  "validation_warnings": [
-    "CRITICAL: No snippets generated in output"
+  "snippets": [
+    {
+      "quote": "I moved to Boston for grad school a few weeks ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple location and life-stage detail. It places her in a new, vulnerable transition without making anything overtly wrong.",
+      "snippet_id": "S-005-SN0001"
+    },
+    {
+      "quote": "Marco is still in Miami",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The distance matters because he is the one with the home base and social network. She is the one adapting around his schedule and presence.",
+      "snippet_id": "S-005-SN0002"
+    },
+    {
+      "quote": "He texts a lot",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent contact can be sweet this early, but it also starts to normalize constant access. The relationship is already being organized around his messaging.",
+      "snippet_id": "S-005-SN0003"
+    },
+    {
+      "quote": "I’m just telling you the truth",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This sounds like honesty, and here it probably is. But the phrase also installs his version of reality as the clean one, which makes disagreement feel like you’re resisting the truth itself.",
+      "snippet_id": "S-005-SN0004"
+    },
+    {
+      "quote": "I miss you",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "It’s affectionate and direct, which fits the register. Repeated early missing language can also create a fast emotional bond that makes her feel chosen.",
+      "snippet_id": "S-005-SN0005"
+    },
+    {
+      "quote": "he had already figured out my schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is tracking her availability closely enough to time contact around it. On the surface it looks attentive, but it also means he is moving through her day as if it is legible to him.",
+      "snippet_id": "S-005-SN0006"
+    },
+    {
+      "quote": "a little annoying",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She notices the overlap with her study group, but she immediately minimizes it. That tiny annoyance is the part worth watching.",
+      "snippet_id": "S-005-SN0007"
+    },
+    {
+      "quote": "I just wanted to hear my voice",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The wording is intimate and a little off, because it turns her into the object of his need in the middle of her own commitments. It sounds loving, but it also centers his access.",
+      "snippet_id": "S-005-SN0008"
+    },
+    {
+      "quote": "I want you to know everyone I care about",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Isolation-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "In this community, that sounds like inclusion and warmth. Structurally, it pulls her into his whole social world very quickly, so belonging starts to feel like accepting his map of the people around him.",
+      "snippet_id": "S-005-SN0009"
+    },
+    {
+      "quote": "folded into something real",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is romantic language, but it also makes her inclusion sound like a gift he is granting. The relationship becomes the place where reality is defined for her.",
+      "snippet_id": "S-005-SN0010"
+    },
+    {
+      "quote": "everyone in our Venezuelan circle loves",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is community placement language. It shows the social web he is bringing her into and how quickly that web is being used as proof of legitimacy.",
+      "snippet_id": "S-005-SN0011"
+    },
+    {
+      "quote": "She’s like family to us",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "In a close diaspora circle, calling someone family can be warm and normal. Here it also blurs lines fast, making the social world feel pre-decided before she has a chance to locate herself in it.",
+      "snippet_id": "S-005-SN0012"
+    },
+    {
+      "quote": "he said it so plainly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is reassured by the flatness and certainty of his delivery. The danger is that plain speech can make a big social claim feel settled before it has actually been negotiated.",
+      "snippet_id": "S-005-SN0013"
+    },
+    {
+      "quote": "my study group sounds “too loose”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is a clean, blunt judgment that sounds practical, but it also ranks her existing commitments as insufficient. He is already evaluating the shape of her time.",
+      "snippet_id": "S-005-SN0014"
+    },
+    {
+      "quote": "protect my time better",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds like advice, but it nudges her toward reorganizing her life around his standards. The phrase frames his preference as common sense.",
+      "snippet_id": "S-005-SN0015"
+    },
+    {
+      "quote": "He’s not trying to be mean",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Empathy-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already translating his bluntness into kindness. That’s the early rationalization that keeps a sharp comment from landing as a boundary issue.",
+      "snippet_id": "S-005-SN0016"
+    },
+    {
+      "quote": "He just says things cleanly",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her positive framing of his directness. It’s affectionate, but it also makes his judgments feel more objective than negotiable.",
+      "snippet_id": "S-005-SN0017"
+    },
+    {
+      "quote": "I like that he doesn’t do games",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She reads his bluntness as the opposite of manipulation. That trust is understandable, but it also means she is less likely to question the structure underneath it.",
+      "snippet_id": "S-005-SN0018"
+    },
+    {
+      "quote": "he remembers everything I mention",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Remembering details feels flattering and intimate. It also shows sustained tracking, which can become the basis for later overreach because nothing she says really disappears.",
+      "snippet_id": "S-005-SN0019"
+    },
+    {
+      "quote": "when I’m back in Miami and we’ll all hang out together",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The future-talk is cheerful, but it is already arranging her return into his social structure. He is imagining the relationship as something that expands through him, not alongside her.",
+      "snippet_id": "S-005-SN0020"
+    },
+    {
+      "quote": "he really already has a whole picture in his head",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the narrator’s small, accurate discomfort. He is not just dating her, he is pre-composing the shape of the relationship.",
+      "snippet_id": "S-005-SN0021"
+    },
+    {
+      "quote": "Am I overthinking the way he keeps planning around me?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the actual question she can ask without naming the bigger issue. She is noticing that his planning feels thoughtful, but also a little too complete.",
+      "snippet_id": "S-005-SN0022"
+    }
   ],
+  "validation_warnings": [],
   "repetition_warnings": []
 }

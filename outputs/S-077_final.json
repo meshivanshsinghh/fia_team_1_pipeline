@@ -1,0 +1,412 @@
+{
+  "scenario_id": "S-077",
+  "player_type": "Dependent Drew",
+  "scenario": {
+    "scenario_id": "S-077",
+    "architecture_name": "He uses adoring attention and competence-flattery to make me the place where his life gets organized, then treats that dependence as intimacy.",
+    "culture": "Bay Area Rationalist / EA",
+    "demographics": "F/late 20s, new to San Jose, dating-app match, tech-adjacent professional sphere",
+    "cultural_context": "Dating-app / young professional social sphere, with hiking and craft-beer leisure culture",
+    "geographic_setting": "San Jose, California; urban tech-city environment",
+    "core_behaviors": [
+      "Constant adoration and frequent texting that feels flattering",
+      "Admiration of her competence as a way to lean on her judgment",
+      "Soft future-talk and togetherness that starts to absorb her plans"
+    ],
+    "satellite_signals": "Bay Area rationalist vocabulary, hiking and craft-beer dating-app energy, and a gentle 'we decide everything together' style that reads as team-oriented at first.",
+    "dismissible_red_flags": "He seems warm, present, and unusually appreciative, so the clinginess can feel like devotion. The little handoffs of planning and reassurance are easy to read as trust rather than a pattern.",
+    "scenario_text": "I met him on a dating app after I moved to San Jose, and at first he just seemed so warm. He texted like he was genuinely excited to hear from me, and when we finally met up he said, kind of laughing, that I had the best priors of anyone he’d talked to. I know that sounds nerdy, but in a cute way it landed. He kept saying I was so capable and together, which was honestly nice after a few months of feeling a little adrift here.\n\nHe’s the one who always wants to plan the date, though. If I mention work, he’ll say, “Tell me the object level version,” and then somehow we end up doing whatever fits his idea of a good evening. Last week he picked a hike near Oakland because he said it was a low-variance choice, and then he made this whole thing of bringing trail mix and cold brew for me. It was sweet. He also keeps saying he’s terrible at logistics, but that I’m weirdly good at them, like it’s a compliment and not a confession.\n\nWhat’s funny is how much he likes to hear me talk. He’ll ask me to explain my day, then ask follow-ups like he’s steelmanning my calendar. He says I make things feel simpler. I like that. I really do. It makes me feel useful in a way I haven’t in a while.\n\nHe’s been saying things like, “We should probably just decide together,” even for tiny stuff, and I’ve started noticing I wait to see what he wants before I answer. That feels a little silly to admit, because he’s not pushy. He’s just very there, very interested, and a little lost without me. Is it weird that I liked the way he said I was his best update?"
+  },
+  "snippets": [
+    {
+      "quote": "I met him on a dating app",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Basic context marker. It places the relationship in the young-professional app-dating world without implying anything alarming by itself.",
+      "snippet_id": "S-077-SN0001"
+    },
+    {
+      "quote": "after I moved to San Jose",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "New-city vulnerability. Being new makes outside attention feel especially meaningful and can make her more open to someone who seems to help her orient.",
+      "snippet_id": "S-077-SN0002"
+    },
+    {
+      "quote": "he just seemed so warm",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the attractive surface. Warmth and eagerness are real draws, but they also set up the later pattern where his attention becomes a kind of emotional hook.",
+      "snippet_id": "S-077-SN0003"
+    },
+    {
+      "quote": "he texted like he was genuinely excited to hear from me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Frequent, excited contact feels flattering early on. The second reading is that he is using attention itself as a way to secure closeness and keep himself emotionally centered on her.",
+      "snippet_id": "S-077-SN0004"
+    },
+    {
+      "quote": "you had the best priors of anyone he’d talked to",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is insider-flavored praise. It flatters her intelligence in a community-specific way, which makes the compliment feel especially tailored and therefore harder to question.",
+      "snippet_id": "S-077-SN0005"
+    },
+    {
+      "quote": "I was so capable and together",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is admiration, but it also installs a role. He is praising her competence in a way that makes her feel chosen for being the one who can hold things together.",
+      "snippet_id": "S-077-SN0006"
+    },
+    {
+      "quote": "he always wants to plan the date",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes the initiative in a way that sounds considerate, but it also means he is steering the relationship’s tempo and shape. She is being moved through his version of the evening.",
+      "snippet_id": "S-077-SN0007"
+    },
+    {
+      "quote": "Tell me the object level version",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is rationalist register language used to redirect the conversation onto his preferred track. It sounds precise, but it can quietly dismiss her framing if he keeps using it to take over the topic.",
+      "snippet_id": "S-077-SN0008"
+    },
+    {
+      "quote": "whatever fits his idea of a good evening",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The evening is being organized around his preferences, even when he presents it casually. The structure is that her plans get absorbed into his sense of what works best.",
+      "snippet_id": "S-077-SN0009"
+    },
+    {
+      "quote": "a low-variance choice",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This sounds like ordinary rationalist joking, but it also turns dating into optimization language. That framing can make his preferences seem objective and harder to challenge.",
+      "snippet_id": "S-077-SN0010"
+    },
+    {
+      "quote": "he made this whole thing of bringing trail mix and cold brew for me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The gesture is sweet and specific, which is why it works. The structural effect is that the care feels personalized enough to create gratitude and a sense of being specially looked after.",
+      "snippet_id": "S-077-SN0011"
+    },
+    {
+      "quote": "I’m terrible at logistics",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds self-deprecating and harmless, but it also advertises helplessness. It invites her to become the competent one and slowly take over the practical side of the relationship.",
+      "snippet_id": "S-077-SN0012"
+    },
+    {
+      "quote": "you’re weirdly good at them",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The compliment is affectionate, but it also marks her as exceptional for doing basic organizing. That sets up a dynamic where her competence becomes something he can lean on.",
+      "snippet_id": "S-077-SN0013"
+    },
+    {
+      "quote": "He’ll ask me to explain my day",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "On the surface this is attentive listening. In context, it is also a way of making her interior life part of his emotional supply, so the relationship keeps circling back to him.",
+      "snippet_id": "S-077-SN0014"
+    },
+    {
+      "quote": "steelmanning my calendar",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The joke is clever and affectionate, but it also turns her schedule into something he gets to interpret. He is framing himself as the thoughtful analyst of her life, which gives him interpretive authority.",
+      "snippet_id": "S-077-SN0015"
+    },
+    {
+      "quote": "He says I make things feel simpler",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a lovely compliment, and it probably feels true to her. The hidden structure is that he is casting her as the person who regulates his confusion and makes his life manageable.",
+      "snippet_id": "S-077-SN0016"
+    },
+    {
+      "quote": "We should probably just decide together",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds cooperative, but it quietly enlarges the relationship into a shared decision-making unit even for tiny choices. That can feel romantic at first and then become a habit of not deciding independently.",
+      "snippet_id": "S-077-SN0017"
+    },
+    {
+      "quote": "I’ve started noticing I wait to see what he wants before I answer",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the first place the cost shows up inside her. She is already adjusting her own responses around his preferences, which means his needs are beginning to organize her behavior.",
+      "snippet_id": "S-077-SN0018"
+    },
+    {
+      "quote": "he’s just very there",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds like a positive description of presence, but it also hints at constant availability. The relationship feels full because he is always there, which can later become hard to breathe around.",
+      "snippet_id": "S-077-SN0019"
+    },
+    {
+      "quote": "a little lost without me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest seed. He is making her responsible for his orientation and emotional steadiness, which can feel tender now and burdensome later.",
+      "snippet_id": "S-077-SN0020"
+    },
+    {
+      "quote": "I liked the way he said I was his best update",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The phrase is cute in their shared register, but it also turns her into the thing that changes his state. She likes being the one who moves him, which makes the dependency feel romantic.",
+      "snippet_id": "S-077-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

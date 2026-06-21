@@ -1,0 +1,442 @@
+{
+  "scenario_id": "S-142",
+  "player_type": "Blunt Bailey",
+  "scenario": {
+    "scenario_id": "S-142",
+    "architecture_name": "He uses literal honesty, practical care, and planning to make her feel chosen while quietly narrowing what she gets to decide.",
+    "culture": "Old-Money WASP",
+    "demographics": "Adult heterosexual couple; woman early 30s, man early 30s; Louisville, Kentucky; rural countryside and farmhouse-adjacent dates",
+    "cultural_context": "Southern traditional dating and gender-role-oriented relationship dynamics; romantic courtship with emphasis on provider/protector behavior and domestic future planning",
+    "geographic_setting": "Louisville, Kentucky and surrounding rural countryside / farmhouse setting",
+    "core_behaviors": [
+      "Says exactly what he thinks and expects explicitness back",
+      "Shows care through concrete action and advance planning",
+      "Frames her as the good exception who fits his way of doing things"
+    ],
+    "satellite_signals": "Quietly old-fashioned courtship, country-house logistics, inherited ease, and a flat, literal tone that reads as sincerity rather than performance.",
+    "dismissible_red_flags": "His bluntness can sound rude, and his preference for plans can look fussy. Early on, both can pass as honesty and reliability because he also follows through.",
+    "scenario_text": "I met Bailey at a little café off Bardstown Road, and he was so plain-spoken it almost felt refreshing. He told me right away he was bad at hints and better with clear words, which, honestly, I liked. On our second date he picked me up in his old Range Rover, said he’d already made dinner reservations, and asked if I preferred the scenic route or the faster one. It was very him, just matter-of-fact, no fuss. He’s been like that about everything. If I mention my mother likes white roses, there are white roses on the table. If I say I’m tired, he’ll quietly take the long way home and tell me to put my feet up. He doesn’t do big speeches, but he notices things, and I do feel taken care of. He also has this habit of saying exactly what he thinks, which is usually fine. He told me my manager sounded like he was mismanaging me, and he was probably right, but I still laughed a little too hard because it was so blunt. He’ll say, “I’m not smooth, but what I say I mean,” and I believe him. That’s part of why I like him. Still, there’s this one thing. We were talking about my weekend plans, and he asked for them start to finish, then got visibly tense when I said I might stop by my friend’s place after dinner. He didn’t argue, exactly. He just went quiet and said, “I can’t plan around maybe.” It wasn’t mean, just very fixed. I’m probably overthinking it, but it stayed with me because everything else about him feels so easy. Am I being too sensitive about how he reacted to me not having the whole evening nailed down?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Bailey at a little café off Bardstown Road",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Place marker that grounds the relationship in Louisville and gives the scene a specific local texture without doing any manipulation work by itself.",
+      "snippet_id": "S-142-SN0001"
+    },
+    {
+      "quote": "so plain-spoken it almost felt refreshing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already framing his bluntness as a virtue. That makes the later control easier to miss because honesty is being used as the proof of goodness.",
+      "snippet_id": "S-142-SN0002"
+    },
+    {
+      "quote": "bad at hints and better with clear words",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This sounds like a communication preference, but it also sets the rule that only explicit speech counts. That can become a way to dismiss anything she implies or feels.",
+      "snippet_id": "S-142-SN0003"
+    },
+    {
+      "quote": "on our second date he picked me up in his old Range Rover",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He has the car and sets the movement of the date. The old Range Rover also gives a quiet class signal that fits the Old-Money register.",
+      "snippet_id": "S-142-SN0004"
+    },
+    {
+      "quote": "already made dinner reservations",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Advance planning is pleasant here, but it also means he is organizing the evening before she has much say in it. That can feel caring while still narrowing her room to steer.",
+      "snippet_id": "S-142-SN0005"
+    },
+    {
+      "quote": "asked if I preferred the scenic route or the faster one",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This gives the appearance of choice, but only between options he has already framed. It is a small example of how he can make control look like consultation.",
+      "snippet_id": "S-142-SN0006"
+    },
+    {
+      "quote": "If I mention my mother likes white roses",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Remembering a family preference is sweet and attentive. The deeper effect is that he becomes the man who notices and acts, which can create fast emotional debt.",
+      "snippet_id": "S-142-SN0007"
+    },
+    {
+      "quote": "there are white roses on the table",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The gesture is thoughtful, but it also stages him as the one who knows what the room should look like. That can make her feel lucky and slightly out of step if she objects.",
+      "snippet_id": "S-142-SN0008"
+    },
+    {
+      "quote": "If I say I’m tired, he’ll quietly take the long way home",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Care-as-Action-Rather-Than-Display",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is adjusting the route, which is caring on the surface, but it also keeps him in charge of transport and pace. The care is real, and so is the asymmetry.",
+      "snippet_id": "S-142-SN0009"
+    },
+    {
+      "quote": "tell me to put my feet up",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is gentle, old-fashioned care language, but it also places her in the receptive role. He is the one directing, she is the one being looked after.",
+      "snippet_id": "S-142-SN0010"
+    },
+    {
+      "quote": "my manager sounded like he was mismanaging me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He gives a sharp, confident judgment about her work situation. It may be accurate, but it also shows how quickly he moves into the position of evaluator.",
+      "snippet_id": "S-142-SN0011"
+    },
+    {
+      "quote": "I’m not smooth, but what I say I mean",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a self-declaration that makes his bluntness feel morally clean. She hears it as integrity, which is exactly why it can later support more controlling statements.",
+      "snippet_id": "S-142-SN0012"
+    },
+    {
+      "quote": "we were talking about my weekend plans",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The phrase is ordinary, but it marks the moment where her independent schedule becomes something he is scrutinizing. The issue is not the plans themselves, but who gets to inspect them.",
+      "snippet_id": "S-142-SN0013"
+    },
+    {
+      "quote": "he asked for them start to finish",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He wants the whole itinerary, not just the headline. That can read as interest, but it also shows a need to map and hold her time in advance.",
+      "snippet_id": "S-142-SN0014"
+    },
+    {
+      "quote": "got visibly tense",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her body registers a shift before she can fully explain it. The tension matters because it shows the plan is not neutral to him, even if he stays polite.",
+      "snippet_id": "S-142-SN0015"
+    },
+    {
+      "quote": "I might stop by my friend’s place after dinner",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is her separate social life, and it is the exact point where his easy flexibility starts to narrow. The friend visit is small, but it tests whether her time is still hers.",
+      "snippet_id": "S-142-SN0016"
+    },
+    {
+      "quote": "He didn’t argue, exactly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She senses pressure without open confrontation. That kind of near-conflict is easy to dismiss, which is why it can be more useful than a direct fight.",
+      "snippet_id": "S-142-SN0017"
+    },
+    {
+      "quote": "I can’t plan around maybe",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds practical, but it also makes her uncertainty feel like a problem she is causing. He is turning her normal flexibility into a flaw in his preferred order.",
+      "snippet_id": "S-142-SN0018"
+    },
+    {
+      "quote": "It wasn’t mean, just very fixed",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Cognitive Flexibility-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already doing the work of softening what she felt. The word 'fixed' is the real clue, because it shows how little room there is for her to bend the frame.",
+      "snippet_id": "S-142-SN0019"
+    },
+    {
+      "quote": "I’m probably overthinking it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is her self-correction after a small discomfort. She is not alarmed, but she is already doubting her own read to keep the peace.",
+      "snippet_id": "S-142-SN0020"
+    },
+    {
+      "quote": "everything else about him feels so easy",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the emotional cover. The relationship mostly feels smooth, which is why the one controlling edge stands out only faintly instead of sounding like a crisis.",
+      "snippet_id": "S-142-SN0021"
+    },
+    {
+      "quote": "too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is preemptively asking whether her reaction is excessive. That self-doubt is the small internal cost of being with someone whose certainty feels hard to challenge.",
+      "snippet_id": "S-142-SN0022"
+    }
+  ],
+  "validation_warnings": [
+    "snippet[8]: unes_trait 'Care-as-Action-Rather-Than-Display' missing -high/-low suffix"
+  ],
+  "repetition_warnings": []
+}

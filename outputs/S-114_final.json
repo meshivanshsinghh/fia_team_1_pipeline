@@ -1,0 +1,366 @@
+{
+  "scenario_id": "S-114",
+  "player_type": "Manipulative Morgan",
+  "scenario": {
+    "scenario_id": "S-114",
+    "architecture_name": "He uses dazzling, future-facing care to make himself the center of her calendar, social world, and sense of what counts as normal.",
+    "culture": "Polyamorous",
+    "demographics": "F/late 20s, Javier, East London, urban professional scene",
+    "cultural_context": "Urban dating/romantic social sphere, likely among young professionals or cosmopolitan city dwellers",
+    "geographic_setting": "East London, with references to Spain and traveling Europe",
+    "core_behaviors": [
+      "Plans dates and surprises to control the pace",
+      "Uses gifts and future talk to create soft obligation",
+      "Frames closeness as openness while quietly narrowing her room to object"
+    ],
+    "satellite_signals": "Polyamorous register is lightly present through talk of agreements, space, and being 'up for anything'; his charm reads as attentive but also managerial. Mobility and scheduling are his domain, and her friends become secondary to his plans.",
+    "dismissible_red_flags": "His intensity can feel romantic because he is thoughtful, organized, and eager to include her. The one thing that sits oddly is how quickly his planning starts to feel like the default, but it is easy to read that as enthusiasm.",
+    "scenario_text": "I keep thinking about Javier because most of the time he is just so easy to be around. He texts like he means it, he remembers tiny things, and he has this way of making a whole evening feel planned without it feeling bossy. Last week he showed up with pastries from that Spanish bakery near my flat and said it was “a little taste of home for both of us,” which was honestly sweet. He keeps saying he likes how open I am, how I’m not the jealous type, and that makes me feel kind of proud, if I’m being honest.\n\nHe’s also very into making plans. He’ll say, “I’ve got a surprise for us,” and then ask if I’m free before I’ve even checked my own diary. I like that he takes initiative. It feels nice not having to do all the organising for once. And when I mentioned dinner with my friend on Saturday, he smiled and said, “Can’t I have you all to myself this weekend?” in this playful way that made me laugh. He didn’t actually seem mad, just a bit cute and possessive in a way that felt flattering.\n\nHe’s always talking about Spain next year, or the two of us somewhere else, and I guess I like that he’s thinking ahead. He says things like, “We need to renegotiate our agreements,” which sounds very poly and grown-up, even if I’m still figuring out what that would mean for us. He keeps telling me I’m “so chill” and “easy to love,” and I know he means it as a compliment. It just made me wonder if I was being a bit rude when I told him I might need one weekend to myself. Was that weird to say?"
+  },
+  "snippets": [
+    {
+      "quote": "He texts like he means it",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The surface is warmth and attentiveness. The structure is that his communication feels emotionally convincing, which can make her lower her guard before any real reciprocity is established.",
+      "snippet_id": "S-114-SN0001"
+    },
+    {
+      "quote": "he remembers tiny things",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Remembering details is lovely on its face, but here it also shows close tracking of her preferences. That kind of attentiveness can become a way to steer her rather than simply know her.",
+      "snippet_id": "S-114-SN0002"
+    },
+    {
+      "quote": "making a whole evening feel planned",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is the one shaping the evening and the pace of it. Even when it feels considerate, it quietly puts him in the position of director and her in the position of participant.",
+      "snippet_id": "S-114-SN0003"
+    },
+    {
+      "quote": "without it feeling bossy",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She notices the possibility of control and immediately softens it. That little qualification shows she is already managing her own discomfort to preserve the romantic reading.",
+      "snippet_id": "S-114-SN0004"
+    },
+    {
+      "quote": "a little taste of home for both of us",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The phrase borrows her cultural reference and folds it into his own gesture. It sounds intimate, but it also makes her heritage part of his charm, which can feel flattering while quietly centering him.",
+      "snippet_id": "S-114-SN0005"
+    },
+    {
+      "quote": "He keeps saying he likes how open I am",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Open-mindedness is being praised as a personality trait he values, which makes her want to keep performing it. That can later make disagreement feel like a failure of character.",
+      "snippet_id": "S-114-SN0006"
+    },
+    {
+      "quote": "I’m not the jealous type",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Attachment-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "In poly language this can sound mature, but it also becomes a self-description he can use to define what kind of partner she should be. The praise lands as a test of whether she will stay easy.",
+      "snippet_id": "S-114-SN0007"
+    },
+    {
+      "quote": "I’ve got a surprise for us",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Surprises can be sweet, but repeated surprise-planning also keeps her from knowing the shape of her own time. The pleasant framing hides that he is setting the terms.",
+      "snippet_id": "S-114-SN0008"
+    },
+    {
+      "quote": "ask if I’m free before I’ve even checked my own diary",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is moving first, and she is reacting to his timing. That makes his schedule feel like the default and hers like something to be consulted after the fact.",
+      "snippet_id": "S-114-SN0009"
+    },
+    {
+      "quote": "Can’t I have you all to myself this weekend?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Neediness-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "It sounds playful, but it asks for exclusivity in a way that nudges her away from her own plans. The joke format makes it easy to laugh off while still accepting the demand.",
+      "snippet_id": "S-114-SN0010"
+    },
+    {
+      "quote": "cute and possessive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She is translating a possessive impulse into something adorable. That rationalization is the seam where control gets rebranded as affection.",
+      "snippet_id": "S-114-SN0011"
+    },
+    {
+      "quote": "thinking ahead",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Future talk can be romantic, but here it also locks her into a story he is already building. It gives him interpretive momentum before she has had time to locate her own pace.",
+      "snippet_id": "S-114-SN0012"
+    },
+    {
+      "quote": "We need to renegotiate our agreements",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is classic poly language, but it is also a way to reopen the rules from a position of leverage. The word agreements sounds mutual, yet the direction of change is already his.",
+      "snippet_id": "S-114-SN0013"
+    },
+    {
+      "quote": "sounds very poly and grown-up",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is using the community’s own maturity language to bless the line. That makes the phrase feel legitimate, even though it may be functioning more as polish than substance.",
+      "snippet_id": "S-114-SN0014"
+    },
+    {
+      "quote": "figuring out what that would mean for us",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She can tell the language is carrying more than she fully understands yet. The uncertainty is mild, but it shows the arrangement is already being defined faster than she can sort it out.",
+      "snippet_id": "S-114-SN0015"
+    },
+    {
+      "quote": "so chill",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is praise that also assigns a role. If she is the chill one, then any future concern can be read as her failing the identity he liked in the first place.",
+      "snippet_id": "S-114-SN0016"
+    },
+    {
+      "quote": "easy to love",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "It sounds tender, but it flatters her into being low-maintenance and agreeable. That kind of compliment can make it harder to ask for anything that might complicate his image of her.",
+      "snippet_id": "S-114-SN0017"
+    },
+    {
+      "quote": "I might need one weekend to myself",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Autonomy-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the small request that reveals the larger pressure. She is not accusing him of anything, just noticing that even a simple boundary already feels like something to justify.",
+      "snippet_id": "S-114-SN0018"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

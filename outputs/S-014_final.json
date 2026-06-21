@@ -1,26 +1,26 @@
 {
   "scenario_id": "S-014",
-  "player_type": "Domineering Devin",
+  "player_type": "Neglectful Nico",
   "scenario": {
     "scenario_id": "S-014",
-    "architecture_name": "He installs a gendered hierarchy dressed as religious order, positioning himself as the natural authority over her schedule, conduct, and future while she absorbs each constraint as care or community norm.",
+    "architecture_name": "He looks calm and rational now, but he is already setting up a world where her feelings count less than his quiet certainty.",
     "culture": "Modern Orthodox Jewish",
-    "demographics": "Female, mid-20s, FFB Modern Orthodox, grew up in Teaneck, dating in Borough Park",
-    "cultural_context": "Dating/romantic relationships within Orthodox Jewish community",
-    "geographic_setting": "Borough Park, Brooklyn (urban, Orthodox Jewish neighborhood)",
+    "demographics": "Likely adult woman, Jewish, newly dating",
+    "cultural_context": "Jewish dating and community life centered around kosher food, Shabbat, gym/fitness, and family-oriented neighborhood norms",
+    "geographic_setting": "Borough Park / 13th Avenue, urban neighborhood setting",
     "core_behaviors": [
-      "Frames gendered headship as sincere halachic belief to pre-empt objection",
-      "Restructures her schedule and habits under the cover of discipline and care",
-      "Deploys community surveillance to make her conduct accountable to a structure he controls",
-      "Uses merit-hierarchy to rank her friends as lesser and redirect her social world toward his"
+      "Presents low-drama calm as maturity",
+      "Uses her ease as proof she should need less",
+      "Frames his own quiet certainty as the standard",
+      "Turns her feelings into overreaction without raising his voice"
     ],
-    "satellite_signals": "Community absorption framed as warm welcome; time-accountability disguised as coordination; conduct policing framed as representation; merit-contempt aimed at her social circle; provider role announced as settled religious duty.",
-    "dismissible_red_flags": "His discipline and punctuality read as backbone after flaky daters; his headship framing sounds like sincere MO belief rather than personal preference; his community welcome feels like belonging not replacement; his schedule coordination reads as practical not controlling.",
-    "scenario_text": "I've been seeing Noam for about six weeks and honestly, baruch Hashem, it's been really good. He grew up in the Five Towns, went to Sha'alvim, works in finance now, and he's just so put-together. My mom keeps saying he's from a good family, and she's not wrong.\n\nHe's very disciplined. Up at five-thirty every morning, davening done before most people are awake. When I mentioned I'd been meaning to get back to the gym, he said he'd set me up with a real routine, something structured, not just showing up when I feel like it. He said, \"You'll feel a hundred times better. I'll set it up.\" It was a lot, but he's probably right that I've let things slip.\n\nHe also likes to know my schedule for the day. He calls it staying coordinated, and I get it, it does help. It felt like a lot at first, but I've gotten used to it.\n\nLast Shabbos his whole shul community welcomed me so warmly. Afterward he mentioned, almost as an aside, that it's a pretty close-knit group and people notice things. He said it reflects on both of us how we carry ourselves. I hadn't really thought about being watched, but I want to make a good impression.\n\nHe's also been honest about how he sees things. He said the way he believes it, a husband leads and a wife supports that, and he's accountable for the whole household. He framed it as responsibility falling on him, which is actually kind of steadying.\n\nThe one thing I keep thinking about is my friend Shira. She job-hops and he called her directionless, said to be careful who I take after. She's one of my closest friends and it stung a little. He might have a point, but I don't know.\n\nIs it weird that the comment about Shira is still sitting with me?"
+    "satellite_signals": "Modern Orthodox dating language, kosher bakery and Shabbat routine, Borough Park neighborhood references, gym and couples-workout talk, family-and-future framing.",
+    "dismissible_red_flags": "At this stage he mostly seems steady, thoughtful, and easy to be around. The small sting is easy to explain away because he is not yelling, pressuring, or obviously rude.",
+    "scenario_text": "I’ve been seeing David for a few weeks, and honestly he’s been so easy to be around. He lives near 13th Avenue, so we keep ending up at the same kosher places after work, and last night he picked this little bakery I like because, as he said, “you don’t need anything fancy.” I laughed because it was sweet, and I do like that he’s not dramatic. He’s the kind of guy who says, “Whatever works for you works for me,” and then actually means it. After my last relationship, that kind of calm feels like a blessing.\n\nHe’s also very clear about his routine. He gets up early, davening, work, gym, all of it, and he seems really settled in himself. When I said I was trying to get back to my own workouts, he smiled and said, “We can do a couples workout instead. You’re already in good shape, and it’s more fun together.” It sounded thoughtful, so I said sure. He has this way of making things sound sensible, like he’s just keeping life simple.\n\nThe only little thing is that when I mentioned I was feeling a bit off after Shabbat dinner, he kind of shrugged and said, “It’s probably nothing. You’ll be fine.” He wasn’t mean or anything, just very matter-of-fact. I told myself he probably didn’t want to make a big deal out of something small, which I guess I appreciate.\n\nHe keeps saying he likes that I’m easygoing and not high-maintenance, and I do like being that for him. It makes me feel chosen, like I’m not one of those girls who needs constant reassurance. Still, sometimes I catch myself wondering if he’d notice when I’m actually upset, or if he’d just want me to settle down and move on. Is it weird that the little comment about my workout has stayed with me?"
   },
   "snippets": [
     {
-      "quote": "baruch Hashem, it's been really good",
+      "quote": "seeing David for a few weeks",
       "kind_of_signal": [
         "Cultural/Demographic Information"
       ],
@@ -33,354 +33,381 @@
       "possible_trauma": [
         "Not Found"
       ],
-      "reasoning": "Standard MO religious phrase used as a positive framing opener. Locates the narrator inside the community register and signals she is reading the relationship through a faith-positive lens.",
+      "reasoning": "Early-stage relationship timing. It keeps the scene in honeymoon territory, where his pattern is only just beginning to show.",
       "snippet_id": "S-014-SN0001"
     },
     {
-      "quote": "He grew up in the Five Towns, went to Sha'alvim, works in finance now",
+      "quote": "easy to be around",
       "kind_of_signal": [
-        "Cultural/Demographic Information",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Grandiosity-high",
-        "Sense of Self-high"
-      ],
-      "unmet_need": [
-        "Not Found"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "Five Towns signals wealthy right-leaning MO; Sha'alvim signals a more right-leaning men's yeshiva; finance signals professional-class income. Together these establish him as high-status inside the community hierarchy before any behavior appears. She is already positioned below him on every axis the community uses to rank people.",
-      "snippet_id": "S-014-SN0002"
-    },
-    {
-      "quote": "he's from a good family, and she's not wrong",
-      "kind_of_signal": [
-        "Cultural/Demographic Information",
-        "Power Information"
-      ],
-      "unes_traits": [
-        "Grandiosity-high"
-      ],
-      "unmet_need": [
-        "Not Found"
-      ],
-      "possible_trauma": [
-        "Not Found"
-      ],
-      "reasoning": "Family standing as community currency. Her mother's approval is routed through his yichus, not his character. She inherits the community's endorsement of him before she has formed her own.",
-      "snippet_id": "S-014-SN0003"
-    },
-    {
-      "quote": "Up at five-thirty every morning, davening done before most people are awake",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
+        "Internal Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
-        "Dominance-high",
-        "Sense of Self-high",
-        "Cognitive Flexibility-low"
-      ],
-      "unmet_need": [
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "Discipline announced as moral identity and framed through religious practice (davening first). The absoluteness is the seam: a standard this rigid, stated this early, is not just self-description. It is the bar she is about to be measured against.",
-      "snippet_id": "S-014-SN0004"
-    },
-    {
-      "quote": "he said he'd set me up with a real routine, something structured, not just showing up when I feel like it",
-      "kind_of_signal": [
-        "Behavioral Red Flag"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Dominance-high",
-        "Exploitation-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "Her existing gym habit is reframed as undisciplined before he offers to replace it with his system. The phrase 'not just showing up when I feel like it' recodes her autonomous choice as the lesser option. He is restructuring her physical routine six weeks in, framed entirely as help.",
-      "snippet_id": "S-014-SN0005"
-    },
-    {
-      "quote": "He said, 'You'll feel a hundred times better. I'll set it up.'",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Dominance-high",
-        "Empathy-low"
-      ],
-      "unmet_need": [
-        "Agency",
-        "Autonomy"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "The offer is not a question. 'I'll set it up' closes the conversation before she has agreed. The care framing ('you'll feel better') makes declining feel like refusing help. This is the recruit-being-trained dynamic in its earliest form: her life restructured to his standard under the cover of concern.",
-      "snippet_id": "S-014-SN0006"
-    },
-    {
-      "quote": "It was a lot, but he's probably right that I've let things slip",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Accountability-low",
-        "Sense of Self-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Gaslighting (DARVO)"
-      ],
-      "reasoning": "She registers the overreach ('a lot') and immediately converts it into self-criticism. He has not corrected her; she has corrected herself using his standard. This is the earliest sign that his frame is already doing interpretive work on her interior.",
-      "snippet_id": "S-014-SN0007"
-    },
-    {
-      "quote": "He also likes to know my schedule for the day. He calls it staying coordinated",
-      "kind_of_signal": [
-        "Behavioral Red Flag"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Enmeshment-high",
-        "Isolation-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Agency"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "Her daily movements are now accountable to him under an efficiency frame. 'Staying coordinated' is the rationale she has adopted from him. The accounting of her hours is the behavioral control; the word 'coordinated' makes it sound mutual when the direction is one-way.",
-      "snippet_id": "S-014-SN0008"
-    },
-    {
-      "quote": "It felt like a lot at first, but I've gotten used to it",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Cognitive Flexibility-low",
-        "Control-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She registers the imposition twice ('a lot at first') and resolves it by normalizing rather than questioning. 'Gotten used to it' is adaptation framed as comfort. The discomfort has not been addressed; it has been absorbed.",
-      "snippet_id": "S-014-SN0009"
-    },
-    {
-      "quote": "Last Shabbos his whole shul community welcomed me so warmly",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Cultural/Demographic Information"
-      ],
-      "unes_traits": [
-        "Isolation-high",
-        "Enmeshment-high"
+        "Intensity-low",
+        "Charm-low"
       ],
       "unmet_need": [
         "Connection"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Emotional Neglect"
       ],
-      "reasoning": "The warm welcome is real and the belonging feels good, which is exactly what makes it effective. She is being folded into his total community as a replacement for her own social world. The absorption is disguised as generosity.",
-      "snippet_id": "S-014-SN0010"
+      "reasoning": "This sounds like a compliment, and it is one. But it also points to emotional flatness being read as virtue, which can later leave her doing all the reaching.",
+      "snippet_id": "S-014-SN0002"
     },
     {
-      "quote": "it's a pretty close-knit group and people notice things",
+      "quote": "near 13th Avenue",
       "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language"
+        "Cultural/Demographic Information",
+        "Power Information"
       ],
       "unes_traits": [
-        "Control-high",
-        "Isolation-high",
-        "Dominance-high"
+        "Not Found"
       ],
       "unmet_need": [
-        "Autonomy",
-        "Safety"
+        "Not Found"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Not Found"
       ],
-      "reasoning": "Community surveillance distributed so control is deniable and not-him. He is not telling her what to do; he is informing her that the community is watching. The enforcement is outsourced to the group, which makes it much harder to push back on than a personal preference.",
-      "snippet_id": "S-014-SN0011"
+      "reasoning": "The neighborhood grounds the relationship in a specific Orthodox Jewish setting and shows he is choosing the places they keep meeting.",
+      "snippet_id": "S-014-SN0003"
     },
     {
-      "quote": "it reflects on both of us how we carry ourselves",
+      "quote": "kosher places",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is ordinary community language, but it also places the relationship inside a shared religious routine that he can use to define what feels normal.",
+      "snippet_id": "S-014-SN0004"
+    },
+    {
+      "quote": "you don’t need anything fancy",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
-        "Control-high",
-        "Grandiosity-high",
-        "Dominance-high"
+        "Disrespect-high",
+        "Superficiality-low"
       ],
       "unmet_need": [
-        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "A small backhanded compliment. He is praising her by shrinking her taste, which can make her easier to please and less likely to ask for more.",
+      "snippet_id": "S-014-SN0005"
+    },
+    {
+      "quote": "Whatever works for you works for me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Control-low"
+      ],
+      "unmet_need": [
         "Agency"
       ],
       "possible_trauma": [
         "Coercive Control"
       ],
-      "reasoning": "Her conduct is now accountable to his standing. 'Both of us' sounds mutual but the direction is one-way: she is being told to carry herself in a way that reflects well on him. Her autonomous self-expression is being quietly annexed to his reputation.",
-      "snippet_id": "S-014-SN0012"
+      "reasoning": "On the surface this sounds flexible. Structurally it can also mean he avoids friction by letting her carry the decisions, then later treats that as proof he was never controlling.",
+      "snippet_id": "S-014-SN0006"
     },
     {
-      "quote": "I hadn't really thought about being watched, but I want to make a good impression",
+      "quote": "that kind of calm feels like a blessing",
       "kind_of_signal": [
-        "Internal Red Flag"
+        "Internal Red Flag",
+        "Loaded Language"
       ],
       "unes_traits": [
-        "Sense of Self-high",
-        "Control-high"
+        "Conflict-low",
+        "Intensity-low"
       ],
       "unmet_need": [
-        "Autonomy",
-        "Reality"
+        "Safety"
       ],
       "possible_trauma": [
-        "Coercive Control"
+        "Emotional Neglect"
       ],
-      "reasoning": "She registers the novelty of surveillance ('hadn't really thought about being watched') and converts it into motivation to comply. The discomfort of being watched is immediately redirected into wanting to perform well for his community. She supplies the rationale herself.",
-      "snippet_id": "S-014-SN0013"
+      "reasoning": "She is reading his low-conflict style as safety. That makes sense early on, especially after a harder relationship, but it also shows how relief can hide emotional absence.",
+      "snippet_id": "S-014-SN0007"
     },
     {
-      "quote": "the way he believes it, a husband leads and a wife supports that, and he's accountable for the whole household",
-      "kind_of_signal": [
-        "Behavioral Red Flag",
-        "Loaded Language",
-        "Cultural/Demographic Information"
-      ],
-      "unes_traits": [
-        "Dominance-high",
-        "Control-high",
-        "Cognitive Flexibility-low",
-        "Sense of Self-high"
-      ],
-      "unmet_need": [
-        "Autonomy",
-        "Agency",
-        "Fairness"
-      ],
-      "possible_trauma": [
-        "Coercive Control",
-        "Moral Injury"
-      ],
-      "reasoning": "Gendered headship stated as sincere halachic belief, which pre-empts the 'less-than' objection before she can raise it. 'The way we believe it' launders a personal preference for dominance through communal religious authority. In MO culture, headship framing is real and recognizable, which is precisely what makes it effective cover for a control architecture. She cannot push back on his belief without appearing to push back on halacha itself.",
-      "snippet_id": "S-014-SN0014"
-    },
-    {
-      "quote": "He framed it as responsibility falling on him, which is actually kind of steadying",
-      "kind_of_signal": [
-        "Internal Red Flag"
-      ],
-      "unes_traits": [
-        "Control-high",
-        "Dominance-high"
-      ],
-      "unmet_need": [
-        "Safety",
-        "Reality"
-      ],
-      "possible_trauma": [
-        "Coercive Control"
-      ],
-      "reasoning": "She absorbs the headship framing as reassuring rather than structural. 'Steadying' is the word she reaches for, which is exactly the emotional register the framing is designed to produce. The architecture of his authority reads to her as stability.",
-      "snippet_id": "S-014-SN0015"
-    },
-    {
-      "quote": "my friend Shira. She job-hops and he called her directionless",
+      "quote": "He gets up early",
       "kind_of_signal": [
         "Behavioral Red Flag"
       ],
       "unes_traits": [
-        "Isolation-high",
-        "Empathy-low",
-        "Disrespect-high",
-        "Exploitation-high"
+        "Goal Persistence-high"
       ],
       "unmet_need": [
-        "Connection",
-        "Fairness"
+        "Not Found"
       ],
       "possible_trauma": [
-        "Coercive Control",
-        "Emotional Neglect"
+        "Not Found"
       ],
-      "reasoning": "Isolation through merit-ranking, not jealousy. He sorts her closest friend as low-status and a contaminating influence using the same merit-doctrine he applies to everyone. The mechanism is the same one that will later rank her own choices as beneath his standard. He has not asked to meet Shira; he has already filed her.",
-      "snippet_id": "S-014-SN0016"
+      "reasoning": "This is a simple routine detail, but it helps build his self-contained, disciplined image.",
+      "snippet_id": "S-014-SN0008"
     },
     {
-      "quote": "said to be careful who I take after",
+      "quote": "davening, work, gym",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "These are ordinary Orthodox and lifestyle markers. They show a structured life that can look mature while also leaving little room for attunement.",
+      "snippet_id": "S-014-SN0009"
+    },
+    {
+      "quote": "We can do a couples workout instead",
       "kind_of_signal": [
         "Behavioral Red Flag",
         "Loaded Language"
       ],
       "unes_traits": [
-        "Isolation-high",
         "Control-high",
-        "Dominance-high"
+        "Enmeshment-low"
       ],
       "unmet_need": [
-        "Autonomy",
-        "Connection",
-        "Agency"
+        "Autonomy"
       ],
       "possible_trauma": [
         "Coercive Control"
       ],
-      "reasoning": "The behavior-steer is explicit: distance yourself from this person. Framed as protective advice rather than a directive, which makes it very difficult to object to. Six weeks in, he is already redirecting her social attachments using the language of her own best interest.",
-      "snippet_id": "S-014-SN0017"
+      "reasoning": "He quietly redirects her plan into a shared one. It sounds playful, but it nudges her away from her own routine and toward his preferred version of togetherness.",
+      "snippet_id": "S-014-SN0010"
     },
     {
-      "quote": "She's one of my closest friends and it stung a little. He might have a point, but I don't know",
+      "quote": "You’re already in good shape",
       "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is praise with a little pressure in it. He compliments her body while also implying he gets to evaluate it, which can make approval feel conditional.",
+      "snippet_id": "S-014-SN0011"
+    },
+    {
+      "quote": "more fun together",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The phrase sounds sweet, but it also installs a we-first frame. That can become a way of making her separate preferences seem less important.",
+      "snippet_id": "S-014-SN0012"
+    },
+    {
+      "quote": "It’s probably nothing",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
         "Internal Red Flag"
       ],
       "unes_traits": [
         "Empathy-low",
-        "Isolation-high",
-        "Sense of Self-high"
+        "Reality-low"
       ],
       "unmet_need": [
-        "Connection",
         "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He responds to her discomfort with minimization. He is not overtly cruel, but he is already teaching her that her feeling does not merit much attention.",
+      "snippet_id": "S-014-SN0013"
+    },
+    {
+      "quote": "You’ll be fine",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Empathy-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is calm, but it is also a dismissal. He decides the outcome of her feeling instead of staying with it.",
+      "snippet_id": "S-014-SN0014"
+    },
+    {
+      "quote": "didn’t want to make a big deal",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already doing the self-editing for him. That rationalization is important because it shows how quickly his style trains her to minimize herself.",
+      "snippet_id": "S-014-SN0015"
+    },
+    {
+      "quote": "easygoing",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-low",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "In this register, easygoing is praise. But it also becomes the role she is expected to keep performing so nothing heavy ever has to be addressed.",
+      "snippet_id": "S-014-SN0016"
+    },
+    {
+      "quote": "not high-maintenance",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
         "Autonomy"
       ],
       "possible_trauma": [
-        "Coercive Control",
+        "Humiliation"
+      ],
+      "reasoning": "This is flattering on the surface, but it quietly rewards her for having fewer needs. That can make ordinary bids for care feel embarrassing later.",
+      "snippet_id": "S-014-SN0017"
+    },
+    {
+      "quote": "one of those girls",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He is creating a good-girl/bad-girl split. She gets to feel special, but only by distancing herself from other women and from her own needs.",
+      "snippet_id": "S-014-SN0018"
+    },
+    {
+      "quote": "constant reassurance",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
         "Emotional Neglect"
       ],
-      "reasoning": "She registers the sting clearly, which is the closest she comes to naming something wrong. Then she half-concedes his point before the closing question. The 'I don't know' is the seam: she is genuinely uncertain whether her own loyalty to her friend is a flaw. His frame is already doing interpretive work on her closest relationship.",
-      "snippet_id": "S-014-SN0018"
+      "reasoning": "This phrase sets reassurance up as excessive before she has even asked for it. That makes future emotional needs easier to frame as too much.",
+      "snippet_id": "S-014-SN0019"
+    },
+    {
+      "quote": "settle down and move on",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest sign of his style. He does not engage the feeling, he manages it, and she is left wondering whether her reaction itself is the problem.",
+      "snippet_id": "S-014-SN0020"
+    },
+    {
+      "quote": "the little comment about my workout",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is trying to name the smallest possible concern, which is exactly how these moments stay deniable. The comment is minor, but it carries the larger pattern.",
+      "snippet_id": "S-014-SN0021"
     }
   ],
   "validation_warnings": [],

@@ -1,0 +1,353 @@
+{
+  "scenario_id": "S-079",
+  "player_type": "Egocentric Evan",
+  "scenario": {
+    "scenario_id": "S-079",
+    "architecture_name": "He builds intimacy by making me the main reflection in his story, then quietly centers himself as the prize, the judge, and the one who gets to define what our closeness means.",
+    "culture": "South Asian",
+    "demographics": "Adult woman, likely Latina, single mother, dating a man named Carlos",
+    "cultural_context": "Family-centered social sphere with strong emphasis on traditions, children, and extended family gatherings",
+    "geographic_setting": "East LA / Los Angeles urban environment",
+    "core_behaviors": [
+      "Pedestal praise that routes through his possession and discernment",
+      "Public display and social comparison that make her feel selected",
+      "Soft gatekeeping of her time and attention under the cover of care"
+    ],
+    "satellite_signals": "Sweet, intense texting; special-event planning; questions about family and kids; repeated emphasis on being chosen and shown off; subtle pressure to prioritize him.",
+    "dismissible_red_flags": "His intensity can read as flattering early excitement, and his questions about family and parenting can seem like genuine interest rather than a bid to become the center of her world.",
+    "scenario_text": "I met Carlos about three weeks ago, and honestly it has been kind of sweet. He texts me first thing in the morning, little things like, “I just can’t stop thinking about you,” and he says my name in this soft way that makes me smile at my phone like an idiot. The other night he picked me up after work and took me to this rooftop place downtown instead of the taco spot I said I liked, because he said, “Let me do something that actually fits you.” He kept looking at me across the table like he was trying to memorize my face. It was flattering, I’m not going to lie.\n\nHe’s very into family, or at least that’s how he talks. He asked about my kids right away, and about my parents, and then he said, “What does your father do?” which sounded a little formal but not bad. He told me my last name sounded “so beautiful,” and then asked if I was from a “good family.” I guess he grew up around South Asian people at school, so maybe that’s just his way of talking. He also kept saying I was “perfect, genuinely,” and that he’s picky, so it meant more coming from him.\n\nWhat threw me a little was that he kept saying things like, “I don’t really do average,” and “people are going to notice us.” He even laughed and said, “You’re the kind of woman who makes a man look like he has good taste.” I know he meant it as a compliment. He just seems proud, and maybe a little extra, but not in a bad way. He also asked if I could skip my cousin’s birthday next weekend so we could do something just us. It wasn’t a huge fight or anything, he just said it would be more special if it was our night.\n\nAm I overthinking the way he asked me to skip my cousin’s birthday?"
+  },
+  "snippets": [
+    {
+      "quote": "I just can’t stop thinking about you",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds romantic on the surface, but it also sets up constant access and emotional saturation very early. The intensity feels flattering because it comes wrapped in devotion, yet it already makes her the place he wants to park his feelings.",
+      "snippet_id": "S-079-SN0001"
+    },
+    {
+      "quote": "my name in this soft way",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The tenderness is real, and that is why it works. He is using warmth to create closeness quickly, so the bond feels intimate before there has been much actual knowing.",
+      "snippet_id": "S-079-SN0002"
+    },
+    {
+      "quote": "picked me up after work",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He controls the logistics from the start. It reads as helpful, but it also puts him in the role of mover and organizer while she is the one being carried through the evening.",
+      "snippet_id": "S-079-SN0003"
+    },
+    {
+      "quote": "he said, “Let me do something that actually fits you.”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is flattering because it sounds attentive, but it also places him as the one who knows what suits her. He is subtly claiming interpretive authority over her taste and needs.",
+      "snippet_id": "S-079-SN0004"
+    },
+    {
+      "quote": "He kept looking at me across the table",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The stare is affectionate, but it also turns her into an object of sustained appraisal. He is not just enjoying dinner, he is taking in her reaction and making her aware of being watched.",
+      "snippet_id": "S-079-SN0005"
+    },
+    {
+      "quote": "trying to memorize my face",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the kind of line that feels flattering in the moment. The deeper pattern is possession through idealization, as if he is collecting her image rather than getting to know her as a person.",
+      "snippet_id": "S-079-SN0006"
+    },
+    {
+      "quote": "He asked about my kids right away",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Early interest in her children can be caring, but here it also speeds the relationship into family territory. He is moving toward a role in her life before there is much foundation.",
+      "snippet_id": "S-079-SN0007"
+    },
+    {
+      "quote": "What does your father do?",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "In South Asian-style dating talk, this is not just small talk. It is a class and family-status probe, the kind of question that helps him sort her family into a hierarchy and decide how to position himself.",
+      "snippet_id": "S-079-SN0008"
+    },
+    {
+      "quote": "my last name sounded “so beautiful”",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The compliment is about the surface of her identity, not her actual self. It sounds appreciative, but it also turns her name into something he can admire and display.",
+      "snippet_id": "S-079-SN0009"
+    },
+    {
+      "quote": "asked if I was from a “good family”",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "That phrase carries real social weight in South Asian registers. It sounds polite, but it is also a sorting question, one that puts her family on trial and makes approval feel conditional.",
+      "snippet_id": "S-079-SN0010"
+    },
+    {
+      "quote": "I was “perfect, genuinely,”",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is pedestal language. He is not naming a specific thing she does well, he is elevating her into an ideal, which feels amazing now and later becomes a standard she has to keep performing.",
+      "snippet_id": "S-079-SN0011"
+    },
+    {
+      "quote": "he’s picky",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She is borrowing his own self-description to make the praise feel more valuable. The hidden structure is that his approval becomes scarce, and scarce approval is easier to chase than to question.",
+      "snippet_id": "S-079-SN0012"
+    },
+    {
+      "quote": "I don’t really do average",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is a self-declaration of exceptionalism. It sounds confident and even attractive, but it quietly tells her that ordinary needs, ordinary conflict, and ordinary limits may all be beneath him.",
+      "snippet_id": "S-079-SN0013"
+    },
+    {
+      "quote": "people are going to notice us",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This makes the relationship about audience and image. The couple becomes a display, and her value is partly that she helps him be seen in a better light.",
+      "snippet_id": "S-079-SN0014"
+    },
+    {
+      "quote": "You’re the kind of woman who makes a man look like he has good taste",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is a compliment, but it is really about him. She is being cast as proof of his discernment, which means her role is to reflect well on his judgment.",
+      "snippet_id": "S-079-SN0015"
+    },
+    {
+      "quote": "skip my cousin’s birthday",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-low",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the first real bid to redirect her time away from her people. It is not framed as a demand, just as something more special, which makes it easier for her to feel guilty for resisting.",
+      "snippet_id": "S-079-SN0016"
+    },
+    {
+      "quote": "just us",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Isolation-low",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This phrase sounds intimate and romantic, but it also narrows the world down to the couple. The more often that frame gets used, the more her outside ties start to feel optional.",
+      "snippet_id": "S-079-SN0017"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

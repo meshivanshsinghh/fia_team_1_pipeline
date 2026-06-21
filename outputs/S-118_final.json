@@ -1,0 +1,491 @@
+{
+  "scenario_id": "S-118",
+  "player_type": "Pity-Party Parker",
+  "scenario": {
+    "scenario_id": "S-118",
+    "architecture_name": "He uses wounded self-disclosure and public charm to make her his emotional caretaker while quietly making her needs feel smaller and less urgent.",
+    "culture": "Hustle Culture",
+    "demographics": "Young adult woman, newly relocated, pursuing further education; partner is a 30-ish project manager in construction",
+    "cultural_context": "Higher education / student social circle, with a dating-and-career-adjacent community event context",
+    "geographic_setting": "Albuquerque, New Mexico; urban community setting",
+    "core_behaviors": [
+      "Rapid wounded self-disclosure that makes her feel specially trusted",
+      "Public charm that wins everyone over while privatizing his neediness",
+      "Soft comparisons that shrink her concerns and pull her into reassurance mode"
+    ],
+    "satellite_signals": "Hustle-culture status talk, weekend-planning as control disguised as care, endless compliments and gifts, and a quiet expectation that she will keep topping up his feelings.",
+    "dismissible_red_flags": "At this stage it reads like intense sincerity, gratitude, and a man who is simply emotionally open. His sadness and self-blame can seem tender rather than manipulative, and the constant checking-in can feel like closeness.",
+    "scenario_text": "I moved to Albuquerque a few months ago for grad school, so I still feel like I’m building my whole life from scratch. That’s part of why it felt so good meeting him at that community event. He’s a project manager in construction, super put-together, and he had this easy confidence that made me relax right away. He keeps saying he likes that I’m ambitious, that I’m not just here to drift, and he’ll ask things like, “What do you do when you’re locked in?” like it’s cute that I’m always studying.\n\nHe’s been really generous too. He insists on paying, says, “I want to take care of you,” and he’ll show up with flowers or some little snack from that place near UNM like it’s nothing. The other night he told me, kind of laughing, “I’m just greedy for time with you,” because I mentioned my study group and he already had a dinner planned. I did go, and I had fun, so I feel weird even noticing that part.\n\nWhat’s been sitting with me more is how much he opens up. He told me he doesn’t usually trust people, that his last relationship and a couple family things really did a number on him, and then he said I’m the first person who makes him feel calm. He even texted, “Don’t make me go back to being the guy who handles everything alone.” That sounded so sad I just wanted to reassure him.\n\nHe’s also always asking if we’re okay, if I still like him, if he’s “too much,” and honestly I usually end up comforting him. He says my life seems so clean compared to his, which I know he doesn’t mean badly, but it makes me feel a little guilty bringing up my own stress. Am I overthinking the way he said he was greedy for time with me?"
+  },
+  "snippets": [
+    {
+      "quote": "I moved to Albuquerque a few months ago",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Grounding detail. It places her as newly relocated, which helps explain why his attention lands so strongly and why his world can start to feel like home.",
+      "snippet_id": "S-118-SN0001"
+    },
+    {
+      "quote": "for grad school",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This signals ambition and a life in motion. It also makes her easier to flatter as someone with direction, which he can then position himself beside.",
+      "snippet_id": "S-118-SN0002"
+    },
+    {
+      "quote": "building my whole life from scratch",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is narrating vulnerability without alarm. That kind of transition can make a new partner feel like a stabilizer, which is exactly where his neediness can hook in.",
+      "snippet_id": "S-118-SN0003"
+    },
+    {
+      "quote": "community event",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A socially normal meet-cute setting. It also fits a man who knows how to present well in public and win trust quickly.",
+      "snippet_id": "S-118-SN0004"
+    },
+    {
+      "quote": "project manager in construction",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This gives him a concrete, steady profession and a practical status position. The detail matters because his competence reads as reliability, which makes later emotional dependency feel less suspicious.",
+      "snippet_id": "S-118-SN0005"
+    },
+    {
+      "quote": "super put-together",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is admiration language, but it also suggests a polished presentation that can cover a more needy interior. She is responding to the surface he manages well.",
+      "snippet_id": "S-118-SN0006"
+    },
+    {
+      "quote": "easy confidence",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "It sounds attractive and calm. In this architecture, confidence is part of the charm mask that makes his later emotional demands feel justified and earned.",
+      "snippet_id": "S-118-SN0007"
+    },
+    {
+      "quote": "not just here to drift",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is hustle-culture praise, framing her as purposeful and serious. It flatters her identity and makes his approval feel especially meaningful.",
+      "snippet_id": "S-118-SN0008"
+    },
+    {
+      "quote": "What do you do when you’re locked in?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is speaking in the register of productivity as identity, which is normal in this culture. The subtext is that he is evaluating her discipline and mirroring her world to seem aligned.",
+      "snippet_id": "S-118-SN0009"
+    },
+    {
+      "quote": "I want to take care of you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "On the surface this sounds generous. Structurally, it sets up a caretaker role for him and a receiver role for her, which makes indebtedness and dependence feel romantic.",
+      "snippet_id": "S-118-SN0010"
+    },
+    {
+      "quote": "flowers or some little snack",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The gifts are small but frequent, which creates a steady drip of goodwill. That can make her feel chosen and make later complaints feel ungrateful.",
+      "snippet_id": "S-118-SN0011"
+    },
+    {
+      "quote": "the place near UNM",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A local detail that roots the scene in her new environment. It also makes his attentiveness feel specific and personal rather than generic.",
+      "snippet_id": "S-118-SN0012"
+    },
+    {
+      "quote": "I’m just greedy for time with you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds sweet in the moment, but it quietly frames her time as something he is entitled to. It also normalizes his preference for closeness over her existing commitments.",
+      "snippet_id": "S-118-SN0013"
+    },
+    {
+      "quote": "my study group",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her own life structure, and it matters because his plans are already starting to compete with it. The tension is small now, but the hierarchy is visible.",
+      "snippet_id": "S-118-SN0014"
+    },
+    {
+      "quote": "he already had a dinner planned",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is the one setting the schedule, which looks thoughtful on the surface. The structural issue is that her commitments are being treated as secondary to his pre-made plan.",
+      "snippet_id": "S-118-SN0015"
+    },
+    {
+      "quote": "He told me he doesn’t usually trust people",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is a vulnerability statement that invites caretaking. It makes her feel specially chosen because she gets access to the guarded version of him.",
+      "snippet_id": "S-118-SN0016"
+    },
+    {
+      "quote": "his last relationship",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A simple reference to his dating history, but it matters because the story is already being shaped around him as someone who has been hurt.",
+      "snippet_id": "S-118-SN0017"
+    },
+    {
+      "quote": "a couple family things really did a number on him",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Emotional Overexposure-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Morality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is wounded self-disclosure without specifics, which can feel intimate and honest. It also keeps the focus on his pain while making her responsible for handling it gently.",
+      "snippet_id": "S-118-SN0018"
+    },
+    {
+      "quote": "I’m the first person who makes him feel calm",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Being cast as the one who calms him is flattering, but it also makes her responsible for his emotional regulation. That is a heavy role to hand to a new partner.",
+      "snippet_id": "S-118-SN0019"
+    },
+    {
+      "quote": "Don’t make me go back to being the guy who handles everything alone",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Exploitation-high",
+        "Emotional Overexposure-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest hook. He turns his pain into a request for ongoing rescue, and if she hesitates, she risks feeling like the person who abandoned him.",
+      "snippet_id": "S-118-SN0020"
+    },
+    {
+      "quote": "he’s \"too much\"",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a self-deprecating phrase that invites reassurance. It sounds humble, but it also trains her to soothe his insecurity before she can name her own discomfort.",
+      "snippet_id": "S-118-SN0021"
+    },
+    {
+      "quote": "I usually end up comforting him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She notices the pattern, but only as a tired routine, not a problem. That imbalance is the architecture: her energy goes into steadying him while her own needs get less room.",
+      "snippet_id": "S-118-SN0022"
+    },
+    {
+      "quote": "my life seems so clean compared to his",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Deception-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This comparison makes his story sound heavier and more morally charged than hers. It nudges her into guilt and into the role of the understanding exception.",
+      "snippet_id": "S-118-SN0023"
+    },
+    {
+      "quote": "it makes me feel a little guilty bringing up my own stress",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the quiet cost. She is already editing herself because his pain has become the larger, more legitimate subject in the relationship.",
+      "snippet_id": "S-118-SN0024"
+    },
+    {
+      "quote": "greedy for time with you",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Repeated because it is the most diagnostic phrase in the story. It sounds playful, but it normalizes possessive access to her time and makes his desire feel like a moral claim.",
+      "snippet_id": "S-118-SN0025"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

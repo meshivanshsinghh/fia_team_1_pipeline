@@ -1,0 +1,402 @@
+{
+  "scenario_id": "S-078",
+  "player_type": "Domineering Devin",
+  "scenario": {
+    "scenario_id": "S-078",
+    "architecture_name": "He builds closeness as a system where his care becomes the standard and my choices start routing through him.",
+    "culture": "Black Professional",
+    "demographics": "Young adult Black woman, Black man, early-stage dating, Atlanta, Georgia",
+    "cultural_context": "Young professional creative/tech social circle in Atlanta",
+    "geographic_setting": "Atlanta, Georgia; urban Southern city with nightlife and festival scene",
+    "core_behaviors": [
+      "Frames discipline and order as love",
+      "Uses provider language to create gratitude and deference",
+      "Turns small corrections into a shared standard",
+      "Gently narrows her time, style, and social world"
+    ],
+    "satellite_signals": "Black Professional status markers, early future-planning, praise for his structure, and subtle pressure to fit his routines and public image.",
+    "dismissible_red_flags": "He mostly sounds thoughtful, serious, and dependable. The controlling parts are easy to miss because they come wrapped in protection, efficiency, and him seeming more put-together than men she has dated before.",
+    "scenario_text": "I’ve been seeing Devin for a few weeks, and honestly he’s been really good to me. He works in tech, always looks pulled together, and he has this calm way of moving through Atlanta like he already knows where everything is. The first time we went out, he asked, “Where did you go to school?” and then laughed when I told him I was Spelman. He said, “That makes sense,” like it was a compliment, and I kind of liked that he clocked me so fast.\n\nHe’s big on routine. He told me, “I’m up at five every day, no exceptions,” and I swear he said it like it was a moral thing. He also said, “A man who can’t provide isn’t really a man,” which sounds old-school, but he does pay for everything and never lets me reach for my card. Last week he booked dinner, the car service, and even the museum tickets, then said, “You don’t need to do anything but show up.” It was sweet, I guess. A little much, but sweet.\n\nHe’s also always asking about my schedule, like, “Walk me through your day,” and he’ll say he just wants us to stay on the same page. When I mentioned brunch with my line sisters, he said, “I was hoping we could keep it just us tonight,” real soft, like he was being considerate. And when I wore a more casual dress to meet his friends, he smiled and said, “You’re too pretty to be dressed like you’re running errands.” I laughed, but it stayed with me.\n\nMaybe I’m just not used to a man being this intentional. Do you think I was being too sensitive about the dress comment?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-078-SN0001",
+      "quote": "seeing Devin for a few weeks",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Early-stage intensity. The relationship is moving fast enough that his influence is already noticeable, even though nothing is openly wrong yet."
+    },
+    {
+      "snippet_id": "S-078-SN0002",
+      "quote": "works in tech",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Simple class and professional marker. It places him in the Atlanta young-professional world she is describing."
+    },
+    {
+      "snippet_id": "S-078-SN0003",
+      "quote": "always looks pulled together",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is praise for polish and presentation. It also hints that appearance and composure matter a lot to him."
+    },
+    {
+      "snippet_id": "S-078-SN0004",
+      "quote": "he already knows where everything is",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is framed as the one who navigates, decides, and understands the city. That gives him the lead position before she has even settled in."
+    },
+    {
+      "snippet_id": "S-078-SN0005",
+      "quote": "Where did you go to school?",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "In Black professional circles this is a real status and identity question. It is also a quick way of sorting her into a class and network category."
+    },
+    {
+      "snippet_id": "S-078-SN0006",
+      "quote": "Spelman",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This signals Black women’s elite educational formation. It also tells us she is being read through a prestige lens from the start."
+    },
+    {
+      "snippet_id": "S-078-SN0007",
+      "quote": "That makes sense",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The line sounds flattering, but it quietly claims the authority to define her for her. He is not asking who she is, he is telling her what fits."
+    },
+    {
+      "snippet_id": "S-078-SN0008",
+      "quote": "I’m up at five every day, no exceptions",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He presents discipline as moral law, not preference. That can sound admirable early on, but it sets a standard that leaves little room for her own pace or variation."
+    },
+    {
+      "snippet_id": "S-078-SN0009",
+      "quote": "no exceptions",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The absolute wording is the tell. It makes his routine feel like the correct order of things, not just one man’s habit."
+    },
+    {
+      "snippet_id": "S-078-SN0010",
+      "quote": "A man who can’t provide isn’t really a man",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Grandiosity-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Moral Injury"
+      ],
+      "reasoning": "This is gender hierarchy spoken as common sense. It sounds traditional and responsible, but it also installs a rank system where his role carries the authority."
+    },
+    {
+      "snippet_id": "S-078-SN0011",
+      "quote": "he does pay for everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The generosity is real, but it also creates a debt atmosphere. When one person always pays, the other can start feeling like the guest instead of an equal partner."
+    },
+    {
+      "snippet_id": "S-078-SN0012",
+      "quote": "You don’t need to do anything but show up",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Enmeshment-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds pampering, but it removes her from decisions and effort. He is creating a relationship where her role is to receive, not participate."
+    },
+    {
+      "snippet_id": "S-078-SN0013",
+      "quote": "Walk me through your day",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A schedule check can be practical, but here it also makes her time accountable to him. That is a soft way of moving her day into his system."
+    },
+    {
+      "snippet_id": "S-078-SN0014",
+      "quote": "keep it just us tonight",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high",
+        "Neediness-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the early version of narrowing her world. It sounds intimate, but it starts making her other relationships feel optional or secondary."
+    },
+    {
+      "snippet_id": "S-078-SN0015",
+      "quote": "my line sisters",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a Black Greek-life relationship marker. It shows she has a real social world outside him, which matters because he is already nudging toward exclusivity."
+    },
+    {
+      "snippet_id": "S-078-SN0016",
+      "quote": "You’re too pretty to be dressed like you’re running errands",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high",
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "It is framed as a compliment, but it corrects her appearance and makes her self-presentation answer to his taste. The joke also puts her in the position of laughing instead of pushing back."
+    },
+    {
+      "snippet_id": "S-078-SN0017",
+      "quote": "I laughed",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This shows the small self-silencing moment. She notices the sting, but she smooths it over in real time instead of checking it."
+    },
+    {
+      "snippet_id": "S-078-SN0018",
+      "quote": "It was sweet, I guess",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her own language is doing the minimizing work. She is trying to keep the gesture in the category of sweet even though part of her knows it felt a little off."
+    },
+    {
+      "snippet_id": "S-078-SN0019",
+      "quote": "Maybe I’m just not used to a man being this intentional",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the narrator’s main rationalization. She translates his managing behavior into intentionality, which is exactly why the early control can feel romantic instead of restrictive."
+    },
+    {
+      "snippet_id": "S-078-SN0020",
+      "quote": "too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The closing concern is tiny on purpose. She is not naming control, only wondering if her reaction to the dress comment was excessive."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

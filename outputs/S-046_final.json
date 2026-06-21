@@ -1,0 +1,381 @@
+{
+  "scenario_id": "S-046",
+  "player_type": "Menacing Marley",
+  "scenario": {
+    "scenario_id": "S-046",
+    "architecture_name": "He builds closeness as protection and then turns that closeness into a rule that she should reorganize her life around him.",
+    "culture": "South Asian",
+    "demographics": "Recent South Asian immigrant, newly dating, boyfriend, student with a part-time job",
+    "cultural_context": "Immigrant student balancing school and a part-time job; urban dating/social life in New York",
+    "geographic_setting": "New York City, especially Central Park and Brooklyn",
+    "core_behaviors": [
+      "Constant contact feels romantic at first",
+      "Protective offers quietly become expectations",
+      "Her friends and schedule start to feel secondary to him"
+    ],
+    "satellite_signals": "Central Park and Brooklyn as early dating spaces; homemade food and schedule-help as care; South Asian family and food references used as intimacy markers.",
+    "dismissible_red_flags": "He sounds attentive, proud, and eager to be included in her world. The control is easy to miss because it arrives as help, curiosity, and affection.",
+    "scenario_text": "I keep thinking about Saturday because it was honestly so sweet. He picked a little spot in Central Park and brought homemade sandwiches, and I felt a little silly for how happy that made me. I’m still getting used to dating here, so someone planning something that felt calm and intentional just landed well. He kept asking about my classes and my job, then said, “Morning. What’s your day looking like?” like it was the most natural thing in the world to check in. I liked that he remembered my lab ran late and texted, “Just thinking about you. Send me a pic of where you’re at.” It felt caring, not weird. He said he wanted to meet my friends soon because he liked “the amazing people who make up your world,” and I thought that was kind of sweet too. At one point he teased me about the spices I use in my cooking and said, “You’re the first person to make me appreciate real flavors!” I laughed because it sounded like a compliment, even if it was a little much. Then he said he didn’t really get why anyone would want to leave Brooklyn once they found their place, and I guess I liked that he seemed so sure about things. Later he offered to help organize my schedule so we could see each other more, which, honestly, was nice because school and work are a lot right now. He told me, “I can’t imagine not seeing you every day,” and I remember feeling kind of chosen, like maybe he was just more into me than anyone I’ve dated before. Am I overthinking that he keeps wanting to know where I am?"
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-046-SN0001",
+      "snippet_text": "picked a little spot in Central Park",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A sweet early-date detail that also shows he is setting the scene and the tone. It feels thoughtful, but it starts the pattern of him curating the relationship world."
+    },
+    {
+      "snippet_id": "S-046-SN0002",
+      "snippet_text": "brought homemade sandwiches",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A caring gesture on the surface. In context, it helps him create emotional debt fast, so she feels lucky and a little beholden."
+    },
+    {
+      "snippet_id": "S-046-SN0003",
+      "snippet_text": "felt a little silly for how happy that made me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She notices how strongly she’s responding and immediately shrinks it. That kind of self-minimizing can make it easier to overlook unevenness later."
+    },
+    {
+      "snippet_id": "S-046-SN0004",
+      "snippet_text": "someone planning something that felt calm and intentional",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "‘Calm and intentional’ reads as maturity and care, which is why it works. It also frames his planning as authority, so her comfort starts depending on his setup."
+    },
+    {
+      "snippet_id": "S-046-SN0005",
+      "snippet_text": "Morning. What’s your day looking like?",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like normal interest, but it also establishes a daily-reporting rhythm. The question is gentle enough to feel romantic while quietly making her availability something he tracks."
+    },
+    {
+      "snippet_id": "S-046-SN0006",
+      "snippet_text": "my lab ran late",
+      "kind_of_signal": [
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a small work-and-school detail, but it shows she already has a packed life he can start orbiting around. The later push to coordinate her schedule lands on top of real constraints."
+    },
+    {
+      "snippet_id": "S-046-SN0007",
+      "snippet_text": "Just thinking about you. Send me a pic of where you’re at.",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is affectionate on the surface, but it normalizes location-sharing very early. It turns care into a reporting habit, which is a small version of monitoring."
+    },
+    {
+      "snippet_id": "S-046-SN0008",
+      "snippet_text": "meet my friends soon",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Wanting to meet friends can be normal, but here it comes very early and very eagerly. It hints at fast incorporation into his social world before the relationship has any real shape."
+    },
+    {
+      "snippet_id": "S-046-SN0009",
+      "snippet_text": "the amazing people who make up your world",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is flattering language, but it also turns her whole social circle into something he wants access to. It sounds warm while quietly positioning him at the center of her world."
+    },
+    {
+      "snippet_id": "S-046-SN0010",
+      "snippet_text": "You’re the first person to make me appreciate real flavors!",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "It’s a compliment, but it also puts her in the role of the special exception. That can feel intoxicating early on and later becomes a way to keep her performing that uniqueness."
+    },
+    {
+      "snippet_id": "S-046-SN0011",
+      "snippet_text": "the spices I use in my cooking",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a culturally specific detail that helps locate the relationship in her world. It matters because he is not just liking her, he is folding her background into his way of praising her."
+    },
+    {
+      "snippet_id": "S-046-SN0012",
+      "snippet_text": "I laughed because it sounded like a compliment",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "She can tell the line is a little much, but she smooths it over as a compliment. That’s the early sign that she is translating a backhanded edge into something harmless."
+    },
+    {
+      "snippet_id": "S-046-SN0013",
+      "snippet_text": "why anyone would want to leave Brooklyn",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "On its face it’s just a preference about the neighborhood. In context, it hints that he wants the relationship to narrow around his preferred geography and his sense of where they should belong."
+    },
+    {
+      "snippet_id": "S-046-SN0014",
+      "snippet_text": "he seemed so sure about things",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "She reads his certainty as attractive. The underlying issue is that certainty can feel like leadership at first and later become nonnegotiable authority."
+    },
+    {
+      "snippet_id": "S-046-SN0015",
+      "snippet_text": "help organize my schedule",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest early asymmetry. He is offering to manage something that belongs to her, and because it’s framed as help, it can look loving instead of intrusive."
+    },
+    {
+      "snippet_id": "S-046-SN0016",
+      "snippet_text": "we could see each other more",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The word ‘we’ sounds romantic, but it also quietly turns his access to her time into the norm. It suggests that her schedule should bend toward the relationship rather than stay her own."
+    },
+    {
+      "snippet_id": "S-046-SN0017",
+      "snippet_text": "I can’t imagine not seeing you every day",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Attachment-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds devoted, and that’s why it works so well early. But it also sets an expectation of constant access, which can make ordinary space feel like a problem she needs to explain."
+    },
+    {
+      "snippet_id": "S-046-SN0018",
+      "snippet_text": "kind of chosen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She likes the feeling of being singled out, which is very human. The risk is that being ‘chosen’ can become the emotional hook that makes her tolerate too much to keep the feeling."
+    },
+    {
+      "snippet_id": "S-046-SN0019",
+      "snippet_text": "he keeps wanting to know where I am",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the smallest version of the concern she actually has. It sounds like interest, but it also shows the beginnings of surveillance disguised as affection."
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

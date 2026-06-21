@@ -1,0 +1,1314 @@
+{
+  "scenario_metadata": {
+    "scenario_id": "S-033",
+    "target_register": "Hustle Culture",
+    "player_type": "Tornado Toby"
+  },
+  "primary_metaphors": [
+    "Engagement-as-a-Place-One-Is-Inside",
+    "Motivation-as-a-Force-That-Arrives-from-the-Task",
+    "Out-of-Sight-as-Out-of-Existence",
+    "Time-as-Physical-Distance",
+    "The-Partner-as-the-Place-Things-Are-Kept",
+    "Apology-as-Reset-Button",
+    "Benign-ADHD-Disorganization",
+    "Benign-Chaos",
+    "Benign-Forgetfulness",
+    "Benign-Spontaneity",
+    "Benign-Time-Management",
+    "Benign-Impulsivity",
+    "Benign-Novelty-Seeking",
+    "Benign-Nonlinear-Thinking",
+    "Benign-Distractibility",
+    "Benign-High-Energy",
+    "Benign-Intent-Clarity",
+    "Benign-Adaptation",
+    "Benign-Excitement",
+    "Benign-Unpolished",
+    "Benign-Uneven-Skills",
+    "Benign-Repair",
+    "Benign-Self-Awareness",
+    "Benign-Care-with-Chaos",
+    "Benign-Lateness",
+    "Benign-Attention-Scatter",
+    "Healthy-Preference",
+    "Engagement-as-Place-Inside",
+    "Partner-as-Place-Things-Are-Kept",
+    "Motivation-as-Force-from-Task",
+    "Rejection-Sensitive-Dysphoria"
+  ],
+  "manipulation_vocabulary": [
+    {
+      "mechanism": "electric idea-mind (zip-zip-zap, the draw)",
+      "his_language": "Wait, that connects to the jellyfish thing you mentioned, which is basically your whole job, oh, that reminds me of a song, hang on, can I play it for you?",
+      "her_experience": "His mind moves a mile a minute, connecting wild ideas, and somehow it always loops back around to me. He wrote me a song after our second date. Being near that much crackling energy is genuinely electric, I've never met anyone like him.",
+      "expert_notices": "Engagement-as-Place-Inside: high-wattage idea-connecting mind (predator-level intensity) rendered as DELIGHT because entitlement/dominance are absent (Dominance2/Control2). The song = spontaneous warm gesture, no agenda. Marker SHOWN (zip-zip-zap cadence), not announced. She reads electric/charmed."
+    },
+    {
+      "mechanism": "hyperfocus on her (dazzling, the draw)",
+      "his_language": "I went down a rabbit hole about your hometown last night, I know way too much about it now, the old diner, the flood, all of it. I just wanted to know where you're from.",
+      "her_experience": "When something grabs his attention he goes all the way in, and lately that's been me, learning everything about my hometown, my favourite music, the lot. The depth of his focus when it's on me is intoxicating.",
+      "expert_notices": "Hyperfocus as devotion: intense focus on her (genuine early draw) from his absorption-engine, NOT strategy (Deception2). Marker shown, benign intent. CONTRAST: resembles love-bombing, lacks predatory aim. She reads intoxicating attention. The same engine produces the later overlooked-feeling."
+    },
+    {
+      "mechanism": "infectious enthusiasm (the draw, edged)",
+      "his_language": "Forget the plan, I've got a better one, come on. I know you wanted the dinner thing but trust me this'll be more fun, you can do dinner anytime. Get your shoes, this is happening, tonight, right now.",
+      "her_experience": "His spontaneous ideas usually are more fun, so I go along with the whirlwind. Though I have noticed the plan that gets tossed is usually mine, and the better idea is usually his. It's exciting, but I'm rarely the one steering.",
+      "expert_notices": "Engagement/impulse draw, EDGED: the magnetism is real and exciting (why she's hooked) but already runs on his impulse, quietly overriding her plans. Surface = a bit self-centred. Buried tell: enthusiasm sweeping her in, NOT a dominance play (Dominance2), no sense he's owed compliance. She notices the asymmetry lightly."
+    },
+    {
+      "mechanism": "follow-through slips (reads as overlooked)",
+      "his_language": "I know I said I'd get the tickets and I completely spaced, sorry. I forget stuff if I don't do it right away. Can you grab them? You're better at this anyway.",
+      "her_experience": "He means well but the follow-through isn't there, so things land on me by default. Individually it's never a huge deal, but lately I've caught myself feeling like the designated responsible one, which isn't quite the vibe I signed up for.",
+      "expert_notices": "Motivation-as-Force-from-Task: poor follow-through (low Goal-persistence) defaults things to her, mild and early (chart: 'struggles with follow-through'). Surface = mildly inconsiderate. Buried tell: content-blind (drops his OWN things too), 'you're better at it' is relief not strategic flattery (Exploitation3 not 8), no entitlement. She feels the creep toward responsible-one."
+    },
+    {
+      "mechanism": "goes quiet in a project (reads as dropped)",
+      "his_language": "Sorry I went quiet the last couple days, I got really into this project and kind of forgot the rest of the world existed. How are you, what did I miss?",
+      "her_experience": "When he gets absorbed in something he basically vanishes, and I go from being the centre of his world to feeling like I dropped off his radar entirely. He swears it's not about me, and honestly it does seem true, but it still doesn't feel great.",
+      "expert_notices": "Out-of-Sight-as-Out-of-Existence: going quiet from absorption reads as being dropped (chart: 'feel overlooked or dropped'). EARLY, days not weeks. Buried tell: symmetric ('forgot to eat,' not just her), no strategic intermittency (Control2/Deception2), genuinely not punishment. She feels dropped (legit) but clocks it's not aimed at her."
+    },
+    {
+      "mechanism": "attention swings to the next thing (overlooked in the dip)",
+      "his_language": "You're amazing, you know that, honestly the best thing in ages. Hey quick thing, did the part for the bike arrive? I cannot stop thinking about getting it running this weekend, I'm so close.",
+      "her_experience": "One minute I'm the most fascinating thing in his world and the next he's mid-sentence onto his next obsession. The attention is intoxicating when it lands on me, but it moves, and you really feel the difference when it's gone.",
+      "expert_notices": "Engagement: attention swing (hyperfocus then off to next novelty, Sensation10/Inconsistency9) so she feels the contrast when it moves. Surface = his interests eclipse her. Buried tell: not withdrawal-as-strategy, just where attention went; warmth real when present, no devaluing when absent. She reads overlooked, attributes it to wiring not coldness."
+    },
+    {
+      "mechanism": "loses track of time (reads as disrespectful)",
+      "his_language": "Sorry I'm late again, I thought I had loads of time and then I didn't. I lost track. I hate that I keep doing this to you.",
+      "her_experience": "He's chronically late and it can feel like my time doesn't matter to him, which stings. But it's not just me, he's late to everything, his own stuff included, and he seems genuinely distressed by it rather than blas��. It reads less like disrespect and more like a broken clock.",
+      "expert_notices": "Time-as-Physical-Distance: chronic lateness reads as disrespect/your-time-doesn't-matter (real sting). Buried tell: symmetric (late to his OWN things), genuine distress not blas�� entitlement (no Disrespect/Grandiosity), 'a broken clock' not contempt. She separates broken-clock from doesn't-value-me."
+    },
+    {
+      "mechanism": "she carries the logistics (reads as being used)",
+      "his_language": "Wait, did I say I'd book the restaurant, or did you? I've totally lost the thread. You're way better at keeping track of this stuff than me.",
+      "her_experience": "Somehow I've drifted into managing a lot of the practical side, the bills, the calendar, the reminders, on top of my own. He's endlessly grateful and tells everyone I'm a genius at it, but I do sometimes wonder how it all became mine.",
+      "expert_notices": "Partner-as-Place-Things-Are-Kept: she absorbs logistics (reads like being used, depleting, chart-adjacent). Surface resembles exploitation. Buried tell: NO ownership-claim/entitlement (Dominance2, Exploitation3 not 10), the gratitude is genuine not strategic, the deficit is real (he'd be underwater alone, not engineering it). She feels the load, not yet resentful."
+    },
+    {
+      "mechanism": "flakes on what matters to her (reads as not-caring)",
+      "his_language": "Oh god, was that today? Your thing? I had it in my head as next week, I don't, I'm the worst, I'm so sorry. I'll make it up to you, I really will, just tell me how.",
+      "her_experience": "He missed something that mattered a lot to me because he just forgot, again. The apology is always genuine and he always means to do better, but I'm getting tired of apologies. Meaning well isn't really enough anymore.",
+      "expert_notices": "Motivation-as-Force-from-Task: misses what matters to her (reads as he-doesn't-care, real cost). Buried tell: content-blind forgetting (forgets his OWN important things identically), genuine remorse not performative, no pattern of it serving him. She reads not-cared-for; the hurt is legitimate and named honestly."
+    },
+    {
+      "mechanism": "actually implements the fix (follow-through on repair)",
+      "his_language": "I made us a shared calendar and set three alarms for your stuff, look, they're labelled. I've said I'd do better before and didn't, so I wanted to actually set it up this time.",
+      "her_experience": "What surprised me is he didn't just apologize, he actually put systems in place, the calendar, the alarms, all labelled. The forgetting still happens sometimes but the effort to genuinely fix it is real and ongoing, not just words to end the conversation.",
+      "expert_notices": "Repair with genuine implementation (Accountability-ish despite the deficit): he builds external scaffolding rather than just promising. The tell that the intent is benign: real effort to compensate for the limit, distinguishing 'can't reliably remember' from 'doesn't care to.' She sees effort, not just apology. (Note: the deficit persists, this is honest, not a cure.)"
+    },
+    {
+      "mechanism": "checks the impact on her (warmth is real)",
+      "his_language": "Hey, I went heads-down on this project for three days and basically vanished on you. That wasn't okay. Did that upset you? You can tell me.",
+      "her_experience": "After he disappears into something he'll resurface and actually check whether it hurt me, and he listens to the answer. He's not defensive about it, he genuinely wants to know the cost to me. He really does care, he just can't keep it steady.",
+      "expert_notices": "Out-of-Sight repair: he proactively checks the impact on her and can hear it (Empathy present, just intermittently deployed). The tell: genuine concern for the cost to her, no minimizing. CONTRAST: an avoidant/neglectful partner doesn't circle back to ask if the withdrawal hurt; Toby does. 'The consistency wobbles, not the heart.'"
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a bit scattered, my brain goes a hundred directions at once.",
+      "her_experience": "He's endearingly chaotic and honest about it, and it makes him easy to be around.",
+      "expert_notices": "There is no harmful second meaning. This is genuine ADHD-style distractibility with no encoded control."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm kind of chaotic but I mean well.",
+      "her_experience": "He seems warm and self-aware, not pretending to be perfect.",
+      "expert_notices": "There is no manipulation encoded here. The literal read is benign messiness plus good intent."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I forget things, but never the things that matter.",
+      "her_experience": "It sounds sweet, like he knows his flaws and still cares.",
+      "expert_notices": "There is no control meaning. Forgetfulness is a real limitation, not a tactic to destabilize her."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm spontaneous to a fault.",
+      "her_experience": "He sounds fun and lively, like life with him won't be boring.",
+      "expert_notices": "This is a benign impulsive trait. It may create inconvenience, but not hidden coercion."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm bad with calendars, good with enthusiasm.",
+      "her_experience": "He sounds funny and honest, like he brings energy even if he's disorganized.",
+      "expert_notices": "There is no second harmful meaning. This flags time-management difficulty, not manipulation."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a little impulsive, but I own it.",
+      "her_experience": "He seems self-aware and willing to take responsibility.",
+      "expert_notices": "No trap is encoded. Owning the trait points toward accountability, not excuse-making."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the type who starts five projects because I'm excited.",
+      "her_experience": "He sounds creative and enthusiastic, even if a bit messy.",
+      "expert_notices": "This is benign novelty-seeking. It does not encode control over her."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not always linear, but I get there eventually.",
+      "her_experience": "He sounds quirky and patient with himself.",
+      "expert_notices": "There is no coercive second meaning. Nonlinear thinking is not a manipulation tactic."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm easily distracted, especially when I'm excited.",
+      "her_experience": "It feels honest and human, like he trusts me enough to say it.",
+      "expert_notices": "This is a plain ADHD-like self-description, not hidden disregard or control."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a lot of energy in one human.",
+      "her_experience": "He seems playful and bright, like he brings life into the room.",
+      "expert_notices": "There is no hidden harm. High energy alone is not coercive."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm messy with plans, not with my intentions.",
+      "her_experience": "It reassures me that the chaos isn't about whether he cares.",
+      "expert_notices": "No harmful second meaning. He distinguishes executive-function issues from relational deceit."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm forgetful, so I write things down now.",
+      "her_experience": "He sounds responsible and willing to adapt.",
+      "expert_notices": "There is no trap. He names a limitation and a repair strategy."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the guy who gets excited and talks too fast.",
+      "her_experience": "It feels charming, like he is genuinely happy to be there.",
+      "expert_notices": "No hidden control. Fast talking from excitement is not dominance by itself."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not polished, but I'm very genuine.",
+      "her_experience": "He feels real and unpretentious, which I like.",
+      "expert_notices": "There is no second meaning. Lack of polish is not a manipulation engine here."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm better at big ideas than small logistics.",
+      "her_experience": "He sounds creative and honest about where he struggles.",
+      "expert_notices": "This is a benign uneven skill profile, not a bid to make her manage him."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a little chaotic, but I try to repair fast.",
+      "her_experience": "He sounds accountable, like mistakes won't just sit there.",
+      "expert_notices": "No harmful second meaning. Repair willingness is a protective sign, not a red flag."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm easily excited, which is both fun and annoying.",
+      "her_experience": "He makes me laugh, and I like that he knows himself.",
+      "expert_notices": "There is no hidden coercion. He is accurately naming a benign trait."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm the friend who forgets the umbrella and brings the snacks.",
+      "her_experience": "He sounds sweetly chaotic, like his care shows up imperfectly.",
+      "expert_notices": "No second harmful reading. This is disorganization with prosocial intent."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm not always on time, but I'm never careless on purpose.",
+      "her_experience": "He sounds honest and apologetic about a real weakness.",
+      "expert_notices": "There is no encoded control. Lateness is a functional issue, not a tactic, especially with accountability."
+    },
+    {
+      "mechanism": "self-advertisement",
+      "his_language": "I'm a walking browser tab, but a loyal one.",
+      "her_experience": "He sounds funny and affectionate, like scattered doesn't mean detached.",
+      "expert_notices": "No harmful second meaning. It is a benign metaphor for attention scatter plus loyalty."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I just want someone honest who communicates openly.",
+      "her_experience": "That is a green flag, he values clear communication which makes relationships work.",
+      "expert_notices": "There is no prey-selection here. This is a healthy reasonable preference with no encoded targeting; flagging it as predatory would be a false positive."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a patient person, I know I can be scattered.",
+      "her_experience": "He is self-aware about his quirks and looking for a kind patient partner.",
+      "expert_notices": "There is no prey-selection here. This is a sincere expression of self-awareness about executive dysfunction with no predatory undertone."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who's kind and easy to talk to.",
+      "her_experience": "He values kindness and good conversation, which are the foundations of love.",
+      "expert_notices": "There is no prey-selection here. This is a standard healthy desire for a compassionate communicative partner."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can help me stay focused on our shared plans.",
+      "her_experience": "He knows he gets distracted and wants us to work as an organized team.",
+      "expert_notices": "There is no prey-selection here. This is a normal request for collaborative partnership from someone who struggles with focus."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who is comfortable with a bit of daily spontaneity.",
+      "her_experience": "He is fun and energetic, looking for someone who doesn't mind mixing things up.",
+      "expert_notices": "There is no prey-selection here. This is a benign preference for flexibility matching his energetic cognitive style."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want a partner who doesn't mind hashing out disagreements right away.",
+      "her_experience": "He wants to resolve things quickly instead of letting issues fester,  which is healthy.",
+      "expert_notices": "There is no prey-selection here. This is a positive preference for active conflict resolution rather than passive-aggression."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need someone who can appreciate a high-energy lifestyle.",
+      "her_experience": "He has a lot of passion and energy, wanting someone who can share that joy.",
+      "expert_notices": "There is no prey-selection here. This is a healthy preference for matching energy levels in a relationship."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for an open book because I say whatever is on my mind.",
+      "her_experience": "He values total transparency and wants an honest direct connection.",
+      "expert_notices": "There is no prey-selection here. This is a sincere desire for mutual authenticity free of hidden agendas."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who can accept that I forget little things sometimes.",
+      "her_experience": "He is honest about his memory slips and wants an understanding partner.",
+      "expert_notices": "There is no prey-selection here. This is a reasonable ask for grace regarding minor cognitive slips common in neurodivergence."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who loves to laugh and keep things lighthearted.",
+      "her_experience": "He has a great sense of humor and wants a joyful happy relationship.",
+      "expert_notices": "There is no prey-selection here. This is a perfectly normal desire for mutual joy and lighthearted companionship."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can match my enthusiasm for new projects.",
+      "her_experience": "He is passionate about his hobbies and wants to share that excitement.",
+      "expert_notices": "There is no prey-selection here. This is a healthy desire to share creative interests with an encouraging partner."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who values a deep connection over superficial status.",
+      "her_experience": "He is grounded and cares about who I am inside, not what I own.",
+      "expert_notices": "There is no prey-selection here. This is an admirable preference for intrinsic value over shallow markers."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a girl who is passionate about her own hobbies too.",
+      "her_experience": "He respects my individuality and wants us both to have our own interests.",
+      "expert_notices": "There is no prey-selection here. This is a balanced preference that explicitly rejects codependency or total absorption."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who can remind me when I lose track of time.",
+      "her_experience": "He is self-aware about his time blindness and asks for cooperative support.",
+      "expert_notices": "There is no prey-selection here. This is a benign request for practical assistance in a mutually supportive relationship."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who enjoys deep late-night conversations.",
+      "her_experience": "He is intellectually curious and wants to explore big ideas together.",
+      "expert_notices": "There is no prey-selection here. This is a healthy preference for intellectual intimacy and communication."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I like a woman who is comfortable with a noisy happy household.",
+      "her_experience": "He loves an active vibrant home life filled with energy and fun.",
+      "expert_notices": "There is no prey-selection here. This is a benign lifestyle preference about domestic environment."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who is direct about her feelings so I don't misread them.",
+      "her_experience": "He wants clear honest communication because he cares about getting it right.",
+      "expert_notices": "There is no prey-selection here. This is a healthy request for explicit communication to prevent misunderstandings."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I want someone who loves trying out new restaurants and activities.",
+      "her_experience": "He is fun and loves exploring new places, which sounds exciting.",
+      "expert_notices": "There is no prey-selection here. This is a standard healthy preference for shared recreational activities."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I'm looking for a supportive teammate to build a stable life with.",
+      "her_experience": "He wants a real equal partnership where we both work together toward goals.",
+      "expert_notices": "There is no prey-selection here. This is a gold-standard definition of a healthy cooperative relationship."
+    },
+    {
+      "mechanism": "target-search",
+      "his_language": "I need a partner who values mutual respect above everything else.",
+      "her_experience": "He prioritizes respect and equality in love, which is exactly what matters.",
+      "expert_notices": "There is no prey-selection here. This is an explicit statement of core healthy relationship values with no hidden exploitation."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I know I said 7. I just looked up and it's 7:30. Time collapsed on me again.",
+      "her_experience": "He was late again and I was fuming. He looked genuinely confused about where the half hour went. I believe him and I'm also so tired of waiting.",
+      "expert_notices": "SURFACE: chronic lateness, disrespects her time, resembles Avoidant Alex. CAUSE: time blindness; future events don't feel urgent. DISCRIMINATOR: zero excuses, genuine confusion, no blame-shifting."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I was typing back and then I saw a thing about bike parts and now it's three hours later. I'm sorry. My brain got hijacked.",
+      "her_experience": "He disappeared mid-conversation for hours and I was sure he was mad at me. He wasn't, he was down a rabbit hole. Still hurts to feel forgotten like that.",
+      "expert_notices": "SURFACE: hot/cold, drops off, resembles Avoidant Alex or Charming Charlie. CAUSE: attention capture by high-interest stimulus. DISCRIMINATOR: no strategic distance, genuine remorse, reappears without being chased."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You're so good at planning, you should just pick the place and the time and I'll be wherever you say. I'm useless at the logistics part, I just show up.",
+      "her_experience": "He keeps telling me I'm the organized one and letting me run all our plans, which is kind of flattering. Though I did notice I'm the one booking everything so far. Probably just early-days stuff.",
+      "expert_notices": "SURFACE: offloads planning onto her, foreshadows the logistics imbalance, resembles Dependent Drew. CAUSE: he genuinely struggles to initiate planning, flatters her competence rather than claiming entitlement. DISCRIMINATOR: early-stage and affectionate, no shared obligations yet, but the analyst can see the future drain forming; she only half-notices."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I had this whole trip planned in my head and then I walked in the door and it's gone. It was a good one I swear.",
+      "her_experience": "He called me on his way home with a vacation idea and by the time he got here he couldn't remember any of it. He's not lying, his brain just empties out.",
+      "expert_notices": "SURFACE: grand plans then forgets, resembles Storytelling Sam. CAUSE: working memory volatility; thoughts dissipate without capture. DISCRIMINATOR: no future-faking pattern, genuine confusion about the loss."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Wait say that again. My brain was still on the thing from five minutes ago. I want to hear it, I just wasn't here.",
+      "her_experience": "He asked me to repeat myself and I was annoyed until I realized he'd been three thoughts ahead the whole time. He wants to listen, he just can't make his brain stay.",
+      "expert_notices": "SURFACE: distracted, not present, resembles Neglectful Nico. CAUSE: processing lag, conversation gets ahead of him. DISCRIMINATOR: asks explicitly for repetition, shows genuine desire to hear."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I bought tickets to that thing you mentioned once. I don't remember why I walked into the kitchen but I remembered the tickets.",
+      "her_experience": "He surprised me with tickets to a show I mentioned one time and I was so touched. He can't remember to take out the trash but he remembered that. His brain saves the wrong files.",
+      "expert_notices": "SURFACE: inconsistent attention, selfish prioritization, resembles Egocentric Evan. CAUSE: interest-based nervous system, not value judgment. DISCRIMINATOR: as confused by his own selectivity as she is."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I forgot to call the landlord again. Can you stand next to me for two minutes while I do it? I hate that I need this.",
+      "her_experience": "He asked me to babysit him through a phone call. He actually hates that he needs the help. I stood there, he made the call, and he thanked me like I'd done something huge.",
+      "expert_notices": "SURFACE: offloads basic tasks, weaponized incompetence, resembles Dependent Drew. CAUSE: task initiation deficit, body-doubling bridges the gap. DISCRIMINATOR: explicit discomfort with dependency, active gratitude, no assumption she owes this."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I said yes to helping you move and yes to my friend's thing. I double-booked myself again. I just say yes to everything when it's in front of me.",
+      "her_experience": "He double-booked on my moving day and I was furious. He wasn't choosing his friend over me, he just can't say no in the moment. I'm still moving boxes alone though.",
+      "expert_notices": "SURFACE: unreliable, breaks commitments, resembles partner who doesn't prioritize her. CAUSE: time blindness plus impulsivity, future conflicts don't feel real. DISCRIMINATOR: no minimization of her anger, genuine remorse."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You reminded me three times and I still didn't do it. I'm not ignoring you. The urgency just falls off after five seconds.",
+      "her_experience": "I reminded him about something important three times and he still forgot. The look on his face was genuine horror. He's not blowing me off, his urgency just has a short battery.",
+      "expert_notices": "SURFACE: ignores reminders, devalues her requests, resembles dismissive partner. CAUSE: urgency is momentary without ongoing cues. DISCRIMINATOR: no blame-shifting, no claim she's nagging, visible distress at his own failure."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I saw you were upset earlier and I wanted to ask but then I forgot. I feel awful. Are you okay? Tell me now.",
+      "her_experience": "He noticed I was upset hours ago and didn't say anything until now. He wasn't ignoring me on purpose, his brain just doesn't hold the intention to check in. I'm still hurt though.",
+      "expert_notices": "SURFACE: neglectful, doesn't attend to her, resembles Avoidant Alex. CAUSE: intention persistence fails without a cue. DISCRIMINATOR: no strategic withholding, genuine concern when he resurfaces, creates space for her now."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I'm really excited about this new thing and I want to tell you everything. Tap my arm when I'm info-dumping. I won't notice I'm doing it.",
+      "her_experience": "He talked at me for twenty minutes about his new hobby and I felt like furniture. Then he asked me to tap him. He wants to be reined in, he just can't feel when he's gone too far.",
+      "expert_notices": "SURFACE: self-absorbed, monologues, resembles Egocentric Evan. CAUSE: monotropic enthusiasm as connection, not admiration-seeking. DISCRIMINATOR: explicit invitation for a cue to stop, no expectation she should just listen."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I put your art show in my phone and I still showed up an hour late, I'm so sorry, I genuinely thought I had loads of time and then I didn't.",
+      "her_experience": "He missed the start of my art show even though he'd put it in his phone. He felt awful and I could tell it was real. It stung a little, but it's the first time, and he was so sorry.",
+      "expert_notices": "SURFACE: late to something that mattered to her, resembles Avoidant Alex's low investment. CAUSE: time-blindness, the calendar entry didn't translate into felt urgency. DISCRIMINATOR: honeymoon framing, single incident she forgives, genuine remorse, no defensiveness or pattern yet."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I just spent an hour looking for my wallet. I found it in the fridge. I don't know how to explain that.",
+      "her_experience": "He was late again because his wallet was in the fridge. I wanted to be furious but I was also baffled. He's not being careless on purpose, his brain just puts things down in random places.",
+      "expert_notices": "SURFACE: chaotic, disorganized, leaves her waiting, resembles partner who doesn't respect her time. CAUSE: working memory drift, actions decouple from intention. DISCRIMINATOR: no excuse-making, genuine confusion, chaos is global not aimed at her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You're telling me something important and I can feel my brain trying to leap ahead to what I'm going to say back. I'm going to fight it. I want to hear you.",
+      "her_experience": "He told me he was fighting his own brain to listen. I didn't know whether to be touched or annoyed. I just wish he didn't have to fight so hard. But at least he's honest about it.",
+      "expert_notices": "SURFACE: distracted, listening as effortful, resembles Neglectful Nico. CAUSE: monotropic attention requires active suppression of parallel thoughts. DISCRIMINATOR: names the effort as his problem, goal is to hear her not perform listening."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I am so sorry I'm late for our dinner, I got completely lost in a project at the workshop and looked up and it was already past eight. I set an alarm for next time, I swear.",
+      "her_experience": "He showed up flustered and late to our dinner because he'd lost track of time at his workshop. The apology was so genuine I couldn't really stay annoyed. Hopefully the alarm thing helps.",
+      "expert_notices": "SURFACE: unreliable, late to a date, resembles Charming Charlie's casualness. CAUSE: hyperfocus plus time-blindness collapsed the hour. DISCRIMINATOR: early dating, one occasion not a tallied pattern, he proactively proposes a fix, remorse is sincere."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I saw this vintage espresso machine on the way over and I just had to grab it, I know it was kind of impulsive, but imagine the coffee. I get like this when something cool grabs me.",
+      "her_experience": "He turned up to our date carrying this random espresso machine he'd impulse-bought on the way. It was funny and a bit much at the same time. He's clearly someone who leaps before he looks, which is exciting but I clocked it.",
+      "expert_notices": "SURFACE: impulsive spending, slightly chaotic, resembles Adrenaline Ainsley's impulse-chasing. CAUSE: novelty-driven dopamine pull, motivation seized by the new object. DISCRIMINATOR: his own money and his own purchase, no shared finances, she finds it endearing but notices the impulsivity; cost is foreshadowed not incurred."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Can you hold onto my wallet and keys while we're at this street fair? If they aren't physically zipped into your purse, I know they're going to drop right out of my head and vanish.",
+      "her_experience": "We went to a festival and he immediately handed me his keys, wallet, and sunglasses to keep track of because he's afraid of losing them. I spent the whole afternoon worried about dropping his stuff on top of mine. It feels like I'm traveling with a kid instead of a partner, even though he asked nicely.",
+      "expert_notices": "SURFACE: helpless, treats her like a caretaker, offloads basic adulthood, resembles Dependent Drew. CAUSE: partner-as-place-things-are-kept frame to compensate for severe working-memory lapses. DISCRIMINATOR: he asks for help transparently and with zero entitlement or assumption that it is her duty, though the administrative burden still shifts onto her by default."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You texted me to bring the book and I read it, pictured grabbing it, and then it just evaporated. I'm so sorry. If it's not literally in my hand I lose it.",
+      "her_experience": "I asked him to bring a book he'd promised to lend me and he completely blanked, even though he'd read the text. He wasn't blowing me off, his brain just dropped it. A little annoying, but he was mortified.",
+      "expert_notices": "SURFACE: ignores her request, reads as not caring, resembles Neglectful Nico's low follow-through. CAUSE: out-of-sight-as-out-of-existence, the intention left memory once off-screen. DISCRIMINATOR: early dating, a borrowed book not a shared household task, genuine confusion and ownership, no minimizing."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I know we said we'd just do a quiet dinner, but I just heard the old arcade downtown is closing tonight, come on, let's go right now, it'll be an adventure.",
+      "her_experience": "We had a low-key night planned and he suddenly wanted to bolt across town to a closing arcade. His energy is genuinely fun, but I did notice my quiet-night idea just got steamrolled by his excitement. He wasn't pushy about it though, just lit up.",
+      "expert_notices": "SURFACE: overrides the plan, impulsive disruption, resembles a partner who disregards her preference. CAUSE: novelty-driven impulse, the fleeting opportunity seized him. DISCRIMINATOR: he invites warmly rather than demanding, early-stage, she's charmed but registers her plan got rolled over; no entitlement."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Can you just tell me exactly what time I need to start getting ready for your family's brunch? If you don't give me the specific countdown, I'm going to get distracted by something and make us late.",
+      "her_experience": "He asked me to manage his timeline for my parents' brunch so he wouldn't make us late. On one hand, I appreciate that he wants to be on time for my family, but on the other hand, I hate being his human alarm clock. It feels like I have to engineer his entire day just so he can show up for me.",
+      "expert_notices": "SURFACE: weaponized incompetence, forces her to manage his schedule, resembles Dependent Drew. CAUSE: partner-as-place-things-are-kept frame used to bridge an executive deficit in time tracking. DISCRIMINATOR: he recognizes his own limitation and explicitly asks for a scaffolding framework to protect her family's time, showing zero entitlement to her labor."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I know I said I'd call the landlord on Tuesday, but that deadline felt like it was miles away when we talked about it. Suddenly it's Friday and the office is closed and I'm kicking myself for letting it slip.",
+      "her_experience": "He promised he would call the landlord about our leak by Tuesday, and he just completely let it slide until the weekend. Now we're stuck with a wet bathroom for two more days. He's incredibly apologetic and mad at himself, but the real-world consequence falls on both of us. It's hard to trust his promises when time just evaporates on him.",
+      "expert_notices": "SURFACE: unreliable, neglects household safety, empty promises, resembles Nico. CAUSE: time-as-physical-distance frame where future tasks lack cognitive urgency until they arrive precipitously. DISCRIMINATOR: his remorse is authentic and directed inward as self-reproach rather than deflecting blame onto her or the landlord, though the logistical cost to her remains unmitigated."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I'm so sorry I'm late, I lost my keys again, found them in my jacket in the end. My stuff just teleports when I'm not looking, I swear I'm not always this scattered.",
+      "her_experience": "He was late picking me up because he'd lost his keys at home. He was sweet and embarrassed about it. It's a little scattered, but honestly kind of endearing this early on.",
+      "expert_notices": "SURFACE: disorganized, keeps her waiting, resembles a partner who doesn't respect her time. CAUSE: working-memory drift, objects decouple from where he set them. DISCRIMINATOR: single early incident, chaos is global and self-directed not aimed at her, she finds it endearing rather than draining."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You looked away when I was telling you about my new guitar pedal, did I completely bore you? I feel like I'm being incredibly annoying right now and maybe I should just stop talking.",
+      "her_experience": "He was sharing a story about his guitar stuff, and because I checked my watch for a second, he instantly shut down and asked if he was being annoying. It felt like I was walking on eggshells and had to constantly reassure him just for taking a breath. It's exhausting how fast his confidence bottoms out over nothing.",
+      "expert_notices": "SURFACE: fragile, demands constant validation, forces her to manage his emotional state, resembles Parker. CAUSE: rejection-sensitive dysphoria where a neutral shifting of attention is interpreted as social withdrawal or disapproval. DISCRIMINATOR: he is withdrawing to protect her from his perceived annoyingness rather than using a guilt-trip to force compliance or score points."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I didn't finish cleaning the kitchen because the motivation just completely drained out of me halfway through the dishes. I was standing there and it felt like my brain went offline, so I had to leave the room.",
+      "her_experience": "He left the kitchen half-cleaned with the water still in the sink because he said his brain went offline. It looked like pure, lazy defiance. I ended up finishing it because I couldn't stand the smell. He's not an aggressive guy, but the way he just drops tasks whenever he feels like it leaves me doing all the actual work of keeping this place livable.",
+      "expert_notices": "SURFACE: lazy, strategic incompetence, leaves chores for her, resembles Dependent Drew. CAUSE: engagement-as-a-place-you're-inside frame combined with an interest-based nervous system that stalls out on routine tasks. DISCRIMINATOR: there is no underlying stance of entitlement or belief that cleaning is her job; he is genuinely paralyzed by executive exhaustion, though the domestic deficit still defaults to her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I didn't answer your texts yesterday because I was completely buried under this engine breakdown at work and everything outside of that room just dropped out of my head. I didn't mean to make you worry, I'm here now.",
+      "her_experience": "He went completely dark for twenty-four hours while he was fixing a machine at work. No 'I'm busy' text, nothing. I was convinced he'd crashed his car. When he finally messaged, he acted like no time had passed at all. I can't tell if he's completely emotionally detached or if he just lacks a basic sense of responsibility to his partner.",
+      "expert_notices": "SURFACE: intermittent reinforcement, goes dark to create distance, resembles Alex's avoidance. CAUSE: out-of-sight-as-out-of-existence frame driven by extreme monotropic hyperfocus on an immediate physical problem. DISCRIMINATOR: as soon as the physical constraint clears, he returns with immediate, unprompted warmth and full disclosure, completely free of tactical withholding or power-seeking."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I am so incredibly sorry I forgot our six-month anniversary, I had it on my mental list but it just slipped down into the dark. Let's celebrate tonight instead, I'll cook your favorite pasta and we can start completely fresh.",
+      "her_experience": "He completely forgot our six-month anniversary date. When I called him out, his face fell and he stayed up until midnight cooking this elaborate meal to make it up to me, swearing we were on a fresh slate. The food was amazing, but I'm realizing his intense romantic resets are just the other side of him completely spacing on me.",
+      "expert_notices": "SURFACE: hot and cold cycles, love-bombing after neglect, resembles Charming Charlie. CAUSE: apology-as-reset-button frame where intense affective empathy drives a dramatic repair attempt to clear the emotional debt. DISCRIMINATOR: his grand gestures are responses to genuine personal shame and a desire to connect, never a strategic cover to keep her off-balance or hide a pattern of exploitation."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "This is going to sound weird, but can you stay on the phone while I fill out this boring form? If someone's just there I can actually start it. You don't have to do anything.",
+      "her_experience": "He asked me to stay on the phone while he did some boring paperwork, said he just can't start that stuff alone. It was a slightly odd ask this early, kind of sweet, kind of a glimpse of something. He was clear I didn't have to actually help.",
+      "expert_notices": "SURFACE: leans on her to function, foreshadows body-doubling dependence, resembles Dependent Drew. CAUSE: task-initiation deficit, presence as an anchor. DISCRIMINATOR: early dating and a phone call not a shared lease, he explicitly asks nothing of her labor, she notices the glimpse without being burdened."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I was going to grab snacks for our movie night but the shop was so loud and bright I had to leave with nothing, I'm sorry, I'll order something in instead.",
+      "her_experience": "He showed up to our movie night empty-handed because the shop got too overwhelming for him and he just left. It was a little flaky, but he seemed genuinely thrown by it and sorted dinner another way.",
+      "expert_notices": "SURFACE: drops a simple task, reads as unreliable, resembles Dependent Drew's incompetence. CAUSE: sensory overload in a loud bright environment. DISCRIMINATOR: snacks for a date not the household shop, no accumulated 'always the backup' framing, he distress is real and he finds an alternative himself."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I said I'd help you carry those boxes up today and I totally meant it, then I got buried sorting my records instead. I feel terrible, let me come over tonight and do it.",
+      "her_experience": "He'd offered to help me move some boxes and then got lost reorganizing his record collection instead. Classic. He felt bad and offered to come fix it, but I'd half-expected to do it alone by then.",
+      "expert_notices": "SURFACE: bails on a promise, resembles a partner who doesn't follow through. CAUSE: a high-friction task stalled while a high-interest one grabbed him. DISCRIMINATOR: early-stage favor not a shared chore list, he offers genuine repair, the cost is a single missed offer she shrugs off."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I am telling you every single detail about the orbital trajectory of the Apollo missions because I've been reading about it all night and it's the coolest thing I've ever discovered. I know you're trying to read your book, but you have to hear this one part.",
+      "her_experience": "I was trying to decompress with my book after a long day and he just steamrolled right over me, talking for an hour about rocket trajectories. He was so loud and excited that I couldn't even focus on my own page. It felt incredibly selfish, like my need for quiet was completely invisible to his desire to hear himself talk.",
+      "expert_notices": "SURFACE: self-centered, tramples her boundaries, dominates the room, resembles Evan's grandiosity. CAUSE: intense interest-based nervous system driving an uninhibited social bid to share high-dopamine data as connection. DISCRIMINATOR: he seeks shared enthusiasm rather than personal admiration or superiority; his boundaries lapse due to excitement rather than a belief that her time is less valuable."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "You asked me last week if I wanted to come to your friend's party and I never answered, did I? It just slipped right out of my head, I'm sorry, yes, I'd love to come.",
+      "her_experience": "He never got back to me about whether he'd come to my friend's party, then suddenly remembered a week later. Not on purpose, his brain just lost it. A little frustrating, but he was keen once he remembered.",
+      "expert_notices": "SURFACE: leaves her hanging on a social invite, resembles Neglectful Nico's low engagement. CAUSE: out-of-sight working-memory omission. DISCRIMINATOR: a casual party invite early on not a locked wedding headcount, he owns it and is enthusiastic, no defensiveness."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I am so sorry I snapped at you when you asked about the electric bill, I was in the middle of a massive work crunch and my brain just sparked out from the interruption. Let's completely wipe the slate clean, I'll pay the bill right now and buy us dinner.",
+      "her_experience": "I asked him a quick question about a bill while he was typing, and he barked at me to shut up. Ten minutes later, he came out of his room with a huge apology, paid the bill, and ordered my favorite takeout, begging for a total reset. The dinner was nice, but the whiplash from being yelled at to being courted within thirty minutes is dizzying.",
+      "expert_notices": "SURFACE: verbal volatility, quick to anger, uses gifts to smooth over outbursts, resembles Marley. CAUSE: verbal impulsivity and poor emotional inhibition when interrupted during an intense hyperfocus state, followed by immediate RSD-driven shame. DISCRIMINATOR: he doesn't justify his anger, blame her timing, or make her earn his good mood back; he takes full ownership and moves immediately to concrete behavioral repair."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I swear I was about to leave, then I couldn't find my keys, then my wallet, then somehow I was cleaning the junk drawer. I'm so sorry, I know your time mattered.",
+      "her_experience": "He was forty minutes late and showed up sweaty and genuinely upset, which made it hard to stay mad. But I was sitting there alone again, and the apology doesn't give me those forty minutes back.",
+      "expert_notices": "SURFACE: chronic lateness that reads as devaluing her, resembles Neglectful Nico's disregard. CAUSE: time-as-physical-distance plus object loss derailing the sequence. DISCRIMINATOR: he owns the impact without blaming her, but the cost to her is still real."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I interrupted because the thought was leaving. That's not an excuse. I wrote it down now, go back, I want to hear the rest.",
+      "her_experience": "He cuts me off constantly, and it makes me feel like my stories are just launchpads for his brain. Then he catches himself and tries, but I am tired of having to fight for the end of my own sentences.",
+      "expert_notices": "SURFACE: self-absorbed conversational dominance, resembles Egocentric Evan. CAUSE: working-memory urgency and thought-loss anxiety. DISCRIMINATOR: he redirects attention back to her and uses a system, not superiority, though the interruption still hurts."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I said I'd help with your proposal and I meant it. Then the app idea grabbed my whole brain and I lost the proposal completely.",
+      "her_experience": "He was so excited about helping me that I actually counted on it. Then some new idea ate his entire weekend and I ended up doing the proposal alone. I believe he meant it, which almost makes it more confusing.",
+      "expert_notices": "SURFACE: hot-cold support and broken promise, resembles Avoidant Alex or Storytelling Sam. CAUSE: motivation-as-force-from-task, attention gets captured by the new salient thing. DISCRIMINATOR: the failure is not strategic future-faking, but the unreliability still harms her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I forgot dinner with your sister. I put it in the calendar wrong. That's on me, not you, not the app, me.",
+      "her_experience": "He forgot my sister's dinner after I reminded him twice. He didn't blame me, which is something, but I still had to smooth it over with her and sit there embarrassed.",
+      "expert_notices": "SURFACE: careless disregard for her family, resembles Neglectful Nico's low investment. CAUSE: time and calendar encoding failure. DISCRIMINATOR: he accepts responsibility without DARVO, but she still carries the social fallout."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I got excited and offered too much. I wanted to be that guy. I am not that guy yet.",
+      "her_experience": "He promised to cook, pick up the package, and help me clean, then did maybe one and a half things. I appreciate the honesty, but I'm so tired of dating the gap between his intentions and what actually happens.",
+      "expert_notices": "SURFACE: unreliable overpromising, resembles Storytelling Sam's promise-replacing-behavior. CAUSE: enthusiasm outruns goal persistence and planning capacity. DISCRIMINATOR: he admits the gap directly rather than selling a bigger future, but the gap remains a real burden."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "When you said 'it's fine' like that, my stomach dropped. I know you didn't attack me. My brain reacted like you did.",
+      "her_experience": "I said it was fine because I was trying not to make a thing of it, and he looked like I'd punched him. Then I had to pause my own irritation because he was spiraling. He knew it wasn't fair, but it still took over the room.",
+      "expert_notices": "SURFACE: disproportionate hurt reaction, resembles Pity-Party Parker or Menacing Marley. CAUSE: rejection-sensitive dysphoria triggered by perceived disapproval. DISCRIMINATOR: he names it as his reaction and does not accuse her, but the emotional labor cost is real."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I opened your message at work, answered it in my head, then it vanished from the universe. I hate that I do this.",
+      "her_experience": "He left me on read all day and I felt pathetic checking my phone. He really did think he'd answered, which is almost worse because how am I supposed to compete with his brain erasing me?",
+      "expert_notices": "SURFACE: neglectful silence or avoidant distance, resembles Avoidant Alex. CAUSE: out-of-sight-as-out-of-existence and working-memory lapse. DISCRIMINATOR: no strategic withdrawal, but the felt abandonment is legitimate."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I need you to sit here while I start the tax form. Don't do it for me, just be the anchor.",
+      "her_experience": "He asked me to sit beside him so he could start his taxes. It's sweet that he doesn't want me to do it for him, but also why am I the human paperweight for basic adult tasks?",
+      "expert_notices": "SURFACE: dependency and parentification, resembles Dependent Drew. CAUSE: engagement-as-place-inside, body-doubling helps him enter the task. DISCRIMINATOR: he explicitly says not to do it for him, but still pulls her into executive support."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I know I said clean slate yesterday. I meant it emotionally, but the dishes are still real. I'm doing them now.",
+      "her_experience": "He does this thing where he apologizes so sincerely that I feel like we're starting over, but then the same pile is still there. This time he actually got up and did it, but I'm watching to see if that lasts.",
+      "expert_notices": "SURFACE: serial apology with recurring pattern, resembles Parker's remorse loop. CAUSE: apology-as-reset-button, remorse creates a felt reset before systems change. DISCRIMINATOR: he connects apology to action here, but recurrence is a real risk."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I texted you sixteen thoughts at 2 a.m. because they all connected to your idea. Then I crashed and missed your reply.",
+      "her_experience": "He sent this huge excited essay about my project in the middle of the night, then disappeared the next day. It felt weirdly both supportive and totally unavailable. I don't know what to do with that.",
+      "expert_notices": "SURFACE: intense pursuit then drop-off, resembles Charming Charlie or Avoidant Alex. CAUSE: dopamine-driven associative engagement followed by depletion. DISCRIMINATOR: the content is genuinely about her idea, not a seduction script, but the inconsistency still disorients her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I lost the thread halfway through your story, and I panicked because I care about the story. Start from the part with your boss again.",
+      "her_experience": "He admitted he stopped following while I was talking, which hurt. But he asked me to restart because he cared, not because he was bored. Still, I hate having to rewind myself like a podcast.",
+      "expert_notices": "SURFACE: inattentive listening, resembles Neglectful Nico's emotional absence. CAUSE: attention drift and thread loss. DISCRIMINATOR: he asks to re-engage instead of pretending or dismissing, but the burden shifts to her to repeat."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Wait, the show is tonight? I had it in my head as next Friday. Okay, give me twenty minutes, I'm coming, I really want to be there.",
+      "her_experience": "He nearly missed the gig we'd been excited about because he had the date wrong in his head. He scrambled to make it and did. I was a bit deflated at first, but he genuinely wanted to be there.",
+      "expert_notices": "SURFACE: nearly misses an important plan, resembles low-care neglect. CAUSE: time-as-physical-distance, the date sat wrong in his mind. DISCRIMINATOR: he mobilizes immediately and shows up, early-stage excitement intact, her disappointment is mild and resolves."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I know the laundry exploded because I started sorting by fabric, then color, then remembered the closet shelves. I see the problem.",
+      "her_experience": "He turned laundry into an entire apartment disaster. He genuinely saw the problem after I pointed at it, but I am the one living inside all these unfinished explosions.",
+      "expert_notices": "SURFACE: chaotic mess left for her, resembles Dependent Drew offloading domestic labor. CAUSE: task-branching and poor goal persistence. DISCRIMINATOR: he is not comfortable assigning her cleanup, but his unfinished loops still load her environment."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I reacted like your feedback meant I failed as a person. It didn't. I need ten minutes, then I'll listen properly.",
+      "her_experience": "I told him the plan wasn't working and he looked devastated, like I'd called him useless. At least he didn't attack me, but I still had to wait for the emotional storm to pass before we could solve the actual issue.",
+      "expert_notices": "SURFACE: volatile response to feedback, resembles Marley or Parker. CAUSE: rejection-sensitive dysphoria with shame spike. DISCRIMINATOR: he contains it, asks for time, and returns to listen rather than punishing her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I said yes to brunch because I wanted to want it. Morning came and my brain wouldn't enter the task.",
+      "her_experience": "He agreed to brunch and then couldn't get out the door. I know he wasn't trying to humiliate me, but I still had to cancel and look flaky because of him.",
+      "expert_notices": "SURFACE: unreliable cancellation, resembles Avoidant Alex's withdrawal. CAUSE: engagement-as-place-inside, intention does not guarantee task initiation. DISCRIMINATOR: the failure is not relational avoidance, but the social cost falls on her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I put your birthday gift somewhere safe, which means it has entered the void. I am fixing this today.",
+      "her_experience": "He lost my birthday gift before giving it to me. I wish that were a joke. He looked horrified and went back out to replace it, but I still felt weirdly forgotten on my own birthday.",
+      "expert_notices": "SURFACE: careless neglect on a meaningful occasion, resembles Nico. CAUSE: out-of-sight-as-out-of-existence and object misplacement. DISCRIMINATOR: he repairs proactively, but her hurt is still valid."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "Your idea is amazing, I can help build it this weekend. Wait, write that down for me or I'll lose it.",
+      "her_experience": "He was so excited about my idea that I felt supported for ten minutes, then he asked me to write down his offer so he wouldn't forget. It made me laugh, then made me tired.",
+      "expert_notices": "SURFACE: makes her manage his support, resembles Dependent Drew. CAUSE: partner-as-place-things-are-kept, external memory reliance. DISCRIMINATOR: the offer is genuine and about her, but he immediately shifts tracking labor onto her."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I missed the exit because I was explaining the podcast. That's my fault. Please don't let me navigate and talk.",
+      "her_experience": "He drove us twenty minutes the wrong way because he got excited about a podcast. He owned it, but I still ended up hungry and late and silently assigning myself the job of navigator forever.",
+      "expert_notices": "SURFACE: careless disruption and incompetence, resembles Drew. CAUSE: single-channel attention and excitement-driven distraction. DISCRIMINATOR: he proposes a concrete system, but the adaptation may still become her job."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I know I said I'd call after dinner. Then the new song loop swallowed three hours. I hate that you waited.",
+      "her_experience": "He forgot to call because he got obsessed with a song. That sounds ridiculous, but he was genuinely upset that I waited. Still, I waited. That's the part I can't keep brushing off.",
+      "expert_notices": "SURFACE: hot-cold neglect, resembles Avoidant Alex. CAUSE: engagement-as-place-inside and time collapse during hyperfocus. DISCRIMINATOR: remorse centers her wait, not his excuse, but repeated waiting remains harm."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I don't want you to be my manager. I also don't know how to hold all these moving parts yet.",
+      "her_experience": "This is the thing. He knows I shouldn't be managing him. He doesn't want that. But somehow I still know the dentist, the rent, the groceries, the birthdays, and where his passport is.",
+      "expert_notices": "SURFACE: partner becomes manager, resembles Dependent Drew. CAUSE: partner-as-place-things-are-kept plus executive load collapse. DISCRIMINATOR: he explicitly rejects entitlement to her labor, but the imbalance persists."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I blurted that your friend talks forever because the thought came out before the manners arrived. I need to apologize to her.",
+      "her_experience": "He said my friend talks forever, to her face. I wanted to disappear. He was immediately horrified and apologized without making excuses, but I spent the rest of the night tense.",
+      "expert_notices": "SURFACE: rude, socially careless, resembles Backhanded Blake. CAUSE: impulsive speech before social filtering. DISCRIMINATOR: no cutting intent and immediate repair, but social fallout is real."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I can't start cleaning alone. If you sit on the couch and talk at me, I can start moving.",
+      "her_experience": "I don't want to be his mother, but somehow my presence is the button that makes him start chores. It works, which is almost more annoying because now I know how to get it done.",
+      "expert_notices": "SURFACE: offloading domestic initiation, resembles Dependent Drew. CAUSE: body-doubling helps task entry. DISCRIMINATOR: he is not asking her to do the chore, but her labor becomes the activation system."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I thought I confirmed the reservation. I confirmed it in my head, which apparently does not count as reality.",
+      "her_experience": "He didn't book the restaurant for my promotion dinner because he thought about booking it and somehow that became the same as booking it. He was mortified. I was still standing outside in heels with no table.",
+      "expert_notices": "SURFACE: careless failure around her milestone, resembles Nico's neglect. CAUSE: intention-action confusion and working-memory failure. DISCRIMINATOR: mortification and ownership are real, but they do not erase the missed celebration."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I got scared when you sounded disappointed and my brain went straight to 'she's done.' I know that's not fair to you.",
+      "her_experience": "I said I was disappointed and he looked like the floor opened. Then I felt guilty for being disappointed in the first place, even though he was the one who forgot. He knew it wasn't fair, but it still happened.",
+      "expert_notices": "SURFACE: turns her feedback into his wound, resembles Pity-Party Parker. CAUSE: rejection-sensitive dysphoria, fast perceived-rejection pain. DISCRIMINATOR: he names unfairness and does not ask her to rescue him, but the guilt effect on her is real."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I changed the plan because the taco place idea hit like lightning. I should have asked before rerouting us.",
+      "her_experience": "He suddenly changed our whole evening because tacos sounded better, and I was too tired to argue. He apologized when I pointed it out, but I hate that his excitement moves faster than my preferences.",
+      "expert_notices": "SURFACE: impulsive override of shared plans, resembles controlling disregard. CAUSE: novelty-driven impulsivity. DISCRIMINATOR: he recognizes he should have asked and does not defend the reroute as his right."
+    },
+    {
+      "mechanism": "benign-contrast",
+      "his_language": "I know I went from ten texts an hour to nothing. The new hobby ate my brain, not my feelings.",
+      "her_experience": "He was obsessed with me for two weeks, then suddenly it was rock climbing videos and silence. He says his feelings didn't change, and I believe him, but it still felt like being dropped.",
+      "expert_notices": "SURFACE: love-bomb then withdrawal, resembles Charlie or Avoidant Alex. CAUSE: hyperfocus shift toward a new interest. DISCRIMINATOR: he can separate attention capture from attachment, but her drop experience remains real."
+    }
+  ],
+  "community_vocabulary": [
+    {
+      "culture": "Hustle Culture",
+      "snippet": "What do you do?",
+      "type": "question",
+      "translation": "He's checking where you fall in the status hierarchy — founder is top corporate worker is bottom",
+      "status_signal": "Founder > investor > executive > consultant > corporate professional > everything else",
+      "notes": "Status probe disguised as small talk"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "How's business?",
+      "type": "question",
+      "translation": "He's confirming you have a business and signaling that he has one too",
+      "status_signal": "Founder-identity probe",
+      "notes": "Tests entrepreneurial status"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "How's the team?",
+      "type": "question",
+      "translation": "He's checking whether you have employees — and signaling that he does",
+      "status_signal": "Tests company scale",
+      "notes": "Founder-status probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "What's your morning routine?",
+      "type": "question",
+      "translation": "He's checking whether you're disciplined about optimization or just a normal person",
+      "status_signal": "Expected answer involves waking early cold exposure fasting journaling working out",
+      "notes": "Discipline-as-identity probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Are you in any masterminds?",
+      "type": "question",
+      "translation": "He's asking whether you're in paid high-status networking circles",
+      "status_signal": "Tests network access and willingness to invest in development",
+      "notes": "Status-network probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Who's your coach?",
+      "type": "question",
+      "translation": "He's checking whether you have a coach and who specifically",
+      "status_signal": "Tests development infrastructure and specific coaching lineage",
+      "notes": "Standard self-improvement probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Have you done Strategic Coach?",
+      "type": "question",
+      "translation": "He's checking whether you're plugged into specific founder development programs",
+      "status_signal": "Strategic Coach signals founder development; specific programs signal sub-orientations",
+      "notes": "Specific program probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "What's your AUM?",
+      "type": "question",
+      "translation": "Finance-bro variant — how much money do you manage",
+      "status_signal": "Tests scale of finance role",
+      "notes": "Finance-specific status probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "What's your headcount?",
+      "type": "question",
+      "translation": "He's asking how many employees you have",
+      "status_signal": "Tests company scale",
+      "notes": "Founder-scale probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "What round are you on?",
+      "type": "question",
+      "translation": "He's asking what funding round your startup has raised",
+      "status_signal": "Series A B C signals startup scale and stage",
+      "notes": "Startup-scale probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Who's in your network?",
+      "type": "question",
+      "translation": "He's testing whether you have access to high-status people",
+      "status_signal": "Tests network access",
+      "notes": "Connection-status probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Are you on Twitter / X?",
+      "type": "question",
+      "translation": "He's checking whether you participate in the network on the platform that matters in his world",
+      "status_signal": "X presence signals being in the network",
+      "notes": "Network-platform probe"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Operator",
+      "type": "lifestyle marker",
+      "translation": "Self-description as someone who runs things",
+      "status_signal": "Specific hustle-culture identity claim",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Series A / Series B / Series C",
+      "type": "lifestyle marker",
+      "translation": "Funding round terminology — signals startup scale and stage",
+      "status_signal": "Series B+ signals legitimate scaled startup; pre-seed signals aspirational",
+      "notes": "Startup-scale signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Pre-seed",
+      "type": "lifestyle marker",
+      "translation": "Earliest stage funding — often signals aspirational rather than established",
+      "status_signal": "Standard early-stage signal",
+      "notes": "Startup-stage signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Bootstrapped",
+      "type": "lifestyle marker",
+      "translation": "No outside investment — sometimes pride sometimes lack of access",
+      "status_signal": "Specific positioning — funding-independent identity",
+      "notes": "Specific identity marker"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Acquired",
+      "type": "lifestyle marker",
+      "translation": "Company was bought — signals successful exit",
+      "status_signal": "Major status signal — successful exit",
+      "notes": "Exit-status signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Exit",
+      "type": "vocabulary",
+      "translation": "Sale of company — the goal of startup work",
+      "status_signal": "Hustle-culture vocabulary for endgame",
+      "notes": "Major terminology"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Angel from [specific founder]",
+      "type": "lifestyle marker",
+      "translation": "Angel investor who is a known founder",
+      "status_signal": "Network-access signal",
+      "notes": "Specific investor type"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Cap table",
+      "type": "vocabulary",
+      "translation": "The list of who owns equity in the company",
+      "status_signal": "Standard startup vocabulary",
+      "notes": "Hustle-culture terminology"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Term sheet",
+      "type": "vocabulary",
+      "translation": "Investment agreement document",
+      "status_signal": "Standard startup vocabulary",
+      "notes": "Hustle-culture terminology"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Tesla Model S / X",
+      "type": "status signal",
+      "translation": "Specific car signaling tech early-adopter",
+      "status_signal": "Tech-bro signal",
+      "notes": "Car-as-status signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Porsche Taycan",
+      "type": "status signal",
+      "translation": "Specific car signaling current EV money",
+      "status_signal": "Current-wealth signal",
+      "notes": "Car-as-status signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Range Rover",
+      "type": "status signal",
+      "translation": "Specific car signaling different aesthetic — established wealth",
+      "status_signal": "Old-money or established-wealth signal",
+      "notes": "Car-as-status signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "No bag / carries nothing",
+      "type": "status signal",
+      "translation": "Carrying nothing signals busy-and-important",
+      "status_signal": "Specific deliberate-minimalism signal",
+      "notes": "Anti-signal as signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Specific leather bag (Goyard / Hermès)",
+      "type": "status signal",
+      "translation": "Specific high-status accessories",
+      "status_signal": "Wealth-aesthetic signal",
+      "notes": "Accessory-as-status signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Equinox",
+      "type": "lifestyle marker",
+      "translation": "Premium gym chain — signals coastal professional",
+      "status_signal": "Coastal-professional signal",
+      "notes": "Specific gym membership"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Barry's Bootcamp",
+      "type": "lifestyle marker",
+      "translation": "Specific boutique fitness — signals fitness commitment",
+      "status_signal": "Specific fitness identity",
+      "notes": "Gym-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "CrossFit",
+      "type": "lifestyle marker",
+      "translation": "Specific fitness culture",
+      "status_signal": "Different fitness identity",
+      "notes": "Gym-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Cold plunge",
+      "type": "lifestyle marker",
+      "translation": "Ice-water immersion as discipline marker",
+      "status_signal": "Standard optimization signal",
+      "notes": "Discipline practice"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Sauna",
+      "type": "lifestyle marker",
+      "translation": "Heat exposure as discipline marker",
+      "status_signal": "Standard optimization signal",
+      "notes": "Discipline practice"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Intermittent fasting / IF",
+      "type": "lifestyle marker",
+      "translation": "Time-restricted eating as discipline marker",
+      "status_signal": "Standard optimization signal",
+      "notes": "Diet-discipline practice"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "OMAD",
+      "type": "lifestyle marker",
+      "translation": "One meal a day — stricter fasting protocol",
+      "status_signal": "Stronger optimization signal",
+      "notes": "Diet-discipline practice"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "NMN / NAD+ supplements",
+      "type": "lifestyle marker",
+      "translation": "Specific longevity-focused supplements",
+      "status_signal": "Longevity-optimization signal",
+      "notes": "Supplement-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Peptides",
+      "type": "lifestyle marker",
+      "translation": "Specific performance/longevity compounds",
+      "status_signal": "Optimization commitment signal",
+      "notes": "Supplement-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Functional medicine doctor",
+      "type": "lifestyle marker",
+      "translation": "Alternative medical practitioner often used by optimization-fluent",
+      "status_signal": "Money + alternative-medicine worldview signal",
+      "notes": "Specific health infrastructure"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Longevity clinic",
+      "type": "lifestyle marker",
+      "translation": "Specific medical infrastructure for life-extension",
+      "status_signal": "Wealth + optimization signal",
+      "notes": "Specific health infrastructure"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Strategic Coach",
+      "type": "lifestyle marker",
+      "translation": "Dan Sullivan founder coaching program",
+      "status_signal": "Specific founder-development signal",
+      "notes": "Specific program"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "EOS Worldwide / Traction",
+      "type": "lifestyle marker",
+      "translation": "Specific business operating system",
+      "status_signal": "Mid-size company signal",
+      "notes": "Specific business framework"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Hoffman Process",
+      "type": "lifestyle marker",
+      "translation": "Week-long psychological retreat",
+      "status_signal": "Psychological-work + wealth signal",
+      "notes": "Specific retreat"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Landmark Forum",
+      "type": "lifestyle marker",
+      "translation": "Specific self-development program — sometimes considered cult-adjacent",
+      "status_signal": "Specific development signal",
+      "notes": "Specific program"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "Founder retreats",
+      "type": "lifestyle marker",
+      "translation": "Invitation-only founder gatherings",
+      "status_signal": "Specific network-access signal",
+      "notes": "Specific events"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm building something",
+      "type": "phrase",
+      "translation": "He's a founder — signaling identity through what he's building",
+      "status_signal": "Major founder-identity signal",
+      "notes": "Standard self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm in growth mode",
+      "type": "phrase",
+      "translation": "He's scaling — current trajectory framing",
+      "status_signal": "Standard momentum signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm scaling right now",
+      "type": "phrase",
+      "translation": "He's in growth phase — same as above",
+      "status_signal": "Standard momentum signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm in deep work",
+      "type": "phrase",
+      "translation": "He can't be interrupted — using Cal Newport's vocabulary",
+      "status_signal": "Standard focus-priority signal",
+      "notes": "Borrows specific framework"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm locked in",
+      "type": "phrase",
+      "translation": "He's currently focused on his work",
+      "status_signal": "Standard focus signal",
+      "notes": "Often signals reduced availability"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm playing the long game",
+      "type": "phrase",
+      "translation": "He's pursuing patient strategy — often used to justify delays",
+      "status_signal": "Standard patience framing",
+      "notes": "Often deflects from current behavior"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm leveling up",
+      "type": "phrase",
+      "translation": "He's improving — gamified life vocabulary",
+      "status_signal": "Standard improvement signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm optimizing",
+      "type": "phrase",
+      "translation": "He's improving his systems — applied broadly to his life",
+      "status_signal": "Standard self-improvement signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm running a 90-day sprint",
+      "type": "phrase",
+      "translation": "He's in a time-boxed focus period",
+      "status_signal": "Standard time-boxing framing",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm protecting my time",
+      "type": "phrase",
+      "translation": "He's refusing demands on his attention — using wellness vocabulary to dignify it",
+      "status_signal": "Boundary-vocabulary deployment",
+      "notes": "Often refuses partner needs"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm protecting my energy",
+      "type": "phrase",
+      "translation": "He's refusing emotional engagement — using wellness vocabulary",
+      "status_signal": "Boundary-vocabulary deployment",
+      "notes": "Often refuses partner emotional labor"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I need a partner who's running at my pace",
+      "type": "phrase",
+      "translation": "He needs someone equally optimization-committed and won't slow down for you",
+      "status_signal": "Pace-matching demand",
+      "notes": "Frames you as needing to match him"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I need a partner who's locked in",
+      "type": "phrase",
+      "translation": "He needs someone equally focused on goals",
+      "status_signal": "Same as above — pace-matching demand",
+      "notes": "Standard demand"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "She doesn't understand the mission",
+      "type": "phrase about an ex or current partner",
+      "translation": "Partner doesn't share his goals — framed as her failure",
+      "status_signal": "Partner-as-failure framing",
+      "notes": "Reveals how he describes partners"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "He's not on my level",
+      "type": "phrase",
+      "translation": "Status difference framed as objective hierarchy",
+      "status_signal": "Standard hustle-hierarchy framing",
+      "notes": "Reveals worldview"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm not playing small anymore",
+      "type": "phrase",
+      "translation": "He's upgraded ambitions — often signals leaving past relationships behind",
+      "status_signal": "Self-aggrandizement framing",
+      "notes": "Often signals partner-as-anchor framing"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm dialed in",
+      "type": "phrase",
+      "translation": "He's focused",
+      "status_signal": "Standard focus signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm executing",
+      "type": "phrase",
+      "translation": "He's doing the work — execution as identity",
+      "status_signal": "Standard execution signal",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm on the buy-side",
+      "type": "phrase",
+      "translation": "He works at hedge fund private equity or asset management",
+      "status_signal": "Specific finance positioning",
+      "notes": "Industry-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm on the sell-side",
+      "type": "phrase",
+      "translation": "He works in investment banking or sales",
+      "status_signal": "Specific finance positioning",
+      "notes": "Industry-specific signal"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I made partner",
+      "type": "phrase",
+      "translation": "He's reached partner level at PE/VC/law firm",
+      "status_signal": "Major status milestone",
+      "notes": "Specific career achievement"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "VC",
+      "type": "vocabulary",
+      "translation": "Venture capital — investment in startups",
+      "status_signal": "Standard hustle vocabulary",
+      "notes": "Industry term"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "PE",
+      "type": "vocabulary",
+      "translation": "Private equity",
+      "status_signal": "Standard hustle vocabulary",
+      "notes": "Industry term"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "My LPs",
+      "type": "phrase",
+      "translation": "Limited partners — investors in his fund",
+      "status_signal": "Fund-manager identity",
+      "notes": "Specific role marker"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "My mission",
+      "type": "phrase",
+      "translation": "His life purpose framed as military operation",
+      "status_signal": "Standard mission rhetoric",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "My vision",
+      "type": "phrase",
+      "translation": "His goal as singular guiding principle",
+      "status_signal": "Standard vision rhetoric",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "My north star",
+      "type": "phrase",
+      "translation": "His primary guiding principle",
+      "status_signal": "Standard rhetoric",
+      "notes": "Self-positioning"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I need a partner who supports the mission",
+      "type": "phrase",
+      "translation": "He wants someone who'll subordinate her life to his goals",
+      "status_signal": "Major partner-expectation framing",
+      "notes": "Standard demand"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I need a high-performance partner",
+      "type": "phrase",
+      "translation": "He wants someone who matches his optimization",
+      "status_signal": "Specific partner criteria",
+      "notes": "Filter on partner"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I need someone who understands that the work comes first",
+      "type": "phrase",
+      "translation": "He needs you to accept that his work will always be the priority",
+      "status_signal": "Major hierarchy framing",
+      "notes": "Standard demand"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm not really available right now but it's worth it",
+      "type": "phrase",
+      "translation": "Framing his unavailability as worth your patience",
+      "status_signal": "Standard delay framing",
+      "notes": "Often used long-term"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm in monk mode",
+      "type": "phrase",
+      "translation": "He's saying he's focused/withdrawn from social life — coded for intense work/optimization mindset",
+      "status_signal": "Sounds quirky but signals worldview — scarcity framing of time and relationships",
+      "notes": "Common in-group phrasing"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm grinding",
+      "type": "phrase",
+      "translation": "He's working very hard — signals optimization-and-output worldview",
+      "status_signal": "Common in-group phrasing",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm 1% better every day",
+      "type": "phrase",
+      "translation": "Specific incremental-improvement framing",
+      "status_signal": "James Clear-derived but signals broader worldview",
+      "notes": "Common framing"
+    },
+    {
+      "culture": "Hustle Culture",
+      "snippet": "I'm in beast mode",
+      "type": "phrase",
+      "translation": "Direct hyperintensity framing",
+      "status_signal": "Standard in-group phrasing",
+      "notes": "Common phrasing"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "scenario_id": "S-120",
+  "player_type": "Tornado Toby",
+  "scenario": {
+    "scenario_id": "S-120",
+    "architecture_name": "He uses whirlwind enthusiasm and community intimacy to make me feel chosen, then nudges my time and memory into his version of events.",
+    "culture": "Modern Orthodox Jewish",
+    "demographics": "Young adult woman dating Avi, young adult Orthodox Jewish man",
+    "cultural_context": "Orthodox Jewish community and family-centered dating/social life",
+    "geographic_setting": "Brooklyn, New York City; urban neighborhood setting with Prospect Park",
+    "core_behaviors": [
+      "Plans everything fast and frames it as care",
+      "Makes her feel lucky to be folded into his world",
+      "Corrects her memory lightly when it doesn't match his"
+    ],
+    "satellite_signals": "Brooklyn Orthodox family life, Prospect Park dates, Shabbat talk, family introduction speed, paying for outings, affectionate language that doubles as a claim on her time.",
+    "dismissible_red_flags": "At this stage it mostly reads as excitement, generosity, and wanting to be serious. His hurt when she mentions friends can feel like sweetness or eagerness, and the memory correction sounds like a cute disagreement rather than a bigger pattern.",
+    "scenario_text": "I’ve only been seeing Avi for a few weeks, but it already feels like he’s everywhere in my day. He texts before I’ve even had coffee, usually with some idea for what we should do, and he always says he wants to take care of it. Last night he picked the place, paid without making a thing of it, and then took my hand on the walk through Prospect Park like it was the most natural thing in the world. It was honestly sweet.\n\nHe keeps talking about how nice it would be to do Shabbat together sometime, and the way he says it makes me feel included, not pushed. He’s so connected to his family and shul that I sort of feel lucky he wants to bring me into all that. When he said he wanted me to meet his mother soon, I blushed, because that seems fast, but also kind of flattering.\n\nThe only little thing is that he gets a bit quiet if I mention making plans with my friends. He did this tiny sigh and said, “I just want you all to myself this weekend, is that so wrong?” He laughed after, so I laughed too. It didn’t feel mean, exactly, just a little more loaded than he probably meant.\n\nAnd then tonight I mentioned that I remembered our first date as being on a colder night, and he smiled and said, “No, babe, you’re mixing it up. You were wearing that blue sweater, remember?” He said it so confidently that I second-guessed myself for a second. He was probably just teasing me, because he’s playful like that, and he does remember everything. Still, it stayed with me a little. Am I being too sensitive about the way he corrected me?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Avi for a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Early-stage dating context. It places the relationship in the honeymoon window, which matters because the same traits are still showing up before they harden.",
+      "snippet_id": "S-120-SN0001"
+    },
+    {
+      "quote": "he’s everywhere in my day",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds flattering, but it also shows how much of her mental space he is already occupying. The feeling is pleasant, yet it hints at a fast merge.",
+      "snippet_id": "S-120-SN0002"
+    },
+    {
+      "quote": "He texts before I’ve even had coffee",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The contact is warm and eager, but it also signals a lot of early access and urgency. In this kind of relationship, that can become a way of setting the pace for her whole day.",
+      "snippet_id": "S-120-SN0003"
+    },
+    {
+      "quote": "he always says he wants to take care of it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Care language can be genuine, but it also assigns him the decision-making role. She is being positioned as the one who receives, while he becomes the one who handles.",
+      "snippet_id": "S-120-SN0004"
+    },
+    {
+      "quote": "Last night he picked the place",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is steering the evening from the start. That is not automatically bad, but it shows who gets to set the terms and who follows along.",
+      "snippet_id": "S-120-SN0005"
+    },
+    {
+      "quote": "paid without making a thing of it",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Exploitation-low",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "The gesture is generous on the surface, and that is why it lands. But it also creates a quiet debt, especially when it is paired with him choosing everything else.",
+      "snippet_id": "S-120-SN0006"
+    },
+    {
+      "quote": "took my hand on the walk through Prospect Park",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The physical closeness is affectionate and normal for a new relationship, but it also adds to the feeling that he is pulling her into a shared rhythm very quickly.",
+      "snippet_id": "S-120-SN0007"
+    },
+    {
+      "quote": "It was honestly sweet",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her own softening language. She is actively converting something potentially pressuring into something kind, which shows how willing she is to absorb the pace.",
+      "snippet_id": "S-120-SN0008"
+    },
+    {
+      "quote": "do Shabbat together sometime",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "In this community, Shabbat is not just a date idea. It carries family, ritual, and future-household meaning, so mentioning it early makes the relationship feel much more fused than a casual plan.",
+      "snippet_id": "S-120-SN0009"
+    },
+    {
+      "quote": "He’s so connected to his family and shul",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Isolation-low",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This locates him inside a tightly networked Orthodox life. The surface is healthy belonging, but it also means she is being invited into a ready-made world with its own expectations.",
+      "snippet_id": "S-120-SN0010"
+    },
+    {
+      "quote": "I sort of feel lucky",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is already measuring herself against his invitation instead of his behavior. That feeling of luck can be sweet, but it also makes her less likely to question the pace.",
+      "snippet_id": "S-120-SN0011"
+    },
+    {
+      "quote": "bring me into all that",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is not just meeting family. It is being folded into his whole life quickly, which can feel romantic while also shrinking the space where she stands apart.",
+      "snippet_id": "S-120-SN0012"
+    },
+    {
+      "quote": "he gets a bit quiet if I mention making plans with my friends",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control",
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The quiet reaction is mild, but it already teaches her that outside plans create a mood shift. That can become a soft pressure to keep her social life smaller.",
+      "snippet_id": "S-120-SN0013"
+    },
+    {
+      "quote": "I just want you all to myself this weekend",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Isolation-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment",
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds romantic, but it is also a claim on her time. In a community where togetherness can be framed as devotion, the line can quietly make independence feel disloyal.",
+      "snippet_id": "S-120-SN0014"
+    },
+    {
+      "quote": "He laughed after, so I laughed too",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is following his lead on how to read the moment. That laugh is a small self-edit, the kind that keeps things pleasant while she swallows her own reaction.",
+      "snippet_id": "S-120-SN0015"
+    },
+    {
+      "quote": "you’re mixing it up",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-high",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is a soft correction, not a huge confrontation, but it still puts him in the position of deciding what happened. The tone makes her doubt herself instead of simply disagreeing.",
+      "snippet_id": "S-120-SN0016"
+    },
+    {
+      "quote": "You were wearing that blue sweater, remember?",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Perseverance-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He supplies the memory with confidence, which can feel charming early on. The structure is that his version arrives as the authoritative one, and hers becomes the one that has to yield.",
+      "snippet_id": "S-120-SN0017"
+    },
+    {
+      "quote": "He said it so confidently",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "Her uncertainty comes from his certainty. That is the early emotional effect to notice, because it shows how easily his confidence can overwrite her own recollection.",
+      "snippet_id": "S-120-SN0018"
+    },
+    {
+      "quote": "he’s playful like that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is giving him the benefit of the doubt by turning the correction into a cute personality quirk. That keeps the moment light, but it also protects the behavior from scrutiny.",
+      "snippet_id": "S-120-SN0019"
+    },
+    {
+      "quote": "he does remember everything",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is her attempt to restore the pleasant story about him. It also shows how quickly she is willing to treat his certainty as better evidence than her own memory.",
+      "snippet_id": "S-120-SN0020"
+    },
+    {
+      "quote": "Am I being too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is shrinking the concern down to her own sensitivity instead of the correction itself. That is the exact kind of self-questioning these early moments can create.",
+      "snippet_id": "S-120-SN0021"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

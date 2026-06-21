@@ -1,0 +1,436 @@
+{
+  "scenario_id": "S-134",
+  "player_type": "Neglectful Nico",
+  "scenario": {
+    "scenario_id": "S-134",
+    "architecture_name": "He installs himself as the calm rational standard so my feelings can be treated as unnecessary friction while I work harder to earn basic warmth.",
+    "culture": "Hustle Culture",
+    "demographics": "Filipino American woman, late 20s, Austin startup, boss is white male founder-operator in his mid-30s",
+    "cultural_context": "Tech startup workplace / local industry social network",
+    "geographic_setting": "Austin, Texas; urban tech startup environment",
+    "core_behaviors": [
+      "Frames his emotional flatness as maturity and calm",
+      "Praises me for being easy, low-drama, and adaptable",
+      "Uses the team and workplace norms to position himself as the standard I should fit"
+    ],
+    "satellite_signals": "Startup-status language, group-chat hierarchy, happy-hour inclusion, adaptation talk, and his quiet authority as boss all make the relationship feel like a merit test instead of a mutual connection.",
+    "dismissible_red_flags": "At this stage it mostly reads as workplace-style banter and a competent, low-drama guy. The odd looks, the correction, and the 'that's not how we do things here' comments are easy to excuse as onboarding or culture fit.",
+    "scenario_text": "I met him through work, which already makes everything feel a little cleaner in my head. He’s one of those guys who always seems busy and weirdly composed, like he’s already three steps ahead of everyone. On my first day he said, “Whatever works for you works for me. I don’t really do drama.” I remember thinking that was kind of a relief, honestly. After a few jobs where everything felt tense, it was nice being around someone so easy.\n\nHe introduced me to the team at happy hour and kept saying I’d “adapt quickly here.” It sounded encouraging, and I liked that he seemed to have faith in me. When I said “Bless you” after he sneezed, he gave me this tiny look, like I’d said something a little too earnest, then just moved on. Later he laughed when someone mentioned the secret group chat and said I’d get added once I was “locked in.” I laughed too, because it felt like part of the culture.\n\nA few times I offered ideas and he’d say, “That’s not how we do things here,” not meanly, just with this calm certainty that made me second-guess myself. He also has this way of saying, “You’re easy to be around,” like it’s a compliment I should be proud of. I am proud of it, I guess. I don’t want to be the person who makes things heavy.\n\nStill, sometimes when I ask a question, he answers like I’m overcomplicating something simple. He’s not rude. He just stays so steady that I end up feeling a little silly for having feelings about it. Am I being too sensitive about the way he says things?"
+  },
+  "snippets": [
+    {
+      "quote": "I met him through work",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Workplace contact gives him built-in authority and makes the relationship feel more official than it is. That setup can blur the line between mutual interest and a hierarchy she has to adapt to.",
+      "snippet_id": "S-134-SN0001"
+    },
+    {
+      "quote": "one of those guys who always seems busy and weirdly composed",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "He is being framed as calm and self-contained, which reads as mature in the moment. The risk is that the same composure can also mean he stays hard to reach and hard to read.",
+      "snippet_id": "S-134-SN0002"
+    },
+    {
+      "quote": "three steps ahead of everyone",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is admiration language, but it also places him above the room. She is already being invited to see him as the standard rather than as an equal.",
+      "snippet_id": "S-134-SN0003"
+    },
+    {
+      "quote": "Whatever works for you works for me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Boundaries-high",
+        "Control-low",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds flexible, but it can also signal low engagement. He is presenting himself as easygoing while quietly setting a baseline where her preferences matter more than any active investment from him.",
+      "snippet_id": "S-134-SN0004"
+    },
+    {
+      "quote": "I don’t really do drama",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "In hustle culture, 'no drama' sounds disciplined and mature. But it also pre-labels future discomfort as a problem with her, not as something he might need to respond to.",
+      "snippet_id": "S-134-SN0005"
+    },
+    {
+      "quote": "kind of a relief",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Intensity-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her relief is real and understandable, especially after stressful jobs. The small warning sign is that she is relieved by his low emotional demand before she has seen whether he can actually offer warmth.",
+      "snippet_id": "S-134-SN0006"
+    },
+    {
+      "quote": "I’d adapt quickly here",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is onboarding language, but it also sets a one-way expectation. He is defining the pace and implying that fitting in is her job rather than a shared process.",
+      "snippet_id": "S-134-SN0007"
+    },
+    {
+      "quote": "have faith in me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "It sounds supportive, but it puts him in the role of evaluator and her in the role of the one who must prove herself. The compliment carries a quiet test.",
+      "snippet_id": "S-134-SN0008"
+    },
+    {
+      "quote": "Bless you",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a small courtesy marker that tells us something about her background and how she moves socially. It is ordinary on its own, but it matters because he notices it as slightly off.",
+      "snippet_id": "S-134-SN0009"
+    },
+    {
+      "quote": "gave me this tiny look",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The look is subtle, not overtly hostile. That makes it easy to dismiss, but it also signals that he is tracking and judging her manners in real time.",
+      "snippet_id": "S-134-SN0010"
+    },
+    {
+      "quote": "a little too earnest",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is the point where she starts wondering if her normal warmth is a liability. The phrase shows her beginning to self-edit around his standards.",
+      "snippet_id": "S-134-SN0011"
+    },
+    {
+      "quote": "secret group chat",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A private group chat can be harmless, but here it marks an inner circle she is not yet in. That creates a soft social hierarchy and makes inclusion feel conditional.",
+      "snippet_id": "S-134-SN0012"
+    },
+    {
+      "quote": "you’ll get added once I was locked in",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "'Locked in' sounds like commitment, but it also sounds like access is controlled. He gets to decide when she is admitted, which keeps her waiting for permission.",
+      "snippet_id": "S-134-SN0013"
+    },
+    {
+      "quote": "That’s not how we do things here",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Cognitive Flexibility-low",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest hierarchy phrase in the story. It shuts down her ideas without argument and turns his preferences into the workplace rule, which is exactly the kind of calm authority that can later feel impossible to challenge.",
+      "snippet_id": "S-134-SN0014"
+    },
+    {
+      "quote": "with this calm certainty",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The certainty is what makes the correction land. He does not need to raise his voice because the confidence itself pressures her to doubt her own read on the situation.",
+      "snippet_id": "S-134-SN0015"
+    },
+    {
+      "quote": "You’re easy to be around",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This sounds flattering, but it rewards her for being low-maintenance. The compliment quietly teaches her that being pleasant and undemanding is what earns his approval.",
+      "snippet_id": "S-134-SN0016"
+    },
+    {
+      "quote": "I am proud of it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Sense of Self-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She absorbs the compliment and starts defending the role it assigns her. That is the start of self-shaping around his preferences rather than her own needs.",
+      "snippet_id": "S-134-SN0017"
+    },
+    {
+      "quote": "I don’t want to be the person who makes things heavy",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is her internalized rule now. She is beginning to treat her own needs as a burden, which makes it easier for him to stay emotionally unavailable without looking unkind.",
+      "snippet_id": "S-134-SN0018"
+    },
+    {
+      "quote": "he answers like I’m overcomplicating something simple",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Cognitive Flexibility-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He is not just disagreeing; he is making her feel like the problem for asking. That kind of quiet downgrade is how someone can stay pleasant while still controlling the frame.",
+      "snippet_id": "S-134-SN0019"
+    },
+    {
+      "quote": "He’s not rude",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is her own defense of him, and it matters because it shows how easily the pattern gets excused. She is already separating 'not rude' from 'actually responsive,' which is where the loneliness can start.",
+      "snippet_id": "S-134-SN0020"
+    },
+    {
+      "quote": "He just stays so steady",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Steadiness is attractive here, but it can also mean he never really meets her where she is. The calm surface keeps her from naming the lack underneath it.",
+      "snippet_id": "S-134-SN0021"
+    },
+    {
+      "quote": "I end up feeling a little silly for having feelings about it",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the clearest interior cost. She is not just confused, she is starting to treat her own feelings as embarrassing, which is exactly how a calm dismissive style can shrink someone over time.",
+      "snippet_id": "S-134-SN0022"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

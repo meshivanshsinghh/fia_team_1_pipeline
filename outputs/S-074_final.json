@@ -1,0 +1,384 @@
+{
+  "scenario_id": "S-074",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-074",
+    "architecture_name": "He uses dry, deniable criticism as intimacy, so she starts earning warmth by shrinking herself and staying easy to correct.",
+    "culture": "Chinese American",
+    "demographics": "Adult woman nurse, adult man, newly dating, Bay Area suburban-urban setting",
+    "cultural_context": "Healthcare worker social sphere; immigrant Filipino-American dating context; family-oriented community",
+    "geographic_setting": "Daly City / Bay Area suburban-urban environment",
+    "core_behaviors": [
+      "Dry teasing aimed at her as a test",
+      "Compliments that carry a correction inside them",
+      "Plans and follow-through that quietly shift onto her",
+      "Uses honesty and standards as a way to stay in charge"
+    ],
+    "satellite_signals": "Chinese American family and achievement references sit beside a dating style built around banter, rankings, and scarce praise. His wit reads as clever and refreshing at first, but it already places her in the role of proving she can take it.",
+    "dismissible_red_flags": "He seems funny, direct, and a little picky, which can feel like chemistry. The small jabs are easy to explain away as teasing because he follows them with praise or acts like she is overreading it.",
+    "scenario_text": "He picked me up after my shift and said he’d handle dinner because I looked wiped, which honestly felt sweet. We drove out toward Cupertino, and he kept making these dry little comments about the traffic, the menu, the guy in front of us with the loud watch. He’s funny in this quick, sharp way that makes me laugh before I even mean to. At the restaurant he asked if I’d gone to Chinese school, then laughed and said, “You seem too smart not to have.” I told him no, and he said, “Okay, still impressive.”\n\nLater he asked what my parents do here, and when I said my mom works nights too, he nodded like that explained me. He kept saying I was “not like the girls who need constant attention,” which I know sounds weird typed out, but in person it felt more like a compliment than a criticism. He also said I was “surprisingly low-maintenance,” and I probably smiled too hard because I wanted him to keep seeing me that way.\n\nWhen I reached for the check, he said, “No, I’ve got it. You nurses already do enough.” Then he added, “You can make it up to me by not getting all serious on me.” He said it like a joke, but I still put my card away. He’s the one who texts first, chooses the place, remembers my coffee order, and somehow makes me feel lucky instead of demanding.\n\nI guess the only thing that stayed with me is that little line about not getting serious. He probably just meant don’t overthink it. But do you think I was being too sensitive when he said that?"
+  },
+  "snippets": [
+    {
+      "quote": "He picked me up after my shift",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He has the car and the timing, so the scene starts with him moving her through his plan. It feels considerate, but it also puts him in the position of organizer and her in the position of being handled.",
+      "snippet_id": "S-074-SN0001"
+    },
+    {
+      "quote": "I looked wiped",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is tired and receptive, which makes it easier to accept his framing without pushing back. The vulnerability is ordinary, but it creates a softer target for his little corrections.",
+      "snippet_id": "S-074-SN0002"
+    },
+    {
+      "quote": "I’d handle dinner",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He volunteers to decide the evening, which sounds generous on the surface. Structurally, it means he is setting the terms and she is already following along.",
+      "snippet_id": "S-074-SN0003"
+    },
+    {
+      "quote": "dry little comments",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is the early version of the barbed humor pattern. The comments are small enough to pass as wit, but they train her to accept being lightly cut in the name of chemistry.",
+      "snippet_id": "S-074-SN0004"
+    },
+    {
+      "quote": "funny in this quick, sharp way",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "She experiences the edge as part of the attraction. That matters because the same sharpness can later become a normal way of relating, with her laughing first and feeling the sting later.",
+      "snippet_id": "S-074-SN0005"
+    },
+    {
+      "quote": "You seem too smart not to have",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a compliment with a correction inside it. He is praising her while also positioning himself as the one who gets to judge what she should have been like.",
+      "snippet_id": "S-074-SN0006"
+    },
+    {
+      "quote": "Okay, still impressive",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "The approval is rationed. He gives just enough praise to keep her wanting more, which makes his opinion feel scarce and valuable.",
+      "snippet_id": "S-074-SN0007"
+    },
+    {
+      "quote": "what my parents do here",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is a classic Chinese American class-and-family probe. It tells us he is reading her through family status and immigrant background, not just through dating small talk.",
+      "snippet_id": "S-074-SN0008"
+    },
+    {
+      "quote": "my mom works nights too",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her work schedule and her mother’s work pattern place her inside a working family reality. He nods as if he understands her through labor, which quietly makes that labor part of what he is admiring.",
+      "snippet_id": "S-074-SN0009"
+    },
+    {
+      "quote": "not like the girls who need constant attention",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-low",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is exception-bait. He elevates her by putting down a category of women, which pressures her to stay low-need and never become the kind of woman he just dismissed.",
+      "snippet_id": "S-074-SN0010"
+    },
+    {
+      "quote": "surprisingly low-maintenance",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-low"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The praise is really a role assignment. If being easy is what makes her special, then asking for more later will feel like failing the version of herself he likes.",
+      "snippet_id": "S-074-SN0011"
+    },
+    {
+      "quote": "I’ve got it",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He takes the check, the decision, and the lead. It is a small gesture, but it establishes who gets to manage money and momentum in the relationship.",
+      "snippet_id": "S-074-SN0012"
+    },
+    {
+      "quote": "You nurses already do enough",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This sounds appreciative, but it also turns her work into a reason he should be exempt from effort. He is using praise to justify taking more of the easy position.",
+      "snippet_id": "S-074-SN0013"
+    },
+    {
+      "quote": "make it up to me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "A joking debt is still a debt. He turns a simple dinner into something she owes him for, which keeps the balance tilted in his favor.",
+      "snippet_id": "S-074-SN0014"
+    },
+    {
+      "quote": "not getting all serious on me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Conflict-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the quietest seed. He frames her future objection as a mood problem, so if she ever raises a concern, she will already feel like the one making things heavy.",
+      "snippet_id": "S-074-SN0015"
+    },
+    {
+      "quote": "He’s the one who texts first",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The attention is pleasant, and it helps the relationship feel alive. But it also means he gets to set the rhythm and be the one who defines when contact happens.",
+      "snippet_id": "S-074-SN0016"
+    },
+    {
+      "quote": "chooses the place",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He keeps the practical authority. Choosing the place sounds normal, but repeated small choices like this can quietly become a habit of him steering everything.",
+      "snippet_id": "S-074-SN0017"
+    },
+    {
+      "quote": "remembers my coffee order",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the kind of detail that makes a new relationship feel special. It also makes his attention feel personalized enough that she is more likely to excuse the sharper parts.",
+      "snippet_id": "S-074-SN0018"
+    },
+    {
+      "quote": "I was being too sensitive",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She has already started translating her own discomfort into a flaw in herself. That self-doubt is what lets the joke stay harmless in her mind instead of becoming something to question.",
+      "snippet_id": "S-074-SN0019"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

@@ -1,0 +1,486 @@
+{
+  "scenario_id": "S-113",
+  "player_type": "Egocentric Evan",
+  "scenario": {
+    "scenario_id": "S-113",
+    "architecture_name": "He turns devotion into ownership by making himself the center of my time, my choices, and my version of events.",
+    "culture": "Polyamorous",
+    "demographics": "F/late 20s, M/early 30s, Los Angeles, Iranian-American man",
+    "cultural_context": "Urban dating/relationship sphere with a cross-cultural romance dynamic",
+    "geographic_setting": "Los Angeles, specifically Westwood",
+    "core_behaviors": [
+      "Plans and pays so his care becomes the frame",
+      "Uses intense attention to make me feel chosen",
+      "Treats my time and plans as flexible around him",
+      "Asks personal questions in a way that feels curious but also collecting"
+    ],
+    "satellite_signals": "Cross-cultural romance in Westwood; constant texting as charm; family-values talk; teasing about adapting; questions about dating history; one-way planning and payment create a soft hierarchy.",
+    "dismissible_red_flags": "It mostly reads as flattering early dating energy. The controlling pieces are easy to excuse because he is attentive, generous, and seems genuinely interested in me.",
+    "scenario_text": "I’ve only been seeing Amir for a few weeks, but it already feels kind of easy with him. He’s Iranian, grew up in a family that really does things properly, and he likes taking the lead in a way that’s honestly a little old-school. He picks the restaurant, he pays, he even texts me when he’s on the way so I’m not waiting around. I’m not complaining. It’s sweet to be treated like that.\n\nLast night he planned this whole picnic in Westwood, and I thought it was cute because I had already told him I was supposed to meet my friends after. He said, “Just give me a couple hours, I want to have you to myself.” He said it like it was funny, so I laughed. He can be really charming when he wants to be. He kept saying he just likes being intentional, and that he doesn’t do halfway with people he cares about. I like that he’s not casual about me.\n\nHe’s also very curious, in a way that feels flattering until I think about it later. He asked about every person I’ve dated, what I liked about them, why it ended, who was serious, who wasn’t. Then he said, “I just want to know what kind of man I’m up against.” I told him there wasn’t anyone to worry about, which is true, but he still looked pleased, like he’d won something.\n\nHe keeps saying things like “my woman” half joking, and “we should be a little more low-key about us” when I mention other plans. It’s not even a big deal, really. I just like how much he likes me, and I don’t want to make something sweet into a problem. But do you think it was weird that he kept asking about my exes?"
+  },
+  "snippets": [
+    {
+      "quote": "I’ve only been seeing Amir for a few weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Early relationship timing. It matters because the intensity is arriving before there is much shared history, which makes later ownership easier to dress up as closeness.",
+      "snippet_id": "S-113-SN0001"
+    },
+    {
+      "quote": "Amir, but it already feels kind of easy with him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She notices ease and charm, which is pleasant, but the phrase also shows how quickly she is accepting his pace. The comfort is real; so is the speed at which she is being pulled into his rhythm.",
+      "snippet_id": "S-113-SN0002"
+    },
+    {
+      "quote": "He’s Iranian",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places him in a specific family and cultural context that later gives his preferences extra authority. The cultural detail is not decoration, because he can use it as a shield for controlling behavior.",
+      "snippet_id": "S-113-SN0003"
+    },
+    {
+      "quote": "grew up in a family that really does things properly",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is a status claim disguised as family description. 'Properly' sounds harmless, but it quietly sets his family standard as the measure she should admire and adapt to.",
+      "snippet_id": "S-113-SN0004"
+    },
+    {
+      "quote": "he likes taking the lead",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "At first it sounds confident and masculine, but it also assigns him the decision-making role. In a new relationship, 'taking the lead' can become a way to make her follow without noticing.",
+      "snippet_id": "S-113-SN0005"
+    },
+    {
+      "quote": "he pays",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Exploitation-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Fairness"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Payment creates a soft hierarchy, especially when it is paired with him choosing the plans. She is grateful, but the gratitude can later become leverage if she objects or wants something different.",
+      "snippet_id": "S-113-SN0006"
+    },
+    {
+      "quote": "He picks the restaurant",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is small on its face, but it establishes who gets to decide. Repeated over time, the person who always picks starts to feel like the default authority.",
+      "snippet_id": "S-113-SN0007"
+    },
+    {
+      "quote": "He even texts me when he’s on the way",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Constant updates can feel considerate early on. The structure underneath is that he is training the relationship into a high-contact routine where her availability starts to feel expected.",
+      "snippet_id": "S-113-SN0008"
+    },
+    {
+      "quote": "It’s sweet to be treated like that",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "She is actively converting the asymmetry into sweetness. That matters because it shows the hook is emotional reward, not fear, which is exactly why the pattern can deepen quietly.",
+      "snippet_id": "S-113-SN0009"
+    },
+    {
+      "quote": "Last night he planned this whole picnic in Westwood",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The picnic is a nice gesture, but it is also fully his production. He is building the relationship around scenes he authors, which makes his version of closeness feel special and organized around him.",
+      "snippet_id": "S-113-SN0010"
+    },
+    {
+      "quote": "I had already told him I was supposed to meet my friends after",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-low",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Her prior plan matters because it shows the picnic is not just a date, it is a pull against her other relationships. He is not forbidding her friends, but he is making his preference the one that wins the day.",
+      "snippet_id": "S-113-SN0011"
+    },
+    {
+      "quote": "I want to have you to myself",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Enmeshment-high",
+        "Isolation-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds romantic, but it is already possessive. In a poly context especially, 'to myself' is a tell that he wants her attention to narrow around him, even if he says it playfully.",
+      "snippet_id": "S-113-SN0012"
+    },
+    {
+      "quote": "He said it like it was funny",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The joke frame gives him deniability and puts the burden on her to decide whether to object. She is already doing that work for him by laughing it off.",
+      "snippet_id": "S-113-SN0013"
+    },
+    {
+      "quote": "He kept saying he just likes being intentional",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "'Intentional' is a very flattering word in dating culture. Here it is doing cover work for control, because his intentionality mostly means he gets to shape the pace, setting, and terms.",
+      "snippet_id": "S-113-SN0014"
+    },
+    {
+      "quote": "he doesn’t do halfway with people he cares about",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Goal Persistence-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is a devotion claim, but it also announces escalation. He is presenting all-in intensity as virtue, which can later make ordinary boundaries look like betrayal or lack of seriousness.",
+      "snippet_id": "S-113-SN0015"
+    },
+    {
+      "quote": "He asked about every person I’ve dated",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Neediness-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The curiosity sounds intimate, but the scale of it is collecting behavior. He is mapping her past so he can position himself against it, which gives him more interpretive control later.",
+      "snippet_id": "S-113-SN0016"
+    },
+    {
+      "quote": "what I liked about them, why it ended",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Perseverance-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is not just getting to know her. He is gathering the breakup narrative he can use to compare, rank, and eventually pressure her with, even if he seems casual now.",
+      "snippet_id": "S-113-SN0017"
+    },
+    {
+      "quote": "what kind of man I’m up against",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "That phrase turns her dating history into a competition he expects to win. It sounds playful, but it frames him as a contestant and evaluator at the same time, which is a very ego-centered setup.",
+      "snippet_id": "S-113-SN0018"
+    },
+    {
+      "quote": "he’d won something",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Her reaction is important because she is already experiencing herself as a prize he has secured. That feeling can be flattering at first, but it also makes it harder to notice when winning starts replacing mutuality.",
+      "snippet_id": "S-113-SN0019"
+    },
+    {
+      "quote": "my woman",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Dominance-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Possessive language, even when half joking, is a quiet claim of ownership. In the early phase it can sound cute, but it normalizes the idea that she is his category rather than her own person.",
+      "snippet_id": "S-113-SN0020"
+    },
+    {
+      "quote": "we should be a little more low-key about us",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Isolation-low"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds like discretion, but it also nudges her toward reducing other plans and making the relationship more central. Because it is framed as 'we,' it can feel mutual while still steering her behavior.",
+      "snippet_id": "S-113-SN0021"
+    },
+    {
+      "quote": "I just like how much he likes me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She is enjoying being adored, which is understandable. The seam is that his liking is becoming the main proof of her value, so his attention starts to carry more weight than her own judgment.",
+      "snippet_id": "S-113-SN0022"
+    },
+    {
+      "quote": "I don’t want to make something sweet into a problem",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Trust-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "This is the classic self-silencing move. She has noticed something small, but she is already protecting the sweetness of the relationship more than she is protecting her own discomfort.",
+      "snippet_id": "S-113-SN0023"
+    },
+    {
+      "quote": "he kept asking about my exes",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Perseverance-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The closing concern is mild and socially acceptable, which fits the stage she is in. But the repeated questioning shows he is not just curious, he is trying to build a map of her past and keep herself in relation to it.",
+      "snippet_id": "S-113-SN0024"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

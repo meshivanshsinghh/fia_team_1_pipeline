@@ -1,0 +1,476 @@
+{
+  "scenario_id": "S-060",
+  "player_type": "Dependent Drew",
+  "scenario": {
+    "scenario_id": "S-060",
+    "architecture_name": "He uses adoring dependence to make her feel chosen, then slowly turns her into his schedule, regulator, and life-admin. ",
+    "culture": "Polyamorous",
+    "demographics": "F/29, M/31, Brooklyn, office and community-center crowd",
+    "cultural_context": "Urban professional social sphere; community-center event, office career-building context, friends/family integration",
+    "geographic_setting": "Brooklyn, New York; urban community-center and office setting",
+    "core_behaviors": [
+      "Lights up with adoration and makes her feel uniquely seen",
+      "Asks for small decisions and reassurance early, like it is intimacy",
+      "Frames her competence as the thing that keeps him steady"
+    ],
+    "satellite_signals": "Polyamorous in-group language, office lunch drop-ins, schedule-sharing, future talk, and the soft pressure of being the person who 'gets' him.",
+    "dismissible_red_flags": "At this stage it reads like sweet enthusiasm, not control. The lunch surprise, wanting more time together, and asking about her schedule can all feel like normal early dating energy.",
+    "scenario_text": "I met Drew at a community center event in Brooklyn, and for the first couple of weeks I kept thinking how easy he was to be around. He has this warm, almost shy way of looking at me like I’m the only person in the room. Last Tuesday he showed up at my office with lunch from the place downstairs and said, “I can’t let you starve while you’re building your career.” It was honestly cute, and I was touched that he thought of me.\n\nHe’s also very into planning. He asked for my calendar because he wanted to make sure we had enough “us time,” and he kept saying he loved how we could be a team about things. I liked that. After old situations where I felt sort of on my own, it felt nice to have someone who wanted to include me so much.\n\nA couple times he’s ordered for both of us before I even looked at the menu, which would bother me with someone else, but with him it just feels like he’s taking care of me. He keeps saying I’m the most capable person he knows, which is sweet, though it does make me feel a little funny when he says he’s “better just being around someone like me.”\n\nHe’s mentioned my friends a few times too, in this joking way, like they’ll start forgetting I exist if we keep seeing each other all the time. I laughed because he said it like a joke, and because he really does seem excited about me. He also asked if I’d help him look at some apartment paperwork, since he gets “weirdly blank” about official stuff, and I said sure. It’s not a big deal. He’s just very sweet and a little lost, I guess. Is it weird that I liked how much he needed me to text him when I got home?"
+  },
+  "snippets": [
+    {
+      "quote": "I met Drew at a community center event in Brooklyn",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "Sets the social world and location. It also places him inside a community setting where early intimacy can feel naturally built rather than forced.",
+      "snippet_id": "S-060-SN0001"
+    },
+    {
+      "quote": "for the first couple of weeks",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The relationship is still very early, which matters because the dependence reads as sweet now, before it becomes a burden.",
+      "snippet_id": "S-060-SN0002"
+    },
+    {
+      "quote": "how easy he was to be around",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She experiences him as low-drama and pleasant. That can be genuinely attractive early, but it also hints at a flat, easygoing style that can hide emotional underfunctioning.",
+      "snippet_id": "S-060-SN0003"
+    },
+    {
+      "quote": "warm, almost shy way of looking at me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the early draw. The warmth feels flattering and intimate, but it is already keyed to making her feel singular and chosen.",
+      "snippet_id": "S-060-SN0004"
+    },
+    {
+      "quote": "I’m the only person in the room",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The phrasing makes her feel uniquely centered. That kind of singular attention is seductive, but it also starts assigning her the job of being his emotional focus.",
+      "snippet_id": "S-060-SN0005"
+    },
+    {
+      "quote": "showed up at my office with lunch",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "A thoughtful office drop-in is pleasant on the surface, but it also inserts him into her workday and makes his care visible in her professional space.",
+      "snippet_id": "S-060-SN0006"
+    },
+    {
+      "quote": "I can’t let you starve while you’re building your career",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds caring, but it frames her as someone he is responsible for feeding and monitoring. The line makes his caretaking feel heroic, which is how the dependency starts to feel natural.",
+      "snippet_id": "S-060-SN0007"
+    },
+    {
+      "quote": "he thought of me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She is touched by being remembered and singled out. That emotional payoff makes it easier for her to accept the growing role he is assigning himself.",
+      "snippet_id": "S-060-SN0008"
+    },
+    {
+      "quote": "he wanted to make sure we had enough “us time”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the early version of merging. It sounds romantic, but it already turns her schedule into something that has to be negotiated around the relationship.",
+      "snippet_id": "S-060-SN0009"
+    },
+    {
+      "quote": "we could be a team about things",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "Team language is flattering, but here it quietly recasts ordinary adult tasks as shared management, which makes her responsible for his functioning too.",
+      "snippet_id": "S-060-SN0010"
+    },
+    {
+      "quote": "After old situations where I felt sort of on my own",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her relief is understandable. That history makes his attention land as healing, which is exactly why the later dependence will be hard to notice.",
+      "snippet_id": "S-060-SN0011"
+    },
+    {
+      "quote": "ordered for both of us before I even looked at the menu",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Control-low",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is making small decisions for both of them. At this stage it can pass as confidence or care, but it normalizes him taking the lead without checking in.",
+      "snippet_id": "S-060-SN0012"
+    },
+    {
+      "quote": "he’s taking care of me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "She likes the feeling of being cared for, which is real. The subtle risk is that care is already becoming his identity in the relationship.",
+      "snippet_id": "S-060-SN0013"
+    },
+    {
+      "quote": "I’m the most capable person he knows",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "This is praise, but it also installs her as the competent one in the pair. That kind of compliment can quietly turn into expectation.",
+      "snippet_id": "S-060-SN0014"
+    },
+    {
+      "quote": "he’s “better just being around someone like me”",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He is already linking his own functioning to her presence. It sounds tender, but it makes her feel responsible for his steadiness.",
+      "snippet_id": "S-060-SN0015"
+    },
+    {
+      "quote": "my friends a few times too",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The friend comments are still joking, but they plant the idea that other relationships will naturally fade as this one grows.",
+      "snippet_id": "S-060-SN0016"
+    },
+    {
+      "quote": "they’ll start forgetting I exist",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Isolation-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "It sounds playful, yet it frames her social world as something that will shrink around him. That can make withdrawal from friends feel inevitable instead of chosen.",
+      "snippet_id": "S-060-SN0017"
+    },
+    {
+      "quote": "I laughed because he said it like a joke",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "She is already smoothing over a small discomfort by treating it as humor. That’s often how the first little boundary gets absorbed.",
+      "snippet_id": "S-060-SN0018"
+    },
+    {
+      "quote": "he really does seem excited about me",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "Her positive read is understandable, and it keeps the scene from feeling alarming. The excitement is real, but it also helps her excuse the way he keeps centering himself in her time.",
+      "snippet_id": "S-060-SN0019"
+    },
+    {
+      "quote": "help him look at some apartment paperwork",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Power Information"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Exploitation-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "This is the first clear handoff of adult labor. It feels small because it is paperwork, but it moves her into the role of helper and organizer.",
+      "snippet_id": "S-060-SN0020"
+    },
+    {
+      "quote": "he gets “weirdly blank” about official stuff",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Sense of Self-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He turns adult competence into a personal quirk, which makes the imbalance seem endearing. The problem is that his blankness becomes her job to manage.",
+      "snippet_id": "S-060-SN0021"
+    },
+    {
+      "quote": "It’s not a big deal",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the narrator talking herself down. She can feel the asymmetry, but she is keeping it small enough to stay comfortable.",
+      "snippet_id": "S-060-SN0022"
+    },
+    {
+      "quote": "He’s just very sweet and a little lost",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Neediness-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the affectionate frame she uses to hold the whole thing together. ‘Sweet and a little lost’ makes his dependence feel lovable instead of demanding.",
+      "snippet_id": "S-060-SN0023"
+    },
+    {
+      "quote": "liked how much he needed me to text him when I got home",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the clearest seed. The check-in feels caring now, but it already makes her responsible for soothing his anxiety and staying emotionally available on demand.",
+      "snippet_id": "S-060-SN0024"
+    }
+  ],
+  "validation_warnings": [],
+  "repetition_warnings": []
+}

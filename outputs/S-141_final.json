@@ -1,0 +1,461 @@
+{
+  "scenario_id": "S-141",
+  "player_type": "Backhanded Blake",
+  "scenario": {
+    "scenario_id": "S-141",
+    "architecture_name": "He uses dry teasing and cheerful compliance to make me prove I can take his corrections without needing warmth back.",
+    "culture": "Polyamorous",
+    "demographics": "Adult woman dating Carlos; Hispanic/Latino couple; relationship status: dating",
+    "cultural_context": "Vibrant Hispanic social/family community with dating and neighborhood-centered social life",
+    "geographic_setting": "Miami, especially Little Havana; urban Hispanic community",
+    "core_behaviors": [
+      "Uses witty, deniable digs to test my reactions",
+      "Frames his bluntness as honesty and respect",
+      "Makes small promises cheerfully, then leaves me carrying the follow-through",
+      "Rewards me for seeming low-maintenance and not needing reassurance"
+    ],
+    "satellite_signals": "Polyamorous in-group language sits under a Miami, Little Havana dating scene. He sounds funny, direct, and easygoing at first, but the humor has teeth and the praise is scarce. The pattern is approval as a prize, with my discomfort treated like a personal flaw.",
+    "dismissible_red_flags": "At this stage he just seems sharp, playful, and a little hard to read. The comments can pass as banter, and his chill tone makes it easy to tell myself I am being too sensitive.",
+    "scenario_text": "I keep thinking I’m probably overreacting, because most of the time Carlos is genuinely fun to be around. We were at this little place in Little Havana last night, and he was doing that dry thing where he notices everything. He glanced at the table next to us and said, “Look at the guy at the bar telling the whole room about his fantasy football trade. Incredible. That’s a type, isn’t it.” I laughed so hard I almost choked on my mojito.\n\nHe’s also weirdly easy with me in a way I’m not used to. When I asked if he wanted to come to the state-of-the-union conversation at my friend’s place this weekend, he said, “Yeah, I’m easy, you pick,” like it was nothing. Then later he texted, “I’m only seeing you right now,” which was sweet, honestly, and made me feel kind of special. He says things like that with such a calm voice that I believe him.\n\nIt’s just, sometimes the jokes have a tiny sting. I was running late after work and he said, “Oh, you’re ready on time for once. I’m kidding. You look incredible, relax.” And then when I told him I’d already texted my other date about changing plans, he said, “Jealousy is just information, babe. We can work through your jealousy.” He smiled like he was being helpful, so I laughed too, but it stayed with me.\n\nHe does this thing where he’ll offer to handle something and then sort of drift. Last week he said he’d book the dinner reservation and then forgot, and when I followed up he went, “My boundary is that I don’t get interrogated.” He said it joking, but I ended up apologizing anyway.\n\nI like him. I really do. I just don’t know if I’m supposed to laugh more, or ask less, or what. Was I being too sensitive about the joke?"
+  },
+  "snippets": [
+    {
+      "quote": "I’m probably overreacting",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is already minimizing her own reaction before naming it. That usually means the comment landed harder than she wants to admit, and she is trying to stay in the role of the easy, unbothered partner.",
+      "snippet_id": "S-141-SN0001"
+    },
+    {
+      "quote": "most of the time Carlos is genuinely fun",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Inconsistency-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the classic early-stage split between the appealing surface and the part that keeps bothering her. She is using his fun side to cover for the stingy side, which is why the question feels small even when it is not.",
+      "snippet_id": "S-141-SN0002"
+    },
+    {
+      "quote": "this little place in Little Havana",
+      "kind_of_signal": [
+        "Cultural/Demographic Information"
+      ],
+      "unes_traits": [
+        "Not Found"
+      ],
+      "unmet_need": [
+        "Not Found"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This places the relationship inside a specific Miami neighborhood and social world. It is not a red flag by itself, but it anchors the scene in the community context that makes the rest of the language feel natural.",
+      "snippet_id": "S-141-SN0003"
+    },
+    {
+      "quote": "that dry thing where he notices everything",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Control-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He is turning observation into a personality asset, which makes later criticism feel like insight instead of meanness. The appeal is that he seems sharp; the trap is that he is already positioning himself as the one who gets to notice and define.",
+      "snippet_id": "S-141-SN0004"
+    },
+    {
+      "quote": "Look at the guy at the bar",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "He is making a stranger into a little joke for the room, which shows the habit of turning people into material. That same edge can later slide onto her, but here it still reads as clever banter.",
+      "snippet_id": "S-141-SN0005"
+    },
+    {
+      "quote": "that’s a type, isn’t it",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Judgment-as-Discernment"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This sounds like a casual observation, but it is really a little ranking move. He is setting himself up as the one who can classify people, which makes his judgments feel witty and hard to challenge.",
+      "snippet_id": "S-141-SN0006"
+    },
+    {
+      "quote": "I laughed so hard",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "Her laughter shows how well the humor is working on her. The problem is not that the joke is awful, but that she is already adapting to his tone and rewarding the part that cuts.",
+      "snippet_id": "S-141-SN0007"
+    },
+    {
+      "quote": "I’m easy, you pick",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This sounds relaxed, but it quietly hands him the steering wheel. In early dating that can feel generous; structurally it trains her to defer and makes his preferences the default.",
+      "snippet_id": "S-141-SN0008"
+    },
+    {
+      "quote": "I’m only seeing you right now",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "In poly language this can sound reassuring, but it also creates a little special-status bubble around her. The phrase feels intimate because it narrows the field and makes her feel chosen without actually giving clarity.",
+      "snippet_id": "S-141-SN0009"
+    },
+    {
+      "quote": "made me feel kind of special",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She is naming the emotional payoff directly. That matters because the payoff is what makes the later sting easier to swallow, since she has already been trained to value the rare moments of approval.",
+      "snippet_id": "S-141-SN0010"
+    },
+    {
+      "quote": "Oh, you’re ready on time for once",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Disrespect-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "This is a backhanded compliment. It sounds playful because he follows it with praise, but the first half plants a little correction and makes her feel watched for failing to meet his standard.",
+      "snippet_id": "S-141-SN0011"
+    },
+    {
+      "quote": "I’m kidding",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Deception-low",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "He uses the joke shield right after the jab, which is what makes the jab deniable. The point is not whether he technically meant it as a joke, but that she is left managing the sting alone.",
+      "snippet_id": "S-141-SN0012"
+    },
+    {
+      "quote": "You look incredible, relax",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Disrespect-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Humiliation"
+      ],
+      "reasoning": "The compliment rescues the moment, but it also tells her to stop reacting. That keeps the power with him, because he gets to sting and soothe in the same breath and then decide the conversation is over.",
+      "snippet_id": "S-141-SN0013"
+    },
+    {
+      "quote": "Jealousy is just information",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "In poly circles this is a familiar deflection phrase. It sounds thoughtful, but it quietly removes his behavior from the issue and turns her discomfort into data she is supposed to process by herself.",
+      "snippet_id": "S-141-SN0014"
+    },
+    {
+      "quote": "We can work through your jealousy",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This frames her feelings as a project he gets to supervise. It sounds collaborative, but the wording makes her the one with the problem and him the one who decides how it gets handled.",
+      "snippet_id": "S-141-SN0015"
+    },
+    {
+      "quote": "He smiled like he was being helpful",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is trying to read his tone as kindness because that is the easiest way to keep the moment pleasant. The unease comes from the mismatch between the helpful tone and the fact that she feels smaller afterward.",
+      "snippet_id": "S-141-SN0016"
+    },
+    {
+      "quote": "I laughed too",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "This is the compliance reflex. She is matching his framing instead of checking her own discomfort, which is exactly how the small cuts get normalized early on.",
+      "snippet_id": "S-141-SN0017"
+    },
+    {
+      "quote": "My boundary is that I don’t get interrogated",
+      "kind_of_signal": [
+        "Loaded Language",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Boundaries-high",
+        "Accountability-low"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is boundary language used as a shield. Instead of answering a simple follow-up, he reframes her question as an attack, which lets him avoid accountability while sounding principled.",
+      "snippet_id": "S-141-SN0018"
+    },
+    {
+      "quote": "I don’t get interrogated",
+      "kind_of_signal": [
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Conflict-low"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "The wording is doing the work. A normal question becomes interrogation, so his refusal can look like self-protection rather than a choice to shut her out.",
+      "snippet_id": "S-141-SN0019"
+    },
+    {
+      "quote": "he forgot",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Inconsistency-high",
+        "Goal Persistence-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Emotional Neglect"
+      ],
+      "reasoning": "The forgotten reservation is small on its face, but it fits the pattern of cheerful follow-through that never quite arrives. When the person who seems easygoing keeps drifting, the labor of holding the relationship together starts landing on her.",
+      "snippet_id": "S-141-SN0020"
+    },
+    {
+      "quote": "I ended up apologizing anyway",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is the clearest little power shift in the scene. He drops the task, then uses a boundary phrase, and somehow she is the one smoothing it over, which shows how fast the responsibility gets flipped.",
+      "snippet_id": "S-141-SN0021"
+    },
+    {
+      "quote": "I like him. I really do.",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Trust-high"
+      ],
+      "unmet_need": [
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This matters because she is not rejecting him; she is trying to preserve the relationship while sorting out a small discomfort. That hopeful stance is exactly what makes the early manipulation easy to miss.",
+      "snippet_id": "S-141-SN0022"
+    },
+    {
+      "quote": "Was I being too sensitive about the joke?",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Trust-low"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "She is asking about the smallest visible thing, not the whole pattern. That keeps the question socially safe, but it also shows that the joke is already making her doubt her own read on the moment.",
+      "snippet_id": "S-141-SN0023"
+    }
+  ],
+  "validation_warnings": [
+    "snippet[5]: unes_trait 'Judgment-as-Discernment' missing -high/-low suffix"
+  ],
+  "repetition_warnings": []
+}

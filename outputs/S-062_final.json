@@ -1,0 +1,430 @@
+{
+  "scenario_id": "S-062",
+  "player_type": "Egocentric Evan",
+  "scenario": {
+    "scenario_id": "S-062",
+    "culture": "South Asian",
+    "demographics": "Adult woman dating Raj, a South Asian tech worker in San Francisco",
+    "cultural_context": "South Asian immigrant dating culture in urban tech setting",
+    "geographic_setting": "San Francisco, urban city setting",
+    "scenario_text": "I’ve been seeing Raj for a few weeks, and honestly I like him a lot. He’s sweet in that very specific South Asian tech-guy way, always a little polished, always acting like he has a plan. Last night he surprised me with tickets to The Little Mermaid at the Golden Gate Theatre, and he kept saying, ‘I couldn’t resist planning something special for us.’ It was cute. He’d even taken time off from work, which felt kind of insane in a good way.\n\nHe kept looking at me during dinner like he was trying to memorize my face. Then he said, ‘I look at you and I genuinely can’t believe you’re mine,’ and I laughed because it sounded so dramatic, but also... flattering. He said his friends had been talking about me after we met them, and that he’d told them, ‘I’ve got good taste.’ I know that’s a little much, but it made me feel chosen.\n\nThe part that stuck with me was when he asked if I’d introduce him to Emily soon, because he wanted to know the people who matter to me. Then he asked about my past relationships and said, ‘I just get a bit anxious because you’re so amazing.’ He said it so softly that I didn’t know if I was supposed to reassure him or just let it go. I told him not to worry, and he smiled like that was exactly the right answer.\n\nMaybe I’m overthinking it, but he does have this way of making everything feel special and slightly bigger than it needs to be. It’s not bad, just intense in a sweet way. Do you think I was being too weird about how quickly he wanted to meet Emily?",
+    "core_behaviors": [],
+    "architecture_name": "",
+    "satellite_signals": "",
+    "dismissible_red_flags": ""
+  },
+  "snippets": [
+    {
+      "snippet_id": "S-062-SN0001",
+      "snippet_text": "South Asian tech-guy way",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This locates him inside a specific Bay Area register and also hints that his polish is part of the performance. It sounds affectionate, but it already frames him as a type who knows how to present himself."
+    },
+    {
+      "snippet_id": "S-062-SN0002",
+      "snippet_text": "always a little polished",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Superficiality-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "The praise is about surface and presentation, not character. It’s attractive in the moment, but it also suggests he’s managing how he comes across very carefully."
+    },
+    {
+      "snippet_id": "S-062-SN0003",
+      "snippet_text": "acting like he has a plan",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Dominance-high"
+      ],
+      "unmet_need": [
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "This is still framed as competence, but it hints that he likes to direct the shape of things. In early dating that can feel reassuring, while later it can become pressure to follow his lead."
+    },
+    {
+      "snippet_id": "S-062-SN0004",
+      "snippet_text": "The Little Mermaid at the Golden Gate Theatre",
+      "kind_of_signal": [
+        "Cultural/Demographic Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "A thoughtful date is doing real work here, but the very specific outing also stages him as someone curating the experience. It feels generous, and it gives him an audience for being the man who planned something special."
+    },
+    {
+      "snippet_id": "S-062-SN0005",
+      "snippet_text": "I couldn’t resist planning something special for us",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Agency"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This sounds romantic, but it also makes the relationship itself the object of his planning. ‘For us’ folds her into his project, and ‘couldn’t resist’ makes his impulse feel like a virtue she should enjoy rather than question."
+    },
+    {
+      "snippet_id": "S-062-SN0006",
+      "snippet_text": "He’d even taken time off from work",
+      "kind_of_signal": [
+        "Power Information",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "He is showing investment, but the sacrifice also creates a subtle debt. She’s likely to feel that because he rearranged his work life, she should receive the gesture as bigger than an ordinary date."
+    },
+    {
+      "snippet_id": "S-062-SN0007",
+      "snippet_text": "He kept looking at me",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Attachment-high",
+        "Intensity-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "The attention is flattering, but it also shows how fixed he is on her. The gaze is part admiration and part possession, like he is already treating her as his focus."
+    },
+    {
+      "snippet_id": "S-062-SN0008",
+      "snippet_text": "trying to memorize my face",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Attachment-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the first place the intensity edges past ordinary sweetness. Memorizing her face sounds romantic, but it also suggests he is collecting her, paying attention in a way that wants to hold on."
+    },
+    {
+      "snippet_id": "S-062-SN0009",
+      "snippet_text": "I look at you and I genuinely can’t believe you’re mine",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Possessiveness-high",
+        "Validation-seeking-high",
+        "Enmeshment-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "Possession is already in the compliment. The praise is about her, but the key word is ‘mine,’ which turns admiration into ownership while still sounding like devotion."
+    },
+    {
+      "snippet_id": "S-062-SN0010",
+      "snippet_text": "he’d told them, ‘I’ve got good taste’",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Grandiosity-high",
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "He is not just praising her, he is praising his own judgment for choosing her. That keeps the spotlight on him, and it lets her feel special while he gets the credit."
+    },
+    {
+      "snippet_id": "S-062-SN0011",
+      "snippet_text": "it made me feel chosen",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the emotional payoff he’s aiming for. She experiences his approval as selection, which is lovely now and can later make it harder to question him."
+    },
+    {
+      "snippet_id": "S-062-SN0012",
+      "snippet_text": "he wanted to know the people who matter to me",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Connection",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "On the surface this is caring curiosity. Structurally, it is an early bid to widen his access into her life by making her social world part of the relationship he gets to manage."
+    },
+    {
+      "snippet_id": "S-062-SN0013",
+      "snippet_text": "he asked about my past relationships",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Validation-seeking-high",
+        "Control-high"
+      ],
+      "unmet_need": [
+        "Safety",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Betrayal / Exploitation"
+      ],
+      "reasoning": "Early questions like this can be framed as openness, but they also start building a map of her vulnerabilities and comparisons. It’s not alarming by itself, just a little too soon and a little too interested."
+    },
+    {
+      "snippet_id": "S-062-SN0014",
+      "snippet_text": "I just get a bit anxious because you’re so amazing",
+      "kind_of_signal": [
+        "Behavioral Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Validation-seeking-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "He casts his own insecurity as a cute consequence of her greatness. That makes her responsible for soothing him, which is sweet now and can become a job later."
+    },
+    {
+      "snippet_id": "S-062-SN0015",
+      "snippet_text": "He said it so softly",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Deception-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Gaslighting (DARVO)"
+      ],
+      "reasoning": "The softness is part of why it lands. She can feel that something is a little off, but the delivery makes it hard to name, so she slips into reassuring him instead."
+    },
+    {
+      "snippet_id": "S-062-SN0016",
+      "snippet_text": "I didn’t know if I was supposed to reassure him",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Neediness-high",
+        "Attachment-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Autonomy"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the relational shift in miniature. She’s already scanning for his emotional state and wondering how to respond correctly, which means his feelings are starting to set the terms."
+    },
+    {
+      "snippet_id": "S-062-SN0017",
+      "snippet_text": "he smiled like that was exactly the right answer",
+      "kind_of_signal": [
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Agency",
+        "Worth"
+      ],
+      "possible_trauma": [
+        "Coercive Control"
+      ],
+      "reasoning": "He rewards the response that soothes him, which trains her toward a specific role. It’s subtle, but the smile makes clear that reassurance is the outcome he wanted all along."
+    },
+    {
+      "snippet_id": "S-062-SN0018",
+      "snippet_text": "he does have this way of making everything feel special",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Charm-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Worth",
+        "Connection"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is her positive frame, and it’s not false. The line shows why the dynamic is sticky: he makes ordinary things feel elevated, so his attention starts to feel like a gift she should protect."
+    },
+    {
+      "snippet_id": "S-062-SN0019",
+      "snippet_text": "slightly bigger than it needs to be",
+      "kind_of_signal": [
+        "Internal Red Flag"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Grandiosity-high"
+      ],
+      "unmet_need": [
+        "Reality"
+      ],
+      "possible_trauma": [
+        "Narcissistic Grandiosity"
+      ],
+      "reasoning": "She notices the scale is a little inflated, even if she doesn’t treat that as a problem. That sense of excess is an early signal that he likes the emotional volume turned up around him."
+    },
+    {
+      "snippet_id": "S-062-SN0020",
+      "snippet_text": "intense in a sweet way",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Loaded Language"
+      ],
+      "unes_traits": [
+        "Intensity-high",
+        "Charm-high"
+      ],
+      "unmet_need": [
+        "Reality",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Not Found"
+      ],
+      "reasoning": "This is the narrator’s own softening language. She can feel the intensity, but she translates it into sweetness, which is exactly how the dynamic stays legible as romance instead of pressure."
+    },
+    {
+      "snippet_id": "S-062-SN0021",
+      "snippet_text": "too weird about how quickly he wanted to meet Emily",
+      "kind_of_signal": [
+        "Internal Red Flag",
+        "Behavioral Red Flag"
+      ],
+      "unes_traits": [
+        "Enmeshment-high",
+        "Control-high",
+        "Validation-seeking-high"
+      ],
+      "unmet_need": [
+        "Autonomy",
+        "Safety"
+      ],
+      "possible_trauma": [
+        "Obsessive Attachment / Enmeshment"
+      ],
+      "reasoning": "This is the smallest concern she can comfortably ask about, and that makes it telling. The real issue is not Emily herself, but how quickly he is trying to move into her social circle and make that feel normal."
+    }
+  ]
+}
